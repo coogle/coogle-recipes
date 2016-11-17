@@ -14,3 +14,15 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Auth::routes();
+
+Route::group(['middleware' => 'auth'], function($router) {
+    $router->resource('recipes', 'RecipeController');
+    $router->get('/home', [
+        'as' => 'home',
+        'uses' => 'HomeController@index'
+    ]);
+});
+
+
