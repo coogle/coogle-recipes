@@ -122,7 +122,9 @@ class RecipeController extends Controller
      */
     public function show($id)
     {
-        //
+        $recipe = Recipe::findOrFail($id);
+        
+        return view('recipe.view', compact('recipe'));
     }
 
     /**
@@ -133,7 +135,7 @@ class RecipeController extends Controller
      */
     public function edit($id)
     {
-        //
+        var_dump("edit");exit;
     }
 
     /**

@@ -8,12 +8,12 @@ class Recipe extends \Eloquent
     
     public function ingredients()
     {
-        return $this->hasMany('\App\Model\Ingredient');
+        return $this->hasMany('App\Models\Recipe\Ingredient');
     }
     
     public function cusine()
     {
-        return $this->hasOne('\App\Model\Cusine');
+        return $this->hasOne('\App\Models\Cusine');
     }
     
     public function course()
