@@ -19,7 +19,9 @@ class RecipeController extends Controller
      */
     public function index()
     {
-
+        $recipes = Recipe::orderBy('title')->paginate(15);
+        
+        return view('recipe.list', compact('recipes'));
     }
 
     /**
@@ -32,7 +34,7 @@ class RecipeController extends Controller
         $courses = Course::all();
         $cusines = Cusine::all();
         
-        return view('recipe.form', compact('courses', 'cusines'));
+        return view('recipe.create', compact('courses', 'cusines'));
     }
 
     /**
@@ -52,7 +54,8 @@ class RecipeController extends Controller
             'preptime' => 'sometimes|integer',
             'servings' => 'required|integer',
             'ingredients' => 'required|array',
-            'directions' => 'required|min:5'
+            'directions' => 'required|min:5',
+            'photo' => 'sometimes|image|dimensions:min_width=100,min_height=100,max_width=200,max_height=200,ratio=1'
         ];
         
         $ingredients = $request->input('ingredients');
@@ -81,6 +84,14 @@ class RecipeController extends Controller
         $recipe->info = $request->input('info');
         $recipe->directions = $request->input('directions');
         $recipe->tags = $request->input('tags');
+        
+        if(empty($recipe->cook_mins)) {
+            $recipe->cook_mins = 0;
+        }
+        
+        if(empty($recipe->prep_mins)) {
+            $recipe->prep_mins = 0;
+        }
         
         $recipe->save();
         
@@ -135,7 +146,12 @@ class RecipeController extends Controller
      */
     public function edit($id)
     {
-        var_dump("edit");exit;
+        $courses = Course::pluck('name', 'id');
+        $cusines = Cusine::pluck('name', 'id');
+        $recipe = Recipe::findOrFail($id);
+        
+        return view('recipe.edit', compact('courses', 'cusines', 'recipe'));
+        
     }
 
     /**
@@ -147,7 +163,71 @@ class RecipeController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        $recipe = Recipe::findOrFail($id);
+        
+        $validationRules = [
+            'title' => 'required|max:255',
+            'tags' => 'required|max:255',
+            'course_id' => 'required|exists:courses,id',
+            'cusine_id' => 'required|exists:cusines,id',
+            'cooktime' => 'sometimes|integer',
+            'preptime' => 'sometimes|integer',
+            'servings' => 'required|integer',
+            'ingredients' => 'required|array',
+            'directions' => 'required|min:5'
+        ];
+        
+        $ingredients = $request->input('ingredients');
+        
+        if(is_array($ingredients)) {
+            foreach($ingredients as $key => $val) {
+                $validationRules["ingredients.$key.quantity"] = 'required|fractionVal';
+                $validationRules["ingredients.$key.measurement"] = 'required|in:tsp,tbsp,cup,dash,piece,lbs';
+                $validationRules["ingredients.$key.preparation"] = "sometimes|max:255";
+                $validationRules["ingredients.$key.ingredient"] = "required|max:255";
+            }
+        }
+        
+        $this->validate($request, $validationRules);
+        
+        $recipe->title = $request->input('title');
+        $recipe->photo_url = null;
+        $recipe->course_id = $request->input('course_id');
+        $recipe->favorite = false;
+        $recipe->cusine_id = $request->input('cusine_id');
+        $recipe->cook_mins = $request->input('cooktime');
+        $recipe->prep_mins = $request->input('preptime');
+        $recipe->servings = $request->input('servings');
+        $recipe->info = $request->input('info');
+        $recipe->directions = $request->input('directions');
+        $recipe->tags = $request->input('tags');
+        
+        $recipe->ingredients()->delete();
+        
+        foreach($request->input('ingredients') as $ingredient) {
+            $ingredientObj = new Ingredient();
+            $ingredientObj->recipe_id = $recipe->id;
+            $ingredientObj->quantity = $ingredient['quantity'];
+            $ingredientObj->measurement = $ingredient['measurement'];
+            $ingredientObj->preparation = $ingredient['preparation'];
+            
+            $baseIngredientObj = \App\Models\Ingredient::findByString($ingredient['ingredient']);
+            
+            if(!$baseIngredientObj instanceof \App\Models\Ingredient) {
+                $baseIngredientObj = new \App\Models\Ingredient();
+                $baseIngredientObj->name = $ingredient['ingredient'];
+                $baseIngredientObj->save();
+            }
+            
+            $ingredientObj->ingredient_id = $baseIngredientObj->id;
+            $ingredientObj->save();
+        }
+        
+        $recipe->save();
+        
+        $request->session()->flash('flash.success', "Successfully saved recipe!");
+        
+        return redirect()->route('home');
     }
 
     /**
@@ -156,8 +236,12 @@ class RecipeController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy(Request $request, $id)
     {
-        //
+        $recipe = Recipe::findOrFail($id);
+        $recipe->delete();
+        
+        $request->session()->flash('flash.success', "Recipe Successfully Deleted");
+        return redirect()->route('home');
     }
 }

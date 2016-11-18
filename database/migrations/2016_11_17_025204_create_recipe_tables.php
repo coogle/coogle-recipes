@@ -27,23 +27,23 @@ class CreateRecipeTables extends Migration
 
         Schema::create('ingredients', function(Blueprint $table) {
             $table->increments('id');
-            $table->string('name');
+            $table->string('name')->unique();
             $table->timestamps();
         });
         
         Schema::create('recipes', function(Blueprint $table) {
             $table->increments('id');
-            $table->string('title');
-            $table->string('photo_url');
+            $table->string('title')->index();
+            $table->string('photo_url')->nullable();
             $table->integer('course_id')->unsigned();
-            $table->boolean('favorite');
+            $table->boolean('favorite')->default(false);
             $table->integer("cusine_id")->unsigned();
-            $table->integer('cook_mins');
-            $table->integer('prep_mins');
-            $table->integer('servings');
-            $table->mediumText('info');
+            $table->integer('cook_mins')->nullable();
+            $table->integer('prep_mins')->nullable();
+            $table->integer('servings')->nullable();
+            $table->mediumText('info')->nullable();
             $table->mediumText('directions');
-            $table->text('tags');
+            $table->text('tags')->nullable()->index();
             $table->timestamps();
             
             $table->foreign('course_id')
@@ -62,7 +62,7 @@ class CreateRecipeTables extends Migration
             $table->string('quantity');
             $table->string('measurement');
             $table->integer('ingredient_id')->unsigned();
-            $table->string('preparation');
+            $table->string('preparation')->nullable();
             $table->timestamps();
             
             $table->foreign('recipe_id')

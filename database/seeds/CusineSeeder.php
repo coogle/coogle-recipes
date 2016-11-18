@@ -14,7 +14,11 @@ class CusineSeeder extends Seeder
         'Greek',
         'Mediterranean',
         'Chinese',
-        'French'
+        'German',
+        'Indian',
+        'Korean',
+        'French',
+        'Other'
     ];
     
     /**
@@ -24,7 +28,9 @@ class CusineSeeder extends Seeder
      */
     public function run()
     {
-        //\DB::table('cusines')->truncate();
+        \DB::statement('SET foreign_key_checks=0');
+        \DB::table('cusines')->truncate();
+        \DB::statement('SET foreign_key_checks=1');
         
         foreach($this->_cusines as $cusine) {
             $cusineObj = new Cusine();

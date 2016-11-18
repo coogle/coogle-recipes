@@ -18,11 +18,19 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::group(['middleware' => 'auth'], function($router) {
+    
     $router->resource('recipes', 'RecipeController');
+    
     $router->get('/home', [
         'as' => 'home',
         'uses' => 'HomeController@index'
     ]);
+    
+    $router->get('/search', [
+        'as' => 'search',
+        'uses' => 'SearchController@search'
+    ]);
+    
 });
 
 

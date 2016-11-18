@@ -3,6 +3,7 @@
 @section('stylesheets')
 @parent
 <link rel="stylesheet" href="/bower_components/bootstrap-tagsinput/dist/bootstrap-tagsinput.css"/>
+<link rel="stylesheet" href="/bower_components/bootstrap-markdown/css/bootstrap-markdown.min.css"/>
 <style>
 .container{
     margin-top:20px;
@@ -35,6 +36,7 @@
 @section('javascript')
 @parent
 <script src="/bower_components/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js"></script>
+<script src="/bower_components/bootstrap-markdown/js/bootstrap-markdown.js"></script>
 <script>
 
 $(document).on('click', '#close-preview', function(){ 
@@ -140,7 +142,7 @@ $(function() {
             <div class="panel panel-default">
                 <div class="panel-heading">Create Recipe</div>
                 <div class="panel-body">
-                    <form action="/recipes" id="recipeForm" method="POST">
+                    {!! Form::open(['route' => 'recipes.store','files' => true]) !!}
                         {{ csrf_field() }}
                         <div class="row">
                             <div class="col-md-7">
@@ -208,7 +210,7 @@ $(function() {
                         </div>
                         <div class="form-group">
                             <label for="info">Recipe Info</label>
-                            <textarea rows="5" class="form-control" id="info" name="info"></textarea>
+                            <textarea data-provide="markdown" rows="5" class="form-control" id="info" name="info"></textarea>
                         </div>
                         <div class="panel panel-default">
                             <div class="panel-heading clearfix">
@@ -254,7 +256,7 @@ $(function() {
                         </div>
                         <div class="form-group">
                             <label for="directions">Recipe Directions</label>
-                            <textarea rows="5" class="form-control" id="directions" name="directions"></textarea>
+                            <textarea data-provide="markdown" rows="5" class="form-control" id="directions" name="directions"></textarea>
                         </div>
                         <div class="col-md-4 col-md-offset-4">
                             <button type="submit" class="btn btn-primary btn-block">Save Recipe</button>

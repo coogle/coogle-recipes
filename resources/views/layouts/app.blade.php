@@ -56,7 +56,10 @@
                         <li><a href="{{ url('/login') }}">Login</a></li>
                         <li><a href="{{ url('/register') }}">Register</a></li>
                     @else
-                        <li><a href="{{ url('/recipes/create')}}">Create Recipe</a></li>
+                        <li><a href="{{ route('recipes.index') }}">List Recipes</a></li>
+                        <li><a href="{{ route('recipes.create') }}">Create Recipe</a></li>
+                        
+                        
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
                                 {{ Auth::user()->name }} <span class="caret"></span>
@@ -78,6 +81,16 @@
                         </li>
                     @endif
                 </ul>
+                <div class="col-sm-3 col-md-3 pull-right">
+                    <form class="navbar-form" role="search" action="{{ route('search') }}">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Search" name="q" id="srch-term">
+                            <div class="input-group-btn">
+                                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
             </div>
         </div>
     </nav>
@@ -111,6 +124,85 @@
     @section('javascript')
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="/bower_components/bootbox.js/bootbox.js"></script>
+    <script>
+        /*
+        <a href="posts/2" data-method="delete"> <---- We want to send an HTTP DELETE request
+    
+        - Or, request confirmation in the process -
+    
+        <a href="posts/2" data-method="delete" data-confirm="Are you sure?">
+    
+        (credit: https://gist.githubusercontent.com/JeffreyWay/5112282/raw/454bc5f65a8190818b4d8e4cc7797523fe096546/laravel.js)
+    
+        */
+    
+        (function() {
+    
+          var laravel = {
+            initialize: function() {
+              this.methodLinks = $('a[data-method]');
+    
+              this.registerEvents();
+            },
+    
+            registerEvents: function() {
+              this.methodLinks.on('click', this.handleMethod);
+            },
+    
+            handleMethod: function(e) {
+              var link = $(this);
+              var httpMethod = link.data('method').toUpperCase();
+              var form;
+    
+              // If the data-method attribute is not PUT or DELETE,
+              // then we don't know what to do. Just ignore.
+              if ( $.inArray(httpMethod, ['PUT', 'DELETE']) === - 1 ) {
+                return;
+              }
+    
+              // Allow user to optionally provide data-confirm="Are you sure?"
+              if ( link.data('confirm') ) {
+                if ( ! laravel.verifyConfirm(link) ) {
+                  return false;
+                }
+              }
+    
+              form = laravel.createForm(link);
+              form.submit();
+    
+              e.preventDefault();
+            },
+    
+            verifyConfirm: function(link) {
+              return confirm(link.data('confirm'));
+            },
+    
+            createForm: function(link) {
+              var form = 
+              $('<form>', {
+                'method': 'POST',
+                'action': link.attr('href')
+              });
+    
+              var token =  $('{{ csrf_field() }}');
+    
+              var hiddenInput =
+              $('<input>', {
+                'name': '_method',
+                'type': 'hidden',
+                'value': link.data('method')
+              });
+    
+              return form.append(token, hiddenInput)
+                         .appendTo('body');
+            }
+          };
+    
+          laravel.initialize();
+    
+        })();
+    </script>
     @show
 </body>
 </html>

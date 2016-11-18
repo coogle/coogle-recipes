@@ -14,6 +14,7 @@ class CourseSeeder extends Seeder
         'Brunch',
         'Entree',
         'Desert',
+        'Other'
     ];
     
     /**
@@ -23,7 +24,9 @@ class CourseSeeder extends Seeder
      */
     public function run()
     {
-        //\DB::table('courses')->truncate();
+        \DB::statement('SET foreign_key_checks=0');
+        \DB::table('courses')->truncate();
+        \DB::statement('SET foreign_key_checks=1');
         
         foreach($this->_courses as $course) {
             $courseObj = new Course();

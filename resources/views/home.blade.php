@@ -10,18 +10,26 @@
                 <div class="panel-body">
                     <div class="col-md-12">
                         
-                        @foreach($popularRecipes as $recipe)
+                        @forelse($popularRecipes as $recipe)
                         <div class="media">
                             <a class="media-left waves-light">
-                                <img class="rounded-circle" src="http://placehold.it/100x100" alt="{{ $recipe->title }}">
+                                <img class="rounded-circle" src="http://placehold.it/120x120" width="120" height="120" alt="{{ $recipe->title }}">
                             </a>
                             <div class="media-body">
                                 <h4 class="media-heading"><a href="{{ route('recipes.show', ['id' => $recipe->id]) }}">{{ $recipe->title }}</a></h4>
-                                <p>{{ $recipe->info }}</p>
+                                <p>{{ strip_tags(Markdown::convertToHtml($recipe->info)) }}</p>
                                 <p class="pull-right"><a href="{{ route('recipes.show', ['id' => $recipe->id]) }}" class="btn btn-sm btn-primary">view recipe <span class="glyphicon glyphicon-chevron-right"></span></a></p>
                             </div>
                         </div>
-                        @endforeach
+                        @empty
+                        <div class="col-md-12 text-center">
+                            No Recipes Yet, better get going!
+                            
+                            <div class="col-md-6 col-md-offset-3">
+                                <a href="{{ route('recipes.create') }}" class="btn btn-primary btn-block">Create Recipe</a>
+                            </div>
+                        </div>
+                        @endforelse
                         
                     </div>
                 </div>
