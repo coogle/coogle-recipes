@@ -142,13 +142,13 @@ $(function() {
             <div class="panel panel-default">
                 <div class="panel-heading">Create Recipe</div>
                 <div class="panel-body">
-                    {!! Form::open(['route' => 'recipes.store','files' => true]) !!}
+                    {!! Form::open(['route' => 'recipes.store','files' => true, 'id' => 'recipeForm']) !!}
                         {{ csrf_field() }}
                         <div class="row">
                             <div class="col-md-7">
                                 <div class="form-group">
                                     <label for="title">Recipe Title</label>
-                                    <input type="text" name="title" class="form-control" placeholder="Enter Recipe Title" id="title">
+                                    <input type="text" name="title" value="{{ $request->old('title') }}" class="form-control" placeholder="Enter Recipe Title" id="title">
                                 </div>
                             </div>
                             <div class="col-md-5">
@@ -172,45 +172,37 @@ $(function() {
                         </div>
                         <div class="form-group">
                             <label for="tags">Tags</label>
-                            <input type="text" name="tags" id="tags" data-role="tagsinput" class="form-control"/>
+                            <input type="text" name="tags" id="tags" value="{{ $request->old('tags') }}" data-role="tagsinput" class="form-control"/>
                         </div>
                         <div class="form-group row">
                             <label for="course" class="col-xs-1 col-form-label">Course</label>
                             <div class="col-xs-5">
-                                <select id="course" name="course_id" class="form-control">
-                                    @foreach($courses as $course)
-                                    <option value="{{ $course->id }}">{{ $course->name }}</option>
-                                    @endforeach
-                                </select>
+                                {!! Form::select('course_id', $courses, $request->old('course_id'), ['class' => 'form-control', 'id' => 'course']) !!}
                             </div>
                             <label for="cusine" class="col-xs-1 col-form-label">Cusine</label>
                             <div class="col-xs-5">
-                                <select id="cusine" name="cusine_id" class="form-control">
-                                    @foreach($cusines as $cusine)
-                                    <option value="{{ $cusine->id }}">{{ $cusine->name }}</option>
-                                    @endforeach
-                                </select>
+                                {!! Form::select('cusine_id', $cusines, $request->old('cusine_id'), ['class' => 'form-control', 'id' => 'cusine']) !!}
                             </div>
                         </div>
                         <div class="form-group row">
                             <label for="cooktime" class="col-xs-1 col-form-label">Cook Time</label>
                             <div class="col-xs-5">
-                                <input type="text" name="cooktime" id="cooktime" class="form-control"/>
+                                <input type="text" value="{{ $request->old('cooktime') }}" name="cooktime" id="cooktime" class="form-control"/>
                             </div>
                             <label for="preptime" class="col-xs-1 col-form-label">Prep Time</label>
                             <div class="col-xs-5">
-                                <input type="text" name="preptime" id="preptime" class="form-control"/>
+                                <input type="text" value="{{ $request->old('preptime') }}" name="preptime" id="preptime" class="form-control"/>
                             </div>
                         </div>
                         <div class="form-group row">
                             <label for="servings" class="col-xs-1 col-form-label">Servings</label>
                             <div class="col-xs-5">
-                                <input type="text" name="servings" id="servings" class="form-control"/>
+                                <input type="text" value="{{ $request->old('servings') }}" name="servings" id="servings" class="form-control"/>
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="info">Recipe Info</label>
-                            <textarea data-provide="markdown" rows="5" class="form-control" id="info" name="info"></textarea>
+                            <textarea data-provide="markdown" rows="5" class="form-control" id="info" name="info">{{ $request->old('info') }}</textarea>
                         </div>
                         <div class="panel panel-default">
                             <div class="panel-heading clearfix">
@@ -227,7 +219,38 @@ $(function() {
                                     <div class="col-xs-3">Preparation</div>
                                     <div class="col-xs-2">Ingredient</div>
                                 </div>
-                                <div id="ingredientContainer"></div>
+                                <div id="ingredientContainer">
+                                @if(is_array($request->old('ingredients')))
+                                    @foreach($request->old('ingredients') as $ingredient)
+                                        <div class="row ingredientItem">
+                                            <div class="form-group row">
+                                                <div class="col-xs-2 col-xs-offset-1">
+                                                    <input type="text" value="{{ $ingredient['quantity'] }}" class="form-control quantityInput">
+                                                </div>
+                                                <div class="col-xs-3">
+                                                    <select class="form-control measurementInput">
+                                                        <option value="tsp" {{ $ingredient['measurement'] == 'tsp' ? 'selected' : '' }} >tsp</option>
+                                                        <option value="tbsp" {{ $ingredient['measurement'] == 'tbsp' ? 'selected' : '' }} >tbsp</option>
+                                                        <option value="cup" {{ $ingredient['measurement'] == 'cup' ? 'selected' : '' }} >cup</option>
+                                                        <option value="dash" {{ $ingredient['measurement'] == 'dash' ? 'selected' : '' }} >dash</option>
+                                                        <option value="lbs" {{ $ingredient['measurement'] == 'lbs' ? 'selected' : '' }} >lbs</option>
+                                                        <option value="piece" {{ $ingredient['measurement'] == 'piece' ? 'selected' : '' }} >piece</option>
+                                                        <option value="oz" {{ $ingredient['measurement'] == 'oz' ? 'selected' : '' }} >oz</option>
+                                                        <option value="quart" {{ $ingredient['measurement'] == 'quart' ? 'selected' : '' }} >quart</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-xs-3">
+                                                    <input type="text" value="{{ $ingredient['preparation'] }}" class="form-control preparationInput"/>
+                                                </div>
+                                                <div class="col-xs-2">
+                                                    <input type="text" class="form-control ingredientInput" value="{{ $ingredient['ingredient'] }}"/>
+                                                </div>
+                                            </div>
+                                                <div class="col-xs-12"><sup class="pull-right"><a class="deleteIngredient" href="#"><span class="glyphicon glyphicon-trash"></span> delete</a></sup></div>
+                                        </div>
+                                    @endforeach
+                                @endif
+                                </div>
                                 <div class="row" id="ingredientLineTemplate" style="display:none">
                                     <div class="form-group row">
                                         <div class="col-xs-2 col-xs-offset-1">
@@ -241,6 +264,8 @@ $(function() {
                                                 <option value="dash">dash</option>
                                                 <option value="lbs">lbs</option>
                                                 <option value="piece">piece</option>
+                                                <option value="oz">oz</option>
+                                                <option value="quart">quart</option>
                                             </select>
                                         </div>
                                         <div class="col-xs-3">
@@ -256,12 +281,12 @@ $(function() {
                         </div>
                         <div class="form-group">
                             <label for="directions">Recipe Directions</label>
-                            <textarea data-provide="markdown" rows="5" class="form-control" id="directions" name="directions"></textarea>
+                            <textarea data-provide="markdown" rows="5" class="form-control" id="directions" name="directions">{{ $request->old('directions') }}</textarea>
                         </div>
                         <div class="col-md-4 col-md-offset-4">
                             <button type="submit" class="btn btn-primary btn-block">Save Recipe</button>
                         </div>
-                    </form>
+                    {!! Form::close() !!}
                 </div>
             </div>
         </div>

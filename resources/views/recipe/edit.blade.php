@@ -142,14 +142,14 @@ $(function() {
             <div class="panel panel-default">
                 <div class="panel-heading">Editing Recipe: {{ $recipe->title }}</div>
                 <div class="panel-body">
-                    <form action="/recipes/{{ $recipe->id }}" id="recipeForm" method="POST">
+                    {!! Form::open(['route' => 'recipes.update','files' => true, 'id' => 'recipeForm']) !!}
                         {{ csrf_field() }}
                         {{ method_field('PUT') }}
                         <div class="row">
                             <div class="col-md-7">
                                 <div class="form-group">
                                     <label for="title">Recipe Title</label>
-                                    <input type="text" name="title" value="{{ $recipe->title }}" class="form-control" placeholder="Enter Recipe Title" id="title">
+                                    <input type="text" name="title" value="{{ $request->old('title', $recipe->title) }}" class="form-control" placeholder="Enter Recipe Title" id="title">
                                 </div>
                             </div>
                             <div class="col-md-5">
@@ -173,37 +173,37 @@ $(function() {
                         </div>
                         <div class="form-group">
                             <label for="tags">Tags</label>
-                            <input type="text" value="{{ $recipe->tags }}" name="tags" id="tags" data-role="tagsinput" class="form-control"/>
+                            <input type="text" value="{{ $request->old('tags', $recipe->tags) }}" name="tags" id="tags" data-role="tagsinput" class="form-control"/>
                         </div>
                         <div class="form-group row">
                             <label for="course" class="col-xs-1 col-form-label">Course</label>
                             <div class="col-xs-5">
-                                {!! Form::select('course_id', $courses, $recipe->course_id, ['class' => 'form-control', 'id' => 'course']) !!}
+                                {!! Form::select('course_id', $courses, $request->old('course_id', $recipe->course_id), ['class' => 'form-control', 'id' => 'course']) !!}
                             </div>
                             <label for="cusine" class="col-xs-1 col-form-label">Cusine</label>
                             <div class="col-xs-5">
-                                {!! Form::select('cusine_id', $cusines, $recipe->cusine_id, ['class' => 'form-control', 'id' => 'cusine']) !!}
+                                {!! Form::select('cusine_id', $cusines, $request->old('cusine_id', $recipe->cusine_id), ['class' => 'form-control', 'id' => 'cusine']) !!}
                             </div>
                         </div>
                         <div class="form-group row">
                             <label for="cooktime" class="col-xs-1 col-form-label">Cook Time</label>
                             <div class="col-xs-5">
-                                <input type="text" name="cooktime" id="cooktime" value="{{ $recipe->cook_mins }}" class="form-control"/>
+                                <input type="text" name="cooktime" id="cooktime" value="{{ $request->old('cooktime', $recipe->cook_mins) }}" class="form-control"/>
                             </div>
                             <label for="preptime" class="col-xs-1 col-form-label">Prep Time</label>
                             <div class="col-xs-5">
-                                <input type="text" name="preptime" id="preptime" class="form-control" value="{{ $recipe->prep_mins }}"/>
+                                <input type="text" name="preptime" id="preptime" class="form-control" value="{{ $request->old('preptime', $recipe->prep_mins) }}"/>
                             </div>
                         </div>
                         <div class="form-group row">
                             <label for="servings" class="col-xs-1 col-form-label">Servings</label>
                             <div class="col-xs-5">
-                                <input type="text" name="servings" id="servings" value="{{ $recipe->servings }}" class="form-control"/>
+                                <input type="text" name="servings" id="servings" value="{{ $request->old('servings', $recipe->servings) }}" class="form-control"/>
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="info">Recipe Info</label>
-                            <textarea data-provide="markdown" rows="5" class="form-control" id="info" name="info">{{ $recipe->info }}</textarea>
+                            <textarea data-provide="markdown" rows="5" class="form-control" id="info" name="info">{{ $request->old('info', $recipe->info) }}</textarea>
                         </div>
                         <div class="panel panel-default">
                             <div class="panel-heading clearfix">
@@ -235,6 +235,8 @@ $(function() {
                                                         <option value="dash" {{ $ingredient->measurement == 'dash' ? 'selected' : '' }} >dash</option>
                                                         <option value="lbs" {{ $ingredient->measurement == 'lbs' ? 'selected' : '' }} >lbs</option>
                                                         <option value="piece" {{ $ingredient->measurement == 'piece' ? 'selected' : '' }} >piece</option>
+                                                        <option value="oz" {{ $ingredient->measurement == 'oz' ? 'selected' : '' }} >oz</option>
+                                                        <option value="quart" {{ $ingredient->measurement == 'quart' ? 'selected' : '' }} >quart</option>
                                                     </select>
                                                 </div>
                                                 <div class="col-xs-3">
@@ -261,6 +263,8 @@ $(function() {
                                                 <option value="dash">dash</option>
                                                 <option value="lbs">lbs</option>
                                                 <option value="piece">piece</option>
+                                                <option value="oz">oz</option>
+                                                <option value="quart">quart</option>
                                             </select>
                                         </div>
                                         <div class="col-xs-3">
@@ -276,12 +280,12 @@ $(function() {
                         </div>
                         <div class="form-group">
                             <label for="directions">Recipe Directions</label>
-                            <textarea data-provide="markdown" rows="5" class="form-control" id="directions" name="directions">{{ $recipe->directions }}</textarea>
+                            <textarea data-provide="markdown" rows="5" class="form-control" id="directions" name="directions">{{ $request->old('directions', $recipe->directions) }}</textarea>
                         </div>
                         <div class="col-md-4 col-md-offset-4">
                             <button type="submit" class="btn btn-primary btn-block">Save Recipe</button>
                         </div>
-                    </form>
+                    {!! Form::close() !!}
                 </div>
             </div>
         </div>

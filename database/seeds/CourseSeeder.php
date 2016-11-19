@@ -14,7 +14,8 @@ class CourseSeeder extends Seeder
         'Brunch',
         'Entree',
         'Desert',
-        'Other'
+        'Other',
+        'Side Dish'
     ];
     
     /**

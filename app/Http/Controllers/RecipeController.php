@@ -29,12 +29,12 @@ class RecipeController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
+    public function create(Request $request)
     {
-        $courses = Course::all();
-        $cusines = Cusine::all();
+        $courses = Course::pluck('name', 'id');
+        $cusines = Cusine::pluck('name', 'id');
         
-        return view('recipe.create', compact('courses', 'cusines'));
+        return view('recipe.create', compact('courses', 'cusines', 'request'));
     }
 
     /**
@@ -47,7 +47,7 @@ class RecipeController extends Controller
     {
         $validationRules = [
             'title' => 'required|unique:recipes|max:255',
-            'tags' => 'required|max:255',
+            'tags' => 'sometimes|max:255',
             'course_id' => 'required|exists:courses,id',
             'cusine_id' => 'required|exists:cusines,id',
             'cooktime' => 'sometimes|integer',
@@ -59,7 +59,7 @@ class RecipeController extends Controller
         ];
         
         $ingredients = $request->input('ingredients');
-        
+
         if(is_array($ingredients)) {
             foreach($ingredients as $key => $val) {
                 $validationRules["ingredients.$key.quantity"] = 'required|fractionVal';
@@ -102,13 +102,9 @@ class RecipeController extends Controller
             $ingredientObj->measurement = $ingredient['measurement'];
             $ingredientObj->preparation = $ingredient['preparation'];
             
-            if(ctype_digit($ingredient['ingredient'])) {
-                $baseIngredientObj = \App\Models\Ingredient::find($ingredient['ingredient']);
-                
-                if(!$baseIngredientObj instanceof \App\Models\Ingredient) {
-                    continue;
-                }
-            } else {
+            $baseIngredientObj = \App\Models\Ingredient::findByString($ingredient['ingredient']);
+            
+            if(!$baseIngredientObj instanceof \App\Models\Ingredient) {
                 $baseIngredientObj = new \App\Models\Ingredient();
                 $baseIngredientObj->name = $ingredient['ingredient'];
                 $baseIngredientObj->save();
@@ -134,7 +130,7 @@ class RecipeController extends Controller
     public function show($id)
     {
         $recipe = Recipe::findOrFail($id);
-        
+        $recipe->increment('views');
         return view('recipe.view', compact('recipe'));
     }
 
@@ -144,13 +140,13 @@ class RecipeController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit(Request $request, $id)
     {
         $courses = Course::pluck('name', 'id');
         $cusines = Cusine::pluck('name', 'id');
         $recipe = Recipe::findOrFail($id);
         
-        return view('recipe.edit', compact('courses', 'cusines', 'recipe'));
+        return view('recipe.edit', compact('courses', 'cusines', 'recipe', 'request'));
         
     }
 
@@ -165,9 +161,11 @@ class RecipeController extends Controller
     {
         $recipe = Recipe::findOrFail($id);
         
+        
+        
         $validationRules = [
             'title' => 'required|max:255',
-            'tags' => 'required|max:255',
+            'tags' => 'sometimes|max:255',
             'course_id' => 'required|exists:courses,id',
             'cusine_id' => 'required|exists:cusines,id',
             'cooktime' => 'sometimes|integer',
@@ -212,6 +210,7 @@ class RecipeController extends Controller
             $ingredientObj->preparation = $ingredient['preparation'];
             
             $baseIngredientObj = \App\Models\Ingredient::findByString($ingredient['ingredient']);
+            
             
             if(!$baseIngredientObj instanceof \App\Models\Ingredient) {
                 $baseIngredientObj = new \App\Models\Ingredient();
