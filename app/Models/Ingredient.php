@@ -14,4 +14,9 @@ class Ingredient extends \Eloquent
         
         return static::where('name', 'LIKE', "%$str%")->limit(1)->first();
     }
+    
+    static public function searchByString($str)
+    {
+        return static::where('name', 'LIKE', "%$str%")->limit(20)->get();
+    }
 }

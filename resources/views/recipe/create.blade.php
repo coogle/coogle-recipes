@@ -4,6 +4,7 @@
 @parent
 <link rel="stylesheet" href="/bower_components/bootstrap-tagsinput/dist/bootstrap-tagsinput.css"/>
 <link rel="stylesheet" href="/bower_components/bootstrap-markdown/css/bootstrap-markdown.min.css"/>
+<link rel="stylesheet" href="/css/typeaheadjs.css"/>
 <style>
 .container{
     margin-top:20px;
@@ -37,6 +38,7 @@
 @parent
 <script src="/bower_components/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js"></script>
 <script src="/bower_components/bootstrap-markdown/js/bootstrap-markdown.js"></script>
+<script src="/bower_components/typeahead.js/dist/typeahead.bundle.min.js"></script>
 <script>
 
 $(document).on('click', '#close-preview', function(){ 
@@ -57,11 +59,15 @@ $('#addIngredientBtn').on('click', function(e) {
 	
 	var template = $('#ingredientLineTemplate').clone();
 
+	template.find('.ingredientInput').addClass('typeahead');
+	
 	template.attr('id', '')
 			.addClass('ingredientItem')
 			.show();
 
 	$('#ingredientContainer').append(template);
+
+	typeaheadInitialize();
 });
 
 $('#recipeForm').on('submit', function(e) {
@@ -123,6 +129,27 @@ $(function() {
         reader.readAsDataURL(file);
     });  
 });
+
+function typeaheadInitialize() {
+
+	$('.typeahead').typeahead('destroy');
+	
+	var ingredientsBloodhound = new Bloodhound({
+		datumTokenizer : Bloodhound.tokenizers.obj.whitespace('value'),
+		queryTokenizer : Bloodhound.tokenizers.whitespace,
+		remote : {
+			url : '/api/ingredients/%QUERY',
+			wildcard: '%QUERY'
+		}
+	});
+
+	$('.typeahead').typeahead(null, {
+		display : 'name',
+		minLength: 3,
+		source : ingredientsBloodhound
+	});
+
+}
 </script>
 @stop
 
@@ -243,7 +270,7 @@ $(function() {
                                                     <input type="text" value="{{ $ingredient['preparation'] }}" class="form-control preparationInput"/>
                                                 </div>
                                                 <div class="col-xs-2">
-                                                    <input type="text" class="form-control ingredientInput" value="{{ $ingredient['ingredient'] }}"/>
+                                                    <input type="text" class="form-control ingredientInput typeahead" value="{{ $ingredient['ingredient'] }}"/>
                                                 </div>
                                             </div>
                                                 <div class="col-xs-12"><sup class="pull-right"><a class="deleteIngredient" href="#"><span class="glyphicon glyphicon-trash"></span> delete</a></sup></div>
