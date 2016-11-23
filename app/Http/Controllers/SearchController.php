@@ -25,7 +25,7 @@ class SearchController extends Controller
                          ->orWhere('tags', 'LIKE',"%$q%")
                          ->paginate(15);
         
-        return view('recipe.list', compact('recipes'));
+        return view('recipe.list', compact('recipes', 'q'));
         
     }
 }

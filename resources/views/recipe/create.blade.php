@@ -264,6 +264,7 @@ function typeaheadInitialize() {
                                                         <option value="piece" {{ $ingredient['measurement'] == 'piece' ? 'selected' : '' }} >piece</option>
                                                         <option value="oz" {{ $ingredient['measurement'] == 'oz' ? 'selected' : '' }} >oz</option>
                                                         <option value="quart" {{ $ingredient['measurement'] == 'quart' ? 'selected' : '' }} >quart</option>
+                                                        <option value="gallon" {{ $ingredient['measurement'] == 'gallon' ? 'selected' : '' }} >gallon</option>
                                                     </select>
                                                 </div>
                                                 <div class="col-xs-3">

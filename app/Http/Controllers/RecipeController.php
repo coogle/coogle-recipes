@@ -65,7 +65,7 @@ class RecipeController extends Controller
         if(is_array($ingredients)) {
             foreach($ingredients as $key => $val) {
                 $validationRules["ingredients.$key.quantity"] = 'required|fractionVal';
-                $validationRules["ingredients.$key.measurement"] = 'required|in:tsp,tbsp,oz,cup,dash,piece,lbs';
+                $validationRules["ingredients.$key.measurement"] = 'required|in:tsp,tbsp,oz,cup,dash,piece,lbs,quart,gallon';
                 $validationRules["ingredients.$key.preparation"] = "sometimes|max:255";
                 $validationRules["ingredients.$key.ingredient"] = "required|max:255";
             }
@@ -182,7 +182,7 @@ class RecipeController extends Controller
         if(is_array($ingredients)) {
             foreach($ingredients as $key => $val) {
                 $validationRules["ingredients.$key.quantity"] = 'required|fractionVal';
-                $validationRules["ingredients.$key.measurement"] = 'required|in:tsp,tbsp,cup,dash,piece,oz,lbs';
+                $validationRules["ingredients.$key.measurement"] = 'required|in:tsp,tbsp,cup,dash,piece,oz,lbs,quart,gallon';
                 $validationRules["ingredients.$key.preparation"] = "sometimes|max:255";
                 $validationRules["ingredients.$key.ingredient"] = "required|max:255";
             }

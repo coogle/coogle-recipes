@@ -26,7 +26,11 @@
                         </div>
                         @endforelse
                     </div>
-                    {{ $recipes->links() }}
+                    @if(isset($q))
+                        {{ $recipes->appends(['q' => $q])->links() }}
+                    @else
+                        {{ $recipes->links() }}
+                    @endif
                 </div>
             </div>
         </div>
