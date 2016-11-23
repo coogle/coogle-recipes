@@ -16,7 +16,8 @@
         "phpunit/phpunit": "~5.0",
         "symfony/css-selector": "3.1.*",
         "symfony/dom-crawler": "3.1.*",
-        "coogle/recipe-parser": "dev-master"
+        "coogle/recipe-parser": "dev-master",
+        "nao-pon/flysystem-google-drive" : "~1.1"
     },
     "autoload": {
         "classmap": [

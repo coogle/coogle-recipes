@@ -63,11 +63,16 @@ class Exporter
         return $this;
     }
     
-    public function toRecipeML(\XMLWriter $writer = null)
+    public function toRecipeML(\XMLWriter $writer = null, $exportFile = null)
     {
         if(is_null($writer)) {
             $writer = new \XMLWriter();
-            $writer->openMemory();
+            if(is_null($exportFile)) {
+                $writer->openMemory();
+            } else {
+                $writer->openUri($exportFile);
+            }
+            
             $writer->setIndent(true);
             $writer->startDocument('1.0', 'UTF-8');
             $writer->writeDTD('recipeml', '-//FormatData//DTD RecipeML 0.5//EN', 'http://www.formatdata.com/recipeml/recipeml.dtd');
@@ -104,6 +109,7 @@ class Exporter
         
         $writer->endElement();
         $writer->endElement();
+        $writer->flush();
         
         return $writer;
     }

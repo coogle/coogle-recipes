@@ -28,7 +28,7 @@ return [
     |
     */
 
-    'cloud' => 's3',
+    'cloud' => 'googledrive',
 
     /*
     |--------------------------------------------------------------------------
@@ -61,7 +61,10 @@ return [
             'region' => 'your-region',
             'bucket' => 'your-bucket',
         ],
-
+        'googledrive' => [
+            'account' => env("GOOGLE_DRIVE_ACCOUNT"),
+            'folder_id' => 'root'
+        ]
     ],
 
 ];

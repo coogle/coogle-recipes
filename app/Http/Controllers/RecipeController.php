@@ -248,38 +248,19 @@ class RecipeController extends Controller
     
     public function export()
     {
-        $recipes = Recipe::all();
-        
-        $recipeExporter = new Exporter();
-        
-        $writer = null;
-        
-        foreach($recipes as $recipe) {
-                
-            $recipeExporter->setTitle($recipe->title);
-            
-            foreach($recipe->ingredients as $ingredient) {
-                $recipeExporter->addIngredient($ingredient->quantity, $ingredient->measurement, $ingredient->name);
-            }
-            
-            foreach(explode("\n", $recipe->directions) as $direction) {
-                $recipeExporter->addDirection(trim($direction));
-            }
-            
-            $writer = $recipeExporter->toRecipeML($writer);
-            $recipeExporter->reset();
-        }
-        
-        $writer->endElement();
-        $writer->endDocument();
-        
         $exportFileName = 'cooglerecipe-export-' . Carbon::now()->format('mmddyy') . '-' . uniqid() . '.xml';
         
-        return response($writer->outputMemory(true))
-                ->header('Content-Type', 'text/xml')
-                ->header('Cache-Control', 'public')
-                ->header('Content-Description', 'CoogleRecipe Recipe Export')
-                ->header('Content-Disposition', "attachment; filename=$exportFileName")
-                ->header('Content-Transfer-Encoding', 'binary');
+        $headers = [
+            'Content-Type' => 'text/xml',
+            'Cache-Control' => 'public',
+            'Content-Description' => 'CoogleRecipe Recipe Export',
+            'Content-Disposition' => "attachment; filename=$exportFileName",
+            'Content-Transfer-Encoding' => 'binary'
+        ];
+        
+        return response()->stream(function() {
+            Recipe::exportAll('php://output');
+        }, 200, $headers);
+        
     }
 }

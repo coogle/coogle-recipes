@@ -60,6 +60,14 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        
+        $this->app->singleton(\Google_Client::class, function($app) {
+            
+            $googleClient = new \Google_Client();
+            $googleClient->setAuthConfig(config('services.google.service_account'));
+            $googleClient->useApplicationDefaultCredentials();
+            
+            return $googleClient;
+        }); 
     }
 }
