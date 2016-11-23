@@ -58,7 +58,6 @@
                     @else
                         <li><a href="{{ route('recipes.index') }}">List Recipes</a></li>
                         <li><a href="{{ route('recipes.create') }}">Create Recipe</a></li>
-                        <li><a href="{{ route('recipes.export') }}">Export Recipes</a></li>
                         
                         
                         <li class="dropdown">
@@ -78,6 +77,8 @@
                                         {{ csrf_field() }}
                                     </form>
                                 </li>
+                                <li><a href="{{ route('recipes.export') }}">Export Recipes</a></li>
+                                <li><a href="{{ route('recipes.import.show') }}">Import Recipes</a></li>
                             </ul>
                         </li>
                     @endif

@@ -36,6 +36,16 @@ Route::group(['middleware' => 'auth'], function($router) {
         'uses' => 'RecipeController@export'
     ]);
     
+    $router->get('/import', [
+        'as' => 'recipes.import.show',
+        'uses' => 'RecipeController@importShow'
+    ]);
+    
+    $router->post('/import', [
+        'as' => 'recipes.import',
+        'uses' => 'RecipeController@import'
+    ]);
+    
 });
 
 

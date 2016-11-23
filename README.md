@@ -24,6 +24,8 @@ Features thus far, or at least last time I updated this README:
 - Markdown used for directions / recipe info
 - Tags and some basic categorizations
 - List/Search recipes by title or tag
+- Export Recipes in [RecipeML](http://www.formatdata.com/recipeml/) format
+- An API to fetch recipes 
 
 Things I'm getting around to:
 

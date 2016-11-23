@@ -15,6 +15,16 @@ use Illuminate\Http\Request;
 
 Route::resource('ingredients', '\App\Http\Controllers\Api\IngredientsController');
 
+Route::get('recipes/search', [
+    'as' => 'recipes.search',
+    'uses' => '\App\Http\Controllers\Api\RecipeController@search'
+]);
+
+Route::resource('recipes', '\App\Http\Controllers\Api\RecipeController', [
+    'only' => ['index', 'show']
+]);
+
+
 Route::get('/user', function (Request $request) {
     return $request->user();
 })->middleware('auth:api');
