@@ -9,6 +9,8 @@ use App\Models\Recipe;
 use App\Models\Course;
 use App\Models\Cusine;
 use App\Models\Recipe\Ingredient;
+use App\Recipe\Exporter;
+use Carbon\Carbon;
 
 class RecipeController extends Controller
 {
@@ -63,7 +65,7 @@ class RecipeController extends Controller
         if(is_array($ingredients)) {
             foreach($ingredients as $key => $val) {
                 $validationRules["ingredients.$key.quantity"] = 'required|fractionVal';
-                $validationRules["ingredients.$key.measurement"] = 'required|in:tsp,tbsp,cup,dash,piece,lbs';
+                $validationRules["ingredients.$key.measurement"] = 'required|in:tsp,tbsp,oz,cup,dash,piece,lbs';
                 $validationRules["ingredients.$key.preparation"] = "sometimes|max:255";
                 $validationRules["ingredients.$key.ingredient"] = "required|max:255";
             }
@@ -180,7 +182,7 @@ class RecipeController extends Controller
         if(is_array($ingredients)) {
             foreach($ingredients as $key => $val) {
                 $validationRules["ingredients.$key.quantity"] = 'required|fractionVal';
-                $validationRules["ingredients.$key.measurement"] = 'required|in:tsp,tbsp,cup,dash,piece,lbs';
+                $validationRules["ingredients.$key.measurement"] = 'required|in:tsp,tbsp,cup,dash,piece,oz,lbs';
                 $validationRules["ingredients.$key.preparation"] = "sometimes|max:255";
                 $validationRules["ingredients.$key.ingredient"] = "required|max:255";
             }
@@ -242,5 +244,42 @@ class RecipeController extends Controller
         
         $request->session()->flash('flash.success', "Recipe Successfully Deleted");
         return redirect()->route('home');
+    }
+    
+    public function export()
+    {
+        $recipes = Recipe::all();
+        
+        $recipeExporter = new Exporter();
+        
+        $writer = null;
+        
+        foreach($recipes as $recipe) {
+                
+            $recipeExporter->setTitle($recipe->title);
+            
+            foreach($recipe->ingredients as $ingredient) {
+                $recipeExporter->addIngredient($ingredient->quantity, $ingredient->measurement, $ingredient->name);
+            }
+            
+            foreach(explode("\n", $recipe->directions) as $direction) {
+                $recipeExporter->addDirection(trim($direction));
+            }
+            
+            $writer = $recipeExporter->toRecipeML($writer);
+            $recipeExporter->reset();
+        }
+        
+        $writer->endElement();
+        $writer->endDocument();
+        
+        $exportFileName = 'cooglerecipe-export-' . Carbon::now()->format('mmddyy') . '-' . uniqid() . '.xml';
+        
+        return response($writer->outputMemory(true))
+                ->header('Content-Type', 'text/xml')
+                ->header('Cache-Control', 'public')
+                ->header('Content-Description', 'CoogleRecipe Recipe Export')
+                ->header('Content-Disposition', "attachment; filename=$exportFileName")
+                ->header('Content-Transfer-Encoding', 'binary');
     }
 }

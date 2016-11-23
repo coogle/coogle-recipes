@@ -15,4 +15,9 @@ class Ingredient extends \Eloquent
     {
         return $this->belongsTo('\App\Models\Ingredient');
     }
+    
+    public function getNameAttribute()
+    {
+        return $this->ingredient->name;
+    }
 }

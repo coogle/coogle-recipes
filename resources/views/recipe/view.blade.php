@@ -64,7 +64,9 @@
                                 @endforeach
                             </div>
                             <h2 style="margin-top:0px">Instructions</h2>
+                            <div class="col-md-7">
                             <p>{!! Markdown::convertToHtml($recipe->directions) !!}</p>
+                            </div>
                         </div>
                     </div>
                 </div>

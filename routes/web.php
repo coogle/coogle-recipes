@@ -31,6 +31,11 @@ Route::group(['middleware' => 'auth'], function($router) {
         'uses' => 'SearchController@search'
     ]);
     
+    $router->get('/export', [
+        'as' => 'recipes.export',
+        'uses' => 'RecipeController@export'
+    ]);
+    
 });
 
 
