@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Dogs</title>
+      <categories>
+        <cat>Peanut butt</cat>
+        <cat>Kid food</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Hot dog buns</item></ing></ingredients>
+    <directions>
+      <step>  Mix honey with peanut butter. Spread peanut butter mixture on each bun.
+  Peel bananas; brush with lemon juice. Divide in half. Place banana half in
+  each bun.
+  Posted to recipelu-digest by "Diane Geary." &lt;diane@keyway.net&gt; on Feb 2,
+  1998
+ 
+</step></directions></recipe></recipeml>

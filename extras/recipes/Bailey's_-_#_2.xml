@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bailey's - # 2</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned milk or "Eagle Brand"</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Coconut extract</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chocolate syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>13</qty>
+          <unit>ounces</unit></amt>
+        <item>Scotch whisky</item></ing></ingredients>
+    <directions>
+      <step>  Method: Combine all ingredients in a blender for 1 minute. Let stand
+  overnight [refrigerated]. Bottle the next day. No waiting time. From Bobbi
+  Zee. Canned milk is simply evaporated milk; Eagle brand is very much
+  sweetened - different products. This calls for Scotch whisky, not Irish
+  whiskey. Yes, they are spelled differently and, yes, they taste different.
+  
+  Posted to FOODWINE Digest 09 Dec 96
+  
+  From:    Bob Pastorio &lt;pastorio@RICA.NET&gt;
+  
+  Date:    Mon, 9 Dec 1996 18:56:25 -0800
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Pork</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Boneless lean pork; cut in 2" by 6" strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Hoisin sauce; or plum sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White wine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Grated orange zest</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sesame paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Minced ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>5 spice powder</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>drops</unit></amt>
+        <item>Red food coloring</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients, mix well, cover and chill for 4-24 hours. Remove
+  pork to a rack in a roasting pan. Bake at 350 degrees for 15 minutes. Turn
+  over and baste with remainder of marinade. Bake another 20 minutes or until
+  pork is done
+  
+  Posted to recipelu-digest Volume 01 Number 256 by MickieX@aol.com on Nov
+  14, 1997
+ 
+</step></directions></recipe></recipeml>

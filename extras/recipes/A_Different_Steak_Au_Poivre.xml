@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Different Steak Au Poivre</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Beef</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BARB DAY</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Top sirloin steak; cut 1" thick, boneless</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Black peppercorns; crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; or margarine; divided</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Shallots; or onion, minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Hot pepper sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Gin</item></ing></ing-div></ingredients>
+    <directions>
+      <step>    Preparation time: 20 minutes
+    Cut steak into 4 equal portions, and press the peppercorns evenly into
+  both sides.  Heat 1 1/2 tb. butter in a large skillet over medium heat
+  until bubbly. Cook steaks 10 to 12 minutes for rare (140 degrees) or to
+  desired doneness, turning once.  Remove to a warm platter.
+    Add the shallots to the skillet; cook 2 minutes, stirring frequently.
+  Stir in the pepper sauce.  Add the gin; carefully ignite with a match. When
+  flames die out, remove from the heat, swirl in remaining butter until
+  melted and pour the sauce over the steaks.
+    Serving suggestions:  Steamed fresh baby carrots and sugar snap peas. (If
+  Densie is coming to dinner, skip the peas!)
+  
+    Source: Beef Industry Council
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

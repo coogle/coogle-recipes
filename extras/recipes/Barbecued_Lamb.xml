@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Lamb</title>
+      <categories>
+        <cat>Lamb</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean lamb</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves Garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soya sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  1. Cut the lamb into thin slices
+  
+  2. Mix together the remaining ingredients. Coat all pieces of lamb with the
+  sauce and allow to soak 15 minutes in a dish.
+  
+  3. Grill on each side for 5 minutes and serve immediately. Serves 4
+  
+  SOURCE: *Kiwi Cookbook, by Alan Armstrong, Seven Seas Publishing Pty Ltd,
+  PO Box 1431, Wellington, New Zealand, (C. 1968) ISBN 85467 016 5 SHARED BY:
+  Jim Bodle 5/93
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

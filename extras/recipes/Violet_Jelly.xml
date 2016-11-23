@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Violet Jelly</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh violets</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>One lemon; (4 tablespoons) , juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Powdered pectin</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  This recipe is adapted from Stalking The Healthful Herbs by Euell Gibbons.
+  If you are interested in additional violet recipes, look for this book
+  which contains six more.
+  
+  Make an infusion with violets and water by placing your blossoms in a glass
+  jar and covering them with boiling water. Put a lid on the jar, and set
+  aside for 24 hours. The infusion will turn a murky bluish green. Strain and
+  discard the violets. Add the lemon juice to the violet infusion, and it
+  transforms to a clear lavender pink. Stir in powdered pectin, and bring to
+  a boil. Add 4 cups sugar, bring to a boil again, and boil vigorously for
+  one minute. Skim if necessary. Pour into sterile jars and seal.
+  
+  Makes approximately 2 1/2 cups jelly.
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 27, 1998
+ 
+</step></directions></recipe></recipeml>

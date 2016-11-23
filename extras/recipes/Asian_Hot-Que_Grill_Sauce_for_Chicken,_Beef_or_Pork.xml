@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Hot-Que Grill Sauce for Chicken, Beef or Pork</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Condiment</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Stephen Ceideburg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>To 1 teaspoon Chinese hot mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Garlic clove, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>To 3 teaspoons Asian chile paste with garlic</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients except chile paste in a small saucepan. Bring to a
+  boil, then turn off heat. Stir in chile paste.
+  
+  Makes 1 1/4 cups.
+  
+  To use: Brush on chicken, beef or pork while grilling.
+  
+  Posted by Stephen Ceideburg
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ananas Mit Curacao</title>
+      <categories>
+        <cat>Getraenke</cat></categories>
+      <yield>999</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>4 cl Curacao</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>2-3 cl Zitronensaft</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ananassaft ungesuesst (a. d. Dose)</item></ing></ingredients>
+    <directions>
+      <step>    Curacao und Zitronensaft im Glas mischen. Mit gekuehltem Ananassaft nach
+  Wunsch auffuellen und ein bis zwei Eiswuerfel hineingeben.
+  
+  *  aus essen &amp; trinken 6 / 86
+  
+  Erfasser: Lothar Datum: 07.02.1994 Stichworte: Getraenke, Drinks,
+  Alkoholisch
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

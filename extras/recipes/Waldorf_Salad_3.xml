@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waldorf Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Apples, cored, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Stalks celery, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>(8-oz ) container low fat lemon yogurt</item></ing></ingredients>
+    <directions>
+      <step>  This slimmed-down apple lovers' favorite uses a dressing of creamy low-fat
+  lemon yogurt to replace fat and calorie rich mayonnaise.
+  
+  In large bowl, combine all ingredients; mix well. Cover; refrigerate until
+  serving time. 9 (1/2-cup) servings.
+  
+  From the files of Al Rice, North Pole Alaska.    Feb 1994
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wacky Soy Cake</title>
+      <categories>
+        <cat>Soy</cat>
+        <cat>Desserts</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DRY INGREDIENTS</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Soy flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cocoa</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Soda</item></ing></ing-div>
+      <ing-div>
+        <title>WET INGREDIENTS</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable oil; plus</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Vegetable oil; preferably soyoil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Lukewarm water</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Frosting; optional</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Stir together the dry ingredients into an ungreased 8" x 8" or 9" x 9" pan.
+  Make three holes in sifted ingredients. Put vanilla in the first hole,
+  cooking oil in the second hole and vinegar in the third hole. Pour 1 cup
+  lukewarm water over the whole thing. Stir well with a fork. Bake 30 to 35
+  minutes at 350 degrees F or until top springs back when touched slightly.
+  
+  Nutritional information per serving (does not include frosting): 125
+  calories, 0 cholesterol, 5 grams fat, 5 grams protein, 17 grams
+  carbohydrate
+  
+  Sources: http://soyfoods.com/SimplySoy/index.html and the U.S. Soyfoods
+  Directory Web site http://soyfoods.com/recipes/ Posted to Digest
+  eat-lf.v097.n184 by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Jul 21, 1997
+ 
+</step></directions></recipe></recipeml>

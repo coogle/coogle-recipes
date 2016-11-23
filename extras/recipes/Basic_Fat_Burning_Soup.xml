@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Fat Burning Soup</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>White onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Green bell pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>large</unit></amt>
+        <item>Head of cabbage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>bunches</unit></amt>
+        <item>Celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>bunches</unit></amt>
+        <item>Chopped carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(32 oz) of tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Lipton Onion Soup Mix</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Seasonings to taste and/or bouillon</item></ing></ingredients>
+    <directions>
+      <step>  Cut veggies into small pieces, cover with water. Boil fast for ten minutes.
+  
+  Change to Simmer and continue cooking until veggies are just tender. DO NOT
+  eat just soup alone or you will become under-nourished, follow daily plan.
+  
+  DO NOT drink alcoholic beverages.
+  
+  Posted to Bakery-Shoppe Digest V1 #456 by fundwell@excel.net on Dec 16,
+  1997
+ 
+</step></directions></recipe></recipeml>

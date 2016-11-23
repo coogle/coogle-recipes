@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked String Beans</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(6 Ounce) Frozen French-Style Green Beans; Thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Strips Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Beef Bouillon Cube</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Hot Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Place beans in an ungreased 1-1/2 quart baking dish; set aside. Cook bacon
+  until crisp; remove with a slotted spoon. Crumble and set aside. Stir 1
+  tablespoon of drippings into beans. Dissolve bouillon in water, add garlic
+  salt and pepper. Pour over beans. Cover and bake at 350 degrees for 1 hour.
+  Top with bacon.
+  
+  Recipe by: Joan Kozik (Bakery-Shoppe List)
+  
+  Posted to recipelu-digest by Donna Tester &lt;tester@shentel.net&gt; on Mar 14,
+  1998
+ 
+</step></directions></recipe></recipeml>

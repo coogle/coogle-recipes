@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cake Supreme</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Apples</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>large</unit></amt>
+        <item>Cooking apples, peeled/slicd</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Streusal topping:</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>  Sift flour and baking powder and add all other ingredients except apples,
+  1/2 cup sugar and cinnamon.Beat with an electric mixer at medium speed for
+  10 minutes. Combine sliced apples with the sugar and cinnamon.Alternate
+  layers of batter and apples in a greased and floured tube or bundt pan
+  until pan is filled. Combine strueasl crumb ingredients with a pastry
+  blender until crumbly and sprinkle over unbaked cake. Bake in pan at 325
+  degrees for 1 1/2 hours or tested done. let cool in pan 15 minutes before
+  removing. A superb apple cake which even taste better with age.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

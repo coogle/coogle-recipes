@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aspic Jelly - Great Chefs</title>
+      <categories>
+        <cat>Basics</cat>
+        <cat>Jellies</cat>
+        <cat>Masterchefs</cat>
+        <cat>Frisco</cat>
+        <cat>Lec</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>ASPIC JELLY</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>quarts</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Beef shin, ground</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Bones, beef, gelatinous</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Carrot, finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Celery, stalk, finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Parsley, sprig</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Shallots, finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>medium</unit></amt>
+          <item>Onion, not peeled</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Bay leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Rosemary</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt (to taste)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pepper (to taste)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Cognac</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Port</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Aspic Jelly:
+  ============
+  
+       Put the water, bones, beef, vegetables and spices in a pot and simmer
+  for 2 hours.  Skim the fat off the surface and strain the liquid through a
+  chinois.  Add the port and cognac.
+  
+       Check the consistency of the aspic by pouring 1/2 ounce on a plate and
+  refrigerating for 10 minutes.  If the aspic is not hard enough, add 2-3
+  tablespoons of unflavored gelatin.
+  
+       Source:  Great Chefs of San Francisco, Avon Books, 1984
+  
+       Chef:   Max Schacher, Le Coquelicot, Ross, Marin County, CA
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-sf.zip
+ 
+</step></directions></recipe></recipeml>

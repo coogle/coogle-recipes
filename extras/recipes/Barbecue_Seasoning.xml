@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Seasoning</title>
+      <categories>
+        <cat>Condiments</cat>
+        <cat>Bar-b-q</cat>
+        <cat>Upload</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar, granulated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cumin; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pepper, black</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Paprika</item></ing></ingredients>
+    <directions>
+      <step>    Combine all ingredients, mix thoroughly. Place in jar with tight fitting
+  lid, use as desired.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>American Pasta Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Pasta shells</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Hard boiled eggs, peeled and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mozzarella cheese, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red bell pepper, coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Scallion, finely chopped</item></ing></ingredients>
+    <directions>
+      <step>  In a large pot of boiling water, cook oasta until tender. Meanwhile, in a
+  large bowl, blend the mayonnaise, parmesan cheese, vinegar, oregano, thyme,
+  salt, pepper, and garlic powder. Drain and rinse pasta and add to the
+  mayonnaise mixture; mix well . Add the chopped eggs, mozzarella cheese, red
+  pepper, and scallions. Mix just until combined. Serve immediately, or cover
+  and chill for serveral hours or overnight to blend flavors.
+  
+  NOTES : Add some diced salami or pepperoni and the salad becomes a whole
+  meal in itself. For flavor variations, add 1/2 teaspoon dillweed or basil
+  
+  Posted to MC-Recipe Digest V1 #655 by Raymond &lt;r1706@tl.infi.net&gt; on Jul 2,
+  1997
+ 
+</step></directions></recipe></recipeml>

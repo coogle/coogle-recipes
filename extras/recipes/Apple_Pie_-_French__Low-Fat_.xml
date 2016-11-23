@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie - French *Low-Fat*</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Pies</cat>
+        <cat>Low-fat</cat>
+        <cat>Apples</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Light &amp; Flaky Pie Crust; see recipe of same name</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Thick unsweetened applesauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Apple brandy; optional</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vanilla extract;</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lemon; grated rind only</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>x</unit></amt>
+          <item>Tart apples; peeled &amp; thinly sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>All-fruit apricot jam;</item></ing></ing-div>
+      <ing-div>
+        <title>DATA PER SERVING</title>
+        <ing>
+          <amt>
+            <qty>290</qty>
+            <unit>x</unit></amt>
+          <item>*Calories</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>x</unit></amt>
+          <item>*gm Protein</item></ing>
+        <ing>
+          <amt>
+            <qty>7</qty>
+            <unit>x</unit></amt>
+          <item>*gm Fat</item></ing>
+        <ing>
+          <amt>
+            <qty>57</qty>
+            <unit>x</unit></amt>
+          <item>*gm Carbo</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>x</unit></amt>
+          <item>*gm Chol</item></ing>
+        <ing>
+          <amt>
+            <qty>11</qty>
+            <unit>x</unit></amt>
+          <item>*mg Sodium</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>x</unit></amt>
+          <item>*gm Fiber</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  PREPARE AND BAKE crust according to recipe instructions. (See Light &amp; Flaky
+  Pie Crust recipe) Set aside.
+  
+  Preheat oven to 375F.  In a 2-quart saucepan over med-high heat, simmer
+  applesauce, honey, brandy if desired, vanilla and lemon rind until quite
+  thick, about 10 to 15 minutes. Pour mixture into prepared crust. Arrange
+  apples in concentric circles on top of sauce.
+  
+  In a 1-qt saucepan over med-high heat, melt apricot jam, then press through
+  a sieve.  Use a pastry brush to glaze apples with jam.
+  
+  Bake for 30 minutes.  Let cool before slicing.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

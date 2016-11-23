@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acapulco Rice</title>
+      <categories>
+        <cat>Mexican</cat>
+        <cat>Cheese</cat>
+        <cat>Syd's book</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chili Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Minute Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Crushed Tortilla Chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded Cheddar Cheese</item></ing></ingredients>
+    <directions>
+      <step>  Combine tomato sauce, water and chili powder in a medium sized saucepan.
+  Bring to a full boil.  Stir in rice.  Cover, remove from heat and let stand
+  for 10 minutes.  Sprinkle with tortilla chips and cheese.  Serve with
+  shredded lettuce and sour cream if desired.  From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

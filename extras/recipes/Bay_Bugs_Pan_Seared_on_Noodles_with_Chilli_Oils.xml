@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bay Bugs Pan Seared on Noodles with Chilli Oils</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Serve of egg noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>grams</unit></amt>
+        <item>Peas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Capsicum diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Shallot cut in strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Purple onion diced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Smoked eel, optional</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Speck, optional</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chilli and Tumeric oil:</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>mililiters</unit></amt>
+        <item>High quality oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chilli powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tumeric</item></ing></ingredients>
+    <directions>
+      <step>  Cook noodles.  Wok fry onion, speck, capsicum, shallots, smoked eel and
+  peas, add noodles and toss until hot. Pan sear cleaned bug tails, then
+  place noodle mix on a plate.  Arrange bugs on top of the noodles. Place oil
+  in a clean wok, add chilli and tumeric.  Cook lightly until tumeric and
+  chilli begins to stick. Strain the oil and pour around the plate and on the
+  bugs.  Add splashes of sweet soy sauce and garnish with a sprig of
+  coriander.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

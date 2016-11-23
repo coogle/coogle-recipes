@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Fried Shrimp</title>
+      <categories>
+        <cat>Shrimp</cat>
+        <cat>Seafood</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit/></amt>
+        <item>Unpeeled jumbo fresh shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Eggs, lightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Ground walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Commercial cocktail sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Commercial tartar sauce</item></ing></ingredients>
+    <directions>
+      <step>  Peel shrimp, leaving tails intact; devein, if desired.
+  
+  Combine flour, salt, and pepper; stir well. Combine milk and eggs; stir
+  well. Dip shrimp into egg mixture, and dredge in flour mixture. Dip shrimp
+  into egg mixture again, and dredge in ground walnuts. Place coated shrimp
+  on a wax paper-lined baking sheet, cover shrimp and freeze 2-hours.
+  
+  Pour oil to depth of 2 to 3 inches into a Dutch oven; hear to 350 degrees.
+  Fry shrimp, a few at a time, until golden. Drain on paper towels.
+  
+  Arrange shrimp on a serving platter; serve with cocktail sauce and tartar
+  sauce. Garnish, if desired, with lemon wedges and fresh parsley sprigs.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

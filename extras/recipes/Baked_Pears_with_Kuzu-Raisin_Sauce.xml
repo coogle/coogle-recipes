@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pears with Kuzu-Raisin Sauce</title>
+      <categories>
+        <cat>Macrobiotic</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Anjou pears; (or 1/2 pear per person)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Spring water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Kuzu</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rice syrup</item></ing></ingredients>
+    <directions>
+      <step>  Cut and core pears and slice in half. Put in a baking dish with apple
+  juice, water, and raisins. Bake 20 minutes. Then mix kuzu in cold water and
+  thicken the remaining liquid. Add rice syrup to taste, simmer, and serve in
+  serving bowl.
+  
+  Formatted by suechef@sover.net
+  
+  NOTES : This is a sweet, smooth, relaxing dessert.
+  
+  Recipe by: Macrobiotics Online
+  
+  Posted to MC-Recipe Digest by Sue &lt;suechef@sover.net&gt; on Apr 15, 1998
+ 
+</step></directions></recipe></recipeml>

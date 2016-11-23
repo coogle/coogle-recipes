@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anna M. Stamplecoskie's Potato Dumplings</title>
+      <categories>
+        <cat>Potatoes</cat>
+        <cat>Canadian</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raw potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>quarts</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cream</item></ing></ingredients>
+    <directions>
+      <step>  Grate potatoes finely.  Squeeze dry in a clean cloth. Add flour and mix
+  well with potatoes.  Bring water to the boil and add salt. Make little
+  balls of the flour/potato mix. Drop into the boiling water and boil for 16
+  minutes.  At the last minute, add cream.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

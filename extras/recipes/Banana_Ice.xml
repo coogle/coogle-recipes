@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Ice</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pineapple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  Put sugar and water in glass bowl and microwave on high 3 to 4 minutes
+  until boiling.  Stir in remaining ingredients and pour into ice trays.
+  Freeze. From 365 microwave recipe calendar 1990
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

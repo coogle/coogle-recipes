@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waldorf Salad</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Salads</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>LORELI AGUDA WSKD49A</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>large</unit></amt>
+          <item>Winesap apples</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chopped celery</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Walnuts or pecans, coursely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Salad dressing</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Peel and dice apples. Sprinkle with lemon juice; add celery and raisins and
+  toss together. Cover and chill. Just before serving, add nuts and salad
+  dressing. Toss lightly to distribute dressing. Serve on crisp lettuce cups
+  or from salad bowl.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

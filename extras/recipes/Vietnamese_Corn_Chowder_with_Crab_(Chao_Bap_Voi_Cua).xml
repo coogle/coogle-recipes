@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Corn Chowder with Crab (Chao Bap Voi Cua)</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Vietnamese</cat>
+        <cat>Crab</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Creamed corn</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Corn kernels</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Crab; flaked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Corn starch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green onion; thinly sliced</item></ing></ingredients>
+    <directions>
+      <step>  1. Break eggs into a bowl and whisk with a fork. 2. Bring stock to a boil,
+  add creamed corn, corn kernels and crab, return to boil. Mix corn starch
+  with a bit of cold water and add gradually to soup to thicken. Dribble eggs
+  into soup in thin stream while stirring constantly to produce egg threads.
+  3. Serve garnished with green onion.
+  
+  Formatted &amp; Busted by RecipeLu &lt;recipelu@recipelu.com&gt;
+  Posted to recipelu-digest Volume 01 Number 230 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Nov 09, 1997
+ 
+</step></directions></recipe></recipeml>

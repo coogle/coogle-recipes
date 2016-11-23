@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Something</title>
+      <categories>
+        <cat>Breadmaker</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Prepared inst van pudding</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dry yeast</item></ing></ingredients>
+    <directions>
+      <step>  Process on "dough" cycle. The filling would be 1/2 cup
+  melted margarine or butter (I use 1/4 cup) topped with
+  1 cup brown sugar mixed with 3 TBS cinnamon. (I add
+  raisins and nuts.) The topping is 4 oz. cream cheese,
+  1/4 cup butter or margarine (I skip this) 1/2 tsp.
+  vanilla, 1-1/2 cups powdered sugar and a teaspoon or
+  two of milk. I've done these both "full fat" and
+  "reduced fat." It's hard to tell the difference, so we
+  go "reduced," including using light (Neufchatel) cream
+  cheese. I've tried ALL the fat free cream cheeses and
+  NONE of them work. JUDITH PENZINER (GGMB18A)JUDITH
+  PENZINER (GGMB18A) Happy baking!
+                       Judy
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

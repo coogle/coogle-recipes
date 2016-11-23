@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke with Butter</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Artichoke</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Garlic salt or powder</item></ing></ingredients>
+    <directions>
+      <step>  Date: Wed, 20 Mar 1996 13:05:11 -0500
+  
+  From: Kattwoman1@aol.com
+  
+  wash and trim artichokes. put water in a pot large enough to cover the
+  artichokes. bring to a boil. turn down to a simmer. cook in simmering water
+  for 15 to 20 min. or until a pulled leaf comes loose . sauce: melt butter
+  and add a dash of garlic salt or powder. My Favorite!
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LIST SERVER
+  
+  MM-RECIPES DIGEST V3 #81
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

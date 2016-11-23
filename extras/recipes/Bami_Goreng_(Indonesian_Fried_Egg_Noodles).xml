@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bami Goreng (Indonesian Fried Egg Noodles)</title>
+      <categories>
+        <cat>Ethnic</cat>
+        <cat>Pasta</cat>
+        <cat>Pork &amp; ham</cat>
+        <cat>Top ten</cat>
+        <cat>Indonesian</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Chinese egg noodles; boiled and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork filet; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Small shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; finely sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Leek; finely sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sambal oelek</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Trassi</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ketjap manis</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>To taste salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Set cooked noodles aside. Heat wok; add oil. Stir-fry onion and garlic for
+  one minute. Add meat and shrimp, trassi (if not available, omit), and
+  sambal oelek; fry for further 3 minutes. Add carrot and leek and fry for 4
+  more minutes. Add noodles and ketjap manis. Use salt and pepper as needed
+  (none is good) and stir-fry for 4 minutes more. Serve hot. Delicious with
+  hot peanut sauce.
+  
+  NOTES : Ketjap manis is Indonesian Sweet Soya Sauce and has a distinctive
+  taste. Sambal oelek is Indonesian red chili paste.
+  Recipe by: Internet/Unknown Posted to Bakery-Shoppe Digest V1 #206 by Bill
+  &amp; Leilani Devries &lt;devriesb@cyberbeach.net&gt; on Aug 29, 1997
+ 
+</step></directions></recipe></recipeml>

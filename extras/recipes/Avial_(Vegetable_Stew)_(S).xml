@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avial (Vegetable Stew) (S)</title>
+      <categories>
+        <cat>Indian</cat>
+        <cat>Southern in</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Potato, peeled and cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Sweet potato, peeled and cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Green beans, whole</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Carrot, peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Green peas, fresh or frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tomato, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Turmeric</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Coconut shreds, unsweetened</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Green chiles, 3-4</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ghee</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Sprig karhi leaves, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Yogurt, plain</item></ing></ingredients>
+    <directions>
+      <step>  Par-boil the vegetables except the peas and tomatoes in 2 cups of water
+  with the turmeric and salt. Add the left out vegetables towards the end of
+  when the others are cooked. Grind the coconut, green chilies and yogurt in
+  a blender to form a smooth paste (I use my hand held blender to mince the
+  chilies and add them to the coconut and yogurt). Add the paste to the pot
+  containing the vegetables. In a saute pan melt the ghee and sizzle the
+  Kahri leaves for a minute or so. Add to the pot and simmer for a couple of
+  minutes. Combine and serve.
+  
+  Recipe by: Raghaven Iyer Posted to TNT - Prodigy's Recipe Exchange
+  Newsletter  by JoAnn &lt;joannr@pclink.com&gt; on Jul 07, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Coconut Rolls</title>
+      <categories>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Peeled firm bananas juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tablesp. melted butter or 1/2 cup shredded coconut</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Margarine Light cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tablesp. lemon or lime</item></ing></ingredients>
+    <directions>
+      <step>  Buy green-tipped or all yellow bananas
+  
+  Start heating oven to 375ø F. Grease 10" x 6" x 2" baking dish. Cut bananas
+  into halves, crosswise; place in dish. Brush well with butter, then lemon
+  juice; sprinkle with coconut. Bake 15 to 20 min., or until easily pierced
+  with fork. Serve warm, with cream or Orange Sauce. Makes 4 servings.
+ 
+</step></directions></recipe></recipeml>

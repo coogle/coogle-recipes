@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1,2,3,4 Cake</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sticks butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; separated</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk (minus 1 tbsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>    When a southern lady, and she is a lady, told me about this cake I
+  responded with utter ignorance. She could not believe that I had never
+  heard of such a thing. The recipe resembles a fine pound cake in terms of
+  both flavor and texture. Sliced thin, with a cup of black coffee, it makes
+  a wonderful southern afternoon snack.
+  
+    Using an electric mixer, cream the butter, sugar, and egg yolks. Mix the
+  flour and baking powder together and sift into the creamed mixture, adding
+  alternately with the milk. Add the flavorings. Whip the egg whites to form
+  stiff peaks and gently fold into the batter. Bake in a loaf pan in a
+  preheated oven at 300ø for 1-1/4 hours, or until a toothpick stuck into the
+  center of the cake comes out clean.
+  
+  From &lt;The Frugal Gourmet Cooks American&gt;.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Spice Syrup</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Apples</cat>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing></ingredients>
+    <directions>
+      <step>  In a saucepan, combine brown sugar, cornstarch, allspice and nutmeg. Mix
+  well. Add juice. Cook and stir over medium heat until syrup is bubbly and
+  slightly thickened. Yield: 1 3/4 cups. Source: A Taste of Home Magazine
+  
+  Recipe by: A Taste of Home Magazine Posted to TNT - Prodigy's Recipe
+  Exchange Newsletter  by MarySpero@prodigy.com (MS MARY E SPERO) on Aug 10,
+  1997
+ 
+</step></directions></recipe></recipeml>

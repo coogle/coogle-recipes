@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Salmon Fillets with Mustard-Chive Butter</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine -- room</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Temperature</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice -- divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chives -- finel chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dijon mustard -- country</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Kind</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon peel -- grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>24</qty>
+          <unit>ounces</unit></amt>
+        <item>Salmon fillets -- 4-6 oz.</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Chives</item></ing></ingredients>
+    <directions>
+      <step>  Pour 3/4 tablespoon lemon juice on top of 4 fillets. Mix remaining
+  ingredients until smooth.  Spread one tablespoon of mixture on baking pan
+  covered with aluminum foil.  Place fillets on foil with skin side down.
+  Divide remaining mixture on top of fillets. Bake at 450° for 10 minutes.
+  Garnish with chives if desired.
+  
+  Recipe By     : Bon Appetit, April 1993, p. 68
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

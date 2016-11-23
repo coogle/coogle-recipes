@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bachelor Dinner</title>
+      <categories>
+        <cat>Snacks</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bag Pop Secret with butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Popcorn bowl</item></ing></ingredients>
+    <directions>
+      <step>  Open microwave door. Remove plastic wrapping from popcorn bag. Place in
+  microwave "this side up". Program microwave 4 minutes, high power. Press
+  start button. Listen for popcorn to stop popping or smell of burnt popcorn.
+  Press stop button. (If burnt, repeat step one with new bag.) Serve in
+  designated popcorn bowl.
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 16, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avon's Casserole</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground meat (beef; pork, sausage or any combination)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(10-oz) onion soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(10-oz) chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raw rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bell pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>small</unit></amt>
+        <item>Amount of oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bread or cracker crumbs</item></ing></ingredients>
+    <directions>
+      <step>   Saut‚ meat in a little oil until pink disappears. Grease casserole; put in
+  meat. Saut‚ onions, bell peppers and celery. Mix uncooked rice and other
+  ingredients together and place in casserole; cover. Bake in a 350 degree
+  preheated oven for 45 minutes. Uncover; sprinkle with bread or cracker
+  crumbs and bake until lightly brown, about 20 ninutes. Serves 8 to 10.
+  
+  From &lt;A Taste of Louisiana&gt;.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

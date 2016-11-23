@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Salmon Supper</title>
+      <categories>
+        <cat/></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>6-8 Oz Salmon Fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cucumber, Unpeeled; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dill Weed; finely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Rinse the salmon fillets and pat dry with paper towels.  Place fillets on a
+  raised rack in a 9" x 12" greased baking dish.  Sprinkle with salt. Layer
+  thinly sliced cucumber over each fillet.  Stir dill weed into mayonnaise
+  and spread over salmon and cucumber.  Bake in 375 oven for 30 minutes, or
+  until salmon flakes when tested with a fork.
+  
+  Serve with a fresh Winter Orange salad, steaming baked potatoes topped with
+  a pat of butter and french bread from your local bakery.
+  
+  Serves 8.
+  
+  (Adapted from a recipe in the "National Fisherman" magazine, July 1985)
+  Posted to EAT-L Digest 08 Sep 96
+  
+  Date:    Mon, 9 Sep 1996 12:14:17 -0400
+  
+  From:    Eileen &amp; Bob Holze &lt;beck4@ASAN.COM&gt;
+ 
+</step></directions></recipe></recipeml>

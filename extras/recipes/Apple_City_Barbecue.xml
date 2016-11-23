@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple City Barbecue</title>
+      <categories>
+        <cat>Bbq sauces</cat>
+        <cat>Rubs</cat>
+        <cat>Pork</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DRY RUB</title>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Paprika</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Red pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Garlic powder</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Celery salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Dry mustard</item></ing></ing-div>
+      <ing-div>
+        <title>FINISH SAUCE</title>
+        <ing>
+          <amt>
+            <qty>32</qty>
+            <unit>ounces</unit></amt>
+          <item>Hunt's Ketchup</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Worcestershire sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Garlic powder</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Apple cider vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Apple juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>White pepper or to taste</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix dry rub ingredients.  Rub into pork ribs.  Put rubbed ribs into the
+  refrigerator for 4 to 10 hours before cooking. Bring sauce ingredients to a
+  boil. Then add in finely grated onion, 1 grated medium Golden Delicious
+  apple and 1/4 grated small bell pepper. Cook until desired thickness. Cook
+  prepared ribs for about 5 1/2 to 7 hours over charcoal kept at 180 to 200
+  degrees. Baste occasionally with warm apple juice. Use soaked applewood
+  chips in the fire to create a sweet flavor. About 30 minutes before
+  serving, brush ribs with finish sauce.  Right before serving, sprinkle on
+  dry rub.  Serve sauce on the side.
+  
+  TIP:  Don't rush the cooking process.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

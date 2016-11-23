@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Con Pollo</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Diced salt pork</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Broiler-fryer chicken; cut into pieces (up to 4)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Peeled tomatoes or 1 cup drained canned tomatoes, cut in chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Uncooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Regular strength chicken broth or water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt 1/2 teaspoon pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Hot cooked asparagus tips and peas for garnish</item></ing></ingredients>
+    <directions>
+      <step>  Brown pork and set aside. Add chicken and olive oil to pan and brown. Cook
+  onion in butter and add chicken along with garlic, pork, tomatoes, rice and
+  broth or water. Add salt and pepper. Cook, covered, until chicken is tender
+  and rice has absorbed the stock, adding more liquid if necessary to finish
+  cooking the chicken. Serve garnished with asparagus tips and peas. Serves
+  6-8.
+  Posted to EAT-L Digest  by Bonnie &lt;solomon1@KCSNET.COM&gt; on Sep 5, 1997
+ 
+</step></directions></recipe></recipeml>

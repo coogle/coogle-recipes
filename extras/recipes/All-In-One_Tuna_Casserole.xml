@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-In-One Tuna Casserole</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Env. Golden Onion Soup Mix</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen Peas &amp; Carrots *</item></ing>
+      <ing>
+        <amt>
+          <qty>6 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Tuna, Drained &amp; Flaked</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Medium Egg Noodles **</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Shredded Chedar Cheese ***</item></ing></ingredients>
+    <directions>
+      <step>  *    Frozen Peas &amp; Carrots should be thawed.
+  **   Egg Noodles should be cooked and drained.
+  ***  Cheese should equal 1/2 C
+  
+  Preheat oven to 350 degrees F.
+  
+  In large bowl, blend golden onion recipe soup mix with milk; stir in peas &amp;
+  carrots, cooked noodles and tuna.   Turn into greased 2-quart oblong baking
+  dish, then top with cheese.  Bake 20 minutes or until bubbling.
+  
+  From the "Lipton Creative Cookery Cookbook", from Rich, Sysop, New Cook BBS
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/soup.zip
+ 
+</step></directions></recipe></recipeml>

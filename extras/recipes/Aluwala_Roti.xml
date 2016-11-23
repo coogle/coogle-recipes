@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aluwala Roti</title>
+      <categories>
+        <cat>Indian</cat>
+        <cat>Breads</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour, whole wheat Salt Water for mixing</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Ghee; or oil for shallow frying</item></ing></ing-div>
+      <ing-div>
+        <title>FOR FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>medium</unit></amt>
+          <item>Potatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Onion; grated Salt Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Coriander leaves; chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Sift flour with salt. Slowly add water. Mix well. Make a stiff dough. Cover
+  with a damp cloth for 20 minutes. Boil potatoes, peel and mash. Add salt,
+  onion, pepper and coriander. Mix well. Divide into 8 portions. Knead dough
+  well until smooth and pliable. Divide into 6 round balls. Flatten each ball
+  slightly. Put one portion of filling in centre. Close up completely. Shape
+  into round balls again. Roll out each ball on a lightly floured board into
+  a round disk 6" (15 cm) diameter. Cook one at a time on a hot griddle over
+  medium heat. Put about 1 or 2 tbsp ghee around the edge. Turn gently. Cook
+  until sides turn golden brown in colour. Serve with yogurt. Vegetarian
+  Kheema Roti: Instead of potato stuffing, used cooked and seasoned
+  vegetarian minced meat (Anne's note: the preface lists "nutri nuggets"; I
+  suspect that this is an Indian brand of TVP) for stuffing.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

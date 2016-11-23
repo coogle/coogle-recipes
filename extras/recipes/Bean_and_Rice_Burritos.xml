@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Rice Burritos</title>
+      <categories>
+        <cat>Main dish</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Pinto beans, 16 oz waterpak</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Brown rice; cooked</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Onions; frozen, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Gr. peppers; frozen, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Corn; frozen</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chili powder; dash</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cumin; dash</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Garlic powder; dash</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salsa, oil-free, low sodium</item></ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit/></amt>
+          <item>Tortillas, whole wheat</item></ing></ing-div>
+      <ing-div>
+        <title>OPTIONAL TOPPINGS</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lettuce, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>bunch</unit></amt>
+          <item>Scallions; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Tomato; chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Saute the frozen onions and green peppers in a few tablespoons of water in
+  a skillet.  Drain and rinse the beans and place in a skillet and mash with
+  a potato masher. Add the cooked rice, corn, spices and water. Heat 5 to 10
+  minutes until most of water is absorbed, stirring occasionally.
+  
+  Heat the tortillas quickly (just to soften) in a preheated skillet, a
+  toaster oven, or a microwave. Place a line of bean mixture down the middle
+  of each tortilla, add a teaspoon of salsa and any of the other toppings as
+  desired.  Fold up 1/2 inch on each side, tuck in the top edge and roll into
+  a burrito.  Serve immediately, topped with additional salsa if desired.
+  
+  The leftover bean mixture can be kept in the refrigerator and reheated in
+  the microwave prior to assembly.
+  
+  The bean mixture can be adapted by changing the kind of beans (try kidney
+  beans) or omitting the corn, or adding your favorite ingredient. I got more
+  servings out of the recipe than the book got out of the original recipe, so
+  I guess I put less mixture on each tortilla.
+  
+  From the recipe file of Val Rowe (adapted from _The McDougall Program_ MM
+  6/12/93 From the collection of Sue Smith, S.Smith34, Uploaded June 16, 1994
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

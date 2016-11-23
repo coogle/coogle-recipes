@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Puffs</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>100</qty>
+          <unit>grams</unit></amt>
+        <item>Self-raising flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Castor (granulated) sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>100</qty>
+          <unit>grams</unit></amt>
+        <item>Castor (granulated) sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oil for frying</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Strawberry or rasberry jam</item></ing></ingredients>
+    <directions>
+      <step>  Date: Sat, 16 Mar 1996 07:54:43 -0500
+  
+  From: Wendy Lockman &lt;wlockman@ra1.randomc.com&gt;
+  Mash bananas with 100 g of castor sugar and lemon juice, add flour and mix
+  to a thick paste.  Heat oil in a small pan to smoking point, then turn heat
+  to low. Use 2 teaspoons to push one teaspoon of dough into the oil, doing
+  no more than 6 at a time. Turn puffs over and keep turning for 2 minutes.
+  Remove with a slotted spoon, drain and roll in cinnamon and sugar. Serve
+  with jam.
+  
+  Recipe by Clara Hirschler, from the Sydney Telegraph-Mirror 16 th June,
+  1993. p45. Posted by Mark Herron.
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LIST SERVER
+  
+  MM-RECIPES DIGEST V3 #77
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

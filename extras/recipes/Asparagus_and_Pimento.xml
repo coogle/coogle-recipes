@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus and Pimento</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Vegetables</cat>
+        <cat>Side dishes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>To 1 1/4 lb fresh Asparapus;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh lime juice;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Diced pimento;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Toasted pine nuts;</item></ing></ingredients>
+    <directions>
+      <step>  Rinse asparagus and snap off tough ends.  In a large skillet, bring
+  to a boil and add asparagus.  Cover and steam asparagus until bright
+  green, 2 to 3 minutes. Remove from heat, drain and arrange on a
+  platter. Sprinkle with lime juice; garnish with pimento and pine
+  nuts. Serve warm or chilled. Food Exchange per serving: 1 VEGETABLE
+  EXCHANGE  CAL: 37; CHO: 0g; CAR: 7g; PRO: 3g; SOD: 6g; FAT: 2g;
+  
+  Source: Light &amp; Easy Diabetes Cuisine by Betty Marks
+  Brought to you and yours via Nancy O'Brion and her Meal-Master.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

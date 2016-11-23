@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinaigrette Pasta Salad with Chicken</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Poultry</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh Pesto sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Seasoned salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Chicken breasts,skinned,bone</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Sliced blanched zucchini</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg yolk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Fresh Angel's Hair pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pine nuts</item></ing></ingredients>
+    <directions>
+      <step>    In a medium bowl,place oil,lemon juice,pesto sauce,egg yolk,seasoned salt
+  and pepper.Whisk together until well blended.Reserve 1/4 cup mixture.Broil
+  chicken breast halves on both sides until tender.Slice
+  chicken,crosswise,unto 1" wide strips.Toss remaining oil mixture with hot
+  cooked,drained pasta and zucchini.Arrange on a serving platter.Place
+  chicken slices over pasta;sprinkle with pine nuts.Pour reserved oil mixture
+  over salad.Serve immediately or chill.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

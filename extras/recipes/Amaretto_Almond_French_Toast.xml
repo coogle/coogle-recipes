@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Almond French Toast</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Ice Cream -- butter almond</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Amaretto -- liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>slices</unit></amt>
+        <item>French Bread Slice -- 3/4"</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Thick slices</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Slivered Almonds -- toasted,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioner's Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Maple Syrup</item></ing></ingredients>
+    <directions>
+      <step>  Melt ice cream; add eggs and beat until well-blended.  Add liqueur.  Dip
+  bread slices into mixture, coating well and pressing almonds from the ice
+  cream into slices; add extra almonds if desired.  In electric skillet,
+  grill or frying pan, melt margarine to 350 deg F and fry bread until
+  golden.  To serve, slightly overlap 3 slices, dust with confectioner's
+  sugar and sprinkle with almonds.  Serve with maple syrup.
+  
+  Recipe By     : Home Cooking, Oct 1994, pg 7
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

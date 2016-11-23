@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All Day Barbecue Beef</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Crockpot</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onion; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Chuck roast</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Chili sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Barbecue sauce</item></ing></ingredients>
+    <directions>
+      <step>  Placed sliced onions in bottom of roasting pan.  Place roast on top of
+  onions.  Mix sauces together and spread over roast.  Bake, covered, all day
+  (at least 5 hours) at 225 degrees or in a crockpot for six hours, or until
+  tender. One half hour before serving, shred meat, remove bones and put back
+  in sauce. Continue cooking for 1/2 hour. Serve on buns. Venison can also be
+  used.
+  
+  From Mom
+  
+  Posted to KitMailbox Digest  by KrisE56749@aol.com on Sep 2, 1997
+ 
+</step></directions></recipe></recipeml>

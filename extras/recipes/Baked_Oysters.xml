@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Oysters</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Cajun</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion -- chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Oysters</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; hard-boiled -- grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Toasted bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oyster Juice OR Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley</item></ing></ingredients>
+    <directions>
+      <step>  melt butter, add onion and celery. Cook on slow fire until tender. Add
+  oysters that have been cut up by scissors, and a little oyster juice. cook
+  about 5 min. until oysters curl. Take off fire and mix w/ rolled toasted
+  bread crumbs and grated eggs and parsley to season. Add salt, pepper, and
+  dampen w/ oyster juice or water. Put into oyster shells or greased pyrex
+  dish; sprinkle cracker crumbs on top and dots of butter. Bake at 350 about
+  20 min. Tresor de la Mer from the Heart of Louisianna.
+  
+  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

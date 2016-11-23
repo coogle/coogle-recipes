@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef 'n' Beer</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat>
+        <cat>Londontowne</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Boneless chuck</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions, lg, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green peppers, lg, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Mushrooms, cut into chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cans</unit></amt>
+        <item>Beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Prepared mustard</item></ing></ingredients>
+    <directions>
+      <step>  Salt &amp; pepper meat and brown lightly in heavy skillet. Add onions, pepper
+  and mushrooms and brown lightly. Pour beer over all, stir in catsup and
+  mustard. Cover tightly and simmer slowly for 2 to 2 1/2 hours or until
+  meat is tender.
+  
+  Mrs. Harold T. Cook
+  
+  From a book of recipes compiled by members and friends of the LONDONTOWN
+  PUBLIK HOUSE ASSEMBLY, EDGEWATER, MD 21037. Funds from sale of book used in
+  restoration and maintenance of the 17th century inn (hint, hint).
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/london13.zip
+ 
+</step></directions></recipe></recipeml>

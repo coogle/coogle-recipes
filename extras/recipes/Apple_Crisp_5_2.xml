@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp 5</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oatmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit/></amt>
+        <item>C. brown sugar (up to 3/4)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Soft butter</item></ing></ingredients>
+    <directions>
+      <step>  Grease pan.  Peel and slice apples.  Place on bottom of pan.  Mix all other
+  ingredients.  Put on top of apples.  Bake at 375F for 30 to 35 minutes.
+  
+  Posted to FOODWINE Digest  6 November 96
+  
+  Date:    Wed, 6 Nov 1996 21:17:26 -0600
+  
+  From:    Rachel Hile Bassett &lt;rbassett@EAGLE.CC.UKANS.EDU&gt;
+ 
+</step></directions></recipe></recipeml>

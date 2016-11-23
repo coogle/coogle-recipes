@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Matzo Kugel</title>
+      <categories>
+        <cat>Kosher</cat>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Matzos, broken in pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs, separated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple, peeled and diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Shortening</item></ing></ingredients>
+    <directions>
+      <step>  Cover matzos with water then squeeze out as much as possible. Add apple and
+  fat.  Beat yolks into mixture, season with salt and sugar to taste. Beat
+  egg whites until stiff, fold in above gently. Pour inot pre-heated, greased
+  casserole.  Bake in slow oven (300 F.) about 1 hr. until top has an even
+  brown crust.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

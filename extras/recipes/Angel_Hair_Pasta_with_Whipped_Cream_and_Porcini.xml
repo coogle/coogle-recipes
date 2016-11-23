@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Pasta with Whipped Cream and Porcini</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Cream</cat>
+        <cat>Mushroom</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Dried porcini mushrooms *</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped shallots</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh mushrooms, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pints</unit></amt>
+        <item>(1 cup) whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Angel hair pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Place the porcini in a small bowl and and 1/2 cup warm water.   Allow to
+  soak 45 minutes.  Drain, reserving the liquid.  Heat a large frying pan.
+  Add the oil and shallots, and saute a minute.  Add the fresh mushrooms and
+  saute until tender.  Chop the porcini coarsely and add to the frying pan,
+  along with the reserved liquid.  Simmer until most of the liquid is
+  evaporated.
+  
+  Bring a large pot of water to a boil along with a pinch of salt.  In a
+  separate bowl, whip the cream until it holds soft peaks.  Refrigerate the
+  whipped cream until the pasta is cooked.  Cook the pasta in the boiling
+  water until al dente.  Drain well, return the drained pasta to the pot and
+  add the mushroom mixture, cheese, whipped cream and salt and pepper to
+  taste.
+  
+  Using a large spatula, fold all of the ingredients together.  Do this
+  quickly, yet carefully, so that the whipped cream doesn't collapse
+  entirely.  You may want to save a bit of the whipped cream to dollop on top
+  of the pasta as a garnish.
+  
+  Serve immediately.
+  
+  * Or other dried mushrooms
+  
+  Source:  Frugal Gourmet Celebrates Christmas Typed by Dale/Gail Shipp
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

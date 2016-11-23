@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Whole Chicken</title>
+      <categories>
+        <cat>Chicken</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>4 pound chickens</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Southern BBQ Rub</item></ing></ing-div>
+      <ing-div>
+        <title>SOUTHERN RUB</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Ground cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Ancho chile powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Pasilla chile powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Freshly cracked black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cayenne</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Paprika</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Prepare a wood or charcoal grill and let it burn down to embers.
+  
+  Rub the chickens with the barbecue rub. Let sit in the refrigerator for 1
+  hour.
+  
+  On the grill place the chickens, on the side with no fire. Cover the grill
+  and vent slightly. Cook for 3 hours or until chickens are cooked through.
+  
+  Southern Rub: Mix all ingredients together well. Makes about 1 cup Posted
+  to MM-Recipes Digest V4 #148 by "Vince &amp; Juley Roberts"
+  &lt;vince@bellsouth.net&gt; on May 28, 1997
+ 
+</step></directions></recipe></recipeml>

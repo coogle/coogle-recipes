@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Bread</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PART A</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Yeast</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Warm water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sugar</item></ing></ing-div>
+      <ing-div>
+        <title>PART B</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Salt (may be decreased to 1 tsp, but doesn't rise well if omitted)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil (optional; I often don't use it at all) (up to 4)</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Bread flour (up to 7)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix together part "A", let stand until foamy. About 3-5 min. Add 3 cups of
+  warm water, sugar and start adding flour. When mixture is very thick add
+  salt and oil. Continue adding flour until you can't add any more.
+  
+  Turn out and let rest while you clean bowl. Kneed for 10 min. adding
+  remaining flour. Place in oiled or sprayed bowl and turn over to coat this
+  keeps a crust from forming on the dough. Cover and let rise in a warm place
+  until doubled. Punch down and divide into four equal parts. Place in oiled
+  or sprayed pan and let rise until even with top of pan.
+  
+  Bake at 350 for 25 to 30 min.
+  
+  This makes 4 loaves if you use the regular size loaf pan, larger or smaller
+  pans well make fewer or more loaves. The bread is also much more
+  substancial than that store bought fog in a bag and tastes *wonderful*.
+  Posted to fatfree digest V97 #181 by "Monica L. Tittle"
+  &lt;hstrynut@sonet.net&gt; on Aug 16, 1997
+ 
+</step></directions></recipe></recipeml>

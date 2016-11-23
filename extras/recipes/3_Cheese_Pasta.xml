@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>3 Cheese Pasta</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Broccoli spears</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Ricotta</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Blue cheese; crumbled</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>(3-oz) of cream cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Parsley</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Basil</item></ing></ing-div>
+      <ing-div>
+        <title>S &amp; P</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Cherry tomatoes; halved</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Fresh mushrooms; halved</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Steam the broccoli. Combine ricotta, blue cheese and cream cheese. Beat
+  until smooth. Beat in milk. Stir in parsley and seasonings; set aside. To
+  serve, place broccoli on one third of a large plater. Toss pasta with half
+  the cheese mixture; spoon onto center third of platter. In a small bowl,
+  toss tomatoes and mushrooms together; place on remaining third of platter.
+  Drizzle remaining cheese mixture over vegetables.
+  
+  Posted to recipelu-digest Volume 01 Number 499 by Kevin Kirkland
+  &lt;kevink@intergate.bc.ca&gt; on Jan 11, 1998
+ 
+</step></directions></recipe></recipeml>

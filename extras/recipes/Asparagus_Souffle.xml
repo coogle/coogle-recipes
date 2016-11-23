@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Souffle</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; separated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Finely chopped asparagus cooked; well drai</item></ing></ingredients>
+    <directions>
+      <step>  With butter, flour, and milk, make a smooth gravy. Remove from heat and add
+  egg yolks, blend. Stir in asparagus. Beat egg whites until stiff; carefully
+  fold into mixture. Bake in a greased 2-quart baking dish (straight sided)
+  in preheated oven 30-40 minutes at 375 degrees, or until puffed and knife
+  inserted will come out clean. Serve at once. Makes 4 servings. Other
+  vegetables may be substituted for the asparagus.
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Feb 16,
+  1998
+ 
+</step></directions></recipe></recipeml>

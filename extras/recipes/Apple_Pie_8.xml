@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced apples (up to 7)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>2 tsp lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmet</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon peel</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Pie crusts</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Each brown and white sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine</item></ing></ingredients>
+    <directions>
+      <step>  Mix lemon peel, nutmeg, cinnamon, and sugars. Put 1/2 of apples in bottom
+  of crust. Sprinkle 1/2 of the sugar mixture. Add rest of apples. Put rest
+  of sugar mix on top. Sprinkle lemon juice over apples. Dot with 3 tbsps
+  margarine. Add top pie crust (slice it to release steam). Bake 40-50 mins
+  at 425 degrees til golden.
+  
+  *note - I find that 30 mins at 425 is plenty.
+  
+  Posted to Bakery-Shoppe Digest V1 #419 by Deborah Hrabinski
+  &lt;dh@AESOP.RUTGERS.EDU&gt; on Nov 26, 1997
+ 
+</step></directions></recipe></recipeml>

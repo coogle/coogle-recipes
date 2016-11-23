@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1-2-3-4 Cake Filling and Topping</title>
+      <categories>
+        <cat>Icing</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FOR FILLING AND ICING</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Orange juice; strained</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar; granulated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Orange rind; finely grated</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Makes: Icing and filling for one cake. SEE: Cake, 1-2-3-4 Cake by James
+  Beard for the cake recipe.
+  :       Mix the orange juice, lemon juice, sugar and orange rind together
+  and drizzle the mixture over the three still warm cake layers. Be careful
+  not to let it all soak into one spot.
+  :       Then pile the layers on top of each other. The juice mixture will
+  give the cake a lovely, fresh, fruity flavor and it is not rich like a
+  chocolate or other candy flavored icing. Leave the cake to cool.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

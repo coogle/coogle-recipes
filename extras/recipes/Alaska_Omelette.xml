@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alaska Omelette</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Cheese/eggs</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>105</qty>
+          <unit>grams</unit></amt>
+        <item>Canned pink Alaska salmon drained and flaked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sour cream or fromage frais</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly chopped tarragon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and white pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>grams</unit></amt>
+        <item>Butter or margarine</item></ing></ingredients>
+    <directions>
+      <step>  Drain the can of salmon and set aside.
+  
+  Beat together the eggs, cream or fromage frais and tarragon. Season
+  lightly. Melt the butter in a non-stick or omelette pan. Pour in the eggs
+  and cook over a moderate heat until the base is set. While the base is
+  setting, pre-heat a moderate grill. Arrange the canned salmon over the soft
+  top of the omelette. Place the pan under the grill until omelette is set.
+  Loosen the omelette in the pan and carefully fold in half: Slide the
+  omelette onto a serving plate garnished with salad.
+  
+  Serves 1. Approx. 415 kcals per serving
+  
+  From: On the Wild Side - Alaska Canned Salmon Recipes Reprinted with
+  permission from Alaska Seafood Marketing Institute Meal-Master compatible
+  recipe format courtesy of Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

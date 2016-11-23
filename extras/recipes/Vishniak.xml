@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vishniak</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Spirits</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bing cherries or other fresh</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or frozen fruit</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>liter</unit></amt>
+        <item>Vodka, rum or brandy (higher</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Proof -- the better)</item></ing></ingredients>
+    <directions>
+      <step>  Wash and stem the cherries.  Place them in a clean glass container.  Pour
+  the pound of sugar over the cherries. DO NOT STIR OR SHAKE.
+  
+  Pour the liquor over the sugar and cherries.  Do not stir.  Cover with a
+  lid. Put the jar on a cool dark place and let it stand three months.
+  
+  Strain into two 1-quart bottles. This produces a very sweet liquor.  I use
+  less sugar, but if sweet is what you want, this is it. You can use oranges,
+  peaches apricots, plums, etc. Do not peel the fruit first.
+  
+  Recipe By     : SeaGalley
+  
+  From: Love2bake@aol.Com               Date: Thu, 8 Dec 1994 14:07:56 -0500
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anadama Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Yellow cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>Joyce</qty>
+          <unit>L.</unit></amt>
+        <item>Owen &lt;jowen@oregon.uoregon.edu&gt;</item></ing></ingredients>
+    <directions>
+      <step>  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+ 
+</step></directions></recipe></recipeml>

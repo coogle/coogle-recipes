@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Lean White Bread and Variation</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Low fat</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 1/2 Lb Loaf:; (1 Lb Loaf):</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Active Dry Yeast; (1 T)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Bread Flour; (2 C)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt; (1 T)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar; (1 T)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water; (3/4 C + 1 T)</item></ing></ingredients>
+    <directions>
+      <step>  This airy, crusty, loaf is perfect sandwich bread fro tuna fish, peanut
+  butter or lettuce and tomato.  If you don't slice it too thick, it will
+  even fit into a low-calorie diet. Since this recipe has no shortening, the
+  bread will turn stale, after only one day, but it will still make fine
+  toast, especially good for a fried egg sandwich.
+  
+  Variation I used: Decreased the bread flour to 2 1/2 C and added 1/2 C
+  yellow cornmeal. Added 2 T sesame seeds
+  
+  It really made it a totally different bread.
+  
+  Entered into MasterCook and tested for you by Reggie Dwork
+  reggie@reggie.com
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : The Best Bread Machine Cookbook Ever, Madge Rosenberg
+ 
+</step></directions></recipe></recipeml>

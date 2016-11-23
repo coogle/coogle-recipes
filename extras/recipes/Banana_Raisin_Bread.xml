@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Raisin Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Bread maili</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Active Dry Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Corn Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>Bananas; Peeled &amp; Mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; broken</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>  Yields 1 Loaf
+  
+  All ingredients should be at room temperature before starting. Add all the
+  ingredients except the raisins, broken nut meats and the final flour in the
+  order listed. Select" White Bread". Press "Start".
+  
+  Roll the raisins in the extra flour. Add the raisins and the broken nut
+  meats to the pan just before the end of the final kneading, when the
+  "beeps" sound.
+  
+  &gt;From: Joel.Ehrlich@salata.com (Joel Ehrlich)
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : The Bread Machine Cookbook V, Donna Rathmell German  p80
+ 
+</step></directions></recipe></recipeml>

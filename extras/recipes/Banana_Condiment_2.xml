@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Condiment</title>
+      <categories>
+        <cat>Ethnic</cat>
+        <cat>Relishes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Stephen Ceideburg</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>To 6 over-ripe bananas (see note)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice and grated zest of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar (optional)</item></ing></ingredients>
+    <directions>
+      <step>  This chutney, from neighboring Zaire, goes well with curries. From "The
+  Africa News Cookbook".
+  
+  Peel and coarsely mash the bananas. Combine in a medium saucepan with the
+  lemon juice, zest and sugar, if desired. Cook, stirring frequently, for 10
+  to 15 minutes, or until thick. Keeps up to 2 weeks in a covered container
+  in the refrigerator.
+  
+  For a more complex chutney, cinnamon, cloves and raisins may be added
+  before cooking.
+  
+  Note: Ripen bananas in the refrigerator until they are dark brown and soft.
+  
+  Yields 1 cup.
+  
+  PER TABLESPOON: 25 calories, 0 g protein, 7 g carbohydrate, 0 g fat, 0 mg
+  cholesterol, 0 mg sodium, 0 g fiber.
+  
+  From an article by Karola Saekel in the San Francisco Chronicle, 8/18/93.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

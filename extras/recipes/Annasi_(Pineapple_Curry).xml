@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Annasi (Pineapple Curry)</title>
+      <categories>
+        <cat>Main dish</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fresh pineapple</item></ing>
+      <ing>
+        <amt>
+          <qty>25</qty>
+          <unit>grams</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Fresh chillies</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>grams</unit></amt>
+        <item>Ghee sprig curry leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Stem lemon grass</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chilli powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Powdered mustard seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tuimeric</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit>mililiters</unit></amt>
+        <item>Coconut milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fennel</item></ing></ingredients>
+    <directions>
+      <step>  Cut the pineapple in half lengthways, scoop out the flesh and cut into
+  cubes.  Retain the half pineapple shells. Chop the onion and finely slice
+  the chillies Heat the ghee and fry the onion together with the curry leaves
+  and lemon grass. Add the chilli powder paprika powder, mustard, turmeric,
+  salt  and pine apple pieces and cook for a few minutes until the pineapple
+  is soft. Remove from the heat and pour in the coconut milk. Sprinkle with
+  the fennel and allow curry to simmer for a further 10 minutes. Serve in
+  hollowed out pineapple shells, garnished with sliced chillies. From "A
+  taste of Sri Lanka" by Indra Jayasekera, ISBN #962 224 010 0
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Nut Candy</title>
+      <categories>
+        <cat>Candy</cat>
+        <cat>Osg</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Peanuts; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing></ingredients>
+    <directions>
+      <step>  Beat egg whites until still. Add nuts and sugar, pour into shallow pan
+  greased with butter. Bake in oven until light brown. Mark into squares
+  when removed from oven. This will never fail unless allowed to burn.
+  
+  Source: Mrs. C. Duckworth, Community Grange, Shelby County, OH
+  Originally published in Ohio State Grange Cook Book, 21st ed., Apr 1966.
+  Compiled by members of the Ohio State Grange Home Economics Committee.
+  
+  File ftp://ftp.idiscover.co.uk/pub.food/mealmaster/recipes/mm-candy.zip
+ 
+</step></directions></recipe></recipeml>

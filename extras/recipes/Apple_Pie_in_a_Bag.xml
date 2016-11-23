@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie in a Bag</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit/></amt>
+        <item>In unbaked pie shell</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>6 tart green apples (cut 3</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>slices</unit></amt>
+        <item>To 1/4 apple)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mix:</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated white sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  Add to sliced appples. Put in unbaked pie shell.
+  
+  Topping: 1/2 cup granulated white sugar 1/2 cup flour 1/2 cup
+  margarine or butter (softened)
+  
+  Blend topping ingredients with pastry blender, by cutting in.
+  Sprinkle over top of pie. Cover pie with Clean Brown Paper Bag (LARGE
+  size - Shopping Bag). Close bag with large safety pin. Bake at 400
+  degrees for 1 hour.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

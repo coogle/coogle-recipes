@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Kh</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sifted cake flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cream of tartar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Almond extract</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375. Sift together flour, 3/4 cup sugar and salt together
+        4    times into a bowl.
+  
+  In separate bowl, beat whites with tartar until soft peaks form. add
+  remaining sugar, 2 tablespoons at a time; beat well after each addition.
+  Add extract.
+  
+  Sift 1/4 cup flour mixture over whites; fold in gently. Fold in remaining
+  flour mixture, 1/4 cup at a time. Pour batter into ungreased, 10" tube
+  pan; bake 35-40 minutes. Turn pan upside down on wire rack and let cake
+  cool in pan for 1 hour. The cake should come out of its own accord.
+  
+  Posted to MM-Recipes Digest V3 #245
+  
+  Date: Sat, 7 Sep 1996 21:14:22 -0700 (MST)
+  
+  From: jmchee@goodnet.com (Marina Cheesman)
+ 
+</step></directions></recipe></recipeml>

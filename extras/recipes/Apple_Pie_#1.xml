@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie #1</title>
+      <categories>
+        <cat>Pie</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Lard</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Ice water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg; beaten, for glaze</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Canned apples; (recommend White House brand)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Prepare the crust. Combine the flour, sugar, and salt in a bowl. Cut into
+  the lard with two knives or a pastry cutter. The mixture should be smooth
+  and crumbly. Slowly work in the ice water and knead the dough until smooth.
+  Roll the dough into a bowl and dust with flour. Cover it with plastic wrap
+  and refrigerate for 1 hour. Roll out half the dough and use it to line a 9
+  in. pie pan. Brush the inside of this crust with beaten egg. Prepare the
+  filling. Combine the apples with the spices. Pour the apples into the crust
+  and top with the butter and sugar. Roll out the remaining dough and place
+  it on top of the pie. Prick the top crust with a fork and brush it with the
+  remaining beaten egg. Bake the pie in a preheated oven for 1 hour, or until
+  well browned.
+  
+  JOE'S STONE CRAB
+  
+      227    BISCAYNE ST., MIAMI BEACH
+  
+  MARTIN RAY PINOT NOIR, 1980
+  
+  From the &lt;Micro Cookbook Collection of American recipes&gt;, downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Indian Pudding</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Yellow granulated corn meal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Black molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lard or butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>quarts</unit></amt>
+        <item>Hot milk</item></ing></ingredients>
+    <directions>
+      <step>  From: jlang@cityscape.co.uk (Jack Lang)
+  
+  Date: Thu, 25 Aug 1994 04:05:35 GMT
+  This is from a leaflet from the famous Durgin Park Restaurant ('Where your
+  grandfather dined a century ago'),
+  
+  Mix all the ingredients thoroughly with one half (3/4 quart) of the above
+  hot milk and bake in a very hot even until it boils.  Then stir in
+  remaining half (3/4 quart) of hot milk, and bake in a slow oven heat for
+  five to seven hours. Bake in a stone crock, well greased inside.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /DESSERTS
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

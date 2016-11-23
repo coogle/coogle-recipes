@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Meringue Shortbread</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Jam or jelly</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 400. Make a well in center of flour; add egg yolks, 1/2
+  cup sugar, salt &amp; butter. Work with hands until well blended. Press
+  dough into ungreased square pan, 9*9*1 3/4". Bake 15-20 minutes. Cool
+  slightly; spread with jam or jelly. Beat whites until foamy.
+  Gradually add 1/2 cup sugar &amp; cinnamon. Continue beating until whites
+  stand is stiff peaks. Spread meringue over jam. Bake 8-10 minutes.
+  Cut in 1 1/2" squares.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alcatraz Porter</title>
+      <categories>
+        <cat>Beer</cat>
+        <cat>Brewing</cat></categories>
+      <yield>54</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Barley (pale malt)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Wheat malt</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Munich malt</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Crystal/Chocolate mixture</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Black Patent</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1 5/8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cascade Hops (5.8AAU)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(Bittering)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Mt. Hood Hops (3.8AAU??)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(Bittering)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cascade (finish)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Wyeast English Ale</item></ing></ingredients>
+    <directions>
+      <step>  Add  all grains, crushed, to 6qts water at 55C. Wait 30 min. Raise  temp to
+  62C (Added 2qts boiling water) Wait 75 min. Raise temp to 75C. Wait 5 min.
+  Sparge with 75C water. Bring to boil, add molasses,  Cascade,  and Mt. Hood
+  hops.  Boil one hour. Add finishing hops.  Boil 5  min.  Cool down in sink.
+  Add yeast from starter. I recently tasted my all-grain porter against
+  Anchor's and the big thing I notice was Anchor Porter is thick, creamy.
+  Mine is low carbonated, but it does not have that creamy feel. This was my
+  first all-grain brew  and my first porter. It has a good malt flavor. Next
+  time I would cut  back on the hops some. Original Gravity: 1.054 Final
+  Gravity: 1.010 Primary Ferment: 10 days
+  
+  Recipe By     : Bryan Gros
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

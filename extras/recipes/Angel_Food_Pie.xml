@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Pie</title>
+      <categories>
+        <cat>Pie</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped pecans</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whipped topping</item></ing></ingredients>
+    <directions>
+      <step>  Beat egg whites until almost stiff. Add sugar &amp; vanilla slowly. Beat until
+  mixture stands alone. Pour into baked pie shell. Bake at 300 until whites
+  are slightly browned, about 30 minutes. Remove from oven &amp; cool. Top with
+  whipped topping. Sprinkle with pecans. Keep in refrigerator.
+  
+  RACHEL POHLNER
+  
+  FISHER, AR
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

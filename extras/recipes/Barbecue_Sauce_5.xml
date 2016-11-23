@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Sauce</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter; two sticks</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>32</qty>
+          <unit>ounces</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Red pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Black pepper</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter and mix in sugar, then mix all other ingredients together.
+  Bring to a boil, cut back heat and simmer, stirring constantly, for 8-10
+  minutes, or until desired consistency is reached.
+  
+  Source "Nothing makes a soup moment like a rainy day" By ANN BURGER, Post
+  and Courier Food Editor, Sun, 08-Feb-1998.
+  http://www.charleston.net/pub/entertain/cookin/soup0208.htm
+  
+  Notes: Linda says she has a great barbecue sauce recipe that her
+  father-in-law shared. If you want a milder sauce, you can cut the amounts
+  of red and black pepper in half.
+  
+  Recipe by: Linda Mercer's father in law
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Feb 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

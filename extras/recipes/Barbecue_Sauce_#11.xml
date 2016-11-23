@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Sauce #11</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; finely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Put ingredients in a large pot and simmer until thick, about 6 to 8 hours.
+  Yield: 3 quarts.
+  
+  JULIE ALLEN (MRS. WALLY)
+  
+  From &lt;Traditions: A Taste of the Good Life&gt;, by the Little Rock (AR) Junior
+  League.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

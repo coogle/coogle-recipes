@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ham with Mustard Sauce</title>
+      <categories>
+        <cat>Ham</cat>
+        <cat>Chef</cat>
+        <cat>Favorites</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fully cooked bone-in ham</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dijon mustard or other</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cider vinegar</item></ing></ingredients>
+    <directions>
+      <step>  Place ham on rack, fat side up in roasting pan. Insert meat thermometer,
+  not by bone. Bake uncovered, 325 F, 18-20 mins per lb. 30 mins before ham
+  is done, remove from oven. Score in a cross-cross fashion, 1/8" in and 1"
+  apart. Glaze ham. Bake an additional 30 mins.
+  
+  Delicious! TNT shared by Sherilyn Schamber, Sept. 1997
+  
+  Recipe by: Taste, TVFN - David Rosengarten
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Sherilyn Schamber
+  &lt;sherschm@concentric.net&gt; on Sep 19, 1997
+ 
+</step></directions></recipe></recipeml>

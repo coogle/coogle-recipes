@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pancakes</title>
+      <categories>
+        <cat>Pancakes</cat>
+        <cat>Kids</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whole wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>White enriched flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Apples, diced</item></ing></ingredients>
+    <directions>
+      <step>  Mix together dry ingredients. Add liquid ingredients; mix well, Add diced
+  apples. Mix together. Bake on a hot greased skillet.
+  Posted to recipelu-digest Volume 01 Number 670 by GramWag@aol.com on Feb 1,
+  1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Pasta with Pimiento</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Rice</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>( 4 Oz.) Jar Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pimientos Undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh Angel Hair Pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated Parmesan Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped Chives</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dash Of Garlic Powder</item></ing></ingredients>
+    <directions>
+      <step>  Drain Pimiento, Reserving 1 t. Juice; Set Aside.
+   Break Pasta Into Thirds; Cook in Boiling Water in A Large Saucepan30 Sec.
+  OR Until Tender But Still Firm. Drain Well; Place in A Warm Serving Bowl
+  With Pimientos, 1 t. Pimiento Juice, Cheese, Chives, Olive Oil &amp; Garlic
+  Powder.  Toss Well To Coat Before Serving.
+ 
+</step></directions></recipe></recipeml>

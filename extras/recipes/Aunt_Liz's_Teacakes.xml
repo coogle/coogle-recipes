@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Liz's Teacakes</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Cooper</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Shortening; heaping measurement</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Whole eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing></ingredients>
+    <directions>
+      <step>  Cream sugar, shortening, butter, eggs and milk together, then add all dry
+  ingredients. Roll out on floured and sugared board and cut out with cookie
+  cutters. Preheat oven to 350F oven and bake for 10 to 12 minutes. You can
+  add food coloring, decorate with sugar, little candies, or frosting, or you
+  can add flavor extracts such as vanilla, lemon, orange, almond, etc.
+  
+  Recipe by: Roxanne's Aunt Liz
+  
+  Posted to recipelu-digest Volume 01 Number 399 by Sewgoode
+  &lt;Sewgoode@aol.com&gt; on Dec 24, 1997
+ 
+</step></directions></recipe></recipeml>

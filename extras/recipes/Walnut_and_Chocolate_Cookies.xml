@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut and Chocolate Cookies</title>
+      <categories>
+        <cat>Chocolate</cat>
+        <cat>Cookies</cat></categories>
+      <yield>40</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Powdered cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ground walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Grated lemon peel</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg yolk, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chocolate Icing:</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Semi-sweetened or bitter sweet chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vegetable shortening</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 325 F (165 C). Sift flour, powdered sugar and cinnamon
+  together into a bowl. Cut in butter until mixture resembles coarse meal.
+  Stir in ground walnuts, lemon peel and egg yolk.
+  
+  Turn mixture onto floured board and knead until smooth. Roll out on a
+  floured board 1/8-inch thickness and cut into 2-inch rounds. Place on a
+  greased cookie sheet and bake 10 to 15 minutes, or until lightly browned.
+  Cool on a wire rack.
+  
+  Icing:
+  
+  In a double boiler very slowly melt chocolate and shortening over warm
+  water. Dip half of each cookie into melted chocolate mixture. Refrigerate
+  on wax paper until chocolate is set.
+  
+  Makes about 40 cookies.
+  
+  Source: Gifts From The Pantry By Annette Grimsdale
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

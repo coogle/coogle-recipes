@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Coated Chicken with Orange</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Chicken breasts</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs; beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>(100g) almonds</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped onion</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Poultry seasoning</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Orange marmalade</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Grated orange rind</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Karen Haigh
+  
+        6    servings
+  
+  Crispy Chicken in a tasty sauce, easy to make.
+  http://dinnercoop.cs.cmu.edu/dinnercoop/Recipes/subjects/turkey.html
+  
+  Dip chicken breasts in flour, egg, then almonds.
+  Melt a small amount of butter in a large nonstick frypan. Saute
+  coatedchicken breasts, one at a time, on both sides until golden and cooked
+  through, adding more butter to pan as needed. Set aside; keep warm.
+  
+  Melt a little more butter in same frypan. Saute onion until tender. Blend
+  in 2 tablespoons. flour and poultry seasoning. Gradually stir in milk. Cook
+  and stir over medium heatuntil mixture boils and thickens. Remove from
+  heat. Stir in marmalade, orange rind, juice, salt and pepper.
+  
+  To serve, pour sauce over breasts.
+  
+  Posted to recipelu-digest by LSHW &lt;shusky@erols.com&gt; on Feb 18, 1998
+ 
+</step></directions></recipe></recipeml>

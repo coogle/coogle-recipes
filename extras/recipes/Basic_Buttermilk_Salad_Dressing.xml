@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Buttermilk Salad Dressing</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>August</cat>
+        <cat>Salad dress</cat>
+        <cat>Lacto</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Lowfat buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>White wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(about 1/4 t each)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Green onions, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove, minced</item></ing></ingredients>
+    <directions>
+      <step>  Combine ingredients and chill in the refrigerator.
+  
+  From: jawallac@uga.cc.uga.edu. Fatfree Digest [Volume 9 Issue 42] Aug. 2,
+  1994. Formatted by Sue Smith, S.Smith34, TXFT40A@Prodigy.com using MMCONV
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

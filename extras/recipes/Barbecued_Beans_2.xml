@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Beans</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Dried kidney beans, washed and soaked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Yellow onions, chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Bacon drippings</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chili sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Firmly packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Powdered mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees.  Drain beans, place in an ungreased 3 quart
+  bean pot or casserole, and mix in all remaining ingredients. Cover tightly
+  (use a double thickness of foil if casserole has no lid) and bake 5 to 6
+  hours, stirring occasionally, until beans are tender and sauce thick. If
+  mixture gets too dry before beans are done, stir in a little warm water.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

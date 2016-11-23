@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All Grain Porter</title>
+      <categories>
+        <cat>Beer</cat>
+        <cat>Brewing</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>pounds</unit></amt>
+        <item>American 6-row (Klages)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Munich malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Crystal malt (90L)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Black patent malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chocolate malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Roasted barley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Calcium carbonate</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Northern Brewer hops (boil)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Cascade hops (boil)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Cascade hops (finish)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whitbread ale yeast</item></ing></ingredients>
+    <directions>
+      <step>  Use Papazian's temperature-controlled mash procedure. Sparge and boil. This
+  recipes is based on Papazian's "Silver Dollar Porter."  I  suspect the
+  difference  in quality between this batch and an extract  batch  is going
+  to be the difference between fresh-brewed coffee and instant.  The wort had
+  a much better hot and cold break than I've   ever  experienced using
+  extracts, and it tasted better too. Original Gravity: 1.051
+  
+  Recipe By     : Serving Size:
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

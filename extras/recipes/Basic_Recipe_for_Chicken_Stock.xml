@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Recipe for Chicken Stock</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>pounds</unit></amt>
+          <item>Chicken bones</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>quarts</unit></amt>
+          <item>Cold water or remouillage</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Mirepoix</item></ing></ing-div>
+      <ing-div>
+        <title>MIREPOIX</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Onion</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Carrot</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Celery</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>ALL Large Cut</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Standard sachet d'epices</item></ing></ing-div>
+      <ing-div>
+        <title>SACHET D'EPICES</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Parsley stems; (up TO 4)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Thyme leaves; dried</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Bay leaf</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Peppercorns; cracked</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Crushed garlic clove</item></ing></ing-div>
+      <ing-div>
+        <title>REST</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt to taste</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  tie all sachet ingredients up in a cheesecloth bag then drop in stock.
+  
+  Makes 1 Gallon
+  
+  1. Rinse the Bones.
+  
+  2. Combine Bones &amp; Water.
+  
+  3. Bring them slowly to a boil.
+  
+  4. Skim the Scum off of the surface!
+  
+  5. Simmer very gently for 5-6 hours
+  
+  6. add the Mire Poix, Sachet d'epices, and salt. simmer additional 1-2
+  hours.
+  
+  7. Strain, Cool, Store or Use right away.
+  
+  This is a very good recipe for a basic chicken stock. Try it and I am sure
+  you will find your stock much more clear.
+  
+  Posted to recipelu-digest Volume 01 Number 440 by CuisineArt
+  &lt;CuisineArt@aol.com&gt; on Jan 3, 1998
+ 
+</step></directions></recipe></recipeml>

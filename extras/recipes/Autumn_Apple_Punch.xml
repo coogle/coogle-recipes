@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Autumn Apple Punch</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>quarts</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cinnamon sticks</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Whole cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Pineapple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pints</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>28</qty>
+          <unit>ounces</unit></amt>
+        <item>Ginger ale</item></ing></ingredients>
+    <directions>
+      <step>  Place apple juice in a NON-aluminum kettle; tie spices in cheesecloth, add
+  to kettle, and simmer uncovered 15 minutes; discard spice bag. Mix spiced
+  juice with remaining fruit juices. To serve, place a large block of ice in
+  a large punch bowl, add fruit juice and ginger ale.
+  
+  From: Terri St.Louis
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

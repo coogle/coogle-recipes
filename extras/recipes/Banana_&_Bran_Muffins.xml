@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana &amp; Bran Muffins</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>WET MIX</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine or oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Golden syrup</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mashed banana</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk or yoghurt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Orange rind</item></ing></ing-div>
+      <ing-div>
+        <title>DRY MIX</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flaky bran</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Self-raising flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Equal parts of cinnamon &amp; sugar</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Preheat oven to 400øF &amp; grease muffin pans. Beat well, all of the wet mix
+  ingredients &amp; gently fold in the previously combined dry ingredients. Place
+  in the muffin pans, sprinkle with topping and bake for 20-25 mins. Makes
+  12-14.
+  
+   Variation: 1/2 cup mixed dried fruits &amp; nuts may be added to the wet mix
+  as desired.
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

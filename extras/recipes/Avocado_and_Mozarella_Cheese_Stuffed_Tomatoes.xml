@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado and Mozarella Cheese Stuffed Tomatoes</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Vegetables</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Garlic</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Avocados; cut in 1/2" cubes</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Mozarella; cut in 1/2" cubes</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>large</unit></amt>
+          <item>Tomatoes; vine ripened</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>large</unit></amt>
+          <item>Cloves garlic; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Basil; fresh chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Balsamic vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Dijon mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Extra virgin olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>White wine</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Red leaf lettuce for garnish</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Garlic chives for garnish</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cut tomatoes in half and scoop out insides. (Can be used in place of tomato
+  concasse to make Tomato-Basil Cream Sauce.) Set each half on top of lettuce
+  garnished plate. In a blender, add garlic, basil, balsamic vinegar, oil and
+  white wine. Blend and adjust according to taste. Toss with Avocado and
+  Mozarella cubes until completely coated. Stuff tomatoes with mixture and
+  garnish with garlic chives or other long thin garnish stuck into tomatoes.
+  Looks terrific and tastes unbelievable!
+ 
+</step></directions></recipe></recipeml>

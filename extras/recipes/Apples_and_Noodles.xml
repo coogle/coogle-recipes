@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apples and Noodles</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Noodles, cooked and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>x</unit></amt>
+        <item>Apples, peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>   Preheat oven to 350 deg F.
+   Place half of the noodles and apples in a buttered baking dish. Sprinkle
+  with half the brown sugar and a dash of cinnamon. Dot with half the butter.
+  Repeat. Cover and bake 30 minutes.
+   Stir well before serving (or, leave uncovered toward the end of baking to
+  give the top a nice crunchy texture.)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

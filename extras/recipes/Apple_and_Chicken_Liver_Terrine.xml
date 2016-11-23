@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Chicken Liver Terrine</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken livers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground pork</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Pared &amp; finely diced apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Calvados</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Beaten eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fine bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Bacon slices</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350. Process liver, pork, salt &amp; pepper in processor
+  until smooth. Mix apples, Calvados, cream, eggs &amp; crumbs together.
+  Blend in meat. Line 9"X5" loaf pan with foil. Grease. Layer bacon on
+  foil &amp; add mixture. Butter a piece of wax paper &amp; place on top of
+  meat, buttered side down. Bake in water bath for 2 hours. Remove &amp;
+  weigh down. Chill overnight with weights. Remove weights. Chill 3-4
+  days. Unmold. Remove bacon &amp; wipe away excess fat. Slice &amp; serve.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

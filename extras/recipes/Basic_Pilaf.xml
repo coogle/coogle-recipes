@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pilaf</title>
+      <categories>
+        <cat>Rice</cat>
+        <cat>Rice cooker</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive Oil Or Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Uncooked Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Hot Chicken Or Beef Broth; Or Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt; optional</item></ing></ingredients>
+    <directions>
+      <step>  Saute rice, stirring constantly, in hot oil or butter in nonstick pan until
+  translucent, about 2 minutes. Combine rice and broth in steaming pan;
+  season to taste. Cover and steam until the rice is done, 18 to 20 minutes.
+  Uncover and allow to dry out, 3 to 5 minutes. Fluff with fork before
+  serving.
+  
+  Variations: * Soak rice in hot water; allow to cool; drain and proceed with
+  recipe. Turkish cooks consider this step necessary for a fluffier rice.
+  
+  * Although not typical, pilaf may be flavored with onion and garlic.
+  
+  * Pilaf may be sprinkled with finely chopped parsley or paprika to taste
+  just before serving.
+  
+  * Like their neighbors in Italy, Greeks love tomatoes so they can sometimes
+  add the flavor to pilaf. Saute 1/2 cup finely chopped onion in oil. Add 1/2
+  cup finely chopped tomato or tomato sauce to rice and broth in steaming
+  pan. Onion may be omitted.
+  
+  Recipe by: The Ultimate Rice Cooker Cookbook by Betty L. Torre
+  
+  Posted to recipelu-digest Volume 01 Number 446 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Jan 04, 1998
+ 
+</step></directions></recipe></recipeml>

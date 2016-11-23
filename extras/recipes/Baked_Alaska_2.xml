@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Alaska</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Ice cream</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>ICE CREAM COOKBOOK-----</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sifted all-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Brick ice cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>MERINGUE TOPPING-----</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Egg whites at room temp.</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Superfine sugar</item></ing></ingredients>
+    <directions>
+      <step>  Grease and flour lightly a 9" square pan. Sift together the flour, sugar,
+  baking powder, and salt in a mixing bowl. Add the shortening and milk. Beat
+  1 1/2 minutes with a mixer on low speed or 225 strokes by hand. Add in the
+  egg and vnailla and beat for another 1 1/2 minutes. Pour into pan and bake
+  at 350F for 20 to 25 minutes, or until a toothpick inserted into cake comes
+  out clean. Cool. Place cake on a cookie sheet and cut strips 2 inches wide
+  from each side of cake. Put ice cream on top of cake and completely cover
+  both with meringue. Seal meringue to edges. Bake at 450F for 5 minutes, or
+  until lightly browned. Serve at once.
+  
+  MERINGUE TOPPING: Beat the egg whites and salt until they form soft peaks.
+  Still beating, slowly pour in the sugar and continue to beat for about 5
+  minutes, until the egg whites are stiff and glossy. Immediately spread over
+  cake and ice cream.
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

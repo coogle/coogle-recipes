@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Pie a la Mode</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Masterchefs</cat>
+        <cat>Frisco</cat>
+        <cat>Lec</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>VANILLA ICE CREAM</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>quarts</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>large</unit></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>quarts</unit></amt>
+          <item>Cream, heavy</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Bean, vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>WALNUT PIE</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Butter, cooled</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Egg yolk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Walnuts, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Cream, heavy</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Vanilla Ice Cream:
+  ==================
+  
+       Cut the vanilla bean lengthwise into 4 sections and place it in a
+  saucepan with the milk.  Brink the milk to a boil and remove from heat.
+  
+       In a stainless bowl, whip the egg yolks and sugar until foamy. Strain
+  the milk into the egg mixture.  Place the bowl on a double-boiler and mix
+  with a wooden spatula until the mixture thickens and adheres to the
+  spatula.  Remove the bowl from the double-boiler and add heavy cream.
+  
+       Place the mixture in a refrigerator until cold.
+  
+       Pour the mixture into an ice cream freezer and churn for 30 minutes or
+  until stiff.
+  
+  Walnut Pie:
+  ===========
+  
+       In a large bowl, combine the sugar, cooled butter, and salt.  Add
+  flour 1 cup at a time and mix.
+  
+       Add 1 egg and mix well but do not overwork.
+  
+       Divide the dough mixture into two portions 2/3 and 1/3 parts of the
+  dough.  Let the dough rest in a refrigerator for at least 2 hours,
+  overnight if possible.  Roll out the 2/3 portion of dough until it's 13
+  inches in diameter.  Place this layer in a buttered 10-inch pie plate.
+  Leave any excess dough hanging over the edge of the plate.
+  
+       Place this dough in the refrigerator.
+  
+       Roll out the 1/3 portion of dough until it's 11 inches in diameter.
+  Refrigerate on waxed paper.
+  
+  Walnut Filling:
+  ===============
+  
+       In a saucepan over medium heat, boil the heavy cream and sugar until
+  reduced by one-half.  Add the walnuts and cook for 5 minutes.
+  
+       Pour the cooked mixture into a bowl and refrigerate.
+  
+  Assembly:
+  =========
+  
+       Remove the pie plate from the refrigerator and fill it with cooled
+  walnut mixture.  Take 1 beaten egg yolk and brush the pie dough around the
+  lip of the plate.  Cover the pie with the top dough, press around the
+  edges, and remove any excess dough.
+  
+       Score the dough with a fork in a crisscross pattern, then bake it in a
+  375 F oven for 30 minutes.
+  
+       Refrigerate until cold and serve topped with ice cream.
+  
+       Source:  Great Chefs of San Francisco, Avon Books, 1984
+  
+       Chef:   Max Schacher, Le Coquelicot, Ross, Marin County, CA
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-sf.zip
+ 
+</step></directions></recipe></recipeml>

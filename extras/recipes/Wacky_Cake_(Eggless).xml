@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wacky Cake (Eggless)</title>
+      <categories>
+        <cat>Chocolate</cat>
+        <cat>Desserts</cat>
+        <cat>Cakes &amp; coo</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mix together -- in 9 x 13</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pan:</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cocoa</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Make 3 indentations -- in</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>This mixture</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vinegar (white or apple</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cider) -- in hole 1</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla -- in hole 2</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>And 1 tsp. oil -- in hole 3</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water -- pour over all</item></ing></ingredients>
+    <directions>
+      <step>  Mix everything together with a fork and bake at 325 for 30-35 min.
+  
+  Recipe By     : JanMary
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

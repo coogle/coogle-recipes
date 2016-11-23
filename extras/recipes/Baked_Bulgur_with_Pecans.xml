@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Bulgur with Pecans</title>
+      <categories>
+        <cat>Vegetarian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bulgur wheat, uncooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped pecans</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees.
+  
+  Lightly oil a 1 quart baking dish or spray with a nonstick cooking spray.
+  Place bulgur, basil, salt and pepper in prepared baking dish. Add boiling
+  water and mix well.
+  
+  Cover tightly and bake 20 minutes.
+  
+   Fluff with a fork, add pecans, and mix well.
+  
+   Serve hot.
+  
+   Per serving: 129 cal, 4 g prot, 4 g fat, 22 g carbohydrate, 51 mg sod, 0
+  mg chol
+  
+   From _Lean, Luscious and Meatless_ by Bobbie Hinman and Millie Snyder
+  
+  DEEANNE                      at 13:11 EDT
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

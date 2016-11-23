@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic British Sausage</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Lean pork; such as shoulder</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Pork fat</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Fresh breadcrumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nutmeg; ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mace; thyme</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sausage skins</item></ing></ingredients>
+    <directions>
+      <step>  Mince the lean pork and pork fat finely.  Season generously with salt,
+  pepper, and at least a pinch each of nutmeg, cloves, mace and thyme. Add
+  the breadcrumbs and egg yolks and mix well. Refrigerate the mixture to make
+  it easier to handle, then stuff into the skins and twist to secure the
+  ends. If sausage skins are not available, coat with egg and dry
+  breadcrumbs.  Serve grilled or fried.
+  Posted to EAT-L Digest 30 Aug 96
+  
+  Date:    Sat, 31 Aug 1996 10:23:25 EDT
+  
+  From:    erika metzieder &lt;100627.3022@COMPUSERVE.COM&gt;
+ 
+</step></directions></recipe></recipeml>

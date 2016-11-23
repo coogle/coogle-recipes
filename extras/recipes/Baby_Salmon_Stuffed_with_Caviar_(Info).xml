@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baby Salmon Stuffed with Caviar (Info)</title>
+      <categories>
+        <cat>Information</cat>
+        <cat>Seafood</cat>
+        <cat>Masterchefs</cat>
+        <cat>Frisco</cat>
+        <cat>M</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>No ingredients</item></ing></ingredients>
+    <directions>
+      <step>       This recipe was too long for one message or Meal Master file, so I
+  split it up into three parts.  Be sure to capture all of the files before
+  attempting this dish.
+  
+       Baby Salmon Stuffed with Caviar I (Red Wine Sauce)
+       Baby Salmon Stuffed with Caviar II (Mousse)
+       Baby Salmon Stuffed with Caviar III (Assembly)
+  
+       Source:  Great Chefs of San Francisco, Avon Books, 1984
+  
+       Chef:   Masataka Kobayashi, Masa's, Vintage Court Hotel,
+       :       San Francisco, CA
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-sf.zip
+ 
+</step></directions></recipe></recipeml>

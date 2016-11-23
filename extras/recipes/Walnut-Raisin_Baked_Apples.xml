@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut-Raisin Baked Apples</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Microwave</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Apples, peeled and cored as</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>...directed in Basic Baked</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>...Apples recipe</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unsalted butter</item></ing></ingredients>
+    <directions>
+      <step>  Fill cavities of prepared apples with raisins and chopped walnuts. Place
+  apples in 8-inch square baking dish.  Pour water and apple juice over all.
+  Brush apple tops with honey and dot with butter. Bake according to
+  directions in Basic Baked Apples recipe.
+  
+  FOR GROWN-UPS: For a romantic touch, pour * cup warmed Calvados or
+  applejack over baked apples and ignite with a match.  Serve with vanilla
+  ice cream or frozen yogurt.
+  
+  Source: Mommy Made and Daddy Too by Martha and David Kimmel with Suzanne
+  Goldenson.
+  
+  Courtesy of:
+  
+  Kathleen's Recipe Swap Page         recipes@ilos.net
+  http://www.ilos.net/~q591b4/recipe
+  Posted to MM-Recipes Digest  by q591b4@ilos.net on Apr 10, 1998
+ 
+</step></directions></recipe></recipeml>

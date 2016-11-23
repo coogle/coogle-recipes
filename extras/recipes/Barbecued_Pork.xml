@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Pork</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Lean pork roast (fat trimmed off) or 3 pounds lean ribs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salad oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cloves</item></ing></ingredients>
+    <directions>
+      <step>  Here's a recipe from The Diabetic Gourmet your husband might like.
+  
+  Cut pork into bite-size pieces. Combine ingredients in plastic bag and
+  marinate 1 to 2 hours. Remove meat from bag and discard marinade. Put meat
+  on small rack or skewers and bake at 325 degrees for 1 hour. Serves 4.
+  
+  Total recipe contains: 6 grams carbohydrate, 87 grams protein, and 74 grams
+  fat.
+  
+  One serving (3 ounces) contains: 21 grams protein, 15 grams fat, and 225
+  calories.
+  
+  Exchange value: 1 serving (3 ounces) = 2 meat. Posted to MC-Recipe Digest
+  V1 #747 by vergie1@juno.com (Vergie A Ewing) on Aug 18, 1997
+ 
+</step></directions></recipe></recipeml>

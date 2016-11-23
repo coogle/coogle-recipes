@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ann Landers Meatloaf</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground round steak</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Accent</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Lipton's onion soup mix</item></ing></ingredients>
+    <directions>
+      <step>  Beat thoroughly. Put into loaf pan. Cover with two of strips bacon, if you
+  like that flavor. Pour one 8-ounce can of tomato sauce over all. Bake one
+  hour at 350 degrees...
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

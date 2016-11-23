@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Onion Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Sweet delicious apples,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peeled, cored and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Vidalia onions, peeled and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chicken bouillon cube</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Graham cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt (to taste if apples</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Are tart)</item></ing></ingredients>
+    <directions>
+      <step>  Peel, core and slice apples into 1/4 inch slices. Peel and thinly slice
+  onions. Layer the onion slices in a buttered 9 1/2 inch pyrex pie plate.
+  Put a layer of apples on onion slices, another layer of onions, ending with
+  apples. Pour one cup of bouillon over the layers, then sprinkle cracker
+  crumbs on top. Drizzle melted butter over the crumbs. Bake in oven at 350
+  degrees for 30 minutes or until top has browned.
+ 
+</step></directions></recipe></recipeml>

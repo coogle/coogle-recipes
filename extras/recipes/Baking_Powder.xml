@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baking Powder</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Bicarbonate of soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cream of tartar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Arrowroot starch</item></ing></ingredients>
+    <directions>
+      <step>  Combine these ingredients thoroughly and store in jar. Makes 1 1/4 cups of
+  baking powder. The arrowroot repels moisture, so it keeps well. To make
+  baking powder for immediate use, combine 1/4 teaspoon cream of tartar with
+  1/4 teaspoon bicarbonate of soda. This is the equivalent of 1 teaspoon of
+  commercial baking powder and has 225 milligrams of sodium. To make
+  sodium-free baking powder, eliminate the sodium bicarbonate and substitute
+  potassium bicarbonate which is available at pharmacies.
+  
+  Posted to JEWISH-FOOD digest V97 #338 by Bella Parnes &lt;bparnes@aabgu.org&gt;
+  on Dec 31, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Sponge</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Warm (105 to 115 degrees)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whole-wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bread flour</item></ing></ingredients>
+    <directions>
+      <step>  Combine yeast and warm water in 3-quart bowl. Let stand until some yeast
+  clumps rise to surface. Gradually stir in flours. Mixture will be very
+  thick. Cover with plastic.
+  
+  Let stand overnight in warm place. Sponge will double and become puffy. Use
+  as directed in recipes. Makes enough for 2 baguettes, 16 rolls and 2
+  focaccia loaves.
+  
+  One batch of sponge contains about:
+  
+  882 calories; 12 mg sodium; 0 mg cholesterol; 32 grams protein; 2.5 grams
+  fiber; 4% calories from fat.
+  
+  Recipe from: The Los Angeles Times Newspaper, Thursday March 05, 1992 Food
+  Section By: Abby Mandel.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

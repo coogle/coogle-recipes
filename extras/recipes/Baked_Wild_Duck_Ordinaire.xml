@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Wild Duck Ordinaire</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Duck</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple, studded with cloves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Margarine, melted</item></ing></ingredients>
+    <directions>
+      <step>  Directions: Parboil duck 5 minutes with 1 piece celery and small onion.
+  Remove and drain. Rub cavity and outside with salt &amp; pepper. Place inside
+  duck 1 small onion, apple studded with cloves, and a small white potato.
+  Bake 20 minutes at 450-F uncovered. Reduce heat to 350-F and bake covered
+  15-20 minutes. Baste with equal parts melted butter, hot water, and wine
+  and/or orange juice mixture.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

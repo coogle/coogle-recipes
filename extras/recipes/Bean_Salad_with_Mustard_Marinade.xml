@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Salad with Mustard Marinade</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cooked beans (pinto, kidney, black, garbonzo)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Scallions, thinly sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Grated carrot</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>bunches</unit></amt>
+          <item>Parsley; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Alfalfa sprouts</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pita bread or tortillas</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Apple cider or rice vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Eden low sodium tamari</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Prepared mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sesame tahini</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>Blend</qty>
+            <unit>or</unit></amt>
+          <item>whisk dressing and add to beans, scallions, carrots, and parsley.</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Let marinate at least 15 minutes. Slice pita bread in half and stuff with
+  marinated beans. Top with alfalfa sprouts and serve.
+  
+  Nutritional information per serving: Protein: 20 grams (20%);
+  Carbohydrates: 71 grams (72%); Fat: 4 grams (9%); Calories: 389; Sodium:
+  672 mg.; Cholesterol: 0 mg. Exchanges: 4 1/2 starch/bread, 1 lean meat
+  
+  Copyright Whole Foods Market, 1995, wfm@wholefoods.com
+  (http://www.wholefoods.com/wf.html) Reprinted with permission from Whole
+  Foods Market Meal-Master compatible format courtesy of Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

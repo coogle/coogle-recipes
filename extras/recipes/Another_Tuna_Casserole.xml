@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Another Tuna Casserole</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Casseroles</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Solid white tuna, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of mushroom soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Whole mushrooms, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Celery, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green pepper, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Can chow mein noodles</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dash of garlic powder</item></ing></ingredients>
+    <directions>
+      <step>  Combine everything in a casserole dish. Reserve some of the chow mein
+  noodles for the topping. Bake at 350F for 25 minutes. Top with
+  remaining noodles and return to oven for 5 min.
+  
+  Source: The warped mind of Linda Fields, Cyberealm BBS Watertown NY
+  originally posted: 9/16/92
+  315-786-1120
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber4.zip
+ 
+</step></directions></recipe></recipeml>

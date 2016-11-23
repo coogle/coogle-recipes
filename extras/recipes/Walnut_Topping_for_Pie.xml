@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Topping for Pie</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Combine and sprinkle over pie filling and bake according to directions for
+  the type of filling you use. Good for a pear pie!!! Also peach, pumpkin,
+  apple, and a custard cooked in this is wonderful!! Posted to TNT -
+  Prodigy's Recipe Exchange Newsletter  by Judy Ferbert &lt;ajewell@sound.net&gt;
+  on Aug 15, 1997
+ 
+</step></directions></recipe></recipeml>

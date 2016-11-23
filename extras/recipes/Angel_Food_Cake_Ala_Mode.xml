@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Cake Ala Mode</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Blueberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grand Marnier</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slices angel food cake</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Scoops vanilla ice cream</item></ing></ingredients>
+    <directions>
+      <step>  In a bowl mix berries with sugar and Grand Marnier.
+  
+  On each plate, set a slice of cake and top it with a scoop
+  of ice cream. Spoon berry mixture over and around the cake.
+  Posted to EAT-L Digest 23 Aug 96
+  
+  Date:    Sat, 24 Aug 1996 00:50:24 -0400
+  
+  From:    "Thomas E. Haug" &lt;theservs@GATE.NET&gt;
+ 
+</step></directions></recipe></recipeml>

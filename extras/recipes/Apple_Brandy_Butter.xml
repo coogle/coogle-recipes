@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Brandy Butter</title>
+      <categories>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh unsweetened applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Calvados</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange blossom honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cloves</item></ing></ingredients>
+    <directions>
+      <step>  Place all ingredients in heavy saucepan. Bring to a boil over medium heat,
+  stirring frequently. Cook for about 15 minutes, or until mixture begins to
+  thicken. Pour into hot sterilized jars, leaving 1/4 inch headspace. Vacuum
+  seal. Makes 6 1/2 pint jars.
+  From Gourmet Preserves, Judith Choate.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmealnew.zip
+ 
+</step></directions></recipe></recipeml>

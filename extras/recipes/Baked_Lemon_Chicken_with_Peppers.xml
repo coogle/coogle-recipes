@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lemon Chicken with Peppers</title>
+      <categories>
+        <cat>Chicken</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Red peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Green peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped Italian parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Broiler/fryer chicken</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients except chicken and vegetables. Add chicken and
+  marinate at room temperature for 1 hour, turning once. Drain and bake
+  chicken at 400 degrees for 35 minutes. Cut peppers into 1/2-inch thick
+  rings.  Saute 8 minutes.  Spoon peppers around chicken. Makes 4 to 6
+  servings.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

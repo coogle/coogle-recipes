@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beans and Potatoes</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Dried pinto beans</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Potatoes, peeled and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Stalks celery, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Sweet onion, sliced</item></ing></ingredients>
+    <directions>
+      <step>  Cook beans until tender. That's about 20 minutes in the pressure cooker
+  (what a marvel of technology!). Obviously, a lot longer if you don't have
+  one. You could use canned beans too, if you wanted to be quick about it.
+  
+  Add potatoes and celery and cook until potatoes are tender. In the pressure
+  cooker that takes anywhere from 2-8 minutes, depending how finely you chop
+  the potatoes. I cut mine into large cubes and it took about 4 minutes (but
+  I live at 5500, so adjust accordingly).
+  
+  Salt to taste.
+  
+  Saute onion until browned. Mix in with beans and potatoes.
+  
+  If you like it hot, a shot or two of hot sauce would be good. Extremely
+  filling!!!!
+  
+  From: Sharon.E.Badian@att.com. Fatfree Digest [Volume 8 Issue 56] June 17,
+  1994 Formatted by Sue Smith, S.Smith34, TXFT40A@Prodigy.com using MMCONV
+  
+  : This is adapted from *The Africa News Cookbook.* It goes MUCH faster if
+  you have a pressure cooker. That's what I used and you can go from dried
+  beans to dinner table in about an hour. :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

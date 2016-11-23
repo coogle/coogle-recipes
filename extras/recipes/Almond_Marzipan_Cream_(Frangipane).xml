@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Marzipan Cream (Frangipane)</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>(3/4 cup) all purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>(1/2 cup) sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>(3/4 cup) ground almonds</item></ing></ingredients>
+    <directions>
+      <step>  You will need 2 bowls, a saucepan, and a baking dish. Beat the eggs
+  together.  Mix the flour with a little of the milk, and then stir into the
+  rest of the milk and the beaten eggs. Cook the mixture over low heat like a
+  custard, whisking steadily and adding the sugar and the almonds little by
+  little.  When thick, remove from the heat and pour into an oiled baking
+  dish. When it is cold, cut into squares like Turkish delight. Serve as a
+  special treat for holidays.
+  
+  From:  "The Old World Kitchen - The Rich Tradition of European Peasant
+  Cooking" by Elisabeth Luard, ISBN 0-553-05219-5 Posted by: Karin Brewer,
+  Cooking Echo, 8/92
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

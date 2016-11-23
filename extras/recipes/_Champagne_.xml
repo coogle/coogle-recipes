@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Champagne"</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Beverages</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>32</qty>
+          <unit>ounces</unit></amt>
+        <item>Club soda or seltzer</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Frozen white grape juice concentrate (6 oz. each); thawed</item></ing></ingredients>
+    <directions>
+      <step>   Stir together club soda or seltzer and grape juice concentrate. Pour into
+  two soda bottles. Cap tightly and chill. Serves 8 to 10.
+  
+   Per serving: 30 cal; 0 prot; 0 fat; 7 g carb; 0 chol; 29 mg sod; 0 fiber;
+  vegan
+  
+   Source: Vegetarian Times, Jan 94/MM by DEEANNE
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

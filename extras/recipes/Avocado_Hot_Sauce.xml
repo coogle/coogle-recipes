@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Hot Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Mexican</cat>
+        <cat>Spices</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit/></amt>
+        <item>To 1 cup</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Serrano chiles, stems, seeds removed, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Liquid hot sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Avocados, pitted and peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chopped garlic</item></ing></ingredients>
+    <directions>
+      <step>  Place all ingredients in blender and puree until
+  smooth.
+  
+  The Whole Chili Pepper From the collection of Jim
+  Vorheis
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Coleslaw</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Salads</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FROM LOIS FLACK</title></ing-div>
+      <ing-div>
+        <title>CYBEREALM BBS (315)786-1120</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Head of cabbage, shredded or</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Thinly sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Apple cubed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Grated orange peel</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cloves (if desired)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mayonnaise or Sour Cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Lemon juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a large bowl, combine all ingredients; toss lightly.
+  
+  Source: The Pillsbury Cookbook
+  
+  Typed for you by: Lois Flack, CYBEREALM BBS, Watertown, NY.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

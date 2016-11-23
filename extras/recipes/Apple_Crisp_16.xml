@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Granny Smith apples; peeled, cored, and thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter; cut into small cubes, cold</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  (From a long-lost acquaintance)
+  
+  Grease and 8 inch cake pan. Preheat oven to 350 degrees. Use lemon juice
+  while cutting the apples to prevent browning from oxidation.
+  
+  Tightly layer the apples into pan.
+  
+  Sift the flour, sugar, cinnamon and salt. Cut in the butter. Sprinkle it on
+  the apples, trying to seal the edges.
+  
+  Bake about 1 hour; serve warm or at room temperature with whipped cream,
+  ice cream, or lemon sorbet. I like to serve candied or crystalized ginger
+  with the crisp.
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 946 by Melissa Tarleton
+  &lt;meltimnick@mindspring.com&gt; on Jan 17, 1998
+ 
+</step></directions></recipe></recipeml>

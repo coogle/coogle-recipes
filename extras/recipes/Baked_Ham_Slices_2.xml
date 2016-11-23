@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ham Slices</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Ham; 1-inch thick</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Cut slashes in edge of ham. Sprinkle with mustard and sugar. Place in heavy
+  skillet. Pour milk into pan but do not cover ham with milk. Bake uncovered
+  at
+      350    for 1-1/4 hours.
+  
+  MRS MARION FOSTER (MARY)
+  
+  MARVELL, AR
+  
+  From the book &lt;High Cotton Cookin'&gt;, Marvell Academy Mothers Assn, Marvell,
+  AR  72366, ISBN 0-918544-14-9, downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

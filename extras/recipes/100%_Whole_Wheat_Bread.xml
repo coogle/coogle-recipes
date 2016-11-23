@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>100% Whole Wheat Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Yeast</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>packages</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Scalded Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>cups</unit></amt>
+        <item>Whole Wheat Flour</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve yeast in 2/3 c water while your milk is cooling.  Dissolve 1 cup
+  sugar in the hot milk.  Stir all ingredients in large bowl, turn out and
+  knead about 5 minutes, adding flour if needed.  Knead about 5 minutes.
+  Let rise until doubled in bulk, about 1 1/2 to 2 hours.  Knead down and
+  shape into 6 loaves, let rise until doubled in pans.  Bake at 375 degrees
+  F. for 40 minutes.  Turn out on wire rack and let cool to cold before
+  slicing, if you can.
+  NOTE:
+  Raisins and/or walnuts can be added for a change.  Also this bread freezes
+  well.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/breads1.zip
+ 
+</step></directions></recipe></recipeml>

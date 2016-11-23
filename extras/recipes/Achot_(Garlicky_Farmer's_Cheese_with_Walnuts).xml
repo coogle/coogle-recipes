@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Achot (Garlicky Farmer's Cheese with Walnuts)</title>
+      <categories>
+        <cat>Armenia</cat>
+        <cat>Appetizers</cat>
+        <cat>Upload</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cheese, farmer</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Walnuts; chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Yogurt, low-fat</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dill; chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley; chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce, boston</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; chopped coarsely</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pita; toasted triangles</item></ing></ingredients>
+    <directions>
+      <step>    Process the farmer's cheese, finely chopped walnuts, and yogurt in a food
+  processor until smooth.
+    Transfer the cheese to a bowl and mix with herbs, garlic, and salt. Shape
+  into a ball, cover, and refrigerate for 4 hours.
+    Line a small serving platter with several lettuce leaves and carefully
+  transfer the cheese ball to the platter. Press the coarsely chopped walnuts
+  into the ball so they more or less cover it. Serve with the toasted pita
+  triangles.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

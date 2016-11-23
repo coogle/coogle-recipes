@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Puffed Pancake</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Breakfast</cat>
+        <cat>Brunch</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Apples; peeled, thinly slice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Firmly packed brown sugar (up to 3)</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 425.
+  
+  In a blender or large bowl, mix eggs, milk, flour, sugar, vanilla, salt and
+  cinnamon until blended. (If using an electric mixer, batter will remain
+  slightly lumpy.)
+  
+  In the oven, melt butter in a 12-inch fluted porcelain quiche dish or a
+  13-by-9-inch baking dish; add apple slices and return to oven until butter
+  sizzles. Do not let it brown. Remove dish from oven and immediately pour
+  batter over apple. Sprinkle with brown sugar.
+  
+  Bake in middle of oven 20 minutes or until puffed and brown. Serve
+  immediately.
+  
+  NOTES : (This is superb!)
+  
+  Recipe by: "Cooking for Entertaining" by Marlene Sorosky Posted to
+  MC-Recipe Digest V1 #728 by LBotsko@aol.com on Aug 8, 1997
+ 
+</step></directions></recipe></recipeml>

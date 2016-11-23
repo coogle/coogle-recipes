@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antic Ancho Chili</title>
+      <categories>
+        <cat>Chili</cat>
+        <cat>Main dish</cat>
+        <cat>Mexico</cat>
+        <cat>Beef/veal</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Dried ancho chilies</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil, olive</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Stew meat</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Beef stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chopped cilantro</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Goat cheese, crumbled</item></ing></ingredients>
+    <directions>
+      <step>  Remove stems from chilies and slit leagthwise. Scrape out seeds. Place in
+  saucepan, add water and heat to boiling, reduce heat. Simmer until tender,
+  about 15 minutes. Set aside. Heat butter with olive oil in a large heavy
+  pot over medium heat. Saute beef cubes, a few at a time, until well
+  browned. Set aside. Add onions to pot, cook 1 minute. Add garlic, cook 2
+  minutes on high then reduce heat and cook for 4 minutes. Drain chilies,
+  reserving 1/2 cup liquid. Blend peppers with reserved liquid. Add to
+  onions. Return meat and add the other ingredients. Heat to boliling then
+  reduce heat and cook covered, under low heat for 1 1/2 to 2 hours. Note if
+  the chili is to thin just remove the cover and let it render, until it is
+  thick. Serve with rice or beans, cover with goat cheese.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

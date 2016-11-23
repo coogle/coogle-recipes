@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond-Fudge Ice Cream</title>
+      <categories>
+        <cat>Ice</cat>
+        <cat>Creams</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cocoa</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>quart</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Whipping cream</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Slivered almonds; toasted and chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Almond extract</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Toasted slivered almonds</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine first 3 ingredients in a large saucepan. Combine 2 cups milk and
+  eggs, and whisk into sugar mixture. Cook over medium heat, whisking
+  constantly, 10 minutes or until mixture thickens and coats a metal spoon.
+  Whisk in remaining 2 cups milk; cool completely.
+  
+  Combine milk mixture, whipping cream, chopped almonds, and extract in
+  freezer container of a 1-gallon hand-turned or electric freezer. Freeze
+  according to manufacturer's instructions.
+  
+  Spoon into a 13 x 9 inch pan; cover and freeze. Let stand 10 minutes.
+  Garnish, if desired. Makes 2 quarts.
+  
+  Recipe by: Southern Living
+  
+  Posted to MC-Recipe Digest V1 #1036 by Suzy Wert &lt;SuzyWert@aol.com&gt; on Jan
+  23, 1998
+ 
+</step></directions></recipe></recipeml>

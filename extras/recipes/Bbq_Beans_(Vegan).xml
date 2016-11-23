@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Beans (Vegan)</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Beans</cat>
+        <cat>Mcdougall</cat>
+        <cat>Prodigy</cat>
+        <cat>Dec.</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Turmeric; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Apple cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Tabasco sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Beans; cooked</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: The McDougall Plan Preparation Time: 0:35 Saute onion, pepper
+  and garlic in 1/4 c water for 5 minutes. Add mustard, chili, cumin, tumeric
+  and stir well to mix. Add remaining ingredients and mix well. Cook over low
+  heat until heated through, about 15 minutes. HELPFUL HINT: This is great on
+  a bun like sloppy-joe mix, with ketchup and mustard. Good take-along for
+  picnics. Use either hot or cold. Also good over whole grains or as a
+  sandwich spread.
+  :
+  
+  D/L from Prodigy 12-14-94. Recipe collection of Sue Smith. 1.80á
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

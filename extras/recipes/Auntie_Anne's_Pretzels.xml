@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Auntie Anne's Pretzels</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Snacks</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>White sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Brown sugar</item></ing></ingredients>
+    <directions>
+      <step>  Mix yeast, brown sugar, dash of salt and 1 1/2 cups water.  Let sit for
+  five minutes.  Add bread flour.  Knead well.  Let rise for about one hour.
+   Take a piece of dough and roll and shape into a pretzel.  The easiest way
+  to shape is to roll into a rope, whatever size you prefer.  Pinch ends of
+  rope then bring ends of rope to other side of circle.  Mix baking soda and
+  warm water.  Melt butter and mix with honey. Dip pretzels in baking soda
+  and water mixture.  Bake at 550F for approximately 8 minutes. Sprinkle with
+  white and brown sugar.
+  
+  Posted to Digest bread-bakers.v097.n054 by Peg Doolin
+  &lt;pegsean@together.net&gt; on Aug 24, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apple French Toast</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Loaf french bread (16 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar, divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Granny smith apples</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Netmeg</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees. Spray 9x13 pan with vegetable oil spray. Slice
+  bread into 1 1/2 inch slices. Place bread tightly together in one layer in
+  9x13 pan.
+  
+  Beat eggs lightly-add milk, 1/4 cup sugar, netmeg and vanilla and mix with
+  whisk. Pour half of the liquid over the bread.
+  
+  Peel, core and slice apples into rings...place apple rings on top of bread
+  to cover. Pour remaining egg mixture over apples. Mix remaining 1/2 cup of
+  sugar with cinnamon and sprinkle evenly over apples. Dot with butter. Bake
+  for 35 minutes. Cool for 5-10 minutes before serving. Serve with warm maple
+  syrup.
+  
+  Posted to MC-Recipe Digest V1 #261
+  
+  Date: Sun, 27 Oct 1996 06:54:36 GMT
+  
+  From: Douglas Weller &lt;dweller@ramtops.demon.co.uk&gt;
+ 
+</step></directions></recipe></recipeml>

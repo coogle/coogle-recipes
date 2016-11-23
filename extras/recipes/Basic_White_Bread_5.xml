@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic White Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Bread maili</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Water ; (1 cup + 2 Tbl.)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Canola Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour; or unbleached (13.5 - 14 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>NonFat Dry Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Active Dry Yeast</item></ing></ingredients>
+    <directions>
+      <step>  &gt;From: Carlos  cdluria@aol.com
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : Breadman's recipe
+ 
+</step></directions></recipe></recipeml>

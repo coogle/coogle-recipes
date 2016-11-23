@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asst Ice Creams</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>24</qty>
+          <unit/></amt>
+        <item>ICE CREAM;IMIT,5 0Z 18 AA</item></ing>
+      <ing>
+        <amt>
+          <qty>18</qty>
+          <unit/></amt>
+        <item>ICE CREAM IMIT; PT</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>FUDGE BAR 2.701 OZ</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>ICE CREAM SANDWICH</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>ICE MILK BAR BIG DIP COAT</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>ICE MILK BAR BIG DIP COAT</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>ICE NOVELTY STIC 2.701 OZ</item></ing></ingredients>
+    <directions>
+      <step>  FOOD SERVICE PERSONNEL WILL PLACE 100 SERVINGS OFCOMMERCIAL
+  INDIVUAL ICE CREAMS INTO EACH ICE CREAM CABINETS FOR SELF-
+  SERVICE BY THE DINERS
+  SERVING PERIOD. ICE CREAM WILL BE MADE AVAILABLE THROUGHOUT
+  THE SERVING PERIOD. NOT MORE THAN 30 MIN. AFTER THE MEAL
+  THE ICE CREAM WILL BE REMOVED FROM THE ICE CREAM CABNET AND
+  RETURNED TO THE FREEZER. AFTER SERVING PERIOD THE AMOUNT USED
+  WILL BE POSTED TO THE KITCHEN WORKSHEET FOR THAT MEAL.
+  Recipe Number: S00112
+  
+  SERVING SIZE: 1 EA
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

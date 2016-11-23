@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>49er Christmas Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Sourdough</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Starter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs;beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Currants;or raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mace</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>  add salt, sugar, milk, eggs, melted butter, currants and spices to the
+  culture and mix well. Add the flour a cup a a time until too stiff to mix
+  by hand. Then turn onto a floured board and knead in remaining flour Divide
+  in half form two loaves place in greased loaf pan and let rise 1-1/2 to 3
+  hours til the dough rises 1 to 2 inches above lip of pan. bake in preheated
+  oven 400 for 55 to 60 minutes cool on racks.
+  
+  Converted by MMCONV vers. 1.00
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

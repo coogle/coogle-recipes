@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fish</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Panfish fillets (perch; trout, whitefish)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dill weed</item></ing></ingredients>
+    <directions>
+      <step>  Place fish in a 10 inch pie plate that has been coated with nonstick
+  cooking spray. Sprinkle with parmesan cheese and dill. Bake, uncovered, at
+  350 for 8-10 minutes or until fish flakes easily with a fork. Yield 2
+  servings.
+  
+  Recipe by: Taste of Home June/July 1996
+  
+  Posted to MC-Recipe Digest V1 #995 by L979 &lt;L979@aol.com&gt; on Jan 8, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacardi Rum Balls</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit/></amt>
+        <item>Dark rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vanilla wafer crumb</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Ground walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioners sugar</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients except sugar. Shape into 1 inch balls. Roll in
+  sugar. Store in tightly covered container.
+  Posted to recipelu-digest Volume 01 Number 324 by PookyPook@aol.com on Nov
+  28, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Akin Back Farm's Pasta Blue</title>
+      <categories>
+        <cat>Cheese/eggs</cat>
+        <cat>Harned 1994</cat>
+        <cat>Main dish</cat>
+        <cat>Pasta</cat>
+        <cat>Poultry</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Boneless chicken breasts skinless</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Sprigs fresh rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Sprigs fresh thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ziti</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Gorgonzola cheese; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh spinach torn in bite-size pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Nasturtiums</item></ing></ingredients>
+    <directions>
+      <step>  Prepare pasta according to package directions; set aside.
+  
+  Poach chicken breasts; remove meat and cube. Combine all ingredients except
+  nasturtiums.  Garnish with nasturtiums.
+  
+  Given to me by Herman Sommerville II on 03/09/93.  He said that this recipe
+  from Akin' Back herb nursery in Shelbyville, KY was in Alice Columbo's
+  "Cook's Corner" column in "The (Louisville, KY) Courier-Journal." Posted by
+  Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

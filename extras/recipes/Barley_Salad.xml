@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Jaw</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>11 (oz) quick-cooking barley</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Jar roasted red peppers, cut</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Into 1/4" strips</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Feta cheese, crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Capers, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped fresh cilantro</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Cook barley according to package directions; t4ansfer to large bowl. Cool
+  10 minutes. Add next 4 ingredients; toss gently to combine. In bowl combine
+  vinegar, lemon juice, cumin, salt and pepper until salt dissolves. Slowly
+  whisk in oil until thickened. Drizzle over barley mixture; toss gently to
+  combine.
+  
+  From "Women's World" Magazine typed by jessann :)
+  Posted to MM-Recipes Digest V5 #010 by "J. Wildes" &lt;jessann@texas.net&gt; on
+  Jan 10, 1998
+ 
+</step></directions></recipe></recipeml>

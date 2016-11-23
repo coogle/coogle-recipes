@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Blueberry Cream Pie</title>
+      <categories>
+        <cat>Pie</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Whipped topping mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Blueberry pie filling</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(8-oz) cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>(8-inch) pie shells</item></ing></ingredients>
+    <directions>
+      <step>  Bake two 8-inch pie shells. Let cool. Slice bananas &amp; put in pie shells.
+  Make whipped topping mix according to directions on the package. Add sugar,
+  a little at a time. Blend in cream cheese, pour into pie shells &amp; spread
+  pie filling over the top. Refrigerate 1-2 hours before serving.
+  
+  MICHELLE BELILA
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

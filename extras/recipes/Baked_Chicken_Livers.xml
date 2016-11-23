@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken Livers</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Low-cal</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Chicken livers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry mustard</item></ing></ingredients>
+    <directions>
+      <step>  NOTE:  Liver is high in cholesterol, about 300 mg per 3 oz serving
+  
+  Rinse chicken livers, remove any dark spots and fat, and pat dry. Pierce
+  each liver several times with a fork. (Note: any liver could be cut into
+  pieces about one or two bite size.)
+  
+  In a 1 quart casserole, combine livers with seasonings. Stir. Cover
+  tightly.  Microwave at High for 1 min, then at Medium 5-6 min or until
+  liver is pink. Allow 5 min after cooking time.
+  
+  For two servings, start with a bit less than 1/2 lb liver and half the
+  spices (or sprinkle them from the spice container). Cook about 1/2 min
+  High, 2 min Medium and check.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

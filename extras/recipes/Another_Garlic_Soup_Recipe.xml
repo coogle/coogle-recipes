@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Another Garlic Soup Recipe</title>
+      <categories>
+        <cat>Soups/stews</cat>
+        <cat>Appetizers</cat>
+        <cat>Vegetarian</cat>
+        <cat>Garlic</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Garlic, peeled &amp; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Croutons</item></ing></ingredients>
+    <directions>
+      <step>  Combine garlic &amp; onion in a bowl.  Heat oil in a large pot. Add garlic &amp;
+  onion &amp; saute till soft.  Do not brown. Add chopped tomatoes &amp; stir in
+  well.  After a few minutes, stir in stock &amp; pepper. Simmer for 15 minutes.
+  Add salt if desired.
+  
+  Serve with croutons.
+  
+  Source Unknown
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

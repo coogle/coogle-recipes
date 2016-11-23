@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Deep-Fried Egg Foo Yung</title>
+      <categories>
+        <cat>Eggs</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cooked meat or seafood</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetables</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for deep-frying</item></ing></ingredients>
+    <directions>
+      <step>  1. Follow steps 1 and 2 of "Basic Pan-Fried Egg Foo Yung". (You may, if you
+  wish, not beat the eggs first but stir them in with the meat and vegetables
+  until well mixed.)
+  
+  2. Heat oil until it foams (it should be about 2-1/2 inches deep).
+  Carefully drop egg mixture into oil with a ladle, tipping the ladle to
+  release the omelets. (For a 3-inch omelet, allow 1/2 cup of egg mixture;
+  for a smaller one, 1/4 cup.)
+  
+  3. Let omelet rise to the top (this will take about 2 minutes). Baste with
+  hot oil to brown. Then flip omelet over, using a spoon and spatula, or 2
+  spoons, and baste to brown the other side. Lift out with a slotted spoon
+  and drain on paper toweling. Keep warm.
+  
+  4. Repeat process until egg mixture is used up. Serve omelets either plain,
+  sprinkled lightly with soy sauce, or with "Egg Foo Yung Sauce #1/#2").
+  VARIATIONS: See the variations for "Basic Pan-fried Egg Foo Yung".
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bourbon Cake with Bourbon Creme Anglaise</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Cakes</cat>
+        <cat>Fruits</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Coarsely chopped pecans</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Golden raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Unsalted butter, room temp</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Ripe bananas</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Bourbon</item></ing></ing-div>
+      <ing-div>
+        <title>BOURBON CREME ANGLAISE</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Light cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Pure maple syrup</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Bourbon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  CAKE: Preheat oven to 350 degrees.  Toss the pecans and raisins with 1/2 c
+  flour and set aside.  Sift the remaining flour, the baking powder,
+  cinnamon, ginger, and nutmeg together and set aside.  Beat the butter and
+  sugar in a mixer bowl until light and fluffy.  Mash the bananas and beat
+  into the butter mixture.  Add the eggs, one at a time, beating well after
+  each addition.  Fold in the sifted flour mixture and bourbon alternately,
+  beginning and ending with the dry ingredients. Fold in the pecan mixture.
+  Pour the batter into an ungreased 10" tube pan. Bake 1 hour and 15 minutes.
+  Cool and remove from the pan. Cut the cake in slices and serve with Bourbon
+  Creme Anglaise spooned over it. BOURBON CREME ANGLAISE: Heat the cream and
+  sugar in a small saucepan just until the sugar dissolves.  Remove from the
+  heat.  Whisk the egg yolks together in a mixing bowl. Slowly beat in a
+  third of the cream mixture; then whisk the egg yolks back into the cream
+  mixture.  Cook over low heat, stirring constantly, just until thickened. Be
+  careful not to let the mixture boil. Remove to a clean bowl. Stir in the
+  syrup and bourbon. Cool completely. From The Silver Palate Good Times
+  Cookbook by Julee Russo &amp; Sheila Lukins.
+ 
+</step></directions></recipe></recipeml>

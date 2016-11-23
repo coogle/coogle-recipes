@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked, Pressed Tofu</title>
+      <categories>
+        <cat>Veg-cook</cat>
+        <cat>Sept.</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>x</unit></amt>
+        <item>Tofu</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>x</unit></amt>
+        <item>Favorite spices</item></ing></ingredients>
+    <directions>
+      <step>  From: dcross@pts.mot.com (Daniel Cross X8663 P5108).  About the quickest
+  tofu recipe I know is this one: Mix some flour (about .5 cup) with your
+  favorite spices (I like cayenne). Press most of the water out of a block of
+  tofu with a towel, then slice it up any old way. Dip the slices in soy
+  sauce, then in the flour/spice mix, and place on a baking tray. Bake for
+  20-30 minutes (a toaster-oven is great for this). If you like them browned
+  a little more, put them under the broiler for 5 min. before serving.
+  
+  From: samv@netcom.com (Sam Voeller).  sort of a boring tofu user myself,
+  but one recipe I have is so yummy I use it in all sorts of things. Preheat
+  oven to 350 degrees (f) cut tofu (firm) into 1" cubes dip cubed tofu in soy
+  sauce, and dust on all sides with fresh-ground black pepper set on lightly
+  oiled (or non-stick) baking sheet and bake for 30 minutes, turning once so
+  that all sides are browned evenly. This gives the tofu some real, chewable
+  texture, as well as a spicey zing.  I use these tofu chunks in thick stews,
+  or just over steamed veggies.
+  
+  rfvc Digest V94 Issue #200 Sept. 17, 1994. Formatted by Sue Smith,
+  S.Smith34, TXFT40A@Prodigy.com using MMCONV.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/vegcook2.zip
+ 
+</step></directions></recipe></recipeml>

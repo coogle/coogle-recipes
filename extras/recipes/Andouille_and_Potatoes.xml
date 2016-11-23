@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andouille and Potatoes</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meats</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Bacon drippings</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped bell pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Finely chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Finely chopped garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Audouille - or other heavily smoked sausage Louisiana hot sauce or ground cayenne pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt (or to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Potatoes, thinly sliced</item></ing></ingredients>
+    <directions>
+      <step>  Heat the bacon drippings in a large, heavy saucepan over medium high heat,
+  and saute the onions, bell pepper, and parsley, stirring occasionally until
+  the onions are clear. Add the wine, garlic, soy sauce, and andouille, and
+  mix well.  Add the salt and hot sauce and stir. Add the potatoes, stir,
+  cover, reduce the heat to low, and simmer, stirring occasionally until the
+  potatoes are tender, about 30 minutes.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

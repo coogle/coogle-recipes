@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Simple Posset</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>570</qty>
+          <unit>mililiters</unit></amt>
+        <item>Full Cream Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>250</qty>
+          <unit>mililiters</unit></amt>
+        <item>Sweet Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Soft Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon, Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Grated nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  1. Cut the lemon into slices and coat with sugar. 2. Boil the milk and when
+  it froths up add the sherry. 3. Strain out the curd and add the lemon,
+  ginger and nutmeg.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

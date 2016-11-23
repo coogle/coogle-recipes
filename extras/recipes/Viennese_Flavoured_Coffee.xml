@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Viennese Flavoured Coffee</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Dry instant coffee, scant</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dry nondairy creamer</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon dash each of ground allspice, cloves, &amp; nutmeg.</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients &amp; Store in air tight jar. To make mix 4 tsp with one
+  cup hot water.
+  
+  20 servings From: Ronda Eikenberry
+ 
+</step></directions></recipe></recipeml>

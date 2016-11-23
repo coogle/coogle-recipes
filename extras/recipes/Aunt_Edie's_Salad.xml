@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Edie's Salad</title>
+      <categories>
+        <cat>Healthy and</cat>
+        <cat>Salads</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Carrots, sliced 1/4" thick</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Broccoli flowerets</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cauliflower flowerets</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Red delicious apples, chopped, not peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Plain lowfat yogurt, strained</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Artificial sweetener</item></ing></ingredients>
+    <directions>
+      <step>  Mix yogurt, orange juice, and artificial sweetener. Pour over vegetables
+  and mix. That's it.
+  
+  I use strained yogurt but the original recipe calls for light salad
+  dressing.
+  Posted to MC-Recipe Digest V1 #344
+  
+  Recipe by: Edith Miller
+  
+  From: ferrets3 &lt;ferrets3@pilot.infi.net&gt;
+  
+  Date: Sat, 14 Dec 1996 19:09:25 -0500
+ 
+</step></directions></recipe></recipeml>

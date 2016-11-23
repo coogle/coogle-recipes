@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basics: Dried Pasta</title>
+      <categories>
+        <cat>Pastanoodle</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Dried pasta</item></ing></ingredients>
+    <directions>
+      <step>  Basics for new cooks:
+  
+  In large pot, cover and bring water and salt to full rolling boil. Stir in
+  pasta, separating pieces; return to boil and boil, uncovered and stirring
+  occasionally, for 8-10 minutes or until tender but firm. Drain well.
+  
+  Tip: Fine strands and small shapes of dried pasta cook in as little as 3
+  minutes.
+  
+  Tip: If pasta is to be coated with a sauce, do not rinse. The starchy
+  coating on pasta aids in holding sauce to the pasta.
+  
+  Source: Canadian Living magazine, Apr 95 Presented in article by Elizabeth
+  Baird: "Only The Best" Recipe by Canadian Living Test Kitchen
+  
+      [-=PAM=-]   PA_Meadows@msn.com
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

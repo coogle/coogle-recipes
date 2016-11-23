@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waldorf Slaw</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded cabbage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Diced apple with red skin intact</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Chopped celery</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Low-fat or nonfat mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unsweetened apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey</item></ing></ingredients>
+    <directions>
+      <step>  Combine cabbage, apple, celery, walnuts and raisins. Toss well. In a smal
+  bowl, combine mayonnaise, apple juice and honey, stirring well. Pour over
+  cabbage mixture. Mix well. Cover and chill at least 30 minutes.
+  
+  Posted to Digest eat-lf.v096.n197
+  
+  Date: Thu, 24 Oct 1996 11:13:16 -0500
+  
+  From: bmann@jcn1.com (Beverly Manning)
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie Filling 2</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>McIntosh apples; peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Grated lemon rind</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; cut in tiny pieces</item></ing></ingredients>
+    <directions>
+      <step>  In a large bowl toss apples with lemon jice and limon peel.  In a smaller
+  bowl, mix sugar, flour, and cinnamon.  Add to apple mixture and toss to
+  coat.  Fill 9 inch pie shell, mounding high in center, and dot with butter.
+  Cover edge with foil and bake at 425 degrees for 40 to 50 munites. Remove
+  foil for last 15 minutes.
+  Recipe By     : Comfort Foods Cookbook
+  
+  Posted to MC-Recipe Digest V1 #289
+  
+  Date: Sat, 09 Nov 1996 14:58:04 -0500
+  
+  From: jjndonug@sojourn.com (Julie Donnelly)
+  
+  NOTES : Optional:  add dried cranberries or add 1/4 to 1/2 teaspoon
+     cardamon.
+ 
+</step></directions></recipe></recipeml>

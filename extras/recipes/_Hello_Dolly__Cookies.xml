@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Hello Dolly" Cookies</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Misc</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Graham cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pecans; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Eagle brand condensed milk</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in a 13x9" pan.  Spread graham cracker crumbs over the bottom
+  of the pan.  Spread the chocolate chips in a layer over crumbs, then the
+  pecans in a layer over chocolate. Pour condensed milk over all this. DO NOT
+  STIR at any time. Bake at 350~F for 30 minutes. Cool and cut into squares.
+  Posted to TNT Recipes Digest, Vol 01, Nr 915 by SBTY18D@prodigy.com (MS
+  ANNE WEBB) on 4 Ja, n 1998
+ 
+</step></directions></recipe></recipeml>

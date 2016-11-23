@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon 'n Egg Crepes</title>
+      <categories>
+        <cat>Breakfast</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bacon (cooked &amp; crumbled)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green onions</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated Monterey Jack</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>8" crepes</item></ing></ingredients>
+    <directions>
+      <step>  Cut bacon into pieces &amp; fry until crisp; drain well. Whisk eggs &amp;
+  cream. Stir in bacon, onions &amp; seasonings. Pour into hot buttered
+  pan. As portions cook, gently lift with spatula so uncooked portions
+  can flow to bottom. Avoid constant stirring. Sprinkle cheese over
+  eggs when almost done. Spoon egg mixture into crepes &amp; roll. Serve
+  with hash browns &amp; green grapes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

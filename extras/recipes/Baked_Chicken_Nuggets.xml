@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken Nuggets</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Whole Chicken Breasts; Skinned And Boned</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Italian Bread Crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Parmesan Cheese; Grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme; Dried</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Basil; Dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter; Melted</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees.
+  
+  1. Soak chicken breasts in salt water for several hours.
+  
+  2. Remove all bones and cut meat into 1 1/2" pieces.
+  
+  3. Combine bread crumbs, cheese, salt, and herbs and mix well.
+  
+  4. Dip chicken pieces in melted butter and coat with bread crumb mixture.
+  
+  5. Place on baking sheet in a single layer and bake 20 minutes or until
+  done.
+  
+  6. Serve with dipping sauces, if desired.
+  Posted to recipelu-digest Volume 01 Number 304 by "Diane Geary"
+  &lt;diane@keyway.net&gt; on Nov 24, 1997
+ 
+</step></directions></recipe></recipeml>

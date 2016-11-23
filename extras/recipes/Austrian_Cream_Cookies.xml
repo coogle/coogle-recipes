@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Austrian Cream Cookies</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>3 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Easy Creamy Icing</item></ing></ingredients>
+    <directions>
+      <step>  Beat eggs until light. Add sugar gradually; blend in cream. Mix flour,
+  powder &amp; salt: stir in. Chill 1 hour. Heat oven to 375. Roll dough to
+  1/4" thick on lightly floured board. Cut into 2" squares. With knife,
+  make two 1/2" indentations on each side of each square. Place on
+  lightly greased sheet. Bake 10-13 minutes. Cool. Frost.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

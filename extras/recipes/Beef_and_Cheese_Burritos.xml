@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Cheese Burritos</title>
+      <categories>
+        <cat>Low-fat</cat>
+        <cat>Meats</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Ground beef, lean</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Green onions, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>clove</unit></amt>
+        <item>Garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Salsa</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Low-fat cottage cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried oregano. crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Flour tortillas, 6 inch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Mozzarella cheese, shredded</item></ing></ingredients>
+    <directions>
+      <step>  Cook ground beef, onions, and garlic in a small saucepan till beef is no
+  longer pink and onion is tender. Drain off fat. Combine 2T of the salsa,
+  the cottage cheese, cornstarch, and oregano. Add to meat mixture in
+  saucepan. Cook and stir till thickened and bubbly. Cook and stir for 2
+  minutes more.  Divide meat mixture between tortillas; roll up. Cover and
+  keep warm. In the same saucepan, heat remaining salsa. Pour over burritos.
+  Top with cheese.  3P, 1/2V, 1B. 293cal, 11gm fat.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

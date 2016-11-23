@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vincent Price's French Toast Santa Fe</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Celebrity</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bread</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Maple syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Powdered sugar</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to hot (400°F). Use bread that is very dry -- 2 or 3 days old.
+  Cut 3 slices of bread, 3/4 inch thick. Trim crusts and cut across
+  diagonally to make 6 triangles. In a bowl, beat eggs until light and
+  frothy. Add cream, salt and nutmeg. Soak bread, a few pieces at a time so
+  they absorb egg-cream mixture thoroughly. In skillet, heat 1/4 cup cooking
+  oil. Fry bread on both sides until golden. Remove bread and drain on paper
+  towel to absorb any grease. Place on baking sheet and allow to puff up in
+  the hot oven for 3 to 5 minutes. Sprinkle with sugar; serve with maple
+  syrup. Serves 2.
+  Posted to recipelu-digest by "Crane C. Walden" &lt;cranew@foothill.net&gt; on Feb
+  7, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1981 World Championship Butterfield Stageline Chili</title>
+      <categories>
+        <cat>Chili</cat>
+        <cat>Wp</cat></categories>
+      <yield>25</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Medium onions, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean beef brisket,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>Cloves garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground pork</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(7oz) whole green chiles,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(15oz) tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Whole tomatoes,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Tequila</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Can beer</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>(3 oz) chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Beef bouillon cubes</item></ing></ingredients>
+    <directions>
+      <step>   Brown onions, and beef in oil. Stir in garlic, pork, chiles, cumin,
+  oregano, salt, dry mustard, tomato sauce, tomatoes, tequila, beer,
+  chili powder and bouillon cubes.
+  
+   Bring to boil, then reduce heat and simmer 2-3 hours. Stir
+  occasionally.  Do not stir the last 30 min before serving.
+  
+  These recipes were posted to the fidonet COOKING echo by Wesley Pitts
+  in August 1993, and edited for Meal-master import by David Harmon.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/chili15.zip
+ 
+</step></directions></recipe></recipeml>

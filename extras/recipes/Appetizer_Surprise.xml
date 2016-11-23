@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Appetizer Surprise</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Dips</cat>
+        <cat>Harned 1994</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit>ounces</unit></amt>
+        <item>Can artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dill weed; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Paprika</item></ing></ingredients>
+    <directions>
+      <step>  Drain and chop artichoke hearts finely and set aside. Mix remaining
+  ingredients until smooth and creamy. Add artichoke hearts and mix well.
+  Place in long shallow dish that has been greased or sprayed with non-stick
+  spray. Sprinkle with paprika.  Bake at 375 F. for approximately 20-25
+  minutes, or until bubbly and brown.
+  
+  Serve with Ritz crackers, or dipping cracker of your choice. Keep warm
+  while serving.
+  
+  The original poster wrote: "Great for parties...I rarely tell anybody the
+  ingredients until they have tasted this dish. Most think it is a warm "crab
+  dip"; all are amazed that it is artichokes.
+  
+  Posted on WWiVNet, source unknown.  Electronic format by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

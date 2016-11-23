@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ziti</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Hamburger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar Prego Spaghetti Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ziti Noodles or any other big noodles</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mozarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Other cheeses as desired</item></ing></ingredients>
+    <directions>
+      <step>  Mix hamburger and sausage together and make into balls and cook until done
+  and brown. Mix in prego sauce. Cook noodles according to package. Layer
+  noodles in bottom of casserole dish. Then spoon on sauce/meat mixture. Then
+  a layer of cheese(s). Continue to layer items until dish is full or you use
+  all the sauce and noodles. Bake in preheated oven at 325 degrees for 25-35
+  minutes until cheese is melted and golden. Posted to EAT-L Digest by
+  "Winona Y. Wentworth" &lt;wyw@ATOMIC.NET&gt; on Sep 2, 1997
+ 
+</step></directions></recipe></recipeml>

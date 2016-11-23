@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Auntie Lin's Pluto Coffee</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Beverages</cat>
+        <cat>Mom's best</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Fresh ground coffee, prefer-</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>=ably chocolate mint, or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>.swiss chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Or more 151 Rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Large scoop whipped cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>HagenDaz Liqueur or Baileys</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>.Irish Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chocolate syrup</item></ing></ingredients>
+    <directions>
+      <step>  Fresh grind the coffee. We use either the swiss chocolate or the chocolate
+  mint coffee. Brew.
+  
+  In a large mug, put the 2+ oz of 151 rum in the bottom (have a little to
+  taste test if you wish!). Pour the hot coffee into the mug 3/4 of the way
+  up. Add the HagenDaz or Bailey's Irish Cream. Stir. Top with the fresh
+  whipped cream and drizzle chocolate syrup over all..
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

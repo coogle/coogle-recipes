@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Egg Fried Rice</title>
+      <categories>
+        <cat>Rice</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Leftover cooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Bacon; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; diced or slivered (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cooking wine; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>This</qty>
+          <unit>is</unit></amt>
+        <item>more like American homestyle, not Chinese-resaurant style:</item></ing></ingredients>
+    <directions>
+      <step>   Break up the lumps in the cold rice with your hand; set aside. Prepare
+  other ingredients before cooking. Mix the soy sauce and wine in a small
+  dish.
+  
+   Fry the bacon in a wok on high heat until nearly crisp. Remove most of the
+  fat, leaving ~2 tbsp or less. Add the onions and fry with bacon until soft
+  and golden. Push the bacon/onions to the side and scramble the eggs in the
+  fat at the bottom of the wok. Add the rice and mix everything together
+  until rice is hot. Sprinkle with soy sauce/wine and pepper and stir to mix.
+  
+   Note: I like how this works with long-grain better than short-grain rice.
+  
+  HAMILTON@GL.UMBC.EDU
+  
+  (DIANA HAMILTON)
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

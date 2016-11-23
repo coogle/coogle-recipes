@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Fajitas</title>
+      <categories>
+        <cat>Main dish</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>RO*TEL Diced Tomatoes and Green Chilies (10 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Skirt steak, trim excess fat</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Onions, sliced 1/4" thick</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Green peppers, sliced 1/4"</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>PAM No-Stick Cooking Spray</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>8" flour tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dairy sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Guacamole</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Taco sauce</item></ing></ingredients>
+    <directions>
+      <step>  In a 9x12x2" baking dish combine RO*TEL, beer, lemon juice, oil,
+  garlic and black pepper. Place meat in dish, turning once to coat
+  both sides. Place onions and peppers over meat, cover and refrigerate
+  at least 6 hours or overnight.
+  
+  Remove meat and vegetables from marinade; set aside marinade. Broil
+  meat 3" from heat source for 8 minutes. Flip meat, brush with
+  remaining marinade and cook to medium doneness, about 7 minutes.
+  Slice beef across the grain into thin strips. Meanwhile, spray a 10"
+  skillet with PAM, saute onions and peppers until peppers are
+  tender-crisp, about 10 minutes. Warm tortillas according to package
+  directions.
+  
+  For each fajita, layer meat, onion and pepper, cheese, sour cream,
+  guacamole and taco sauce in the center of tortilla. Roll to enclose.
+  
+  From "Southwestern Sensations Starring RO*TEL", courtesy Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sw-sense.zip
+ 
+</step></directions></recipe></recipeml>

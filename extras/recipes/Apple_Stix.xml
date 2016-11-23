@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Stix</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Sugar-free gelatin; any flavor (4 serving size box) water; boiling</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice (see note)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ice cubes (see note)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple; cut in matchstick size pieces</item></ing></ingredients>
+    <directions>
+      <step>  Note: Combine apple juice and enough ice cubes to make 1 1/4 cups.
+  
+  Prepare as normal using the 'quick set' directions. Use apple juice in
+  place of cold water. Stir in 1 1/2 cups apple cut in matchstick size
+  pieces, chill. ---
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef in Wine and Sour Cream Sauce</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Sauces</cat>
+        <cat>From cook4u</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef, cut into julienne</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Onion,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour pickles, cut thin</item></ing></ingredients>
+    <directions>
+      <step>  1. Sprinkle the meat with paprika and rub in well. 2. Heat the butter in a
+  very hot skillet and add the meat, stirring to separate the pieces so that
+  they cook evenly. Cook 2-3 min. Remove the meat with a slotted spoon. 3.
+  Add the onion to the skillet and cook, stirring about 1 min. Add the wine
+  and cook down to reduce by about one half. Lower the heat and add the sour
+  cream, stirring. Do not allow the sauce to boil or the sour cream will
+  curdle. 4. Return the meat to the skillet and stir to blend. Add the sour
+  pickles and mix in well. Serve with rice, noodles or sauteed potatoes. If
+  desired, garnish with pickle fans.
+  
+  This dish: Boeuf stroganoff
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

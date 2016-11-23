@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Sprouts and Cucumbers</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Salads</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bean sprouts;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cucumber;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Apple cider vinegar;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sesame oil;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Low-sodium soy sauce;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Toasted sesame oil;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>dashes</unit></amt>
+        <item>Chili powder;</item></ing></ingredients>
+    <directions>
+      <step>  Blanch bean sprouts in boiling water 1 minute, drain and let cool.
+  Peel cucumber, cut in half, seed and slice thinly.  Mix with sprouts.
+  In a small bowl, mix vinegar, seasame oil, soy sauce and water.  Toss
+  with sprouts.  Granish with seasame seeds and a dash of chili powder.
+  Food Exchange per serving: 1 VEGETABLE EXCHANGE + 1 FAT EXCHANGE;
+  CAL: 67; CHO: 0mg; CAR: 5g; PRO: 2g; SOD: 155mg; FAT: 5g;
+  
+  Source: Light &amp; Easy Diabetes Cuisine by Betty Marks
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

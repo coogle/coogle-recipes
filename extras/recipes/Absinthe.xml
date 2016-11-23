@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Absinthe</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Vodka</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Wormwood; crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Anise seeds; crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fennel seed</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cardamom pods</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Coriander; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Angelica root; chopped</item></ing></ingredients>
+    <directions>
+      <step>  I just found this recipe on the web. It comes with a warning that it may be
+  bad for your health and it is also illegal to make in several countries.
+  
+  Steep wormwood in vodka for 48 hours. Remove wormwood, add the rest of the
+  ingredients and steep for one week.
+  
+  Posted to FOODWINE Digest  by Jennifer Welch &lt;jwelc@DAK.TEC.MN.US&gt; on Dec
+  18, 1997
+ 
+</step></directions></recipe></recipeml>

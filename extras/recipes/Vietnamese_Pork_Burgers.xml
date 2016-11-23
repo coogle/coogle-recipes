@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Pork Burgers</title>
+      <categories>
+        <cat>Vietnamese</cat>
+        <cat>Pork</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Lean ground pork</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Peanut or other mild vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Few drops Tabasco sauce, or pinch cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Hoisin sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>large</unit></amt>
+        <item>Whole lettuce leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Or so roasted peanuts, coarsely ground</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Handful cilantro, coarsely chopped</item></ing></ingredients>
+    <directions>
+      <step>  This is typical of what is becoming known here as East/West cuisine,
+  the flavors and ingredients of Asia presented in a Western form.  All
+  these are from an article in the San Francisco Chronicle, 7/15/92.
+  Each bite of these burgers packs a zesty wallop of flavor and
+  texture. Good accompaniments are bland steamed rice or French bread,
+  each of which balances these assertive flavors.
+  
+  Mix meat with garlic, onions, soy sauce, peanut oil, sugar and
+  Tabasco or cayenne.  Form into patties and grill until cooked
+  through. Serve each grilled patty spread with hoisin sauce, wrapped
+  in a leaf of lettuce, sprinkled with peanuts and cilantro.
+  
+  Makes 4 servings.
+  
+  PER SERVING:  310 calories, 27 g protein, 5 g carbohydrate, 20 g fat
+  (5 g saturated), 76 mg cholesterol, 263 mg sodium, 2 g fiber.
+  
+  NOTE: In the body of the accompanying article, the author suggests
+  using pita bread lightly spread with hoisin and putting the patties
+  into it along with some of the cabbage salad.  That's probably the
+  way I'd go.
+  
+  Posted by Stephen Ceideberg; October 31 1992.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acqua Di Miele Alla Luganese (Honey Water)</title>
+      <categories>
+        <cat>Switzerland</cat>
+        <cat>Beverages</cat>
+        <cat>Tsc</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Wine, red, dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cinnamon stick</item></ing></ingredients>
+    <directions>
+      <step>    Combine the wine and honey in a bowl and mix well. Add the cinnamon
+  stick. Cover and let stand in the sun for 3 days. Stir occasionally. Remove
+  the cinnamon. Pour into bottles or glass jars and seal. Let stand 3 more
+  days in the sun. This used to be given to children and anybody else who
+  needed a strengthening drink - for a cold, or before going swimming in Lake
+  Lugano. From "The Swiss Cookbook" by Nika Standen Hazelton, MM by
+  donw1948@usa.net
+  Posted to MM-Recipes Digest V3 #320
+  
+  Date: Wed, 20 Nov 1996 22:54:05 -0600
+  
+  From: "Dodderin' Ol' Don" &lt;donw1948@dave-world.net&gt;
+ 
+</step></directions></recipe></recipeml>

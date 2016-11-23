@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Soup</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Cajun</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Small dry lima beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ham bone, OR&gt;&gt;&gt;&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Ham hocks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oleo</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bunch green onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Stalks celery, chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Accent (MSG) as desired</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water, as needed</item></ing></ingredients>
+    <directions>
+      <step>     Wash and pick through lima beans.  Cook in pressure cooker until done.
+  Saute onions and celery in oleo until wilted. Place beans, vegs. and ham in
+  large soup kettle with plenty of water. Add salt and pepper. Shake on lemon
+  pepper seasoning and dash or two of Accent. Simmer several hours until
+  thick, stirring occasionally. Very good crock-pot recipe. Serve with
+  Mexican corn bread.  Freezes well.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

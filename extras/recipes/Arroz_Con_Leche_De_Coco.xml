@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Con Leche De Coco</title>
+      <categories>
+        <cat>Side dish</cat>
+        <cat>Rice</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Coconut, finely shredded &amp; browned in butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Rice (pre-cooked)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Boiling liquid from coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter for the coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter for the onion</item></ing></ingredients>
+    <directions>
+      <step>  Heat the butter well, and brown the shredded coconut.
+  In another pan, fry the onion, add the rice, salt, and
+  heated liquid from the coconut. Let it boil, then the
+  lower heat. Add the coconut meat and let it cook for
+  20-25 minutes until it is soft and dry. If necessary,
+  add more water. Stir in the pre-cooked rice.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

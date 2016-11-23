@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Bean Salad</title>
+      <categories>
+        <cat>Posted</cat>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>16</qty>
+            <unit>ounces</unit></amt>
+          <item>Great Northern Beans; Drained And Rinsed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Cucumber; Chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Red Bell Pepper; Chopped</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Safflower Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cider Vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon Juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Fresh Basil; Chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Fresh Parsley; Minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Black Pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In mixing bowl, combine beans, cucumber and red pepper. In a small bowl or
+  measuring cup, combine dressing ingredients. Pour over bean mixture and
+  toss. Using a slotted spoon, arrange on lettuce leaves on individual
+  chilled salad plates. Garnish with chopped scallions.
+  
+  Variation:
+  
+  *Add chopped red onion to the salad
+  
+  Recipe by: 15 Minute Vegetarian Gourmet
+  
+  Posted to MC-Recipe Digest by Meg Antczak &lt;meginny@frontiernet.net&gt; on Apr
+  19, 1998
+ 
+</step></directions></recipe></recipeml>

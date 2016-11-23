@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread - Best!</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Favourites</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Melted butter or oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sour milk; see note</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bananas; ripe, mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; chopped</item></ing></ingredients>
+    <directions>
+      <step>  1.  In bowl, mix together eggs, sugar, butter, vanilla, milk and bananas,
+  blending well.
+  
+  2.  In large bowl, sift together flour, baking powder, soda and salt.  Add
+  banana mixture and blend only to moisten.  Add walnuts, if desired.
+  
+  3.  Pour into lightly greased 9"x5" pan and bake at 350F for 1 hr until
+  tester comes clean.
+  
+  Note: For sour milk, add 1 tsp vinegar to fresh milk. Crunchy and sweet on
+  the inside; moist and tender on the inside - delicious!!
+  
+  Recipe by Nancy Enright
+  
+  Contributor:  "A Basketful of Favorites" Globe&amp;Mail Collection
+  
+  Posted to recipelu-digest Volume 01 Number 302 by Cathleen
+  &lt;catht@interlog.com&gt; on Nov 24, 1997
+ 
+</step></directions></recipe></recipeml>

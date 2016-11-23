@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce Muffins</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Jiffy apple cinnamon or honey date muffin mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cooking oil</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 400 degrees. Line 6 muffin cups with paper bake cups.
+  
+  2. Stir together egg, milk, oil, and half of the applesauce.
+  
+  3. Pour in muffin mix and stir until just blended.
+  
+  4. Fill each muffin cup 1/3 full. Spoon 1 tsp. applesauce on top of batter.
+  Cover with remaining batter.
+  
+  5. Bake for 15 minutes until golden brown. Cool slightly. Serve warm.
+  
+  Notes: (Yield: 6 Muffins)
+  
+  Recipe by: JIFFY® Recipe by 1996 Mars, Incorporated
+  Posted to brand-name-recipes by Barbra&lt;barbra@pipeline.com&gt; on Feb 03, 1998
+ 
+</step></directions></recipe></recipeml>

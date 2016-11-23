@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Creme Brulee</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Egg Yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Light Brown Sugar -- firmly</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Packed</item></ing></ingredients>
+    <directions>
+      <step>  Combine the first 4 ingredients, stirring with a wire whisk until sugar
+  dissolves and mixture is smooth. Carefully pour the egg mixture evenly into
+  5 (5x1) round baking dishes or custard cups. Place in a roasting pan large
+  enough to accomodate the dishes and add 1/2-inch of water to the roasting
+  pan. This step creates a water bath to prevent curdling. Bake at 275 for 45
+  to 50 minutes or until almost set. Cool the custards in the water in the
+  pan set on a wire rack. Remove from pan when cooled, cover and refrigerate
+  overnight. When ready to serve, sprinkle about 1 1/2 tablespoons brown
+  sugar evenly over each custard; place each custard on a cookie sheet or
+  jelly-roll pan. Broil 5 inches from heat. If using an electric oven, leave
+  door partially open. Broil until the sugar melts. Let stand 5 minutes to
+  allow sugar to harden.
+  
+  NOTES:
+  
+  Handle with care. These are extremely hot. Place custards as close to heat
+  source as possible. To achieve a "cracked" effect, broil custards in a pan
+  full of ice. Dixie Crystals sugar is reputedly the best for making this
+  dessert. ***When finished cooking, the center will still be slightly
+  liquid.
+  
+  Recipe By     : Southern Living  (12-95)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

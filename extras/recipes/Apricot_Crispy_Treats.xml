@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Crispy Treats</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Low-fat margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Miniature marshmallows</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dried apricots</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Rice Krispies</item></ing></ingredients>
+    <directions>
+      <step>  Heat margarine and marshmallows in a pot on low heat. Stir in apricots and
+  Rice Krispies. Pat into 9 by 13-inch pan and chill. Cut into squares or
+  bars.
+  Recipe By     :THE DESSERT SHOW SHOW #DS3065
+  
+  Posted to MC-Recipe Digest V1 #270
+  
+  Date: Tue, 29 Oct 1996 22:59:57 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

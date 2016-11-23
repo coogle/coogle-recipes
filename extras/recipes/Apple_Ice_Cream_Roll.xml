@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Ice Cream Roll</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Frozen dish</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Vanilla ice cream</item></ing></ingredients>
+    <directions>
+      <step>  * Have ice cream slightly softened. Use only a very good quality applesauce
+  that is not too thin.
+  
+  1. Line a greased 15 x 10 x 1-inch jelly-roll pan with waxed paper; grease
+  paper. 2. Place eggs in a mixing bowl; beat at high speed for 5 minutes.
+  Gradually beat in sugar and 1/2 cup applesauce. 3. Sift flour, baking
+  powder, 3/4 teaspoon cinnamon, nutmeg and salt together. Blend flour
+  mixture into egg mixture, using low speed. Spread batter in pan. 4. Bake in
+  preheated 375-degree oven for 15 minutes or until cake is lightly browned
+  and springs back when pressed gently. Sprinkle kitchen towel with powdered
+  sugar; immediately invert cake onto towel. 5. Remove waxed paper; roll cake
+  and towel together from narrow end. Let cake completely cool. 6. Unroll
+  cake, trimming edges if desired. Remove from towel and spread with softened
+  ice cream; re-roll. Wrap tightly in plastic wrap or foil and freeze. 7.
+  Blend remaining 1-1/2 cups applesauce and 1/4 teaspoon cinnamon. Chill.
+  When ready to serve, cut roll into slices and top each slice with chilled
+  applesauce. Serve with whipped cream if desired.
+  
+  Recipe By     : Jo Anne Merrill
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

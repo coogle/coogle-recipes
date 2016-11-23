@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alfredo Fettucini</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Sauces</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Fettucini; cook, drain</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sticks butter or margarine; (1 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Cream cheese; (8 oz) softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese; freshly grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cream; 1/2 pint</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in large heavy pan. Add softened cream cheese and Parmesan
+  cheese stirring constantly until well combined. Add cream, stirring
+  constantly until smooth. If sauce is too thick for your taste, thin
+  slightly with milk. Toss pasta lightly with sauce, coating well and serve
+  immediately. Leftovers freeze very well. Me ke aloha, Mary By
+  MarySpero@prodigy.com (MS MARY E SPERO) on Apr 23, 1997
+  
+  Recipe by: Mary Spero
+  
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Mar 23,
+  1998
+ 
+</step></directions></recipe></recipeml>

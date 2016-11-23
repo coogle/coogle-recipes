@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Carrots</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>18</qty>
+          <unit>small</unit></amt>
+        <item>Carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Scrape or pare carrots and place in casserole. Cream butter, sugar, salt
+  and cinnamon together. Add water and blend well. Pour over carrots, cover
+  and bake in 350 degree oven for 90 minutes.
+  
+  From &lt;A Taste of Louisiana&gt;.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

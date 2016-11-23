@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aioli</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Italian</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Thick slice French bread</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks  /</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  I find a recipe in my Encyclopedia of Cooking by JoAnna Morris for aioli.
+  Here it is: Remove the crusts from bread and soak in milk.
+   Squeeze dry. Place in large mortar with garlic &amp; mash with pestle until a
+  fine paste.  Add the yolks &amp; salt &amp; mash in. Drop by drop pound in olive
+  oil.  When the sauce becomes thick; the remaining oil may be beaten in.
+  Thin with water &amp; lemon juice to taste. FROM: PAM HOUGLAN (KFNR49B)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

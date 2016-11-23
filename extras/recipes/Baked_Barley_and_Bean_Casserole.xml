@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Barley and Bean Casserole</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked &amp; mashed AM Beans (of choice)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pre-cooked AM Bits-O-Barley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Soy milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>AM Raw Wheat Germ</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>AM Soy Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>AM Unrefined Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Onion, minced and sauteed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup of choice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Onion powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sea salt to taste (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 F.  Mix all ingredients together.  Let stand for 30
+  minutes.  Turn into an oiled casserole dish and bake for 40 minutes.
+  
+  Source: Arrowhead Mills "Bits-O-Barley" tri-fold
+  Reprinted by permission of Arrowhead Mills, Inc.
+  Electronic format courtesy of: Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/am.zip
+ 
+</step></directions></recipe></recipeml>

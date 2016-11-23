@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Beef (Korean Bul Kogi)</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meats</cat>
+        <cat>Korean</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Sirloin Steak</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Scallions</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Beef stock (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing></ingredients>
+    <directions>
+      <step>  1.  Slice the steak very thin on the bias. Score each piece with an X.
+  
+  2.  Chop the scallions and crush the garlic. Combine these ingredients with
+  the remaining seasonings in a bowl. Add the meat to the marinade and mix
+  well until all sides of the steak are coated.
+  
+  3.  The meat may be grilled immediately. The best results are obtained if
+  the steak is marinated for 2 hours. The marinade will keep overnight
+  
+  Variation: Use rib steak or flank steak.
+  
+  Bul Kogi is so popular that many Koreans consider it the national meat
+  dish.  Serve with rice and kimchi.
+  
+  From: The Korean Cookbook, by Judy Hyun.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

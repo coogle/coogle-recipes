@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Viennese Coffee Mix</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Instant coffee</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dry nondairy  creamer</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>dashes</unit></amt>
+        <item>Ground allspice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>dashes</unit></amt>
+        <item>Ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>dashes</unit></amt>
+        <item>Gound nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  Combine and put in a festive airtight container.  To mix, add 4 heaping
+  teaspoons to 8 oz. boiling water.
+  
+  *gift idea-a tin of Vinnese Coffee Mix can be packaged with some Vinnese
+  cookies.
+  
+  Recipe By     : MILEAH
+  
+  From: Love2bake@aol.Com               Date: Thu, 8 Dec 1994 14:07:56 -0500
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

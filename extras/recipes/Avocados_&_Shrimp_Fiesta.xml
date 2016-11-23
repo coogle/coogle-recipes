@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocados &amp; Shrimp Fiesta</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Small shrimp cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Shrimp boil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stalk minced celery</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Green onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Avocados</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>Pam and KerryAnn Cobb &lt;priss@AMARANTH.COM&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Fri, 9 Aug 1996 21:29:15 -0500</item></ing></ingredients>
+    <directions>
+      <step>  Cook shrimp according to shrimp boil directions.  cool and peel.  Combine
+  shrimp, celery, and onions.  Halve avocados and place shrimp mixture in
+  each half. Top with vinaigrette sauce.
+  
+  EAT-L Digest  8 August 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

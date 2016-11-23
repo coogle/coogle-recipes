@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Band" Sloppy Joes</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef browned and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>large</unit></amt>
+        <item>Chopped onions</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped celery</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Open Pit BBQ Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing></ingredients>
+    <directions>
+      <step>  Brown ground beef. Add onions, celery, and green pepper to beef and saute.
+  Add remaining ingredients, mix well, and cook 45 minutes.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Al &amp; Debbie Cook
+  &lt;alcook@niia.net&gt; on Dec 16, 1997
+ 
+</step></directions></recipe></recipeml>

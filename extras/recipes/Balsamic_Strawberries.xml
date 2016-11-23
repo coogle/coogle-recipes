@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Strawberries</title>
+      <categories>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pints</unit></amt>
+        <item>Strawberries</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar; (4 to 6)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Balsamic vinegar</item></ing></ingredients>
+    <directions>
+      <step>  This is an exquisite dish created by the talented Mollie Katzen. She
+  advises the use of perfectlyRipe berries to maximize the effects of this
+  traditional Italian treat. Please note that the berries may be sliced and
+  sugared up to a day in advance. However the vinegar should be applied
+  within
+       30    minutes of serving.
+  
+  1. Clean the strawberries by wiping them with a damp paper towel. Avoid
+  washing them directly in water as this dilutes the flavor of the berries by
+  ab- sorbtion. 2. Hull the strawberries, and halve or slice them. This would
+  depend on their size. Place the berries on a shallow pan (10-inch pie pan)
+  and sprinkle with sugar. 3. Cover tightly with plastic wrap and allow to
+  sit for several hours, shaking the pan every so often. If you plan you plan
+  on letting then sit for more than 3 1/2 hours, they will have to
+  beRefrigerated. 4. Sprinkle with vinegar within a half hour of serving
+  atRoom temperature.
+  
+  .
+ 
+</step></directions></recipe></recipeml>

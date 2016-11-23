@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruit</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>medium</unit></amt>
+        <item>Apples; peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Place 3/4 of the apple slices in two quart baking dish, covering the bottom
+  of the dish. Sprinkle with lemon juice. Combine flour, sugar, oats,
+  cinnamon, and nutmeg. Cut butter into one-inch chunks. Blend into dry
+  ingredients, using a pastry blender or two forks. When crumbly, sprinkle
+  1/4 of mixture over apples. Place the remaining apples in the dish.
+  Sprinkle remaining mixture over apples. Bake at 375 degrees for 15 minutes.
+  Turn oven down to 350 degrees and bake for 30 minutes more.
+  
+  Serving Ideas : Serve warm with vanilla ice cream or whipped cream.
+  Posted to MC-Recipe Digest V1 #820 by Kristin Cain
+  &lt;princesskris@geocities.com&gt; on Sep 29, 1997
+ 
+</step></directions></recipe></recipeml>

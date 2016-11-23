@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bagel Snack Chips</title>
+      <categories>
+        <cat>Snacks</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Plain bagels</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic or onion salt</item></ing></ingredients>
+    <directions>
+      <step>  Refrigerate bagels at least 1 hour for easier slicing. Preheat oven to 325
+  degrees. To slice bagel, place bagel flat on cutting board. With a serrated
+  knife, cut bagel in half vertically. Place halves on cutting board, cut
+  side down. Cut halves into thin slices, about 1/4 inch thick. Repeat with
+  remaining bagels. Place slices on ungreased baking sheets.
+  
+  In a small bowl, blend butter with garlic or onion salt. Spread over tops
+  of slices and bake 15-20 minutes or until lightly browned. Cool on a wire
+  rack. Store in airtight container.
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 16, 1998
+ 
+</step></directions></recipe></recipeml>

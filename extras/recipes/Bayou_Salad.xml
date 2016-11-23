@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bayou Salad</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Crawfish; cooked and peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Celery; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cherry tomatoes; quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Ripe olives; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Green pepper; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fat-free Italian salad dressing</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce leaves</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients except lettuce in large bowl. Serve on lettuce
+  leaves. Yield: Serves 6
+  
+  Recipe by: RICE COUNCIL OF AMERICA
+  
+  Posted to MC-Recipe Digest V1 #857 by Emily Griffin
+  &lt;emgriffi@ix.netcom.com&gt; on Oct 21, 1997
+ 
+</step></directions></recipe></recipeml>

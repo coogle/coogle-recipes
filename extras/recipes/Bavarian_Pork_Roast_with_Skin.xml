@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Pork Roast with Skin</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork shoulder roast with skin</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Score skin on roast in 1/2-inch squares; salt &amp; pepper to taste. Place
+  cloves in cuts of skin. Cover with onions &amp; carrots. Place in pan with
+  water; bake in 325 oven for 2 hours or until skin is crisp. Shake flour,
+  salt &amp; pepper &amp; mix with a little water. Stir into pan liquid to make gravy
+  &amp; serve with German country-style potato salad (see index for recipe).
+  
+  FRAU KURT (GERDA) MAYR
+  
+  From the &lt;The Bliss of Cooking Returns&gt;, Fort Bliss Officers Wives Club,
+  Ft. Bliss, TX.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

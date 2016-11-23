@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Cream Filling (The Art of Fine Baking</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Apricot jam, strained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon rind, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing></ingredients>
+    <directions>
+      <step>  Servings: 1
+  
+  Add sherry to flour.  Mix until smooth.  Add apricot jam, lemon rind and
+  juice, and orange juice.  Stir until smooth. Place in a heavy saucepan.
+  Cook over low heat, stirring constantly until thick.
+  
+  Stir a few tablespoons of hot sauce into egg yolks. Then pour egg yolks
+  into remaining hot mixture, continuing to stir. Cook and stir a few more
+  minutes, being careful not to boil, until cream is smooth and thick.
+  
+  From "The Art of Fine Baking" by Paula Peck, copyright 1961
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie Filling (Freezer )</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Filling for 3 pies:</item></ing>
+      <ing>
+        <amt>
+          <qty>18</qty>
+          <unit>large</unit></amt>
+        <item>Macintosh apples, peeled,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sliced 1/2 inch thick</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3 3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>For 1 pie:</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Container apples</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Unbaked 9 inch pie shell</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in heavy pot and add apples and all remaining ingredients.
+  Partially cook fruit over very low heat for 15 minutes, stirring now and
+  then with wooden spoon. Coool and dvide filling into 3 freezer containers.
+  Freeze until needed. To make one pie: Remove filling from one container and
+  defrost. Spoon pie filling into pie shell. Sprinkle with flour and dot with
+  butter. Cover with remaining pie dough and crimp edges togehter. Slash top
+  in several places to allow steam to escape, Bake in a 450 oven for 15
+  minutes. Lower heat and bake 30 minutes longer or until crust is nicely
+  browned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

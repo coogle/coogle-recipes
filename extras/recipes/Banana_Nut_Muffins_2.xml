@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Nut Muffins</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Vegan</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Organic whole wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>LIMA sea salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>EDENsoy OR- any EDEN food beverage</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>EDEN Brown Rice Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>EDEN Safflower Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>EDEN Barley Malt or honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla (if not using Vanilla flavor)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas, mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnut pieces (amount may be doubled)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing></ingredients>
+    <directions>
+      <step>  Sift dry ingredients into large bowl. In separate bowl, combine liquids,
+  add to dry ingredients and stir. Fold in bananas, walnuts and raisins.
+  Spoon into oiled muffin tin. Bake in preheated oven at 350 F for 20
+  minutes.
+  
+  Prep Time: 1O minutes
+  Cooking Time: 20 minutes
+  Yield: 12 muffins
+  
+  Copyright 1995 Eden Foods, Inc.
+  &lt;Electronic format courtesy of Karen Mintzias&gt;
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/eden.zip
+ 
+</step></directions></recipe></recipeml>

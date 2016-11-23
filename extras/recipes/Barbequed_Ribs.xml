@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbequed Ribs</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meats</cat>
+        <cat>Mexican</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Country style pork ribs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Mexican BBQ sauce  OR</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>BBQ sauce of your choice</item></ing></ingredients>
+    <directions>
+      <step>  Pour sauce over ribs and let marinate overnight, or at least 5 hrs. The
+  longer the better. Preheat oven to 350 F. Place ribs in single layer in
+  baking dish. Pour the extra sauce over ribs. Cover tightly with foil and
+  bake for 1 hr. Meanwhile, prepare fire in grill. Over med hot coals, place
+  ribs on the grill, basting generously with juices from the bakin dish.
+  Grill, turning frequently and basting generously, for 15-20 min., until the
+  ribs are well-done, but not dried out. Serve with extra sauce on side.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

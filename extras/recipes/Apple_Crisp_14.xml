@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>(5 C) apples; peel and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Quick-cooking oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing></ingredients>
+    <directions>
+      <step>  Place the apples in a greased 8x8x2 baking dish. In a bowl mix the flour,
+  brown sugar, cinnamon, and ginger. With a pastry blender cut in the
+  margarine until coarse crumbs form. Stir in the oats and walnuts. Sprinkle
+  over the apples. Bake in 350 degree oven 35 minutes until apples are tender
+  and crumb mixture is crisp.
+  
+  Recipe by: Cooking Without a Grain of Salt
+  
+  Posted to MC-Recipe Digest V1 #972 by NGerard221 &lt;NGerard221@aol.com&gt; on
+  Dec 26, 1997
+ 
+</step></directions></recipe></recipeml>

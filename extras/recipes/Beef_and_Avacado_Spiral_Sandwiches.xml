@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Avacado Spiral Sandwiches</title>
+      <categories>
+        <cat>Sandwich</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>8-inch flour tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Purchased spicy guacamole</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped seeded tomato</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Cooked roast beef; 2-oz each, (from deli)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Alfalfa sprouts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Salsa</item></ing></ingredients>
+    <directions>
+      <step>   Warm tortillas as directed on package.
+  
+   Spread 2 tablespoons guagamole on each tortilla; sprinkle each with 2
+  tablespoons tomato. Top with 1 slice roast beef and 1/4 cup sprouts. Roll
+  up. Secure with toothpick. Serve with salsa.
+  
+  CALORIES: 300     SODIUM: 1170MG
+  
+  CHOLESTEROL: 55MG    FAT: 11G
+  
+  CARBOHYDRATE: 27G    SAT:  4G
+  
+  From &lt;Meals In Minutes&gt;, a Pillsbury Classic Cookbook.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

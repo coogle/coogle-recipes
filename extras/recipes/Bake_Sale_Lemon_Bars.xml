@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bake Sale Lemon Bars</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Bars</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; lightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Additional powdered sugar</item></ing></ingredients>
+    <directions>
+      <step>  Combine 1-1/2 cups flour, sugar and butter; pat into a greased 13x9x2"
+  baking pan.  Bake at 350 degrees for 20 minutes. Meanwhile in a bowl, whisk
+  eggs, sugar, 3Tbsp. flour and lemon juice until frothy; pour over the hot
+  crust.  Bake at 350 degrees for 20-25 minutes or until light golden brown.
+  Cool on a wire rack. Dust with powdered sugar. Cut into squares.
+  
+  Source:  Taste of Home mag, June/July 1996
+  
+  Posted to MealMaster Recipes List, Digest #151
+  
+  Date: Fri, 31 May 1996 17:18:04 GMT
+  
+  From: paulab@nyc.pipeline.com (Paula Elberhoumi)
+ 
+</step></directions></recipe></recipeml>

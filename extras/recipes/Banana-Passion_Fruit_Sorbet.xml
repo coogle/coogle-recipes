@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Passion Fruit Sorbet</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Banana pulp</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unsweetened passion fruit juice; or 1 can, (8 oz) crushed pineapple</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey</item></ing></ingredients>
+    <directions>
+      <step>  Notes: From Hawaiian Electric Kitchen.
+  
+  Combine all ingredients and pour into ice cube trays or a shallow pan;
+  freeze until almost firm. Put cubes or chunks of fruit mixture into food
+  processor or blender container. Process or blend until fluffy, but not
+  thawed. Pour into a container and freeze until firm. Makes 6 servings.
+  
+  Posted to recipelu-digest by ncanty@juno.com (Nadia I Canty) on Mar 24,
+  1998
+ 
+</step></directions></recipe></recipeml>

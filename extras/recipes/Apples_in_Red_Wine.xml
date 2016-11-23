@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apples in Red Wine</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>kilogram</unit></amt>
+        <item>Apples (2 1/4 lb) You NEED an apple that will hold its shape during cooking !!</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>deciliters</unit></amt>
+        <item>Red wine ( 1 pint)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>250</qty>
+          <unit>grams</unit></amt>
+        <item>Sugar (9 oz)</item></ing></ingredients>
+    <directions>
+      <step>  Ten hours in advance, cook the wine, cinnamon and sugar over a brisk heat
+  for 10 minutes, using a broad, shallow saucepan.
+  
+  Peel the apples and, using a melon-baller of about 2.5 cm (1 in) diameter,
+  cut them into little balls.
+  
+  Throw the apple-balls into the hot wine. They should not overlap: this is
+  why you need a broad, shallow pan. Simmer them for 5 to 7 minutes, covered
+  with aluminium foil to keep them submerged.
+  
+  When the apples are cooked but still firm, remove the pan from the stove.
+  Let the apple-balls macerate in the red wine for about 10 hours to take on
+  a good red colour.
+  
+  Serving: well chilled, with a scoop of vanilla ice-cream, or in a selection
+  of cold fruit desserts.
+  
+  From: Fredy Girardet, Cuisine spontanee, M-Papermac, 1985, ISBN
+  0-333-40957-4
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

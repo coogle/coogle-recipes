@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot-Glazed Fish</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>No-soak apricots, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chopped Fresh Coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Butter, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>6 oz thick coley or haddock fillets, skinned.</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice and grated rind of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Potato-and-pepper salad with french dressing to serve</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh mint sprigs to garnish</item></ing></ingredients>
+    <directions>
+      <step>  In a bowl, mix together apricots, coriander and butter. Set aside.
+  
+  Season fish fillets, and place each on a 8 inch square of foil. Pour a
+  little lemon juice over each fillet and sprinkle with grated lemon rind.
+  Close up foil parcels and cook on hot barbecue for 3 to 4 minutes.
+  
+  Unwrap parcels and spread apricot mixture over fish. Seal and cook for 2 to
+  3 minutes. Serve with salad. Garnish with mint.
+  
+  Source: CHAT Magazine
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

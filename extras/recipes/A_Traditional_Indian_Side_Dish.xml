@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Traditional Indian Side Dish</title>
+      <categories>
+        <cat>Condiment</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tomato; cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red onion; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fresh hot; or mildly hot pepper; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ginger (some matchstick slices)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing></ingredients>
+    <directions>
+      <step>  From: kmeade@ids2.idsonline.com (The Meades)
+  
+  Date: Sun, 14 Apr 1996 22:40:58 -0400
+  
+  From recipe files of Sue Smith, SueSmith9@aol.com.  Posted by Rooprai to
+  AOL. In a bowl add the veggies, some salt and squeeze lemon juice into the
+  bowl. cover. let stand in fridge for at least 1/2 hour before serving.
+  Tastes great with channa masala and roti or as the prime "chutney" with
+  aloo paranthas.
+  
+  MC-RECIPE@MASTERCOOK.COM
+  
+  MASTERCOOK RECIPES LIST SERVER
+  
+  MC-RECIPE DIGEST V1 #43
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

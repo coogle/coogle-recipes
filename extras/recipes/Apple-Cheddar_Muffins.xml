@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Cheddar Muffins</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Cheese</cat>
+        <cat>Fruits</cat>
+        <cat>Quickbreads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar; Granulated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; Lg</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oats; Quick Cooking</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apples; Finely Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar; Sharp Coarse Grate</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans; Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Apple Slices; *</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter; Melted</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon-Sugar Mixture</item></ing></ingredients>
+    <directions>
+      <step>  *   You should have 12 to 15 thin slices of unpeeled red apple for this
+      recipe.
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
+  Preheat the oven to 400 degrees F.  Cream the shortening and sugar
+  together and add the eggs, one at a time, beating well after each
+  addition.  Combine the flour, baking powder, baking soda, and salt in a
+  mixing bowl, mix lightly.  Gradually stir the flour mixture into the
+  shortening mixture.  In this order, add the oats cheddar and pecans,
+  mixing well after each addition.  Gradually add the milk, stirring until
+  all the ingredients are just moistened.  Grease the muffin pans and fill
+  each cup 2/3rds full of batter.  Dip the apple slices in the melted butter
+  and then into the cinnamon-sugar.  Press 1 apple slice into the top of
+  each muffin.  Sprinkle lightly with cinnamon-sugar and bake for 25 minutes
+  in the preheated oven, or until golden brown.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcheese.zip
+ 
+</step></directions></recipe></recipeml>

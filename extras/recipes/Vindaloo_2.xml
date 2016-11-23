@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vindaloo</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PASTE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Tomatoes; small</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>slice</unit></amt>
+          <item>(1/2") ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Garlic cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Turmeric</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Onions; small, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Chiles; dried, red</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt to taste</item></ing></ing-div>
+      <ing-div>
+        <title>REMAINING INGREDIENTS</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Onion; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vinegar or tamarind water; or more to taste (up to 2)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Meat; cut up (e.g. into cubes)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Potatoes; cut up</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  (from friend of Toni's in Bangalore, 1971)
+  
+  Fry the sliced onion in oil. Add the spice paste and vinegar/tamarind and
+  bring to a boil. Add meat and potatoes and fry for 10 minutes, then add a
+  little warm water and cook until done.
+  
+  Posted to CHILE-HEADS DIGEST V4 #126 by Brent Thompson
+  &lt;brent@hplbct.hpl.hp.com&gt; on Sep 17, 1997
+ 
+</step></directions></recipe></recipeml>

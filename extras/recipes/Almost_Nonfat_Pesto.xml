@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almost Nonfat Pesto</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh basil leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pine nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Nonfat parmesan cheese; fresh and grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice; freshly squeezed</item></ing></ingredients>
+    <directions>
+      <step>  Put the basil, garlic, pine nuts and Parmesan cheese in a blender or food
+  processor. Turn the machine on and drizzle in the lemon juice. Continue to
+  puree until a smooth paste is formed.
+  
+  Makes 3/4 cup pesto.
+  Recipe By     : In the Kitchen with Rosie
+  
+  Posted to MC-Recipe Digest V1 #297
+  
+  Date: Mon, 11 Nov 1996 23:43:25 -0800
+  
+  From: Kristine &lt;ksimpson@cwo.com&gt;
+  
+  Serving Ideas : Freeze unused portions for another time.
+  
+  NOTES : The original recipe called for regular parmesan cheese. I used non
+  fat and it was fine.
+ 
+</step></directions></recipe></recipeml>

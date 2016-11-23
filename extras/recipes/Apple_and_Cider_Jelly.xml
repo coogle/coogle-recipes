@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Cider Jelly</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Condiments</cat>
+        <cat>Jams</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Cooking apples, washed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pints</unit></amt>
+        <item>Dry cider</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Finely grated rind 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>makes</qty>
+          <unit>12</unit></amt>
+        <item>oz aprox</item></ing></ingredients>
+    <directions>
+      <step>  1. roughly chop the apples(including the skin and core) and put them in a
+  large heatproof bowl add the cider and lemon rind, then partially cover the
+  bowl with microwave clingfilm. microwave on high for 10-12 minutes until
+  the apples are soft, stirring twice during cooking.
+  
+  2. puree the apples in a food processor then pour into large nylon sieve
+  placed over a bowl leave to drip for 2 hours set the drained pulp aside for
+  the apple and rum spread measure the apple juice there should be about 1/2
+  pint but if necessary make up to half a pint with some cold water
+  
+  3. pour the apple juice into a medium sized heatproof bowl and stir in the
+  sugar microwave uncovered on high for 8-9 minutes until a teaspoon of the
+  jelly dropped on to a chilled saucer forms a skin after 1 minute carefully
+  pour the jelly into a clean warm jar and cover with a waxed paper disc
+  allow to cool then cover with a lid
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

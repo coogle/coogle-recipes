@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Stuffed Onions</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Yellow onions, peeled and cut in half</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken or beef stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Extra virgin olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Remove 1-2 tablespoons from the middle of each onion with a knife or
+  grapefruit spoon.  Mince removed portion of onion. Mix minced onion, bread
+  crumbs and olive oil together. Pack bread crumb mixture into onions,
+  sprinkle with parsley and dribble with olive oil.
+  
+  Place in baking pan, pour in stock around onions and cover with foil. baste
+  with pan juices; Bake at 350o for 25 minutes until tender.
+  
+  Microwave Directions:
+  
+  Cover with plastic, microwave on high for 8-10 minutes. Turn 1/4 after 3
+  minutes;  Turn 1/4 after 3 minutes.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

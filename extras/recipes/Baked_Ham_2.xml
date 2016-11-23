@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ham</title>
+      <categories>
+        <cat>Penndutch</cat>
+        <cat>Ham</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>Ham</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard, dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Maple syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cloves, whole</item></ing></ingredients>
+    <directions>
+      <step>  Note: This recipe assumes using an uncooked ham. Omit boiling the ham
+  altogether if using a pre-cooked ham. Wash ham and cover with boiling water
+  and let cook on top of stove for 4 hours. Let ham stand in liquid over
+  night. Next day remove the fatty rind, make gashes across the surface of
+  ham and stick in whole cloves. Make a paste of the sugar, flour and mustard
+  by adding the syrup and water. Use water in which ham was cooked if
+  available. Spread over ham and place in roasting pan. Bake uncovered at
+  400-F for
+       45    minutes. Source: Pennsylvania Dutch Cook Book - Fine Old Recipes
+  
+  Posted to FOODWINE Digest 25 November 96
+  
+  Date:    Mon, 25 Nov 1996 15:17:14 -0600
+  
+  From:    Mike &lt;cyberh@HIC.NET&gt;
+ 
+</step></directions></recipe></recipeml>

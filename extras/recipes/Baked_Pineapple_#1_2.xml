@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pineapple #1</title>
+      <categories>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Can chunk pineapple; drained</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Pineapple juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick oleo</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Grated Cheddar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Almond flavoring</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Slivered almonds for top</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick oleo; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Ritz crackers; crushed</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix sugar and flour in bowl; then add remaining ingredients. Spread in a 8
+  x 8 x 2-inch dish. Combine oleo and crackers for topping. Sprinkle on top
+  along with some slivered almonds. Bake at 350 degrees for 15 to 20 minutes.
+  Excellent with chicken, turkey and ham. Rave reviews.
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Feb 23,
+  1998
+ 
+</step></directions></recipe></recipeml>

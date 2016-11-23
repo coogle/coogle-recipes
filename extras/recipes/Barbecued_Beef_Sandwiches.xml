@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Beef Sandwiches</title>
+      <categories>
+        <cat>Entree</cat>
+        <cat>Carnivore</cat>
+        <cat>Beef</cat>
+        <cat>Crock</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean boneless chuck roast</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Liquid smoke flavoring</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>French rolls or sandwich buns</item></ing></ingredients>
+    <directions>
+      <step>  This may be cooked a day ahead and refridgerated overnight. Skim fat off
+  top and reheat.
+  
+  Place beef in slow-cooker.  Combine remaining ingredients, except rolls.
+  Pour over meat.  Cover and cook on LOW 8-9 hours. Refridgerate or prepare
+  sandwiches now.  Shred beef by pulling it apart with two forks; add 1 cup
+  sauce.  Reheat in microwave or on stovetop. Spoon on warm, open-face rolls
+  or buns. Top with additional warm sauce, if desired.
+  
+  Crockery Favorites, Mable Hoffman
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beaumont Inn Bread Pudding with Bourbon Sauce</title>
+      <categories>
+        <cat>Pudding</cat>
+        <cat>Bread</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>French style bread (the firmer the better)</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Beaumont Inn
+  
+  Tear bread into medium pieces. Add sugar and cinnamon. Mix milk, lightly
+  beaten eggs, and vanilla. Add to bread mix. Place 1/2 mix in casserole.
+  Layer pecans and raisins, if used. Top with the rest of the mix.
+  
+  Bake at 350 degrees for 30 minutes or until lightly brown. Serve warm with
+  Bourbon sauce.
+  
+  Note: This is a favorite at our Sunday Brunch.
+  
+  Entered for you by: Bill Webster
+  Posted to MC-Recipe Digest V1 #835 by Bill Webster &lt;thelma@pipeline.com&gt; on
+  Oct 10, 1997
+ 
+</step></directions></recipe></recipeml>

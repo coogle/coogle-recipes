@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banda Kopir Tarkari (Vegetables Stir Fried with Spices)</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Vegetables</cat>
+        <cat>Ethnic</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tumeric</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Potatoes; 225 g. chopped in small cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin, ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger, ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Tomatoes; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cabbage; finely sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Peas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil Salt</item></ing></ingredients>
+    <directions>
+      <step>  "In Bangladesh, cabbage is usually available in the market during the
+  winter season, as are tomatoes, peas and carrots. So this dish appears
+  quite frequently at Bengali dinner tables during the winter. In the markets
+  where such vegetables are available year round, banda is a popular
+  standard." Meghna Guharthakurta, Dhaka, Bangladesh
+  
+  Start by heating the oil in a heavy pan and put in the tumeric and some
+  salt. Fry for a few seconds and then add the cubed potatoes, turning
+  frequently so that they turn yellow from the tumeric. Cook them for 5-10
+  minutes (they will complete their cooking later) and remove them from the
+  oil and set aside. Adding more oil if necessary, now saute the onion slices
+  until they are soft and transparent. Then add the bay leaf, cumin, ginger
+  and chili powder. Stir well and put in the tomatoes. When they have begun
+  to break down, add the cabbage bit by bit, stirring it in well so that it
+  is sauteed in the spices. Cover and cook gently for 3-5 minutes. Finally
+  put in the peas and semi-fried potatoes and seasoning.Mix well, replace the
+  cover and continue to cook for 5-10 minutes or until potatoes are ready.
+  
+  Serves:4 SOURCE: _The World in Your Kitchen: Vegetarian Recipes_by Troth
+  Wells posted by Anne MacLellan
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

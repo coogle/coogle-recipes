@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Burgundy a la Pat</title>
+      <categories>
+        <cat>Beef</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef chuck roast -- cut in</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bite sz pcs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>packages</unit></amt>
+        <item>Lipton onion soup mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of mushroom soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Mushrooms -- or fresh</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Burgundy</item></ing></ingredients>
+    <directions>
+      <step>  Combine beef, mushroom soup and soup mix in casserole dish. Cover and cook
+  for 4 hours at 325F.  Add mushrooms and cook 10 minutes longer. Before
+  serving, pour in the burgundy. Serve with rice, green salad and French
+  bread. From Pat Crafts
+  
+  Recipe By     : Concord Hospital Admitting Cookbook
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

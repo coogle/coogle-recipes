@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7 Up Cake</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Crisco</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>7UP</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon extract</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>rayna knighton &lt;rayna@ICONZ.CO.NZ&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Wed, 10 Jul 1996 07:16:22 +1200</item></ing></ingredients>
+    <directions>
+      <step>  Cream the first 3 ingred. well till fluffy. Add eggs, one at a time. Sift
+  in flour then add soda and extracts. Bake in large, prepared bundt pan at
+  325 for about 90 mins. dust with powdered sugar before slicing.
+  
+  EAT-L Digest  8 July 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

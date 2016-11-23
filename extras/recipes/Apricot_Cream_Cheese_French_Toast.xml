@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Cream Cheese French Toast</title>
+      <categories>
+        <cat>French</cat>
+        <cat>Toast</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Loaf of french bread cut in 8 slices.; (Slice again but not all the way through.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(8 oz) cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Mix the cream cheese with the pecans and a couple tablespoons of the
+  powdered sugar. Stuff the pocket you have created in the french bread with
+  the cream cheese mixture. Dip in the mixture of whipping cream, eggs,
+  nutmeg, and vanilla. Grill on hot griddle and serve with apricot sauce. The
+  apricot sauce can be prepared by mixing a 12 ounce jar of apricot preserves
+  with a 1/2 cup of orange juice, then heating the mixture.
+  
+  Recipe by: Lisa
+  
+  Posted to MC-Recipe Digest by MeLizaJane &lt;MeLizaJane@aol.com&gt; on Apr 30,
+  1998
+ 
+</step></directions></recipe></recipeml>

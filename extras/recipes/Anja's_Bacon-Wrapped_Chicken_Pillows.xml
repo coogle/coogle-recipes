@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anja's Bacon-Wrapped Chicken Pillows</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Poultry</cat>
+        <cat>Cheese/eggs</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Chicken breasts; boned &amp; skinned</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>grams</unit></amt>
+        <item>Mozzarella Cheese ;approx</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Rashers streaky bacon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for baking</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 F
+  
+  Cut a pocket along each chicken breast, season well and sprinkle with
+  thyme, stuff with slices of Mozzarella and securely wrap with bacon
+  rashers. Place on oiled baking dish, drizzle or brush with a little oil and
+  sprinkle with a little more thyme.
+  
+  Bake for 20-25 minutes.
+  
+  Source: I got the idea from an advert I saw in a magazine a long time
+  ago...
+  
+  Entered by Anja Wolle 21.3.96
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

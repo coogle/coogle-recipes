@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana German Chocolate Cake</title>
+      <categories>
+        <cat>Box cakes</cat>
+        <cat>Chocolate</cat>
+        <cat>Fruits</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PATTI - VDRJ67A</title></ing-div>
+      <ing-div>
+        <title>CAKE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>German chocolate cake mix</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Ripe bananas; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Coconut, Almond OR Pecan ready to spread frosting</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Bananas; mashed</item></ing></ing-div>
+      <ing-div>
+        <title>GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>Unsweetened chocolate, melt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat oven to 350~. Grease and flour 13x9" pan. In
+  large bowl, combine cake mix, bananas, water, oil and
+  eggs. Beat at low speed until moistened; beat 2
+  minutes at highest speed. Pour batter into prepared
+  pan. Bake for 30-40 minutes or until tested done. Cool
+  completely. In small bowl, combine frosting and mashed
+  bananas. Spread over cooled cake. In small bowl,
+  combine melted chocolate and powdered sugar. Add water
+  until desired consistency, blending until smooth.
+  Drizzle over frosting. Store in refrigerator.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

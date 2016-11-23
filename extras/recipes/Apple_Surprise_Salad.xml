@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Surprise Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Red delicious apples; cored; sliced, and cut into chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>King-size Snickers candy bars; cut into 1/2" cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>container</unit></amt>
+        <item>(8-oz) Cool Whip (or 12-oz. if you like more fluff)</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>Julie Sterchi &lt;sterchi@WABASH.NET&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Sun, 18 Aug 1996 00:29:02 -0700</item></ing></ingredients>
+    <directions>
+      <step>  Fold apple chunks and Snickers cubes into Cool Whip.  Garnish with a fan of
+  thin apple slices.  Serve immediately; the apple juice breaks down the Cool
+  Whip after awhile, so don't make this ahead of time.  (This may sound
+  weird, but it's delicious! It kind of reminds me of nut-covered caramel
+  apples from the county fair. Kids absolutely love this recipe.)
+  
+  EAT-L Digest 17 August 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

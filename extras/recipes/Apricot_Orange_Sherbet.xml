@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Orange Sherbet</title>
+      <categories>
+        <cat>Kosher</cat>
+        <cat>Desserts</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Dried apricots</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing></ingredients>
+    <directions>
+      <step>  Cook apricots and water until done.  Drain.  If there isn't two cups liquid
+  left add water.  Add sugar to liquid and cook until well disolved. Cool.
+  Mash apricots. Add orange juice. Add both to chilled syrup. Put in freezer.
+  When firm, place in well chilled bowl. Add unbeaten egg whites. Beat until
+  fluffy.  Return to freezing compartment.  This recipe makes a lot of
+  sherbet.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

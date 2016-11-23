@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pudding</title>
+      <categories>
+        <cat>Custards</cat>
+        <cat>Fillings</cat>
+        <cat>Pudding</cat>
+        <cat>Fruit</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box vanilla wafers; (12 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Bananas; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  For custard: Mix 1 cup sugar, flour and salt in a bowl. Pour milk into a
+  heavy saucepan and add dry ingredients. Heat but do not boil. Beat egg
+  yolks. Pour some of the hot milk mixture into egg yols and beat briefly,
+  then add egg yolk mixture to the base mixture in saucepan. Bring to boil
+  over low heat, stirring constantly, and cook slowly til just thick enough
+  to coat the back of a spoon. Be careful that the mixture doesn't scorch.
+  Add the vanilla; remove from heat and cover with plastic wrap to prevent a
+  skin from forming on top. Line the bottom of a 9 x 13" baking pan with
+  vanilla wafers. Put a layer of bananas, then a layer of wafers til you have
+  used all the bananas and wafers. Pour custard over top, completely covering
+  bananas and wafers. Heat oven to 375@. Beat egg whites til soft peaks form.
+  Add 2 tbsp sugar and beat til stiff peaks form. Spread meringue fully over
+  the top of the pudding. Bake til browned, about 15 to 20 mins.
+  
+  Recipe by: New Southern Cooking via Sacramento Bee
+  
+  Posted to KitMailbox Digest  by gigimfg@ix.netcom.com on Nov 20, 1997
+ 
+</step></directions></recipe></recipeml>

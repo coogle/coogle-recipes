@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>American Coffee Cake</title>
+      <categories>
+        <cat>Bread</cat>
+        <cat>Osg</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; or lard - rounded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Topping--------------------- </item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Sift flour, add baking powder, salt, sugar. Sift three times. Chop
+  butter in with spoon. Beat up whites until stiff. Add egg yolks, beat.
+  Add milk. Beat all together, turn into 2 square pans and spread with
+  the topping mixture.
+  
+  Source: Casstown Lostcreek Grange, Miami County, OH
+  
+  Originally published in Ohio State Grange Cook Book, 21st ed., Apr 1966.
+  Compiled by members of Ohio State Grange Home Economics Committee.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-bread.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Brisket with Barbeque Sauce</title>
+      <categories>
+        <cat>Bar-b-q</cat>
+        <cat>Pot roast</cat>
+        <cat>Main dish</cat>
+        <cat>Meats</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Beef bouillon; granules</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard; dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red pepper; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef brisket</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine; or butter</item></ing></ingredients>
+    <directions>
+      <step>  For cooking liquid, in a bowl combine water, worcestershire sauce, vinegar,
+  bouillon, mustard, chili powder, red pepper, and garlic; reserve 1/2 c.
+  liquid for sauce.  Trim fat from brisket.  If necessary, cut brisket to fit
+  crockery.  Cover; cook on low-heat setting for 10-12 hours or high-heat
+  setting for 5-6 hours. For sauce, in a small sauce pan combine 1/2 c
+  reserved liquid, catsup, brown sugar, and margarine. Heat through. Pass
+  sauce with meat.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

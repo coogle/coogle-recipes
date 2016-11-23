@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Risotto</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Chicken stock,; heated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely-minced onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Arborio rice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped chives</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Grated Parmesan cheese, plus extra; for garnish</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Truffle oil,; for drizzling</item></ing></ingredients>
+    <directions>
+      <step>  Heat chicken broth to simmering in a small saucepan and leave on very low
+  heat. In a heavy- based, wide saucepan heat olive oil, add onions and cook~
+  until golden over medium heat. Add rice and stir to coat each and every
+  grain with oil. Begin by adding 1 cup of hot stock, stirring with a wooden
+  spoon to mix. Allow this liquid to be absorbed, then add 1/2 cup stock,
+  stirring until evaporated. Continue to add broth by 1/2 cupfuls, stirring
+  after each addition. Continue until rice begins to soften. Last addition of
+  stock should just absorb into rice, leaving it slightly tight. Stirring
+  quickly with a wooden spoon, add butter and cream . Risotto will become
+  very creamy. Stir in herbs and cheese. Remove from heat and adjust
+  seasoning to taste. Serve topped with freshly-grated cheese and drizzle
+  with truffle oil, if using.
+  
+  Yield: 4 servings
+  Recipe By     :ESSENCE OF EMERIL SHOW# EE075
+  
+  Posted to MC-Recipe Digest V1 #305
+  
+  Date: Sat, 16 Nov 1996 09:27:24 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

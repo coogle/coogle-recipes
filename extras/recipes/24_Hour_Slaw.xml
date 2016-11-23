@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>24 Hour Slaw</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Head red cabbage, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Celery seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Vinegar</item></ing></ingredients>
+    <directions>
+      <step>  Pour 3/4 cup sugar over cabbage and onion and toss.
+  
+  Bring celery seeds and remaining ingredients to a boil. Pour over cabbage
+  and onions. Let sit for 24 hours before serving.
+  
+  Posted to CHILE-HEADS DIGEST V3 #189.DON
+  
+  From: jschell@nettally.com (Schell, John)
+  
+  Date: Tue, 17 Dec 1996 20:22:10 +0000
+ 
+</step></directions></recipe></recipeml>

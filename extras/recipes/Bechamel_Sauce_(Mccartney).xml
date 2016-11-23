@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bechamel Sauce (Mccartney)</title>
+      <categories>
+        <cat>Sauce</cat>
+        <cat>*mccartney</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter or margarine OR soy margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>All-purpose flour; or less as needed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Skim milk OR soya milk; warmed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sea salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground pepper</item></ing></ingredients>
+    <directions>
+      <step>  Melt the butter in a small, heavy-bottomed saucepan. Gradually stir in the
+  flour. Add the warm milk slowly, stirring all the time until the sauce
+  thickens. Season to taste with nutmeg, salt and pepper and simmer over a
+  very low heat for 5-6 minutes.
+  
+  Notes: Makes 2 cups. (PER SERVING: 178 cals, 15.5 g fat)
+  
+     1998    Hanneman/McBuster
+  
+  Recipe by: LINDA'S KITCHEN by Linda McCartney (Little, Brown)
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Apr 21,
+  1998
+ 
+</step></directions></recipe></recipeml>

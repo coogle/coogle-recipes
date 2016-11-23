@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cake #4</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Egg Beaters 99% egg substitute</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Mashed bananas</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour; sifted</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Nuts; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>From:</qty>
+            <unit/></amt>
+          <item>charles moffat &lt;moffats@USAOR.NET&gt;</item></ing>
+        <ing>
+          <amt>
+            <qty>Date:</qty>
+            <unit/></amt>
+          <item>Thu, 3 Jan 1980 13:30:19 -0500</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Recipe By: The Super Steeler Cookbook
+  
+  Cream margarine until light. Gradually beat in sugar. Beat in eggs, one at
+  a time. Mix well. Add bananas, vanilla &amp; sour cream. Sift dry ingredients
+  together &amp; fold into creamed mixture just until blended.
+  
+  Topping: Combine nuts, sugar &amp; cinnamon.
+  
+  Sprinkle half the topping over bottom of a well greased &amp; floured tube pan.
+  Spoon in half of the batter. Sprinkle with remaining topping &amp; cover with
+  remaining batter.
+  
+  Bake at 350F for 45 minutes. When finished, invert pan &amp; cool.  Sprinkle
+  top with powdered sugar, if desired.
+  
+  NOTES : 2 eggs can be used instead of Egg Beaters.  Nonfat sour cream can
+  be used.
+  
+  EAT-L Digest 13 July 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Salad with Raspberry Vinegrette</title>
+      <categories>
+        <cat>Side dish</cat>
+        <cat>Digest</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh asparagus, washed well and cut into 1" pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red pepper, seeded and cut into 1/4" x 1" pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raspberry vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar or honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Parsley</item></ing></ingredients>
+    <directions>
+      <step>  Steam the asparagus pieces for 2 minutes.  Plunge into cold water to stop
+  cooking.  Drain.
+  
+  Put asparagus, red pepper and onion into a plastic bowl (with cover). Blend
+  vinegar, water, sugar (honey) and parsley in a separate bowl and then pour
+  over vegetables.  Adjust seasonings if desired (may want to add more
+  sweetness).  Stir, cover and refrigerate for at least 24 hours. Stir every
+  so often.
+  
+  Serve cold as a side salad.
+  
+  Hint:  make sure you only use the tender part of the asparagus.  My mom
+  taught me that you hold the tip and base of the asparagus in separate hands
+  and then bend it until it breaks.  Only use the tip end and use the base
+  end for soup or compost it.
+  
+  Lucinda Rasmussen &lt;lrasmuss@PICA.ARMY.MIL&gt;
+  From Fatfree Digest April-May 1994, Formatting by Sue Smith (using MMCONV)
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

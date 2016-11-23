@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anticuchos</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Mexican</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Sirloin Steak</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Garlic Cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>To 6 Medium Jalapeno Peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Red Wine Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground Red Chile</item></ing></ingredients>
+    <directions>
+      <step>  In a blender or food processor, grind the jalapenos
+  and peeled garlic to a pulp.  Add all the other
+  ingredients, except the meat, and blend well. Cut the
+  meat into 1-inch cubes and place in a large bowl, and
+  cover with the marinade.  Marinate overnight or all
+  day. Place the meat on skewers and cook on the grill
+  over mesquite wood, basting frequently with the sauce.
+  Serve with warm flour tortillas and plenty of Mexican
+  beer with lime slices.
+  
+  From Cow Country Cusine By Kathy G. Mc Craine
+  Copyright 1988
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

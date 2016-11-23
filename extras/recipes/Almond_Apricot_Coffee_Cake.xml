@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Apricot Coffee Cake</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Zzz</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Slivered almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar apricot preserves</item></ing></ingredients>
+    <directions>
+      <step>  In a mixing bowl, cream butter and sugar. Add eggs, sour cream and extract;
+  mix well. Combine flour, baking powder, and salt. Add to creamed mixture
+  and mix well. Spread half of the batter in a greased and floured 12-cup
+  fluted tube pan. Sprinkle with half of the almonds. Spread half of the
+  preserves to within 1/2 inch of the edges. Cover with remaining batter.
+  Spoon remaining preserves over batter to within 1/2 inch of egdes. Sprinkle
+  with remaining almonds. Bake at 350 for 55-60 minutes. Cool in pan for 15
+  minutes.
+  
+  Recipe by: Taste of Home
+  
+  Posted to MC-Recipe Digest V1 #854 by John Setzler &lt;jms@twave.net&gt; on Oct
+  20, 1997
+ 
+</step></directions></recipe></recipeml>

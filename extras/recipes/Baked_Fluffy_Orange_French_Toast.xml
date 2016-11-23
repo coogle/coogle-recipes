@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fluffy Orange French Toast</title>
+      <categories>
+        <cat>Breakfast</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Eggs; separated</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Grated orange peel</item></ing>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Bread slices</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Powdered sugar</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Orange marmalade</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat oven to 450~. Grease large cookie sheet. In medium bowl, beat egg
+  whites until foamy. Gradually add sugar, beating until stiff peaks form;
+  set aside. Beat egg yolks; stir in orange juice, orange peel, salt and
+  milk. Fold egg yolk mix into beaten egg whites. Dip bread slices into egg
+  mix until evenly coated. Place on prepared cookie sheet. Bake for 5-8
+  minutes or until golden brown ( do not turn toast). In small saucepan,
+  combine sour cream and marmalade; heat over low heat just until warmed.
+  Serve immediately with sauce.
+  Posted to recipelu-digest by Lea &lt;lhoover@ptialaska.net&gt; on Feb 02, 1998
+ 
+</step></directions></recipe></recipeml>

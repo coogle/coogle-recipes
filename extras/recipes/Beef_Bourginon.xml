@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Bourginon</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Chuck; cut in 1-inch cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Onions; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Beef broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Burgundy wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(no. 2) mushrooms</item></ing></ingredients>
+    <directions>
+      <step>   Saut‚ onions in butter; set onions aside. Put dry ingredients in a paper
+  bag; add meat and coat. Brown meat in butter; set aside. Add flour left in
+  bag to butter; blend well. Add 1/2 cup broth and 1 cup wine to skillet;
+  blend well. Put meat back into skillet; simmer for 3 hours, adding more of
+  the broth and wine as it simmers. Add mushrooms and onions; continue
+  simmering for another hour. Serve in chafing dish. Serves 6.
+  
+  From &lt;A Taste of Louisiana&gt;.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

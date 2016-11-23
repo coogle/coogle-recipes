@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bakla Ritos Fritos</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>And</cat>
+        <cat>Seafood</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Salted cod; washed and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk*</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  * or more to flour to make a pancake like batter Flake the fish and mix in
+  the batter and fry like a pancake. busted by sooz
+  Posted to recipelu-digest Volume 01 Number 170 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Oct 27, 1997
+ 
+</step></directions></recipe></recipeml>

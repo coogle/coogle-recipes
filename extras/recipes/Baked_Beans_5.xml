@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Beans</title>
+      <categories>
+        <cat>Side</cat>
+        <cat>Dishes</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Baked beans, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Butter beans, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Kidney beans, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion, chopped</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350° Cube bacon, fry and drain. Brown ground beef with
+  onion and drain. Combine all ingredients and pour into 2 quart baking dish.
+  Bake for 1 hour.
+  
+  Recipe by: Kathy Libengood Posted to MC-Recipe Digest V1 #662 by "LauraG"
+  &lt;gaggini@gate.usaor.net&gt; on Jul 9, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Nut Coffee Cake</title>
+      <categories>
+        <cat>Coffee cake</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Topping:</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar; packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; melted</item></ing></ingredients>
+    <directions>
+      <step>  Fat grams    per serving:              Approx. Cook Time: :40
+    Preheat oven to 350F. In mixing bowl, cream together shortening and
+  sugar. Add eggs and vanilla, beat well. Combine flour, baking powder,
+  baking soda and salt. Add to creamed mixture, alternating with sour cream.
+  Fold in apple. Spread batter in greased 13 X 9 X 2" baking pan or large
+  greased bundt pan. Combine nuts, brown sugar, cinnamon and butter. Sprinkle
+  nut mixture evenly over batter. Bake 350F for 35-40 minutes.
+  
+  Source: AWARE Cookbook II (Nancy Fisher)
+  posted by Anne MacLellan
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcorr.zip
+ 
+</step></directions></recipe></recipeml>

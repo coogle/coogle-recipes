@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Sauteed" Mushrooms</title>
+      <categories>
+        <cat>Low-fat</cat>
+        <cat>Low-cal</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Mushrooms, thick sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic, clove, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Lemon, juice of</item></ing></ingredients>
+    <directions>
+      <step>  Place water in a teflon skillet with the garlic. Simmer 5 minutes. Remove
+  the garlic. Add mushrooms and lemon juice. Cook, stirring frequently, for
+  3-5 minutes or until mushrooms are cooked to your taste.
+  
+      1/2    cup =
+ 
+</step></directions></recipe></recipeml>

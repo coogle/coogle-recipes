@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amazon Cream Cheese Cupcakes</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat>
+        <cat>Cupcakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Amazon Chocolate Cake</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Batter</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>NATURAL cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing></ingredients>
+    <directions>
+      <step>  Combine cream cheese, eggs, sugar, chocolate chips and nuts. Fill 36
+  paper lined muffin cups about 1/2 full of cake batter and top each
+  with a generous Tbls. of the cream cheese mixture. Bake at 350
+  degrees for 35 minutes.
+  
+  NOTE: Natural cream cheese is without fillers, gums, etc. It is
+  lighter, fluffier and fresher than "Philly" and you should use it if
+  you can find it. The difference is worthwhile . . . for all your
+  cream cheese needs.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

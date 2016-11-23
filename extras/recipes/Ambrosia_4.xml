@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ambrosia</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Usenet</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cream, heavy</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas (or equivalent amount of soft fruit)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Broken meringue</item></ing></ingredients>
+    <directions>
+      <step>  Whip the cream.  Chop fruit coarsely, but don't crush. Break meringue into
+  large crumbs.  Mix everything shortly before serving and pile into glasses.
+  
+  NOTES:
+  
+  *  Simple dessert for failed Pavlova attempts -- My mother used to make the
+  banana variety of this when she cooked her meringues a little too long or
+  too hot. I've no idea of its origins.
+  
+  *  I can never make up my mind whether I prefer the strawberry or the
+  banana version. Peach should be pretty good too, though I've never tried
+  it.
+  
+  *  This is a neat way of saving a Pavlova attempt when the meringue part
+  fails:  it produces a delicious desert and no-one need ever know...
+  
+  : Difficulty:  very simple.
+  : Time:  10 minutes presuming you have the meringue available.
+  : Precision:  No need to measure.
+  
+  : Marcus G Hand,
+  : AT&amp;T Information Systems, Middletown, NJ.
+  : mtuni!mgh
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

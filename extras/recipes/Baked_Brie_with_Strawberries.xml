@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Brie with Strawberries</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Round loaf whole grain bread</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Wheel Brie cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Fresh strawberries</item></ing></ingredients>
+    <directions>
+      <step>  Slice  off top 1/2 inch of bread loaf; scoop out center leaving 1 inch
+  shell. Place cheese in center; wrap in foil. Bake at 350 degrees for 30
+  minutes or until heated through. Arange strawberries around top and outside
+  of loaf. Cut into wedges and serve.
+  
+  Approx per serving: Cal 245; Prot 12 g; Carbo 18g; Fiber 3 g; T Fat 14 g;
+                      51% Calories from Fat; Chol 45 mg; Sod 429 mg.
+  
+  Source: Great Recipes from Great Gardeners
+  Posted to MM-Recipes Digest  by dandelion@edeneast.com on Mar 2, 1998
+ 
+</step></directions></recipe></recipeml>

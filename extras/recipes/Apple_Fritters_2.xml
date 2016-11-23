@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Fritters</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>x</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>x</unit></amt>
+        <item>Apples, chopped</item></ing></ingredients>
+    <directions>
+      <step>  Mix dry ingredients. In separate bowl, beat eggs, stir in milk and apples.
+  Combine with dry ingredients. Drop 1 Tablespoon at a time into hot 375 deg
+  F. fat. Fry until golden brown. Drain and serve sprinkled with
+  confectioners' sugar, and/or maple syrup. Makes 12-15.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

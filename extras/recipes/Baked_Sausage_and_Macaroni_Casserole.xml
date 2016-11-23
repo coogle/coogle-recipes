@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Sausage and Macaroni Casserole</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Venison or turkey sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green sweet pepper; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Stalks celery; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Elbow macaroni</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parmesan cheese</item></ing></ingredients>
+    <directions>
+      <step>  Notes: By Curtis Osman, Weatherly. The Times News, PA
+  
+  Brown sausage in water, dice. Add butter, onion, pepper, and celery; saute.
+  Add milk, flour, cheddar cheese. Saute all. Add to cooked macaroni and 2
+  cans tomatoes and sausage. Top with Parmesan cheese. Bake at 350€ for 25 to
+       30    minutes.
+  
+  Posted to recipelu-digest by ncanty@juno.com (Nadia I Canty) on Mar 7, 1998
+ 
+</step></directions></recipe></recipeml>

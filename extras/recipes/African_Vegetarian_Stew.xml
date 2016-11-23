@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>African Vegetarian Stew</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Soups/stews</cat>
+        <cat>Vegetables</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>small</unit></amt>
+        <item>Kohlrabies; peel &amp; cut in chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sweet Potatoes; peel &amp; cut in chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Zucchini; sliced thick</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Tomatoes; or 16 oz. canned</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Garbanzo beans; liquid included</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Couscous; or bulgar wheat</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins; dark or golden</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground Coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Turmeric</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Combine all the ingredients in a large saucepan.  Bring to a boil, lower
+  the heat, and simmer until the vegetables are tender, about 30 minutes.
+  
+  Note: Serve the couscous separately, if desired.  Parsnips may be
+  substituted for the kohlrabi.
+  Recipe By     : Holiday Cookbook, American Diabetes Association
+  
+  Posted to Digest eat-lf.v096.n177
+  
+  Date: Sat, 05 Oct 1996 00:10:33 -0400
+  
+  From: "Sharon L. Nardo" &lt;snardo@onramp.net&gt;
+  
+  NOTES :  One Serving = Calories: 241 Carbohydrates: 42 Protein: 8 Fat: 2
+  Sodium: 22 Potassium: 658 Cholesterol: 0
+  
+  Exchange Value: 2 Bread Exchanges + 2 Vegetable Exchanges
+  
+  Source: Holiday Cookbook, American Diabetes Association, ISBN
+  
+  0-13-024894-0, by Betty Wedman, M.S.,R.D.
+ 
+</step></directions></recipe></recipeml>

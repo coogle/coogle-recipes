@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Nut Cake</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(20-oz) apple pie filling</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts or pecans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(18.25-oz) yellow cake mix plus ingredients to prepare cake as directed on box</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>container</unit></amt>
+        <item>(8-oz) cool whip</item></ing></ingredients>
+    <directions>
+      <step>   Preheat oven as directed for cake mix.  Grease and flour a 9" x 13" pan.
+  Pour apple pie filling in bottom of pan; sprinkle with nuts.  Prepare cake
+  mix as directed on box.  Pour cake batter directly over pie filling.  Bake
+  cake; test for doneness.  It may take a little longer to bake with the pie
+  filling on the bottom.  Leave cake in pan; cool.  Frost cooled cake with
+  Cool Whip. Refrigerate.
+  
+   Note:  blueberry, pineapple or cherry pie filling may be substituted for
+  the apple filling.
+  
+  From a book of my mother's (Judy Hosey) titled &lt;Senator Richard Matsuura's
+  Favorite Recipes&gt;, mostly Japanese and Hawaiian.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bahama Fried Fish</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh fish fillets</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pancake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Italian bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peanut oil</item></ing></ingredients>
+    <directions>
+      <step>  From: JUDI MAE PHELPS &lt;jphelps@shell.portal.com&gt;
+  
+  Date: Mon, 19 Jun 1995 15:11:56 GMT
+  Preheat electric skillet to 350 degrees. Cut fish in bite-sized pieces.
+  Lightly sprinkle with lemon pepper and garlic salt.  Combine pancake mix
+  and bread crumbs in a paper bag. Dip fish in water and egg mixture. Shake
+  fish in bag to coat with crumbs. Fry in oil for 7 minutes, or until golden
+  brown, turning once. Serve immediately.
+  
+  Posted by Patti Anderson, Prodigy.  Shared on rec.food.recipes by Judi M.
+  Phelps, 6/15/95.  Internet: jphelps@shell.portal.com
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /FISH
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

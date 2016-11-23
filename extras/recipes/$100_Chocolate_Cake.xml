@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>$100 Chocolate Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cocoa</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Miracle Whip® light</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Add all ingredients as listed. Beat until well mixed. Bake in greased
+  9-inch layer cake pans for 30 minutes at 350 degrees, or until cake springs
+  back when touched.
+  
+  Formatted for MasterCook by Carol H.
+  
+  Recipe by: The Country Woman's Favorite Cookbook
+  
+  Posted to MC-Recipe Digest by Carol H &lt;chussey@synapse.net&gt; on Apr 8, 1998
+ 
+</step></directions></recipe></recipeml>

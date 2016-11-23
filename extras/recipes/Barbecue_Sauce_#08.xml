@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Sauce #08</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Liquid Smoke</item></ing></ingredients>
+    <directions>
+      <step>  Heat all ingredients together slowly in a heavy saucepan until it bubbles.
+  Store in a jar and refrigerate. Good on hot dogs, hamburgers. Excellent to
+  use with cooked hamburger meat as barbeque on buns. Use on roast, whole or
+  chopped. Good on deer meat. Brown chicken, brush with sauce; bake in oven.
+  
+  From &lt;A Taste of Louisiana&gt;.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

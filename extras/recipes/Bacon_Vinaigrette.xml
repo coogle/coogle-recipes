@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Vinaigrette</title>
+      <categories>
+        <cat>Salad</cat>
+        <cat>Dressing</cat></categories>
+      <yield>7</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Bacon; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Shallot; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Black peppercorn; cracked</item></ing></ingredients>
+    <directions>
+      <step>  To make vinaigrette: Render the bacon.  Remove the diced bacon from the pan
+  and reserve. Add the shallots and garlic to the bacon fat and sweat. Blend
+  in the brown sugar to melt. Whisk in the cider vinegar and then oil. Season
+  to taste with salt and pepper. Bring to a simmer.
+  Recipe By     : New Professional Chef
+  
+  Posted to MC-Recipe Digest V1 #291
+  
+  Date: Mon, 11 Nov 1996 00:46:35 +0000
+  
+  From: Marilyn Thomson &lt;mthomson@worldnet.att.net&gt;
+ 
+</step></directions></recipe></recipeml>

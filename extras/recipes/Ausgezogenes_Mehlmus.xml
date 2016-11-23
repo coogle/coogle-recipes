@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ausgezogenes Mehlmus</title>
+      <categories>
+        <cat>German</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>80</qty>
+          <unit>grams</unit></amt>
+        <item>Flour (3/4 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>liter</unit></amt>
+        <item>Milk (approx. 1 qt)</item></ing>
+      <ing>
+        <amt>
+          <qty>120</qty>
+          <unit>grams</unit></amt>
+        <item>Sugar (1/2 cup plus 1/2 Tbsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Egg yolks, whisked to a froth</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Egg whites, beaten to stiff peaks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated peel of 3 lemons</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>grams</unit></amt>
+        <item>Butter (3 1/2 Tbsp)</item></ing></ingredients>
+    <directions>
+      <step>  From Central Swabia.
+  
+  From grandmother's more thrifty times; rarely encountered today.
+  
+  Combine the flour and a little milk, and stir until smooth. Gradually add
+  the remainder of the milk, the sugar and salt. Bring to a boil. Remove the
+  pot from the heat, add the grated lemon peel. Carefully fold in the egg
+  yolk froth and beaten egg whites.  Pour the mixture into a buttered
+  casserole dish and bake at medium heat for 20 minutes.
+  
+  Serves 4.
+  
+  From:  D'SCHWAEBISCH' KUCHE' by Aegidius Kolb and Leonhard Lidel, Allgaeuer
+  Zeitungsverlag, Kempten. 1976. (Translation/Conversion: Karin Brewer)
+  Posted by: Karin Brewer, Cooking Echo, 8/92
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

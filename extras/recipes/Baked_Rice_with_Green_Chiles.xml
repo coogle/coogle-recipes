@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Rice with Green Chiles</title>
+      <categories>
+        <cat>Mexican</cat>
+        <cat>Side dishes</cat>
+        <cat>Cheese/eggs</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Rice; Cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dairy Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>MontereyJack Cheese;Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar Cheese; Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Red Chiles; Ground, To Taste</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Green Chiles; Chopped, *</item></ing></ingredients>
+    <directions>
+      <step>  *    Use 2 4-oz cans of chopped green chiles which have been drained.
+  ~-------------------------------------------------------------------------
+  Heat the oven to 350 degrees F.  Mix all the ingredients in an ungreased
+  2-quart casserole.  Bake, uncovered, for 30 minutes, or until done.
+  
+  Miscellaneous recipes from the collection of Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mo-misc.zip
+ 
+</step></directions></recipe></recipeml>

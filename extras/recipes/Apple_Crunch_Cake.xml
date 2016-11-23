@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crunch Cake</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Cakes</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh apples; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Brandy</item></ing></ingredients>
+    <directions>
+      <step>  Sift together flour, salt, nutmeg, cinnamon and soda. Mix oil, eggs and
+  sugar. Add flour mixture to oil mixture and mix well. Add apples, nuts,
+  vanilla and brandy; mix again. Batter will be very stiff like a cookie
+  dough. Spread into lightly greased 13x5x2 inch pan. Bake at 350~ for 35 to
+  45 minutes. This is a very rich cake and should not be iced. The crust is
+  crunchy like a cookie and the inside is moist and chewy like a brownie.
+  Posted to JEWISH-FOOD digest by Nancy Berry &lt;nlberry@prodigy.net&gt; on Apr
+  30, 1998
+ 
+</step></directions></recipe></recipeml>

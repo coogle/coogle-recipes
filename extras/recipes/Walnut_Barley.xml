@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Barley</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Nuts/grains</cat>
+        <cat>Side dishes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pearl Barley;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Celery;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnut; chopped OR mixed almonds and hazelnuts</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced fresh parsley;</item></ing></ingredients>
+    <directions>
+      <step>  Rinse barley under warm running water.  Let drain.  In a medium-size
+  saucepan, bring to a boil and gradually add barley.  Cover and cook
+  20 to 25 minutes, Return barley to saucepan with celery, nut, salt
+  and pepper; heat through.  Garnish with parsley.
+  Food Exchange per serving:  2 STRARCH/BREAD EXCHANGE + 1 FAT EXCHANGE
+  CAL: 187; CHO: 0mg; CAR: PRO: 5g; SOD: 59mg; FAT: 7g;
+  
+  SOURCE: Light &amp; Easy Diabetes Cuisine by Betty Marks
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

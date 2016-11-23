@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>24-Hour Cheese Cake</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crust:</item></ing>
+      <ing>
+        <amt>
+          <qty>30</qty>
+          <unit/></amt>
+        <item>Graham cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Margarine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Mary Mihalek
+                          Filling:
+        8    ounces        cream cheese
+       16      ounces        crushed pineapple
+        2    teaspoons     vanilla
+        1    cup           sugar
+        1      large         evaporated milk, canned &amp; chilled
+        1    package       lemon jello
+        1    cup           boiling water
+  
+  Dissolve jello in water; let cool.  Mix cream cheese, sugar, and vanilla.
+  Beat milk till thick and foamy.  Fold cooled jello, cheese mixture, and
+  whipped milk thoroughly and pour into graham cracker crust.  Chill 24
+  hours.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

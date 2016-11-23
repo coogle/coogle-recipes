@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Plain Jane" Green Apple Pie</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pastry for 9" dbl. crust pie</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Peeled, sliced cooking apple</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Packed brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter or oleo, softened</item></ing></ing-div>
+      <ing-div>
+        <title>DECORATIONS</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Dough scraps from crust</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Water, divided</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>drops</unit></amt>
+          <item>Red food color</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>drops</unit></amt>
+          <item>Green food color</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  CRUST:  Roll and press bottom crust into 9" pie plate. Do not bake. Reserve
+  dough scraps.  Heat oven to 425 F.
+  
+  FILLING: Combine apples, granulated and brn. sugars, flour, cinnamon and
+  butter in a lge. bowl.  Toss to coat. Spoon into unbaked pie crust. Moisten
+  pastry edge with wate. Roll top crust same as bottom. Lift onto filled pie.
+  Trim 1/2" beyond edge of pie plate. Fold top edge under bottom crust and
+  flute.
+  
+  DECORATIONS: Roll out reserved dough; divide in half. Pour 1 tb. water into
+  each of 2 cake pans or pie plates. Add red food color to one and green to
+  the other. Stir until blended. Dip one half of dough i red mixture and the
+  other half in green.
+  
+  Place each on separate sheets of waxed paper.  Cut out 1" circles with
+  floured cutter out of red dough.  Cut leaf shapes out of green dough. Cut
+  vent in top crust to resemble trunk and branches of an apple tree. Decorate
+  branches with red apple shapes and green leaves.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

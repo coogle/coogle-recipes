@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Perfectly Chocolate" Chocolate Chip Cookies</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>60</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Hershey's Cocoa</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Packed light brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Semi-Sweet Chocolate Chips (HERSHEY'S)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped nuts (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 375 degrees Fahrenheit. Stir together flour, baking soda
+  and salt. In large bowl, beat butter, granulated sugar, brown sugar and
+  vanilla on medium speed of electric mixer until creamy. Add eggs; beat
+  well. Gradually add flour mixture, beating well. Stir in chocolate chips
+  and nuts, if desired. Drop by rounded teaspoons onto ungreased cookie
+  sheet. Bake 8 to 10 minutes or until lightly browned. Cool slightly;
+  remove from cookie sheet to wire rack. Cool completely. About 5 dozen
+  cookies.
+  
+  NUTRITIONAL INFORMATION PER SERVING (1 COOKIE = 1/60 RECIPE)
+  
+  * 100 Calories
+  * 1 gm Protein
+  * 13 gm Carbohydrate
+  * 5 gm Fat
+  * 3 gm Saturated Fat
+  * 15 mg Cholesterol
+  * 55 mg Sodium
+  * 5 mg Calcium
+  
+  Hershey's is a registered trademark of Hershey Foods Corporation. Recipe
+  may be reprinted courtesy of the Hershey Kitchens.
+  
+  Meal-Master format by Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/hershey3.zip
+ 
+</step></directions></recipe></recipeml>

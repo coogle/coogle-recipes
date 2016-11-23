@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Con Pollo (Chicken with Rice)</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PREPARE AHEAD</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Rice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Chicken bouillion cube</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Saffron Threads</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>4x4 pc dried tomato sauce*</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Freeze dried chicken</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Freeze dried peas</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing></ing-div>
+      <ing-div>
+        <title>EQUIPMENT</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Pot</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Cup</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  PACKING THE FOOD: Put into 3 small bags, then package with the trail
+  directions: 1. Rice and (unwrapped) bouillion cube; 2. saffron; 3. dried
+  sauce, chicken and peas. TRAIL DIRECTIONS: 1. In a cookpot, add 2 cups
+  water to rice, cover, bring to a boil and simmer 15 minutes. Meanwhile,
+  crumble the saffron threads into 1 T. water in a cup and let them soak. 2.
+  About halfway through the rice cooking time, add 1 1/2 c more water, the
+  saffron water, the dried sauce, chicken and peas. Cover, bring back to a
+  boil and simmer until rice is cooked, about 7 more minutes. Add more water
+  if necessary. Time: 20 to 25 minutes. * This is 1/4 of the Basic tomato
+  sauce recipe.
+ 
+</step></directions></recipe></recipeml>

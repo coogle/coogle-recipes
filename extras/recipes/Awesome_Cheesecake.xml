@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Awesome Cheesecake</title>
+      <categories>
+        <cat>Cheesecakes</cat>
+        <cat>L.b.</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>(500 ml) sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla (or almond)</item></ing></ingredients>
+    <directions>
+      <step>  Cream the cream cheese, then add the ingredients in the order given- one at
+  a time. Pour into a spring form pan on top of a graham wafer crust. Bake at
+  325 degree oven for one hour, then turn off the oven, do not open the door
+  for one hour.  If you have a self-cleaning oven, you will need to open the
+  door just a little, and prop it open for the hour (I find a folded grocery
+  bag is the right size).  Remove from oven, and put the cake into the fridge
+  (after it cools) for about 8 hours.
+  
+  Top with fruit- cherry pie filling, fresh or frozen strawberries, etc.,
+  then with a dollop of whipped cream.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

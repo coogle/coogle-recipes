@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Omelet</title>
+      <categories>
+        <cat>Cheese/eggs</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus, trimmed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Small clove garlic,minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushrooms, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>x</unit></amt>
+        <item>Eggs, lightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Crushed dried basil or</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Minced fresh basil..........</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Freshly ground black pepper</item></ing></ingredients>
+    <directions>
+      <step>      Cut asparagus in 1 inch pieces; cook in boiling salted water until
+  tender, about 2 to 4 minutes.
+   Drain thoroughly.
+      Melt 1 T butter in 8 inch skillet, preferably one with non-stick
+  lining; saute garlic and mushrooms until done and moisture has evaporated.
+  Remove from pan; keep warm.
+      In a small bowl, combine eggs, milk, salt, basil and pepper. Melt
+  remaining butter in skillet until foamy, swirling it around pan to coat
+  evenly.  When hot enough that a drop of water sizzles when dropped in, pour
+  in egg mixture.  Tip pan so eggs coat skillet evenly. As eggs cook,
+  periodically lift up cooked edges, tilt pan and let uncooked egg run
+  underneath.
+   When eggs are cooked, but surface is still shiny, place asparagus and
+  mushrooms on one side; slide out of pan, folding side without vegetables
+  over top.
+   Serve immediately
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

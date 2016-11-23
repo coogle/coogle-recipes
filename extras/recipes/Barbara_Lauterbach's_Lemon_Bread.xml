@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbara Lauterbach's Lemon Bread</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Butter, melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Lemon or orange extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>King Arthur unbleached all- purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Grated rind of 1 large lemo or use 1/2 t lemon oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped pecans (optional)</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Confectioners' sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh lemon juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine sugar, butter, extract and juice. Beat in eggs, one at a time until
+  smooth. In a separate bowl, mix flour, baking powder and salt. Stir in the
+  wet ingredients alternately with the milk. Add the lemon rind (or oil) and
+  pecans (if using). Pour batter into a greased 4 1/2"x8 1/2" loaf pan. Bake
+  for about 1 hour or until toothpick comes out clean. TOPPING: Dissolve
+  sugar in lemon juice over low heat. Pierce top of hot loaf in several
+  places with a sharp knife. Pour topping over crust. Let loaf cool in pan
+  for 1 hour. Remove from pan, wrap in foil and let sit for 24 hours for
+  flavors to mature.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ayam Goreng Jawa - Fried Chicken Javanese Style</title>
+      <categories>
+        <cat>Indonesian</cat>
+        <cat>Chicken</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken, in pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Shallots, peeled and finely sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Garlic Cloves, peeled and finely sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Of Sereh powder *</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Of Laos powder *</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Of grated Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Cinnamon stick</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay Leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>3 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for deep-frying</item></ing></ingredients>
+    <directions>
+      <step>  Put all the ingredients except Oil in a large heavy pan. Bring to a boil
+  then lower the heat, cover, and simmer for about an hour, stirring
+  occasionally Remove the chicken and leave to cool. Heat the Oil in a deep
+  fryer to 350 deg. Fry the chicken a few pieces at a time for 10 minutes.
+  Drain on paper towels. Serve hot.
+  
+  From "The Encyclopedia of Asian Cooking" Indonesian section by Sri Owen
+  
+  * Available at Asian markets and in the Asian section of some supermarkets.
+  If you can't find them don't worry, the recipe will still work OK.
+  
+  The Javanese seem to like their chicken pretty well done and chewy. I
+  prefer mine a little more tender and fry it for a bit less than ten
+  minutes. It has been a while since I made this, but I believe about seven
+  minutes is enough for me. This chicken is delicious and also good cold.
+  Make lots of it.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

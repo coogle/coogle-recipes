@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Mushrooms and Fresh Coriander</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Vegetables</cat>
+        <cat>Side dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Fresh Asparagus;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; (yea! right!) =OR=-</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushrooms; sliced (2 cups)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shallots;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Freshly ground black pepper;</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh coriander; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Trim off tough part of asparagus stalk, about 2 to 3 inches from bottom.
+  Use a vegetable peeler to scrap asgaragus to about 1 inch from top. Cut
+  asparagus on diagonal into 1 inch pieces. Melt butter in a non stick frying
+  pan.  Add mushrooms and cook over high heat, tossing and shaking, until
+  mushrooms are lightly browned. Add asparagus. Cook, stirring and tossing
+  for about 1 minute. Add shallots, salt and pepper. Sprinkle with coriander.
+  Cook for 30 seconds. Food Exchange per serving: 1 VEGETABLE EXCHANGE + 1
+  FAT EXCHANGE
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

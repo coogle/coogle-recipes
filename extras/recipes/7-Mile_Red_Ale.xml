@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Mile Red Ale</title>
+      <categories>
+        <cat>Beer brewin</cat></categories>
+      <yield>54</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6 5/8</qty>
+          <unit>pounds</unit></amt>
+        <item>Northwestern amber malt extr</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>60 degree l crystal malt</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Fuggles hop plugs (4.6% alph</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Cascades whole leaf hops. (5</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Glen-brew ale yeast</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Karl Lutzen Preparation Time: 4:00 Steep crystal malt for 30
+  minutes in 150 degree water. Sparge into  brew pot of hot water and add
+  malt extract. Bring to boil and add  1  ounce Fuggles. 20 minutes later add
+  another ounce. At the 40 minute mark, toss in the final half ounce of
+  fuggles. (Almost threw in a full ounce,  but after tasting wort, decided
+  against it---plenty bitter at this  point.) Turn off heat and add Cascades.
+  Stirred down the hops slowly and let sit for about 10 minutes. Strain all
+  into fermenter containing  ice  water. Cooled. Pitched yeast. Single stage
+  ferment. Keg, and age a few days. I came up with the name when helping
+  install a phone system  and  after the job was done, I had pulled over
+  seven miles of  phone  line...ugh! It's a good ale, but not the "Great Ale"
+  that  I'm  still  looking for...maybe it's in the fermenter now? Original
+  Gravity: 1.044 Final Gravity: 1.010 Primary Ferment: 10 days
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

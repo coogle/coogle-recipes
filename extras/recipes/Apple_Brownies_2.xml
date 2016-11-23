@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Brownies</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Apples; peeled, cored &amp; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Cream margarine &amp; add sugar gradually, beating until smooth. Beat egg
+  separately until light &amp; fluffy, then add to margarine mixture. Stir in
+  nuts &amp; chopped apples. Sift together dry ingredients &amp; fold into batter
+  with a spoon. Turn batter into a greased 7x11-inch baking pan. Bake 40
+  minutes at 350. Cool &amp; cut into squares. Recipe may be doubled for a
+  9x13-inch pan.
+  
+  MRS FLOYD (CINDY) DRAPER
+  
+  From the &lt;The Bliss of Cooking Returns&gt;, Fort Bliss Officers Wives Club,
+  Ft. Bliss, TX.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Casserole</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(14-oz) artichoke hearts; drained and quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Longhorn or Rat cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing></ingredients>
+    <directions>
+      <step>  Place artichokes on the bottom of a greased 8x8 pan. Top with cheese. Pour
+  beaten eggs over cheese. Bake at 350ø for 45 minutes.  Yield: 6 to 8
+  servings.
+  
+  MARILYN LOYD
+  
+  LAKE VILLAGE, AR
+  
+  From &lt;Traditions: A Taste of the Good Life&gt;, by the Little Rock (AR) Junior
+  League.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

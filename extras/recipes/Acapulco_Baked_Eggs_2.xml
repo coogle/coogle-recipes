@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acapulco Baked Eggs</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Extra-sharp cheddar --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Shred</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Can green chiles -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tomato sauce -- ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chili or taco sauce --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Optiona</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tomatoes; sliced -- garnish</item></ing></ingredients>
+    <directions>
+      <step>  Put butter in 8" square baking pan. Set in 350~ oven to melt. Shake pan to
+  distribute butter evenly.
+  
+  Slightly beat eggs, milk, salt and pepper.  Pour into pan. Bake at 350 for
+  10 minutes or until eggs begin to set. Sprinkle with cheese and chiles.
+  Draw a wide metal spatula across bottom of pan several times to break up
+  mixture. Bake, breaking up mixture again several tims, for 5 more minutes
+  or until of desired doneness. Serve with tomato sauce, ketchup or chili
+  sauce, if used. Garnish with sliced tomatoes.
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

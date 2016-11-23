@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andrea's Baked Ziti</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Italian</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ziti, cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Hamburger, cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>15 oz pk ricotta cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded mozzarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sauce of your choice</item></ing></ingredients>
+    <directions>
+      <step>  Mix ricotta cheese, egg, parsley and parmesan cheese together.
+  Careful- ly mix hamburger with this mixture. Add ziti. Mix in 3/4 of
+  the sauce of your choice. Spread in a pan. Put the rest of the sauce
+  on top. Sprinkle mozarella cheese on top. Bake at 350F for 30-35
+  minutes.
+  
+  Source: Andrea Cassoni, Cyberealm BBS originally posted 9/28/92
+  Typed in MM format by: Linda Fields, Cyberealm BBS Watertown NY
+  315-786-1120
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber4.zip
+ 
+</step></directions></recipe></recipeml>

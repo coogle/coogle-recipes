@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Brown Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Carrot, Scrubbed, Unpeeled, And Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stalk Celery, Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions, Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Brown Stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove Garlic, Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bouquet Garni</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato Puree</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Melt the butter in a heavy saucepan over medium heat. Add</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>The carrot, celery, and onions and saute until golden,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Taking care not to let them brown.  All at once, stir in</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>The flour, and turn the heat down to low.  Cook, stirring</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Occasionally, until the flour and vegetables are well</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Browned, but not burned. Stir in the stock, then add the</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic, bouquet garni and tomato puree.  Simmer for</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Hour, stirring from time to time, or until the sauce is</item></ing></ingredients>
+    <directions>
+      <step>  While this very basic sauce is excellent by itself over beef, noodles, and
+  some game, such as venison and bear, it is generally used as a base for
+  other more complex sauces. It may seem very time consuming to make a brown
+  stock, then this basic brown sauce and then a finished sauce, but the
+  result is well worth the effort. Both the stock and this sauce can be
+  frozen for up to three months, which means you can make your own instant
+  bases to have on reserve, which will speed up the process.
+  
+  reduced by half.  Strain.  Allow to cool, then chill and skim off any fat
+  before using.
+  
+  Yield:  About 3 cups
+  
+  From The Complete Book Of Sauces by Sallie Y. Williams
+ 
+</step></directions></recipe></recipeml>

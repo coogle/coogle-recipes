@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Tortilla Casserole</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Main dishes</cat>
+        <cat>Mexican</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Water; *</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Pinto Beans; Dried, *</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; Finely Chopped, 1 Med</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves Garlic</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chiles; **</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chicken Bouillon; Instant</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked Chicken; Diced</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Flour Tortillas; ***</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dairy Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Montery Jack Cheese;Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green Onions w/Tops; Sliced</item></ing></ingredients>
+    <directions>
+      <step>  *     Four 15 oz cans of pinto beans may be substituted for the water and
+  **    You should use 1/3 to 1/2 cup of canned chipotle chiles in adabo ***
+  Tortillas should be 8-inches in diameter and be warmed.
+  ~-------------------------------------------------------------------------
+  Mix water, beans, chopped onion and garlic in 4-quart Dutch oven.  Heat to
+  boiling; reduce heat.  Simmer uncovered until beans are tender, about 3
+  hours adding water if necessary.  Place half the beans, 1/2 cup of bean
+  liquid, the chipotle chiles, bouillon (dry), and cumin in food processor
+  workbowl fitted with steel blade or in blender container.  Cover and
+  process until smooth; pour into large bowl.  Place remaining beans with
+  just enough liquid to cover in workbowl.  Cover and process until smooth;
+  add to bean mixture in bowl.  Heat oil in 10-inch skillet until hot; stir
+  in bean mixture.  Cook uncovered, stirring frequently, until mixture is
+  consistency of cake batter.  Heat oven to 350 degrees F.  Spoon scan 1/4
+  cup chicken onto half of each tortilla; fold tortillas into halves. Arrange
+  in greased 3-quart round shallow casserole or rectangular baking dish 13 X
+  9 X 2-inches; spoon bean mixture over tortillas.  Top with sour cream,
+  cheese and green onions.  Bake uncovered until hot and bubbly, 15 to 20
+  minutes.
+  
+  Miscellaneous recipes from the collection of Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mo-misc.zip
+ 
+</step></directions></recipe></recipeml>

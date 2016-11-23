@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Cabbage Pie</title>
+      <categories>
+        <cat>Crs</cat>
+        <cat>Totest</cat>
+        <cat>Post</cat>
+        <cat>Chopmeat</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded peeled potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded cheddar cheese,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper, divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Onion salt, divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded cabbage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(4oz) chopped green chilies,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Taco sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Additional taco sauce,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Optional</item></ing></ingredients>
+    <directions>
+      <step>  Combine potatoes, 1/2 cup cheese, 1/4 ts pepper and 1/8 ts. onion salt.
+  Press into bottom and up sides of a greased 10" pie plate. Bake at 350F. 20
+  minutes.
+  
+  Brown beef; drain. Add cabbage, saute until crisp. Remove from heat and add
+  chilies, taco sauce and remaining pepper and onion salt. Spoon into crust;
+  bake another 20 mintues. Sprinkle with cheese and bakae until cheese melts.
+  Let stand about 10 minutes b
+  
+  Taste of Home Ground Beef Collection 1996 Edition
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

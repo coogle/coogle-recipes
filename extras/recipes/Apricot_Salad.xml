@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Apricot Jello</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cool whip</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Can crushed pineapple</item></ing></ingredients>
+    <directions>
+      <step>  Combine pineapple,water, sugar and bring to boil.  Add jello and blend
+  well. Put in large dish in refrigerator until set. Cream cream cheese at
+  room temperature and milk and beat into jello mixture. Let set again. Then
+  blend cool whip into the mixture and let set again. Make night before.
+  Serves 10 - 12.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

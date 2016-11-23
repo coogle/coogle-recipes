@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waldine's Creole Potato Salad</title>
+      <categories>
+        <cat>Potatoes</cat>
+        <cat>Meats</cat>
+        <cat>Creole</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>WALDINE VAN GEFFEN VGHC42A</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>pounds</unit></amt>
+          <item>Potatoes; peel, dice, cook</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs; hard-boil, dice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>White onion; dice, opt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Ribs celery; dice</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Creole mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Smoked turkey sausage; slice thin, saute 5 mins, drain</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Fat-free mayo</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Parsley; chop</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Dashes Tabasco</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix all ingredients and refrigerate until ready to serve. Sprinkle top with
+  paprika and garnish with some pimiento-stuffed olive halves.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  VGHC42A@prodigy.com (MRS WALDINE R VAN GEFFEN) on Aug 25, 1997
+ 
+</step></directions></recipe></recipeml>

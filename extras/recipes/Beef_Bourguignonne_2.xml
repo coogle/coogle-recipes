@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Bourguignonne</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat>
+        <cat>Easy</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Medium onions sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Crushed thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Red Burgundy</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Stew meat</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Crushed marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Beef stock</item></ing></ingredients>
+    <directions>
+      <step>  Cook  and  stir onions and mushrooms in hot shortening until onions are
+  tender;   drain on paper towels.
+   Brown meat in same skillet; add more shortening as necessary. remove from
+  heat.   Sprinkle seasonings over meat. Mix flour and beef stock; pour into
+  skillet. Heat to boiling, stirring constantly.   Boil 1 min. Stir in
+  BUrgundy. Cover; simmer until meat is tender, 1 1/2 to 2 hr. The liquid
+  should always just cover the meat. (If necessary, add a little more
+  bouillon and Burgundy - 1 part bouillon  to 2 parts Burgundy.) Gently stir
+  in onions and mushrooms; cook uncovered 15 min., or until heated through.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

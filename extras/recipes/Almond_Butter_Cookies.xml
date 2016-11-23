@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Butter Cookies</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ground almonds</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>*Colored sugar</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 350 F. Cream butter and sugar until light and fluffy.
+  Add flour and almonds and mix well.
+  
+  2. Divide dough into fourths. Form each fourth into a log 1 inch in
+  diameter. Put colored sugar on a long piece of wax paper and roll each long
+  in sugar. Refrigerate until firm.
+  
+  3. Cut into 1/2-inch slices and bake on ungreased cookie sheet 10 minutes.
+  Remove from cookie sheet and cool on wire rack.Makes 80 cookies.
+  Posted to recipelu-digest Volume 01 Number 475 by "bunny"
+  &lt;layla696@ix.netcom.com&gt; on Jan 7, 1998
+ 
+</step></directions></recipe></recipeml>

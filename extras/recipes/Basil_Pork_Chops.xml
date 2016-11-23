@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Pork Chops</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Lean center-cut pork chops</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(1 1/4 lbs.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>V-8 Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Coarsely ground black pepper</item></ing></ingredients>
+    <directions>
+      <step>  Trim and discard excess fat from chops.  In a large frying pan, brown
+  chops without added fat.  When chops are browned, add other
+  ingredients. Cover tightly and simmer 40 minutes or until tender.
+  Turn meat occasionally and add a few tablespoons of water if
+  necessary to prevent burning.
+  
+  1 Serving: 1 Chop Plus 1 Tbsp. Sauce
+  
+  Nutritive values per serving: 3 gm. carbohydrates; 25 gm. protein; 14
+  gm. fat; 240 calories; 0.7 gm. fiber; 521 mg. sodium; 91 mg.
+  cholesterol
+  
+  Food Exchange per serving: 3 Medium-Fat Exchanges + 1 Vegetable
+  Exchange.
+  
+  Low-sodium diets: Omit salt.  Substitute unsalted V-8 Juice.
+  
+  Courtesy of Shareware RECIPE CLIPPER 1.1
+  
+  Posted from the Echo's Library 04/19/94 by Frank Skelly
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

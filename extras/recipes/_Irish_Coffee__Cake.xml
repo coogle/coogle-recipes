@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Irish Coffee" Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Irish</cat>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CAKE</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Butter, at room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Self-raising flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Coffee essence**</item></ing></ing-div>
+      <ing-div>
+        <title>IRISH COFFEE SYRUP</title>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>mililiters</unit></amt>
+          <item>Strong black coffee</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Sugar (for coffee syrup)</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Irish whiskey</item></ing></ing-div>
+      <ing-div>
+        <title>ICING</title>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>mililiters</unit></amt>
+          <item>Heavy whipping cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Confectioners'sugar to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Whiskey, or to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chopped nuts*</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  *Or grated chocolate. **This is a concentrated, liquid coffee easily found
+  in Ireland, but probably not in the States. I would dissolve 2 T of a good
+  instant coffee (Taster's Choice or something similar) in an equivalent
+  amount of water, and use that. -- Grease and flour an 8-inch cake pan
+  (preferably a springform cheesecake pan). Preheat oven to 350F. Cream the
+  butter and sugar until light and fluffy, then beat in the eggs, adding a
+  little flour and beating well after each addition. Stir in the coffee
+  essence, and mix thoroughly. Turn the mixture into the prepared pan, and
+  bake for 35-40 minutes until springy to the touch. Turn out and cool on a
+  wire rack. . To make the Irish coffee syrup, put the coffee and sugar into
+  a small pan and bring up to the boil, stirring to dissolve the sugar. Then
+  boil for 1 minute. Remove from heat and add the whiskey. . Wash and dry the
+  pan the cake was baked in, and return the cooled cake to it: then pour the
+  hot coffee syrup all over it. Leave in a cool place for several hours, then
+  turn out. Whip the cream until it's thick, sweeten slightly with
+  confectioners' sugar, and add whiskey to taste. Spread the cake with the
+  whipped cream and chill for an hour before sprinkling with chopped nuts or
+  grated chocolate.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

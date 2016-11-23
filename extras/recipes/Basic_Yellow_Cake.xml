@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Yellow Cake</title>
+      <categories>
+        <cat>American</cat>
+        <cat>Dessert</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour; sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Let eggs, milk, and butter stand till room temperature. Cream butter,
+  gradually add sugar, beating well. Add eggs, one at a time, beating well
+  after each addition. Combine flour, baking powder, and salt, add to creamed
+  mixture alternately with milk, beginning and ending with flour mixture.
+  Stir in vanilla. Pour batter into 2 greased and floured 9-inch round cake
+  pans or 13x9 inch cake pan. Bake at 350 degrees for 25 minutes or until
+  wooden pick inserted in center comes out clean. Cool in pans 10 minutes;
+  remove layers from pans and cool completely before frosting.
+  
+  Recipe by: Frances Croom
+  
+  Posted to MC-Recipe Digest V1 #924 by "The Croom's"
+  &lt;ccroom@worldnet.att.net&gt; on Nov 26, 1997
+ 
+</step></directions></recipe></recipeml>

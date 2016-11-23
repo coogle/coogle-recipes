@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Annie Mae Jones' Spiced Pot Roast with Fresh Figs</title>
+      <categories>
+        <cat>Beef</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>4-5 lb bottom or top round of beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ginger, ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Onions; peeled and chopped.</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomatoes (16 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beef stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red pepper,seeded/chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Figs,fresh</item></ing></ingredients>
+    <directions>
+      <step>  Wipe the meat with a damp cloth.  Combine the ginger, flour, salt, and
+  pepper, and rub mixture into meat.
+  
+  Heat oil in a large heavy pot; add the meat and brown it well on all sides.
+  Add the onions, tomatoes, stock, and red pepper. Bring to a boil, cover,
+  lower heat, and let simmer for 2-1/2 to 3 hours, or until meat is tender.
+  Add figs for the last 15 minutes of cooking.
+  
+  Place meat on serving platter and surround with figs. Let cooking liquid in
+  pot cool slightly, the remove all surface grease possible. Reheat and serve
+  separately to spoon over slices of meat.
+  
+                           per Diane Lazarus
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

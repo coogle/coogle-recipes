@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken Enchiladas</title>
+      <categories>
+        <cat>Mexican</cat>
+        <cat>Chicken</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Whipping cream or half&amp;half</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green onions &amp; tops; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Corn tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked chicken breast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Pimentos; cut in strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Cheddar cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Green chile sauce; or salsa</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce; coarsely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 F. Mix flour with stock and heat until slightly
+  thickened. Add the whipping cream (or half &amp; half), green onion, salt and
+  pepper. Bring to boil. Stir in sour cream until well mixed. Dip each
+  tortilla in cream sauce, then arrange chicken and strip of pimento down
+  center of each tortilla. Roll and place in greased baking dish (or spray
+  with food release)seam side down. Pour remaining cream sauce over all and
+  bake for 30 min. Remove from oven and sprinkle grated cheese over all and
+  return to oven untill cheese is melted. Arrange coarsely chopped lettuce
+  around edges of dish. Serve with green chile sauce, or salsa cruda, or Pico
+  de Gallo.
+  
+  Recipe easily expands to serve a crowd. Excellent for buffet service.
+  Posted to MM-Recipes Digest V4 #208 by muddy@ibm.net on Aug 9, 1997
+ 
+</step></directions></recipe></recipeml>

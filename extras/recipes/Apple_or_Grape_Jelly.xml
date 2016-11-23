@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple or Grape Jelly</title>
+      <categories>
+        <cat>Preserves</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bottled juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Liquid Certo (1 pouch)</item></ing></ingredients>
+    <directions>
+      <step>  Combine juice and sugar into a large pan.  Place over moderate heat and
+  bring to a boil.  Stir in Certo and bring to a full rolling boil and
+  continue at a full rolling boil for 1 minute. Remove from heat, skim and
+  bottle at once.
+  
+  This is from way back in the late 60's.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

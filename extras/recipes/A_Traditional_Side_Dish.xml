@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Traditional Side Dish</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tomato; cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red onion; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fresh hot; or mildly hot</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ginger (some matchstick</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Slices)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Salt to taste</item></ing></ingredients>
+    <directions>
+      <step>  In a bowl add the veggies, some salt and squeeze lemon juice into the bowl.
+  cover. let stand in fridge for at least 1/2 hour before serving.
+  
+  tastes great with channa masala and roti or as the prime "chutney" with
+  aloo paranthas.
+  
+  Posted by Rooprai to AOL.
+  
+  From the recipe files of Sue Smith, SueSmith9@aol.com. Formatted using
+  1.80E1
+ 
+</step></directions></recipe></recipeml>

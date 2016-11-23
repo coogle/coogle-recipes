@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Chip Muffins</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Jiffy banana nut muffin mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Banana; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Mini-chocolate morsels</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 400 degrees. Lightly grease muffin pan, or use muffin
+  cups in muffin pan.
+  
+  2. Mix all ingredients well and pour into muffin pan.
+  
+  3. Bake for 12 - 14 minutes, until lightly brown.
+  
+  Notes: (Yield: 6 - 8 Muffins, depending on size)
+  
+  Recipe by: JIFFY® Recipe by 1996 Mars, Incorporated
+  Posted to brand-name-recipes by Barbra&lt;barbra@pipeline.com&gt; on Feb 03, 1998
+ 
+</step></directions></recipe></recipeml>

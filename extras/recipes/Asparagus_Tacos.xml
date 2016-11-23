@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Tacos</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Mexican</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Yellow corn tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit/></amt>
+        <item>Pieces asparagus; grilled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Monterey jack cheese; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>White Cheddar cheese; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Olive oil; for brushing</item></ing></ingredients>
+    <directions>
+      <step>  Prepare grill.
+  
+  For each taco, spread 1/4 of the cheeses and 4 pieces of the asparagus on
+  each tortilla, Season to taste with salt and pepper. Fold in half. Brush
+  the outside lightly with olive oil.
+  
+  Grill for 3 minutes on each side or until tortillia is crispy and cheese
+  has melted.
+  
+    Copyright, 1996, TV FOOD NETWORK, G.P., All Rights
+                   Reserved
+  Recipe By     : GRILLIN' &amp; CHILLIN'  SHOW #GR3608
+  
+  Posted to MC-Recipe Digest V1 #234
+  
+  Date: Tue, 1 Oct 1996 23:57:41 -0400 (EDT)
+  
+  From: Chuck Tapping &lt;ctapping@usit.net&gt;
+ 
+</step></directions></recipe></recipeml>

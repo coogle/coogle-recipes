@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balmoral Shortbread</title>
+      <categories>
+        <cat>Cookie</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>375</qty>
+          <unit>grams</unit></amt>
+        <item>Plain flour</item></ing>
+      <ing>
+        <amt>
+          <qty>250</qty>
+          <unit>grams</unit></amt>
+        <item>Butter (nothing else will do)</item></ing>
+      <ing>
+        <amt>
+          <qty>125</qty>
+          <unit>grams</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  From: Iain G Liddell &lt;Iain.Liddell@brunel.ac.uk&gt;
+  
+  Date: Tue, 18 Jan 1994 09:54:44 +0000 (GMT)
+  Scottish Shortbread: As far as shortbread is concerned, I'm a great
+  believer in simplicity. The recipe for Balmoral Shortbread below is typical
+  of this style.
+  
+  However, with Scots cookery, one should never ignore Mistress Margaret
+  (Meg) Dods. Her "Cook's and Housewife's Manual" was promoted (ghosted?) by
+  Sir Walter Scott, who coined her pseudonym. The recipe for Petticoat Tails
+  is described by Catherine Brown (Scottish Regional Recipes) as "a ladies'
+  shortbread - men generally prefer thick fingers".
+  
+  Other recipes call for additions such as rice flour, cornflour
+  (cornstarch), lemon peel, ground or slivered almonds (or almond essence)
+  but these are all just curlicues. As for the commercially produced Choc
+  Chip Shortbread and Cherry Shortbread ... they are about as Scots as the
+  Taj Mahal.
+  
+  Note the 3:2:1 ratio - what could be simpler.
+  
+  Preheat oven to 350F / 180C / Gas 4
+  
+  Sift flour onto a board.  Put sugar in a separate pile on the board, and
+  work in butter.  Gradually knead in flour: you should end up with a firm
+  dough.  Flour the board and roll to a thickness of 3mm to 5mm.  Cut into
+  circles and prick with a fork.  Bake on a greased tray for 30 minutes.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /COOKIES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

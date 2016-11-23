@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Pumpkin Pie</title>
+      <categories>
+        <cat>Not</cat>
+        <cat>Sent</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>6oz graham cracker crust</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(15 oz) pumpkin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(14 oz) Sweetened condensed milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>EACH ground ginger; nutmeg and salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Firmly packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cold margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 425°. Combine pumpkin, sweetened condensed milk, egg, 3/4 tsp
+  cinnamon, ginger, nutmeg and salt; mix well. Pour into crust.
+  
+  Bake 15 minutes; remove pie. Reduce heat to 350°.
+  
+  Combine sugar, flour and remaining 1/2 tsp cinnamon; cut in margarine until
+  crumbly. Stir in walnuts. Sprinkle walnut mixture over pie.
+  
+  Bake 40 minutes at 350° or until knife inserted comes out clean.
+  
+  Recipe by: Keebler and Diamond nuts
+  
+  Posted to EAT-L Digest  by The Taillons &lt;taillon@EARTHLINK.NET&gt; on Nov 23,
+  1997
+ 
+</step></directions></recipe></recipeml>

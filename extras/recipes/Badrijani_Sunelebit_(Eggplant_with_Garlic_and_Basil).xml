@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Badrijani Sunelebit (Eggplant with Garlic and Basil)</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Salads</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Medium eggplants</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh basil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Wine vinegar</item></ing></ingredients>
+    <directions>
+      <step>     Cut eggplants lengthwise in slices about 1/4-inch thick.  Sprinkle with
+  salt to taste and let stand 1 hour.  Rinse and pat dry.
+     Heat several tablespoons oil in heavy skillet.  Saute 1 slice eggplant
+  until golden on both sides.  Place cooked slice on plate and sprinkle with
+  basil, garlic and salt and vinegar.  Repeat with remaining slices, building
+  up several layers of cooked eggplant on plate.  Let stand 1/2 hour at room
+  temperature, then chill.  Serve as salad or side dish.  Makes 6 servings.
+  Each Serving Contains About: 20 calories; 2 mg sodium; 0 cholesterol; 1
+  gram fat; 3 grams carbohydrates; 1 gram protein; 0.38 gram fiber.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

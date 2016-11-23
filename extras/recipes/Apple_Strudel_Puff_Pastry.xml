@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Strudel Puff Pastry</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Frozen puff pastry sheet</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Cooking apples; peeled; and thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar mix with 1/4 tsp cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg beat with 1 tsp water</item></ing></ingredients>
+    <directions>
+      <step>  Thaw pastry 20 minutes.  Preheat oven to 350F.  On a lightly floured
+  surface, roll pastry to 1 12x15" rectangle. Place on ungreased baking
+  sheet; arrange apples down the center. Sprinkle with raisins and
+  cinnamon-sugar.  Brush edges of dough with egg wash.
+  
+  Roll up jelly roll style with seam side down.  Turn ends under, brush with
+  egg wash.  Make diagonal slits across the top at 2" intervals. Bake for
+  35-40 minutes.
+  
+  Posted to Bakery Shoppe Digest148 by novmom@juno.com (Angela Gilliland) on
+  Jul 06, 1997
+ 
+</step></directions></recipe></recipeml>

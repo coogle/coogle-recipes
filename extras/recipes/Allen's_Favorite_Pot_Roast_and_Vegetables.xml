@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Allen's Favorite Pot Roast and Vegetables</title>
+      <categories>
+        <cat>Dutch</cat>
+        <cat>Oven</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Roast</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Potatoes, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Stalks celery, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Bacon, cut 1/2 inch pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Bread</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Carrots, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Cauliflower, broken up</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Any other vegetables you fancy</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Cayenne pepper</item></ing></ingredients>
+    <directions>
+      <step>  The roast can be coated with any chicken flavoring mix. In preheated oven
+  brown bacon and add diced onion and roast after rolling it in bacon grease.
+  Place on hot coals until browned then on medium coals until almost done.
+  Cover with cut up vegetables, being sure some get underneath the meat. Put
+  on medium to hot coals and cook until vegetables are done. 2 2/3 cup of
+  water can be added to vegetables.
+  
+  Recipe by: Allen Heaton (Hurricane Heritage Cookbook) Posted to MC-Recipe
+  Digest V1 #640 by hister@juno.com (Iris E. Dunaway) on Jun 9, 1997
+ 
+</step></directions></recipe></recipeml>

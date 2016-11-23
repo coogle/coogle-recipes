@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>5 Bean Casserole</title>
+      <categories>
+        <cat>Butter</cat>
+        <cat>Beans</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Strips bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Kidney beans; (15 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Butter beans; (15 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Baby limas; (15 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>B &amp; M baked beans; (21 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Can pork and beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry mustard</item></ing></ingredients>
+    <directions>
+      <step>  Brown bacon; drain. Add onion, vinegar, brown sugar and mustard. Simmer 15
+  minutes. Drain the kidney beans, butter beans and baby limas; add to
+  mixture. Add rest of the beans. Bake at 300 degrees for 3 hours or all day
+  in crock-pot. I add 1 cup cubed cheese (Cheddar) just before serving.
+  Serves 10 people.
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Feb 27,
+  1998
+ 
+</step></directions></recipe></recipeml>

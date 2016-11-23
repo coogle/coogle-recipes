@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>3-Step Blueberry Cheese Cake</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>8oz cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>9oz graham cracker crust</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Blueberry pie filling</item></ing></ingredients>
+    <directions>
+      <step>  Mix cream cheese, sugar, vanilla until smooth and creamy. Add eggs and mix
+  well. Pour into pie crust. Spoon 1/4 to 1/3 of pie filling on to top.
+  Gently swirl with toothpick. Bake at 350 degrees for 40 minutes or until
+  center is set. Cool to room temperature and then refrigerate. Serve topped
+  with remaining pie filling.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

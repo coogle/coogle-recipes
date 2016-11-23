@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aloo Matar</title>
+      <categories>
+        <cat>Indian</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>small</unit></amt>
+        <item>Potatoes (1 1/2 pounds); washed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Onion; rough chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Inch ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Turmeric</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Tomatoes; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Peas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garam masala</item></ing></ingredients>
+    <directions>
+      <step>  Cook the potatoes until tender. Peel and set aside. In the container of a
+  blender or food processor, puree the onions, garlic, and ginger. In a large
+  heavy-bottomed skillet over medium heat, warm the oil. Add the cumin. When
+  the cumin darkens (1 to 2 seconds) add the purred onion mixture and saute
+  until browned (about 12 minutes). Add the salt, cayenne, turmeric, and
+  tomatoes and cook until they soften (about 5 minutes). Add the peas and
+  water, reduce heat to low, cover and cook for 5 minutes. Halve the cooked
+  potatoes and add them to the skillet and cook covered another 5 minutes.
+  Mix in the garam masala just before serrving. Note: Do not overcook the
+  potatoes in the first step.
+  
+  Recipe by: Smita Chandra
+  
+  Posted to MC-Recipe Digest V1 #1053 by wight@odc.net on Jan 26, 1998
+ 
+</step></directions></recipe></recipeml>

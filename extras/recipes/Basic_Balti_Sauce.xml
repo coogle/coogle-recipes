@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Balti Sauce</title>
+      <categories>
+        <cat>Indian</cat>
+        <cat>Sauces</cat>
+        <cat>Balti</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Small piece of ginger,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peeled and grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Large garlic clove, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tomato, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Turmeric</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin (ground)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh chopped coriander</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(a handful)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing></ingredients>
+    <directions>
+      <step>  Heat the oil in a large saucepan over moderate heat. Fry the onions, ginger
+  and garlic until the onions are translucent. Add the tomato and stir-fry,
+  breaking it up with the spoon. Pour in 300 ml / 1/2 UK pint water, and stir
+  in the other ingredients.  Bring to the boil. Lower heat, cover and simmer
+  for 30 minutes. Remove from heat and allow to cool. Pour into a blender or
+  food processor and liquidize.
+  
+  (Note:  this is only one formula of thousands possible. There's no more a
+  single recipe for Balti sauce than there's a single recipe for chili. Some
+  cooks like more garlic, some more chili powder;  some use fresh chilies as
+  well:  some add yogurt, coconut, cream...you name it.)
+  
+  (Adapted from 100 BEST BALTI CURRIES, Lowe &amp; Davidson)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>5-Minute Broccoli Soup</title>
+      <categories>
+        <cat>American</cat>
+        <cat>Soups &amp; ste</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Frozen chopped broccoli; 10</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated white cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 tbsp flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Cayenne pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Freshlike Products Preparation Time: 0:05 Cook broccoli
+  according to pkg directions, but omit salt and add onion. In a large
+  saucepan over medium high heat, melt butter, cook 1 minute. Add the 2 tbsp
+  flour, whisk 1 min. Slowly whisk in milk and salt until smooth and boiling.
+  Add broccoli and grated cheese, continue to whisk. Bring to a boil. Season
+  with cayenne and nutmeg if desired.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wakes Cakes</title>
+      <categories>
+        <cat>English</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>White sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg well beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Currants</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Caraway seeds</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated rind of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar to sprinkle</item></ing></ingredients>
+    <directions>
+      <step>  Set oven to 375/F or Mark 5. Cream the butter and sugar together in
+  a bowl, add the beaten egg and mix in all the other igredients to
+  make a firm dough. Roll out thinly on a floured surface, cut into
+  rounds with a 2 1/2 inch cutter sprinkle with sugar and place on a
+  greased baking tray. Bake for  10-15  minutes until lightly browned.
+  They should be crisp and sweet like biscuits.
+  Posted to MM-Recipes Digest V3 #246
+  
+  Date: Mon, 9 Sep 1996 18:08:57 +0000
+  
+  From: "ray.watson" &lt;ray.watson@ukonline.co.uk&gt;
+ 
+</step></directions></recipe></recipeml>

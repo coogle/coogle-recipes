@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bailey's Irish Cream Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Alcohol</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>18 1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Pkg. yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Instant chocolate pudding</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vodka</item></ing>
+      <ing>
+        <amt>
+          <qty>3/8</qty>
+          <unit>cups</unit></amt>
+        <item>Bailey's Irish Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing></ingredients>
+    <directions>
+      <step>  Combine cake mix, pudding mix, oil, water, vodka, liqueur and eggs in bowl.
+  Beat until smooth. Pour into greased and floured 10 inch Bundt pan. Bake at
+  350~F 40 to 50 minutes or until done. Remove from pan and cool completely.
+  Mix a glaze of Bailey's and powdered sugar to a thick consistency and
+  drizzle over cake.
+  Posted to MC-Recipe Digest V1 #215
+  
+  Date: Fri, 23 Aug 1996 17:06:04 -0400
+  
+  From: billspa@icanect.net (Bill Spalding)
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>4-Fruit Wedding Punch</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Parts orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Parts lemonade</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Part pineapple juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Part grapefruit juice (optional; but gives a nice tang)</item></ing></ing-div>
+      <ing-div>
+        <title>ONE BATCH, ACCORDING TO "MOM</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>quarts</unit></amt>
+          <item>Lemonade from a mix; prepared</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(12-oz) frozen orange juice; reconstituted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>"tall can" frozen pineapple juice; reconstituted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>"tall can" grapefruit juice; reconstituted (optional)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   This recipe contains no carbonation and no ice cream.  I have not tried it
+  spiked, but you could probably add rum to it (I'm not up on alcohol, but I
+  believe that's supposed to be good in punch). This is our family's punch
+  recipe--we serve it for all special occasions.
+  
+   I will give what I think are the proportions first, then I'll give the
+  exact amounts my mother-in-law uses for the 11 people in our extended
+  family.
+  
+   *Sorry, I don't know the size of the "tall can", but it's the standard
+  U.S. size that is larger than the 12-oz.-can size.
+  
+   Prepare lemonade.  Reconstitute orange juice, pineapple juice,and
+  grapefruit juice, according to package directions, and in separate
+  containers. Add lemonade to punch bowl. Add all of the orange juice, 1/2
+  (up to 3/4) of the pineapple juice, and 1/2 of the grapefruit juice.
+  
+   Slice thin orange wheels and float on top for a festive look.  Cherries
+  would also look nice.
+  
+  JILLS@VNET.IBM.COM
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

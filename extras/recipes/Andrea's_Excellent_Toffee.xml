@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andrea's Excellent Toffee</title>
+      <categories>
+        <cat>Candies</cat>
+        <cat>Nuts</cat>
+        <cat>Chocolate</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cubes butter (NO margarine!)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Light Karo</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Separate cups finely chopped almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Hershey chocolate bar, broken into chunks.</item></ing></ingredients>
+    <directions>
+      <step>  Butter a cookie sheet. Combine butter, syrup, sugar and water in sauce pan.
+  Stir constantly over medium heat until candy thermometer reaches 300.
+  Remove from heat. Stir in 1 cup almonds. Quickly spread out on buttered
+  cookie sheet with buttered spatula (sometimes using hands covered with
+  plastic bags and buttered helps). Place chocolate pieces on top, spread
+  around as they melt. When chocolate covers all candy, sprinkle with other
+  cup of chopped almonds. Press lightly. Refrigerate 1/2 hours.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

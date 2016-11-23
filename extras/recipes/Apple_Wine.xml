@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Wine</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>gallon</unit></amt>
+        <item>Apple cider; untreated</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Campden tablet</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>packages</unit></amt>
+        <item>All-purpose wine yeast</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients. Ferment under fermentation lock. Rack when
+  fermentation slows &amp; sediment forms in bottom of jug. Allow fermentation to
+  finish &amp; rock until wine is clear. Age as long as possible. Normally
+  drinkable after 3 months, better after 6 months, outstanding after 12
+  months. Makes a medium dry wine. For a sweet wine, use 4 cups of sugar.
+  
+  COL R.M. SINGLETARY
+  
+  From the &lt;The Bliss of Cooking Returns&gt;, Fort Bliss Officers Wives Club,
+  Ft. Bliss, TX.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

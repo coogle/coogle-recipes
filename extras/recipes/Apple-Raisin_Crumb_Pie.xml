@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Raisin Crumb Pie</title>
+      <categories>
+        <cat>Apples</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>9 Inch unbaked pastry shell</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>medium</unit></amt>
+          <item>Apples; pared and sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg; beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Salt</item></ing></ing-div>
+      <ing-div>
+        <title>CRUMB TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Self rising flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sprinkle of nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Fill unbaked pastry shell with apples and raisins mixed together. Stir
+  sugar and flour together and fold in cream, beaten egg, vanilla and salt.
+  You can substitute fresh cream, but sour is best. Spoon cream mixture over
+  apples and raisins. Bake at 350~ for about 40 minutes, or until pie is
+  golden brown. Combine flour, sugars, cinnamon and nutmeg. Blend in 1/3 cup
+  butter until mixture is crumbly. Spoon crumbs over top of pie and bake 15
+  minutes more, or until lightly browned. By KKBG35A RUTH BURKHAR
+  Posted to MC-Recipe Digest V1 #803 by Rowaan &lt;rowaan@earthlink.net&gt; on Sep
+  24, 1997
+ 
+</step></directions></recipe></recipeml>

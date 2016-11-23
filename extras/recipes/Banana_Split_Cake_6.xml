@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>No-bake</cat>
+        <cat>Usenet</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST #1</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Graham cracker crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine</item></ing></ing-div>
+      <ing-div>
+        <title>CRUST #2</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour, all-purpose</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Margarine, softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg, slightly beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>CRUST #3</title>
+        <ing>
+          <amt>
+            <qty>32</qty>
+            <unit/></amt>
+          <item>Oreo cookies</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine, melted</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar, powdered</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit/></amt>
+          <item>Bananas, sliced lengthwise (or less)</item></ing>
+        <ing>
+          <amt>
+            <qty>20</qty>
+            <unit>ounces</unit></amt>
+          <item>Pineapple (chunk), drained</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Strawberries, whole</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Whipping cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Nuts, chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  MAKE CRUST:  Mix ingredients for first crust and press in bottom of a 9 x
+  13 pan. Bake 10 minutes at 350 degrees F. and cool.
+  
+  Blend all ingredients for second crust thoroughly; pat dough on bottom of a
+  pan.  Bake at 400 degrees F. for about 10 minutes or until golden brown.
+  Cool.  Crush cookies and mix them with the margarine. Press mixture in
+  bottom of pan.
+  
+  MAKE FILLING:  Whip margarine/sugar/egg mixture with electric mixer and
+  spread over cooled crust. Place bananas, cut side down, on top of above
+  layer. Spread on the pineapple chunks, then the strawberries.
+  
+  Whip the cream, cover the whole dish with whipped cream, and sprinkle with
+  nuts.  Refrigerate 4 hours before serving.
+  
+  NOTES:
+  
+  *  A no-cooking cake with fruit and whipped cream.
+  
+  : Difficulty:  easy.
+  : Time:  20 minutes preparation, 4 hours cooling.
+  : Precision:  approximate measurement OK.
+  
+  : Peggy B.  Gillenwater
+  : Naval Ocean Systems Center, San Diego
+  : peggy@noscvax.UUCP
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

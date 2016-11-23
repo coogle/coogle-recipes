@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anglesey Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Welsh</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Self-raising flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Mixed fruit</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch salt</item></ing></ingredients>
+    <directions>
+      <step>  TEISEN SIR FON Cream the butter and the sugar. Beat the egg and beat into
+  the butter and sugar mixture. Sift the flour and salt together and fold
+  into the mixture. Add the fruit and enough milk to give a soft 'dropping'
+  consistency. Place in a greased tin in a moderately hot oven (375/F. or
+  Mark 5) for 45 minutes.
+    Posted to MM-Recipes Digest V3 #256
+  
+    Date: Thu, 19 Sep 1996 18:42:04 +0000
+  
+    From: "ray.watson" &lt;ray.watson@ukonline.co.uk&gt;
+ 
+</step></directions></recipe></recipeml>

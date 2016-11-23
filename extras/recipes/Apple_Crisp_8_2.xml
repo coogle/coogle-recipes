@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp 8</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Granny Smith apples, cored, peeled and; sliced thin</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar; packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Rolled or quick cooking oats</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar; packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine; softened</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place apples in a large casserole dish.  Drizzle lemon juice over.  Combine
+  remaining ingredients for filling and toss with apples until thoroughly
+  coated. Combine topping ingredients and sprinkle over apples. Bake in a
+  preheated 350 degree oven for about 45 minutes, or until center is bubbly.
+  Recipe By     : Sharon Barbour
+  
+  Posted to EAT-L Digest 20 October 96
+  
+  Date:    Mon, 21 Oct 1996 18:00:57 -0400
+  
+  From:    Cheryl Constantine &lt;Nickaduck@AOL.COM&gt;
+ 
+</step></directions></recipe></recipeml>

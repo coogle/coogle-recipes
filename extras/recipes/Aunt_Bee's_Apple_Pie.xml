@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Bee's Apple Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All-Purpose Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apples; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Orange Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>All-Purpose Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  In a large bowl combine 1/2 cup butter and the cream cheese, and let come
+  to room temperature. Add 2 cups of flour and blend well. Chill. Roll out
+  half of the dough and place in a 9 inch pie plate. Reserve the remaining
+  dough for the top crust.
+  
+  In a saucepan combine the remaining ingredients and bring to a boil. Pour
+  the mixture into the crust. Roll out the remaining crust and place over the
+  filling. Cut slits in the top crust to allow steam to escape. Bake in a 350
+  degree oven for 45 minutes.
+  
+  Recipe by: Aunt Bee's Mayberry Cook Book Posted to Bakery-Shoppe Digest V1
+  #212 by ~patsy ~ &lt;patsy@sat.net&gt; on Sep 01, 1997
+ 
+</step></directions></recipe></recipeml>

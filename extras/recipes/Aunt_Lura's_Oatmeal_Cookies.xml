@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Lura's Oatmeal Cookies</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shortening, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Oats</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Rich, this is an old favorite of mine, from my great-grandmother. Thought
+  everyone would enjoy it.  I love them, and so does the rest of my family.
+  They were always part of Christmas baking for us.
+  
+  Preheat oven to 375 degrees.  Combine shortening, oats, flour, sugar,
+  raisins, milk, cinnamon, soda and salt. It should stick together when you
+  squeeze a small amount in your hand. Drop small amounts on sheet. Bake 10
+  minutes.
+  
+  Hope you try them, they are the best I've ever tasted, though I'm probably
+  biased.
+  
+  Reposted By Ellen Cleary
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

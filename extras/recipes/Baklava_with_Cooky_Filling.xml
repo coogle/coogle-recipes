@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baklava with Cooky Filling</title>
+      <categories>
+        <cat>Greek</cat>
+        <cat>Desserts</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>COOKY FILLING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Sweet butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Confectioners' sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg yolk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla or almond extract</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing></ing-div>
+      <ing-div>
+        <title>SYRUP</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lemon juice to taste</item></ing></ing-div>
+      <ing-div>
+        <title>BAKLAVA</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Toasted blanched almonds *</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Zwieback crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Phyllo pastry sheets</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sweet butter; melted</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  *Note: Either toasted blanched almonds, or walnut meats, or half of each,
+  (finely chopped) may be used.
+  
+  Cooky Filling:  Cream the 2 cups sweet butter until light.  Gradually beat
+  in the confectioners' sugar and continue to beat until mixture is fluffy.
+  Add egg yolk and vanilla or almond extract and blend well.  Work in about 4
+  cups flour to make a medium-soft dough.  Set aside and make syrup.
+  
+  Syrup:  In a saucepan combine the granulated sugar and water.  Bring to a
+  boil and boil for 15 minutes or until syrup is slightly thick.  Add honey
+  and again bring to the boiling point.  Add lemon juice to taste, and cool.
+  
+  Mix almonds or walnuts, or a combination of the two, with zwieback, 4 T
+  granulated sugar, and cinnamon.  Brush 2 sheets of phyllo pastry evenly
+  with butter and sprinkle with nut mixture.  Place 2 buttered sheets of
+  phyllo on top and sprinkle with nut mixture.  Shape a portion of cooky
+  filling into a 1/2-inch-thick roll and place the roll along one edge of the
+  pastry sheets.  Roll up loosely, cut into 2-inch slices, and place slices
+  in a buttered cake pan.  (Continue in this method until all phyllo pastry
+  and/or cooky filling is used.)  Brush tops of each slice with butter and
+  bake in a 350 F oven for 20 minutes or until lightly browned. Dip the hot
+  baklava slices, one at a time, in cold syrup, allowing each piece to remain
+  in the syrup for a few minutes.
+  
+                          From: "The Art of Greek Cookery"
+                          by The Women of St. Paul's Greek Orthodox Church
+                          (Hempstead, NY)
+  
+  Typed for you by Karen Mintzias
+  Sent to me by Bill &lt;wight@odc.net&gt;
+ 
+</step></directions></recipe></recipeml>

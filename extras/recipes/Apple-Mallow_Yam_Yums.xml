@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Mallow Yam Yums</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Apples -- sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>40</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned yams</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Miniature marshmallows</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(optional)</item></ing></ingredients>
+    <directions>
+      <step>  Toss apples and nuts; combine brown sugar and cinnamon.  Alternate layers
+  of apples and yams in 1 1/2 quart casserole dish.  Dot with butter.  Bake
+  at 350 F for 35 to 40 minutes.  Serves 6 to 8.
+  
+  Optional:  sprinkle with marshmallows.  Broil till lightly browned.
+  
+  Recipe By     : Elizabeth A. Gordy
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

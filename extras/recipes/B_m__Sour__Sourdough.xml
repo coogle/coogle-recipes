@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>B/m "Sour" Sourdough</title>
+      <categories>
+        <cat>Breadmaker</cat>
+        <cat>Ethnic</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sourdough starter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Melted margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast</item></ing></ingredients>
+    <directions>
+      <step>  This basic recipe was from Anna Ellis (DMSD70C). I
+  substituted oil for the margarine and with some
+  experimentation, came up with this technique: Put all
+  ingredients in the B/M and set on the dough cycle.
+  When the cycle is complete, leave the dough in the pan
+  for 3 to 4 more hours. Remove dough and squeeze out
+  gases. Cover with a damp towel and let it rest for 20
+  or 30 minutes minutes. Sprinkle corn meal on a board
+  and shape dough into two cylindrical loaves. Place
+  loaves on a cornmeal covered baking sheet. Cover again
+  with the damp towel and allow to rise for another two
+  hours. At the end of two hours, refrigerate the dough,
+  still covered, for at least 12 hours (the longer the
+  better). Take dough out of the refer, sprinkle with
+  water, and let it sit out for 4 hours. Sprinkle again
+  with water then bake at 375 for 30 minutes or until
+  brown and crusty.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Drop Biscuits</title>
+      <categories>
+        <cat>Master mix</cat>
+        <cat>Biscuits</cat>
+        <cat>Jewel</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bake it all mix*</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Or 3 strips bacon</item></ing></ingredients>
+    <directions>
+      <step>  *Do not pack
+       Cut 2 to 3 strips of bacon into small pieces. Panfry. Drain. Add to
+  Mix of Baking Powder Drop Biscuit recipe before blending in milk. Yield: 9
+  to 10 biscuits
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

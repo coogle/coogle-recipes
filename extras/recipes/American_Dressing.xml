@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>American Dressing</title>
+      <categories>
+        <cat>Saucen</cat>
+        <cat>Marinaden</cat></categories>
+      <yield>999</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FUER 4 PERSONEN</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>125 g Salatmayonnaise (50%~Fett)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>125 g Speisequark (20%~Fett)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>5 El Saure Sahne</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>3 El Tomatenketchup</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 Knoblauchzehe</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 Bund Schnittlauch</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 Bund glatte Petersilie</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 Troepfchen Estragon</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salz</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Weisser Pfeffer</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1-2 Tropfen Tabasco</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1-2 El Cognac</item></ing></ing-div></ingredients>
+    <directions>
+      <step>    1. Mayonnaise, Speisequark, saure Sahne und Tomatenketchup in eine
+  Schuessel geben. Mit einem Schneebesen glattruehren.
+  
+    2. Knoblauchzehe abziehen, sehr fein hacken oder durch eine
+  Knoblauchpresse druecken. Zur Sosse geben und unterruehren.
+  
+    3. Kraeuter waschen und mit Kuechenkrepp trockentupfen. Schnittlauch mit
+  einer Kuechenschere in feine Roellchen schneiden. Petersilien- und
+  Estragonblaetter abzupfen, fein schneiden.
+  
+    4. Kraeuter unter die Sosse ruehren und alles pikant mit Salz, Pfeffer,
+  Tabasco, Cognac oder Weinbrand abschmecken.
+  
+    Das American Dressing passt gut zu Endivien- und Eichblattsalat, aber
+  auch zu Roemer-, Chicor'ee- und Eisbergsalat. Es eignet sich ausserdem als
+  Gemuese-Dip, z.B. zu Moehren, Staudensellerie, Fenchel und Kohlrabi.
+  
+  Zubereitungszeit     20 Minuten * Pro Person 270 Kalorien
+  
+  Erfasser: Barbara Datum: 13.01.1993 Stichworte: Dressing, Sossen, Saucen
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

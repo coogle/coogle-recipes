@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bun for on the Run!</title>
+      <categories>
+        <cat>Breakfast</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Hot dog roll</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Jelly</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon juice; optional</item></ing></ingredients>
+    <directions>
+      <step>  Spread inside of hot dog roll with peanut butter and jelly.  Brush peeled
+  banana lightly with lemon juice (so it doesn't turn brown).  Place banana
+  in roll and off they go!
+  
+  Posted to FOODWINE Digest 23 Sep 96
+  
+  Date:    Tue, 24 Sep 1996 10:31:50 -0400
+  
+  From:    Laura Hunter &lt;LHunter722@AOL.COM&gt;
+ 
+</step></directions></recipe></recipeml>

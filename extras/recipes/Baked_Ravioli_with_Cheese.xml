@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ravioli with Cheese</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Packs (9oz ea) fresh meat</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ravioli</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(15oz) tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(8oz) tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried crushed basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried crushed oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pressed garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded mozzarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Finely grated Parmesan</item></ing></ingredients>
+    <directions>
+      <step>  Lightly oil 1 1/2 quart baking dish &amp; set aside. Heat large pan of
+  water to boil, add ravioli &amp; cook 2 minutes. Drain &amp; rinse to prevent
+  sticking. Drain again. Combine ravioli, tomato sauce, basil, oregano,
+  pepper &amp; garlic. Spoon half into baking dish &amp; sprinkle half of the
+  mozzarella &amp; Parmesan cheeses. Top with remaining ravioli &amp; cheeses.
+  Bake at 350 for 20 minutes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

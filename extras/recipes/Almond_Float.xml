@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Float</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unflavored gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(16 oz) peach slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(15 oz) lychees</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Maraschino cherries, cut</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Into halves</item></ing></ingredients>
+    <directions>
+      <step>  Soften gelatin in 1/4 cup of the water. In a sauce pan, bring
+  remaining 1 cup water to a boil. Add softened gelatin and stir until
+  gelatin is dissolved. Stir in sugar, milk and almond extract. Pour
+  into an 8 inch square pan and chill until firm. To serve, drain
+  peaches, saving the liquid. Cut peaches into smaller pieces. Put back
+  into liquid and add lychees and cherries. Cut almond gelatin into
+  diamond shapes. Carefully put into fruit mixture.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

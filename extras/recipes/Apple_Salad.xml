@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Salad</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Lo-cal</cat>
+        <cat>Salads</cat>
+        <cat>Fruits</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>JONI CLOUD SSMW41A</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Apples;diced and pared</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Celery;diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Mayo;reduced calorie</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit/></amt>
+          <item>Lettuce leaves</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine all ingredients except lettuce; mix well Refrigerate until ready to
+  serve. Serve on Lettuce Leaves, optional of course.
+  
+  Each serving 1/4 cup  Yeild 8 servings Each serving may be exchaned for
+  : 1 fruit. From Joni's Diabetic Kitchen in South Jersey,Enjoy.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

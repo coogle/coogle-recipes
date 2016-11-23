@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Chocolate Chip Bread</title>
+      <categories>
+        <cat>Abm</cat>
+        <cat>Sweet bread</cat>
+        <cat>Fruits</cat>
+        <cat>Chocolate</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Very ripe bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Semi sweet chocolate pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Bread machine yeast</item></ing></ingredients>
+    <directions>
+      <step>  Add ingredeints in order given by manufacturer, adding mashed bananas with
+  milk and chocolate with flour. Basic/white bread cycle. Light color
+  setting.
+  
+  NOTE: How this bread turns out will depend on your breadmaker. Some
+  machines will make a smooth chocolate colored bread. Others will leave bits
+  of chocolate chips, and still others will give a marbled loaf.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

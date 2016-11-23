@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Dumpling</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Desserts</cat>
+        <cat>Fruit</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Pastry for 2-crust pie</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Apples [peeled &amp; cored]</item></ing></ing-div>
+      <ing-div>
+        <title>FOR THE SYRUP</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Granulated white sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter (Softened)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing></ing-div>
+      <ing-div>
+        <title>FOR THE FILLING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated white sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter (softened)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Vanilla Ice cream</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Pre-heat oven to 450o 1) Roll pastry slightly less than 1/8" thick. Cut
+  into seven inch squares. 2) Bring syrup ingredients to boil. Boil 3 min.
+  Put apple on center of each pastry square. Fill with mixture of sugar,
+  cinnamon, nutmeg. 3)      Dot each with teaspoon of butter. Bring points of
+  pastry up over apple and overlap. Place in a baking pan separated slightly
+  and pour one cup of the hot syrup mixture around dumplings. Bake at 425o
+  for 45 min. Just before serving pour rest of warm syrup over dumplings and
+  serve with the ice cream.
+  
+  Variation: Peach Dumplings: use 3 large peaches, peeled and pitted (in
+  place of apples)
+  
+  Put peach half on center of each square and proceed as for apple dumplings
+  above.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

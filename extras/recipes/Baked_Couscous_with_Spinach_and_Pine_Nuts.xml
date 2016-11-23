@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Couscous with Spinach and Pine Nuts</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Couscous</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Boiling stock; or water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>28</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomatoes, canned; chopped and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh basil; or 1 tsp. dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Pine nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh spinach; about 5 oz., stems r</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground black pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Meunster cheese; grated</item></ing></ingredients>
+    <directions>
+      <step>  Combine couscous, boiling liquid, and salt in a large bowl and cover with a
+  plate. Let sit for 5 min. then fluff with fork. Heat the oil in a large
+  skillet over medium heat, and saute garlic and onion 10 mins. or until
+  tender. Add drained tomatoes and cook 10 mins. more, stirring frequently.
+  Stir tomato mixture into couscous and mix in reserved tomato juice, basil,
+  pine nuts, spinach, and pepper. Spread half the couscous mixture into a
+  12x7x2 in. or other shallow (2.5 qt) baking pan. Sprinkle on cheese, then
+  top with remaining couscous. Cover with foil and bake at 375 F for 25 min.
+  or until hot and bubbly.
+  NOTES : this could easily be made with less oil (just enough to keep
+       onions from sticking), little or not salt (I'd prefer soy sauce
+       anyway for
+       flavor), and the cheese could be left out for a vegan or pareve
+       meal.
+ 
+</step></directions></recipe></recipeml>

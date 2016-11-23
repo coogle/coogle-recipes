@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Sauce Au Justin</title>
+      <categories>
+        <cat>Barbecue</cat>
+        <cat>Pork</cat>
+        <cat>Sauces</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Yellow Onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Red Wine Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Louisiana Hot Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic Clove; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dry Red Wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Celery Seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Steak Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh Parsley</item></ing></ingredients>
+    <directions>
+      <step>  Sauté onions in oil. Add rest of ingredients (except parsley). Bring to
+  boil and cook on low for at least two hours. Add parsley during last 15
+  minutes of cooking. Serve with barbecued pork. This is a dipping sauce and
+  not intended to be used as a baste.
+  
+  NOTES : Grill the ribs basting occasionally with oil and serve this pungent
+  sauce on the side.
+  Recipe by: Justin Hayward
+  
+  Posted to TNT Recipes Digest by "Barbara Zack" &lt;bzack@leading.net&gt; on May
+  8, 1998
+ 
+</step></directions></recipe></recipeml>

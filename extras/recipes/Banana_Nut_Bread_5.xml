@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Nut Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Bananas</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Bananas; very ripe, mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Eggs; lightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Zest of 1 lemon; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped nuts; lightly toasted</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 350 degrees. Butter and flour a loaf pan measuring
+  8-1/2 x 4-1/2 inches, shake out the excess flour, and set aside.
+  
+  In a large bowl cream together the butter and sugar until light. Put the
+  bananas in another bowl and stir in the eggs and lemon zest. Mix together
+  in a third bowl the flour, baking soda, and salt. Alternately stir the
+  banana and flour mixtures into the butter and sugar. Finally fold in the
+  nuts. Spoon the batter into the prepared loaf pan and bake until the bread
+  tests done, about 1 hour. Cool the bread on a rack before turning it out
+  and slicing. Makes 1 loaf
+  
+  NOTES : This makes a moist, flavorful, textured bread, neither too sweet
+  nor too heavy.  Toast it in slices or not, as you choose.
+  Recipe by: A Feast Of Fruits
+  
+  Posted to MC-Recipe Digest V1 #1048 by "Marie Smith" &lt;craftee@sprynet.com&gt;
+  on Jan 27, 1998
+ 
+</step></directions></recipe></recipeml>

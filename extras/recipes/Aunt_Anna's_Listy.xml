@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Anna's Listy</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Yolks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>A dash of salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Whiskey</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioners' sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lard for frying</item></ing></ingredients>
+    <directions>
+      <step>  Source: Roberta Brisson - This recipe is from my dad's sister. It's also a
+  very old recipe.
+  
+  Mix eggs, salt, flour and whiskey to make a stiff dough working it into a
+  smooth dough. On a lightly floured board, roll dough very thin (almost
+  paper thin). Cut into the size of a 3-inch square and make 2 slits in the
+  center with a sharpe knife. This is a very stiff and sticky dough.
+  
+  Deep fry in lard (350 degrees) for 2 to 3 seconds. Fry only a couple at a
+  time. Remove from fat and drain on paper toweling. Dust generously with
+  confectioners' sugar when cooled.
+  
+  NOTE: This is the only recipe I don't substitute the lard. It gives the
+  pastry a better taste that oil. My father also said that these were like
+  eating air. (Too bad that they don't have the calories of air.) It was one
+  of his favorites.
+  
+  Posted to recipelu-digest Volume 01 Number 635 by QueenBerta@aol.com on Jan
+  29, 1998
+ 
+</step></directions></recipe></recipeml>

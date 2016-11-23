@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread Homesize (Mf)</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BEAT UNTIL CREAMY</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>White sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Bananas</item></ing></ing-div>
+      <ing-div>
+        <title>ADD AND BEAT WELL</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs (lg)</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>COMBINE AND SET ASIDE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking soda</item></ing></ing-div>
+      <ing-div>
+        <title>ADD TO EGG MIXTURE ALTERNATE</title></ing-div>
+      <ing-div>
+        <title>WITH THE DRY INGREDIENTS</title></ing-div>
+      <ing-div>
+        <title>MIX JUST TIL MOIST</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Buttermilk</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Follow heading directions.  Put in to greased baking pan.  Bake
+  
+  at 325 dgrees for about 1 hr. or until done.  Just check it after 30 min.
+  Contributor:  Mrs Mary Fretz     10-22-96
+  
+  Posted to MM-Recipes Digest V5 #008 by kwcochran@juno.com (Keith W Cochran)
+  on Jan 8, 1998
+ 
+</step></directions></recipe></recipeml>

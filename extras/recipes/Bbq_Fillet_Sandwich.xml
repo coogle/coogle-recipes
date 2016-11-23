@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Fillet Sandwich</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Barbecue sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Gorton's Crunchy Golden Fish Fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Spanish onion</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Hard rolls; split</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Tomato; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce</item></ing></ingredients>
+    <directions>
+      <step>  Prepare Gorton's Crunchy Fish Fillets as the package directs. Meanwhile,
+  grill or broil onion, brushing with 2 tbsp barbecue sauce, until golden.
+  
+  For each sandwich, spread the bottom half of each roll with the remaining 2
+  tbsp of barbecue sauce blended with mayonnaise.
+  
+  Top each with 1 hot crunchy fish fillet, tomato slices, grilled onion
+  slices and lettuce.
+  
+  Try using wooden toothpicks to hold it together while you slice each
+  sandwich in half.
+  
+  Posted to brand-name-recipes by Brenda Whimsey Stephens
+  &lt;whimsey@mindspring.com&gt; on Feb 19, 1998
+ 
+</step></directions></recipe></recipeml>

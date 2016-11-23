@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ann's Seafood Chowder (Halifax Version)</title>
+      <categories>
+        <cat>Fish*shell</cat>
+        <cat>Soups</cat>
+        <cat>Main dish</cat>
+        <cat>Ann</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Bacon drippings</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>White onion, fresh picked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Celery rib, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Sealegs, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Mixed seafood</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Potatoes, cooked,diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tomato, large, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Yellow zucchini, chunked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Green zucchini, chunked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Green peas, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sweet peppers, vary colours</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sauterne</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>x</unit></amt>
+        <item>Milk to thin as needed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tomato sauce/soup to taste</item></ing></ingredients>
+    <directions>
+      <step>  Melt bacon fat and butter in heavy saucepan over medium-low heat. Add
+  onions and saute until clear, add celery and cook gently for about 5 mins.
+  Add seafood products and saute in saucepan at medium high heat to coat,
+  flavor and brown slightly.
+  
+  Add flour, and milk, stirring well to avoid lumps.
+  
+  Add remaining ingredients, except peas, in order of required cooking time
+  (ie potatoes, zucchini, tomatoes, peppers, etc). Add wine and season to
+  taste. Heat until heated through, but do not boil. Add peas about 20 min
+  before serving. Use milk to thin as necessary.
+  
+  Sealegs are imitation crab meat, usually pollock with crab flavouring.
+  
+  If chowder is to be frozen prior to serving, do not add the milk until
+  reheating.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

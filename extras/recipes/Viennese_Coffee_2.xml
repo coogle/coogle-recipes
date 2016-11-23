@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Viennese Coffee</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Hot strong coffee, freshly brewed (Viennese or any dark roast, preferred)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>(Heavy) ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>(Light) ground clove</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy cream, chilled, optional</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Confectioners sugar, optional</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cinnamon sticks and/or ground cinnamon,, for serving</item></ing></ingredients>
+    <directions>
+      <step>  Stir the nutmeg and clove into the hot coffee and divide among 4 coffee
+  cups or mugs. Beat the cream, if using, until fluffy, then gradually add
+  the confectioners sugar, beating until stiff. Top each cup of coffee with a
+  generous dollop of the whipped cream. Insert a cinnamon stick into each cup
+  and/or sprinkle lightly with ground cinnamon. Serve immediately.
+  
+  YIELD: 4 servings
+  Recipe by: Homemade Good News (Vol 16 No 4)
+  
+  Posted to MC-Recipe Digest V1 #373, by Sean Coate &lt;swcoate@peganet.com&gt; on
+  Wed, 15 Jan 1997.
+ 
+</step></directions></recipe></recipeml>

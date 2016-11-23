@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abalone Stuffed with Crabmeat</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>WHITE SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt, pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Warm milk</item></ing></ing-div>
+      <ing-div>
+        <title>ABALONE</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Shallots; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cooked crabmeat</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt, white pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Red pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dry mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Worcestershire sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Lemon (juice only)</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Large abalone steaks</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs; beaten</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Flour</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Melt 2 tablespoons butter in skillet and stir in flour. Season to taste
+  with salt and pepper. Cook, stirring, over medium heat about 1 minute but
+  do not allow flour to brown. Add milk and cook and stir 1 or 2 minutes
+  until mixture comes to boil and thickens. Set aside. For abalone, melt 1
+  tablespoon butter in small saucepan, add shallots and cook until tender but
+  not browned. Add crabmeat and heat thoroughly. Add enough white sauce to
+  bind, about 1/2 cup. Season to taste with salt and white pepper and add red
+  pepper, mustard, Worcestershire and lemon juice. Carefully pound abalone
+  steaks between 2 sheets of waxed paper until very thin (unless purchased
+  already pounded). Dip abalone in eggs seasoned to taste with salt and white
+  pepper. Coat with flour and set aside. Melt 2 tablespoons butter in heavy
+  skillet. Add abalone and brown quickly on one side. Turn and brown other
+  side. Do not overcook as abalone will toughen. Place abalone steaks on
+  platter and spoon crabmeat stuffing on each. Roll and arrange on serving
+  platter, seam down. If desired, serve with any remaining sauce.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

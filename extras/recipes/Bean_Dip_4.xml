@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Dip</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>drops</unit></amt>
+        <item>Tabasco sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Taco seasoning mix; (1 package)</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Bean dip; (1 can)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated cheddar cheese; --or more</item></ing>
+      <ing>
+        <amt>
+          <qty>14 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Tortilla chips; --serve alongside</item></ing></ingredients>
+    <directions>
+      <step>  Soften cream cheese. Mix all ingredients until smooth. Ccover with cheddar
+  cheese. Bake at 350 degrees F for 20 - 30 minutes. Serve with tortilla
+  chips. Yields 3 cups.
+  
+  Recipe by: Lisa Dugoni
+  
+  Posted to MC-Recipe Digest V1 #972 by Shavonne Bauer &lt;ssbauer@erinet.com&gt;
+  on Dec 26, 1997
+ 
+</step></directions></recipe></recipeml>

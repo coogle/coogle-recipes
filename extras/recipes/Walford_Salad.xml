@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walford Salad</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Fruits</cat>
+        <cat>Nuts</cat></categories>
+      <yield>7</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Celery; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Seedless green grapes; halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apple; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Dates;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dry white wine;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce Leaves;</item></ing></ingredients>
+    <directions>
+      <step>  Pace celery, grapes, apple, dates, and walnuts into a bowl. Blend
+  mayonnaise with wine; pour into bowl. Stir to blend with celery, fruit and
+  walnuts.  Use slotted serving spoon to serve, shaking spoon slighty to
+  remove excess dressing.  Serve on to remove excess dressing. Food Exchange
+  per servings: 2 FRUIT EXCHANGES + 1 FAT EXCHANGE + 1 VEGETABLE EXCHANGE;
+  CAL: 105
+  
+  Source: The Complete Diabetic Cookbook by Mary Jane Finsand Brought to you
+  and yours via Nancy O'Brion and her Meal-Master
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

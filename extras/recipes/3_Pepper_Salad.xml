@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>3 Pepper Salad</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Yellow pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Basil sprigs</item></ing></ingredients>
+    <directions>
+      <step>  FROM MY GARDEN SHOW #5520
+  
+  Roast peppers by placing whole pepper on a broiler sheet or a grill. Turn
+  frequently until all sides are blackened. Place peppers in a brown paper
+  bag or a bowl covered with plastic wrap. This will steam the pepper and
+  make the skin easy to remove. Remove skin. Slice and arrange in a colorful
+  display on a platter. Drizzle with olive oil, balsamic vinegar and garnish
+  with basil sprigs.
+  
+  Posted to EAT-L Digest 03 Sep 96
+  
+  From:    Connie Anderson &lt;connie@USA.NET&gt;
+  
+  Date:    Wed, 4 Sep 1996 09:06:17 -0500
+ 
+</step></directions></recipe></recipeml>

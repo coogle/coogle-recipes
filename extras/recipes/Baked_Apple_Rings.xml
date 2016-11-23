@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apple Rings</title>
+      <categories>
+        <cat>Bakery</cat>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Baking Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Powdered Cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sweetener</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 F.
+  
+  Core and slice apples into 1/2" rings. place in shallow baking dish. In
+  saucepan, combine and heat remaining ingredients. Pour over apples and bake
+  15 minutes or until tender, turning to baste once or twice. Variation: Very
+  good with red-hot candies put in the center of each ring.
+  
+  Posted by Michelle Howe
+  Posted to MM-Recipes Digest  by "John Weber" &lt;hdbrer@ibm.net&gt; on Apr 10, 98
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Nectar Ice</title>
+      <categories>
+        <cat>Frozen</cat>
+        <cat>Dishes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apricot nectar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon peel -- grated</item></ing></ingredients>
+    <directions>
+      <step>  1. Sprinkle gelatin into 1/4 cup cold water. Let stand 5-10 minutes to
+  soften. 2. Put softened gelatin into 1-1/2 cups VERY hot water. Stir until
+  gelatin is completely dissolved. Add 1 cup sugar and stir until sugar is
+  dissolved. 3. Blend 2 cups apricot nectar, 2 tablespoons orange juice and 2
+  teaspoons grated lemon peel into the gelatin mixture. Cool, then pour into
+  a refrigerator tray.      4. Place in freezer and freeze until firm. This
+  should take about 4 hours. Serve in chilled sherbet glasses.
+  
+  Yield: about 1 quart.
+  
+  Recipe By     : Jo Anne Merrill
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bakewell Tart</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>British</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PASTRY</title>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Solid vegetable shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Ice water</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Medium sized eggs, at room</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Superfine sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter at room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Ground almonds</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>(Heaping) good-quality</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Strawberry preserves</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  PASTRY: Measure out the flour and put to one side.  In a large mixing bowl,
+  place the fat, water and 3 heaped tablespoons of the flour you set to one
+  side. Beat vigorously with a wooden spoon until all is well blended. The
+  carefully add in the rest of the flour, rubbing the mixture between your
+  fingertips until it all sticks together. You can add up to 2 tablespoons of
+  water to help, but no more. Remember that if you overwork the pastry at
+  this stage it will become tough and shrink when cooked. Combine into a
+  ball, cover with a damp tea towel and place in the refrigerator. Preheat
+  the oven to 400F.  Beat the eggs and sugar together until creamy (this
+  takes about 3 minutes). Add the butter in small pieces, and the almonds,
+  and continue to beat for another minute until all is combined. Set aside.
+  On a lightly floured working surface, roll out the pastry into a circle so
+  that it's 3 inches larger than the baking tin, and about 1/8" thick.
+  Lightly grease the tin, making sure you smear a very thin film all over the
+  inside.  Now transfer the pastry to the bin by carefully rolling it around
+  the rolling pin.  Be careful, it's not always easy; but if the pastry
+  breaks a bit, don't worry - you can do a repair job when it's in the tin.
+  Now with your hands fashion it to the inside of the tin, making sure it
+  reaches inside the corners.  Cut off the excess pastry with a knife. You
+  will hae pastry left over; roll it into a ball and freeze for next time. In
+  a small saucepan gently melt the jam so it will spread more easily.
+  Distribute the jam evenly over the pastry in the tin and then cover the
+  preserve with the egg mixture. Now bake in the center of your oven for
+  25-30 minutes.  It's done when the filling has set and is a mid to deep
+  brown all over.  If it starts to brown on one side and not the other, turn
+  the pie halfway through cooking (do this quickly or all the heat will
+  escape).  This means that you'll have to keep an eye on it while it's in
+  the oven. You can serve this with whipped heavy cream - it tastes not
+  unlike pumpkin pie, but with an almond flavor.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

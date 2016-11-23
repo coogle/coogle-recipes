@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple N' Spice Muffins</title>
+      <categories>
+        <cat>Muffins</cat>
+        <cat>Snacks</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apple sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Carnation Basic Muffin Mix</item></ing></ingredients>
+    <directions>
+      <step>   In a medium bowl, combine apple sauce, eggs, oil, nuts and raisins. Stir
+  in Carnation Basic Muffin Mix until just moistened. Spoon batter equally
+  into 12 greased or paper lined muffiin cups. Bake in 350 F oven for 20-25
+  minutes until muffins spring back when lightly touched. Cool slightly;
+  remove from muffin cups.
+  
+  Per muffin approx: 222 calories, 5 g protien, 10 g fat, 28 g carbohydrate
+  Source: Carnation Instant Skim Milk Powder
+  
+  From the collection of K. Deck
+ 
+</step></directions></recipe></recipeml>

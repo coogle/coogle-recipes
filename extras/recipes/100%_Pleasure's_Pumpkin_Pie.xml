@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>100% Pleasure's Pumpkin Pie</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar; packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Pumpkin</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Evaporated skim milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Egg whites; whipped</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: 100% Pleasure Preparation Time: 0:15 Preheat oven at 375. Make
+  pie crust.  In a mixing bowl, combine sugars, cinnamon, ginger, nutmeg, and
+  allspice.  In another mixing bowl, combine pumpkin, milk, egg whites, and
+  vanilla.  Mix dry ingredients with wet ingredients just until moistened.
+  Pour into prepared pie pan.  Bake for 50 to 60 minutes, or until crust is
+  nicely browned and the filling is set in the center when jiggled.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

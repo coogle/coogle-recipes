@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Dessert</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Egg yolks; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Grated lemon peel</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon; juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unflavored gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Egg whites; stiffly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Angel food cake</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whipped cream</item></ing></ingredients>
+    <directions>
+      <step>  Make custard of egg yolks, sugar &amp; lemon juice. Cook in double boiler until
+  mixture coats a spoon. Remove from heat &amp; add gelatin which has been
+  dissolved in cold water. Add grated lemon peel. Cool &amp; fold in egg whites
+  to which the last 3/4 cup of sugar was added. Break cake into bite-sized
+  pieces. Pour custard over cake &amp; be sure all cake pieces are coated with
+  custard. Pour into well-greased cake pan. Refrigerate overnight. Remove
+  from pan. Slice &amp; serve with whipped cream.
+  
+  MRS. D.E. MC LAURIE
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

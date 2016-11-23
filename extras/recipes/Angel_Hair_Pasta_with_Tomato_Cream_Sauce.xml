@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Pasta with Tomato Cream Sauce</title>
+      <categories>
+        <cat>*</cat>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Angel hair pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit>ounces</unit></amt>
+        <item>Marinara sauce; about 1 2/3</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Frozen peas; not thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Light sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped basil to garnish</item></ing></ingredients>
+    <directions>
+      <step>  Bring a covered large pot of lightly salted water to a boil. Add pasta and
+  cook according to package directions. Drain. Meanwhile bring marinara sauce
+  to a boil in a saucepan over med-low heat. Stir in peas, cover and simmer 2
+  mins. or until peas are tender. Reuce heat to low, add sour cram and stir
+  until blended. Toss pasta with sauce. Top with basil.
+  
+  Source Woman's Day-Sept. 16, 1997 Formatted for Mastercook by Carol
+  Floyd-c.floyd@arnprior.com
+  
+  Recipe by: Woman's Day-Sept. 16,1997
+  
+  Posted to MC-Recipe Digest by Carol &amp; Bob Floyd &lt;c.floyd@arnprior.com&gt; on
+  Apr 14, 1998
+ 
+</step></directions></recipe></recipeml>

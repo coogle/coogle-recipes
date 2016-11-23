@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Jelly</title>
+      <categories>
+        <cat>Lowfat</cat>
+        <cat>Jams and je</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Or 2 tablespoons unflavored gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Unsweetened apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Liquid artificial sweetener</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Food coloring; if desired</item></ing></ingredients>
+    <directions>
+      <step>  In a saucepan, soften gelatin in apple and lemon juice. Bring to a rolling
+  boil, dissolving gelatin; boil 1 minute. Remove from heat. Stir in liquid
+  sweetener and food coloring. Pour hot into hot jars. Adjust caps. Store in
+  refrigerator up to three weeks. Yield: about 2 pints busted by sooz
+  Posted to recipelu-digest Volume 01 Number 168 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Oct 26, 1997
+ 
+</step></directions></recipe></recipeml>

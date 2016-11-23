@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aji Sauce #1</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Aji chiles -or-</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Jalapeno chiles</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Queso blanco (white cheese) or Munster</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Well, I'm just taking a wild stab here, but _The_Whole_Chile _Pepper_Book_
+  has a recipe for Papas a la Huancaina that is a dish of boiled potatoes
+  topped with cheese and a sauce that is probably light green and creamy.
+  Here's the sauce part: &lt;Curtis&gt; cjackson@mv.us.adobe.com
+  
+  Combine 2 Aji' or 3 Jalapen~o chiles, stems and seeds removed and chopped,
+  1 cup queso blanco or Munster cheese, and 1 cup heavy cream in a blender
+  and puree until smooth. Heat 2 tablespoons of olive oil and slowly add the
+  cheese mixture, stirring constantly. Simmer the sauce for 5 minutes or
+  until it thickens.
+  
+  If the sauce you remember didn't have cheese in it, try omitting it.
+  
+  CHILE-HEADS ARCHIVES
+  
+  From the Chile-Heads recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

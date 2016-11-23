@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Eggplant Bake</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>(8-oz) tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Eggplant; pared and cut crosswise into 1/2" slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded Cheddar cheese</item></ing></ingredients>
+    <directions>
+      <step>  Lightly brown ground beef, green pepper and onion. Pour off drippings. Stir
+  flour, salt, pepper and oregano into beef mixture. Add tomato sauce. Boil
+  eggplant in salted water until just tender, drain and arrange half the
+  slices in a 2-quart greased baking dish. Add half the meat mixture and top
+  with half of the cheese. Repeat layers of eggplant, meat mixture and
+  cheese. Bake in a slow oven (300 degrees) for 30 minutes.
+  
+  From a collection of my mother's (Judy Hosey) recipe box which contained
+  lots of her favorite recipes, clippings, etc.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

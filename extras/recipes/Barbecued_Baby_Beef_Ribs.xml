@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Baby Beef Ribs</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pounds</unit></amt>
+          <item>Baby Beef Ribs</item></ing></ing-div>
+      <ing-div>
+        <title>BASTING SAUCE</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Tbl Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Tbl Chili Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Tbl Lemon Juice</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Black Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Dry Mustard</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1) Wipe ribs with wet towel or with damp paper towels. 2) Place ribs in a
+  single layer in a shallow roasting pan. 3) Roast ribs at 450 degrees for
+  about 20 minutes, turning once. 4) Prepare basting sauce. Mix all
+  ingredients together. 5) Remove ribs from oven. 6) Brush ribs with sauce on
+  both sides. Return to oven. 7) Bake at 450 degrees for about 20 minutes
+  longer or unti ribs are tender. Baste with remaining sauce from time to
+  time while baking. If ribs start getting too dark, cover with aluminum foil
+  and reduce heat to 400 degrees for the last ten minutes of baking time
+  Posted to MC-Recipe Digest V1 #213
+  
+  Date: Thu, 22 Aug 1996 22:50:51 -0400
+  
+  From: kathy &lt;jbird21@mindspring.com&gt;
+  NOTES : Servings: about 4
+ 
+</step></directions></recipe></recipeml>

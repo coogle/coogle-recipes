@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Empanadas</title>
+      <categories>
+        <cat>Miamiherald</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BEAN FILLING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Cooked pinto beans; rinsed and drained if canned)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Onion; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>clove</unit></amt>
+          <item>Garlic; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Drained, chopped green chilies(canned) to 2 chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cider vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Cheddar or Monterey Jack</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cheese; grated (opt)</item></ing></ing-div>
+      <ing-div>
+        <title>BEEF FILLING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Lean ground beef</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Onion; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cloves</unit></amt>
+          <item>Garlic; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Drained, chopped green chilies (canned) to 2 chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cumin</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salsa</item></ing></ing-div>
+      <ing-div>
+        <title>TO COMPLETE DISH</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>packages</unit></amt>
+          <item>Frozen empanada dough (13oz) 20 5-inch disks</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Make the Bean Filling:  Coarsely mash the beans.  Stir in the onion,
+  garlic, chilies, chili powder, cumin and vinegar.
+  
+  Make the Beef Filling: Saute the beef, onion, and garlic and a skillet over
+  medium heat, breaking up the meat into small bits. Cook until the beef is
+  browned and the vegetables are soft, about 5 minutes. Drain off fat in a
+  colander. Wipe out skillet with paper towels, and return the meat mixture
+  to it, off the heat.  Stir in the chilis, chili powder, cumin and salt to
+  taste.
+  
+  Finish the dish: Preheat the oven to 400 degrees. Place a disk of daugh on
+  a work surface. Spoon 2 scant tablespoons of bean filling onto one half
+  leaving a 1/2-inch border around the edge.  Top with 1 tablespoon grated
+  cheese if you like. Brush the edges of the dough with water. Fold the dough
+  over the filling, forming a half circle. With the tines of a fork, press
+  the edges together firmly, and poke a few holes, in the top to let the
+  steam escape.  REpeat until you have used all the filling. Use the same
+  procedure with the meat filling topping with 1 tablespoon salsa if you
+  wish. Place the empanadas on a baking sheet, and coast them lightly with
+  vegetable oil spray.  Bake for 15 to 20 minutes, until golden brown. Serve
+  hot or at room temperature.
+  
+  Nutritional info per serving, beef: 180 cal; 8g pro,
+       24 g  carb, 6g fat (32%). Exchanges: .2 veg, 1.6 bread, .5 meat, 1 fat
+  Nurtritional info per serving, bean: 185 cal; 8g pro,
+       34 g  carb, 6g fat (32%). Exchanges: .1 veg, 2.3 bread, .2 meat, .4
+  fat
+  
+  Source: Miami Herald, 2/15/96 format by Lisa Crawford, 7/7/96
+    Posted to MM-Recipes Digest V3 #257
+  
+    Date: Thu, 19 Sep 1996 19:11:02 -0700
+  
+    From: Julie Bertholf &lt;jewel1@ix.netcom.com&gt;
+ 
+</step></directions></recipe></recipeml>

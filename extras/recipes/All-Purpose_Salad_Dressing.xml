@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-Purpose Salad Dressing</title>
+      <categories>
+        <cat>Dressings</cat>
+        <cat>Salads</cat>
+        <cat>Cyberealm</cat></categories>
+      <yield>3 /4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Wine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dijon Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove Garlic, minced</item></ing></ingredients>
+    <directions>
+      <step>  In a small bowl whisk together wine, vinegar, and mustard until blended.
+  Slowly pour in olive oil, whisking constantly. Whisk in oregano, parsley,
+  and garlic. Use for a dressing on mixed greens.
+  
+  Source: Victoria Magazine, June 1994 Typed by Katherine Smith Cyberealm BBS
+  Watertown NY 315-786-1120
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

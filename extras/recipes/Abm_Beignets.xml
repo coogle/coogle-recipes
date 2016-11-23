@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abm Beignets</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Desserts</cat>
+        <cat>Kooknet</cat>
+        <cat>Cyberealm</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Nonfat Dry Milk Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Powdered Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Place all ingredients except sugar in machine. Program for knead and first
+  rise and press start. The dough will be sticky at first but will hold its
+  shape. After the final cycle, it will be workable. When dough is finished,
+  turn the dough out onto a floured surface and let it rest for 10 minutes.
+  Roll the dough to a generous 1/4" thick and cut it into 2" squares.
+  
+  Cover the squares with a clean towel and let rise for 30 minutes. Add the
+  powdered sugar to a medium-size clean paper bag. Lay out paper towels to
+  drain the doughnuts. Heat 1 to 1 1/2 " of oil to 375øF. Do not add too
+  many; add once or it may cool the oil too much. Gently brush the uncooked
+  squares to remove any extra flour. Slide them into the heated oil. When
+  they pop to the surface, spoon the hot oil over them constantly until they
+  are puffed. Turn the squares and cook until they are a light golden color
+  on both sides. It should take 1 to 2 minutes. Cut the first couple of
+  squares in half to be sure there is not sticky uncooked dough inside.
+  
+  Remove from hot oil with slotted spoon and drain on paper towels. While
+  warm, drop them, 3 or 4 at a time, into the bag with powdered sugar and
+  shake until they are well coated. Serve immediately. Source: Desserts from
+  your Bread Machine Typed by Meg Antczak, Fido Cooking Conference 7-19-95.
+  Revised for Meal-Master Format by Katherine Smith
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Trout with Fennel</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Fruits</cat>
+        <cat>Harned 1994</cat>
+        <cat>Herbs</cat>
+        <cat>Main dish</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Fresh rainbow trout (2-3 lb) head left on if desired</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Dry white wine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Lemon; cut in slices</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Fennel sprigs (up to 6) (the feathery fronds)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; cut in small pieces</item></ing></ing-div>
+      <ing-div>
+        <title>MEUNIERE BUTTER WITH FENNEL</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Unsalted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>small</unit></amt>
+          <item>Lemon; juice of</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper; to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chopped fresh fennel leaves</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Wash and clean trout thoroughly, scraping skin with a dull knife. Pat dry.
+  Cut off fins with scissors or sharp knife and trim tails.
+  
+  Place trout in a greased oblong baking dish.  Place half the lemon slices,
+  half the fennel sprigs and some butter inside prepared trout. Add wine and
+  top with remaining lemon slices, fennel sprigs and butter.
+  
+  Bake at 350 F. until fish flakes when tested with a fork (12 to 15 minutes,
+  depending upon size of trout.) Baste periodically.
+  
+  Meanwhile, make meuniere butter:  In a small, heavy saucepan, melt butter.
+  Cook slowly over low heat, shaking pan vigorously, until butter is a light
+  brown nut color. Add lemon juice, salt, pepper and chopped fennel and serve
+  at once, poured over baked trout.
+  
+  From _Nancy Enright's Canadian Herb Cookbook_ by Nancy Enright. Toronto:
+  James Lorimer &amp; Company, 1985.  Pg. 46. ISBN 0-88862-788-2. Typed for you
+  by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

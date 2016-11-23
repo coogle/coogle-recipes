@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado and Pomegranate Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Fruits</cat>
+        <cat>Jewish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Avocados; ripe</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Pomegranate</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Grapes, black</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lemon juice Water</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>White wine vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Corn oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Peanut oil</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Mint, fresh; chopped Salt and pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Peel the avocados, remove the pits and slice into thick half rings. Drop
+  the rings into a bowl containing water and lemon juice- this will prevent
+  them from turning black. Cut the pomegranate in half and crush it over a
+  bowl and collect the seeds. Wash the grapes and mix them with pomegranate
+  seeds. Drain the avocado pieces and add them to the fruit. To make
+  dressing, put all ingredients into a glass jar, screw the lid on firmly and
+  shake vigorously for 2 minutes. Pour over the avocado and fruit. Toss well
+  before serving.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

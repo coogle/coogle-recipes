@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Rice Pudding</title>
+      <categories>
+        <cat>Puddings</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Sugar Grated nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Strip of lemon peel</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter or marg.</item></ing></ingredients>
+    <directions>
+      <step>  Wash rice and drain well. Put into 1 1/2 pint buttered heatproof dish and
+  stir in milk. Leave rice to soak and soften for 30 mins.Add sugar and lemon
+  peel and stir well. Sprinkle top with grated nutmeg. Dot with butter. Put
+  into center of oven (300 degrees) and bake 2 hours. Stir in skin 2 or 3
+  times during first hour of cooking to increase creaminess. From: Jackie
+  Mcgauchie
+ 
+</step></directions></recipe></recipeml>

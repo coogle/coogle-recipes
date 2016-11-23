@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amarettini</title>
+      <categories>
+        <cat>Kuchen</cat>
+        <cat>Gebaeck</cat>
+        <cat>Pralinen</cat></categories>
+      <yield>999</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>2 Eiweiss</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 Prise Salz</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>200 g Zucker</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>200 g gemahlene Mandeln</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 Flaeschchen Bittermandeloel</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Puderzucker zum Bestaeuben</item></ing></ingredients>
+    <directions>
+      <step>    Eiweiss, Salz, 100g Zucker steif schlagen. Restlichen Zucker, Mandeln und
+  Bittermandeloel vermengen und unter den Eischnee heben. Aus einem Blech
+  haselnussgrosse Tupfen spritzen. 15 bis 20 Min. backen (E-Herd: 150Grad;
+  Gasherd: Stufe 1).
+  
+    Anschliessend mit Puderzucker betraeufeln.
+  
+  *  ca. 100 Stueck
+  
+  Erfasser: Marco Datum: 13.01.1993 Stichworte: Gebaeck, Kuchen
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

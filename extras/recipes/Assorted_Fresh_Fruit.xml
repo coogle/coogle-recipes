@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Assorted Fresh Fruit</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>pounds</unit></amt>
+        <item>ORANGES FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>pounds</unit></amt>
+        <item>PEARS FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>pounds</unit></amt>
+        <item>GRAPE FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>pounds</unit></amt>
+        <item>PIE FIL APPLE #10</item></ing></ingredients>
+    <directions>
+      <step>  Recipe Number: X60700
+  
+  SERVING SIZE: 1/2 CUP
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

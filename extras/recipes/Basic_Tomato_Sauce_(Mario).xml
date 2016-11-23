@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Tomato Sauce (Mario)</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Spanish onion,; cut into 1/4-inch dice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic,; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh thyme; (or 2 tablespoons dried)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>medium</unit></amt>
+        <item>Carrot,; finely shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>28-ounce cans of tomatoes, crushed and; mixed well with their j</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, to taste</item></ing></ingredients>
+    <directions>
+      <step>  Saute the onion and garlic in the olive oil over medium heat until
+  translucent, but not brown (about 10 minutes). Add the thyme and carrot and
+  cook 5 minutes more. Add the tomatoes. Bring to a boil, lower the heat to
+  just bubbling, stirring occasionally for 30 minutes. Season with salt to
+  taste. Serve immediately, or set aside for further use. The sauce may be
+  refrigerated for up to one week or frozen for up to 6 months.
+  
+  Yield: 6 cups
+  Recipe By     :MOLTO MARIO SHOW #MB5680
+  
+  Posted to MC-Recipe Digest V1 #266
+  
+  Date: Mon, 28 Oct 1996 22:13:41 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

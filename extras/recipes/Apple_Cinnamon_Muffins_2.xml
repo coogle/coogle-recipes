@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cinnamon Muffins</title>
+      <categories>
+        <cat>Bran</cat>
+        <cat>Breads</cat>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oat Bran Cereal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown Sugar; Packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; Chopped, Optional</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Skim Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Frozen AppleJuiceConcentrate</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg Whites; Large</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple; Chopped, Md</item></ing></ingredients>
+    <directions>
+      <step>  Mix the dry ingredients in a large bowl.  Mix the milk, apple juice
+  concentrate, egg whites and oil.  Blend well. (Can be done in a blender.)
+  Add to the dry ingredients and mix well.  Add the chopped apple and spoon
+  into muffin cups that have been sprayed with a non-stick coating.  Fill
+  three-fourths full and bake in a 400 degree F oven for 15 to 17 minutes, or
+  until done.  Serve warm.
+  
+  From "Make Mine Healthy" by Mimi Morgan.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/muffins2.zip
+ 
+</step></directions></recipe></recipeml>

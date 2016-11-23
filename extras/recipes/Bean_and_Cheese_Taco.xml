@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Cheese Taco</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Cheese</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned chili hot beans --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>No</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fat added -- drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic -- minced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Corn tortillas -- 6"</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>FF Fancy Pizza Cheese, HC --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh cilantro -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green onions -- sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Shredded lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped tomato</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Light or FF Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salsa</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 350 F.  In a small bowl, mash beans and stir in garlic. For
+  each taco, spread about 1/2 c bean mixture on half of each tortilla. Top
+  with 1/2 c. cheese, 1 tb. each cilantro and green onion. Fold tortilla over
+  filling. Place folded tortillas in 8" square baking dish sprayed with
+  non-stick cooking spray. Bake at 350 F. for 10 to 12 minutes or until
+  tortillas begin to brown and filling is hot. Serve with shredded lettuce,
+  tomato, FF sour cream and salsa to add at the table as desired. 4 Servings,
+  each (without garnishes) = 286 calores, 28 g protein, 39 g. carbohydrate, 2
+  g fat, 12 mg cholesterol, 426 mg sodium
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

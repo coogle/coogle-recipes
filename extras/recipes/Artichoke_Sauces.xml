@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Sauces</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Heinz chili sauce</item></ing></ingredients>
+    <directions>
+      <step>  Mix mayonnaise and Heinz chili sauce until a pretty pink color (sorry, I
+  don't know quantities.) Use sauce to dip the meaty ends of the leaves in.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

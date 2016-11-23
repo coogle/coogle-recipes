@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Smoked Oysters</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Seafood</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Smoked oysters</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Light vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Bacon strips</item></ing>
+      <ing>
+        <amt>
+          <qty>40</qty>
+          <unit/></amt>
+        <item>Round wooden toothpicks</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Garlic, minced</item></ing></ingredients>
+    <directions>
+      <step>  1. Cut bacon strips in thirds.
+  
+  2. Wrap a bacon slice around each oyster and place a toothpick through to
+  hold it in place.
+  
+  3. In a medium skillet, heat oil, and add garlic.
+  
+  4. Cook wrapped oysters in oil until bacon is crisp.
+  
+  5. Remove from pan and drain on a paper towel to drain.
+  
+  Serves 15
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

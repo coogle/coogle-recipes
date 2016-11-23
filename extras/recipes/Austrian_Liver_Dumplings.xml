@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Austrian Liver Dumplings</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Side dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Calf's liver</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Hard roll OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Large slice Italian bread</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Breadcrumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped fresh parsley</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  1&gt;. Cut liver into chunks and place into blender until all meat has been
+  pureed. Soak the roll or bread in water until soft, squeeze out the surplus
+  moisture and finely mince or grate. Cream the butter with the other
+  ingredients, finally adding sufficient breadcrumbs to make the mixture firm
+  enough to be formed into small dumplings (less than an inch in diameter).
+  If the dumplings are to served with stew or soup, simmer in this for 5
+  minutes. They may also be cooked in stock and served with meat and gravy.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Brownie Mix</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Nov 1-7</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unsweetened cocoa</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter; margarine, or shortening</item></ing></ingredients>
+    <directions>
+      <step>  1. In a large bowl combine sugar, flour, cocoa, baking powder, and salt.
+  Cut butter in with a pastry blender until mixture resembles cornmeal.
+  
+  2. Store mix in one large plastic bag or package in 3-cup portions. (Mix
+  should be measured firmly packed.)
+  
+  3. Mix made with butter or margarine can be stored in freezer up to 4
+  months. Mix made with shortening can be stored in cupboard up to 6 months.
+  
+  Makes enough mix for 4 batches of brownies.
+  
+  Recipe by: the California Culinary Academy
+  
+  Posted to recipelu-digest Volume 01 Number 220 by "Diane Geary"
+  &lt;diane@keyway.net&gt; on Nov 8, 1997
+ 
+</step></directions></recipe></recipeml>

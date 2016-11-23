@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abidjan Cabbage Salad</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Thinly sliced cabbage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded carrot</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pineapple chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon; juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Orange; juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing></ingredients>
+    <directions>
+      <step>  Place cabbage, carrots &amp; pineapple into a large bowl. Mix the dressing by
+  whisking all the ingredients together till creamy or by drizzling the oil
+  into the juices while in a blender. Thoroughly blend the dressing &amp; the
+  vegetables. Refrigerate or serve immediately.
+  
+  "Sundays at Moosewood Restaurant Cookbook"
+  Posted to MC-Recipe Digest by "M. Hicks" &lt;nitro_ii@email.msn.com&gt; on Feb 6,
+  1998
+ 
+</step></directions></recipe></recipeml>

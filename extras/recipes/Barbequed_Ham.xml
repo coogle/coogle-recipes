@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbequed Ham</title>
+      <categories>
+        <cat>Pork &amp;</cat>
+        <cat>Ham</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Ham; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Green pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Mustard with horseradish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Worcestershire sauce</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients except ham. Simmer sauce for 15 minutes. Add ham and
+  simmer 1 hour. Serve on buns. Serves 10-15.
+  
+  busted by sooz
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by sooz &lt;kirkland@gj.net&gt; on Mar 29, 1998
+ 
+</step></directions></recipe></recipeml>

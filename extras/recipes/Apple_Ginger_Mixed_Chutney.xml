@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Ginger Mixed Chutney</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>cups</unit></amt>
+        <item>Tart apples -- diced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Lemons -- chopped, with</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peel</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Garlic cloves -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ginger -- minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Seedless raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cayenne pepper</item></ing></ingredients>
+    <directions>
+      <step>  * You will need 6 one-pint jars and about 4 to 5 pounds of tart apples for
+  this recipe. Prepare all ingredients before beginning.
+  
+  Peel, core and dice apples. Chop and remove seeds from lemons, but do not
+  peel. Peel and chop onions. Peel and roughly chop garlic; do not mince.
+  Peel and finely chop ginger root. Bring cider vinegar to a boil over low
+  heat, using a large saucepan. Add apples and cook until the mixture returns
+  to a simmer. Add remaining ingredients and cook gently for 20 minutes,
+  stirring often. Spoon chutney into glass jars which have been washed in hot
+  soapy water and rinsed with boiling water. Seal tightly. Cool and store in
+  refrigerator.
+  
+  Yield: 6 pints.
+  
+  Recipe By     : Jo Anne Merrill
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

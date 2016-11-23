@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Athenian Pizza</title>
+      <categories>
+        <cat>Pizza</cat>
+        <cat>Snacks</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>slices</unit></amt>
+        <item>Eggplant (thin); diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Red bell pepper; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Pita breads</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Prepared spaghetti sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Pepperoni, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion; thinly sliced</item></ing></ingredients>
+    <directions>
+      <step>  Heat 2 tablespoons oil in large skillet over medium heat. Add diced
+  eggplant, a little at a time, and cook until golden brown, adding remaining
+  oil as needed. Drain eggplant on paper towels. Add red pepper and cook
+  until tender-crisp. Drain on paper towels. Separate pita breads, pulling
+  completely apart into halves. Arrange on baking sheet, cut sides up. Spread
+  2 tablespoons spaghetti sauce on each pita bread half. Top with some of
+  eggplant, red pepper, pepperoni and onion slices. Bake at 400F 5 minutes.
+  
+  (C) 1992 The Los Angeles Times
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/kids.zip
+ 
+</step></directions></recipe></recipeml>

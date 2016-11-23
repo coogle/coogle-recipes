@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Meringues</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Extra fine sugar</item></ing></ingredients>
+    <directions>
+      <step>  Beat the egg whites in a large mixing bowl with electric mixer at high
+  speed for 5 minutes or until stiff, but not dry. Sprinkle 1/4 cup sugar
+  over the whites and beat for 3 minutes longer. Sprinkle the remaining sugar
+  1 tablespoon at a time, over the white mixture and fold in gently but
+  thoroughly using a rubber spatula. Drop by heaping table spoonfuls, 2
+  inches apart, onto oiled brown paper over cookie sheets. Bake in preheated
+  250-degree oven for 55 minutes. Take from oven and immediately remove from
+  paper onto cooling rack VARIATIONS: CHOCOLATE MERINGUES: Combine 1 1/2
+  tablespoons cocoa with the sugar and beat into egg whites as directed Bake
+  for 1 hour. CHOCOLATE CHIP MERINGUES: Fold in 1/2 cup chocolate chips into
+  Basic Meringue just before dropping onto prepared cookie sheets.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

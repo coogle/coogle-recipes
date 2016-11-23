@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Oregano Steak</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Bar-b-q</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Sirloin steak, 1-in thick</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cracked black peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Coarse salt</item></ing></ingredients>
+    <directions>
+      <step>  Slash fat around steak at 1-inch intervals. Combine oil, oregano, pepper
+  and salt; rub over both sides of steak.
+  
+  place steak on greased grill over medium-high heat; cover and cook, turning
+  once, for about 15 minutes for medium-rare or to desired doneness. Transfer
+  steak to cuting board; tent with foil and let stand for 5 minutes before
+  cutting into portions.
+  
+  Per serving: about 140 calories, 18 g protein, 6 g fat, 1 g carbohydrate
+  Good source iron.
+  
+  Serve with: BBQ: Veggie Brochettes (see recipe) Whole Wheat Rolls Light
+  Caesar Salad Chocolate and Orange Parfait
+  
+  Source: Canadian Living magazine Jun 95 Presented in article by Elizabeth
+  Baird: "Grate Partners"
+  
+      [-=PAM=-]   PA_Meadows@msn.com
+  Posted to MM-Recipes Digest V3 #342
+  
+  From: "Paul A Meadows" &lt;PA_Meadows@msn.com&gt;
+  
+  Date: Sat, 14 Dec 96 22:03:08 UT
+ 
+</step></directions></recipe></recipeml>

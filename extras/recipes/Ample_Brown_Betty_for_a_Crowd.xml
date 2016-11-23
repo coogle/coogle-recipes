@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ample Brown Betty for a Crowd</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>60</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Loaves (20-oz. each) white bread with crusts, cut into 1-inch cubes (about 32 cups</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>40</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced peeled apples (about 40 lbs.)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Packed brown sugar, divided</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  Toss bread cubes with butter; divide half of the cubes among four greased
+  12"x9"x2" baking pans. Arrange apples over bread, using 10 cups per pan.
+  Mix 2 cups of brown sugar, sugar, nutmeg and cinnamon; divide into fourths
+  and sprinkle over the apples. Mix water and lemon juice; pour a fourth into
+  each pan. Top with remaining bread cubes. Sprinkle remaining brown sugar
+  equally over pans. Cover and bake at 375 for 30 minutes. Uncover and bake
+  25-30 minutes longer.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

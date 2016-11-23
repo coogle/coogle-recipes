@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pastry</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FOR 8 INCH CRUST</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Shortening; plus 1 tablespoon</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cold water; up to 3</item></ing></ing-div>
+      <ing-div>
+        <title>FOR 9 INCH CRUST</title>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Shortening; plus 2 tablespoons</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cold water; up to 4</item></ing></ing-div>
+      <ing-div>
+        <title>FOR 10 INCH CRUST</title>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cold water; up to 4</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Each Makes One Pie
+  
+  Combine flour and salt; cut in shortening with pastry blender until mixture
+  resembles coarse meal. Sprinkle cold water (1 tablespoon at a time) evenly
+  over surface; stir with a fork until dry ingredients are moistened. Shape
+  into a ball; chill.
+  
+  To fit into pie plate, roll dough to 1/8 inch thickness on a lightly
+  floured surface. Place in pie plate; trim off excess pastry along edges.
+  Fold edges under and flute.
+  
+  For baked pastry shell, prick bottom and sides of pastry shell generously
+  with a fork. Bake pastry at 450°F for 10 - 12 minutes or until pastry is
+  golden brown.
+  
+  Busted by Gail Shermeyer 4paws@netrax.net
+  
+  Recipe by: The Southern Living Cookbook, 1987, 8487-0709-5
+  
+  Posted to MC-Recipe Digest by Gail Shermeyer &lt;4paws@netrax.net&gt; on May 02,
+  1998
+ 
+</step></directions></recipe></recipeml>

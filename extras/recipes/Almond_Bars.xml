@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Bars</title>
+      <categories>
+        <cat>Cookie</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Powdered sugar</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream cheese; softened</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Almond extract</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Almond extract</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From: prkenne@lims01.lerc.nasa.gov (CAROL SHARP)
+  
+  Date: 18 Nov 1993 07:58 EST
+  Here are two of my family's favorite Christmas cookies:
+  
+  Crust: Mix well and pat into even layer in a 9 x 13 pan.  Bake crust at 350
+  degrees for 20 to 25 minutes.
+  
+  Filling: Beat together well and pour over crust while it is still hot. Bake
+  15 to 20 minutes (350 degrees).  Cool.
+  
+  Frosting: Whisk together and spread evenly on baked, cooled cookies.  Cut
+  into bars - makes 24 to 36 bars.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /COOKIES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

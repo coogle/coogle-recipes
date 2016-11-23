@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Casserole</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Darlene's</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef, lean</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Can pork and beans</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Barbecue sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Instant minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Flaky biscuits (9.5 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded cheddar cheese</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375 degrees. Brown ground beef,drain. Stir in next five
+  ingredients; heat until bubbly; pour into 2qt. casserole dish. cut biscuits
+  in half to form 20 half circles. Place cut-side-down around edge of
+  casserole. Sprinkle with cheese. Bake 25 to 30 minutes, until biscuits are
+  golden brown and cheese is melted.
+  
+  Posted to MC-Recipe Digest V1 #621 by DR0983@aol.com on May 27, 1997
+ 
+</step></directions></recipe></recipeml>

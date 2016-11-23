@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Cod Provencal</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cod fillets (1 1/4 lb)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion,medium-size,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves,finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>28</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomatoes,drained/chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Capers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Basil,fresh,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Black Greek olives,pitted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano,dried leaf,crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt (opt)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 450'F. Arrange fillets in 8x8x2" square baking dish.
+  2. Saute onion and garlic in oil in medium-size skillet over medium heat
+  3-5 minutes or until lightly softened. Add tomatoes, capers, basil, olives,
+  lemon juice, oregano, salt if using, and pepper. Simmer, stirring
+  occasionally, 8 minutes. Spoon sauce over fish.
+  3. Bake in preheated 450'F. oven for 10 minutes or until cooked through.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

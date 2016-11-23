@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apples</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Microwave</cat>
+        <cat>Syd's book</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red Cooking Apple</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Remove the core from each apple leaving a bottom in each apple. Make a
+  mixture of the brown sugar and butter. Fill each apple with the mixture.
+  Pre-heat oven to 325øF. Bake apples on a rimmed cookie sheet for 45-60
+  minutes or until apples are done. Sprinkle each apple with cinnamon and
+  serve. For microwave, cook for 5-10 minutes. From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

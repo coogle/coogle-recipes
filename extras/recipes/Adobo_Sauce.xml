@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Adobo Sauce</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Dried Ancho chiles; stems and seeds removed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Dried Pasilla; stem and seeds removed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Veggie oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Distilled white vingegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Cover chiles with hot water, let sit for 15 min. Combine chiles, and 1/4 to
+  1/2 cup of the water they were soaking in, onion, garlic, oregano and cumin
+  in a blender and puree. Saute the mixture in oil for 5 min add vinegar and
+  sugar and bring to a boil. Reduce heat, simmer until thick about 5-8 min.
+  
+  I checked my my "whole Chile Pepper Book" and there's a recipe on p. 129
+  for shrimp in adobo sauce. The cookbook says that its "a sauce made with
+  chiles, vinegar, herbs and garlic that is popular in the Philippines as
+  well as in Mexico" -- Erica Wissolik &lt;EWISSOLIK@crs.loc.gov&gt;
+  
+  CHILE-HEADS ARCHIVES
+  
+  From the Chile-Heads recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

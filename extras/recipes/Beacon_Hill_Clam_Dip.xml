@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beacon Hill Clam Dip</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Seafood</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Gorton's Clams</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Prepared horseradish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>3 oz pkg. cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  Mix horseradish, lemon juice with cream cheese.  Add 1 tsp. of clam juice
+  from the can, blend into cream cheese mixture. Add drained clams. Add
+  additional clam juice if necessary to reach the desired consistency. Serve
+  with chips.
+  
+  Shared By: Pat Stockett
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

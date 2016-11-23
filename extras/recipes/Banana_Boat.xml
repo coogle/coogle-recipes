@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Boat</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Camping</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mini marshmallows</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Raisins (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Partially peel banana.  Cut wedge-shaped section in banana. Remove wedge.
+  Place in hollow:  marshmallows, chocolate, and raisins. Cover mixture with
+  banana peel and wrap in foil. Place in coals for about 5 minutes, until
+  chocolate and marshmallows are melted.
+  
+                       Girl Scouts of America
+  
+  Posted to MM-Recipes Digest V4 #148 by "John Weber" &lt;hdbrer@ibm.net&gt; on May
+  28, 97
+ 
+</step></directions></recipe></recipeml>

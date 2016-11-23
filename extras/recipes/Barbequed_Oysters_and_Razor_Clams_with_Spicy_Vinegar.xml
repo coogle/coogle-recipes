@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbequed Oysters and Razor Clams with Spicy Vinegar</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Dozen oysters</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Dozen Razor clams</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh jalapeno peppers; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Red onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Mint leaves; chiffonade</item></ing></ingredients>
+    <directions>
+      <step>  Preheat grill or barbecue.
+  
+  Scrub and clean oysters and razor clams and drain.
+  
+  In a small mixing bowl, place chopped peppers, vinegar, sugar, salt, onion
+  and mint and stir together. Place shellfish on grill and cook until shells
+  open. remove and place on platter covered with rock salt. Place dipping
+  sauce in center and serve with cocktail forks.
+  
+  Yield: 4 servings
+  Recipe By     : Molto Mario
+  
+  Posted to MC-Recipe Digest V1 #301
+  
+  Date: Thu, 14 Nov 1996 15:38:02 -0500 (EST)
+  
+  From: Sue &lt;suechef@sover.net&gt;
+ 
+</step></directions></recipe></recipeml>

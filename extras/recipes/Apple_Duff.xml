@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Duff</title>
+      <categories>
+        <cat>Irish</cat>
+        <cat>Classic</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Dessert apples</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Beaten egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pints</unit></amt>
+        <item>Cream, whipped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Puff pastry (12 oz)</item></ing></ingredients>
+    <directions>
+      <step>  (Inspired by James Joyce's "Ulysses")
+  
+  Preheat the oven to 400'F. Peel and core the apples. Stuff the centers
+  with a mixture of brown sugar, raisins and cinnamon. Roll out the
+  pastry and cut out 4 circles approximately 8" in diameter, depending
+  on the size of the apples. Place an apple in the center of the pastry
+  circle and brush the edge with beaten egg; draw up the pastry to
+  enfold the apple, pressing the edges firmly to seal. Brush the tops
+  of the pastry parcels with the remaining egg to glaze. Bake in a
+  shallow ovenproof dish for 40 minutes. Serve with whipped cream.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

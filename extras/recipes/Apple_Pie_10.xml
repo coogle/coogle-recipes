@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie</title>
+      <categories>
+        <cat>Polkadot</cat>
+        <cat>Faylen</cat>
+        <cat>Pies</cat>
+        <cat>Fruits</cat>
+        <cat>Desserts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Pastry for 9-inch Pie</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>cups</unit></amt>
+        <item>Apples, peeled, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 425 degrees.
+  
+  Line a pie plate with one pastry.  Cut to fit and poke holes with a fork.
+  
+  Mix sugar, cinnamon, nutmeg and flour in a small bowl.  Toss apples with
+  lemon juice.  Add flour mixture to apples and toss to coat.  Put in pie
+  plate and dot top with butter.  Cover with second pastry, seal and crimp
+  edges, and cut slits in center.  Bake about 50-60 minutes, until crust is
+  lightly browned.  (You may want to cover outside edge with foil to prevent
+  burning.  Also, a baking sheet or double thickness of foil on the rack
+  beneath the pie will save cleanup time.)
+  
+  For French Apple Pie, use a single crust and top pie with 1/2 cup butter,
+  1/2 cup packed brown sugar, and 1 cup flour mixed together until crumbly,
+  reduce oven temperature to 400 degrees, and bake 45-55 minutes.
+  
+  Recipe By:     Betty Crocker, 1956/Alison Meyer
+  
+  Per serving: 119 Calories; 2g Fat (14% calories from fat); 0g Protein; 27g
+  Carbohydrate; 5mg Cholesterol; 18mg Sodium
+  
+  From: Faylen Date: 10-03-96 (19:55) The Polka Dot Cottage, a BBS with a
+  taste of home.  1-973-822-3627.
+  
+  Posted to MC-Recipe Digest V1 #713 by Lisa Clarke &lt;lisa@gaf.com&gt; on Aug 1,
+  97
+ 
+</step></directions></recipe></recipeml>

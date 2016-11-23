@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>10-Minute Beef Stir-Fry</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Lunch</cat>
+        <cat>Main dishes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef flank</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Hot chili oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cl Garlic; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen broccoli</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen carrot slices</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Creamy peanut butter</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Redbook - January 1994 Preparation Time: 0:10 Cut beef crosswise
+  (against the grain) into very thin slices; sprinkle with 1/4 teaspoon each
+  salt and pepper. In 12" nonstick skillet over medium-high heat, heat 2
+  teaspoons iol; add beef; cook and stir 2 to 3 minutes until bronwed. Using
+  slotted spoon, remove beef to plate. In same skillet over medium-high heat,
+  heat remaining 1 teaspoon oil; add garlic; cook and stir 30 to 60 seconds
+  until fragrant.  Add frozen vegetables, 1/4 cup water, and remaining 1/4
+  teaspoon each salt and pepper; cook, covered, 3 minutes until tender.
+  Meanwhile, in small bowl stir peanut butter and remaining 1/2 cup water to
+  blend; add to skillet along with beef and any accumulated juices.  Cook,
+  stirring 1 to 2 minutes longer until heated through and coated with sauce.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

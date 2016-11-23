@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Appetizer Pizza</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Pita breads; about 6 inches</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sliced tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Minced garlic cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Fresh basil</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Extra virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded mozzarella cheese</item></ing></ingredients>
+    <directions>
+      <step>  Separate each pita into two. Spread 1 minced garlic clove onto each pita
+  round. Arrange 4-6 basil leaves over garlic. Top with 3 slices of tomatoes.
+  Sprinkle about 2 tablespoons of shredded cheese on each and drizzle 2
+  teaspoons of olive oil on each.
+  
+  Bake on cookie sheet in 400 degree oven for about 15 minutes or until
+  cheese melts and pizzas are bubbly. Serve immediately.
+  
+  Makes 4 small pizzas
+  
+  You found this recipe on 1st Traveler's Choice Internet Cookbook.
+  (www.virtualcities.com)
+  Posted to recipelu-digest Volume 01 Number 459 by Bunny
+  &lt;layla696@ix.netcom.com&gt; on Jan 5, 1998
+ 
+</step></directions></recipe></recipeml>

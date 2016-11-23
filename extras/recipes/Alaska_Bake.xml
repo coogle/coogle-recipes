@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alaska Bake</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>418</qty>
+          <unit>grams</unit></amt>
+        <item>Canned pink Alaska salmon</item></ing>
+      <ing>
+        <amt>
+          <qty>430</qty>
+          <unit>grams</unit></amt>
+        <item>Frozen broccoli cooked and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>150</qty>
+          <unit>mililiters</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Freshly chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>grams</unit></amt>
+        <item>Cornflour</item></ing>
+      <ing>
+        <amt>
+          <qty>175</qty>
+          <unit>grams</unit></amt>
+        <item>Gruyere or Edam cheese thinly sliced</item></ing></ingredients>
+    <directions>
+      <step>  Pre-heat the oven to 190C, 375F, Gas mark 5.
+  
+  Drain the can of salmon and make the juice up to 150ml / 1/4 pint with
+  water for fish stock. Break the salmon into large chunks and arrange it
+  with the broccoli in a single or 4 individual ovenproof dishes. Put the
+  fish stock, wine, parsley and cornflower into a saucepan and blend until
+  smooth. Heat gently, stirring all the time until the sauce thickens. Pour
+  over the salmon and broccoli.
+  
+  Arrange the slices of cheese over the top of the dish and bake for 20
+  minutes or until the cheese has melted. Serve immediately.
+  
+  Serves 4. Approx. 395 kcals per serving
+  
+  From: On the Wild Side - Alaska Canned Salmon Recipes Reprinted with
+  permission from Alaska Seafood Marketing Institute Meal-Master compatible
+  recipe format courtesy of Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

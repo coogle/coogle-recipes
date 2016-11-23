@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pancakes</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Apples</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Applesauce</item></ing></ingredients>
+    <directions>
+      <step>  Sift flour, salt and baking powder. Combine butter, milk and egg. Stir into
+  flour. Add vanilla and applesauce. Beat well. Spoon batter onto a hot, well
+  greased griddle, allowing enough batter to make 4 " cakes. When edges are
+  lightly browned, turn and cook on second side. Serve hot with maple syrup
+  or apple jelly and lots of butter. Pat Empson 05/21 07:28 am FOOD AND WINE
+  BB TOPIC: FOOD SOFTWARE TIME: 05/21 7:40 AM TO: PAT EMPSON (PFXX29A) FROM:
+  PAT EMPSON (PFXX29A) SUBJECT: MM-MORE APPLES
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

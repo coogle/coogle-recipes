@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Crepes - Great Chefs</title>
+      <categories>
+        <cat>Pancakes</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CREPES</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil, cooking</item></ing></ing-div></ingredients>
+    <directions>
+      <step>       Combine the flour, sugar, eggs, and milk and beat until smooth. The
+  resulting batter should be the consistency of thin cream.
+  
+       Add oil to the batter and mix lightly.
+  
+       Grease an 8-inch crepe pan or frying pan lightly with butter and heat
+  until the butter is quite hot but not burned.
+  
+       Ladle about 1/3 cup (or a bit less) of the batter into the pan and
+  rotate the pan to spread the batter evenly. Cook the crepe until it looks
+  firm and is lightly browned at the edges (about 1 minute) then turn the
+  crepe over with a thin spatula or your fingers and cook the other side for
+  about 30 seconds.
+  
+       Grease the pan with a bit more butter about every other crepe, or when
+  the crepes begin to stick.
+  
+       Repeat until the batter is gone.
+  
+       Source: Great Chefs of New Orleans, Tele-record Productions
+       :    Box 71112, New Orleans, Louisiana - 1983
+       :    Chef Gunter Preuss, Versailles Restaurant, New Orleans
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

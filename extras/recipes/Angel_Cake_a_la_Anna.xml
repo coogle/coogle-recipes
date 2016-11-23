@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Cake a la Anna</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box Angel Food Cake Mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Cool Whip</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>container</unit></amt>
+        <item>8 oz Creme Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pints</unit></amt>
+        <item>Fresh Strawberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Sweet Condensed Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Make cake by box direction</item></ing></ingredients>
+    <directions>
+      <step>  about 1 inch off top of (cooled) cake. 3. Tunnel out center of cake ,
+  leaving "walls" about 3/4" thick. 4. Beat creme cheese and lemon until
+  smooth, add sweet condensed :       milk , fold in sliced strawberries and
+  broken pieces of cake :       from "tunnel". 5. Fill in tunnel with mixture
+  . 6. Put top of cake back on. Cover with Cool Whip. 7. Garnish with
+  strawberries.
+  
+  :       You can also use blueberries....Alone, or with combination of :
+  strawberries.
+  
+  Typed for you by Tony Burke, Natchez, Mississippi For Cyberealm BBS
+  Watertown NY 315-786-1120 Recipe was relayed to me by my friend Anna Byrne,
+  Natchez, Mississippi
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

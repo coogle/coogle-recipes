@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Salad with Pickled Ginger</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Medium-size asparagus</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Pieces pickled red ginger</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Thin soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ginger juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sesame oil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Wash asparagus spears.  Use sharp paring knife to peel off tough white skin
+  on lower stem and cut off the very end. When steamer is hot, steam spears
+  until barely cooked. They are overcooked when the color is olive. Remove
+  from steamer, drain any water, and cool to room temperature. Meanwhile, mix
+  dressing ingredients in small bowl. Slice pickled red ginger into thin
+  slivers.  About ten minutes before serving, slice spears on the bias into
+  2" segments. Place on serving dish, intermingled with pickled ginger. Pour
+  dressing over asparagus, and let it permeate the salad. Serve at room
+  temperature.  This salad can also be served while asparagus is still warm,
+  or it can be chilled.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

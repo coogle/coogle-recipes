@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Mackerel</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dishes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Whole mackerel fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>White vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Whole peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Pickling spice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Whole cloves</item></ing></ingredients>
+    <directions>
+      <step>  Place fillets in one layer in a glass or ceramic baking dish. Heat vinegar,
+  water, onion, herbs, and spices. Pour over fish. Allow to marinate for at
+  least one hour. Refrigerate if marinated longer. Bake, covered, for 45
+  minutes at 375 degrees .
+  
+  Serving Ideas : Garnish with fresh parsley
+  
+  NOTES : Works well with other strongly-flavored and/or oily fish
+  
+  Recipe by: Elizabeth Powell
+  
+  Posted to recipelu-digest by "Valerie Whittle" &lt;catspaw@inetnow.net&gt; on Feb
+  19, 1998
+ 
+</step></directions></recipe></recipeml>

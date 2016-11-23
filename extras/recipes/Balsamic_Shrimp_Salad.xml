@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Shrimp Salad</title>
+      <categories>
+        <cat>Shrimp</cat>
+        <cat>Salads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil or butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bleu cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salad greens</item></ing></ingredients>
+    <directions>
+      <step>  Lightly saute shrimp and toss with balsamic vinegar. Serve over greens with
+  chunks of bleu cheese.
+  
+  *REF: Shrimp Recipes 11-Apr-98 WEBstationONE from San Diego, Ca, USA.
+  Shrimp Recipes and cooking tips from supplier, Ocean Garden: see
+  http://www.webstationone.com/recipes
+  
+  1998-Apr Hanneman/Buster
+  
+  Recipe by: http://www.oceangarden.com/ *
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Apr 11,
+  1998
+ 
+</step></directions></recipe></recipeml>

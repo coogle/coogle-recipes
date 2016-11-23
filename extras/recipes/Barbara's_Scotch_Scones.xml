@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbara's Scotch Scones</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Currants</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 F. Sift flour, baking powder, salt and sugar. Add
+  currants. Add shortening and mix in lightly. Beat eggs until light. Add
+  milk to eggs and add slowly to mixture. Roll 1/2 inch thick on floured
+  board. Cut in 2 inch squares and fold them over, making them 3 cornered.
+  Brush with milk and dust with sugar. Bake on greased tray 25 minutes.
+  
+  Recipe By     :
+  
+  From: Jean@mcc2.Sws.Uiuc.Edu (Jean Denndate: 16 Apr 1996 21:37:58 Gmt
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

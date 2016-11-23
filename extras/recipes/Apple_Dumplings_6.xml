@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Dumplings</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>large</unit></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine or butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Recipe Plain Pastry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Grated lemon rind</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Peel and core apples. Combine margarine,salt,sugar,lemon rind, and
+  cinnamon. Roll pastry 1/8 inch thick and cut into squares large enough to
+  cover apples. Place apples on pastry squares and fill each cavity of apple
+  with sugar mixture. Bring corners of pastry together at top, moisten edges
+  and pinch together to hold apple in place. Place in greased baking pan and
+  bake at 350 degrees for 30 minutes or until apples are tender. Serve with
+  pudding sauce or cream. Serves 6.
+  
+  Baking powder biscuit dough may be used instead of pastry.
+  
+  Posted to EAT-L Digest  by Russellyn Crombie &lt;DJJRS@AOL.COM&gt; on Sep 5, 1997
+ 
+</step></directions></recipe></recipeml>

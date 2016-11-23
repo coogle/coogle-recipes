@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cake</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Easy</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>White OR yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>INSTANT French Vanilla Pudding</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Tart apples, cored, peeled and thinly sliced.</item></ing></ingredients>
+    <directions>
+      <step>  Combine cake mix, pudding mix, eggs, oil and sour cream; beat five minutes
+  with electric mixture.  Combine nuts, sugar and cinnamon - set aside.
+  
+  Grease and flour 10 inch tube pan.
+  
+  Pour half of batter into pan, arrange half of the apples on top of batter,
+  sprinkle with half of cinnamon sugar mixture.  Repeat layers.
+  
+  Bake at 350 degree oven for one hour or more - until tests done.
+  
+  Cool in pan 30 minutes.  Invert onto cake rack and cool further.
+  
+       50    plus
+  
+  ++ Typed but not tested ++ ++ Courtesy of Dale &amp; Gail Shipp, Columbia Md.
+  ++
+  Posted to brand-name-recipes by gail@min.net (Gail M. Shipp) on Jan 21, 98
+ 
+</step></directions></recipe></recipeml>

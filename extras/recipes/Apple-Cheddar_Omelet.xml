@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Cheddar Omelet</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Apple; peeled -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cheddar cheese soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cheese, cheddar -- shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>About 4 ozs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk -- whole</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper, black -- ground</item></ing></ingredients>
+    <directions>
+      <step>  Microwave or fry bacon until crisp, drain, reserve drippings. Stir 1/2 cup
+  of soup in bowl until smooth, add eggs; beat until well blended, set aside.
+  In casserole, stir remaining soup until smooth, stir in apple, milk, cheese
+  and pepper. Cover, micro-cook 4 minutes on HIGH until hot and bubling. Stir
+  once. Let stand, covered, while preparing omelets. Brush 1 teaspoon bacon
+  drippings in bottom of pie plate. Pour in 1/2 egg mixture. Cover,
+  micro-cook 2 minutes on HIGH. Using spatula, gently move outer edge to
+  center, letting uncook portion move to edge. Micro-cook 2 minutes on HIGH
+  or until set. Fold in half, slide on plate. Repeat with bacon drippings and
+  remaining egg mixture. Spoon sauce over each omelet, sprinkle with bacon.
+  Campbell's Recipes
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

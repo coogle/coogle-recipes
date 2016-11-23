@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ziti Al Telefono</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ziti pasta, preferably Italian</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Basic tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamella sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Fresh mozzarella, in 1/2" cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated parmigiano reggiano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 425 F. Bring 6 quarts water to boil and add 2 tablespoons
+  salt.
+  
+  Cook ziti according to package instructions until al dente. Remove, drain
+  and refresh in cold water. Drain again and place in large mixing bowl. Add
+  tomato sauce, balsamella, mozzarella and grated cheese and stir to mix
+  well. Divide among 4 gratin dishes, sprinkle with bread crumbs and bake in
+  oven until bubbling and crusty on top, about 20 minutes. Remove from oven
+  and serve immediately.
+  
+  Yield: 4 servings
+  
+  Recipe by: Molto Mario MB1D32 Posted to MC-Recipe Digest V1 #631 by Sue
+  &lt;suechef@sover.net&gt; on Jun 01, 1997
+ 
+</step></directions></recipe></recipeml>

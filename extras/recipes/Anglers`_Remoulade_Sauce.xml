@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anglers` Remoulade Sauce</title>
+      <categories>
+        <cat>Wildgame</cat>
+        <cat>Fish</cat>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Anchovy paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Onion, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Wine, sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Tabasco sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Worcestershire sauce</item></ing></ingredients>
+    <directions>
+      <step>  Blend all the ingredients in an electric blender or hand-whip them into a
+  smooth mixture. Makes a tart and tsaty sauce for poached fish, oysters,
+  shrimp, crab meat, scallops or lobster. Recipe date: 11/29/87
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

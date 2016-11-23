@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic White Bread</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Yeast; active, dry</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water; warm (110-115 degs)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>3 3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour; All-purpose</item></ing></ing-div>
+      <ing-div>
+        <title>EGG WASH</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Egg White; beaten slightly in 1 tbspn warm water.</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  James Beard's Basic White Bread Makes 1 large loaf or 2 small loaves *
+  Making basic white bread dough * In a small bowl mix the yeast and the 1/4
+  cup warm water; add the sugar, stir well, and set aside until proofed. It
+  is proofed when fermentation is apparent: the mixture will swell and small
+  bubbles appear on the surface. (If it doesn't proof at all, it means the
+  yeast is not fresh.) In a small saucepan heat the milk with the salt and
+  stir in the butter until it melts. Set aside to cool until it is no warmer
+  than the yeast mixture. Put 2 cups of the flour in a large mixing bowl and
+  stir in the milk mixture. Beat well with a wooden spatula, add the yeast
+  mixture, and continue beating the dough until it is smooth, adding an
+  additional cup of flour to make a firm dough. Turn the dough out onto a
+  floured work surface and begin the kneading process, which evenly
+  distributes the fermenting yeast cells through the dough. * Kneading
+  Instructions * There are several kneading methods, but the basic one is to
+  flour the dough and your hand lightly, then push the heel of your hand down
+  into the dough and away from you. Fold the dough over, give it a quarter
+  turn, and push down again. Repeat pushing, folding and turning until the
+  motion becomes rhythmic. Knead for about 10 minutes, kneading in additional
+  flour as necessary, until the dough is smooth and no longer sticky, and
+  blisters form on the surface. To test whether the dough has been kneaded
+  enough make an indention in it with your fingers; it should spring back. If
+  blisters form on the surface of the dough and break, this is another sign
+  that the kneading is sufficient. * Note: If you have a heavy-duty electric
+  mixer with a dough-hook attachment, knead the dough with the hook and
+  finish it off on the board. Butter a large bowl, transfer the dough to it,
+  and turn the bowl until the dough is well coated with butter on all sides.
+  Cover the dough with a dish towel and let it rise in a warm, draft-free
+  place for 1 to 1-1/2 hours, until it is doubled in bulk. A good, warm,
+  draft-free place is inside your room temperature oven. To test further if
+  the dough has risen properly, make an indentation in it with two fingers:
+  if the dough does not spring back, then it is ready. * Baking Preparations
+  * Butter a 9x5x3 inch loaf pan, or two pans that are about 8x4x2 inches.
+  Punch the dough down with your fist to deflate it; transfer it to a floured
+  board and knead it well for about 3 minutes. Pat it into a smooth round or
+  oval shape and let it rest for 4 to 5 minutes. Then form into 1 large or
+  two small loaves, by shaping the dough into an oval the length of your
+  bread pan, then gently stretching, rounding, and plumping it in the palms
+  of your hands, tucking the edges underneath and pinching them together.
+  Lift carefully; drop the dough into the pan or pans and smooth out. Cover
+  the dough with a towel and let it rise again in a warm draft-free place for
+  about 45 minutes to 1 hour, until it is double in bulk. Preheat the oven to
+  400dF.  Brush the egg wash over the top of the dough. Bake in the center of
+  the oven for 20 minutes; reduce the heat to 350dF and bake for 20 to 25
+  minutes longer, until the crust is well browned and the bread sounds hollow
+  when removed from the pan and tapped on the bottom with the knuckles. If
+  you like a crusty loaf, remove it from the pan about 5 to 10 minutes before
+  the end of the baking time and let it finish baking on the oven rack. It
+  will get brown and crusty all over. Remove the bread from the oven and let
+  it cool on a rack before slicing. The bread may be stored in a plastic bag
+  in the refrigerator after it has cooled. If you seal it in a bag before it
+  is completely cooled, the crust will become soft. Stored bread will keep
+  about 1 week. It also freezes well if wrapped tightly in plastic wrap and
+  sealed in a plastic bag and can be kept for up to 3 months.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Bowl</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>cups</unit></amt>
+          <item>Hot cooked rice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Thin-sliced beef; cut into 2" lengths</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Stalks green onion</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil; (2 to 3)</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Mirin</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Fresh ginger juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cut green onion diagonally into 1-inch lengths or slice dry onion. In wok,
+  heat oil on high heat and stir-fry onion for a few minutes. Add the beef
+  and continue to stir-fry for another minute or so until meat is no longer
+  red. Add sauce, stir-fry for another minute. Add ginger and remove from
+  heat. Serve 1 1/2 to 2 cups rice into each of 4 donburi bowls. Place
+  meat-onion on the hot rice along with 2 to 3 tablespoons sauce. Cover and
+  serve immediately.
+  
+  Recipe by: diane@keyway.net
+  
+  Posted to recipelu-digest Volume 01 Number 211 by "Diane Geary"
+  &lt;diane@keyway.net&gt; on Nov 7, 1997
+ 
+</step></directions></recipe></recipeml>

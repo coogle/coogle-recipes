@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Pie</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(8-oz) frozen asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cubed ham; cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Half and half</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(4-oz) mushrooms; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onions (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Unbaked; 9-inch pie crust</item></ing></ingredients>
+    <directions>
+      <step>  Cook asparagus and drain well. Combine Half and Half, onions, mushrooms and
+  salt in saucepan. Simmer 1 minute. Add a small amount of the hot mixture to
+  the eggs and blend well. Add to mixture in the pan, stirring to blend.
+  Arrange drained asparagus and ham in the crust. Pour hot mixture over.
+  Pepper and nut- meg may be sprinkled lightly over the surface. Bake at 400
+  for 15 minutes; reduce heat to 325 and bake 20-25 minutes longer or until a
+  knife blade inserted in pie center comes out clean.
+  
+  MRS DOT COLEMAN POWERS
+  
+  CLEVELAND, MS
+  
+  From the book &lt;High Cotton Cookin'&gt;, Marvell Academy Mothers Assn, Marvell,
+  AR  72366, ISBN 0-918544-14-9, downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

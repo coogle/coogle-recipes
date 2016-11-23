@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Oat Crisp</title>
+      <categories>
+        <cat>Low-cal</cat>
+        <cat>Low-fat</cat>
+        <cat>Ww</cat>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>small</unit></amt>
+          <item>Apples; cored &amp; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Applesauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Lemon rind</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>Quick oats</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Whole wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>&amp; 1 tsp. diet margarine</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  :       Mix the base mix in an 8" baking dish. Combine the topping mix and
+  crumble over the apples. Bake 350, 35-40 minutes. Exchanges: 1/2 bread, 1/2
+  fat, 1 fruit, 35 calories. Source: Weight Watchers
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

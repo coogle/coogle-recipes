@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Peanut Butter Bars</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Desserts</cat>
+        <cat>Pnut butter</cat></categories>
+      <yield>48</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dark brown sugar, packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bananas, mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Uncooked rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Peanut butter, creamy</item></ing></ingredients>
+    <directions>
+      <step>  In a large bowl, beat butter and brown sugar until light and fluffy. Beat
+  in egg, salt, bananas and peanut butter. Stir in the rolled oats. Mix well.
+  Spread in a greased 13 X 9 X 2-inch pan. Bake in a 350 F. oven for 1 hour
+  or until a wooden pick inserted in the center comes out clean. Cut into 2 x
+  1 inch bars. Makes about 4 dozen bars.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

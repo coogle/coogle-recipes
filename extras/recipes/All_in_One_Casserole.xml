@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All in One Casserole</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Celery; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>#2 tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Cabbage; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>  Brown meat in a big skillet. Remove from heat and drain the fat, if any.
+  Add the onion, celery and tomatoes. Stir until well mixed. Place a layer of
+  shredded cabbage in the bottom of a greased 2 quart casserole dish. Spoon
+  over a layer of the beef mixture, alternating with the cab- bage and
+  finishing with the cabbage on top. Sprinkle with bread crumbs. Bake,
+  uncovered, for 1 hour at 350F. Serve with fried potatoes or fresh bread and
+  a light dessert.
+  
+  Source: Women's Circle Magazine Typed for you by: Brigitte Sealing,
+  Cyberealm BBS Watertown NY 315-786-1120
+  
+  Date: Tue, 18 Jun 1996 01:23:33 -0400
+  
+  From: BobbieB1@aol.com
+  
+  MM-Recipes Digest V3 #176
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

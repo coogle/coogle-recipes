@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Bean Burritos - Easy</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Tortillas</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Refried Beans</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Taco Seasoning</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Beef</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPINGS</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lettuce</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Onion</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Grated cheese</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salsa</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Tomato</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Guacamole</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In Large fry pan, Brown beef and drain off fat. Add 3/4 cup of water and
+  seasoning mix to beef and stir well. Add refried beans and mix well so
+  incorporated with water. Simmer until reduced to a thickish mix. This is
+  the guts of the Burrito. Heat the tortillas in a 350 degree oven for about
+  2 minutes. Do not over cook. They should NOT be crispy. Put prepared
+  vegetables, sauces and cheese on the table. Put a couple of tablespoons on
+  a tortilla and add toppings. (Everyone can make his/her own)
+  
+  Posted to TNT Recipes Digest by "Sarah Stinchcombe" &lt;sarah@vip.net&gt; on Mar
+  5, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ann's Kreplach</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DOUGH</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Warm water (room temperature)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Onions; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chicken fat</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Raw ground beef or</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cooked chicken; ground</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Freshly ground black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Parsley; chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From: sybel@ix.netcom.com (Ruth Donenfeld)
+  
+  Date: Fri, 9 Aug 1996 08:51:59 -0700
+  Dough: put dough on kneading board; make a well. In center of well add
+  eggs, water and salt. Using your hands, mix in the eggs, breaking the yolks
+  as you go, and as you mix, you add more and more of the flour to the center
+  and knead for 10 minutes. (Or just put it in the mixer and knead for 5
+  minutes.  Add more flour if mix becomes sticky. This is a good noodle
+  dough.  Form it into a ball, wrap in plastic wrap or foil. Let rest at room
+  temp for 30 minutes.
+  
+  Filling: melt chicken fat, add onions, saute until soft and opaque. DO NOT
+  LET BURN. If using the beef, add and cook until it turns grey.  Remove from
+  heat, add parsley, salt and pepper. If using chicken, just add to onions
+  and seasonings. To make kreplach: Cut dough ball in thirds for easier
+  handling. Keep unused parts covered until using. Roll dough out on floured
+  board until it is very thin, about 1/8 inch. Trim off rough edges. Cut
+  dough into 2 1/2 inch squares. Place about a teaspoon filling into center
+  of each square. Fold dough in half to make a triangle. Moisten edges and
+  pinch to seal.  Repeat this with the rest of the dough and fillings. Let
+  kreplach sit on a floured board for 15-20 minutes before cooking them in a
+  large pot of salted, boiling water. Cook for 20 minutes, drain and broil to
+  brown them.  Or cook them for 25 minutes and serve immediately in chicken
+  soup.  Or instead of boiling, fry in hot oil to be served as appetizers.
+  
+  JEWISH-FOOD digest 310
+  
+  From the Jewish Food recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

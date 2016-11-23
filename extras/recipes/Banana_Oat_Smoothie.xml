@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Oat Smoothie</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Breakfast</cat>
+        <cat>Fruits</cat>
+        <cat>Low fat</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Nonfat Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Instant Oatmeal; Regular Flavor</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole Banana; Cut In Chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Orange Juice</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in a blender. Cover and blend on high speed for 1
+  min.
+  
+  Yield: two 8 oz servings
+  
+  Per serving: Cal 201; Fat 1.7g; Carb 42g; Fib 3.5g; Pro 8g; Sod 105mg
+  
+  Recipe by: Quaker Oats
+  
+  Posted to Digest eat-lf.v097.n311 by Reggie Dwork &lt;reggie@reggie.com&gt; on
+  Dec 08, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley-Vegetable Soup</title>
+      <categories>
+        <cat>Not</cat>
+        <cat>Sent</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pearl barley</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cans</unit></amt>
+        <item>(10.75 oz) chicken broth; strained</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cans</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion; cut in fourths</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; cut into thirds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stalk celery; cut into 1" slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Carrots; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Stalks celery; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Zucchini; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh spinach; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Place barley, chicken stock, onion quarters, carrot thirds, celery slices,
+  thyme, and bay leaf in a large soup pot and bring to a boil. Reduce heat,
+  cover, and simmer for about 1 hour or until barley is tender. Add sliced
+  carrots, celery, zucchini, and chopped onion and cook until tender. Add
+  spinach a few minutes before serving.
+  
+  NOTES : A hearty soup that improves as it ages.  Make it in the morning or
+  the night before so it will have time to thicken.
+  
+  Recipe by: Choose to Lose
+  
+  Posted to MC-Recipe Digest V1 #971 by Carol Taillon &lt;taillon@earthlink.net&gt;
+  on Dec 25, 1997
+ 
+</step></directions></recipe></recipeml>

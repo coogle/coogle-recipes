@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef a la Brigitte</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Meats</cat>
+        <cat>Microwave</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked, cubed roast beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Stick of margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Hot water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  In a microwave bowl, melt margarine; add flour, hot water and milk,
+  and stir, microwaving on HIGH for 1 minute at a time after each
+  addition. Stir well after each minute until the gravy is nice and
+  smooth. Add the mustard and salt and pepper to taste. Heat through
+  well, about 3 minutes on HIGH. Add beef and microwave until warm.
+  Serve with mashed potatoes or noodles or rice and a vegetable.
+  
+  Source: Brigitte Sealing, Cyberealm BBS Watertown NY 315-786-1120
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber4.zip
+ 
+</step></directions></recipe></recipeml>

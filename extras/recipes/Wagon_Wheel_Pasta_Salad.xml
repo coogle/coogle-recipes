@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wagon Wheel Pasta Salad</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Salads</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Red wine vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Dijon mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Garlic cloves; crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Lemon (juice only)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt, pepper</item></ing></ing-div>
+      <ing-div>
+        <title>SALAD</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Wagon wheel pasta</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Green bell pepper; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Red bell pepper; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped fresh dill or more if desired</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  To make dressing, combine oil, vinegar, mustard, garlic and lemon juice and
+  season to taste with salt and pepper. To make salad, cook pasta in boiling
+  salted water until al dente. Drain and cool. Place in large bowl. Heat
+  olive oil in skillet. Add green and red peppers and saute until barely
+  tender. Add to pasta along with dill. Add dressing. Toss to coat pasta
+  well. Chill, covered, until serving time.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

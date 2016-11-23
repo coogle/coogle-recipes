@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Focaccia</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Desserts</cat>
+        <cat>Mc</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DOUGH</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Apple; cored and quartered</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour; plus about 2 T for k</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar; or 2 t honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Yeast</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt )</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Hot water; or a bit more</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Raisins</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>medium</unit></amt>
+          <item>Apple</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Lemon; juiced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>White pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Clove</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Cardamom</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar; or honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cornstarch; with sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cornstarch; with honey</item></ing></ing-div>
+      <ing-div>
+        <title>GLAZE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Apricot jam</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Dough: Process quartered apple in food processor for about 20 sec;
+  transfer to a separate bowl.
+  
+  Add 2 C. flour, cinnamion, sugar or honey, yeast and salt if desired to
+  food processor; process 5 seconds. Add processed apple; process for
+  additional 5 seconds. With processor running, gradually add 1/3 C. hot
+  water through feeder tube. Stop machine and let dough rest about 20
+  seconds. Continue processing and adding water gradually through feeder tube
+  until dough forms a soft ball and sides of bowl are clean. Pulse 2 or 3
+  more times.
+  
+  Sprinkle raisins and 1 T flour onto clean surface. Turn dough onto surface
+  and knead for about 1 minute to incorporate raisins. Add flour if dough is
+  very sticky.
+  
+  Lightly flour inside of plastic bag. Plac dough in bag, seal and let rest
+  for 15 to 20 minutes in a warm, dark place.
+  
+  Roll dough into a circle 12 to 14 inches in diameter. Lay in oiled (ack!
+  use spray or parchment paper!) skillet or a baking dish. Cover with a
+  kitchen towel and set aside in a warm place while you prepare filling.
+  Preheat oven to 400 degrees.
+  
+  Filling: Core and slice apples paper thin. Sprinkle lemon juice over apple
+  slices. Add remaining filling ingredients and mix well.
+  
+  Spoon filling into dough. Bake for 20 minutes, then rotate pan 180 degrees.
+  Reduce oven temperature to 375 degrees, and bake for an additional 20
+  minutes, or until apples are browned. Cool in pan for 5 minutes. Remove
+  from pan and cool thoroughly on wire rack.
+  
+  Glaze: In a small saucepan, melt jam or preserves. Add water, and bring to
+  a boil, stirring vigorously. Brush glaze over apples and serve. Serves 8 to
+  10.  Prepare it a day in advance to give flavors a chance to meld
+  Recipe By     : Net
+  
+  Posted to MC-Recipe Digest V1 #250
+  
+  Date: Fri, 18 Oct 1996 08:46:30 -0400
+  
+  From: kmeade@IDS2.IDSONLINE.COM (The Meades)
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas with Yogurt</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Firm bananas; peeled and cut diagonally into 1/2 inch slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Plus 2 Tbs. dark brown sugar; packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cardamom</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Lowfat vanilla yogurt</item></ing></ingredients>
+    <directions>
+      <step>  Prep: 5 min, Cook: 5 min.
+  
+  Turn on broiler. Arrange banana slices in a buttered baking dish. Sprinkle
+  with brown sugar and cardamom and dot with butter. Broil 2-3 minutes or
+  until top is bubbly. Serve bananas with vanilla yogurt.
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 08, 1998
+ 
+</step></directions></recipe></recipeml>

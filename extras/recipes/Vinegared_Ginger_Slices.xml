@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinegared Ginger Slices</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegr</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Peel and slice ginger as thin as possible. Combine the vinegar, sugar and
+  salt to taste. Heat the liquid mixture to a boil, stirring for 1 minute, to
+  make sure the sugar has dissolved. Place ginger in a bowl and pour hot
+  vinegar on top. Cover and allow to cool. Chill before serving.
+  
+  Tjis recipe will keep refrigerated for several weeks. If you want a deeper
+  pink, add food coloring.
+  
+  Posted to EAT-L Digest 06 Jan 97
+  
+  From:    Barbara Williams &lt;BarbEWill@AOL.COM&gt;
+  
+  Date:    Tue, 7 Jan 1997 13:55:18 -0500
+ 
+</step></directions></recipe></recipeml>

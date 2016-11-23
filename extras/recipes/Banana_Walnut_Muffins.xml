@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Walnut Muffins</title>
+      <categories>
+        <cat>Cajun</cat>
+        <cat>Muffins</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whole wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 300 degrees. Spray 12-muffin tin with no-stick cooking
+  spray. Mash bananas in a medium mixing bowl. Add sugar, brown sugar and
+  eggs. Mix well. Add butter. Stir in flour, whole wheat flour and soda. Add
+  buttermilk and walnuts. Mix until just moistened. Spoon into muffin tin.
+  
+  Bake until muffins are brown and done, about 20 minutes. Yield: 12 muffins.
+  
+  Source: More Cajun Cooking, Modern Publishing, New York, NY Copyright 1990
+  SHARED BY: Jim Bodle 2/93
+  Posted to MC-Recipe Digest V1 #248
+  
+  Date: Thu, 17 Oct 1996 12:00:36 -0400
+  
+  From: Eileen &amp; Bob Holze &lt;beck4@asan.com&gt;
+ 
+</step></directions></recipe></recipeml>

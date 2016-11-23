@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Beef Beijing</title>
+      <categories>
+        <cat>Beef/veal</cat>
+        <cat>China</cat>
+        <cat>Archived</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef, boneless cut in thin strips</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oriental Marinade</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Garlic clove minced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Black Bean Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onions cut in thin wedges</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus 1-1/2" lengths</item></ing></ingredients>
+    <directions>
+      <step>    Combine beef, marinade, garlic; let stand 15 minutes. Meanwhile combine
+  black bean sauce and 1/2 cup water. Mix cornstarch and 2 tablespoons water
+  until smooth; set aside. Heat 2 tablespoons oil in wok or skillet over high
+  heat. Add 1/2 the beef; stir-ry 1 to 2 minutes, or until browned. Remove
+  from wok. Repeate with remaining beef. Heat remaining tablespoon oil, add
+  onion and asparagus. Stir-fry 1 minutes. Add black bean sauce mixture.
+  Reduce heat; cover and simmer 2 minutes or until vegetables are
+  tender-crisp. Add beef and cornstarch mixture. Cook and stir until sauce
+  boils and thickens.
+  
+  Original recipe from Dynastic Classic Oriental Cookbook. Conversion by Rick
+  Weissgerber.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

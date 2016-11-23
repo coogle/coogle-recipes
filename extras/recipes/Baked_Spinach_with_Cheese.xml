@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Spinach with Cheese</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Spinach</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Spinach; fresh *</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; large, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic; cloves, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Emmenthaler cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  * Wash and clean spinach of sand. Dry. Cut spinach into strips. In a large
+  Dutch oven, heat butter until bubbly. Add onion and garlic, saute for 2 to
+  3 minutes. Add spinach. Sprinkle with salt. Cover and steam for 5 minutes.
+  Remove from heat. Grease an ovenproof casserole. Sprinkle half the cheese
+  over the bottom of the casserole. Add the spinach. Sprinkle with paprika,
+  nutmeg, and pepper. Top with remaining cheese. Bake at 360 degrees F about
+  20 minutes or until cheese bubbles.
+  Posted to recipelu-digest Volume 01 Number 649 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 31, 1998
+ 
+</step></directions></recipe></recipeml>

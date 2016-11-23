@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bailey's Chocolate Mousse Pie</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Ready Crust; (graham/choc)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Unflavored gelatine; (env)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Bailey's Irish Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Semisweet choc chips</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Frozen whipped topping</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Choc-dipped strawberries*</item></ing></ingredients>
+    <directions>
+      <step>  *As garnish, if desired.
+  In saucepan, sprinkle unflavored gelatine over milk. Let stand about 1
+  minute. Stir over low heat until gelatine is dissolved, about 5 minutes.
+  Add chocolate and continue cooking, stirring constantly until chocolate is
+  melted: stir in vanilla. Remove from heat and stir occasionally, adding
+  Bailey's about five minutes after removal from heat. When mixture forms
+  mounds when dropped from spoon, fold in whipped topping. Turn into crust.
+  Garnish with more whipped topping (or real whipped cream, later, by
+  preference) and strawberries (if desired). Chill at least 4 hours before
+  serving.
+  
+  Servings: 4
+  
+  Posted to recipelu-digest by Sandy &lt;sandysno@pctech.net&gt; on Mar 17, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Shortbread Cookies</title>
+      <categories>
+        <cat>Dessert</cat>
+        <cat>Cookies</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour, all-purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar, powdered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Almonds, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter; softened</item></ing></ingredients>
+    <directions>
+      <step>  Combine flour, cornstarch, and powdered sugar; stir in almonds. Add butter;
+  blend with a wooden spoon until a soft dough forms.
+  
+  Shape dough into small balls.  Place on ungreased cookie sheet; flatten
+  each ball with lightly floured fork. Bake at 300 degrees for 20 to 25
+  minutes or until edges are only lightly browned. Cool before storing.
+  
+  SOURCE: Southern Living Magazine, May 1974.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

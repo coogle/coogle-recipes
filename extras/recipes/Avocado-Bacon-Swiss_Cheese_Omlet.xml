@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado-Bacon-Swiss Cheese Omlet</title>
+      <categories>
+        <cat>Brunch</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Half-and half</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ripe avocado -- diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Swiss cheese -- grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Crisp bacon</item></ing></ingredients>
+    <directions>
+      <step>  Combine first 4 ingredients and beat well. Pour into well-oiled omlet pan
+  and cook over medium heat until puffy. Add avocado, cheese, and crumbled
+  bacon. Serve either open-faced or folded over. Serves 1  From: Pepe's Cafe
+  ~ Key West, FL. From: File Edna (Fred's)
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

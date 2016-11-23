@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Annie Mae Jones' Chicken Fricassee</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Poultry</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Fowl,4-1/4 to 5 lb</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>quarts</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Onion,small,peeled</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Celery,stalk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Carrot,scraped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Parsley sprig</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vinegar</item></ing></ing-div>
+      <ing-div>
+        <title>FRICASSEE</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Chicken stock,heated</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Light cream,room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cook meat from 4-5# fowl*</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pepper to taste</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place the fowl in a large pot with water and bring to a full boil; skin
+  surafce of water until clear. Lower heat and add remaining ingredients
+  except vinegar and let gently simmer until chicken is sufficiently tender
+  to remove easily from bone. Remove chicken and let stand until cool enough
+  to remove meat and skin from bone. Add bones and vinegar to stock in pot
+  and let simmer an additional hour. Cool, then strain into a large bowl and
+  add chicken meat. Refrigerate until fat comes to surface; remove and
+  discard fat.
+  
+  *** TO MAKE THE FRICASSEE ***
+  
+  * - cut into bite-sized pieces.
+  
+  1. Melt the butter in a large, heavy saucepan or deep skillet and stir in
+  the flour. When bubbly, slowly add the heated chicken stock, stirring. Add
+  cream and continue to cook, stirring until sauce is thick. Add chicken meat
+  and cook, stirring a final 5-10 minutes.
+  
+  2. Southerners usually serve fricassee over cooked white rice, but it is
+  also great over baking-powder biscuits with a thin slice of baked ham
+  placed on each biscuit half before the fricassee is spooned over.
+ 
+</step></directions></recipe></recipeml>

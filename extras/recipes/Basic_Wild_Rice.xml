@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Wild Rice</title>
+      <categories>
+        <cat>Rice</cat>
+        <cat>Rice cooker</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Wild Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt; optional</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter Or Margarine; room temperature</item></ing></ingredients>
+    <directions>
+      <step>  Combine wild rice, water, and salt in steaming pan; cover and steam until
+  done, about 45 minutes. Add butter; fluff with fork before serving.
+  
+  Variation: Mix steamed wild rice with sauteed mushrooms and fresh herbs.
+  
+  NOTES : Especially good with game or poultry.
+  
+  Recipe by: The Ultimate Rice Cooker Cookbook by Betty L. Torre
+  
+  Posted to recipelu-digest Volume 01 Number 446 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Jan 04, 1998
+ 
+</step></directions></recipe></recipeml>

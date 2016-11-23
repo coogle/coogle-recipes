@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bath Buns</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Misc</cat>
+        <cat>1941</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Lemon rind, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg, well beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Seedless raisins Citron Milk</item></ing></ingredients>
+    <directions>
+      <step>  Sift flour, measure, and sift with baking powder and salt. Cut in
+  shortening.  Add grated lemon rind, sugar, egg, raisins, and enough milk to
+  make a soft dough that can be molded. Pat into sheet 1 inch thick and cut
+  into rounds, or mold small amounts into round buns. Stick a bit of citron
+  in the top of each. Reserve a little of the egg to brush over the top.
+  Place on well-oiled baking sheet. Bake in hot oven (450ø F) 12-15 minutes.
+  Brush top with 1 tablespoon sugar moistened with a little cream. Serve hot.
+  12 servings. Florence Taft Eaton, Concord, MA.
+  
+  Converted by MMCONV vers. 1.20
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

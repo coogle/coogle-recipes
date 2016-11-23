@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vryonoye Miaso Po-Russki (Boiled Beef Russian-Style)</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Ukrainian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef marrow bones</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>quarts</unit></amt>
+        <item>;Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; cubed 1/2"</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Celery ribs; w/leaves sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Turnip; peeled cubed 1/2"</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Peppercorns, whole</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley; fresh; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dill, fresh; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef rump roast, boneless</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic clove; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Place the peppercorns, bay leaves, parsley, and dill into a small cloth
+  bag. Tie the bag closed. Put water, marrow bones,, the bag of spices, the
+  vegetables, &amp; salt into a large pot. Bring to a boil over high heat, skim
+  the foam off as it occurs. Cook for 10 minutes at a boil, add the beef
+  roast, boil for 3 minutes, reduce heat to low, cover, and simmer for 3 1/2
+  hours. Be sure to skim occassionaly. Remove from heat, remove the roast
+  from the pot, slice for serving.
+  
+  * NOTE: This is excellent with a honey-onion sauce.
+  
+  ORIGIN: Tantiana Shulenko, Slavutych-Ukraine, circa  1995 per Don Houston
+  Fidonet COOKING echo
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

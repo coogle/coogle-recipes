@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce Tea Bread</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>White flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Skim milk</item></ing></ingredients>
+    <directions>
+      <step>  Mix the dry ingredients together and add the applesauce, then the egg and
+  milk.  Pour into nonstick loaf pan and bake at 350F for 50 min.  Remove
+  and cool.  Cal: 77 (slice); Fat: 1/10g.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmealnew.zip
+ 
+</step></directions></recipe></recipeml>

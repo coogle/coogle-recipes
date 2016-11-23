@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Biscuits</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Party</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk or buttermilk</item></ing></ingredients>
+    <directions>
+      <step>  Nathalie Dupree's Matter of Taste Cookbook and they are really good and
+  easy too! Preheat oven to 450 to 500 degrees. Sift 2 cups of flour with the
+  baking powder and salt in a bowl. Cut in the shortening with a pastry
+  blender or fork, or work in with your fingers. Add the milk to make a soft
+  dough, mixing just until the dough holds together. Flour your hands. Pull
+  off a piece of dough the size of a biscuit and dip the wet edge into extra
+  flour. Then roll or pat into a biscuit shape. Place the biscuits, slightly
+  touching, on a lightly greased baking sheet. Bake until golden brown 8 to
+  10 min. Makes 12-18 biscuits. FROM: SHERYL JEFFRIES (PVJP03B)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

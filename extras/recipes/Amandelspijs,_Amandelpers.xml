@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amandelspijs, Amandelpers</title>
+      <categories>
+        <cat>Dutch</cat>
+        <cat>Christmas</cat>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>250</qty>
+          <unit>grams</unit></amt>
+        <item>Almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>250</qty>
+          <unit>grams</unit></amt>
+        <item>Powder sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>teaspoons</unit></amt>
+        <item>Sugared lemonzest</item></ing></ingredients>
+    <directions>
+      <step>  Peel the almonds. Dry them and grind them (not too finely) together with
+  the sugar, egg and lemonzest. Leave in a cool place for at least a few days
+  to 'ripen'.
+  
+  Posted to MC-Recipe Digest V1 #339
+  
+  From: kmeade@IDS2.IDSONLINE.COM (The Meades)
+  
+  Date: Thu, 12 Dec 1996 10:55:34 -0500
+ 
+</step></directions></recipe></recipeml>

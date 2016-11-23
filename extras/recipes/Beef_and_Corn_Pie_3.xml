@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Corn Pie</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Casseroles</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Ground beef</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped onion</item></ing>
+        <ing>
+          <amt>
+            <qty>8 3/4</qty>
+            <unit>ounces</unit></amt>
+          <item>Can whole kernel corn,</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Drained</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Tomato sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped bell pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Dried basil leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried oregano leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Red pepper sauce</item></ing></ing-div>
+      <ing-div>
+        <title>CORNMEAL CRUST</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Yellow cornmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Butter, softened</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Water</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Shredded Cheddar cheese</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat oven to 400 degrees.  Cook ground beef and onion in 10 inch skillet,
+  stirring occasionally, until beef is brown; drain. Stir in corn, tomato
+  sauce, bell pepper, basil, oregano, salt and pepper sauce. Prepare crust.
+  Crust:  Mix flour, cornmeal and salt in medium bowl. Stir in butter and
+  enough of the water to make a soft dough. Press crust dough firmly and
+  evenly against bottom and side of ungreased pie plate. Spoon beef mixture
+  into pie plate.  Bake 25 minutes. Sprinkle with cheese. Bake about 5
+  minutes longer or until cheese is melted. Let stand 10 minutes before
+  cutting.
+ 
+</step></directions></recipe></recipeml>

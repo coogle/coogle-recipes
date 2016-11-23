@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Burgundy</title>
+      <categories>
+        <cat>Beef</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Strips Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef; cut in cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Beef broth</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Burgundy</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushrooms</item></ing></ingredients>
+    <directions>
+      <step>  Cook bacon crisp. Brown beef in drippings and remove. Saute carrot and
+  onion and remove. Blend in flour and seasonings. Add broth. Cook, stirring
+  constantly until slightly thickened and smooth. Add wine, paste, herbs and
+  return bacon, meat and carrots to pan. Cover and cook gently for 2 hours,
+  or until meat is tender and flavors blended. Add mushrooms and onions
+  during last 1/2 hour.
+  
+  Optional: May add bag of frozen baby carrots and bag of frozen baby onions
+  during last 1/2 hour.
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 20, 1998
+ 
+</step></directions></recipe></recipeml>

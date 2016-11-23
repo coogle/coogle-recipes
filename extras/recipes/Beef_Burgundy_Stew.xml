@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Burgundy Stew</title>
+      <categories>
+        <cat>Stew</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Slices Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Instant Beef Bouillon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Stew Meat, 1/2-inch Cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dry Red Wine</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Small Whole Fresh Mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Unbleached Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried Basil, Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>7 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned Tomatoes, Cut Up</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Frozen Pearl Onions</item></ing></ingredients>
+    <directions>
+      <step>  In a 1-quart casserole micro-cook bacon, loosely covered, on 100% power
+  for 2 to 2 1/2 minutes or until done.  Drain bacon, reserving drippings in
+  casserole.   Crumble bacon and set aside.  Stir flour, bouillon granules,
+  and basil into drippings.  Add beef, UNDRAINED tomatoes, and wine; mix
+  well.  Micro-cook, covered, on 100% power for 2 minutes.  Micro-cook,
+  covered, on 50% power for 15 minutes, stirring twice.  Stir in onions and
+  mushrooms.  Micro-cook, covered, on 50% power for 12 to 18 minutes or til
+  meat and vegetables are tender, stirring twice.  Sprinkle crumbled bacon
+  atop and serve.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/meats.zip
+ 
+</step></directions></recipe></recipeml>

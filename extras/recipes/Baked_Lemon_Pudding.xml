@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lemon Pudding</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar;granulated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; all purpose Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon rind; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; separated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350F. In mixing bowl, combine sugar, flour and salt. Stir
+  in lemon juice rind, beaten eggs yolks, butter and milk. Beat egg whites
+  till stiff but not dry; fold into lemon mixture. Pour into buttered 6 cup
+  casserole. Place in larger pan, pour in hot water to about 1" depth. Bake
+  in 350F oven for 40 minutes or till topping is golden brown. Serve warm.
+  
+  Makes about 4 servings Source: _The Canadian Living Cookbook_
+  Posted to MM-Recipes Digest V3 #342
+  
+  From: "Paul A Meadows" &lt;PA_Meadows@msn.com&gt;
+  
+  Date: Sat, 14 Dec 96 22:00:56 UT
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Noodles with Raisins and Nuts (Lokshen Kugel)</title>
+      <categories>
+        <cat>Jewish</cat>
+        <cat>Pasta</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Broad noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins &lt;OR&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apples, peeled, cored and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts Butter or Margarine for Topping</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>  Rabbi Pinchas, the Tzaddik (wise man) of Koritz, used to say that Jews eat
+  lots of lokshen on Shabbat because noodles are symbolic of the unity of the
+  people of Israel: They are so entangled that they can never be separated.
+  
+  1. Preheat oven to hot (400F)
+  
+  2. Cook noodles according to package directions until tender. Drain. 3.
+  Beat eggs yolks with sugar, cinnamon, nutmeg and salt. Add drained noodles,
+  butter or margarine, raisins or chopped apples and walnuts and mix well. 4.
+  Beat egg whites until stiff and gently fold into noodle mixture. Pour into
+  greased casserole dish, dot with butter or margarine and cover with bread
+  crumbs. Bake 45 minutes.
+  
+  SERVES 4
+  
+  Recipes By: So Eat, My Darling: A Guide To Yiddish Kitchen
+                  - Naf Avnon and Uri Sella - From: S. Lefkowitz From: Sam
+  Lefkowitz                   Date: 09-12-94
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

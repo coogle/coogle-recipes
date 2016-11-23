@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Autumn Days Pilaf</title>
+      <categories>
+        <cat>Rice</cat>
+        <cat>Beans</cat>
+        <cat>Poultry</cat>
+        <cat>Mcrecipe</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Uncooked brown rice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dried lentils</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken; cooked and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted sunflower seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil in skillet until hot. Saute onions until tender. Add rice and stir
+  until lightly browned. Add chicken stock and next 3 ingredients; stir well.
+  Cover, bring to a boil, reduce heat, simmer 30 minutes. Stir in chicken,
+  carrots, sunflower seeds, and raisins. Cover and cook 10-15 minutes or
+  until all liquid is absorbed. Serves 6.
+  
+  Riviana Foods markets Mahatma, Carolina, River, WaterMaid Success and other
+  brands. "Mahatma Rice" &lt;http://www.mahatmarice.com &gt; and Related link:
+  http://www.usarice.com/domestic/recipes/
+  
+  Sent by "Kitpath" &lt;phannema@wizard.ucr.edu&gt; on May 11, 1998, converted by
+  MC_Buster.
+  
+  Recipe by: Riviana Foods Inc. "Rice for all Seasons"
+  
+  Posted to MC-Recipe Digest by Kitpath &lt;phannema@wizard.ucr.edu&gt; on May 11,
+  1998
+ 
+</step></directions></recipe></recipeml>

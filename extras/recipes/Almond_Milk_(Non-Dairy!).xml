@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Milk (Non-Dairy!)</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Syrup, maple</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Use raw almonds. Place almonds in blender and grind to fine powder. Add
+  syrup and 1 c water.  Blend 1-2 minutes until smooth. With blender running
+  on high, slowly add remaining water. Blend 2 minutes. Place strainer over
+  large bowl.  Line with cheesecloth (not 100% neccessary, but recommended.
+  Otherwise strain twice with very fine strainer.) Pour almond milk slowly
+  into strainer and let filter through. When all milk has passed through
+  strainer, press remaining milk out of accumulated almond fiber. Each
+  serving will be approximately 1-1/4 cups. Milk will keep in fridge 4-5
+  days.  Leftover fiber can be used as moisturizing body scrub in the shower.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

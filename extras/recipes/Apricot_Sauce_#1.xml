@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Sauce #1</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apricot jelly</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fish stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Ginger (size &amp; thickness of a quarter); finely shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>White pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Garlic powder</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients in a saucepan. Cook over low heat for 20 minutes,
+  stirring occasionally.
+  
+  NEW ORLEANS CAFE
+  
+  WEST 200TH SOUTH, SALT LAKE CITY
+  
+  From the &lt;Micro Cookbook Collection of American recipes&gt;, downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

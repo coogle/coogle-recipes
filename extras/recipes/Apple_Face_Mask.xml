@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Face Mask</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>150</qty>
+          <unit>grams</unit></amt>
+        <item>Apple flesh</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>grams</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>grams</unit></amt>
+        <item>Almond Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>grams</unit></amt>
+        <item>Wheatgerm Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>grams</unit></amt>
+        <item>Egg White</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>drops</unit></amt>
+        <item>Essential oil of Marigold</item></ing></ingredients>
+    <directions>
+      <step>  1. Peel and core the apple. Remove any discoloured parts and dice. 2. Place
+  in a blender add all the other ingredients and blend for a minute at low
+  speed and a minute at high speed.
+  
+  Depending on the amount of juice in the apple, the cream may be too wet or
+  too dry. If so, add a teaspoon of rice flour or more lemon juice and blend
+  for another minute.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

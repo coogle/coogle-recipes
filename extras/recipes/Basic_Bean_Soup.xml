@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Bean Soup</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Soups</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>VEGETABLE STOCK</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Onion; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Carrot; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Celery stalk; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Bay leaf</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>pinches</unit></amt>
+          <item>Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>pinches</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>pinches</unit></amt>
+          <item>Thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable peels, leaves or stems (celery, parsley, broccoli, etc.)</item></ing></ing-div>
+      <ing-div>
+        <title>SOUPS</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Onions; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Carrots; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Celery; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Beans; cooked</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable stock recipe</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Fennel; crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Basil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Oregano</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Bay leaf</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Prepared mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Tomato paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Garlic powder</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>pinches</unit></amt>
+          <item>Salt and pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   To make vegetable stock: Bring all ingredients to a boil. Cover and simmer
+  for 30 minutes. Strain and reserve liquid.
+  
+   To make soup: Sasute onions, carrots, and celery in olive oil until
+  browned.
+  
+   Add one cup beans and one cup stock to sauteed vegetables.
+  
+   Puree remaining beans and stock toether.
+  
+   Stir in remaining ingredients.
+  
+   Bring to a boil, lower heat and simmer for 15 minutes.
+  
+   Per serving: 170 cal; 9 g prot; 221 mg sod; 30 g carb; 4 g fat; 0 mg chol;
+      104 mg cal
+  
+   Hint: Pinto, black, navy or other hearty beans may be used. Bouillon, bean
+  cooking liquid or a combination may be used for vegetable stock.
+  
+   From DEEANNE's recipe files
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

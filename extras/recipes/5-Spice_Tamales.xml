@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>5-Spice Tamales</title>
+      <categories>
+        <cat>Mcdougall</cat>
+        <cat>Main dish</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>18</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Tofu, crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chinese 5 spice powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onion, dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Bell Pepper, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard, prepared</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing></ingredients>
+    <directions>
+      <step>   Combine filling ingredients in a mixing bowl Fill and cook tamales
+  according to "Tamales: Basic Procedure" *** Vegetarian Gormet - Summer
+  1993, Don Matesz
+  
+   ****Hint Make your own Chinese 5 spice blend by mixing equal anounts of
+  Star anise, Szechuan pepper, cloves, cinnamon, and fennel seed. Grind
+  spices into a powder with amortar and pestle or a coffee grinder.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

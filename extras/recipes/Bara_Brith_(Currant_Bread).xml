@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bara Brith (Currant Bread)</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Dried fruit</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Candied peel</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mixed spice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Plain flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Lard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Fresh yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Demerara sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing></ingredients>
+    <directions>
+      <step>  Oven: 450F, Gas Mark 8 for 15 minutes: 375F, Gas Mark 5 for 45 minutes.
+  Soak the fruit and candied peel in the water with the spice.  Leave to
+  steep in a warm place and use the warm spicy, strained water to mix the
+  dough. Sift the flour and salt and rub in the lard; cream the yeast with
+  the sugar and a little of the spiced water; mix this into the flour,
+  together with the eggs and use enough of the water to give a firm, yet
+  elastic dough. Knead well, leave to rise and knock back; blend in the
+  drained fruit and knead again. Shape the dough into loaves and set into
+  greased 1 lb tins in a warm place to prove; bake, reducing the temperature
+  after the first 15 minutes. Originally, in some recipies, the fruit content
+  would have been fresh currants or blackberries. Bara Brith is often served
+  as part of the traditional Welsh tea.  It can also be purchased at many of
+  the small bakeries found throughout Wales. British Cookery (BTA/BFPC)
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

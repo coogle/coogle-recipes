@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Medium-sized apples</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine; (1 stick)</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 350 degrees F. Grease an 8 x 8 or similar baking pan. Cut
+  apples in quarters. Peel (I don't peel mine) and cut out core. Slice thin;
+  put in pan. Mix oats, sugar and flour. Mix butter or margarine in with your
+  fingers. Mixture will be crumbly. Put mixture on apples. Bake about 35
+  minutes.
+  
+  If desired, serve with a scoop of vanilla ice cream or some whipped
+  topping. Serves 6.
+  
+  Posted to Bakery-Shoppe Digest V1 #436 by Lee Ann Hamm &lt;lhamm@premier.net&gt;
+  on Dec 4, 1997
+ 
+</step></directions></recipe></recipeml>

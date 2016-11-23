@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Fritters</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Fruits/nuts</cat>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>small</unit></amt>
+        <item>Apricots; -=OR=- Apricots, halved</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Whole almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached all-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water; plus</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>quarts</unit></amt>
+        <item>Vegetable oil; for frying</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioners' sugar</item></ing></ingredients>
+    <directions>
+      <step>  RINSE THE APRICOTS, slit the sides and remove the pits with a small spoon,
+  leaving the apricots intact. Replace each pit with an almond. Place the
+  apricots in a bowl and sprinkle the slit sides with the rum. For the
+  batter, combine the dry ingredients in a bowl and whisk in the water, then
+  the melted butter. Pour the oil into a 4-quart pan and heat it to 350F.
+  With a fork, dip the apricots into the batter and add to the hot oil 3 or 4
+  at a time, frying them about 6 or 7 minutes, until the batter is a deep
+  golden and the apricots are cooked, but still firm. Drain the fritters on
+  absorbent paper as they are fried and keep them warm in a 300F oven. To
+  serve, sprinkle the fritters generously with confectioners' sugar.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

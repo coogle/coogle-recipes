@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Relish</title>
+      <categories>
+        <cat>Relish</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Haas avocado, ripe; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Red onion; finely diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Jalapeno; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh lime juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cilantro; coarsely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Combine the avocado, onion, jalapeno, lime juice and cilantro. Season to
+  taste with salt and pepper.
+  
+  Yield: about 1 cup
+  
+  Recipe By     : Grillin' &amp; Chillin'  SHOW #GR3605
+  
+  Posted to MC-Recipe Digest V1 #230
+  
+  Date: Mon, 30 Sep 1996 09:43:35 -0400 (EDT)
+  
+  From: Chuck Tapping &lt;ctapping@usit.net&gt;
+ 
+</step></directions></recipe></recipeml>

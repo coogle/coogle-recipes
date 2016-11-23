@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Jerky</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lean beef</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Arlic Salt</item></ing></ingredients>
+    <directions>
+      <step>   Freeze lean beef for 30 minutes.
+   Slice 1/4 inch thick.  Remove all fat.
+   Dip into soy sauce to which you have sprinkled lemon pepper and garlic
+  salt.
+   Spread slices on cake racks placed on cookie sheets.
+   Place cookie sheets in 150 degree oven for 10-12 hours.
+   Store in air tight container.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

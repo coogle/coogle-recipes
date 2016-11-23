@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alfredo's Noodles</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Noodles; 1/4 inch wide</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Unsalted butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy cream; warmed</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Freshly grated Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly ground pepper</item></ing></ingredients>
+    <directions>
+      <step>  Have a large bowl warmed and ready before you cook the noodles. Drain the
+  cooked noodles and put them into the bowl. Quickly add remaining
+  ingredients, tossing briskly to coat all the noodles, and serve at once.
+  
+  Recipe is from _The Fannie Farmer Cookbook_, 13th edition. Posted to EAT-L
+  Digest  by Felicia Pickering &lt;MNHAN063@SIVM.SI.EDU&gt; on Aug 1, 1997
+ 
+</step></directions></recipe></recipeml>

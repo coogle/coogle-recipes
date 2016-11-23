@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Macaroni</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Pasta</cat>
+        <cat>Hamburger</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Beef Base</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Celery Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Green Pepper Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>clove</unit></amt>
+        <item>Garlic Minced</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dry Macaroni</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>28</qty>
+          <unit>ounces</unit></amt>
+        <item>Crushed Tomatos</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Hamburger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry American Cheese</item></ing></ingredients>
+    <directions>
+      <step>  Contributed to the echo by: Janice Norman BEEF &amp; MACARONI Place hamburger
+  in large skillet. Separate into small pieces and saute till meat is brown.
+  Remove meat from skillet and drain off most liquid.
+  
+  Place pasta in boiling water for 8 minutes and drain. Add 1-tbl olive oil
+  to skillet and saute onion, celery, peppers, and garlic till soft.
+  
+  Add cooked pasta, hamburg, tomatos, bouillon, parsley, sugar and pepper.
+  Toss ingredients. Simmer slowly for 20-minutes while stirring frequently.
+  
+  Serve when flavors have blended. A small bowl of dry American cheese should
+  accompany the meal with crusty bread, and green salad.
+  
+  Serves [4]
+  Posted to MM-Recipes Digest V3 #343
+  
+  From: Captain &lt;captain@iquest.net&gt;
+  
+  Date: Sun, 15 Dec 96 09:59 EST
+ 
+</step></directions></recipe></recipeml>

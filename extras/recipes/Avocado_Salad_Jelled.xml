@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Salad Jelled</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small package lemon gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Large avocados, peeled, cube</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Crushed unsweeted pineapple,</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped pecans</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve gelatin in boiling water. Chill until consistency of unbeaten egg
+  white. Combine avocado and cream cheese; beat at medium speed of an
+  electric mixer until blended. Stir in pineapple and pecans. Combine avocado
+  mixture with gelatin mixture; beat well. Pour into a lightly oiled 8"
+  square pan. Cover and chill until firm. 10-12 servings. Bon appetit,
+  Hope--Sunnyvale, CA
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

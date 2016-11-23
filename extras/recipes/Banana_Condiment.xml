@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Condiment</title>
+      <categories>
+        <cat>Jams</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Very ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing></ingredients>
+    <directions>
+      <step>  At least 1 day before, place bananas in fridge to blacken. Mash bananas
+  till almost smooth.  Add juice &amp; raisins. In a pot, bring to a boil,
+  stirring constantly till mixture thickens, about 10 minutes. Cool slightly
+  before serving.  Can be stored in the fridge for 2 or 3 weeks. Serve with
+  jolof rice.  Makes 1 cup.
+  
+  "Vegetarian Times" December, 1993
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

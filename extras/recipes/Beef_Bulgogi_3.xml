@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Bulgogi</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef, sliced very thin, across grain into strips</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sesame salt (recipe below)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Scallions, chopped into 1-inch pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves garlic,peeled crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Grated fresh ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sak (or dry sherry)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Red pepper flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Peanut oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Toasted sesame seeds</item></ing></ingredients>
+    <directions>
+      <step>  1.  Combine soy sauce, sugar, sesame oil, sesame salt, pepper, scallions,
+  garlic, ginger, sak and red pepper flakes in a medium-size bowl. Add the
+  meat and toss. Allow to marinate at least 30 minutes.
+  
+  2.  Cook the meat over medium-high heat on a stove-top grill. Heat the
+  grill first, making it very hot.  Add the oil. Cook the meat 1-2 minutes on
+  each side, browning it nicely. Garnish with sesame seeds.
+  
+  Sesame salt:  Place 1 cup sesame seeds in a frying pan over medium heat and
+  toast, stirring constantly, until they just begin to turn a light brown.
+  Place in a food blender. Grind to a coarse texture and stir in the salt.
+  Keep in a covered jar in the refrigerator.
+    Posted to MM-Recipes Digest V3 #252
+  
+    Date: Sat, 14 Sep 1996 10:17:17 -0500
+  
+    From: pickell@cyberspc.mb.ca (S.Pickell)
+ 
+</step></directions></recipe></recipeml>

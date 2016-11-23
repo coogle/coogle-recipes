@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baby Carrots and Onions in Cream</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Baby carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Small white onions</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  Wash and trim carrots.  Peel onions.  Place in pot with 1/2 inch boiling
+  salted water.  Cover and simmer gently for 10 minutes.  Remove lid and boil
+  rapidly, shaking pot to prevent burning, until water is absorbed. Stir in
+  cream and add pepper and salt to taste, if necessary.  Serve with a very
+  light sprinkling of nutmeg.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

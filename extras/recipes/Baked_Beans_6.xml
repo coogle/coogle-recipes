@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Beans</title>
+      <categories>
+        <cat>Polkadot</cat>
+        <cat>Tidge</cat>
+        <cat>Bean/legume</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Can baked beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dash of worchesteshire</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dash of hickory smoke</item></ing></ingredients>
+    <directions>
+      <step>  salt, pepper, garlic powder and thyme to taste. Bake in the oven for one
+  hour (about 400 degrees) I hate "baked beans" that are made on the stove
+  top.
+  
+  * The Polka Dot Palace BBS 1-201-822-3627.  Posted by THE PRESTIDIGITATOR
+  
+  Posted to MC-Recipe Digest V1 #704 by Lisa Clarke &lt;lisa@gaf.com&gt; on Aug 1,
+  9
+ 
+</step></directions></recipe></recipeml>

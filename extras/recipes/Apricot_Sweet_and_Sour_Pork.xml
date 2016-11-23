@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Sweet and Sour Pork</title>
+      <categories>
+        <cat>B</cat>
+        <cat>N</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean pork; cut in 1-inch cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Smucker's apricot preserves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Green peppers; cut in 1-inch chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(20 oz) pineapple chunks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cornstarch</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil and sauté garlic; add pork and stir fry until pork is lightly
+  browned. Add vinegar, preserves and chicken broth. Cover tightly and simmer
+  until pork is tender; add peppers and pineapple. Simmer till peppers are
+  tender-crisp (10 minutes). Thicken mixture with cornstarch mixed with
+  water. Serve spooned over rice.
+  
+  Recipe by: Smucker's(r)
+  
+  Posted to brand-name-recipes by Beach Princess&lt;barbra@pipeline.com&gt; on Jan
+  21, 1998
+ 
+</step></directions></recipe></recipeml>

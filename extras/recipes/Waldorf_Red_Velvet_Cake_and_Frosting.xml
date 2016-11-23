@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waldorf Red Velvet Cake and Frosting</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CAKE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour, all purpose; sifted 2 to 3 times</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Food coloring, red</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cocoa</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Buttermilk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vinegar</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Flour, all purpose</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar, powdered; sifted</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  CAKE:  Cream shortening and sugar till fluffy.  Add eggs and beat 1 minute.
+  Add salt, beat.  Add vanilla and coloring to buttermilk. Alternate adding
+  flour and milk mixtures to batter. Combine soda and vinegar in cup and add
+  to cake batter.  Bake in (2) 9" cake pans at 350øF for 25 to 30 minutes.
+  Cool on cake racks.
+  
+  FROSTING: Cook milk and flour until thick; cool in fridge. Beat butter,
+  sugar and vanilla with mixer. Add flour and milk mixture a little at a time
+  (make ahead of cake so that it has plenty of time to cool). Beat well.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

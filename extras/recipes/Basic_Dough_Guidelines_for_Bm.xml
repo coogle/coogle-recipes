@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Dough Guidelines for Bm</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Miscellaneo</cat></categories>
+      <yield>1</yield></head>
+    <ingredients/>
+    <directions>
+      <step>        1 lb 1 1/2 lb
+  :          ----------                   ------------
+  :Liquid       3/4 - 7/8 C        1 1/8 - 1 1/4 C
+  :Flour         2 C                     3 C
+  :Salt           1 tsp                  1 1/2 tsp
+  :Sugar         1 T                    1 1/2 T
+  :Yeast         1 - 1 1/2 tsp        1 1/2 tsp - 2 tsp
+  FOR DOUGH RECIPES USE 1/8 cup less liquid in most cases
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : (Lois Conway)
+ 
+</step></directions></recipe></recipeml>

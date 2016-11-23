@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Sweet Potato Casserole</title>
+      <categories>
+        <cat>Casseroles</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sweet Potato; cooked and mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mashed bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Curry powder</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients. Beat until smooth; put into greased 1 quart casserole
+  dish and bake at 350 degrees for 20 minutes.
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 16, 1998
+ 
+</step></directions></recipe></recipeml>

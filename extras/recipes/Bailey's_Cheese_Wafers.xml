@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bailey's Cheese Wafers</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Quick</cat>
+        <cat>Biscuits</cat>
+        <cat>Baileys.mcf</cat></categories>
+      <yield>32</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated swiss cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Grated parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly ground white pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350F degrees.
+  
+  In a large bowl, cream the cheeses and butter. Stir in salt and white
+  pepper. Mix flour in thoroughly until you can make a ball. Divide dough in
+  half, then keep dividing in half until you have 32 small balls, rolling
+  them with your hands. Place the balls about 2 inches apart on an ungreased
+  cookie sheet and flatten slightly.
+  
+  Bake for 15 minutes, or until golden. Remove with a spatula to a cooling
+  rack.
+  
+  SOURCE: Lee Bailey's Soup Meals (1989:isbn0517573040)
+  
+  Notes: Lee's Intro: I like the flavor of cheese with sorrel soup. Cheese is
+  strong enough to hold its own with the sorrel.
+  
+  Kitpath 98Jan
+  
+  Recipe by: Lee Bailey's Soup Meals: Warm-Weather
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Feb 12,
+  1998
+ 
+</step></directions></recipe></recipeml>

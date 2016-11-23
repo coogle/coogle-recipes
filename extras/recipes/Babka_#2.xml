@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Babka #2</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried lemon peel</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped almonds</item></ing></ingredients>
+    <directions>
+      <step>  From: a4gy@jupiter.sun.csd.unb.ca ("N. Webber")
+  
+  Date: Tue, 4 Apr 1995 19:15:22 +0000
+  
+  Scald milk in saucepan. Add shortening, salt, and sugar; stir until
+  shortening is melted and sugar dissolved. Cool to lukewarm. Dissolve yeast
+  in warm water; add to lukewarm milk mixture and mix well. Add eggs and
+  lemon peel to milk mixture. Add flour; beat until smooth. Cover and let
+  rise for 6 hours. Punch down dough. Add raisins; knead until smooth and
+  elastic. Generously grease brioche pan; sprinkle bottom with almonds. Pour
+  dough into pan. Let rise, uncovered, for 20 minutes. Preheat oven to 425F.
+  Bake babka for 20 minutes. Remove from pan immediately. Source: Creative
+  Cooking Desserts, page 5
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

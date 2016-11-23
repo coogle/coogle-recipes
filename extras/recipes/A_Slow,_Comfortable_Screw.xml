@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Slow, Comfortable Screw</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Valentines</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Sloe gin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Southern comfort</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Vodka</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Orange juice</item></ing></ingredients>
+    <directions>
+      <step>  1. Shake with crushed ice. Strain into glass.
+  
+  Recipe by: http://www.sugarplums.com/ezine/romanticfoods.html
+  
+  Posted to recipelu-digest Volume 01 Number 586 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 23, 1998
+ 
+</step></directions></recipe></recipeml>

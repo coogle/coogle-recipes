@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baigan Bharta</title>
+      <categories>
+        <cat>Veg-cook</cat>
+        <cat>Sept.</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Eggplant</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Veg oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>To 3 serrano chiles, seeded</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>And diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Compound asafetida (or &lt; 1/8</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>teaspoons</unit></amt>
+        <item>Pure)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>To 2 tsp cumin seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground corriander</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped fresh cilantro</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Nonfat yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>To 2 tsp garam masala</item></ing></ingredients>
+    <directions>
+      <step>  Someone on r.f.v.c requested a recipe for Baigan Bharta yesterday; here is
+  one from Yamuna Devi's "The Best of Lord Krishna's Cuisine", slightly
+  tweaked, that I make a lot.  (also posted on r.f.v.c.)
+  
+  Bake the eggplant 40 minutes at 425F on a baking sheet. Split it and scoop
+  out the pulp; discard the skin.  (Some people roast the eggplant over
+  charcoal for a nice flavor).
+  
+  Heat the ghee on medium; add cumin seeds, serranos, and asafetida. Cook
+  until the cumin seeds darken.  Add the eggplant, salt, and corriander; cook
+  for about 10 minutes, stirring occassionally. When it thickens, remove from
+  the heat, add the yogurt, cilantro, and garam masala, and serve. (The
+  yogurt might curdle; to prevent that, let the eggplant cool first, then add
+  the yogurt etc, then briefly reheat.)
+  
+  From: narad@nudibranch.asd.sgi.com (Chuck Narad).  rfvc Digest V94 Issue
+  #203, Sept. 21, 1994. Formatted by Sue Smith, S.Smith34,
+  TXFT40A@Prodigy.com using MMCONV.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/vegcook2.zip
+ 
+</step></directions></recipe></recipeml>

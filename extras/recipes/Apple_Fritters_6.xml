@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Fritters</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Apples (up to 6)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Icing sugar or syrup</item></ing></ingredients>
+    <directions>
+      <step>  Make a batter by combining the flour, sugar, milk, baking powder, salt and
+  egg. Core and peel the apples, then slice them and put them into the
+  batter. Drop them by spoonfuls into 1 inch of fat or oil in a frying pan.
+  Test the apples with a fork - they are done when soft. Drain them on paper
+  towels or in a colander. Sprinkle the fritters with icing sugar or eat them
+  with syrup. This recipe makes about 4 skillets full.
+  
+  Recipe by: Amish Cooking, Herald Press, ISBN 0-8361-3600-4
+  
+  Posted to MC-Recipe Digest V1 #826 by 4paws@netrax.net (Shermeyer-Gail) on
+  Oct 04, 1997
+ 
+</step></directions></recipe></recipeml>

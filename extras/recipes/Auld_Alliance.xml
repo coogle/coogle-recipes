@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Auld Alliance</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Scottish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>350</qty>
+          <unit>grams</unit></amt>
+        <item>Roquefort cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whisky</item></ing></ingredients>
+    <directions>
+      <step>  This deceptively simple cheese cream from Overscaig in Sutherland is
+  delicious served as a cream pate for the first course or at the end of a
+  meal as a savoury.
+  
+  Pound the cheese to a thick cream. Add drop by drop as much whisky as it
+  will 'drink' to make a firm cream.
+  
+  Pack into small earthenware pots and chill in the fridge for 3 to 4 hours.
+  
+  Serve with hot buttered toast or oatcakes.
+  
+  From: Janet Warren, A Feast of Scotland, Lomond Books, 1993, ISBN
+  1-85051-112-8
+  
+  Typed for you by Rene Gagnaux @ 2:301/212.19
+ 
+</step></directions></recipe></recipeml>

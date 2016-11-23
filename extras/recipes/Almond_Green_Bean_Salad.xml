@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Green Bean Salad</title>
+      <categories>
+        <cat>Almonds</cat>
+        <cat>Sides</cat>
+        <cat>Starters</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Green beans; trimmed and cut diagonally into 1-1/2 pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon; cut into 1" pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cherry tomatoes; halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced red onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Slivered almonds; toasted *</item></ing></ingredients>
+    <directions>
+      <step>  In small saucepan cook beans about 5 minutes in 1 inch boiling water,
+  covered, just until crisp-tender; rinse with cold water and drain.
+  Meanwhile, in medium skillet cook bacon until crisp; remove with slotted
+  spoon to paper towels. In large bowl toss beans, tomatoes, onion, vinegar,
+  oil and pepper. Season with salt. Line platter or individual plates with
+  lettuce. Top with bean mixture, bacon and almonds.
+  
+  Servings: 4
+  
+  * To toast almonds, spread in an ungreased baking pan. Place in 350 degree
+  oven and bake 5 to 10 minutes or until almonds are light brown; stir once
+  or twice to assure even browning. Note that almonds will continue to brown
+  slightly after removing from oven.
+  
+  See http://www.almondsarein.com/ &gt;Hanneman/Buster/MasterCook 1998/Ap
+  
+  Recipe by: Almond Board of California
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Apr 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

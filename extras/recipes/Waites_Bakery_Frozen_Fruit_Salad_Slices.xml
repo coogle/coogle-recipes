@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waites Bakery Frozen Fruit Salad Slices</title>
+      <categories>
+        <cat>Fruit</cat>
+        <cat>Salads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pitted Bing Cherries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Sliced Peaches</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Mandarin Oranges</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Crushed Pineapple</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Miniature Marshmallows</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Confectioner's Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Mix cream cheese and sugar, add sour cream.  Fold in fruit and
+  marshmallows.
+  
+  Return mixture to cans. Freeze. When ready to serve cut out the bottom of
+  the can and use the lid to push the fruit salad. Cut one inch slices as you
+  go. Place round slices on a lettuce covered tray and serve.
+  Posted to MC-Recipe Digest V1 #297
+  
+  Date: Tue, 12 Nov 1996 00:50:07 -0600
+  
+  From: "Never Tell" &lt;madsky@ix.netcom.com&gt;
+ 
+</step></directions></recipe></recipeml>

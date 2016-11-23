@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef in Rubesco Wine</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Chump or braising Steak, cut into large chunks</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>pints</unit></amt>
+          <item>Rubesco Wine</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pints</unit></amt>
+          <item>Tomato juice</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Few Sprigs sage and parsley</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Cloves garlic, unpeeled</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Of fat cut from some parma ham, diced into small cubes</item></ing>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit>ounces</unit></amt>
+          <item>Wild Mushrooms, roughly chopped</item></ing></ing-div>
+      <ing-div>
+        <title>TO GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chopped Fresh Sage or parsley</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 180C/350F/Gas Mark 4.
+  
+  Heat olive oil in a large frying pan and add meat, sealing and browning
+  over a high heat. Season with salt and pepper. Transfer meat to a large
+  casserole dish, adding a little more olive oil. Pour in wine and add tomato
+  sauce. Pop in sage, parsley and garlic cloves. Cover and cook over a low
+  heat or in preheated oven for 90 minutes or until the beef's really tender.
+  
+  Towards the end of the beef's cooking time, saute the Parma Ham to render
+  it down. Add mushrooms and saute briskly for 4 to 5 minutes. Season with
+  salt and pepper and add a pinch of chopped sage and parsley.
+  
+  Add to beef, stir well and serve with fresh pasta.
+  
+  Source: Floyd on Italy
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

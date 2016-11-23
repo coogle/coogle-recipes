@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apples - Crock-Pot</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Crockpot</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Apples -- 6-8, washed/cored</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Mix raisins and sugar; fill center of apples.  Sprinkle cinnamon and dot
+  with butter.  Put in Crock-Pot; add 1/2 c water.  Cover; cook on Low 7 to 9
+  hours [High:  2 1/2 to 3 1/2 hours].
+  
+  Recipe By     : Rival Crock-Pot Book
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

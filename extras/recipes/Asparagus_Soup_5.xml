@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Soup</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>(1/4 lb.) thinly sliced asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Cook onion in butter until onion is soft. Add asparagus and paprika and
+  cook, stirring until asparagus turns bright green. Stir in chicken broth
+  and whipping cream. Heat to boiling. Blend together the cornstarch and
+  water and stir into soup. Cook until thickened. Season to taste with salt
+  and pepper. Serves 4 to 6.
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Feb 16,
+  1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alsace Apple Tart</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pastry-----</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unsalted Butter -- cut in</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>small</unit></amt>
+        <item>Pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg Yolk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ice Water -- (approximately)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Filling-----</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Apples -- (Macintosh)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  To make pastry:
+  
+  Sift flour and salt into large bowl.  Cut in butter until mixture resembles
+  bread crumbs.  With a fork, lightly mix in sugar, egg yolk and enough ice
+  water to make a dough.  Press into a ball and wrap in plastic. Refrigerate
+       30    minutes.
+  
+  On a floured surface, roll out dough to fit a 9-inch springform pan,
+  including sides.  Place dough in pan without stretching.  Pierce bottom
+  with fork.  Preheat oven to 400.
+  
+  To make filling:
+  
+  Peel, quarter, and core apples.  Thinly slice each quarter several times
+  without cutting all the way through.  Sprinkle with lemon juice.  Arrange
+  apples in pastry shell.  In a medium bowl, beat eggs and sugar until pale
+  and creamy.  Add cream and vanilla.  Pour egg mixture over apples.  Bake 20
+  minutes, then reduce heat to 350 and bake 25 minutes longer or until
+  custard filling is firm.
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

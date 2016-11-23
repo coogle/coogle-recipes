@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Appetizer Pate' Cheesecake</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Dips</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Crushed plain croutons</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Margarine; melted</item></ing></ing-div>
+      <ing-div>
+        <title>CHEESECAKE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Unflavored gelatin</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cold water</item></ing>
+        <ing>
+          <amt>
+            <qty>16</qty>
+            <unit>ounces</unit></amt>
+          <item>Philadelphia Cream Cheese; softened</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Braunschweiger or liver sausage</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Mayonnaise</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Pimiento; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Onion; grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Prepared mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Lemon juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine croutons and margarine; press onto bottom of 9" springform pan.
+  Bake at 350F degrees, 10 minutes.
+  
+  Soften gelatin in water; stir over low heat until dissolved. Combine cream
+  cheese and braunschweiger, mixing at medium speed on electric mixer until
+  well blended. Gradually add gelatin. Stir in remaining ingredients until
+  blended; pour over crust. Chill until firm. Remove rim of pan.
+  
+  Recipe by: Kraft Philadelphia Cream Cheese Posted to MC-Recipe Digest V1
+  #716 by Creedenite@aol.com on Aug 3, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Orange Roughy with Cheese and Mushrooms</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Large scallions, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Mushrooms, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Orange roughy fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slices cheese, cut into 1/2" strips</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unseasoned bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>    Preheat oven to 400 deg F. Grease a shallow 2-quart baking dish with
+  margarine. Evenly scatter the scallions and mushrooms over the bottom of
+  the dish. Place fillets on top in a single layer. (Overlap or tuck under,
+  the thin ends of the fillets).
+    Mix wine and lemon juice together and pour over the fish. Sprinkle with
+  marjoram and black pepper.
+    Evenly distribute the cheese strips over the fillets. Crumple a large
+  piece of waxed paper and wet it. Shake off excess water and and place the
+  paper loosley over the fish. Bake for about 7 minutes.
+    Remove fish from the oven, take off the waxed paper. Sprinkle fish with
+  bread crumbs. Bake another 7-9 minutes or until fish is just done. Remove
+  the fish from the oven and heat the broiler and broil just long enough to
+  brown the top of the fillets, about 1 minute.
+  
+  Substitiue: Cod, haddock, catfish, ocean perch or rockfish.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Spinach-P)asta Casserole</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Main dish</cat>
+        <cat>Pasta</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Pasta shells</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Spinach; chopped and steamed until tender</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Soy milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Basil, fresh; chopped OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Basil, dried</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>   cook pasta in boiling water according to package directions. Drain. In
+  large casserole dish, toss hot pasta with spinach, tomato sauce,soy milk,
+  garlic and basil. Season to taste. Top with bread crumbs. Bake at 350
+  degrees, uncovered, for 30 minutes or until bubbly. Serve hot.
+  
+   Total calories per serving: 214. Fat: 2 grams
+  
+   Source; Vegetarian Journal, Sept-Oct 93/MM by DEEANNE
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

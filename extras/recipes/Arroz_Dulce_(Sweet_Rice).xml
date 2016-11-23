@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Dulce (Sweet Rice)</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>Cinnamon sticks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Grated gingerroot</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Canned coconut cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Soak rice and raisins in water to cover 1/2 hour. Bring 2 cups water to
+  boil in large saucepan. Drain rice and raisins and add to boiling water
+  with cinnamon sticks and 1/4 cup sugar. Cook over low heat until rice is
+  tender. Boil gingerroot in 1/2 cup water 5 minutes, strain and blend liquid
+  with remaining 3/4 cup sugar, coconut cream, milk and vanilla. Add this
+  mixture with butter to rice. Cover and cook over low heat until milk is
+  absorbed, stirring every 5 to 10 minutes. Spoon into serving dish or
+  individual custard cups, sprinkle with cinnamon and chill.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

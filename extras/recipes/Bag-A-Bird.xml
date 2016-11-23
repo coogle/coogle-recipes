@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bag-A-Bird</title>
+      <categories>
+        <cat>Chicken</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>MARINADE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lime juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lime peel; grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Louisiana hot sauce</item></ing></ing-div>
+      <ing-div>
+        <title>CHICKEN</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Chicken breast halves</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit/></amt>
+          <item>Mushroom; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Scallion; thinly sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Wine, white, dry</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Ginger sauce</item></ing></ing-div>
+      <ing-div>
+        <title>GINGER SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Ginger, fresh; grated</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Basil, fresh; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Wine vinegar, red</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>;water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Wine, white, dry</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Red pepper flakes</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sesame oil</item></ing></ing-div>
+      <ing-div>
+        <title>CREPES</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; melted</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISHES</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Peach half, canned; drained</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Watercress</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Scallions</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Marinade:  Combine all ingredients in a large bowl.
+  
+  Chicken:  Mix chicken and marinade together in a large bowl and refrig-
+  erate for 30 minutes. Remove chicken from marinade and lightly coat chicken
+  with flour. Heat oil in a large skillet over medium heat. Cook chicken
+  until lightly browned.  Remove from skillet and keep warm. In the same
+  skillet, add mushrooms, wine and 6 tablespoons of the ginger sauce. Simmer
+  over medium low heat for 5 minutes. Do not over cook.
+  
+  In a blender, blend the first 8 ingredients together until smooth, then add
+  the red pepper flakes and the sesame oil and blend well. Refrigerate.
+  
+  Crepes:  Beat the eggs well. Beat in the milk, salt, flour and the melted
+  butter until smooth, or in a blender all together. Let stand 30 minutes
+  before cooking. Heat a 10-inch skillet until fairly hot, but not smoking.
+  Film with butter.  Use a small measuring cup or pour several tablespoons of
+  the batter into the pan. Quickly tilt the pan to spread the batter evenly
+  in the pan. Cook until lightly browned. Turn with a spatula and cook other
+  side for about 30 seconds. Stack the crepes, using a sheet of waxed paper
+  between each cooked crepe.
+  
+  To assemble: Remove the chicken from the warming dish and cut into
+  bite-sized pieces.  In the center of a cooked crepe, using a slotted spoon
+  put one-sixth of the cooked mushrooms, one-sixth of the cooked chicken, 1
+  tablespoon of the ginger sauce and a sprinkle of chopped green onion. On a
+  serving dish, spoon some of the juice from the cooked mushrooms and 1
+  tablespoon of the ginger sauce. Pull up the sides of the filled crepe to
+  form a bag.  Then tie the top of the crepe with a strand of the green
+  onion, to hold the crepe upright. Put the crepe on the juices in the
+  serving dish. Garnish with 1 drained peach half, several sprigs of the
+  watercress and some sliced green onion.
+  
+                             -- Wallace Harton, New Orleans
+                                per Fred Towner Submitted By SAM WARING
+  &lt;SAM.WARING@382-91-12.IMA.INFOMAIL.COM&gt;  On   MON, 20 NOV 1995 145826 GMT
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

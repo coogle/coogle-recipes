@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Goat's Cheese Log with Prawns and Basil</title>
+      <categories>
+        <cat>Jusrol</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sheets Jus-rol Fillo Pastry, thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove of garlic, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Fresh basil leaves, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Pine nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Grapeseed oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Grated Parmesan</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Prawns, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>2 in pieces of goat's cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Mix the garlic and basil with a pinch of salt. Pound the nuts in a pestle
+  and mortar; add the oil, basil and garlic mixture. Stir in the Parmesan and
+  prawns. Cut each sheet of fillo in half and place a cube of goat's cheese
+  in the centre. Spoon over the basil mixture. Brush edges of pastry with
+  melted butter and wrap up to form a parcel. Place on a baking sheet, brush
+  with butter and bake at 200C (400F) mark 6 for about 20min. Serve warm with
+  salad leaves.
+  
+  Source: Jus-Rol: Pastry for Today
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

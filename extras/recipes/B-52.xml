@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>B-52</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Tequila</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tabasco (1 teaspoon for the chile head version)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Sambuca (an Italian anise liquor)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Coffee bean</item></ing></ingredients>
+    <directions>
+      <step>  Date: Wed, 3 Apr 1996 19:47:16 -0500
+  
+  From: RickD011@aol.com
+  Add one once of tequila to a tall thin glass such as a parfait glass or
+  champagne flute. Carefully add about 1/2 teaspoon (1 teaspoon for the chile
+  head version) of tabasco down the side of the glass; it should sink to the
+  bottom. Even more carefully add one ounce of Sambuca (an Italian anise
+  liquor).  You should have three layers, with the tabasco in the middle.
+  Drop a coffee bean into the drink. This is usually drunk in one gulp, then
+  you bite the bean.
+  
+  You can probably substitute ouzo or anisette for the sambuca, and your
+  favorite hot sauce for the tabasco as long as it's not too thick.  If the
+  densities of the substitutes are much different, however, you might not get
+  nice distinct layers.
+  
+  CHILE-HEADS DIGEST V2 #285
+  
+  From the Chile-Heads recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

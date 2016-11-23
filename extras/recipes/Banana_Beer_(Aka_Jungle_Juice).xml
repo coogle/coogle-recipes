@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Beer (Aka Jungle Juice)</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>35</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Ripe bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Oranges; juice from</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Lemons; juice from</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar Water</item></ing></ingredients>
+    <directions>
+      <step>  Mix together and freeze.  Fill large glass 1/3 full (or more) with frozen
+  mixture and add 7-Up, Sprite, Gingerale, etc.
+  
+  Contributed by Lawrence &amp; Cindy Kellie
+  
+  Both Cindy and Lawrence's family has served this for years during the
+  holiday season. From: Lawrence Kellie
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

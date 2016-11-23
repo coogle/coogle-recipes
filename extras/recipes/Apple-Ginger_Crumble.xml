@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Ginger Crumble</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Granny Smith or other tart</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Apples -- cored and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Gingersnap cookies --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  1. Sprinkle sliced apples with lemon juice. Place in a round or oval 9- or
+  10-inch glass baking dish.
+  
+  2. Cut remaining ingredients together with a pastry blender or fork until
+  crumbly. Sprinkle over fruit.
+  
+  3. Microwave at 100% power until fruit is tender (7 to 9 minutes); give
+  dish a half turn once. Serve warm.
+  
+  Variation: Three to four pears may be substituted for apples.
+  
+  Recipe By     : the California Culinary Academy
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

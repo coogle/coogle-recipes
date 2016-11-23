@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Pasta with Garlic</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box Angel Hair Pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Garlic cloves; MINCED</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh parsley; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Bring water to boil in a 2 quart pot.
+  
+  Heat olive oil over medium heat. Add garlic and cook just until soft.
+  Remove from heat, add parsley.
+  
+  Toss pasta into boiling water, cook for 2 minutes. Drain well. Add olive
+  oil mixture to pasta and toss to coat.
+  
+  Posted to recipelu-digest Volume 01 Number 384 by Marie Tehas
+  &lt;tehas@icarus.sfbr.org&gt; on Dec 19, 1997
+ 
+</step></directions></recipe></recipeml>

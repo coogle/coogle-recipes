@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Dump" Cake</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1      c an favorite pie filling</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1      b ox yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>2      s ticks butter or margarine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1/3  c .            chopped pecans</item></ing></ingredients>
+    <directions>
+      <step>  "Dump" pie filling into 9x13 inch glass pan.  "Dump" cake mix on top.
+  Drizzle melted butter over cake mix.  Sprinkle nuts on top. Bake at 350
+  degrees for 45 minutes.
+  Posted to MC-Recipe Digest V1 #215
+  
+  Date: Fri, 30 Aug 1996 14:09:59 -0700
+  
+  From: Gerald Edgerton &lt;jerrye@wizard.com&gt;
+ 
+</step></directions></recipe></recipeml>

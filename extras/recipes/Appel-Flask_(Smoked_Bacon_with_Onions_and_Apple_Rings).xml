@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Appel-Flask (Smoked Bacon with Onions and Apple Rings)</title>
+      <categories>
+        <cat>Sweden</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Canadian bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Red tart cooking apples; unpeeled, cored &amp; cut into 1/2" thick rings</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh ground pepper</item></ing></ingredients>
+    <directions>
+      <step>  Melt 2 tablespoons of butter in a heavy skillet. When foam subsides add the
+  bacon. Fry 5 to 10 minutes or until the bacon is lightly browned. Remove
+  from skillet and set on paper towels to drain. Fry the onion slices for 6
+  to 8 minutes in the fat remaining in the skillet, adding more butter as
+  necessary. When the onions are soft and transparent, add the apple rings
+  and cover the pan. Simmer over low heat for 5 to 10 minutes, shaking the
+  pan gently at intervals to prevent the apples from sticking. When the apple
+  rings are sufficiently cooked (they should offer little or no resistence
+  when pierced with the tip of a sharp knife or skewer), return the drained
+  bacon to the skillet. Cover and simmer an additional 3 to 5 minutes or
+  until the bacon is heated through. Grind fresh black pepper liberally over
+  the top and serve directly from the pan as a luncheon entr‚e or Sunday
+  night supper.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

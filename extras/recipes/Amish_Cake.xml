@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amish Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Ethnic</cat>
+        <cat>Frostings</cat>
+        <cat>Amish</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Crushed pineapple</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Walnuts; chopped</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING; (TOPPING</title>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit>ounces</unit></amt>
+          <item>Cool Whip®</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Vanilla instant pudding mix</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Crushed pineapple</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Beat the eggs and sugar together. Add the rest of the ingredients. Using a
+  greased and floured 9x13-inch pan, bake at 350 degrees for 30 minutes, or
+  until done.
+  
+  FROSTING (TOPPING) Mix all ingredients together. Blend together, and frost
+  well-cooled cake.
+  
+  From: Helen Jolly (MDFD30E) Wis/Gramma
+  Posted to recipelu-digest Volume 01 Number 645 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 30, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anzac Biscuits</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Coconut, shredded, unsweetnd</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder, double acting</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Stick + 2 tb butter, unsalt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lyle's Golden Syrup *</item></ing></ingredients>
+    <directions>
+      <step>    *  available at specialty food shops and many supermarkets
+       [Editor's Note:  this may just be corn syrup, like Karo's] In a large
+  bowl, stir together the flour, oats, coconut, sugar, and baking powder. In
+  a small saucepan, combine the butter and syrup and cook the mixture over
+  moderately low heat, stirring, until the butter is melted. Pour the butter
+  mixture into the flour mixture and combine the batter well. Drop heaping
+  tablespoons of the batter 2 inches apart onto a buttered baking sheet and
+  flatten them slightly with the back of a fork dipped in water. Bake the
+  cookies in the middle of a preheated 300F degree oven for 15 minutes, or
+  until they are golden.  Let the cookies cool slightly on the baking sheet,
+  transfer them with a spatula to a rack and let them cool completely.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

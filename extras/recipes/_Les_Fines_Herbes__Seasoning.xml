@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Les Fines Herbes" Seasoning</title>
+      <categories>
+        <cat>Seasonings</cat>
+        <cat>Herb/spice</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sweet basil</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chervil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sweet marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tarragon</item></ing></ingredients>
+    <directions>
+      <step>  Mix thoroughy, make it as fine as possible (in a food procesorif you like)
+  and store in a lidded jar. Use sparingly.
+  
+  Posted to MC-Recipe Digest V1 #155
+  
+  Date: Mon, 15 Jul 1996 18:07:13 -0300
+  
+  From: Calvin Deiterich &lt;cedeiter@epix.net&gt;
+  
+  Recipe By     : The Rosemary House
+ 
+</step></directions></recipe></recipeml>

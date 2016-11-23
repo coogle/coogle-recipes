@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Rub, Hogaholics Dry Rub</title>
+      <categories>
+        <cat>Bbq</cat>
+        <cat>Rub</cat>
+        <cat>Cookoff</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>LEMON PEEL</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>GARLIC POWDER</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>ONION POWDER</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>CHILI POWDER</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>PAPRIKA</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>MSG</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>BLACK PEPPER</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>CAYENNE PEPPER</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>WHITE PEPPER</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>SALT</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>SUGAR</item></ing></ingredients>
+    <directions>
+      <step>  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

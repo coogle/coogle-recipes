@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Applesauce</title>
+      <categories>
+        <cat>Apples</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Tart apples, peeled, cored, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rind from 2 lemons</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple cider</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick cinnamon, broken in pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing></ingredients>
+    <directions>
+      <step>  Place apples and cinnamon stick in casserole. Sprinkle with lemon rind.
+  Pour cider over all. Bring to boil on top of stove. Cover and place in 350
+  oven. Bake for 30 minutes. Remove from oven and discard cinnamon stick. Put
+  apples through food mill or coarse sieve. Add butter and sugar. Serve warm
+  with a spoonful of sour cream. Source: Long Grove Apple Haus Apple Cook
+  Book
+  
+  Recipe by: Sue Klapper Posted to EAT-L Digest by LDGOSS
+  &lt;LDGOSS@PRODIGY.NET&gt; on Jul 7, 1997
+ 
+</step></directions></recipe></recipeml>

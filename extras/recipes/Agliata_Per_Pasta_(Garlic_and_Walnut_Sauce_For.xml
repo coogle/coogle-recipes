@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Agliata Per Pasta (Garlic and Walnut Sauce For</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Italian</cat>
+        <cat>Pasta</cat>
+        <cat>Sauces</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Stale bread, crusts removed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Stock, warmed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Walnuts, toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley, stems trimmed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>medium</unit></amt>
+        <item>Garlic cloves, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Soak the bread in the stock &amp; then squeeze out any excess moisture. Combine
+  the bread with the walnuts, parsley, garlic, salt &amp; pepper in a food
+  processor. Process, adding the olive oil in a very slow stream until you
+  have a thick paste.  Toss with your favourite pasta &amp; serve hot.
+ 
+</step></directions></recipe></recipeml>

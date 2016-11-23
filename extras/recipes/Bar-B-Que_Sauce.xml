@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bar-B-Que Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Seasonings</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water,cold</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cornstarch</item></ing></ingredients>
+    <directions>
+      <step>  1. Heat oil in pan. Dice onion, add to pan. Brown onions over high heat,
+  add garlic, if desired. Stir as needed, so the onion doesn't burn. When
+  onion turns clear, add the following and quickly stir in vinegar,
+  Worcestershire sauce, molasses and mustard. When these have mulled
+  together, stir in catsup and cold water with cornstarch stirred in.
+  2. Simmer sauce over low heat, for at least ten minutes. Take care it
+  doesn't burn. More water can be added, to thin, or to make more sauce. The
+  corn starch will thicken the sauce as it simmers.
+  3. This sauce can be used as a marinade for beef, pork or chicken. Remove
+  meat from sauce to BBQ, or bake in sauce in oven at 350'F. Usually marinade
+  enough chicken for 6-8 people in half of this recipe and freeze the other
+  half of the sauce, for another time.
+  (Taken fron the Cattleman's Cookbook, found in the Elko, Nevada, library).
+  
+  Miscellaneous recipes from the collection of Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mo-misc.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Sauce</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Artichoke hearts; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Romano cheese</item></ing></ingredients>
+    <directions>
+      <step>  Place the water, olive oil, and seasonings in a large saucepan. Add the
+  artichokes and garlic and bring to a rolling boil. Stir in the breadcrumbs
+  and cheese and heat thoroughly. Reserve until the final assembly.
+  
+  LE RUTH'S
+  
+      636    FRANKLIN ST., NEW ORLEANS
+  
+  From the &lt;Micro Cookbook Collection of French Recipes&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

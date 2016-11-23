@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Nut Pancakes</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Gluten-free</cat>
+        <cat>Breakfast</cat>
+        <cat>Milk-free</cat></categories>
+      <yield>16 4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Rice flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Xanthan gum</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable oil; for frying</item></ing></ingredients>
+    <directions>
+      <step>  Combine flour, baking powder, salt and xanthan gum in medium bowl.  Stir
+  in water, oil, honey, egg yolks, banana and nuts.  Beat egg whites in
+  medium bowl until stiff peaks form. Fold into batter.  Pour batter onto
+  hot oiled griddle or skillet; cook on both sides until golden brown.
+  
+  Each serving (2 pancakes) provides:
+  * 283 calories
+  * 6 g. protein
+  * 12 g. fat
+  * 40 g. carbohydrate
+  * 2 g. dietary fiber
+  * 55 mg. cholesterol
+  * 399 mg. sodium
+  
+  Source: Basic Rice Recipes for those with allergies
+  Reprinted with permission from USA Rice Council
+  Electronic format courtesy of Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/nogluten.zip
+ 
+</step></directions></recipe></recipeml>

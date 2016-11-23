@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apfelpfannkuchen (Apple Pancakes)</title>
+      <categories>
+        <cat>German</cat>
+        <cat>Fruits</cat>
+        <cat>Breakfast</cat>
+        <cat>Desserts</cat>
+        <cat>Cakes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; Unbleached, Unsifted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; Large, Beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple; Slices</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter Or Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Sift together the flour, 2 t sugar, and the salt. Beat eggs and milk
+  together.  Gradually add flour mixture; beat until smooth. Saute apples in
+  1/4 c of butter until tender. Mixt 2 T sugar and the cinnamon together;
+  toss with apples.  Melt 2 T butter in a 6-inch diameter, deep frypan. Pour
+  in the batter to a depth of about 1/4-inch. When set, place 1/4 of the
+  apples on top; cover with more batter.  Fry pancake until lightly browned
+  on both sides.  Keep warm. Repeat the procedure 3 times, until all batter
+  and apples are used. Serve immediately.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

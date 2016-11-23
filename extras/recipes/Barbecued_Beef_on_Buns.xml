@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Beef on Buns</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Sauces</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Prepared Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Hamburger Buns, Split</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Worcestershire Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Onion Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cooked Roast Beef *</item></ing></ingredients>
+    <directions>
+      <step>  *    Roast Beef should be thinly sliced and there should be 8 to 10 slices.
+  
+  Mix catsup, brown sugar, lemon juice, worcestershire sauce, mustard, onion
+  salt, and pepper in 2-cup glass measure.  Microwave uncovered on high
+  (100%) 1 1/2 minutes; stir.  Microwave to boiling, 1 to 2 minutes.
+  Layer half the beef slices and half the sauce in 1-Qt casserole; repeat.
+  Cover and microwave on high (100%) until hot and bubbly, 1 1/2 to 2 1/2
+  minutes.
+  Place bottom halves of buns on serving plate.  Top with beef and reamining
+  bun halves.  Microwave uncovered on high (100%) until buns are hot, 30
+  seconds to 1 minute.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/meats.zip
+ 
+</step></directions></recipe></recipeml>

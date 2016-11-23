@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>( Bread Mix )</title>
+      <categories>
+        <cat>Breadmaker</cat>
+        <cat>Mixes</cat>
+        <cat>Breads</cat>
+        <cat>Tested</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour; (5 lbs)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Instant nonfat dry milk.</item></ing></ingredients>
+    <directions>
+      <step>  I have my own homemade "best bread mix".  After the initial mixing which
+  only takes a few minutes, the rest is as easy as the store bought.
+  
+  Combine all ingredients in a large bowl. Stir together to distribute
+  evenly.  Put in a large airtight container. Label. Store in a cool, dry
+  place.  Use within 6 to 8 months. Makes about 22 cups of mix.
+  
+  Formatted by Elaine Radis BGMB90B; JUNE, 1993
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

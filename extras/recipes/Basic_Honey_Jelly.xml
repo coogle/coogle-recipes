@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Honey Jelly</title>
+      <categories>
+        <cat>Jams</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>cups</unit></amt>
+        <item>Liquid fruit pectin</item></ing></ingredients>
+    <directions>
+      <step>  Heat honey and water to boiling, stirring constantly. Add liquid fruit
+  pectin and bring back to boil. Allow to cool in jelly jars.
+  
+  Origin: Homemaking Booklet, Mormon Church, 1978. Shared by: Sharon Stevens
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

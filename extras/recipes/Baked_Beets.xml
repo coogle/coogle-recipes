@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Beets</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Beets; whole, unpeeled tops removed, washed</item></ing></ingredients>
+    <directions>
+      <step>   Place beets on a tray, in an oven at 350F degrees for
+  1 hour. Let cool slightly and slip off skins, mash and
+  serve with butter and/or sour cream. Sqeeze a bit of
+  lime onto them right before serving.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

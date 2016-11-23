@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Crisps</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Heirloom</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Melted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds (halved)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Mix brown sugar and melted butter.  Add rolled oats, coconut, almonds and
+  vanilla.  Stir.  Press into a greased 8 inch square pan. Bake at 350F for
+  20 minutes. Cut in small squares while warm, remove when cooled. Source:
+  Heritage Recipes ch.
+    Posted to MM-Recipes Digest V3 #264
+  
+    Date: Thu, 26 Sep 1996 17:57:33 -0400
+  
+    From: Cindy J Hartlin &lt;chartlin@total.net&gt;
+ 
+</step></directions></recipe></recipeml>

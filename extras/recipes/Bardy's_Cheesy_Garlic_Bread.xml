@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bardy's Cheesy Garlic Bread</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Wide loaf french bread</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Grated cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Grated mozzarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cheese wiz</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350. Cut bread into twelve slices. Combine 1/2 cup butter
+  with garlic. Spread on one side of bread slices. Puree remaining
+  ingredients in food processor till smooth. Spread mixture on buttered side
+  of bread. Place on greased cooky sheet and bake until toasted. Cut each
+  slice in half. Makes 24 slices.
+  Posted to EAT-L Digest  by Monica Boggs &lt;wiggles@SHELL.PLANETC.COM&gt; on Sep
+  4, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andouille and Chicken Kabobs with Creole Mustard Sauce</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit/></amt>
+          <item>Cherry tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Green pepper,; cut into 8 pieces</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Red onion,; cut into 8 pieces</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Boneless, skinless chicken breast,; cut into 12 pieces</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Andouille sausage link,; cut into 12 thick slices</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Emeril's Creole Spice to taste (recipe included)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Olive oil</item></ing></ing-div>
+      <ing-div>
+        <title>CREOLE MUSTARD SAUCE</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Creole mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chicken stock</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Heavy cream</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat grill to medium high or preheat broiler. Brush oil and season all
+  the ingredients. Now Skewer them up on 4 metal skewers. For each skewer
+  use, 2 tomatoes, 2 pieces peppers, 2 pieces of onion, 3 pieces of chicken,
+  3 pieces of andouille sausage. Now start the sauce. In a saucepan place
+  stock and mustard. Bring to a boil, reduce heat for 2 minutes or until
+  reduced to 1/2 cup. While that is reducing, place the skewers on the grill.
+  Cook for about 5 minutes on one side and then flip over and cook for about
+  another 5 minutes or until chicken is no longer pink inside. When the sauce
+  is reduced to 1/2 cup, add the cream. Bring to a boil, and reduce for
+  another 2 minutes. Now whisk in the butter. Season to taste with salt and
+  pepper and remove from the heat. Place kabobs on a serving platter and
+  drizzle sauce on top.
+  
+  Yield: 4 servings
+  Recipe By     :ESSENCE OF EMERIL SHOW #EE2210
+  
+  Posted to MC-Recipe Digest V1 #271
+  
+  Date: Thu, 31 Oct 1996 08:27:35 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angu De Milho - Corn Angu</title>
+      <categories>
+        <cat>Misc</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Place half of the water in a medium-size saucepan, add
+  the salt, and bring it to a boil over medium heat.
+  Slowly mix the cornmeal into the remaining water.
+  Gradually pour that mixture into the boiling water,
+  stirring constantly. Add the butter and continue to
+  stir constantly until the angu turns into a thick
+  porridge which will hold its shape. Pour the angu into
+  a well-buttered 6-cup mold. Let cool, then unmold.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

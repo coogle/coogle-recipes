@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce</title>
+      <categories>
+        <cat>Fruits/nuts</cat>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Gravenstein apples peeled, cored and cut into eighths</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Grated lemon peel</item></ing></ingredients>
+    <directions>
+      <step>  COMBINE APPLES AND WATER IN heavy-bottomed pan. Place over low heat and
+  cook, stirring occasionally. When apples begin to get tender, add sugar to
+  taste but be sparing until apples mash easily--that's when you can tell
+  just how sweet you want the applesauce. Add lemon juice and cook until
+  applesauce is ready to be mashed with fork. Remove from heat and add lemon
+  peel. Mash with tines of fork, leaving some coarse texture. Serve warm.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

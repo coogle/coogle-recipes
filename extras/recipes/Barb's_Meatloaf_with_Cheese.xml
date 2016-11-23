@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barb's Meatloaf with Cheese</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese; cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Celery seed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Bell pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread crumbs; dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  OVEN TEMP: 350 DEGREES MIX ALL INGREDIENTS TOGETHER. PLACE IN LOAF PAN.
+  BAKE FOR 1 HOUR 15 MIN. *I LIKE TO FORM THIS IN A BALL AND PLACE IT ON A
+  RACK TO COOK, SO THAT MOST OF THE FAT DRIPS AWAY FROM THE MEAT. THIS MEAT
+  LOAF MAKES GREAT SANDWICHES AND IS FLAVORFUL WHEN COLD.
+  Posted to MM-Recipes Digest  by "John Weber" &lt;hdbrer@ibm.net&gt; on Mar 22, 98
+ 
+</step></directions></recipe></recipeml>

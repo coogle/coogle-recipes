@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Dessert</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>(21-oz) apple pie filling</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pecans</item></ing></ingredients>
+    <directions>
+      <step>  Put apple pie filling in a large 13-inch pie dish. Pour the water on
+  apples. Sift the cake mix over the entire pie. Melt butter &amp; pour over all.
+  Cover with chopped pecans. Bake at 350 for 1 hour. (You may use any type
+  pie filling you wish &amp; substitute a white cake mix.) (Tester's note: I
+  added 1/2 cup brown sugar &amp; 2 teaspoons cinnamon on top of pie filling &amp;
+  served warm with ice cream.)
+  
+  ANNA MAE COOKE
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

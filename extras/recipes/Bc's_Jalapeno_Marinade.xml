@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bc's Jalapeno Marinade</title>
+      <categories>
+        <cat>Marinades</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Red Jalapeno jelly</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh thyme leaves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or 4 t dried thyme leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Olive or vegetable oil</item></ing></ingredients>
+    <directions>
+      <step>  Place jelly and thyme in microwavable 2-cup measure. Microwave uncovered on
+  High 45 to 60 seconds, stirring every 15 seconds, until jelly is melted; or
+  heat jelly and thyme in 1-quart saucepan over medium heat, stirring
+  constantly, until jelly is melted. Gradually stir in oil, stirring until
+  smooth.
+  
+  *Betty Crocker's Great Grilling
+  Posted to MM-Recipes Digest V4 #306 by Michael McLaughlin
+  &lt;mmclaughlin@micronet.net&gt; on Nov 25, 1997
+ 
+</step></directions></recipe></recipeml>

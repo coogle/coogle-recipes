@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ardshane House Irish Stew</title>
+      <categories>
+        <cat>Ethnic</cat>
+        <cat>Main dish</cat>
+        <cat>Cyberealm</cat>
+        <cat>Meats</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Middle neck of lamb, cut in</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>One inch chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Potatoes, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>small</unit></amt>
+        <item>Onions, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Pearl barley</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pints</unit></amt>
+        <item>Beef stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  "That's the basic recipe. You can add a load of sliced carrots and leeks
+  to make it go further and about 5-6 tsps. of Worchestershire sauce or
+  regular brown sauce wot you Yanks pour over everything!! If you like, you
+  could add a half a pint of Guinness to your stock. I make my stock from
+  the potato peelings, carrot tops, leek ends, and any other stuff I find
+  lurking in the refrigerator. If you chuck in a few moldy lamb bones and
+  boil/simmer for several hours, you should get a damned good stock (strain
+  the liquid or you'll get God knows what stuck in your teeth!!) You'll need
+  to start with about 5 pints of liquid. Then bung everything into a
+  ginormous pan, bring to the boil, and then simmer for about two
+  hours...should taste bloody orgasmic! Salt and pepper to taste, depending
+  on your level of drunkeness!!"
+  
+  From:  Judith Caughey, Ardshane House, Holywood, Co. Down, N. Ireland 1992
+  
+  Cyberealm Cookbook, Vol 1, 4/93, Cyberealm BBS, compiled by Linda Fields.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber1.zip
+ 
+</step></directions></recipe></recipeml>

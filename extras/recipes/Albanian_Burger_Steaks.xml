@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Albanian Burger Steaks</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat>
+        <cat>L.a. times</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Onion, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mint leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bread, soaked &amp; squeezed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced mint leaves</item></ing></ingredients>
+    <directions>
+      <step>       Times staff writer Rose Dosti's mother adapted Albanian flavor
+  preferences to American hamburger with these results.
+       Combine beef, garlic, egg, bread, onion, salt, pepper and mint. Shape
+  into 4 oblong patties and fry 8 to 10 minutes on each side in lightly
+  greased skillet. Serve on hot plates and garnish with additional mint
+  leaves, if desired.
+       Los Angeles Times
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/meats.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arizona Skillet Dinner</title>
+      <categories>
+        <cat>Veggie</cat>
+        <cat>Pasta</cat>
+        <cat>Main dish</cat>
+        <cat>Good</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Green pepper diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin seed, ground</item></ing>
+      <ing>
+        <amt>
+          <qty>32</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomatoes, canned</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Kidney beans, canned</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Macaroni, uncooked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Monterrey jack, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Corn, frozen</item></ing></ingredients>
+    <directions>
+      <step>  Chop the onion and green pepper. Drain and rinse the canned beans. Cook
+  macaroni per instructions and drain. In a large skillet heat oil over
+  medium high heat. Add onion, green pepper, garlic, chili powder, salt and
+  cumin; saute for about 4 minutes until vegetables are tender. Stir in the
+  tomatoes (undrained) breaking them with a spoon. Add kidney beans and corn
+  (already thawed); bring to a boil. Reduce heat to simmer and continue
+  cooking for 15 minutes stirring occasionally. Toss in cooked macaroni.
+  Sprinkle with the shredded cheese.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Babe's Pecan Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dark corn syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pecans; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pie shell; unbaked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; melted</item></ing></ingredients>
+    <directions>
+      <step>  Combine sugar and corn syrup in a small saucepan; bring to a boil. Beat
+  eggs at medium speed til blended. Gradually add hot sugar mixture to eggs,
+  beating constantly. Stir in butter, vanilla and pecans. Pour mixture into
+  pie shell; bake at 350 for 40 min.
+  
+  Recipe by: Babe Shelby Posted to MC-Recipe Digest V1 #681 by Margaret
+  Garland &lt;cookee@lancnews.infi.net&gt; on Jul 20, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bechamel Sauce</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, sweet</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour, unbleached</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nutmeg</item></ing></ingredients>
+    <directions>
+      <step>     Melt butter in a heavy saucepan. Sprinkle in the flour and cook gently,
+  stirring almost constantly, for 5 mniutes. Do not let the flour and butter
+  brown at all.
+     Meanwhile, bring the milk to a boil. When milk reaches a boil, remove
+  butter and flour mixture from the heat and pour in the boiling milk all a
+  once. As the mixture boils and bubbles, beat it vigerously with a wire
+  whisk.
+     When the bubbling stops, return the pan to medium heat and bring the
+  b‚chamel to a boil, stirring constantly for 5 minutes. Season to taste with
+  salt, pepper and nutmeg. Use at once or scrape into a bowl, cover, and
+  refrigerate until use. 2 Cups Thick Sauce.
+     For 2 cups Medium Sauce, use 3 Tb butter and 4 Tb flour.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

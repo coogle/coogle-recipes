@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alaska Seafood Pizza</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Easy</cat>
+        <cat>Kids</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Pizza crust mix (or make your own)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Crab meat</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Tiny shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Crushed pineapple</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Mushrooms; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4 1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned sliced black olives</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Diced green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mozzarella cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>White cheddar cheese grated</item></ing></ingredients>
+    <directions>
+      <step>  Spread pizza dough on to a pizza pan. Top with crab, shrimp, pineapple,
+  mushrooms, olives, green pepper, mozzarella and cheddar cheese. Bake at 350
+  degrees F. for 30 minutes.
+  
+  Trinity, Haines, Alaska
+  
+  Source: Alaska Seafood Cookbook Reprinted by permission from the Alaska
+  Seafood Marketing Institute Meal-Master compatible recipe format courtesy
+  of Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

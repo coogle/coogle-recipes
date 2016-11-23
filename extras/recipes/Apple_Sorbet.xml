@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Sorbet</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Freezer</cat>
+        <cat>Apples</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Granny Smith Apples; peeled cored and pureed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Applejack</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  Combine sugar and water in saucepan over med. high heat and stir til sugar
+  is dissolved. Just before syrup comes to boil, remove from heat. Cool and
+  chill. Add syrup to remaining ingred. and blend well. Finish in either ice
+  cream maker or freezer.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

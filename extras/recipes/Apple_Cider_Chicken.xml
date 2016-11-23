@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cider Chicken</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Thinly sliced red onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chopped fresh thyme leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Granny smith apple, peeled,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cored, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple cider</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Whole chicken breasts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>1/2 &amp; 1/2</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced parsley</item></ing></ingredients>
+    <directions>
+      <step>  In 12" nonstick skillet, melt 3 Tbls. butter. Add onion &amp; thyme; over
+  medium-low heat, saute 12-15 minutes, until onion is soft &amp; begins to
+  brown. Stir in apple &amp; cider; over med heat, saute 8 minutes, until
+  apple is soft. Remove from skillet; keep warm. On waxed paper, coat
+  chicken with flour. In skillet, melt remaining 1 Tbls. butter; over
+  med heat, cook chicken 4 to 5 minutes each side. Remove to platter;
+  keep warm. To pan, add apple mixture, half &amp; half, salt &amp; pepper;
+  when hot, spoon over chicken. Sprinkle with parsley.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

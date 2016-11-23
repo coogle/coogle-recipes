@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Nice Drink</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Lowfat soymilk or ricemilk; (fatfree if you live in the US)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Real cranberry juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sweeten with maple syrup to taste; (omit if using sweetened cranberry cocktail).</item></ing></ingredients>
+    <directions>
+      <step>  In my mad rush to finish up everything in my refrigerator before Passover,
+  I came up with the following in lieu of orange juice this morning:
+  
+  Lots of vitamin C there, and it just hit the spot.
+  
+  Posted to fatfree digest by Hadass Eviatar &lt;eviatar@ibd.nrc.ca&gt; on Apr 7,
+  1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Rice Pilaf</title>
+      <categories>
+        <cat>Crs</cat>
+        <cat>Totest</cat>
+        <cat>Post</cat>
+        <cat>Lowfat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Hot cooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced green onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sliced almonds, toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Low sodium soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Mix.
+  
+  Per 1 cup serving: 222 cal., 4.8g pro., 2.3g (9%) fat, 44.1g carb., 1.4g
+  fiber, 0mg chol., 2.2mg iron, 185mg sodium, 47mg calcium.
+  
+  Cooking Light 9-95
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

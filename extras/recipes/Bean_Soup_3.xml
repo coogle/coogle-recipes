@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Soup</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>(8oz) dried kidney beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Veggie broth</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Cu diced carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Diced celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Claret dry red wine</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Thin slices lemon for garnish</item></ing></ingredients>
+    <directions>
+      <step>  Soak beans overnight. Cook until tender about 1-1/2 hours or 20 minutes in
+  the quart of water, in a pressure cooker. Puree. Saute onions, garlic,
+  carrots, and celery until tender. Add beans and their liquid, marjoram,
+  salt &amp; pepper, and wine. Bring to a boil, then simmer for 5 minutes.
+  Garnish with the lemon slices. Serves 4 to 6.
+  
+  Posted to fatfree digest V97 #268 by JBennicoff@aol.com on Nov 17, 1997
+ 
+</step></directions></recipe></recipeml>

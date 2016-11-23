@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Fish Curry</title>
+      <categories>
+        <cat>Goanese</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pomfret or other white fish, cleaned and cut into steaks.</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Coconut, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cummin seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Marble sized ball of tamarind mixed in:</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water or equivalent of 'instant' e.g Tamcon</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Green chillies, slit lengthways</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>1-inch piece ginger, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Dry red chillies</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>1-inch piece turmeric -or-</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Raw mango, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing></ingredients>
+    <directions>
+      <step>  Sprinkle lemon juice and salt onto fish and marinade for an hour or so.
+  Grind the coconut, dry chillies, cummin seeds and garlic together.  Mix the
+  onion, ginger and green chillis and mash with the turmeric.  Add the
+  chopped mango. Add the ground masala and 1 cup of water. Simmer slowly for
+  10 minutes. Add fish and cook slowly until the fish is done. Serve with
+  plain boiled rice.
+  From archives of rec.food.recipes
+  
+  Date: Tue, 31 Jan 1995 08:20:10 GMT
+  
+  From: trev@wg.icl.co.uk (Trevor Hall)
+ 
+</step></directions></recipe></recipeml>

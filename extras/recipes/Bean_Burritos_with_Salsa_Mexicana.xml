@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Burritos with Salsa Mexicana</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Vegetarian</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit/></amt>
+          <item>Flour tortillas</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Dried pinto beans</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>medium</unit></amt>
+          <item>Onions; diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Salt (optional)</item></ing></ing-div>
+      <ing-div>
+        <title>SALSA MEXICANA</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>medium</unit></amt>
+          <item>Ripe tomatoes; diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Diced jalapeno peppers</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>medium</unit></amt>
+          <item>Onion; diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chopped fresh coriander (cilantro)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Green onion; chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Wash and drain the beans.  In a large pot bring the beans, water, onions,
+  and salt to a boil.  Lower the heat, cover, and simmer, adding more water
+  if necessary, until the beans are tender and will mash easily
+  (approximately 3 hours).
+  
+  Blend the ingredients for the salsa in a small bowl. Set aside.
+  
+  Drain and mash the beans with a potato masher or electric mixer.
+  
+  Preheat oven to 350 degrees.  Wrap the tortillas in foil and heat in oven
+  for 8 to 10 minutes.  Spoon some of the bean mixture onto each tortilla,
+  top with green onions and salsa, and roll into a burrito.
+  
+  Makes 10 burritos and 1-1/2 cups salsa.
+  
+  * Source: The Compassionate Cook - by Ingrid Newkirk and PETA * Typed for
+  you by Karen Mintzias
+ 
+</step></directions></recipe></recipeml>

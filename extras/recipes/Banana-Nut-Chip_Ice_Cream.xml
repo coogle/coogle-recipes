@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Nut-Chip Ice Cream</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Overripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk; chilled</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream; chilled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chocolate chips</item></ing></ingredients>
+    <directions>
+      <step>  From: Sandal@aol.com
+  
+  Date: Tue, 19 Sep 1995 20:41:56 -0400
+  I just made this and it's quite good. It's inspired by Ben &amp; Jerry's Chunky
+  Monkey, one of my favorite flavors, but the recipe is my own adaptation
+  after looking at banana ice cream recipes in several cookbooks. Let me know
+  what you think, sp that I can possibly refine it further.
+  
+  Peel the bananas and cut into chunks. Puree in blender with the lemon
+  juice. Add vanilla and sugar and blend until smooth. Add milk and blend
+  again, briefly. Add cream, blend thoroughly.
+  
+  Churn in ice-cream machine according to manufacturer's instructions. A few
+  minutes before finished, add nuts and chocolate chips; continue churning.
+  Makes 1 generous quart.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /DESSERTS
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

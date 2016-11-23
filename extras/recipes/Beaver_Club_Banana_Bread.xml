@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beaver Club Banana Bread</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Very ripe (read black) bananas (3 medium or 2 large)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Backing soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sifted all-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; lightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooking oil</item></ing></ingredients>
+    <directions>
+      <step>  Peel very dark skinned bananas and mash thoroughly.  Mix in sugar combined
+  with baking soda and salt.
+  
+  Add a the flour and eggs, alternating between the two, mixing well after
+  each addition.  Then mix in the buttermilk and oil.
+  
+  Turn into two well greased 8" x 4" loaf pans.  Let stand for 25 minutes.
+  Bake in a very slow over, 250 degrees, for about 2 hours.  Cool before
+  turning from pan.
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

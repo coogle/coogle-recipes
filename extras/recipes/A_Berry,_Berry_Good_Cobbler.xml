@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Berry, Berry Good Cobbler</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Mix together above ingredients. Pour six cups fruit, fresh or frozen, in a
+  9x9-inch baking pan. Sweeten the fruit to taste with sugar. Pour mixture
+  over fruit. Sprinkle lightly with a mixture of sugar and cinnamon. Bake at
+  350 degrees 45-50 minutes, or until the topping is cooked through. I have
+  used frozen blueberries, blackberries, and mixed fruits. Thinly sliced
+  apples would be good. Tonight's flavor will be peaches from our tree. My
+  favorite? Apricots, of course. Enjoy.
+  
+  Posted to KitMailbox Digest  by ChefAlice@aol.com on Sep 12, 1997
+ 
+</step></directions></recipe></recipeml>

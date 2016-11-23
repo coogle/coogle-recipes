@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke and Cheese Squares</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Cheese</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>6oz jars </item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion -- minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic -- minced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fine bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Each pepper, oregano,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tabasco sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Shredded cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced parsely</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Marinated artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped</item></ing></ingredients>
+    <directions>
+      <step>  Drain marinade from i jar of artichokes into a frying pan. Drain other jar
+  (do not use marinade) chop artichokes and set aside. Add onion and garlic
+  to frying pan and saute' until onions are clear, about five minutes. in a
+  bowl beat eggs with fork. Add bread crumbs, salt, pepper oregano and
+  tabasco. Stir in cheese, parsely, artichokes and sauted onion mixture. Turn
+  into greased 7"x11" baking pan. bake 325x for 30 minutes or until set in
+  center. Let cool in pan. Cut into 1" squares. Serve cool or reheat in pan
+  at 325x for 10 minutes. Garnish with parsely.
+  
+  Recipe By     : Umamagi30
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

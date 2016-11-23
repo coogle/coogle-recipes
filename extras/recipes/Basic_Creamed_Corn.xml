@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Creamed Corn</title>
+      <categories>
+        <cat>Corn</cat>
+        <cat>Starters</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Warmed lowfat milk, whole milk or light cream</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh corn kernels, cut from about 5 ears of corn</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>White pepper to taste</item></ing></ing-div>
+      <ing-div>
+        <title>ADD FOR VARIETY</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chopped chives</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Julienne red pepper strips</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Julienne green pepper strips</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Shredded carrot</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sauteed button mushrooms</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>pinches</unit></amt>
+          <item>Curry powder</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Crumbled bacon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Melt butter, stir in flour. Add milk slowly, stirring with whisk until
+  completely blended, thickened and gently bubbling. Add kernels and
+  simmer about 3 minutes. Season with salt and white pepper.
+  
+  Leftover Creamed Corn; pureed in blender or food processor, makes a
+  quick sauce for shrimp, scallops or crab. Mix cooked seafood into
+  corn sauce, simmer gently and spoon over a toasted English muffin.
+  
+  Although any variety of fresh corn will do, white, thin-skinned
+  kernels make a superb creamed vegetable dish.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

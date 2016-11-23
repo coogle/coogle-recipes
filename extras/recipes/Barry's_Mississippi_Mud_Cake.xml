@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barry's Mississippi Mud Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Chocolate</cat>
+        <cat>Dance</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Sq. Unsweetened Chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1 7/8</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Instant Pudding (choc Fudge)</item></ing></ingredients>
+    <directions>
+      <step>  Preheat Oven to 275 Degrees F.
+  
+  Melt Chocolate in milk. Pour over Butter. Add Sugar, Stir. Add next 6
+  ingredients, mix with beater until smooth. Pour into well greased Tube Pan.
+  Bake 1 to 1 1/4 hours (test with toothpick). Let cool.
+  
+  Can be topped with Confectioners sugar for decorative touch, but this cake
+  is so rich and moist it requires no frosting.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

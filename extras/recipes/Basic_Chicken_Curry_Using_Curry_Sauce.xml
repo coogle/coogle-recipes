@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Chicken Curry Using Curry Sauce</title>
+      <categories>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pints</unit></amt>
+        <item>Curry sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pinch chilli powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cooked chicken prev recipe</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Level garamasala</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Level ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pinch ground fenugreek</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Tomato thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh chopped corriander</item></ing></ingredients>
+    <directions>
+      <step>  This dish uses the basic curry sauce plus the chicken cooked in the
+  previous recipe.
+  
+  Heat the oil in a large deep frying pan and add the curry sauce bringing to
+  the boil.
+  
+  Add the salt, chilli powder and chicken and cook for about 5 minutes.
+  
+  Turn down the heat and stir in the garam masala, cumin and fenugreek.
+  Simmer for 2-3 minutes.
+  
+  Skim off excess oil  and serve sprinkled with corriander.
+  Posted to MM-Recipes Digest V4 #257 by msleukie@mindspring.com on Sep 29,
+  1997
+ 
+</step></directions></recipe></recipeml>

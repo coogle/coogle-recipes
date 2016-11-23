@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Dip</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green pepper; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>clove</unit></amt>
+        <item>Garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Jalapeno pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Beans; (canned pink),</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Black olives; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cilantro; frsh-chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  In small skillet, heat oil over medium heat; add green pepper, onion,
+  garlic and jalapeno pepper (seeded and minced), and saute until vegies are
+  softened, 1-2 min. Add beans and cook, stirring frequently, until beans are
+  thoroughly heated, 2-3 min. Transfer to small mixing bowl; add remaining
+  ingredients and mix well. Transfer to serving dish; cover with plastic wrap
+  and refrigerate until flavors are blended and mixture is well chilled, at
+  least 30 min. 97 calories/serving
+ 
+</step></directions></recipe></recipeml>

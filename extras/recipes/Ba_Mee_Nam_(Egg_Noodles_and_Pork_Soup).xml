@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ba Mee Nam (Egg Noodles and Pork Soup)</title>
+      <categories>
+        <cat>Thailand</cat>
+        <cat>Soups/stews</cat>
+        <cat>Pastas</cat>
+        <cat>Ham/pork</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bean sprouts</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Egg noodles, fresh (Ba Mee)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Garlic cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ground pork</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dried shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fish sauce (Nam Pla)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Lettuce leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>slices</unit></amt>
+        <item>Pork, cooked, 1-1/2" X 3"</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green onions, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Corriander leaves, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar, granulated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Peanuts, roasted &amp; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dried red chile flakes</item></ing></ingredients>
+    <directions>
+      <step>  Blanch the bean sprouts for a minute, then set them aside to drain.  Boil
+  the noodles in plenty of water for five minutes, then drain them. Next,
+  cook the ground pork in a saucepan over medium heat until it begins to
+  brown.  Add chicken stock, dried shrimp and fish sauce, stir, and bring the
+  mixture to boil. Meanwhile, chop the garlic and fry it in a tablespoon of
+  vegetable oil until it is crisp. Place the blanched bean sprouts in the
+  bottom of a large serving bowl. Top with the cooked noodles. Pour the fried
+  garlic and its oil over top of the noodles. When the chicken stock mixture
+  boils, tear the lettuce leaves into strips, add them to the stock,
+  immediately remove the stock mixture from the stove, and pour it over the
+  noodles and bean sprouts. Garnish with pork slices, green onions and
+  corriander leaves.  Sprinkle in the sugar, peanuts and chile flakes and
+  serve immediately.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

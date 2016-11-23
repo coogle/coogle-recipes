@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pasta Dough</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Pasta</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Sifted flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Very cold water</item></ing></ingredients>
+    <directions>
+      <step>  In a large bowl mix the flour and salt. Make a well in center of flour. Add
+  eggs, one at a time, mixing slightly after each addition. Add gradually the
+  water and oil. Mix well to make a stiff dough. Turn dough onto a lightly
+  floured surface and knead for 3 to 5 minutes until smooth and elastic.
+  Divide dough into fourths. Lightly roll each portion 1/8" thick and cut
+  lengthwise into 5" wide strips. Use the strips immediately, do not allow to
+  dry. Place 2 teaspoons of whatever filling you are using 1 1/2 " from the
+  narrow end and in the center of the strip. Continue along the strip,
+  placing the filling at 3" intervals. Fold the strip in half lengthwise,
+  covering the mounds of filling. To seal, press the edges together with the
+  tines of a fork. Press gently between the mounds to form rectangles 3"
+  long. Cut apart with a pastry cutter and press the cut edges with the tines
+  of a fork to seal. Let the ravioli dry for about 2 hrs. Then in a large
+  saucepan bring to a boil: 7 quarts water with 2 Tb salt. Gradually add the
+  ravioli. Boil rapidly, uncovered, about 10 min or until tender. Remove with
+  a slotted spoon and drain. Place on a warm platter and top with a sauce.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

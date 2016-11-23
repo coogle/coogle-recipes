@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon 'n Cheddar Beer Soup</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Carnation</cat></categories>
+      <yield>33</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Onions; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Potatoes; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Carrots; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Celery; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Chef-Mate Bacon 'n Cheddar Cheese Sauce (#10 can)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Mixed Vegetables; frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Liquid Smoke flavor</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley; chopped</item></ing></ingredients>
+    <directions>
+      <step>  1.  Place vegetable oil in large stockpot. Add onios, potatoes, carrots and
+  celery; saute 25-30 minutes or until vegetables are cooked. 2. Add
+  remaining ingredients. Combine thoroughly. Simmer 20 minutes over low heat,
+  stirring occasionally. Serve hot.
+  
+  Makes 25 one cup servings.
+  
+  Source: Carnation Company
+  
+   -- ------- Recipe via Meal-Master (tm) v7.01
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

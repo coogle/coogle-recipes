@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Candy Popcorn</title>
+      <categories>
+        <cat>Snacks</cat>
+        <cat>Popcorn</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/8</qty>
+          <unit>cups</unit></amt>
+        <item>White corn syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil of peppermint *</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>drops</unit></amt>
+        <item>Food coloring</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Popcorn; popped</item></ing></ingredients>
+    <directions>
+      <step>  In a heavy saucepan put the water, sugar, corn syrup and butter. Cook over
+  a moderate heat to 280~ on a candy thermomter. Add the oil and the food
+  coloring.
+  
+  Stir well and pour over the popped corn.
+  
+  * You can use concentrated flavorings in place of the oil of peppermint
+  Posted to recipelu-digest Volume 01 Number 652 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 31, 1998
+ 
+</step></directions></recipe></recipeml>

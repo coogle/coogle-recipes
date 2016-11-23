@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Kuchen</title>
+      <categories>
+        <cat>Breakfast</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bisquick® baking mix</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg Filling---</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(8 oz) Philadelphia Cream Cheese, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Peeled apples; thinly sliced Topping---</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Combine Bisquick, milk, sugar, oil and egg; mix well. Pour into greased and
+  floured 13x9-inch baking pan. Filling: Combine softened cream cheese,
+  sugar, egg and vanilla, mixing until well blended. Spread cream cheese
+  mixture over batter; top with apples. Combine sugar and cinnamon; sprinkle
+  over apples. Bake at 350°F, 35 to 40 minutes.
+  
+  Recipe by: The Philadelphia Brand Cream Cheese Cookbook
+  
+  Posted to MC-Recipe Digest V1 #774 by Crane Walden &lt;cranew@foothill.net&gt; on
+  Sep 7, 1997
+ 
+</step></directions></recipe></recipeml>

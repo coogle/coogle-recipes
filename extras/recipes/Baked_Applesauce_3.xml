@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Applesauce</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Tart apples; peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>Taste</qty>
+          <unit>of</unit></amt>
+        <item>Home LowFat Country Cooking</item></ing></ingredients>
+    <directions>
+      <step>  Place apples in a 1 quart baking dish coated with nonstick cooking spray.
+  In a small bowl, combine suar, cinnamon, and vanilla; mix well. Sprinkle
+  over apples. Cover and bake at 350 degrees for 40-45 minutes or until
+  apples are tender. Uncover and mash with a fork. Serve warm. 2 servings.
+      194    cal 1 gm fat.
+  
+  Posted to recipelu-digest Volume 01 Number 411 by "lbrandau"
+  &lt;lbrandau@intrnet.net&gt; on Dec 28, 1997
+ 
+</step></directions></recipe></recipeml>

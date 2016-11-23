@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Muffins</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Quickbreads</cat>
+        <cat>Breads/bm</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apricots; finely snipped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Unsweetened apple juice;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whole wheat flour;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cardamom or ginger;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts;</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg;</item></ing></ingredients>
+    <directions>
+      <step>  Soak the apricots in the apple juice for 10 minutes.  Combine the
+  flour, baking powder, baking soda, spice and walnuts in a bowl.  Beat
+  together the oil, sugar, and egg.  Add the apricots, with the juice
+  and egg mixture to the flour.
+  
+  Mix just until all the ingredients are blended.  Spoon into oiled
+  muffin tins or (my choice) paper muffin cups (sprayed with non-stick
+  spray). Fill cups 3/4 full.  Bake in 350 F oven for 10 to 15 minutes,
+  or until golden brown.
+  
+  1 muffin - 182 calories, 1 bread exchange, 1/2 fruit, 2 fat 22 grams
+  carbohydrate, 4 grams protein, 10 grams fat 97 mg sodium, 166 mg
+  potassium, 34 mg cholesterol
+  
+  Source:  Am. Diabetes Assoc. Holiday Cookbook by Betty Wedman, 1986
+  Shared but not yet tested by Elizabeth Rodier, Nov 93.
+  
+  Suggestions:  Use raisins to test the recipe if you do not have
+  apricots. Leave out walnuts to reduce the fat and use 2 egg whites
+  instead of the whole egg to reduce cholesterol if desired.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

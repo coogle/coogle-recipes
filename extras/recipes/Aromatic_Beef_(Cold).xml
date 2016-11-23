@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aromatic Beef (Cold)</title>
+      <categories>
+        <cat>Loo</cat>
+        <cat>Chinese</cat>
+        <cat>Beef</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef bottom round, fat trimmed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Dry sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Garlic cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ginger slices</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Scallions, in 1" lengths</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cinnamon stick</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Star anise star</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Basil sprigs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water to cover</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sesame oil</item></ing></ingredients>
+    <directions>
+      <step>  Wash meat and pat dry. Brown quickly on all sides in a little oil.
+  Combine next 9 ingredients in a large kettle. Bring to a boil. Add
+  meat and water to cover. Lower heat and let simmer at lowest heat for
+  2 hrs. Off heat, let steep for 1 hr. Remove beef, chill, and slice
+  thin.
+  
+  Strain and defat liquid. Soften gelatin in water; add to liquid in a
+  fresh pot. Bring to a boil and reduce to 2 - 2 1/2 c. Let cool.
+  Arrange beef in a serving bowl or dish or mold that has been oiled
+  with a dash of sesame oil. Pour cooled liquid over. Chill in fridge.
+  
+  To serve: unmold on a bed of greens.
+  
+  From:    Michael Loo
+  
+  Recipes posted to FIDO COOKING echo by Mike Loo, an excellent cook, between
+  Dec 1, 1944 and Jul 31, 1995. Many are authentic Chinese recipes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mikeloo.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Batter Fried Chicken</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(12 oz) beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cut up fryers</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for frying</item></ing></ingredients>
+    <directions>
+      <step>  Pour beer in bowl. Sift flour, salt, pepper &amp; paprika into beer, stir
+  with wire whisk or with beaters until light &amp; frothy &amp; smooth. Let
+  stand at room temp for 15 minutes to 2 hours, whisking occasionally
+  to keep batter mixed. Put enough fat in large deep pan to the height
+  of 1". Heat oven to 375. Dip chicken into batter. Drop chicken into
+  hot fat, a few pieces at a time; they must not touch each other. Cook
+  15 minutes, turn, cook 15 minutes. Drain. Keep warm on platter in low
+  oven (200) until all chicken is ready.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

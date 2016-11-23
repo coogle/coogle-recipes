@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Rice Burgers</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Vegan</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cooked brown rice</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cooked beans -- pink, kidney, navy,</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Wheat flour (or white)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Margarine or butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Onion -- diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic -- mashed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Spike or seasoning salt</item></ing></ing-div>
+      <ing-div>
+        <title>OPTIONAL</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cooked mashed potatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cornmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Bran</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cracked wheat</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Pepper -- diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Grated carrot</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat greased (I use cooking spray) grill or electric frypan on med heat.
+  ***Or, you can grease a 13"x9" glass baking pan and bake at 350* for 30
+  Min. Just spread mix in pan and cook uncovered. Use a pancake turner to cut
+  and remove cooked 'burger'.*** Mash beans. Add all ingredients and mix
+  well. (If you use all of the ingredients listed your mix may be a bit dry.
+  You might want to add a 1/4 to 1/2 cup of soy, nut, or rice milk. Of coarse
+  you also could use whole milk. Be sure you don't thin it too much or it
+  will be mushy. Look for a 'hamburger' consistency.) Spoon about 2 heaping
+  Tablespoons of mix onto grill or frypan for each burger and flatten with
+  greased pancake turner. Turn several times rather than just once on each
+  side like conventional burgers, they have a better texture that way.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

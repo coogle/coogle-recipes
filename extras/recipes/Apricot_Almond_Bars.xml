@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Almond Bars</title>
+      <categories>
+        <cat>Loo</cat>
+        <cat>Cookies</cat>
+        <cat>Nuts</cat></categories>
+      <yield>60 - 72</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Blanched almonds, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apricot jam</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Bittersweet chocolate</item></ing></ingredients>
+    <directions>
+      <step>  Combine first 6 ingredients. Cook over low heat or in double boiler to
+  110F. Set aside.
+  
+  Preheat oven to 350F. Line a jelly roll pan with foil. Combine flour
+  and sugar. Cut in butter. Add egg yolks. Mix until smooth. Press into
+  pan and prick with fork. Bake 15 min and then spread almond mixture
+  over. Return to oven and bake 20 min more.
+  
+  Melt jam with water. Strain. Brush over almond mixture as soon as pan
+  leaves the oven. Cool pan on rack. Cut into 2" (approx.) squares. Melt
+  chocolate and drizzle over cookies.
+  
+  Carolyn Rosen, Nashville TN 2nd prize, Old Farmer's Almanac 1989
+  Holiday Cookie Recipe Contest
+  
+  From:    Michael Loo
+  
+  Recipes posted to FIDO COOKING echo by Mike Loo, an excellent cook, between
+  Dec 1, 1944 and Jul 31, 1995. Many are authentic Chinese recipes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mikeloo.zip
+ 
+</step></directions></recipe></recipeml>

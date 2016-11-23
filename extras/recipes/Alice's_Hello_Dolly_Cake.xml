@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alice's Hello Dolly Cake</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick Butter; Melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Graham Cracker Crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Semisweet Chocolate Chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Coconut; Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pecans; Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Sweetened condensed milk; For Topping</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in square loaf pan. Add other ingredients in layers in the
+  order given. Pour the sweetened condensed milk on top and place in a 350
+  degree oven for 30 minutes.
+  Posted to TNT Recipes Digest by Angie Phillips &lt;nbe@flash.net&gt; on Mar 24,
+  1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Rolls</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(15-oz) asparagus; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>slices</unit></amt>
+        <item>Sandwich bread; crusts trimmed off</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Grated cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing></ingredients>
+    <directions>
+      <step>  Mix cheeses with mayonnaise, Worcestershire sauce and seasonings. Spread on
+  bread then place one asparagus spear on each slice of bread. Roll up. Melt
+  the butter and brush bread rolls. Place in a pan and bake at 400 degrees
+  for 15 minutes. Makes 20. Freeze if desired.
+  
+  From a collection of my mother's (Judy Hosey) recipe box which contained
+  lots of her favorite recipes, clippings, etc.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

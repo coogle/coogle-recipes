@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Nut Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooking oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Apples; diced and peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pecans; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Mix oil, sugar, eggs and vanilla until creamy. Beat in flour, salt and
+  baking soda. Fold in apples and pecans. Place batter in 13 X 9 inch pan.
+  Bake at 350  for 1 hour.
+  Posted to MC-Recipe Digest V1 #194
+  
+  Date: Sun, 11 Aug 1996 18:00:29 -0500
+  
+  From: Jackie Bordelon &lt;jbord@premier.net&gt;
+  NOTES : Festival: Louisiana Nursery Festival; March 17-19, 1995=20
+       Contact: Clyde Holloway
+       Address: P.O. Box 339, Forest Hill, LA 71430
+       Phone: 318-748-6803
+ 
+</step></directions></recipe></recipeml>

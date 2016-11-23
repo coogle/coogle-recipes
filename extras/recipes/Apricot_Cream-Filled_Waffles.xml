@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Cream-Filled Waffles</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(3-oz) cream cheese; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Canned apricot halves; drained and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Frozen waffles; toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Hungry Jack Microwave Ready Regular Syrup (from 1lb 8oz container)</item></ing></ingredients>
+    <directions>
+      <step>   In small bowl, combine cream cheese and honey; blend well. Stir in
+  apricots. Spoon and spread apricot mixture onto 4 waffles. Top with
+  remaining waffles. Serve with syrup.
+  
+  CALORIES: 380     SODIUM: 630MG
+  
+  CHOLESTEROL: 40MG    FAT: 13G
+  
+  CARBOHYDRATE: 60G    SAT:  6G
+  
+  From &lt;Meals In Minutes&gt;, a Pillsbury Classic Cookbook.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

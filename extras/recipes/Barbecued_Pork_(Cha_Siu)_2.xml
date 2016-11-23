@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Pork (Cha Siu)</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Pork</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Lean Pork butt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dash of pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thin soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Roasting salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oyster Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Hoisin sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water (for roasting)</item></ing></ingredients>
+    <directions>
+      <step>  1. Cut meat into pieces approximately 5" x 2"x 1"
+  
+  2. Sprinkle meat with each of the remaining ingredients, except water, mix
+  well, and marinate over night (or for at least 5 hours) in the
+  refrigerator.
+  
+  3. Pre-heat oven at 375 degrees.
+  
+  4. In a roasting pan add 1 cup water.  Place rack on top. Place pork on
+  rack and roast for 1/2 hour on each side. Total cooking time 1 hour. Baste
+  3 or 4 times. Do not cover.
+  
+  NOTE: Barbecued pork can be frozen for 3 months or refrigerated for 1 week.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Coffee</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Alcohol</cat>
+        <cat>New (to be</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Warm Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Amaretto</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Instant Coffee Crystals</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dessert Topping -- * see</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Note</item></ing></ingredients>
+    <directions>
+      <step>  *    Dessert topping should be in a pressurized can.
+  
+  In a nonmetal mug stir together water and instant coffee crystals.
+  Micro-cook, uncovered, on 100% power about 1 1/2 minutes or just till
+  mixture is steaming hot. Stir in Amaretto.
+  
+  Top with pressurized dessert topping.
+  
+  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

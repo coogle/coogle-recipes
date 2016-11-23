@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Citrus Swordfish</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat>
+        <cat>Fruits</cat>
+        <cat>Tex-mex</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Citrus Barbecue Sauce; *</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Swordfish steaks; **</item></ing></ingredients>
+    <directions>
+      <step>  *    See Sowest 2 for recipe.
+  **   You can use swordfish or salmon steaks but each should be about
+       1-inch thick and weigh about 5 ounces each.
+  
+  Prepare Citrus Barbecue Sauce and set aside.  Heat oven to 450 degrees F.
+  Place fish steaks in an ungreased rectangular baking dish, 13 X 9 X
+  2-inches.  Pour 1 cup of the sauce over the fish.  Bake, uncovered, until
+  the fish flakes easily with a fork, 20 to 25 minutes.  Serve with
+  remaining Citrus Barbecue Sauce.
+  
+  Mostly from Better Homes &amp; Garden's "Mexican Cookbook".
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sowest7.zip
+ 
+</step></directions></recipe></recipeml>

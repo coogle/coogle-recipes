@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Betty #2</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Apples; peeled, pared and sliced (I usually use granny smiths)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  From: Stephanie Elzer &lt;elzer@cis.udel.edu&gt;
+  
+  Date: 21 Oct 1994 13:14:40 -0400
+  
+  Preheat oven to 375 degrees.  Grease or butter square casserole dish. Place
+  apples in casserole dish and sprinkle with orange juice.  Mix together the
+  sugar, flour, cinnamon, nutmeg and butter until crumbly.  Do not over
+  process. Sprinkle this topping mixture over the apples. Bake for
+  approximately 45 minutes, or until apples are tender. The quantities listed
+  above tend to make quite a bit of the topping, you may want to cut back
+  although we never do, since the topping is our favorite part!
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /DESSERTS
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

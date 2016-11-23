@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baileys Irish Cream Cake 2</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BAILEYS YELLOW CAKE</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Plus</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Baileys</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla extract</item></ing></ing-div>
+      <ing-div>
+        <title>BAILEYS SWIRL</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Cream cheese (8 oz.), softened (200 grams is OK although it's 7 oz.)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Powdered sugar (= 457 grams, approx. 9/10 of 500 grams)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Baileys</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>White chocolate chips (or 2 1/2 large white chocolate bars (250 grams), cut up into small chunks)</item></ing></ing-div>
+      <ing-div>
+        <title>BAILEYS GLAZE</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Baileys (up to 1-1/2)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Powdered sugar (up to 2)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Sources: McCalls cookbook and Baileys Irish Cream Bars posted to
+  jewish-food list by B. Leass
+  
+  Baileys Yellow Cake: (Favorite One-Egg Cake recipe from McCalls cookbook,
+  with Baileys substituted for some of the liquid)
+  
+  1. Preheat oven to 350 degrees Fahrenheit. Grease and flour a 13 x 9 x 2
+  inch baking pan, and a 6 x 9 x 2 inch pan, or whatever combination of pans
+  that will hold 1 1/2 times the amount that a 13 x 9 x 2 pan holds.
+  
+  2. Mix the flour with the salt and baking powder. Mix the Baileys with the
+  milk.
+  
+  3. Using electric mixer, cream the shortening with the sugar. Add the egg
+  and vanilla, and beat well. Add the flour mixture, alternately with the
+  Baileys and milk mixture. Beat for 2 minutes.
+  
+  4. Pour half of the cake batter into the prepared pans, then drop large
+  spoonfuls of the Baileys Swirl (recipe below) into the pans alternately
+  with large spoonfuls of the cake batter. Swirl with knife or fork to get a
+  marbled effect.
+  
+  5. Bake about 25-35 minutes, or until surface springs back when lightly
+  pressed with fingertip.
+  
+  6. Let cool, then spread with Baileys glaze (recipe below).
+  
+  Note: actually the cookbook called for the shortening and milk to be added
+  together to the flour, but that didn't make any sense to me, so I changed
+  it to the method I'm familiar with, where the shortening and sugar are
+  creamed together first. I used butter for the shortening, since that was
+  all I had available. I guess you could use margarine or a solid vegetable
+  fat like Crisco.
+  
+  Baileys Swirl (Cream Cheese Frosting recipe in McCalls cookbook, with
+  Baileys and white chocolate added):
+  
+  1. With electric mixer, beat cheese with butter and vanilla until creamy
+  
+  2. Add the confectioners sugar; beat until light and fluffy.
+  
+  3. Stir in the Baileys and white chocolate, and mix well.
+  
+  Baileys glaze: Mix 3/4 cup Baileys with 1 cup of the powdered sugar. Add
+  more Baileys if the glaze is too thick; add more sugar if the glaze is too
+  thin. Add more Baileys and sugar if there isn't enough glaze.
+  
+  Sorry to be so imprecise, but I didn't really keep track of the amounts
+  while I was doing this, since I had to leave in 15 minutes with the cake!
+  
+  The really fun thing was trying to explain to people what was in the cake!
+  The non-Americans didn't understand the concept of cream cheese frosting at
+  all. It was really hard to explain what frosting is, and I realized this is
+  because over here, either a cake is dusted with powdered sugar (i.e. carrot
+  cake is dusted with powdered sugar here), or it is topped with a thin
+  glaze, or it is "frosted" but with whipped cream or a recipe containing
+  mostly whipped cream.
+  
+  Many of them had never drunk Baileys (which is readily available in
+  supermarkets here)! One woman was positive there was marzipan in the cake!
+  But it was a hit anyway; I had no leftovers to take home! Good thing I
+  still had the smaller cake at home!
+  
+  Posted to JEWISH-FOOD digest V96 #76
+  
+  Date: 12 Nov 96 08:34:36 EST
+  
+  From: Karen Snyder &lt;100130.1562@CompuServe.COM&gt;
+ 
+</step></directions></recipe></recipeml>

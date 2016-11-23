@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Stuffed Mushrooms</title>
+      <categories>
+        <cat>Cooking liv</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>24</qty>
+            <unit>medium</unit></amt>
+          <item>Mushrooms, stems removed, finely chopped to be used in the following duxelles recipe</item></ing></ing-div>
+      <ing-div>
+        <title>BASIC STUFFING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Duxelles, see following recipe</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dry bread crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped fresh herbs, i.e. parsley, tarragon, chervil, and/or chives</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Lumb crab meat or finely chopped prosciutto or crumbled cooked bacon, optional</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Freshly grated parmesan, asiago or crumbled feta, 1/4 cup reserved for top</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg, lightly beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil or melted butter</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and freshly ground black pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat the oven to 400 degrees F. Arrange the mushroom caps in a single
+  layer in a lightly greased shallow baking dish. In a bowl combine the
+  stuffing ingredients thoroughly. Divide the stuffing mixture among the
+  mushroom caps, mounding it slightly. Dri zzle the mushrooms with the olive
+  oil or butter and season with salt and pepper. Sprinkle tops with reserved
+  1/4 cup cheese. Bake in the middle of the oven for 12 to 15 minutes, or
+  until heated through.
+  
+  Yield: 24 hors d'oeuvres
+  
+  Recipe by: Cooking Live Show #8886 Posted to MC-Recipe Digest V1 #627 by
+  "Angele and Jon Freeman" &lt;jfreeman@netusa1.net&gt; on May 31, 1997
+ 
+</step></directions></recipe></recipeml>

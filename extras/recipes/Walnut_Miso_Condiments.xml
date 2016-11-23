@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Miso Condiments</title>
+      <categories>
+        <cat>Condiments</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Roasted walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>EDEN Genmai or Shiro Miso water; or up to...</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Roast walnuts in a heavy skillet over medium heat. Blend with remaining
+  ingredients into a smooth paste in a blender or food processor.
+  Delicious served with grains and vegetables, or as a spread.
+  
+  Copyright 1994 Eden Foods, Inc.
+  &lt;Electronic Format courtesy of Karen Mintzias&gt;
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/eden.zip
+ 
+</step></directions></recipe></recipeml>

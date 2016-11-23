@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Con Pollo #1</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>25</qty>
+            <unit>ounces</unit></amt>
+          <item>Boneless chicken breast; sliced into bite-size pieces</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Sliced mushrooms</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sliced green onions</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sherry</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Lemon; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Tomatoes; peeled and sliced</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>White rice</item></ing></ing-div>
+      <ing-div>
+        <title>POLLO SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Hot sauce or Tabasco sauce to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Enchilada sauce (see index)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Saute chicken and mushrooms in butter.
+  
+  2. Season to taste.
+  
+  3. Add sherry and green onions.
+  
+  4. Heat until the sherry is reduced.
+  
+  5. Add Pollo Sauce and lemon.
+  
+  6. Heat thoroughly.  Serve with white rice and tomato wedges. POLLO SAUCE:
+  To Enchilada Sauce, add other ingredients.  Heat together and serve.
+  
+  CASA LUPITA
+  
+  SEATTLE.
+  
+  WINE:  SANGRIA.
+  
+  From the &lt;Micro Cookbook Collection of Mexican Recipes&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Pecans</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Nuts</cat>
+        <cat>Possum king</cat></categories>
+      <yield>25</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>dashes</unit></amt>
+        <item>Hot sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans; halves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt; to taste</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in a large saucepan; add Worcestershire sace, catsup, and hot
+  sauce.
+  
+  Stir in nuts; spoon into a glass baking dish, spreading evenly. toast at
+  400 degrees about 20 minutes, stirring frequently.
+  
+  Turn out on absorbent towles, and sprinkle with salt.
+  Posted to MC-Recipe Digest V1 #924 by "abprice@wf.net" &lt;abprice@wf.net&gt; on
+  Nov 25, 1997
+ 
+</step></directions></recipe></recipeml>

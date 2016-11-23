@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Spare Ribs and Sauerkraut</title>
+      <categories>
+        <cat>Penndutch</cat>
+        <cat>Pork</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Spare ribs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sauerkraut</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Cut spare ribs into portions and place in the bottom of a roasting pan. Add
+  the sauerkraut, cover the pan and bake at 350-F for 1-1/2 hours. Make
+  dumplings by combining the flour, baking powder, milk and egg. Drop by
+  spoonfuls on the sauerkraut. Cover pan tightly and finish baking at 350-F
+  for 30 minutes. Source: Pennsylvania Dutch Cook Book - Fine Old Recipes,
+  Culinary Arts Press, 1936.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

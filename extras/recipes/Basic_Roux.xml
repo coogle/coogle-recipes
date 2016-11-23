@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Roux</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour (all-purpose)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cooking oil (your favorite brand, margarine is also good)</item></ing></ingredients>
+    <directions>
+      <step>  (The basis for all stews and gumbos.) Tony Chachere's "Cajun Country
+  Cookbook"
+  
+  Heat oil in heavy pot or Dutch Oven.  When oil is hot, gradually add flour,
+  stirring constantly until well mixed.  Lower flame and continue stirring
+  until chocolate brown. When roux is chocolate brown, removed from pot and
+  set aside. If roux remains in the pot it will continue to cook and get too
+  dark.
+  
+  Always use warm water to dissolve the roux.
+  
+  While you're at it, make more than enough as it keeps well in or out of the
+  refrigerator.
+  
+  P.S.  The darker the roux the more intense the taste.  I prefer mine the
+  color of peanut butter.
+  Posted to bbq-digest V4 #16
+  
+  Date: Fri, 25 Oct 1996 11:18:22 -0600
+  
+  From: Robert Lowe &lt;blowe@deq.state.ut.us&gt;
+ 
+</step></directions></recipe></recipeml>

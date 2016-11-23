@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Streusel Pie</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Fruits</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BILLS20086</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pastry for single crust pie</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Ripe bananas; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Unsweetened pineapple juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Finely shredded lemon peel</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cornstarch</item></ing></ing-div>
+      <ing-div>
+        <title>STREUSEL</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar; packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Macadamia nuts; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter or margarine</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Prepare and roll out pie crust. Place pastry in 9" pie plate. Line the
+  unpricked pastry shell with a double thickness of foil. Bake in a 450~ oven
+  for 8 minutes. Remove foil. Bake 4-6 minutes more or until pastry is
+  golden. Remove from oven. Reduce oven temperature to 375~. Meanwhile, in
+  medium mixing bowl gently toss together bananas, pineapple juice, and lemon
+  juice. Drain, reserving juices. Gently toss bananas with lemon peel, sugar
+  and cinnamon. Turn mixture into pastry shell. In a small saucepan, combine
+  the reserved juices and cornstarch. Cook and stir over medium heat till
+  thickened and bubbly. Pour over banana mixture in shell. For streusel,
+  combine the flour, brown sugar, nuts and cinnamon. With a pastry blender or
+  2 forks, cut in the butter until mixture resembles coarse crumbs. Sprinkle
+  over banana mixture. Cover edge of pie with foil. Bake in a 375~ oven for
+  40 minutes or until topping is golden and edges are bubbly. Cool on wire
+  rack.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

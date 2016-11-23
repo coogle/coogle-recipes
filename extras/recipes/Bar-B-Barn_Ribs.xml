@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bar-B-Barn Ribs</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ribs, Parboiled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apple Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  In a heavy saucepan, mix apple sauce, brown sugar, lemon juice, salt,
+  pepper, paprika, garlic powder and cinnamon. Over medium-high heat, bring
+  the sauce to the boiling point and continue boiling for one to two minutes.
+  Place parboiled ribs in an ovenproof dish and brush liberally with the
+  sauce. Bake for 45 minutes at 350 degrees. Turn ribs and bush underside
+  with remaining sauce. Continue baking for 45 minutes. Serves four. From The
+  Gazette, 90/12/19. Bar-B-Barn ribs are a Montreal favourite.
+  Posted to MM-Recipes Digest V3 #297
+  
+  Date: Wed, 30 Oct 1996 15:01:04 -0800
+  
+  From: Mark and Lisa Babcock &lt;mark_lisa.babcock@sympatico.ca&gt;
+ 
+</step></directions></recipe></recipeml>

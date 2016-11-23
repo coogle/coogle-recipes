@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Blossom</title>
+      <categories>
+        <cat>Alcohol</cat>
+        <cat>Beverages</cat>
+        <cat>New (to be</cat>
+        <cat>Gin</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Gin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Orange Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>dashes</unit></amt>
+        <item>Calvados</item></ing></ingredients>
+    <directions>
+      <step>  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

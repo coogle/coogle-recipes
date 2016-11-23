@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cranberry Cream</title>
+      <categories>
+        <cat>Puddings</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Unflavored gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Cranberry liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pints</unit></amt>
+        <item>Cream, whipped</item></ing></ingredients>
+    <directions>
+      <step>  peel and slice bananas.  Dissolve gelatin in cold water. Combine sliced
+  bananas, gelatin, sugar, lemon juice and cranberry liqueur, Blend in
+  blender until smooth. Partially freeze mixture. Fold in whipped cream and
+  freeze. serves 6 to 8
+  Posted to MM-Recipes Digest V3 #330
+  
+  From: l.and-e.smith@juno.com (Lois Smith)
+  
+  Date: Mon, 2 Dec 1996 09:47:28 PST
+ 
+</step></directions></recipe></recipeml>

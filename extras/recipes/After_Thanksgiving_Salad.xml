@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>After Thanksgiving Salad</title>
+      <categories>
+        <cat>Turkey</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced turkey</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Celery ribs; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Green onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Toasted pecans; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Red bell pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Low-fat mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dill weed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce</item></ing></ingredients>
+    <directions>
+      <step>  In a large bowl, combine turkey, celery, onions, pecans and bell pepper.
+  
+  Combine mayonnaise, lemon juice, dill weed, salt and pepper in small bowl
+  and stir into turkey mixture. Refrigerate until serving.
+  
+  Arrange turkey salad on lettuce leaves.
+  
+  Recipe by: American Cancer Society, Eastern Area Office
+  
+  Posted to EAT-L Digest  by Bill Hatcher &lt;bhatcher@GC.NET&gt; on Nov 21, 1997
+ 
+</step></directions></recipe></recipeml>

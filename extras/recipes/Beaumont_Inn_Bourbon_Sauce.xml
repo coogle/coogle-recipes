@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beaumont Inn Bourbon Sauce</title>
+      <categories>
+        <cat>Sauce</cat>
+        <cat>Bourbon</cat>
+        <cat>Alcohol</cat></categories>
+      <yield>3 /4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>(or more!) bourbon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>White corn syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Beaumont Inn
+  
+  In a sauce pan mix all ingredients. Bring to a boil for 1 minute. Serve
+  warm.
+  
+  Entered for you by: Bill Webster
+  Posted to MC-Recipe Digest V1 #835 by Bill Webster &lt;thelma@pipeline.com&gt; on
+  Oct 10, 1997
+ 
+</step></directions></recipe></recipeml>

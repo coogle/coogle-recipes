@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potato with Rosemary, Olive Oil and Goat Cheese</title>
+      <categories>
+        <cat>Potatoes</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Russet potato</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sea salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Fresh chopped rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Extra virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Grated goat cheese</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375 degrees.
+  
+  Wash potato, dry, then roll in olive oil and sea salt. Bake in preheated
+  oven 50 minutes. Split cooked potato and open. Sprinkle with rosemary and
+  olive oil and top with goat cheese. Garnish with cracked black pepper.
+  Serve immediately. Makes 1 serving.
+  
+  Per serving: 285 calories, 34g carbohydrates, 5g protein, 10g total fat (3g
+  saturated), 7g cholesterol, 2g fiber, 56mg sodium. Calories from fat: 32%.
+  
+  Two-thirds of the recipe's fat is from the olive oil, a rich source of
+  monounsaturated fat.
+  
+  Recipe by chef Brian Moran of the Milwaukee Club, Milwaukee, Wisconsin.
+  
+  Published in the Milwaukee Journal Sentinel 10/19/97.
+  
+  Recipe by: Chef Brian Moran of the Milwaukee Club
+  
+  Posted to MC-Recipe Digest V1 #861 by Mark Scheffler
+  &lt;mds@simba.moneng.mei.com&gt; on Oct 23, 1997
+ 
+</step></directions></recipe></recipeml>

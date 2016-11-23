@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Shrimp for Thirty</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>90</qty>
+          <unit/></amt>
+        <item>Cooked jumbo shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cans</unit></amt>
+        <item>Cream of mushroom soup</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Tube anchovy paste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Buttered bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>White or wild rice</item></ing></ingredients>
+    <directions>
+      <step>  Thin soup with cream; add anchovy paste. Pour over shrimp, top with bread
+  crumbs. Bake for 10 minutes at 350. Serve over rice.
+  
+  MRS J.R. (FAYE) GOLSTON
+  
+  From the &lt;The Bliss of Cooking Returns&gt;, Fort Bliss Officers Wives Club,
+  Ft. Bliss, TX.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

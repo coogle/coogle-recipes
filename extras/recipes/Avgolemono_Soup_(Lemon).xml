@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avgolemono Soup (Lemon)</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Egg yolks, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Long grain rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chopped parsley to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Grated lemon peel (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>quarts</unit></amt>
+        <item>Basic chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Stick butter 1/8 lb</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Stir the milk and cornstarch together and beat in the egg yolks. Set
+  aside. Bring the stock to boil in a 4 qt. soup pot and add the rice. Cook,
+  covered, until the rice is puffy and tender, about 25 min.  Remove the
+  soup form heat, add milk and egg mixture, stirring carefully.  Continue to
+  cook for a moment until all thickens. Remove from the heat again and add
+  the butter, chopped parsley, and lemon juice.  You may wish to add some
+  grated lemon peel as well.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmealnew.zip
+ 
+</step></directions></recipe></recipeml>

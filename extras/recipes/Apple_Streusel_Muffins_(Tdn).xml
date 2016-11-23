@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Streusel Muffins (Tdn)</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Finely chopped pecans</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Mace</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chilled butter</item></ing></ing-div>
+      <ing-div>
+        <title>MUFFINS</title>
+        <ing>
+          <amt>
+            <qty>1 3/4</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Melted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped apple</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Grease 12-muffin cups or line with paper.
+  
+  For topping, combine all ingredients and rub together with fingertips until
+  completely blended.  Set aside.
+  
+  For muffin mix, combine dry ingredients in a bowl or on wax paper and stir
+  to combine.  Beat eggs in a medium bowl.  Beat in milk and butter. Add dry
+  ingredients and give 10 or so vigorous strokes.  Add apple pieces and stir
+  a few more times.
+  
+  Put a spoonful of batter into each muffin cup, divide half the topping
+  among the muffins, spoon on remaining batter, then sprinkle with remaining
+  topping. Bake at 400 degrees for 25 minutes or until lightly browned.
+  
+  Assorted recipes from the Detroit News, entered by Diane Pahl
+  Posted to EAT-L Digest 22 October 96
+  
+  Date:    Tue, 22 Oct 1996 20:50:47 -0400
+  
+  From:    Martha Sheppard &lt;MARTHAHS@POSTOFFICE.WORLDNET.ATT.NET&gt;
+ 
+</step></directions></recipe></recipeml>

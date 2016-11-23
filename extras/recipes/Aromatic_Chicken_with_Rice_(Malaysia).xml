@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aromatic Chicken with Rice (Malaysia)</title>
+      <categories>
+        <cat>Malaysia</cat>
+        <cat>Chicken</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chicken (3 pounds)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Light soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Spread cooked rice in a pie pan.  Chop chicken into large pieces. Cut
+  onion into wedges.  In a wok or large pan heat sesame oil and brown
+  the chicken with the onions until the onions are transparent.  Add
+  soy sauce and sprinkle with salt and pepper.  Put the chicken on the
+  cooked rice in the pie plate.  Steam for about 30 minutes or until
+  the chicken is done. Serve warm.
+  
+  If you have a rice cooker, you can just put the braised onions and
+  chicken on top of the raw rice and cook it that way.
+  
+  Posted by Stephen Ceideburg Dec 17 1989.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

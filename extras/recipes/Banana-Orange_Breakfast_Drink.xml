@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Orange Breakfast Drink</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Drinks</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Wheat germ</item></ing></ingredients>
+    <directions>
+      <step>  In blender combine ingredients on medium speed for about 30 seconds or
+  until banana is thoroughly pureed. Makes good nutritious and quick
+  breakfast. Serves 2.
+  Posted to recipelu-digest by "Diane Geary." &lt;diane@keyway.net&gt; on Feb 2,
+  1998
+ 
+</step></directions></recipe></recipeml>

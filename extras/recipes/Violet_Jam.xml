@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Violet Jam</title>
+      <categories>
+        <cat>Herbs</cat>
+        <cat>Jelly/jam</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 1 medium lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Firmly packed violet blossos</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>3 oz. package of powdered</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pectin</item></ing></ingredients>
+    <directions>
+      <step>  1.  In an electric blender or food processor, blend 3/4 cup of water, the
+  lemon juice and the violet blossoms until the mixture resembles a smooth
+  paste. Slowly add 2 1/2 cups of sugar and blend until dissloved. 2. In a
+  small saucepan stir the powdered pectin into 3/4 cup of water and boil for
+  one minute. Pour into the violet blossom mixture and blend about one
+  minute.  Quickly pour into small sterilized glass jars and seal. 3. After
+  the jam has cooled, keep it in the refrigerator for three weeks or store it
+  for up to a year in the freezer.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

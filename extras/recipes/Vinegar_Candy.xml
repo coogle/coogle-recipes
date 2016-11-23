@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinegar Candy</title>
+      <categories>
+        <cat>Candy</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts; Chopped</item></ing></ingredients>
+    <directions>
+      <step>  1. Combine sugar, vinegar and butter in a heavy saucepan.
+  
+  2. Cook, stirring constantly, until mixture reaches 270 degrees on a candy
+  thermometer or to the hard crack stage.
+  
+  3. Fold in nuts and pour onto a buttered cookie sheet.
+  
+  4. Mark into squares while warm.
+  
+  5. This is an excellent hard candy.
+  
+  Recipe by: diane@keyway.net
+  
+  Posted to recipelu-digest Volume 01 Number 198 by "Diane Geary"
+  &lt;diane@keyway.net&gt; on Nov 4, 1997
+ 
+</step></directions></recipe></recipeml>

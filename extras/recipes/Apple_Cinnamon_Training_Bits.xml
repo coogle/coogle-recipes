@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cinnamon Training Bits</title>
+      <categories>
+        <cat>For</cat>
+        <cat>The</cat>
+        <cat>Dog</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Whole wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Apple (grated)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  In a bowl combine all ingredients except the apple and water. Grate apple
+  into mixture and add water. Mix until it starts forming together. Turn out
+  on a lightly floured surface. Knead well. Roll out to a thickness of
+  1/4-inch to 1/2-inch. Take a straight edge and score the dough horizontally
+  then vertically to make a grid of 3/4 squares. Be careful not to score the
+  dough that it completely cuts through the dough. Place on a baking sheet
+  that has been sprayed with a nonstick spray. Bake at 325 for 1 hour.
+  
+  Yield: 1 1/2 pounds
+  
+  Recipe by: Three Dog Bakery
+  
+  Posted to recipelu-digest Volume 01 Number 289 by "Diane Geary"
+  &lt;diane@keyway.net&gt; on Nov 22, 1997
+ 
+</step></directions></recipe></recipeml>

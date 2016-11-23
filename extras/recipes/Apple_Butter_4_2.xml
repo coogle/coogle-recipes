@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Butter 4</title>
+      <categories>
+        <cat>Canning</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>cups</unit></amt>
+        <item>Apples; peel/slice</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Pkg of red hots candies</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon to taste</item></ing></ingredients>
+    <directions>
+      <step>  Boil above ingredients for 20 minutes.
+  Posted to EAT-L Digest 17 Sep 96
+  
+  Date:    Wed, 18 Sep 1996 06:56:27 -0500
+  
+  From:    LD Goss &lt;ldgoss@METRONET.COM&gt;
+ 
+</step></directions></recipe></recipeml>

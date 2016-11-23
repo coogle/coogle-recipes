@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Audrey's Oriental Chicken</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Firmly packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>15 oz. can pineapple chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Thin onion rings</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Boneless chicken breasts*</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Strips, green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil</item></ing></ingredients>
+    <directions>
+      <step>  *Cut into thin strips.
+  In a medium bowl, combine sugar and cornstarch.  Gradually stir in vinegar
+  and soy sauce. Stir in pineapple, green pepper and onion, set aside.  Heat
+  oil in wok. Add chicken and stir fry, just until tender, and chicken has
+  turned white.  Add pineapple and vegetable mixture; stir until well mixed.
+  Cover and simmer over low heat 15 minutes.  Cal: 314; Fat 7g.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmealnew.zip
+ 
+</step></directions></recipe></recipeml>

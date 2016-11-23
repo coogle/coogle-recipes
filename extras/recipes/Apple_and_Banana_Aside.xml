@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Banana Aside</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Bananas, peeled and sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Apples, peeled, cored and cut in slices</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Juice of half a lemon</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Packed brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit/></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Note: Use about 1 banana and 1 apple for each two diners to increase
+  recipe. Do not decrease.
+  
+  In a buttered casserole, arrange a layer of apple slices and banana slices.
+  Drizzle with lemon juice, dot with butter and sprinkle with a little sugar.
+  Make another layer of fruit.
+  
+  Cream together (until crumbly) the topping ingredients; sprinkle over fruit
+  mixture.
+  
+  Bake at 325 F. for 30-40 minutes.
+  
+  Nice side dish to meal or as a dessert with vanilla ice cream.
+  
+  From vegan.zip at Michelle Stewart's SunShine PC Board in Pembroke Pines,
+  FL.  Source unknown.  Formatted by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

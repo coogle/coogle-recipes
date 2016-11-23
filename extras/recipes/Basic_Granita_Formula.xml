@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Granita Formula</title>
+      <categories>
+        <cat>Cooking liv</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Store-bought fruit juice (any flavor)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly squeezed lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  In a medium saucepan, combine the sugar and water and bring to a boil,
+  stirring until the sugar dissolves. Let cool. Stir in the fruit juice and
+  lemon juice and pour into a chilled 13 by 9 inch metal baking dish. Place
+  in the freezer and freeze, stirring every 30 minutes until the mixture is
+  firm.
+  
+  Yield: 4 cups
+  
+  Recipe by: Cooking Live Show #CL8919 Posted to MC-Recipe Digest V1 #692 by
+  "Angele and Jon Freeman" &lt;jfreeman@netusa1.net&gt; on Jul 26, 1997
+ 
+</step></directions></recipe></recipeml>

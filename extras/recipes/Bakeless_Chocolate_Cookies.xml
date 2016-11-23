@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bakeless Chocolate Cookies</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>A</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cocoa powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine</item></ing></ing-div>
+      <ing-div>
+        <title>B</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Oatmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Nuts</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Coconut</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Bring above "A" mixture to boil and cook 1 minute. Add "B".
+  
+  Mix and drop by spoonfuls on waxed paper. Refrigerate until set. They were
+  really good!
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 937 by Carolyn or Paul
+  &lt;pvisser@orc.ca&gt; on Januay,, ary 13, 199
+ 
+</step></directions></recipe></recipeml>

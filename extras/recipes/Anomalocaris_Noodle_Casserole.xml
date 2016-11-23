@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anomalocaris Noodle Casserole</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Seafood</cat>
+        <cat>Extinct</cat>
+        <cat>Cambrian</cat>
+        <cat>Critter</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Wide egg noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Cream of mushroom soup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Anomalocaris meat*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Seasoned salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Seasoned pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Paprika</item></ing></ingredients>
+    <directions>
+      <step>  *If anomalocaris is out of season (or era) tuna is an acceptable
+  substitute.
+  
+  Boil the noodles until tender. Drain. Mix noodles, soup and anomalocaris
+  meat together. Add salt and pepper to taste. Add cumin. Pour into buttered
+  casserole dish. Sprinkle bread crumbs on top. Sprinkle paprika on top of
+  bread crumbs. Preheat oven to 350 degrees F. Bake until top is toasty
+  brown.
+  
+  Recipe by: Dean C. Colby, PhD Entered in MM format by: Roy Olsen
+  roy@indy.net
+  
+  Posted to MM-Recipes Digest V4 #143 by roy@indy.net (Roy) on May 23, 1997
+ 
+</step></directions></recipe></recipeml>

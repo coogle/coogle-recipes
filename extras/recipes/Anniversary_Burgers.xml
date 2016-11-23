@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anniversary Burgers</title>
+      <categories>
+        <cat>Sandwiches</cat>
+        <cat>Beef</cat>
+        <cat>Davidson</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Bread; torn up</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Onion, dried minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Horseradish, prepared</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper, black</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme, dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard, dry</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef, lean</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter, sweet</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing></ingredients>
+    <directions>
+      <step>  Light a charcoal fire.
+  
+  Mix eggs with cream and milk, then add torn-up bread onion, salt,
+  horse- radish, pepper, thyme, and dry mustard.  Stir well, let stand
+  for 10 minutes, then stir well again, until all is well moistened and
+  the bread is no longer in pieces.  Add ground beef and mix well.
+  
+  Melt butter with catsup and keep warm.
+  
+  Measure out beef in 1/2 cup increments and form patties.  Grill over
+  hot coals on one side.  Turn and brush with butter-catsup mixture.
+  Grill other side.  Serve hot.
+  
+                                  ---*Dying for Chocolate*
+                                      Diane Mott Davidson
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/davidsn.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apples in Cardamom Cream</title>
+      <categories>
+        <cat>Mc-recipe</cat>
+        <cat>Fruit</cat>
+        <cat>Spices</cat>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Frozen puff pastry shells</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unsalted butter; plus</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Jonathan apples; peeled, cored and thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Evaporated skim milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cardamom</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped pecans</item></ing></ingredients>
+    <directions>
+      <step>  Bake puff pastry shells according to package directions. Melt butter in a
+  heavy nonstick skillet over medium high heat. Sauté apples and sugar 12-15
+  minutes, stirring frequently. (Reduce heat if necessary to keep apples from
+  burning.) When apples begin to caramelize, reduce heat to medium. Stir in
+  evaporated milk and cardamom. Bring to a boil. Reduce heat to medium low.
+  Simmer 1 minute. Stir in pecans. Just before serving, spoon fruit mixture
+  into baked puff pastry shells.
+  
+  Per serving: calories 437, fat 21.8g, 43% calories from fat, cholesterol
+  11mg, protein 6.0g, carbohydrates 58.1g, fiber 3.9g, sodium 217mg.
+  
+  SOURCE &gt;from www.mymenu.com &gt;from Caravanserai: Mixing Spices with History:
+  Recipes With Cardamom www.bayarea.net/~emerald/caravan/ Site has
+  information about the history of cardamom, its storage, uses and folklore
+  and mail order. Busted by phannema@wizard.ucr.edu (jan 1998)
+  
+  Recipe by: Caravanserai: Recipes with Cardamom
+  
+  Posted to MC-Recipe Digest V1 #1018 by KitPATh &lt;phannema@wizard.ucr.edu&gt; on
+  Jan 16, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Pasta Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Vegetables</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Salad macaroni</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Marinated artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushrooms, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Halved cherry tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Med pitted ripe olives</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry basil</item></ing></ingredients>
+    <directions>
+      <step>  Cook macaroni according to package; drain well, rinse with cold water and
+  drain again.  Turn into a large bowl. Add artichokes and their liquid,
+  mushrooms, cherry tomatoes, olives, parsley and basil; toss gently. Cover
+  and refrig for at least 4 hours. Before serving, season with salt and
+  pepper to taste.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

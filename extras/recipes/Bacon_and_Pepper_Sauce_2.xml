@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Pepper Sauce</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean bacon -- diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Coarsely ground pepper</item></ing></ingredients>
+    <directions>
+      <step>  In a small skillet melt the butter and saute the bacon until it is crisp.
+  Add the pepper.
+  
+  Pour the sauce over the cooked pasta and sprinkle with grated Romano
+  cheese.
+  
+  ~- Rec.food.recipes is moderated; only recipes and recipe requests are
+  accepted for posting. Please read the "Posting Guidelines" article.
+  Recipes/requests go to recipes@rt66.com; questions/comments go to
+  tfdpress@acpub.duke.edu. Please allow several days for your submission to
+  appear.
+  
+  From apoe@unicom.net Fri Mar 01 09:34:14 1996 MasterCook export: Basic
+  Pizza Sauce
+  
+  Recipe By     : The Gourmet Cookbook Volume II
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

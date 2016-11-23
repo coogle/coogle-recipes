@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Pie</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>(1 medium) sliced banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Keebler; (6 oz) Chocolate flavored piecrust</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(4 servings) jell-o Sugar free instant Vanilla pudding</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Nonfat dry milk powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>(8 oz) crushed pineapple; packed in fruit juice, undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sliced fresh strawberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cool Whip Lite</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chocolate syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Maraschino cherries; halved.</item></ing></ingredients>
+    <directions>
+      <step>  Place sliced banana in piecrust. Ina medium bowl, combine dry pudding mix,
+  dry milk powder, undrained pineapple, and water. Mix well using a wire
+  whisk. Pour pudding mixture over banana. Refrigerate 15 min. Evenly arrange
+  sliced strawberries over pudding layer. Spread Cool Whip Lite evenly over
+  strawberries. Drizzle chocolate syrup over top. Evenly garnish with
+  maraschino cherry halves. Refrigerate at least 1 hour. Cut into 8 servings.
+  If Strawberries are to hard to find you might try blueberries.
+  
+  Recipe came from Healthy Exchanges by Joanna Lund. also try
+  http://www.healthyexchanges.com
+  
+  Posted to Bakery-Shoppe Digest V1 #442 by aklatt@trxinc.com (Arlene Klatt)
+  on Dec 7, 1997
+ 
+</step></directions></recipe></recipeml>

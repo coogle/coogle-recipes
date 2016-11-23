@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Shortbread Biscuits</title>
+      <categories>
+        <cat>Usenet</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Brown sugar, soft</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Plain flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds, flaked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Egg</item></ing></ingredients>
+    <directions>
+      <step>  Rub butter and margarine into the flour.  Add sugar, beaten egg and
+  almonds. Knead the mixture thoroughly.
+  
+  Form mixture into an oblong shape about two inches square at the end. Wrap
+  in silver foil and leave in the refrigerator over night.
+  
+  Cut into 1/8-inch-thick slices using a serrated knife. Place on greased
+  baking sheet and cook for 10-15 minutes at 350 degrees F.
+  
+  NOTES:
+  
+  *  Shortbread-like biscuits -- This recipe was given to my Great Aunt when
+  she lived in Scotland, by a friend who worked in a bakery in Leven Fife. It
+  is based on the standard short bread recipe. Yield: 20 biscuits.
+  
+  : Difficulty:  easy to moderate.
+  : Time:  10 minutes preparation, overnight wait, 15 minutes baking.
+  : Precision:  measure the ingredients.
+  
+  : Martin Prime
+  : Rutherford Appleton Laboratory, Chilton, Didcot, Oxfordshire, UK
+  : mcvax!ukc!rlvd!martin
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

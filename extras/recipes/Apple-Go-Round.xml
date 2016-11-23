@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Go-Round</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Desserts</cat>
+        <cat>Diabetic</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple (firm)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Celery</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lettuce leaf (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Slice off top of apple;  remove core.  Prick outside with sharp fork. Place
+  apple in tall narrow bowl. Combine orange and lemon juice; pour over apple.
+  (Add extra water if apple is not covered.) Marinate in refrigerator 4-5
+  hours.  Combine raisins, celery, and applesauce. Allow to mellow at room
+  temperature 2 hours. Chill thoroughly. Drain apple. Cut apple into 8
+  sections, slicing almost to the bottom.  Fill with applesauce mixture.
+  Place on crisp lettuce leaf. 1 serving = 2 fruit calories = 54 Pat Empson
+  05/21 07:13 am
+         FOOD AND WINE BB TOPIC: FOOD SOFTWARE TIME: 05/21 7:34 AM
+  
+  TO:      PAT EMPSON   (PFXX29A) FROM: PAT EMPSON (PFXX29A) SUBJECT: MM-MORE
+  APPLES
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

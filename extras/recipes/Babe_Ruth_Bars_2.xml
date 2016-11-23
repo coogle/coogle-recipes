@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Babe Ruth Bars</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Light corn syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Crispy rice cereal</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(6 oz.) chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Butterscotch chips</item></ing></ingredients>
+    <directions>
+      <step>  Combine sugar and syrup in a saucepan and bring to a boil. Remove from heat
+  and add the peanut butter and crispy rice cereal. Spread into a
+  well-greased 9x9 inch baking dish. Melt chocolate and butterscotch chips in
+  top of a double boiler and spread over the mixture in the pan. Cool and cut
+  into bars.
+  
+  Recipe by: Quick 'n Easy Home Cooking
+  
+  Posted to MC-Recipe Digest V1 #995 by L979 &lt;L979@aol.com&gt; on Jan 8, 1998
+ 
+</step></directions></recipe></recipeml>

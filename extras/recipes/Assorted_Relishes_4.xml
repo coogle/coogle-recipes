@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Assorted Relishes</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>pounds</unit></amt>
+        <item>CELERY FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>7 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>RADISH RED FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cans</unit></amt>
+        <item>OLIVES RIPE #300</item></ing></ingredients>
+    <directions>
+      <step>  Recipe Number: X41505
+  
+  SERVING SIZE: 1 TABLESPO
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

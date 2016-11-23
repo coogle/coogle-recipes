@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread #2</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Banana</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mashed bananas</item></ing></ingredients>
+    <directions>
+      <step>  Add dry ingredients. Mix egg, bananas and lemon juice to dry ingredients.
+  Bake 45 minutes. &gt;From Favorite recipes of Colfax Country Club Women, 1946
+  by Frances Towndrow, Raton Typed by Ethel Snyder &lt;essie49@juno.com&gt; Date
+  August 12, 1997
+  
+  Recipe by: Southwestern Cookery cookbook Posted to Bakery-Shoppe Digest V1
+  #194 by essie49@juno.com (Ethel R Snyder) on Aug 17, 1997
+ 
+</step></directions></recipe></recipeml>

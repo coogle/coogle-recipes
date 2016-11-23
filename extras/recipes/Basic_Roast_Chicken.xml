@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Roast Chicken</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>(4-5 pound) chicken</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Marinade for roast chicken</item></ing></ingredients>
+    <directions>
+      <step>  1. Wipe chicken with a damp cloth. Dry well with paper toweling; or hang up
+  to dry in a cool, airy place for 1 to 2 hours. Transfer to a deep bowl.
+  
+  2. Prepare any marinade for roast chicken (see any recipe "... for Roast
+  Chicken": "Five Spices", "Scallion-Honey", "Tangerine Peel", or "Hoisin".)
+  Then pour over chicken and rub into skin. Let stand 1 to 2 hours, turning
+  occasionally. Drain, reserving marinade.
+  
+  3. Preheat the oven to 350 degrees. Place chicken on a rack over a drip pan
+  containing several inches of water (this will keep the drippings from
+  burning).  Roast until bird is tender and browned, basting with marinade at
+  15-minute intervals and turning bird occasionally. (Allow about 30 minutes
+  roasting time per pound.)
+  
+  4. With a cleaver, chop chicken, bones and all, in 2-inch sections; or
+  carve Western-style, and serve. VARIATION: After step 2, brush bird with
+  melted chicken fat.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

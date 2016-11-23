@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Butter Pumkin Pie</title>
+      <categories>
+        <cat>American</cat>
+        <cat>Desserts</cat>
+        <cat>Pies &amp; past</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pumpkin; canned</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apple butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Milk, evaporated; 5 1/2 oz.</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar; packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>9" Pastry shell</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>    Thoroughly combine pumpkin, apple butter, brown sugar, salt and cinnamon.
+  Blend in eggs, evaporated milk and milk.  Turn into unbaked pastry shell.
+  Bake in 400' oven for 45-50 minutes or until knife inserted just off-center
+  comes out clean.  Cool and serve with "Cool Whip" or ice cream.
+  Posted to MC-Recipe Digest V1 #312
+  
+  Date: Fri, 22 Nov 1996 08:00:04 -0500
+  
+  From: Luke Murden &lt;lmurden@visi.net&gt;
+ 
+</step></directions></recipe></recipeml>

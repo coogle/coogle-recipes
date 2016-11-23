@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Sour Cream Tacos - Tacos De Jocoqui Al Horno</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Mexican</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for frying</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sauce:</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salsa Jalapena or your favorite chili relish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Solid pack tomatoes, Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Monterey Jack cheese, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Rubbed oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Sour Cream, salted</item></ing></ingredients>
+    <directions>
+      <step>  For sauce, wilt onion in hot oil.  Add tomatoes, oregano, salsa, and salt.
+  Cook for 15 or twenty minutes.  Set aside.  Fry tortillas lightly in oil,
+  put some of the sauce and a piece of cheese on each one and roll. Arrange
+  in a buttered shallow glass baking dish.  Pour remaining sauce over tacos,
+  top with cheese and spoon sour cream over all. Bake at 325 F. for 25 to 30
+  minutes.  Serves 6 to 12.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

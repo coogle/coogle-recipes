@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce-Cocoa Squares</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour, all-purpose; unbleach</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cocoa; unsweetened</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nonfat milk; originally skim</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Applesauce, unsweetened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar, packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Hot water</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: 500 Fatfree Recipes, Sarah Schlesinger, pg 352 Preheat oven to
+  350 deg F.  Line an 8" sq baking pan with a baking pan liner or spray
+  lightly with vegetable cooking spray.
+  
+  Combine flour, sugar, 1/4 C of the cocoa, and baking powder in a mixing
+  bowl.
+  
+  Combine milk, applesauce, and vanilla in a separate bowl.
+  
+  Stir wet ingredients into dry ingredients.
+  
+  Spoon batter into pan.
+  
+  Combine brown sugar, remaining 1/4 C cocoa, and water.
+  
+  Pour over batter.
+  
+  Bake for 40 min.
+  
+   Remove from oven and cool in pan.
+  
+  Cut into 16 squares.
+  
+  These are very good!
+  
+  Typed and tested for you by Reggie Dwork reggie@reggie.com
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

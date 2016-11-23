@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Marietta's Corn Soup</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Stews</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>See directions</item></ing></ingredients>
+    <directions>
+      <step>  Cut corn from cobs, boil cobs to make stock. Make roux, add onions, garlic,
+  ham, green pepper, corn, and fry.  Add tomatoes and cook down. Add stock
+  and seasoning. We make this every year with the latter part of the corn
+  crop, since the corn doesn't have to be too tender. We never have written
+  down proportions. Instead of ham, I now use a little olive oil. We also add
+  shrimp or crawfish, and sometimes we use only a little liquid and add
+  butter beans, and serve it as a vegetable
+  
+  Recipe By     : DDMom
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Apple pie filling</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Recipe By : WASHINGTON COUNTY FAIR KITCHEN (OKLAHOMA)
+  
+  Spread two cans apple pie filling in bottom of 9 x 9 pan. Blend remaining
+  ingredients until crumbly - then spread over apples. Bake at 350° for about
+  45 minutes or till brown and crispy. Posted to MC-Recipe Digest V1 #759 by
+  C4 &lt;c4@groupz.net&gt; on Aug 24, 1997
+ 
+</step></directions></recipe></recipeml>

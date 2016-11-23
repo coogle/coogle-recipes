@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>3 Ea Eggs</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Chopped pecans</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit/></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Stale french bread cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pints</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chopped apple</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pints</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pints</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Icing sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit/></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit/></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit/></amt>
+        <item>Bourbon whisky</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Raisins</item></ing></ingredients>
+    <directions>
+      <step>  With an electric mixer, beat eggs until frothy (about 3 minutes).  Add
+  sugar, nutmeg, vanilla and cinnamon, and beat until well blended.  In a
+  sauce, heat the butter and milk until the butter melts (but do not allow it
+  to boil).  In a large bowl, mix together raisins, pecans and bread cubes.
+  Combine the milk and egg mixtures, pour this over the bread and allow it to
+  soak for 45 minutes.  Preheat oven to 350 degrees F. Lightly grease
+  individual ramekins or a large loaf pan.  Add the apple to the bread
+  pudding, and spoon mixture into the baking container.  Place in oven
+  immediately reduce heat 300 degrees F and bake for 40 minutes. Increase
+  heat to 425 degrees F and bake for another 15 minutes until nicely browned.
+  To make bourbon sauce, combine 2 eggs and icing sugar. Melt butter in a
+  double broiler, whisk in egg mixture and cook, stirring constantly, until
+  sugar has melted and sauce has thickened slightly. Allow to cool, and add
+  bourbon.  Serve over bread pudding.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

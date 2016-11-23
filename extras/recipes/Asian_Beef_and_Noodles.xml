@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Beef and Noodles</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Pasta</cat>
+        <cat>Posted</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen mixed vegetables</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Ramen noodles; (beef or Oriental</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>; flavor), broken up</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped scallions</item></ing></ingredients>
+    <directions>
+      <step>  In a large skillet, brown the ground beef over medium-high heat until no
+  pink remains; drain off the excess liquid and remove the beef to a
+  medium-sized bowl. In the same skillet, combine the water, frozen
+  vegetables, ramen noodles (including the seasoning packets), and the
+  ginger. Bring the mixture to a boil, then reduce the heat to low and simmer
+  for 3 minutes, or until the noodles are tender, stirring occasionally.
+  Return the beef to the skillet and add the scallions. Cook until warmed
+  through.
+  
+  BUSTED BY MEG ANTCZAK 1/21/98
+  
+  Recipe by: MR FOOD
+  
+  Posted to brand-name-recipes by Beach Princess&lt;barbra@pipeline.com&gt; on Jan
+  22, 1998
+ 
+</step></directions></recipe></recipeml>

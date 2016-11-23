@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fresh Ham</title>
+      <categories>
+        <cat>Main dishes</cat>
+        <cat>Pork &amp; ham</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh ham</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Whole garlic clove --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beer</item></ing></ingredients>
+    <directions>
+      <step>  Trim excess fat from ham. Mix oil with herbs and rub all over ham. Bake at
+  350 degrees for 30-35 minutes per pound of meat, until meat thermometer
+  registers 185 degrees. Baste occasionally with beer.
+  
+  Recipe By     : Elizabeth Powell
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

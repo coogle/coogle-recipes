@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Beans #01</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cans</unit></amt>
+        <item>(16-oz) pork and beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(16-oz) tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Bell pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Worcestershire to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Barbecue sauce</item></ing></ingredients>
+    <directions>
+      <step>  Mix all except beans with 3/4 cup water. Add beans. Bake 4 hours or until
+  desired thickness. Begin cooking at 200  for 2-3 hours. Bake at 300-350 for
+        1    hour.
+  
+  MRS WARREN SIMS (DELIA)
+  
+  MARVELL, AR
+  
+  From the book &lt;High Cotton Cookin'&gt;, Marvell Academy Mothers Assn, Marvell,
+  AR  72366, ISBN 0-918544-14-9, downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

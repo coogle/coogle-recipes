@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Babkas</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter,soft</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon rind</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk,room temperature</item></ing>
+      <ing>
+        <amt>
+          <qty>5 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Golden raisins</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioner's sugar</item></ing></ingredients>
+    <directions>
+      <step>  In large bowl, cream butter and sugar until light and fluffy. Beat in yolk,
+  one at a time, until pale and fluffy. In small bowl, soften yeast in
+  water,beat in egg mix salt,peel, milk and yeast. Slowly beat in 5 1/2 cups
+  of flour until a soft dough forms. Turn out on lightly floured work
+  surface, knead 8-10 minutes, until smooth and elastic. Knead in raisins.
+  Place in greased bowl. Grease top. Let rise 1 hour, or until doubled in
+  bulk. Punch down, divide in half. Place in 2 greased and floured 8 inch
+  fluted pans, let rise until double in bulk(covered) Bake in 350 F oven
+  25-30 minutes, or until well browned. Invert on rack. Sprinkle with
+  confectioner's sugar. Tastes better eaten within a couple of days. Two
+  Babkas, 10 servings each.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

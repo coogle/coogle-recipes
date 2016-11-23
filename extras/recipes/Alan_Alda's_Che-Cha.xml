@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alan Alda's Che-Cha</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Pasta</cat>
+        <cat>Low-fat</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit/></amt>
+        <item>Fresh Italian plum tomatoes (good-sized)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Handfuls fresh basil leaves chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Reduced-fat mozzarella shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Fusilli (corkscrew) pasta uncooked</item></ing></ingredients>
+    <directions>
+      <step>  [NAH Editor's note: We didn't boil or peel the tomatoes and it was still
+  delicious.]
+  
+  DIRECTIONS:
+  ===========
+  Fill a pot with enough water to cover the tomatoes.  Bring to a boil and
+  drop the tomatoes in.  Remove them after about 10 seconds, then peel and
+  chop them.
+  
+  Mix the tomatoes, basil, garlic, and cheese with the olive oil.  Let stand
+  in a covered bowl at room temperature for at least 3 hours.  Cook the
+  fusilli.  Drain.  Add the tomato sauce to the hot fusilli.  Mix well.
+  Serve warm.
+  
+   Per Serving:
+  Calories: 332           Protein: 19 grams           Carbs: 51 grams
+  Sodium: 188 mg          Fat: 7 grams (19% of calories)
+  
+  * Source: "Cooking with the Stars"
+  * Published in "Nutrition Action Healthletter", March 1994
+  * Typed for you by Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/54lowfat.zip
+ 
+</step></directions></recipe></recipeml>

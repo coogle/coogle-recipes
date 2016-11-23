@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bathtub Paint</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Muffin tin</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Spoon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Can of shaving cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Food coloring (variety of colors)</item></ing></ingredients>
+    <directions>
+      <step>  Squirt shaving cream dollops into each section of muffin tin.  Add a couple
+  of drops of food coloring to each section and mix with spoon.
+  Posted to MC-Recipe Digest V1 #301
+  
+  Date: Thu, 14 Nov 1996 08:52:22 -0800
+  
+  From: Gerald Edgerton &lt;jerrye@wizard.com&gt;
+ 
+</step></directions></recipe></recipeml>

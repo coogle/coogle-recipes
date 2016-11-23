@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Pasta Withfresh Tomato and Basil Sauce</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Pasta</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>medium</unit></amt>
+        <item>Tomatoes, skinned &amp; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Angel hair pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Basil, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Scallions, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Green olives, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing></ingredients>
+    <directions>
+      <step>  Cook &amp; drain the pasta.  In a serving bowl, combine the pasta with the
+  tomatoes &amp; remaining ingredients. Toss &amp; serve immediately. NOTE: In place
+  of green olives, use black olives, same amount.
+ 
+</step></directions></recipe></recipeml>

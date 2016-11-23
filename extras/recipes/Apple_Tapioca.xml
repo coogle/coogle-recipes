@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Tapioca</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat>
+        <cat>Low fat</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pearl tapioca</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Apples; peeled and cored</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Soak tapioca according to box and then drain. Bring water to a boil and add
+  tapioca.  Boil until clear and thick, stirring often.
+  
+  Cut apples into eighths and place in a 8x8" casserole. Sprinkle with sugar,
+  cinnamon and nutmeg.  Dot with butter.  Pour hot tapioca over all.  Bake
+  1/2 hour at 350ø or until apples are done.
+  
+  Per serving: 249 Calories; 8g Fat (28% calories from fat); 0g Protein; 47g
+  Carbohydrate; 21mg Cholesterol; 80mg Sodium
+  
+  Posted to Digest eat-lf.v097.n173 by &lt;ebburtis@ix.netcom.com&gt; on Jul 10, 97
+ 
+</step></directions></recipe></recipeml>

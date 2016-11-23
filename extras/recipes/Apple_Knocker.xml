@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Knocker</title>
+      <categories>
+        <cat>Alcohol</cat>
+        <cat>Beverages</cat>
+        <cat>Apples</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PATTI - VDRJ67A</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>ounces</unit></amt>
+          <item>Vodka</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Apple cider</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Strawberry liqueur</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Ice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine all ingredients in a shaker; cover and shake.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

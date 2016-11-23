@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Cake Ala Mode with Berries and Grand Marnier</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Kh</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Blueberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grand Marnier</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slices angel food cake</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Scoops vanilla ice cream</item></ing></ingredients>
+    <directions>
+      <step>  In a bowl mix berries with sugar and Grand Marnier.
+  
+  On each plate, set a slice of cake and top it with a scoop
+  of ice
+  cream. Spoon berry mixture over and around the cake.
+  Posted to MM-Recipes Digest V3 #245
+  
+  Date: Sat, 7 Sep 1996 21:14:22 -0700 (MST)
+  
+  From: jmchee@goodnet.com (Marina Cheesman)
+ 
+</step></directions></recipe></recipeml>

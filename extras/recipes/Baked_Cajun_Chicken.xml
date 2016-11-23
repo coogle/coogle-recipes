@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Cajun Chicken</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Cajun</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken pieces</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nonstick spray coating</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Nonfat milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onion powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Dried thyme; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Balck pepper</item></ing></ingredients>
+    <directions>
+      <step>  1. Remove skin from chicken. Rinse chicken, pat dry.
+  
+  2. Spray a 13 by 9 by 2 inch baking dish with nonstick coating.
+  
+  3. Arrange the chicken, meaty sides up, in dish. Brush with milk.
+  
+  4. In small bowl mix onion powder, thyme, garlic salt, white pepper, red
+  pepper, and black pepper.
+  
+  5. Sprinkle over chicken. Bake in a 375 degree oven for 45 to 55 minutes or
+  till the chicken is tender and no longer pink.
+  
+  Recipe by: Better Homes and Garden Diabetic Cookbook
+  
+  Posted to recipelu-digest by RecipeLu &lt;recipelu@geocities.com&gt; on Feb 05,
+  1998
+ 
+</step></directions></recipe></recipeml>

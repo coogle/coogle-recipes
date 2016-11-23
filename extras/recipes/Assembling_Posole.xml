@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Assembling Posole</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Pork shoulder, cut into; 1 inch pieces</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Essence</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh hominy</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Peeled, seeded, and chopped plum tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced garlic</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch of crushed red peppers</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch of cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>quarts</unit></amt>
+        <item>Pork stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh cilantro</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  In a large sauce pan, heat the olive oil. Season the pork with Essence.
+  When the oil is hot, sear the meat for about 2 minutes. Add the onions and
+  continue cooking for 2 minutes. Stir in the hominy, tomatoes, and garlic.
+  Season the mixture with crushed red pepper and cumin. Stir in the stock and
+  bring up to boil. Season the liquid with salt and pepper. Reduce the stock
+  to a simmer and cook for about 30 minutes, or until the stew thickens. Stir
+  in the cilantro.
+  
+  Yield: 6-8 servings
+  Recipe By     :ESSENCE OF EMERIL SHOW #EE2448
+  
+  Posted to MC-Recipe Digest V1 #304
+  
+  Date: Fri, 15 Nov 1996 23:13:46 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

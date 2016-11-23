@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Gourmet" Pizza Dough</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; to 2 1/4 c</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing></ingredients>
+    <directions>
+      <step>  Soften yeast in 1/3 c warm water for 5 minutes.  Add 2 c flour and the rest
+  of the ingredients.  Knead til smooth, adding additional flour as needed.
+  Place in greased bowl and cover and let sit til doubled. Punch down and
+  roll out to fit pizza pan.
+  
+  Use this dough to make Pizza Nissa Socca.  Also need recipe for Tomato
+  Pizza Sauce.
+  
+  Source:  Gourmet Magazine.
+  
+  Note:  I usually increase the salt and sugar slightly.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bayou Catfish Balls</title>
+      <categories>
+        <cat>Fish/shellf</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Catfish fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Hot sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt (to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper (to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs (beaten)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cooking oil</item></ing></ingredients>
+    <directions>
+      <step>  Rub fish with hot sauce, salt and pepper.  Set aside for 1 hour or
+  more. Cut fish into bite-size pieces and dip into eggs.  Roll in
+  cornmeal. Fry quickly in deep fat for 2 or 3 minutes, or until golden
+  brown. Drain.
+  
+  NOTE: Serve hot.
+  
+  From: Nancy Coleman                   Date: 04-13-96
+  Posted to MM-Recipes Digest V3 #244
+  
+  Date: Fri, 6 Sep 1996 23:00:30 -0400
+  
+  From: BobbieB1@aol.com
+ 
+</step></directions></recipe></recipeml>

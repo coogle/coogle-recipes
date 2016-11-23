@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fish in Lettuce Packets</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Minced shallots</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Safflower oil</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Boston lettuce leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>small</unit></amt>
+        <item>Snapper or flounder fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried tarragon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Green olive oil</item></ing></ingredients>
+    <directions>
+      <step>  1. In a small saucepan over medium heat, place vinegar, shallots, and
+  garlic and cook until soft (almost 5 minutes).
+  
+  2. Preheat oven to 350 degrees F. Lightly oil a large baking sheet with
+  safflower oil. Place lettuce leaves on baking sheet; do not overlap.
+  
+  3. Wash and pat dry fish fillets. Sprinkle with thyme, tarragon, and half
+  the olive oil. Spread with shallot mixture.
+  
+  4. Starting with small end of each fillet, roll it around shallot spread
+  and place the roll on top of a lettuce leaf. Fold lettuce around fish and
+  place packet seam side down on baking sheet. Brush packets with remaining
+  oil.
+  
+  5. Cover baking sheet with aluminum foil and bake for 20 to 30 minutes.
+  Remove foil and serve hot.
+  
+  Recipe By     : the California Culinary Academy
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

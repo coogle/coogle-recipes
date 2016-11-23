@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Nut Bread #2</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>(scant) sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped nuts (walnuts or pecans)</item></ing></ingredients>
+    <directions>
+      <step>  Cream butter and sugar.  Add eggs and blend well.  Sift flour and soda. Add
+  to egg mixture. Stir in mashed bananas and nuts. Pour into greased loaf pan
+  and bake at 350 for one hour and 15 minutes.  Cool at least 20 minutes
+  before removing and slicing.
+  
+  A NO-YEAST BREAD THAT IS
+  
+  QUICK AND EASY.
+  
+  From the &lt;Micro Cookbook Collection of Contemporary Recipes&gt;.  Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

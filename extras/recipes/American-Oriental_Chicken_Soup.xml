@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>American-Oriental Chicken Soup</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Poultry</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken Stock or canned Chicken Broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Fresh Ginger (2"); julienned</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>bunches</unit></amt>
+        <item>Green Onions diagonally sliced into 1/2-in pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Celery stalks cut diagonally in thin slices</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked Chicken; torn into bite-sized pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Hoisin sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Sliced water chestnuts (8oz) drained</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground pepper</item></ing></ingredients>
+    <directions>
+      <step>  PUT THE CHICKEN STOCK in a soup pot and set over high heat. Add the ginger,
+  green onions and celery. Bring to the boil, reduce heat, and simmer 10
+  minutes. Add the chicken, soy sauce and hoisin sauce and simmer 5 minutes.
+  Add the water chestnuts. Taste for seasoning and add salt and pepper. Serve
+  hot. May be made ahead a day. This freezes fine for a leftover. Don't
+  freeze it for making an impression.
+  
+  Makes 6 to 8 Servings
+  
+  NATHALIE DUPREE
+  
+  PRODIGY GUEST CHEFS COOKBOOK
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

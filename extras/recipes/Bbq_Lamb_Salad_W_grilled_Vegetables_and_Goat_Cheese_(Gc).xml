@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Lamb Salad W/grilled Vegetables and Goat Cheese (Gc)</title>
+      <categories>
+        <cat>Lamb-mt</cat>
+        <cat>Bbq-mt</cat>
+        <cat>Grill/broil</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Lamb tenderloins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>New mexico style bbq sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Mixed greens</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>slices</unit></amt>
+        <item>Goat cheese; 1/4-inch thick</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Pencil thin asparagus; grilled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red bell pepper; grilled and, seeded, cut into 4, pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Yellow bell pepper; grilled and, seeded, cut into 4, pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>New potatoes; cooked, grilled, and cut into, 1/4-inch thick, slices</item></ing></ingredients>
+    <directions>
+      <step>  Prepare a wood or charcoal fire and let it burn down to embers. Brush the
+  lamb with the barbecue sauce and season to taste with salt and pepper.
+  Grill for 3 minutes on each side or until done. Serve on top of mixed
+  greens with grilled vegetables and goat cheese.
+  
+  Yield: 4 servings
+  
+  Recipe by: GRILLIN'&amp; CHILLIN' SHOW #GR3621 Posted to MC-Recipe Digest V1
+  #673 by 4paws@netrax.net (Shermeyer-Gail) on Jul 15, 1997
+ 
+</step></directions></recipe></recipeml>

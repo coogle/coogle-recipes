@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Oatburger</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Main dish</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Oil OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Large onion, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Italian seasoning</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts, ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garlic salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flaked</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>nutriti nal yeast</item></ing></ingredients>
+    <directions>
+      <step>  Bring all ingredients to a boil. Turn down heat and add 4 1/2 c. rolled
+  oats. Do not stir. Cook about five minutes. Then set aside to cool. Form
+  patties with oiled mason jar lid. Place on oiled cookie sheet. Bake at 350
+  degrees for about 45 minutes, turning every 15 minutes. Serve with ketchup
+  or gravy. Makes about 20 ~25 medium sized burgers. (From _Vegetarian
+  Cooking for a Better World_, by Muriel Collura Golde, MA, MS, MLS,
+  published by NAVS)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

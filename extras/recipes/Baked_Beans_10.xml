@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Beans</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(1 lb. 15 oz.) Pork 'n Beans</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>DPQ sauce; (recipe below)</item></ing></ing-div>
+      <ing-div>
+        <title>DPQ SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Dr Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Catsup</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Garlic powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dry minced onion</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Crushed red pepper or red pepper sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Basil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix together in casserole dish and bake uncovered at 350? for one hour.
+  
+  DPQ SAUCE: Blend together on stir speed of blender for 2 minutes. Store in
+  tightly sealed container and refrigerate. Shake well before using. (Will
+  keep for several weeks in refrigerator.)
+  
+  Yield: 4 1/2 cups
+  Posted to brand-name-recipes by Ann_Bartholomew@dpsu.com on Feb 6, 1998
+ 
+</step></directions></recipe></recipeml>

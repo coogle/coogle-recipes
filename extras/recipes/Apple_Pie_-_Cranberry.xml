@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie - Cranberry</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Apples</cat>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit/></amt>
+          <item>Granny Smith apples</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Whole cranberries</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Oats</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter; in 1/2" squares</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Peel and slice apples and put in lemon juice. Then add all other filling
+  ingredients and mix in a bowl. Make topping in separate bowl. Put apple
+  mixture in pie shell. Sprinkle topping on liberally. Place butter squares
+  on pie. Bake at 300 deg. for 1/2 to 1 3/4 hours.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

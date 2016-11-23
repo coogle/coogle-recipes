@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Eggnog</title>
+      <categories>
+        <cat>Holidays</cat>
+        <cat>Beverages</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Ground Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Ground Ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Apple Juice; Chilled</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pint</unit></amt>
+          <item>Vanilla Ice Cream</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Ground Nutmeg</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Put the first 4 ingredients into a blender container and blend until well
+  mixed.  Spoon in the ice cream and blend until smooth. Pour into glasses
+  and top with the nutmeg, if desired.
+  
+  Posted by: Rich Harper From: Better Homes And Gardens Blender Cookbook
+  Copyright 1971
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Hannah's Cookies (Hannatadinkakut)</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>72</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Softened butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cake flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Almond halves -- for</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Decoration</item></ing></ingredients>
+    <directions>
+      <step>  Cover baking sheets with parchment or grease lightly. Preheat oven to 350F
+  In a mixing bowl, cream the butter and sugar until blended. Mix the flour
+  with the baking powder and add to the butter mixture, a little at a time.
+  Blend in the cream until a stiff dough forms.  Chill if necessary. Using 1
+  tsp of dough at a time, roll into small balls.  Place on the prepared
+  baking sheets.  Press an almond half in top of each ball. Bake for 10
+  minutes or until very light golden color and set. Cool on baking sheet.
+  Store in airtight tin or freeze.
+  
+  Recipe By     : DLGREAT
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

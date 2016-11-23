@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Quinoa</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Quinoa</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bouillon</item></ing></ingredients>
+    <directions>
+      <step>  Here are a few I got from Dr. Gabe Mirkin's website.
+  
+  as prepared at Dr. Gabe Mirkin's Fat Free Clinic
+  
+  Bring the bouillon to a boil, stir in the quinoa and return to boiling.
+  Reduce the heat, cover and simmer for 10-15 minutes, or until the liquid is
+  absorbed and the quinoa is transparent and tender. Quinoa can also be
+  toasted before cooking. Follow the instructions for millet, above.
+  
+  Yield: About 2 cups
+  
+  Posted to fatfree digest V98 #009 by JBennicoff &lt;JBennicoff@aol.com&gt; on Jan
+  4, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avoiding Imput Errors - Basic 4b</title>
+      <categories>
+        <cat>Manual</cat>
+        <cat>Mm</cat>
+        <cat>Lesson</cat>
+        <cat>6/93</cat>
+        <cat>Basics</cat></categories>
+      <yield>1</yield></head>
+    <ingredients/>
+    <directions>
+      <step>  Some errors that stop imports are very difficult to see and others are
+  really quite easy.  When you try to import IMPORT.ER1* or you import
+  manually you got some error messages; the most common and frightening is
+  "@ing at or before line #.." And you LOOK and just don't see ANYTHING. Well
+  there IS something there that is not correct...and here is a list and
+  examples of the most common errors.
+  
+   1. The difference between l (the LETTER) and 1 (the NUMBER) is slight but
+  MM accepts only NUMBERS in the quantity column.
+  
+   2. A backwards slant 1\2 is INCORRECT...1/2 is fine.
+  
+   3. A range of numbers is a NO NO...4-6 eggs won't do; pick 5...
+  
+   4. The two digits in the UNIT OF MEASUREMENT column should include ONLY
+  LETTERS.  When in that column, hit F1 for a complete list of the only
+  acceptable abbreviations.
+  
+   5. Be sure that all the units of measure start on the ninth column. (9
+  spaces from the left)
+  
+   6. The ingredient column can be only 39 columns long.
+  
+  Once you get used to these common errors your eye will pick it up quickly.
+  I hope this helps...
+  
+  *NOTE:   "IMPORT.ER1 is the file that MM creates (when you choose that
+  option) to copy your flawed recipes.
+   The  ones that download with errors. Sometimes it is difficult to SEE what
+  is wrong with them. This 'recipe' helps you pick up the common errors.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

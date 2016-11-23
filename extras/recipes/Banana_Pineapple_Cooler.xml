@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pineapple Cooler</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Pineapple juice (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Pineapple chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe bananas;cut into pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>Jane &lt;lmuiw@SERVER.INDO.NET.ID&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Fri, 26 Jul 1996 23:28:24 +0700</item></ing></ingredients>
+    <directions>
+      <step>  Pour the pineapple juice into the container of a blender and a high
+  speed,add the chunks of fruit a few at a time.Blend until smooth.  Makes 3
+  cups.
+  
+  EAT-L Digest 25 July 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

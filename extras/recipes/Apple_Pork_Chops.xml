@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pork Chops</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Pork chops</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pork chop fat or oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Butter salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Apples-unpeeled with cores</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Cook the chops using melted fat trimmed from the meat and 1 tsp butter.
+  (Note from Anne MacLellan; those concerned about their fat intake may chose
+  to use corn oil or some other vegetable oil rather than the pork fat).
+  Season to taste and set on hot platter. Keep warm.
+   Slice the apples 1/2" thick and add to the pan with 1 tsp butter, the
+  sugar and a few pinches of cinnamon or cloves. Cook over medium heat for
+  about 10 minutes, turning once or twice until some of apples are browned.
+  Arrange them around the chops and serve. Serves: 4-6
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

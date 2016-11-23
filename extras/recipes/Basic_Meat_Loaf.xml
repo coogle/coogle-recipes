@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Meat Loaf</title>
+      <categories>
+        <cat>Hamburger</cat>
+        <cat>Main dish</cat>
+        <cat>Meat loaf</cat>
+        <cat>Meats</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean Ground Beef</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bread Slices; *</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; Lg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; Chopped, 1 Sm</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Worcestershire Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard, Dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sauce **</item></ing></ingredients>
+    <directions>
+      <step>  *     You can substitute 1/2 Cup of Dry Bread Crumbs or 1/2 Cup of Wheat
+  **    You can use catsup, chili sauce or barbecue sauce as a topping in
+  Heat the oven to 350 degrees F.  Mix all the ingredients except the catsup
+  together.  Spread the meat mixture into an ungreased loaf pan, 9 X 5 X
+  3-inches or shape into a loaf in an ungreased baking pan.  Spoon catsup
+  onto the loaf and bake, uncovered, for 1 to 1 1/4 hours or until done.
+  Drain off the excess fat and serve sliced on a heated platter.
+  NOTE:
+  For leftover meat loaf, try the following:
+  BARBECUED MEAT LOAF:
+  For four 1/2-inch slices of meat loaf, mix 1/2 cup of barbecue sauce and 2
+  tb of water in a skillet.  Place the slices of meatloaf in the skillet,
+  turning to coat all sides with the barbecue sauce.  Cover and cook over
+  low heat, brushing the sauce on the slices occasionally, until the meat is
+  hot, about 10 to 15 minutes.
+  POTATO-TOPPED MEAT LOAF:
+  For four 1/2-inch slices of meat loaf, prepare some instant mashed
+  potatoes, enough for 4 servings, as directed on the package and set aside.
+   Set the oven control at broil/or 550 degrees F.  Broil the slices with
+  the tops 3 to 4 inches from the heat for 5 minutes.  Spread the potatoes
+  on the slices and sprinkle with shredded Cheddar cheese.  Broil until the
+  cheese is melted, about 2 minutes and serve hot.
+  SOUPED-UP MEAT LOAF:
+  For four 1/2-inch slices of meat loaf, mix 1/2 to 1 can of your favorite
+  condensed cream soup, such as cream of mushroom, (10 3/4 oz size) and 1/4
+  to 1/2 cup of milk in a skillet.  Heat to boiling, stirring frequently.
+  Reduce the heat and place the slices in the skilled, turning to coat all
+  sides with the sauce.  Cover and simmer until the meat is hot, 10 to 15
+  minutes and serve.
+ 
+</step></directions></recipe></recipeml>

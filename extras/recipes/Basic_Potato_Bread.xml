@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Potato Bread</title>
+      <categories>
+        <cat>Bread maili</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>medium</unit></amt>
+        <item>Potatoes or 1 cup mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water; 100-115 degrees</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour; about</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Seeds</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(Caraway, sesame, etc.)</item></ing></ingredients>
+    <directions>
+      <step>  	Scrub potatoes; boil until very tender. Drain, and mash well leaving all
+  skins. Allow to cool. 	Dissolve yeast in 1/2 C water, mix well with 3 Tbs.
+  of the flour in a LARGE bowl. Let stand 30 minutes. 	Add remaining 2C
+  water, salt, and most of the seeds. Add remaining flour and potatoes and
+  mix well. * Note: it is best to add the potatoes first and mix them with
+  the water. Then, while stirring, mix in the flour slowly as to avoid any
+  unmixed areas) 	Knead on a floured board 12-15 min.* Do not add more than a
+  sprinkle of flour to board while kneading. Shape into ball, and place in a
+  well oiled bowl. Turn bowl over onto kneading board (or plate), and let
+  rise in warm, draft place for about 1-2 hours; or until doubled in bulk.
+  	Remove dough and punch down, kneading a few minutes more. Slice in half,
+  and make into two round loaves.Pour on all remaining seeds over tops of
+  loaves, making sure to press down gently into dough. Place on well oiled
+  baking sheet. Let rise rise 30-35 min. 	Bake in pre-heated 400 degree oven
+  for about one hour. Bake no longer than 1:20. 	Allow to cool, enjoy with
+  hummus or Plochman's whole grain mustard!!
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : Josh Haygood &lt;haygood@netcom.com&gt;
+ 
+</step></directions></recipe></recipeml>

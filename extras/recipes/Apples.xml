@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apples</title>
+      <categories>
+        <cat>Snack</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>"&lt;Judy Garrison&gt;" &lt;bluj@JUNO.COM&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Fri, 9 Aug 1996 17:54:56 PST</item></ing></ingredients>
+    <directions>
+      <step>  After paring, core, slice into rings and dip in pretreatment solution for 2
+  minutes.  Drain and arrange on tray.  Dry until pliable.  1-2 days.
+  
+  EAT-L Digest  8 August 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

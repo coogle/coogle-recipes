@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crumb Pie</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Usenet</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Apples, tart</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, all-purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts, chopped (walnuts, pecans, etc.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pie crust</item></ing></ingredients>
+    <directions>
+      <step>  Core, peel and slice the apples.  Melt the butter and mix the rest in with
+  it. Pour over apples and mix around so the apples are coated. Put in an
+  unbaked pie shell.
+  
+  Combine brown sugar, flour, melted butter and nuts. Spread over top of the
+  filling.  Bake at 375 degrees F. for 50 minutes, or until it is bubbling.
+  
+  NOTES:
+  
+  *  One-crust apple-crumb pie -- The pie can also be frozen and then baked,
+  right from the freezer, at 360 for 90 minutes. The pies will keep a very
+  long time in the freezer and not be worse for wear.
+  
+  *  PS:  For those who like the quality of home-made pie crusts but the
+  convenience of ready-made, make a bunch of crusts someday when the mood
+  grabs you, and put them in the freezer in a big plastic bag.
+  
+  : Difficulty:  easy.
+  : Time:  10 minutes preparation, 1 hour baking.
+  : Precision:  approximate measurement OK.
+  
+  : Margaret Reek
+  : Rochester Institute of Technology, Rochester, NY
+  : mmr@ritcv.UUCP
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

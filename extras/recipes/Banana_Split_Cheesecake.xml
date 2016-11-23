@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Cheesecake</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CHOCOLATE COOKIE CRUST</title>
+        <ing>
+          <amt>
+            <qty>1 3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Finely crushed chocolate wafers</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter or margarine, melted</item></ing></ing-div>
+      <ing-div>
+        <title>BANANA SPLIT FILLING</title>
+        <ing>
+          <amt>
+            <qty>24</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg yolk</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Pureed banana (2 small bananas)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Banana schnapps</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla extract</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh pineapple chunks</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh strawberries</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chocolate ice cream topping, heated</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Whipped cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chopped nuts</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  This is from Cheesecake Extraordinaire by Mary Crownover
+  
+  This extrordinary cheesecake is the ideal choice for a festive birthday
+  celebration. You'll have fun decorating this colorful dessert.
+  
+  Chocolate Cookie Crust: In a small bowl stir together crushed wafers and
+  sugar. Add melted butter or margarine. Stir till well combined. Press crumb
+  mixture evenly onto the bottom and up the sides of a greased 9-inch
+  springform pan. Set aside.
+  
+  Banana Split Filling: In a large bowl combine cream cheese, sugar, and
+  cornstarch. Beat with an electric mixer till smooth. Add eggs and egg yolk,
+  one at a time, beating well after each addition. Beat in pureed banana,
+  banana schnapps, and vanilla extract. Pour the cream cheese mixture over
+  the crust.
+  
+  Bake at 350 degrees for 15 minutes. Lower the temperature to 225 degrees
+  and bake for 1 hour and 10 minutes or till the center no longer looks wet
+  or shiny. Remove the cake from the oven and run a knife around the inside
+  edge of the pan. Turn the oven off; return the cake to the oven for an
+  additional 30 minutes. Chill, uncovered, overnight.
+  
+  Pineapple, Strawberry, and Chocolate Topping: Just before serving, garnish
+  cheesecake with pineapple and strawberries. Drizzle with warm ice cream
+  topping. Dollop with wihpped cream and sprinkle with nuts. Makes 12 to 18
+  slices.
+  
+  Posted to Bakery Shoppe Digest150 by Sandra Swinford
+  &lt;sswinfor@cecasun.utc.edu&gt; on Jul 8, 1997
+ 
+</step></directions></recipe></recipeml>

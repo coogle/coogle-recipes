@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Noodle Salad with Chiles and Peanuts</title>
+      <categories>
+        <cat>Asian</cat>
+        <cat>Noodles</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Dried soba noodles or spaghetti</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oriental sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Balsamic vinegar or red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cilantro; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Green onions; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Jalapeno peppers; seeded and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry roasted peanuts, lightly salted; chopped coarsely lightly salted; chopped coarsely lightly salted; chopped coarsely</item></ing></ingredients>
+    <directions>
+      <step>  Cook noodles or spaghetti until just tender.  Drain.  Rinse with cold water
+  until cool. Drain well.  Transfer to large bowl.  Combine sesame oil, soy
+  sauce, sugar, vinegar and salt in small bowl.  Stir to dissolve sugar.  Add
+  to noodles.  Add choppped cilantro, chiles, and onions.  Mix well. Sprinkle
+  peanuts over individual salads.
+  
+  Recipe By     : Bon Apetit Magazine
+  
+  Posted to CHILE-HEADS DIGEST V3 #116
+  
+  Date: Fri, 27 Sep 1996 13:00:45 -0500
+  
+  From: Judy Howle &lt;howle@EbiCom.net&gt;
+  
+  NOTES : Can be prepared 1 day ahead.   Cover and refrigerate.  Sprinkle
+  chopped peanuts over salad at serving time.
+ 
+</step></directions></recipe></recipeml>

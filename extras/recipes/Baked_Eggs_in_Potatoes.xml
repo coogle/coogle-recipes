@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Eggs in Potatoes</title>
+      <categories>
+        <cat>Eggs</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Baking potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>small</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chopped chives</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees. Scrub and dry potatoes, place on a baking
+  sheet and rub a little oil or butter over skins. Place on baking sheets,
+  bake 1 to 1 1/4 hours. Remove from oven.
+  
+  Cut a slice lengthwise off each potato. Scoop out insides. Mash scooped out
+  potatoes in a bowl with remaining butter and seasoning beat cheese into
+  potato mixture. Press mixture back into shells, leaving a hollow in center
+  large enough for an egg. Season and spoon the cream over. Return to the
+  oven. Bake 8 to 10 minutes until eggs are lightly set. Sprinkle the chives
+  and serve.
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 16, 1998
+ 
+</step></directions></recipe></recipeml>

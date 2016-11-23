@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Ff Granola</title>
+      <categories>
+        <cat>Low fat</cat>
+        <cat>Cereals</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>8 C oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>(approx) concentrated fruit</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Raisins</item></ing></ingredients>
+    <directions>
+      <step>  Mix it up in a large bowl, then spread into a jelly-roll type pan. Bake at
+  250 F until done, an hour or so, stirring occasionally. Pour the warm
+  granola back into the mixing bowl and gently fold in dried fruit. When
+  cool, store in an airtight container.
+  
+  That's the basic recipe, but it's easy to modify. Here are things I
+  substitute or add:
+  
+  honey, nutmeg, maple syrup, Smuckers syrup, amaranth seeds, oat bran, rye
+  flakes, craisins, dried apricots.
+  
+  Here are a few baking tricks:
+  
+  * Don't overcook it. You'll end up with a pan-o-pebbles. Bake only until
+  "al dente". * It's less messy (with all that stirring) to use a pan with
+  high sides. * zip lock bags make good storage containers.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

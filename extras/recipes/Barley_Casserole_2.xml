@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley Casserole</title>
+      <categories>
+        <cat>Vegan</cat>
+        <cat>Digest</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sliced mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic clove, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Washed pearl barley</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Stock</item></ing></ingredients>
+    <directions>
+      <step>  Saute some sliced mushrooms (say a cup or so), in a teaspoon or so of
+  butter.  Or sweat the mushrooms after sprinkling with butter flavor or
+  butter extract.  Take a 1-1/2 quart ovenproof dish and add 1-1/2 cups
+  washed pearl barley.  Add 2 cans (about 3-3/4 c) stock (see note below).
+  Add the mushrooms, deglazing the pan with a bit of the stock. Bake,
+  covered, in a medium oven (350-375 deg F) until the barley is tender
+  (notice that barley never gets soft--it's more like al dente, there's a
+  little resistance, but no starchy core) which takes about an hour or so,
+  depending on the age of the barley, etc.  Add more stock if it dries out
+  before it's done, but don't drown it.
+  
+  Optional extras--sweat a little minced garlic, a clove or two, in a little
+  broth until it softens.  Do the same with chopped onion, about 1/4 to 1/2
+  cup.
+  
+  Broth note--I use beef-flavored boullion because the flavors of beef and
+  barley go very well together--this dish is very "meaty" and satisfying. You
+  can certainly use any good broth, as long as it's not too salty. There are
+  quite a few good vegetarian beef-flavored broths, as well as vegetable
+  flavored broths, both canned and dry. This isn't good with chicken-flavored
+  broth; something about the barley just doesn't work.
+  
+  Two good books are Greene on Grain and Great Grains, but I think this
+  recipe came from somewhere else.
+  
+  Regards, Mary Mary Shafer DoD #362 KotFR SR-71 Chief Engineer NASA Dryden
+  Flight Research Center, Edwards, CA shafer@ferhino.dfrf.nasa.gov
+  
+  From Fatfree Digest April-May 1994, Formatting by Sue Smith (using MMCONV)
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

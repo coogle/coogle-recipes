@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Fruit Kabobs</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Grill</cat>
+        <cat>Fruits</cat>
+        <cat>Marinades</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BILLS200896</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Sirloin steak; boneless, cut 1" thick</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Plain yogurt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Fresh lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Curry powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground red pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Ripe mango; peel, cut into 3/4" pieces</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Partailly freeze beef to firm; slice into 1/8" thick strips. Combine
+  yogurt, lemon juice, curry and red pepper. Place beef strips and marinade
+  in plastic bag, turning to coat. Close bag securely and marinate in
+  refrigerator 30 minutes, turning occasionally. Meanwhile, soak 12" bamboo
+  skewers in water. Peel mango and cut into 3/4" pieces. Remove beef from
+  amrinade; discard marinade. Thread equal amount of beef strips (weaving
+  back and forth) and mango pieces on each skewer. Place kabobs on grid over
+  medium coals. Grill 4-5 minutes, turning once. Season with salt to taste.
+  
+  NOTE: Peaches, nectarines, plums or pineapple may be substituted for mango.
+  Peel and cut fruit into 3/4" pieces. Or, if doubling the recipe, try using
+  different fruits.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

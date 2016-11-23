@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Catfish A'la Meuni'ere</title>
+      <categories>
+        <cat>Creole</cat>
+        <cat>Seafood</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Catfish fillets</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cracker meal</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Parmesan cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon and herb seasoning</item></ing></ing-div>
+      <ing-div>
+        <title>MEUNI'ERE SAUCE</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Green onions,chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Hot pepper sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Parsley,minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>White pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Worcestershire sauce</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Thaw frozen fish according to package directions.
+  2. Beat egg and water.
+  3. Combine cracker meal, cheese and seasoning; dip fish fillet in beaten
+  egg, then roll in crumb mixture.
+  4. Pour Meuni'ere Sauce in shallow baking dish; place fillets in dish,
+  turning once or twice to coat both sides well.
+  5. Bake in preheated 350'F. oven 40 minutes, or until fish flakes easily.
+  *** MEUNI'ERE SAUCE ***
+  1. Combine all ingredients and simmer 5 minutes.
+  
+  Miscellaneous recipes from the collection of Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mo-misc.zip
+ 
+</step></directions></recipe></recipeml>

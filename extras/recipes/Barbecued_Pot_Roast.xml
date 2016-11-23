@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Pot Roast</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean pot roast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>24</qty>
+          <unit/></amt>
+        <item>Peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Worcestershire sauce</item></ing></ingredients>
+    <directions>
+      <step>  From: hz225wu@unidui.uni-duisburg.de (Micaela Pantke) (COLLECTION)
+  
+  Date: Mon, 6 Sep 93 09:30:43 +0200
+  
+  From: ynnuf@yetti.amigans.gen.nz (Doreen Randal)
+  
+  Source: Crockpot Cooking from Barbara Blitz Sprinkle salt over the roast
+  and place in crock pot. Spread tomato paste over meat; imbed peppercorns
+  into paste; top with onions and worcestershire sauce. Cover and cook on LOW
+  8-10 hrs. Serve meat with accumulated gravy.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /MISC
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

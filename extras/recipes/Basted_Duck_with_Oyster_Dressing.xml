@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basted Duck with Oyster Dressing</title>
+      <categories>
+        <cat>Game</cat>
+        <cat>Duck</cat>
+        <cat>Seafood</cat>
+        <cat>Dressings</cat>
+        <cat>Poultry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Bread stuffing mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oysters</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing></ingredients>
+    <directions>
+      <step>    Season duck cavity with salt and pepper. Add oysters, drained and
+  chopped, to bread stuffing. Use oyseter liquid as part of liquid to
+  moisten. LIghtly stuff duck. Place remainder in separate pan to bake with
+  duck. Mix butter, lemon juice, paprika and thyme. Bake duck on rack in
+  covered roaster in 325 deg. oven for about 2 1/2 hours. Baste often with
+  lemon mixture. Baste dressing with duck drippings. remove cover at the last
+  to brown duck.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

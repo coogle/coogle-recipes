@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Beef Cups</title>
+      <categories>
+        <cat>Main</cat>
+        <cat>Dish</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Extra lean ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Onion; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Biscuits, canned</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Barbecue sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese, shredded</item></ing></ingredients>
+    <directions>
+      <step>  Brown hamburger; add sauce, onion and brown sugar. Simmer. In greased
+  muffin tin, put 1 biscuit in each cup and shape into a cup. Spoon hamburger
+  mixture into cups. Sprinkle cheddar cheese over. Bake at 400 degrees for 10
+  to 12 minutes.
+  Posted to MC-Recipe Digest V1 #268
+  
+  Date: Tue, 29 Oct 1996 09:57:45 -0800
+  
+  From: Mary Ash &lt;smile@ridgecrest.ca.us&gt;
+ 
+</step></directions></recipe></recipeml>

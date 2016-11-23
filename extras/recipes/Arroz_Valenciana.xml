@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Valenciana</title>
+      <categories>
+        <cat>Rice</cat>
+        <cat>Rice cooker</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chorizo (Spanish Sausage); cut in 3/4"pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Achiote</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Hot Cooked Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Frozen Peas; thawed and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Carrot; slivered</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt And Freshly Ground Pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Hard-Boiled Eggs; shelled/quartered</item></ing></ingredients>
+    <directions>
+      <step>  Fry sausage until well cooked and browned. Remove sausage from pan; keep
+  warm. If necessary, add enough oil to pan to make 2 tablespoons oil. Add
+  achiote; cook until oil is red. Combine chorizo with rice, peas, and carrot
+  in oil; mix, stirring frequently, until hot. Season to taste. Arrange
+  quaretered eggs on top and serve immediately.
+  
+  NOTES : The Spanish use saffron to color their delicious paella, but in
+  Puerto Rico and many South American countries achiote (annatto seed) is
+  used to color native rice dishes. Achiote is tasteless. The red coloring is
+  obtained by slowly heating it in oil.
+  Recipe by: The Ultimate Rice Cooker Cookbook By Betty L. Torre
+  
+  Posted to recipelu-digest Volume 01 Number 449 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Jan 04, 1998
+ 
+</step></directions></recipe></recipeml>

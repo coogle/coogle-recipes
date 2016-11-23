@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Jam (Weird But Good)</title>
+      <categories>
+        <cat>Condiments</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Ripe bananas, mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Lemons</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Olive-sized pieces of fresh</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Some whole clovers</item></ing></ingredients>
+    <directions>
+      <step>  Squeeze juice from lemons and slice the rind into paper thin strips
+  Boil the sugar and water for 10 minutes, then add the juice and rind,
+  the bananas, ginger and a few cloves (to taste).
+  
+  Cook slowly for 1/2 to 3/4 of an hour. Stir carefully so it won't
+  scorch. It'll be pale (actually a weird pinkish color.) Take out
+  ginger. Put in jars and process 10 minutes in water bath covered by
+  1". About 7 8oz jars.
+  
+  This is truly a strange "jam." But it's delicious on toast, waffles,
+  or muffins, and little kids like it.
+  
+  I discovered by accident that banana jam also makes a truly wonderful
+  filling for one of my favorite desserts, a little number called
+  Farfel Cake (which contains no farfel and is not a cake.) I will
+  provide it. It really is a great recipe--easy to make, delicious to
+  eat and even a little impressive to look at.  Great with hot coffee
+  or tea.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

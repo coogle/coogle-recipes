@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Cream</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Dairy</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Envelope unflavored gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy cream, or 2 cups whipped topping</item></ing></ingredients>
+    <directions>
+      <step>  Sprinkle gelatin on cold water. Beat egg yolks, sugar &amp; salt in the top of
+  a double boiler. Beat until light. Add milk. Cook over boiling water,
+  stirring constantly, until mixture is thick &amp; smooth. Add softened gelatin,
+  dissolve. Add vanilla. Cool until thick, stirring often. Whip cream until
+  it is very thick, but not stiff, fold into the cooled gelatin mixture. Pour
+  into a 6-cup mold rinsed in cold water, chill until set. Unmold, serve with
+  chocolate sauce. Makes 6 servings.
+  
+  My Notes: I added an extra egg yolk, &amp; about half a pint of red raspberries
+  to the milk mixture to make sure it would thicken. I didn't have heavy
+  cream, so I used a cup of lite sour cream.
+  
+  From: A &amp; P Cookbook &amp; Shopping Guide Shared By: Pat Stockett
+ 
+</step></directions></recipe></recipeml>

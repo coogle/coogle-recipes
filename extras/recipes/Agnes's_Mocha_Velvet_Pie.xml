@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Agnes's Mocha Velvet Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>8-inch pie shell</item></ing></ing-div>
+      <ing-div>
+        <title>PIE FILLING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Square unsweetned chocolate; Melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Instant coffee grounds</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cream for whipping</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Prepare 8-inch pastry shell.
+  
+  2. Cream butter in medium-size bowl and gradually add sugar, creaming well
+  after each addition.
+  
+  3. Cool melted chocolate; blend into butter-sugar mixture with instant
+  coffee and vanilla.
+  
+  4. Add eggs, one at a time, beating VERY WELL after each addition. (Use an
+  electric beater or mixer, for you'll need to beat in each egg 5 minutes to
+  make mixture creamy, thick, and fluffy.) 5. Turn into baked pastry shell;
+  chill 1 - 2 hours. Just before serving, whip cream and garnish pie.
+  Per serving: 2316 Calories; 148g Fat (57% calories from fat); 22g Protein;
+  232g Carbohydrate; 606mg Cholesterol; 2201mg Sodium
+  
+  Recipe by: Unknown
+  
+  From The Chocolate Archives, Dec 1997, http://www.choco.com
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Auntie's Aloha Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Hawaiian</cat>
+        <cat>Family</cat>
+        <cat>Favorites</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cherry pie filling</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(20 oz) crushed pineapple; not drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh coconut; or packaged</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Macadamia nuts; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter; melted</item></ing></ingredients>
+    <directions>
+      <step>  Place all the ingredients, in the order given, in a greased 9"x13" pan. DO
+  NOT MIX. Bake for 1 hour at 350 degrees. Me ke aloha, Mary
+  
+  NOTES : E hele mai oukou e ai!  (Come and eat!)
+  
+  Recipe by: Auntie Kaiulani Posted to TNT - Prodigy's Recipe Exchange
+  Newsletter  by MarySpero@prodigy.com (MS MARY E SPERO) on Jul 25, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Vegetable Soup</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Microwave</cat>
+        <cat>Soups/stews</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>BEEF BONE STOCK:</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Meaty bones sawed into piece</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Halved onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Quartered carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Outer stalk celery cut into 3 pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Turnip sliced optional</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch of thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Parsley stalks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>SOUP:</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pints</unit></amt>
+        <item>Beef bone stock with fat removed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fat from stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Diced carrot</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced turnip optional</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced parsnip optional</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Cross cut shanks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Barley (if used soup must be eated in a day or two)</item></ing></ingredients>
+    <directions>
+      <step>       STOCK: Wash soup bones in cold water, place in
+  large kettle
+     and cover with cold water, about 4 pints. Bring to
+  a boil
+     slowly, skimming when necessary. Add vegetables,
+  peppercorns,
+     herbs and salt. Cover and simmer 2-3 hours. Strain
+  stock into a
+     large bowl and discard the bones and vegetables.
+  Store stock,
+     covered, overnight in refrigerator. Next day remove
+  the fat and
+     retain 2-3 tb of it for the soup.
+       SOUP: Place fat in soup kettle and saute onions,
+  carrots,
+     celery, turnips and parsnips over low heat for 10
+  minutes.
+     Increase heat and add boned and diced shank meat.
+  Cook,
+     stirring, until beef juices run out and brown. Add
+  stock,
+     barley, tomatoes, sugar, salt and pepper. Bring to
+  a boil.
+     Reduce heat, cover and simmer for 1 1/2 hours or
+  until beef is
+     tender. Soup is ready to serve. Soup improves when
+  served the
+     next day.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

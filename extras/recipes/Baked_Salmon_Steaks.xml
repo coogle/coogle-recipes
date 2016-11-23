@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Salmon Steaks</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Salmon steaks</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Assorted dried herbs</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter -- add lemon juice and seasonings. Place fish in shallow
+  casserole, and pour lemon butter mixture over top. Bake at 350 for 25-30
+  minutes. Do not over cook.
+  
+  Recipe by: Carol Mann
+  
+  Posted to KitMailbox Digest  by wsmann@juno.com (William S Mann) on Feb 14,
+  1998
+ 
+</step></directions></recipe></recipeml>

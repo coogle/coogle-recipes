@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andouille and Potato Soup</title>
+      <categories>
+        <cat>Soups/stews</cat>
+        <cat>Potatoes</cat>
+        <cat>Sausage</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Andouille sausage; cut 1" pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sprigs Fresh thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>White potatoes; peeled, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>gallon</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly-ground black pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped parsley</item></ing></ingredients>
+    <directions>
+      <step>  In a large pot, over medium heat, add the olive oil. When the oil is hot,
+  add the onions and saute for 2 minutes. Season with salt and pepper. Add
+  the sausage and continue to saute for 2 minutes. Stir in the garlic and
+  herbs. Add the potatoes and stock. Bring the liquid to a boil and reduce to
+  a simmer. Simmer the soup for 30 minutes. Add chopped parsley and season
+  the soup with salt and pepper.
+  
+  Recipe Source: EMERIL LIVE with Emeril Lagasse From the TV FOOD NETWORK -
+  (Show # EM-1A61 broadcast 11-19-1997) Downloaded from their Web-Site -
+  http://www.foodtv.com
+  
+  Formatted for MasterCook by Joe Comiskey, aka MR MAD - jpmd44a@prodigy.com
+  ~or- MAD-SQUAD@prodigy.net
+  
+  11-20-1997
+  
+  Recipe by: Emeril Lagasse
+ 
+</step></directions></recipe></recipeml>

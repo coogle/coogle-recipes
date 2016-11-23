@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Dipping Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Vietnamese</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>small</unit></amt>
+        <item>Cloves garlic, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground chili paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fresh thai bird chili, chopped (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Hot water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh lime juice with pulp</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shredded carrots for</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garnish</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fish sauce</item></ing></ingredients>
+    <directions>
+      <step>  Place garlic, chili paste and chili in a mortar.  With a pestle, pound into
+  a paste.  (If you do not have a mortar &amp; pestle, finely mince the garlic
+  and chili.)
+  
+  Combine the garlic mixture with the remaining ingredients in a small mixing
+  bowl.  Stir until the sugar has dissolved.  Ladle sauce into serving bowls
+  and float the carrot slivers on top.
+  
+  Reprinted from "The Best of Vietnamese &amp; Thai Cooking" cookbook. Favorite
+  recipes from Lemon Grass Restaurants and cafes.
+  Posted to MM-Recipes Digest  by scotlyn@juno.com (Daniel S Johnson) on Feb
+  23, 1998
+ 
+</step></directions></recipe></recipeml>

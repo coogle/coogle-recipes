@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Bbq Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Bar-b-q</cat>
+        <cat>My</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice/cider</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Grated, peeled apple</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Grated onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>Bring</qty>
+          <unit>to</unit></amt>
+        <item>a boil.  Reduce heat and simmer 15 minutes. Rub meat with 1 T</item></ing></ingredients>
+    <directions>
+      <step>  pepper, 1 T paprika, 2 t chili powder, 1/2 t celery salt, 1/2 t ground red
+  pepper and 1/4 t dry mustard before cooking. Baste with 1/2 c apple juice
+  while cooking.  Add sauce last 15 minutes.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

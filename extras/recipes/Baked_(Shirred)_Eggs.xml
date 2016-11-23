@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked (Shirred) Eggs</title>
+      <categories>
+        <cat>Cheese/eggs</cat>
+        <cat>Kathy's</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Skim milk</item></ing></ingredients>
+    <directions>
+      <step>  break and slip eggs into greased shallow baking dish. Spoon milk over eggs.
+  Bake in preheated 325 degrees oven until whites are completely set and
+  yolks beginto thicken but not hard, about 12 to 18 min.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

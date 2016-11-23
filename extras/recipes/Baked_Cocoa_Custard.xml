@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Cocoa Custard</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs -- slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cocoa Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350.
+  
+  In a medium bowl, combine eggs and vanilla.  In a small bowl, combine sugar
+  and cocoa.  Pour sugar and  cocoa mixture into eggs.  Combine with wire
+  whisk.  Add milk.  Pour into custard cups.  Place cups in a 13 x 9 baking
+  pan.  Pour water to 1 inch deep in pan.  Bake one hour or until a knife
+  inserted into custard comes out clean.
+  
+  Makes 6.
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

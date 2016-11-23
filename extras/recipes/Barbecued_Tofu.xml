@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Tofu</title>
+      <categories>
+        <cat>Moosewood</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Tofu cakes; pressed and cubed</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Finely chopped onions</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Garlic cloves; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground fennel seeds</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground coriander</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cayenne</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Green or red bell pepper; chopped</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Tamari soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Fresh lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Molasses; or brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cider vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Prepared mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Tomato paste; (from 7oz can)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>dashes</unit></amt>
+          <item>Tabasco sauce; or to taste</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Saute the vegetables and spices. Whisk together the sauce ingredients.
+  Combine the sauteed vegetables and the sauce and pour over tofu cubes in a
+  shallow baking pan. Bake covered at 350F for 30 minutes and uncovered for
+  another 30 minutes, stirring very gently to avoid breaking the tofu cubes
+  throughout the cooking period. Serve on rice with a side dish of cole slaw
+  or mixed greens. Or pack it into a pita to make a Dixie Pita Sandwich.
+  
+  Recipe from NEW RECIPES FROM MOOSEWOOD RESTAURANT, by The Moosewood
+  Collective © 1987, used with permission of Ten Speed Press; CompuCook's
+  Recipe Collection.
+  
+  Posted by phannema@wizard.ucr.edu and mcBuster on 97
+  
+  Recipe by: Moosewood
+ 
+</step></directions></recipe></recipeml>

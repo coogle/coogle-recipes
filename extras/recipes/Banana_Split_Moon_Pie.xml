@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Moon Pie</title>
+      <categories>
+        <cat>Moon</cat>
+        <cat>Pie</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chilled banana moon pie.</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chocolate syrup</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ice cream</item></ing></ingredients>
+    <directions>
+      <step>  Split your chilled Moon Pie. Place thin slices of bananas on both sides..
+  Place them on a plate and cover with a thin coat of chocolate. Sprinkle
+  with nuts and add a cherry to each half.
+  
+  Recipe by: Moon Pie®
+  
+  Posted to brand-name-recipes by Barbra&lt;barbra@pipeline.com&gt; on Feb 18, 1998
+ 
+</step></directions></recipe></recipeml>

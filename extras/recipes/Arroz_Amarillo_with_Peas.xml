@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Amarillo with Peas</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Lemon, Juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Saffron threads,, loosely packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion,, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic,, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Longgrain white rice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock,, preferably homemade</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh peas or frozen petits pois</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly ground black pepper</item></ing></ingredients>
+    <directions>
+      <step>  In a small saucer, stir together the lemon juice and the saffron and leave
+  to soak for 15 minutes.
+  
+  In a large saucepan, heat the olive oil over medium heat. Add the onion and
+  saute for 4 to 5 minutes, or until softened. Add the garlic and stir for 1
+  minute more, until the aroma of the garlic is released. Add the rice and
+  stir for 3 to 4 minutes, until the kernels are slightly toasty and make a
+  clicking noise on the pan. Stir in the lemon juice and saffron mixture,
+  then add the chicken stock and bring to a boil. Add the fresh peas, if
+  using, otherwise add the frozen peas during the last 10 minutes of cooking
+  time. Reduce the heat so that the liquid is simmering. Cover and simmer for
+  20 to 25 minutes, stirring occasionally, until the liquid is absorbed and
+  the rice is tender. Serve hot.
+  
+  Yield: 6 servings
+  Posted to MC-Recipe Digest V1 #330
+  
+  Recipe by: TOO HOT TAMALES SHOW #TH6239
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+  
+  Date: Thu, 5 Dec 1996 21:11:52 -0500
+ 
+</step></directions></recipe></recipeml>

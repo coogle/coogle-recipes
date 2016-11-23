@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Cream Kuchen</title>
+      <categories>
+        <cat>German</cat>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Yeast; dry, active</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; unbleached, unsifted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; large filling-----------</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Apples; tart, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour; unbleached</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; large</item></ing></ingredients>
+    <directions>
+      <step>  CAKE: Mix yeast, salt, 4 T sugar, and 3/4 cup flour. Add butter to milk.
+  Heat until very warm (120-130 degrees F.). Gradually add milk to flour
+  mixture. Beat for 2 minutes. Add egg and 1/2 cup flour. Beat with an
+  electric mixer on high speed for 2 minutes. Mix in enough flour to form a
+  soft dough.  Knead for 5 to 10 minutes, until dough is shiny and elastic.
+  Place in greased bowl and let rise for 1 hour or until doubled in bulk. Pat
+  dough into well-greased 10-inch springform pan pressing the dough 1 1/2
+  inches up the sides of the pan. FILLING: Toss apples with lemon juice,
+  cinnamon, 1/4 cup sugar, and 2 T of flour. Arrange in rows on top of the
+  dough.  Beat together cream cheese, 1/2 cup sugar, and egg. Spread over
+  apples.  Let rise in warm place for 1 hour. Bake at 350 degrees F. for 30
+  minutes.  Best when served warm.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

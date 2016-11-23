@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basics: Fresh Pasta</title>
+      <categories>
+        <cat>Pastanoodle</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Fresh pasta</item></ing></ingredients>
+    <directions>
+      <step>  Basics for new cooks:
+  
+  In large pot, cover and bring water and salt to full rolling boil. Stir in
+  pasta, separating pieces; return to boil and boil, uncovered and stirring
+  occasionally, for 1-3 minutes or until tender but firm. Drain well.
+  
+  Tip: If a sauce is to be served on pasta, do not rinse. The starch on the
+  surface of the pasta will allow the sauce to cling to the pasta.
+  
+  Source: Canadian Living magazine, Apr 95 Presented in article by Elizabeth
+  Baird: "Only The Best" Recipe by Canadian Living Test Kitchen
+  
+      [-=PAM=-]   PA_Meadows@msn.com
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Pajama's Pancake Mix</title>
+      <categories>
+        <cat>Mix</cat>
+        <cat>Seafood</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>WALDINE VAN GEFFEN VGHC42A</title></ing-div>
+      <ing-div>
+        <title>THE MIX</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Self-rising flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Bisquick</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Non-dairy creamer powder</item></ing></ing-div>
+      <ing-div>
+        <title>TO USE THE MIX</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>7-up</item></ing>
+        <ing>
+          <amt>
+            <qty>1 3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Prepared pancake mix</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  THE MIX-In an 8-cup container, stir together flour, Bisquick, sugar and
+  creamer. Cover tightly. Refrigerate mix to use within 3 months. Makes 7
+  cups of mix. TO USE-Into  blender, put egg, 7-up and prepared pancake mix.
+  Blend at high speed until  smooth, 1 minute. Allow 1/3 c batter for each 6"
+  pancakes. Makes 8  pancakes. Source: Gloria Pitzer's Secret Recipe
+  Newsletter.
+  Posted to EAT-L Digest 25 Sep 96
+  
+  Date:    Thu, 26 Sep 1996 18:07:26 -0400
+  
+  From:    Simps &lt;c.simpson@WORLDNET.ATT.NET&gt;
+ 
+</step></directions></recipe></recipeml>

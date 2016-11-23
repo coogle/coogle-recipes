@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Millet Muffins</title>
+      <categories>
+        <cat>Bread/muffi</cat>
+        <cat>Fruits</cat>
+        <cat>Grains</cat>
+        <cat>Low fat</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Soy Flour; Plus</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Millet</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Egg Beaters® 99% Egg Substitute; Or Equiv</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bananas; Mashed, Overripe</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Golden raisins</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 F.  In a large bowl, mix together flours, baking soda,
+  salt, and millet. Set aside.
+  
+  In blender, puree on high speed the applesauce, egg or equivilent, bananas
+  and raisins.  Add wet stuff to dry, moisten evenly.
+  
+  Spoon batter into non-stick 12 muffin tin dividing evenly and bake 40-50
+  minutes at 350 F or until browned.
+  
+  Remove muffins from pan, cool to room tempeerature.
+  
+  Wrap and chill.  Or eat on the spot.
+  
+  This is really good, not too sweet.  Actually, these are less sweet than
+  zucchini bread.
+  
+  My calculations indicate approximately 7% calories from fat.  This could be
+  reduced but I used regular soy flour.
+  
+  adapted from Zucchini Bread Adapted from _Sweet &amp; Natural_ by Janet
+  Warrington Posted by escott@gdwest.gd.com (Erin L Scott) to Fatfree
+  
+  From Fatfree Digest April-May 1994, Formatting by Sue Smith (using MMCONV)
+  Posted to EAT-L Digest 23 October 96
+  
+  Date:    Thu, 24 Oct 1996 19:27:22 -0700
+  
+  From:    Reggie Dwork &lt;reggie@REGGIE.COM&gt;
+  
+  NOTES : Cal 133.2
+  
+  Fat  1.1g
+  
+  Carb  27.9g
+  
+  Fib  3.6g
+  
+  Pro  5.3g
+  
+  Sod  329mg
+  
+  CFF  6.7%
+ 
+</step></directions></recipe></recipeml>

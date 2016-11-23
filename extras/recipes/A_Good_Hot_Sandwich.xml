@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Good Hot Sandwich</title>
+      <categories>
+        <cat>Sandwiches</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cubed American cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Hard-cooked eggs; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Spam; cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped green bell pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped green olives</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped sweet pickle</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients; mix well. Put into hamburger buns and wrap each
+  sandwich in foil. Bake at 325F for 30 minutes.
+  
+  Recipe by: Hellen Mitten
+  
+  Posted to recipelu-digest Volume 01 Number 274 by Nancy Pallotta
+  &lt;nancee@neo.lrun.com&gt; on Nov 18, 1997
+ 
+</step></directions></recipe></recipeml>

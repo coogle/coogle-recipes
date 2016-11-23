@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cream Cake with Strawberry Cream Filling</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CAKE</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Sifted flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Almond extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Banana extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Heavy cream</item></ing></ing-div>
+      <ing-div>
+        <title>SIMPLE SYRUP</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Creme de banana</item></ing></ing-div>
+      <ing-div>
+        <title>STRAWBERRY FILLING</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Whipping cream</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Mashed fresh strawberries</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Grand Marnier</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Banana, sliced</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cake: Sift together flour, baking powder and salt; set aside. Beat eggs
+  until light and foamy. Add flavorings. Add sugar gradually. Add flour
+  mixture alternately with cream, beating after each addition until just
+  smooth. Pour batter into two 9" greased round cake pans and bake in a
+  preheated 350 degree oven 40 minutes or until done. Cool on racks and then
+  brush with Simple Syrup.
+  
+  Simple Syrup: Combine sugar and water in a heavy small saucepan. Bring to a
+  boil over moderate heat, stirring constantly until sugar is dissolved.
+  Remove from heat and cool to room temperature. Stir in creme de banana.
+  
+  Strawberry Frosting: Whip cream in large chilled bowl on low speed until
+  soft peaks form. Add Grand Marnier and sugar and beat on high speed until
+  spreading consistency. Fold in mashed strawberries. Spread this mixture
+  between layers and add sliced banana on top of bottom layer. Add remaining
+  mixture on top and sides of cake. Submitted By PGL@IGLOU.COM (DON THOMAS)
+  On   27 FEB 1995 053043 -0700
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>4 Day Coconut Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(16 oz) Yellow Cake Mix</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>(6 oz) frozen and thawed shredded coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing></ingredients>
+    <directions>
+      <step>  The night before baking the cake, combine sugar, sour cream and coconut in
+  a covered dish and set in refrigerator.
+  
+  The next day, prepare the cake and bake in 2 layers. Cool. Split each layer
+  in half where you have four layers. Fill each layer with coconut mixture.
+  Pour remaining over top and sides of cake. Store cake covered in
+  refrigerator for 4 days.
+  
+  Posted to Bakery-Shoppe Digest V1 #405 by patsy &lt;patsy@sat.net&gt; on Nov 21,
+  1997
+ 
+</step></directions></recipe></recipeml>

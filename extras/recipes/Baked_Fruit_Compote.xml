@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fruit Compote</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Pitted dried prunes</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Dried apricots</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Pineapple chunks, undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>21</qty>
+          <unit>ounces</unit></amt>
+        <item>Cherry pie filling</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>Cups water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sweet red wine</item></ing></ingredients>
+    <directions>
+      <step>  Source: Pillsbury Holiday Classics III, 1984
+  
+  Heat oven to 350.  In 13x9 (3 quart) glass baking dish or casserole, layer
+  prunes, apricots and pineapple with liquid. Sprinkle with cinnamon. In
+  medium bowl, combine pie filling, water and wine; blend well. Pour evenly
+  over fruit; cover with foil. Bake at 350 for 1 1/2 hours or until dried
+  fruits are tender.
+  
+  Posted to Digest eat-lf.v096.n195
+  
+  Date: Mon, 21 Oct 1996 11:25:27 -0400
+  
+  From: BunnyMama@aol.com
+ 
+</step></directions></recipe></recipeml>

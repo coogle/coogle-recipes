@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bahama Breeze</title>
+      <categories>
+        <cat>Alcohol</cat>
+        <cat>Beverages</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Rum, dark</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Liqueur, banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Liqueur, apricot</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Rum, coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Grenadine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Juice, lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Juice, orange</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Juice, pineapple</item></ing></ingredients>
+    <directions>
+      <step>  Blend well with a couple ice cubes.  Pour over ice in tall glass. Garnish
+  with orange, cherry, etc.
+  
+  Got this recipe from the bartender at our hotel on Elbow Cay years ago.
+  
+  Posted on GEnie by F.ST.JOHN1 [Fred], Nov 27, 1991 MM by Sylvia Steiger,
+  GEnie THE.STEIGERS, CI$ 71511,2253, GT Cookbook echo moderator, net/node
+  004/005
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

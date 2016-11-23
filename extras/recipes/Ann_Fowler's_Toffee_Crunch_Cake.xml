@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ann Fowler's Toffee Crunch Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Mom's best</cat>
+        <cat>Cyberealm</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Sara Lee Pound Cake, frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butterscotch syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>1/4 oz. chocolate covered</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Toffee candy bars, chopped</item></ing></ingredients>
+    <directions>
+      <step>  1.  Cut pound cake horizontally into 3 equal-sized layers; set aside.
+  
+  2.  In a chilled large deep bowl, beat the cream with chilled beaters
+  until stiff peaks form. Gradually add the butterscotch syrup, folding
+  gently.
+  
+  3.  Place the first cake layer on a serving plate. Liberally frost with
+  whipped cream mixture. Sprinkle layer with 1/3 of the candy bars. Arrange
+  second layer and repeat process. Top with the third layer and frost top
+  and sides of cake with remaining whipped cream. Drizzle more butterscotch
+  syrup over cake, and top with remaining candy bars. Chill in refrigerator
+  for at least 3 hours before serving.
+  
+  (Variation:  Use strawberry or chocolate syrup in place of butterscotch
+  and garnish with chopped frozen strawberries or semi-sweet chocolate
+  chips)
+  
+  From:  America's Favorite Desserts Cookbook, Sara Lee  1992
+         Ann Fowler, Watertown, NY
+  
+  Cyberealm Cookbook, Vol 1, 4/93, Cyberealm BBS, compiled by Linda Fields.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber1.zip
+ 
+</step></directions></recipe></recipeml>

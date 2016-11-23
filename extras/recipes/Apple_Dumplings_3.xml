@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Dumplings</title>
+      <categories>
+        <cat>Dumplings</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pastry for 2-crust pie</item></ing></ing-div>
+      <ing-div>
+        <title>SYRUP</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Apples, peeled and cored</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Roll pastry slightly less than 1/8-inch thick.  Cut into 7-inch squares.
+  Bring syrup ingredients to boil. Boil 3 minutes. Put apple in center of
+  each pastry square. Fill with mixture of sugar, cinnamon and nutmeg. Dot
+  each with teaspoon of butter.  Bring points of pastry up over apple and
+  overlap.  Place a little apart in baking pan. Bake at 425 degrees for 45
+  minutes.  Just before serving pour rest of warm syrup over dumplings and
+  serve with cream.
+  
+  Source:  Stephenson's Restaurants Recipes, Kansas City, MO
+  
+  From the recipe files of Rosanne Troxel, Lenexa, KS
+  (troxel-in-kc@worldnet.att.net)
+  Posted to MM-Recipes Digest V4 #257 by SVQF34B@prodigy.com ( L M SMITH) on
+  Sep 27, 1997
+ 
+</step></directions></recipe></recipeml>

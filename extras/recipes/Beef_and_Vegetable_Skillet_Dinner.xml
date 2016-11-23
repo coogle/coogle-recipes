@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Vegetable Skillet Dinner</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Steak</cat>
+        <cat>Vegetables</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Sirloin Steak; Bonless, *</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Carrots; Frozen, Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Env. Soup Mix; **</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>;Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Bamboo Shoots; Drained,(1cn)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Snow Peas; Frozen, Thawed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rice; Hot Cooked</item></ing></ingredients>
+    <directions>
+      <step>  *    Boneless Sirloin Steak should be cut into thin stir fry strips. ** Use
+  one of the following Lipton's Recipe Soup Mixes: Beefy Mushroom,
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++++++
+  In a large skillet, heat oil and brown beef, in two batches, over
+  medium-high heat.
+   Remove beef.  Add carrots, then beefy mushroom recipe soup mix blended
+  with water, soy sauce, ketchup, garlic powder and ginger. Bring to a boil,
+  then simmer, stirring occasionally, 5 minutes or until carrots are
+  crisp-tender.  Add beef, bamboo shoots and snow peas, simmer 3 minutes or
+  until heated through.
+   To serve, arrange beef mixture over hot rice.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

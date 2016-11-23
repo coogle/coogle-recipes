@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cheddar Nut Scones</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Quick</cat>
+        <cat>Fruits</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine or butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Shredded Cheddar -- (2</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cups)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted sunflower nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Motts Apple Sauce</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 400 F. In medium bowl, combine flour, baking powder, baking
+  soda and salt. Using pastry blender or fork, cut in margarine until mixture
+  is crumbly. Stir in cheese and nuts. Add apple sauce; stir just until
+  moistened. On floured surface, knead dough gently 5 or 6 times. Place on
+  ungreased cookie sheet; press into 8-inch circle, about 1/2 inch thick. Cut
+  into wedges; separate slightly. Bake for 12 to 16 minutes or until lightly
+  browned. Serve warm. 8 to 12 servings. Good with chili.
+  
+  Recipe By     : MOTT'S Apple Sauce Recipe Booklet
+  
+  From: Jean@mcc2.Sws.Uiuc.Edu (Jean Denndate: 16 Apr 1996 21:37:58 Gmt
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

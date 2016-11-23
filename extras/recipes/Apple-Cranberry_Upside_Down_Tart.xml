@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Cranberry Upside Down Tart</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit/></amt>
+          <item>Apples</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh cranberries</item></ing></ing-div>
+      <ing-div>
+        <title>SWEET PASTRY</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter or oleo (up to)</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cold water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Peel apples; cut into quarters (remove core). In a 10-inch iron skillet,
+  heat sugar and butter until butter melts. Remove from heat. Arrange apples
+  side-by-side in a single layer around skillet, fitting together and leaving
+  an opening in the center. Sprinkle cranberries over apples and into the
+  center of skillet. Place remaining apples in skillet. Heat on medium heat
+  until boiling and boil 45 minutes to 1 hour until sugar mixture thickens
+  and becomes dark pink.
+  
+   PASTRY: Combine flour, sugar and salt. Cut in butter until mixture
+  resembles coarse crumbs. Add water, 1 tablespoon at a time. Shape into a
+  ball and chill.
+  
+   Roll dough into a 10-inch round. Fold into quarters; unfold over apple mix
+  in skillet. Bake at 450 degrees for 20 minutes. Cool. Invert onto serving
+  platter.
+  
+  From a collection of my mother's (Judy Hosey) recipe box which contained
+  lots of her favorite recipes, clippings, etc.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

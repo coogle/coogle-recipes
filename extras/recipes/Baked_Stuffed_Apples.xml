@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Stuffed Apples</title>
+      <categories>
+        <cat>Crockpot</cat>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Red apples -- tart</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Light brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Golden seedless raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Orange peel -- grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter -- softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water -- very hot</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Frozen orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Concentrate</item></ing></ingredients>
+    <directions>
+      <step>  Wash, core and stem the apples, but don't peel them.  Stand them in a
+  buttered mold and stuff them with 2/3 cup of the brown sugar, the raisins
+  and the orange peel.  fill the tops of the core cavities with butter and
+  sprinkle the remaining sugar over the tops.  Place the mold in the slow
+  cooker and pour the hot water into the cooker.  Sprinkle the orange juice
+  concentrate over the apples.  Cover the cooker and cook on Low for 3 to 5
+  hours, or until the apples are tender.
+  
+  Recipe By     : The Best of Electric Crockery Cooking
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

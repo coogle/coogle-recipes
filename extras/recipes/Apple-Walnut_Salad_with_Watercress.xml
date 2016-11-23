@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Walnut Salad with Watercress</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Vegetable broth</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt OR</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Pepper</item></ing></ing-div>
+      <ing-div>
+        <title>SALAD</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Watercress bunch; tough stems removed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Carrot; shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Apple, Red Delicious; cored and shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Apple, Golden Delicious; cored and shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Walnuts; chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Dressing: In a small bowl, combine all dressing ingredients. Mix well.
+  
+  Salad: Arrange watercress around the outside edge of a large platter.
+  Scater carrot next o the watercrss. In a amall bowl, toss shredded apples
+  with lemon juice. Spoon apples into the center of the platter. Scatter nuts
+  on top of the apples. Pour dressing over the salad and serve immediately.
+  Serves 4.
+  
+  Per serving: 159 cal; 2 g prot; 10 g fat; 17 g carb; 300 mg sod; 2 g fiber
+  
+  From the files of DEEANNE
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

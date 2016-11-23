@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Chocolate Chimichangas</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Mexican</cat>
+        <cat>Chocolate d</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Small chunks of chocolate =OR=-</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Choco spread like Nutella</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Flour tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon &amp; sugar mix</item></ing></ingredients>
+    <directions>
+      <step>  Place banana in tortilla shell. Sprinkle chunks of chocolate on banana.
+  Roll banana &amp; chocolate in the flour tortillas. Seal edges with water like
+  when frying a wonton and deep fry until tortilla is crispy and blistered.
+  Drain; then roll in a cinnamon and sugar mix. Can be served with or without
+  ice cream and you decide on the size. This recipe is from Stu Pickell's
+  Kitchen.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

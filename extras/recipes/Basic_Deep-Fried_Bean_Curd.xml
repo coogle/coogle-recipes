@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Deep-Fried Bean Curd</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cakes bean curd</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for deep-frying</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  1. Cut bean curd cakes in 1-inch cubes. Blot gently with paper toweling to
+  remove as much moisture as possible.
+  
+  2. Heat oil and deep-fry bean curd cubes, several at a time, until puffed
+  up and golden. Drain on paper toweling. Sprinkle with salt and serve hot.
+  
+  NOTE: Deep-fried bean curd cubes can be added to any stir-fried dish. They
+  should be added at the very end, only to heat through (so as not to lose
+  their interesting texture and crispness). Speared on toothpicks, these are
+  also excellent as an hors d'oeuvre to serve with cocktails. VARIATION: At
+  the end of step 2, also sprinkle lightly with hot sauce.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

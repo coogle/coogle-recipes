@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread French Toast</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>French toas</cat>
+        <cat>Hand made</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BREAD</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Banana quick bread mix</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mashed banana</item></ing></ing-div>
+      <ing-div>
+        <title>EGG MIXTURE</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat oven to 375~.   Grease and flour bottom of 9" loaf pan. In large bowl,
+  combine all bread ingredients.  Stir 50-75 strokes; just until dry
+  particles are moistened.  Pour into prepared pan. Bake 40-50 minutes or
+  until tested done.    Cool in pan 15 minutes; remover from pan;
+  
+  cool completely. Cut bread into 12 slices. Heat skillet to 375~.  Grease
+  lightly with margarine. In pie pan, combine eggs, milk and vanilla; beat
+  well. Dip bread slices in egg mixture, turning to coat both sides well.
+  Cook in skillet 2-3 minutes on each side or until golden brown. Serve with
+  syrup.
+  Posted to FOODWINE Digest 17 October 96
+  
+  Date:    Thu, 17 Oct 1996 17:46:08 -0400
+  
+  From:   Emma K Kidd[SMTP:ekidd@wsunix.wsu.edu]
+ 
+</step></directions></recipe></recipeml>

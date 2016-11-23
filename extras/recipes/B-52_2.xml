@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>B-52</title>
+      <categories>
+        <cat>Bailey's ir</cat>
+        <cat>Grand marni</cat>
+        <cat>Kahlua</cat>
+        <cat>Glass - sho</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Kahlua</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Bailey's Irish Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Grand Marnier</item></ing></ingredients>
+    <directions>
+      <step>  In shot glass, pour carefully in order given to form layers.
+  
+  Recipe by: Mr. Boston Posted to MC-Recipe Digest V1 #716 by John Setzler
+  &lt;jms@twave.net&gt; on Aug 2, 1997
+ 
+</step></directions></recipe></recipeml>

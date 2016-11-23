@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cheese Pancakes</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Cheese</cat>
+        <cat>Pancakes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cottage cheese, 1/2% fat</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apples; coarsely grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Almonds; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; separated</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ings. but egg whites.  Beat whites till stiff and fold in.  Spray a
+  griddle or skillet with cooking spray.  Heat and drop batter to form
+  pancakes. Turn when bottom is browned.
+  Recipe By     : Annice's files
+  
+  Posted to JEWISH-FOOD digest V96 #50
+  
+  Date:         Sun, 13 Oct 96 08:31:37 +0200
+  
+  From: Annice Grinberg &lt;VSANNICE@WEIZMANN.WEIZMANN.AC.IL&gt;
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>4 Bean Bake</title>
+      <categories>
+        <cat>Butter</cat>
+        <cat>Beans</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Butter beans; (15 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Green limas; (15 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Red kidney beans; (15 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Baked beans; (27 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Onions; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar; (1/2 to 1)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing></ingredients>
+    <directions>
+      <step>  Fry bacon until crisp and remove from skillet. Saute onions in bacon fat.
+  Add vinegar, salt, sugar, mustard and garlic powder. Cover and cook 20
+  minutes. Drain butter beans, green limas and kidney beans. Combine all
+  beans and pour onion mixture over. Mix gently. Sprinkle with crumbled
+  bacon. Bake 1 hour at 350 degrees uncovered.
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Feb 27,
+  1998
+ 
+</step></directions></recipe></recipeml>

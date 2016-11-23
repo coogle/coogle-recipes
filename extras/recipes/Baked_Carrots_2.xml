@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Carrots</title>
+      <categories>
+        <cat>Microwave</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Tsp; nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  In 1-1/2 quart casserole, mix dry ingredients with water. Add carrots and
+  dot with butter. Cook, covered, 9 minutes, stirring halfway through cooking
+  time. Rest 5 minutes.
+  
+  Posted to Bakery-Shoppe Digest by "CD" &lt;poppy@connectcorp.net&gt; on Apr 5,
+  1998
+ 
+</step></directions></recipe></recipeml>

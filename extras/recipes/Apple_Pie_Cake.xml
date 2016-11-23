@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Apples</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Cake mix;yellow</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar apple pie;filling</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Topping</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter;or marg.</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon(optional)</item></ing></ingredients>
+    <directions>
+      <step>  Mix the Cake mix, eggs,lemon and Apple pie filling.Pour batter into a 13x9
+  greased and floured baking dish. TOPPING Make topping with melted butter,
+  or soft margerine, sugar and flour. Blend with a fork to make
+  crumbs.Sprinkle the crumbs over top and sprinkle with cinnamon if desired.
+  Bake 350 degrees for 45 minutes. Pat Empson 05/21 07:08 am
+         FOOD AND WINE BB TOPIC: FOOD SOFTWARE TIME: 05/21 7:34 AM
+  
+  TO:      PAT EMPSON   (PFXX29A) FROM: PAT EMPSON (PFXX29A) SUBJECT: MM-MORE
+  APPLES
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

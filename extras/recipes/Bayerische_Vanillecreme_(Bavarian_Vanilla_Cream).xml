@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bayerische Vanillecreme (Bavarian Vanilla Cream)</title>
+      <categories>
+        <cat>German</cat>
+        <cat>Special</cat>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Gelatin; Unflavored</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>;Water, Cold</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; Large, Beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk; Scalded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ice Cream; Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cream; Heavy, Whipped</item></ing></ingredients>
+    <directions>
+      <step>  Sprinkle gelatin over cold water to soften.  Heat to dissolve gelatin
+  completely.  Mix together sugar and cornstarch.  Add eggs; beat for 2
+  minutes.  Slowly add warm milk, beating constantly.  Pour into a 1-quart
+  saucepan.  Cook over medium heat until custard coats a spoon.  Add gelatin
+  and ice cream while custard is hot.  Cool until slightly thickened.  Add
+  vanilla.  Fold in whipped cream.  Pour into a 1-quart mold.  Chill until
+  set.  Unmold carefully and serve with a garnish of fresh fruits.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

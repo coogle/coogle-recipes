@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Beef and Beans</title>
+      <categories>
+        <cat>Crockpot</cat>
+        <cat>Beef</cat>
+        <cat>Beans</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef stew meat; cut into 1" cubes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Smoke-flavored barbecue sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beef bouillon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(1 Pound) dry lima beans; drained</item></ing></ingredients>
+    <directions>
+      <step>  Sprinkle beef with salt and pepper. Place in slow-cooking pot with barbecue
+  sauce and bouillon. Cover and cook on low for 4 to 6 hours. Add drained
+  beans and cook on high 15 to 20 minutes. -
+  Posted to recipelu-digest Volume 01 Number 264 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Nov 17, 1997
+ 
+</step></directions></recipe></recipeml>

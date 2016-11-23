@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Salmon with Herb Sauce</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Salmon fillet</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dill</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon wedges</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Greens of onion, fine chop</item></ing></ingredients>
+    <directions>
+      <step>  Cut fillet in 4 serving pieces.  Place large side of fillet toward edge of
+  pyrex baking dish with center open. Pierce fish, dot fish with butter, and
+  cover with plastic wrap. Microwave Medium (50%) for 5 minutes. Mix
+  mayonaise, parsley, onion, and dill togerther. Spread mayonnaise mixture on
+  top of fillets and microwave Medium (50%) covered for 5-6 minutes before
+  serving.  Garnish with lemon wedges.
+   If steaks are used, arrange with thin ends toward center of dish. One inch
+  steaks should be microwaved 5 minutes a medium power, covered with
+  mayonnaise mixture and microwaved for 5-6 minutes longer.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

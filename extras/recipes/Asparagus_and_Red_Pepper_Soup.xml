@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus and Red Pepper Soup</title>
+      <categories>
+        <cat>Vegan</cat>
+        <cat>Digest</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus, trimmed, cut into</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>" pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Veggie broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Roasted red pepper diced(1/3-1/2 cup total)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Evap skim milk x pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  1. Place asparagus and broth into 4 qt pan and simmer for 15 min., until
+  tender.
+  
+  2. Puree asparagus/broth in blender. Take out some pieces for a chunkier
+  consistency if you wish.
+  
+  3. Put puree back in pan and add red pepper, any reserved asparagus, black
+  pepper, and can of milk.
+  
+  4. Heat until thickened to your liking.
+  
+  NOTE: You can add some thickener(flour,cornstarch) to hasten the process. I
+  started the pepper roasting at about the same time as the the asparagus,
+  and it worked out fine to add to soup.
+  
+  Serve with a salad and hearty bread!
+  
+  Posted by mmk3@Lehigh.EDU (MARGARET M. KING) to Fatfree
+  From Fatfree Digest April-May 1994, Formatting by Sue Smith (using MMCONV)
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

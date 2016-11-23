@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>(6 large) sliced; peeled apples</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Quick oatmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Packed brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Softened butter</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  ~combination of two recipes
+  
+  cut butter into other ingredients till crumbly for topping.
+  Heat oven to 375* F. Combine sugar, flour, &amp; cinnamon. Put apples in a
+  9-inch square pan or 12x8-inch ungreased pan, sprinkle with flour mixture.
+  Cover with foil and bake for 20 to 30 min. remove from oven and sprinkle
+  with topping. Bake another20 to 30 min.
+  
+  Posted to Bakery-Shoppe Digest V1 #495 by mlocke1@juno.com (Marjene Locke)
+  on Jan 8, 1998
+ 
+</step></directions></recipe></recipeml>

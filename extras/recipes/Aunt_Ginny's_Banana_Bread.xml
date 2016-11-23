@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Ginny's Banana Bread</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Bananas</item></ing></ingredients>
+    <directions>
+      <step>     Mix all dry ingredients in a bowl.  Break eggs into bowl.  Add
+  buttermilk, oil, and vanilla.  Mash bananas and add.  Stir. Bake in tube
+  pan for 1 hr at 350 degrees.
+  
+  (Mom found that it also came out well without the oil when a little more
+  banana is added.)  I also add about 1/2 c. chopped pecans or walnuts most
+  of the time, just before pouring into pan.
+  
+  Posted to FOODWINE Digest 14 November 96
+  
+  Date:    Thu, 14 Nov 1996 18:53:04 -0500
+  
+  From:    Rebecca Shiveler &lt;SHIVELER_R@POPMAIL.FIRN.EDU&gt;
+ 
+</step></directions></recipe></recipeml>

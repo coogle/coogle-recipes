@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Bread</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Unsalted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>8oz. can almond paste, cut into about 1/8-inch slices.</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>ALL-PURPOSE flour (not bread flour)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Dark brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>=TO= 1/2 t salt to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Active dry yeast GLAZE:</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Dark corn syrup</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Warm water</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Slivered almonds for garnish</item></ing></ing-div>
+      <ing-div>
+        <title>THE "LARK" (COOKING, WP51, C</title></ing-div></ingredients>
+    <directions>
+      <step>   Unless the instructions that came with your ABM  call for putting the
+  yeast in the pan first and incorporating the liquid ingredients last, pour
+  the milk into the baking pan of your ABM and break in the egg. If the
+  butter is not soft, cut it into small chunks to ensure its blending into
+  the dough, then add it to the liquids.
+  
+   Next add the almond paste, slicced so it will blend better too. Measure in
+  the flour, brown sugar, and salt, and add the yeast as directed for your
+  bread maker.
+  
+   You can use your machine's full cycle with this bread, but the quick cycle
+  is better. If a light color setting is available, use it as well.
+  
+   As soon as the bread has finished baking, remove it from the machine,
+  closing the cover again, and ease the loaf from the pan. Combine the corn
+  syrup and warm water and brush the top of the loaf with this mixture, using
+  a pastry brush. Sprinkle the slivered almonds over the glaze, put the bread
+  gently back in its pan, and return it to the electronic oven for a few
+  minutes to dry the glaze a bit. FROM THE RECIPE COLLECTION OF SUZY.Q
+  
+   Source: The Bread Machine Bakery Book
+  
+   Also see Atari Bread 1004 Posted on Genie C03 T17 M474 by SUZY.Q on
+  2/20/92
+  
+   MM by Cathy Svitek * Origin: "LaRK's" Kitchen (1:343/26.3)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

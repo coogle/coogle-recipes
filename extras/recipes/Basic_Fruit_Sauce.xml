@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Fruit Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Fruits/nuts</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fruit juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Cream of tartar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar if juice is unsweetened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Arrowroot or cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fruit juice; cold</item></ing></ingredients>
+    <directions>
+      <step>  This fruit sauce is one of the basics. It can be served on ice cream or
+  with a pastry. COMBINE first amount of juice, cream of tartar, sugar and
+  lemon juice in a saucepan and bring to boil. Mix arrowroot with the rest of
+  cold fruit juice. Add to boiling juice. Cook until clear and slightly
+  thickened. Serve hot or cold. Makes 1 1/4 Cup
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

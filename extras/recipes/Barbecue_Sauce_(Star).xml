@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Sauce (Star)</title>
+      <categories>
+        <cat>Sauces/dips</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>White pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  HEAT OIL IN A SMALL PAN. ADD GARLIC AND GINGER. SAUTE FOR TWO MINUTES. ADD
+  HONEY, LEMON JUICE, AND TOMATO PASTE. SEASON TO TASTE WITH SALT AND WHITE
+  PEPPER. SIMMER FOR FIVE MINUTES. MAKES 1/2 CUP SAUCE.
+  Posted to EAT-L Digest  by Sarah Gruenwald &lt;sitm@EKX.INFI.NET&gt; on Sep 18,
+  1997
+ 
+</step></directions></recipe></recipeml>

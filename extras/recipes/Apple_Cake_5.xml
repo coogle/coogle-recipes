@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cake</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Desserts</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Non-stick spray coating</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Whole wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oat bran</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded unpeeled apples</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Powdered sugar</item></ing></ingredients>
+    <directions>
+      <step>  From Western New York Apple Growers Association
+  
+  Spray a 13x9x2" baking pan with non-stick coating and set aside. In a
+  large mixing bowl combine sugars, oil and egg whites. Beat with a
+  wooden spoon until well blended. Add flours, oat bran, baking soda,
+  cinnamon and nutmeg; stir until just moistened. Stir in shredded
+  apples. Pour batter into prepared pan. Bake in a 350'F. oven for
+  25-30 minutes. Cool, if desired, sift powdered sugar over cake.
+  
+  Makes 16 servings. Each serving has 147 calories, 2 grams protein, 4
+  grams fat, 0 milligrams cholesterol, 91 milligrams sodium, 100
+  milligrams potassium and 2 grams dietary fiber.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vodka Slush</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(large) frozen limeade</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(large) water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(large) rum (we use Bacardi Light)</item></ing></ingredients>
+    <directions>
+      <step>  We do a version of this that in our family is called *The Recipe*...When
+  friends come in and we ask if they'd like a drink, they ask for it.
+  
+  Freeze.  Enjoy!
+  
+  Posted to FOODWINE Digest 25 November 96
+  
+  Date:    Tue, 26 Nov 1996 12:15:48 -0500
+  
+  From:    "Mary H. Mizwa" &lt;Mzmiz@AOL.COM&gt;
+ 
+</step></directions></recipe></recipeml>

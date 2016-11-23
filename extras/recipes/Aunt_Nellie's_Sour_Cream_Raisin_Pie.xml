@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Nellie's Sour Cream Raisin Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Beaten eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pie crust</item></ing></ingredients>
+    <directions>
+      <step>  Pour boiling water over raisins and let stand 15-20 minutes. Pour
+  off. Pour sugar and cinnamon over raisins. Mix well. Add eggs and
+  sour cream.
+  
+  Pour into bottom crust and make a lattice top crust. Bake for 15
+  minutes at 375F or until crust is brown.
+  
+  From:  Pat's Great-Aunt Nellie's recipe collection (1992)
+  Posted to MM-Recipes Digest V3 #238
+  
+  Date: Sat, 31 Aug 1996 22:00:39 -0500
+  
+  From: pickell@cyberspc.mb.ca (S.Pickell)
+ 
+</step></directions></recipe></recipeml>

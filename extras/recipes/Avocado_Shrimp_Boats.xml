@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Shrimp Boats</title>
+      <categories>
+        <cat>Shrimp</cat>
+        <cat>Salad</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Soft avocados, peeled,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Halved, seeds removed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked shrimp, shelled and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Deveined</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Alfalfa sprouts</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit/></amt>
+        <item>Cherry tomatoes halved</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley for garnish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon cut into wedges</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>French dressing</item></ing></ingredients>
+    <directions>
+      <step>  1) On 4 salad plates, place avocado halfon bed of shredded lettuce, spoon
+      1/2 c  shrimp into cavity of each.
+  
+  2)Arrange alfalfa sprouts and tomatoes on plate next to avocado.
+  
+  3) Garnish shrimp with parsley and lemon wedges. Serve french dressing
+  separtely.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

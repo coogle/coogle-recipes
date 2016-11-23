@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bar-B-Q Wing Dings</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken wings</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Drops ofworcestershire</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion</item></ing></ingredients>
+    <directions>
+      <step>  Cut off the small piece of the chicken wing and the 2 bone part so you have
+  only the meaty part. Mix the ketchup, onion cut up and brown sugar and
+  sauce together. Dip your wing ding in the sauce. Put on cookie sheet. Bake
+  at 350 degrees for about 1 1/2 hour. If you have extra sauce, cook in
+  saucepan until thick.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

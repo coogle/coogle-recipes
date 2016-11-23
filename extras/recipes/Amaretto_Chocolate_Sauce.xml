@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Chocolate Sauce</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Microwave</cat>
+        <cat>Sauces/dres</cat></categories>
+      <yield>11</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Semisweet chocolate --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Amaretto or other liqueur</item></ing></ingredients>
+    <directions>
+      <step>  1. Bring cream to a simmer in a small saucepan. Remove from heat.
+  
+  2. Stir in chocolate until it is melted and mixture is smooth.
+  
+  3. Stir in liqueur.
+  
+  Makes 1-1/4 cups.
+  
+  * Timesaver Tip: Recipe can be prepared up to 4 days ahead and stored,
+  covered, in refrigerator. Gently reheat in a saucepan or in a microwave
+  oven.
+  
+  Microwave Version
+  
+  1. Pour cream into a glass bowl or 2-cup measure. Microwave on 100% power
+  until tiny bubbles break the surface (1 to 2 minutes).
+  
+  2. Stir in chocolate until it is melted and mixture is smooth. If chocolate
+  does not melt completely, microwave on 100% power until it is completely
+  melted (20 to 30 seconds longer).
+  
+  3. Stir in liqueur.
+  
+  Recipe By     : the California Culinary Academy
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

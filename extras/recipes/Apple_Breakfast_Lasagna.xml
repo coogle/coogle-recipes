@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Breakfast Lasagna</title>
+      <categories>
+        <cat>Brunch</cat>
+        <cat>Fruits</cat>
+        <cat>Dairy</cat>
+        <cat>Casseroles</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar; packed</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Frozen french toast slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Boiled ham</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Apple pie filling</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Granola</item></ing></ingredients>
+    <directions>
+      <step>  In small bowl, combine sugar and sour cream; cover and refrigerate. Place 6
+  slices French toast in bottom of greased 9 x 13 pan. Layer ham, 2 cups of
+  cheese and remaining 6 slices of French toast in baking pan. Spread pei
+  filling over top; sprinkle granola over apples. Bake in preheated 350F oven
+  for 25 minutes. Top with remaining 1/2 cup cheddar cheese; bake another 5
+  minutes until cheese is melted and casserole is hot. Serve with sour cream
+  mixture. Pat Empson 05/21 07:41 am
+  Posted to Bakery-Shoppe Digest V1 #181 by novmom@juno.com (Angela
+  Gilliland) on Aug 05, 1997
+ 
+</step></directions></recipe></recipeml>

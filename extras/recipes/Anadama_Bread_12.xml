@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anadama Bread</title>
+      <categories>
+        <cat>Low fat</cat>
+        <cat>Bread machi</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Active Dry Yeast; (1 1/2 tsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Bread Flour; (1 C+ 2 T)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole-Wheat Flour; (1 C)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Yellow Cornmeal; (1/4 C)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses; unsulfured, (1/4 C)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt; (1 t)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water; (1C)</item></ing></ingredients>
+    <directions>
+      <step>  Note: The original recipe called for 1 1/2 T vegetable oil for the lg loaf
+  and (1T) for the smaller loaf.  I omitted it.  Could use Wonderslim or
+  possibly applesauce instead.
+  
+  Add all ingredients in the order suggested by your bread machine manual and
+  process on the basic bread cycle according to the manufacturer's
+  directions.  Let the loaf cool before slicing.
+  
+  Formatted into MasterCook II and tested for you by Reggie Dwork
+  &lt;reggie@reggie.com&gt;
+  
+  &gt; From: Reggie Dwork &lt;reggie@reggie.com&gt; &gt;From: bj29@mirage.skypoint.com
+  (bjjan)
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : The Best Bread Machine Cookbook Ever, Madge Rosenberg
+  NOTES : Cal  128
+       Fat  0.6g
+       Carbs  27.4g
+       Dietary Fiber  2.2g
+       Protein  4g
+       Sodium  218mg
+       CFF  3.9%
+ 
+</step></directions></recipe></recipeml>

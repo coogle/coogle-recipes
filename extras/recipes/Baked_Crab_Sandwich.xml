@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Crab Sandwich</title>
+      <categories>
+        <cat>Crab</cat>
+        <cat>Luncheon</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Loaf french bread or rolls</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Crab meat; (1/2lb.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Tomatoes; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onions; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  Slice bread or rolls lengthways. Remove excess bread to allow for filling.
+  Preheat oven to 375 degrees Combine the mayonnaise and sour cream in a
+  bowl. Add remaining ingredients and stir. Stuff the bread loaf or rolls
+  with crab mixture. Wrap in aluminum foil with the "boat" open on top. Bake
+  25 minutes. Slice if using the loaf and serve.
+  
+  NOTES : "Soft rolls work just as well, perhaps better as they are easier to
+  bite into. Evie thinks that these are to "die for" and equally good cold.
+  Recipe by: Glenn Day- altered
+  
+  Posted to recipelu-digest Volume 01 Number 540 by "tess@shore.intercom.net"
+  &lt;tess@shore.intercom.net&gt; on Jan 16, 1998
+ 
+</step></directions></recipe></recipeml>

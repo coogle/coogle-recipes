@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Biscuits (No Rising Necessary)</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Londontowne</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cake yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lukewarm water</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Plain flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shortening</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve yeast in water. Into a bowl, sift flour with other dry
+  ingredients. Cut in shortening, add buttermilk, then add yeast mixture.
+  Stir until all flour is dampened. Knead on floured board a minute, roll to
+  desired thickness, and cut with a biscuit cutter. Bake at 400 degrees
+  about 12 minutes. Dough may be kept refrigerated and used about a week.
+  
+  Mrs. Leslie M. Smith
+  
+  From a book of recipes compiled by members and friends of the LONDONTOWN
+  PUBLIK HOUSE ASSEMBLY, EDGEWATER, MD 21037. Funds from sale of book used in
+  restoration and maintenance of the 17th century inn (hint, hint).
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/london13.zip
+ 
+</step></directions></recipe></recipeml>

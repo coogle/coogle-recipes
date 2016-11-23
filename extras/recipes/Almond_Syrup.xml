@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Syrup</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Jams</cat>
+        <cat>Jewish</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>20</qty>
+            <unit>ounces</unit></amt>
+          <item>Almonds, ground</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar; up to 7 cups</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Bitter almond extract</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Oranges; juice of</item></ing></ing-div>
+      <ing-div>
+        <title>ALMOND COOLER, 1 SERVING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Almond syrup</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Yogurt Cold water; 3/4 c</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  To serve, put a few tablespoons in a glass and add cold or sparkling water
+  and ice.
+  
+  Bring water to a boil; add almonds and return to a boil. Remove from heat
+  and allow to cool thoroughly. Squeeze the ground almonds in several layers
+  of rinsed cheesecloth. Pour almond extract into a saucepan; add sugar,
+  bitter almond extract, and orange juice. Stir well and bring to a boil;
+  cook to a thick syrup consistency. Let cool completely. If syrup if not
+  thick enough, boil again for 5 minutes. Pour into sterile bottles, seal and
+  refrigerate. Can be used immediately Serve with ice water or with club
+  soda.
+  
+  FOR 1 SERVING ALMOND COOLER: Combine a2 tb almond syrup, 2 tb yogurt and 6
+  oz (3/4 cup) cold water.
+  
+  MAKES: 1 QUART SOURCE: _From My Grandmother's Kitchen: A Sephardic
+  Cookbook_ by Viviane Bicheck Miner
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Strawberries</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Fresh strawberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Amaretto liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vanilla ice cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Slivered almonds</item></ing></ingredients>
+    <directions>
+      <step>  Wash and hull strawberries; drain. In a large bowl, marinate strawberries
+  in Amaretto liqueur overnight. Serve over ice cream and sprinkle with
+  slivered almonds.
+  
+  Makes 4 servings. Posted to EAT-L Digest by Shawn Zehnder Lea
+  &lt;slea@HIGHTOWERSERVICES.COM&gt; on Sep 4, 1997
+ 
+</step></directions></recipe></recipeml>

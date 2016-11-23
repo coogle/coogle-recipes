@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baileys Coffee</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>(45 ml) Baileys</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Coffee</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whipped cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chocolate flake</item></ing></ingredients>
+    <directions>
+      <step>  Pour Baileys into freshly brewed hot coffee and top with freshly whipped
+  cream and chocolate flake.
+  
+  Posted to recipelu-digest by Sandy &lt;sandysno@pctech.net&gt; on Mar 17, 1998
+ 
+</step></directions></recipe></recipeml>

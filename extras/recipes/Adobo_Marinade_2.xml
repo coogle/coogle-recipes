@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Adobo Marinade</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lime juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper; to taste</item></ing></ingredients>
+    <directions>
+      <step>  Blend cumin, garlic and lime juice until smooth.  Taste and season with
+  pepper.  Marinade fish (chicken or meat) in the refrigerator for 1 hour.
+  
+  ~-[mcRecipe / patH 24 Au 96 ]
+  Posted to MC-Recipe Digest V1 #216
+  
+  Date: Sat, 24 Aug 1996 12:36:38 -0700 (PDT)
+  
+  From: PatH &lt;phannema@wizard.ucr.edu&gt;
+ 
+</step></directions></recipe></recipeml>

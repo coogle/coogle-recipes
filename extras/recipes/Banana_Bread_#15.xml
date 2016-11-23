@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread #15</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Lemon; juice of</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Very ripe bananas</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Whole wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Wheat germ</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda</item></ing></ing-div>
+      <ing-div>
+        <title>OPTIONAL</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chopped dates</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Nuts; toasted sunflower seeds, or coconut</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From: D Choi &lt;namosi@u.washington.edu&gt;
+  
+  Date: 11 Jan 1995 06:42:58 -0700
+  
+  Preheat oven to 375 degree F.  Mash bananas and mix them with lemon juice
+  until they are smooth.  Cream margarine and sugar together and add the
+  banana mix, stirring well. In a separate bowl stir together the dry
+  ingredients. Add to the banana mix and stir in the dates and nuts if
+  desired.  The dough will be very stiff. Turn it into a greased loaf pan and
+  bake for 30 to 45 minutes. To test for doneness, insert a knife into the
+  loaf; if it comes out clean, the bread is done. Makes 1 loaf. Source:
+  Robertson, Laurel, Carol Flinders, and Bronwen Godfrey, _Laurel's
+  
+         Kitchen_, Nilgiri Press:  Petaluma, California, 1976, p. 308.
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

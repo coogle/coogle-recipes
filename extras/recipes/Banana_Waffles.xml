@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Waffles</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Recipe "Mom's Basic Waffle Batter" (see recipe)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Over-ripe bananas</item></ing></ingredients>
+    <directions>
+      <step>    Mom used to buy old brown and overripe bananas at the market and smash
+  them up for banana waffles. I just realized that I have not tasted those
+  for years . . . and I think I'm going to go heat up the waffle iron.
+  
+  From &lt;The Frugal Gourmet Cooks American&gt;.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1-2-3-4 Cake</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs (separated)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  From: wilson@cluster.unca.edu
+  
+  Date: 1 Dec 1995 20:34:35 -0700
+  Cream butter (or shortening) and sugar.  Add egg yolks, one at a time, and
+  beat between each addition.  Add vanilla and then alternately add the dry
+  ingredients and milk.  Fold in beaten egg whites.  Put batter in a greased
+  tube pan.  Bake at 325 F until light golden brown, about 1 1/4 hours.
+  
+  Notes:  Buttermilk may be substituted for milk Eggs may be added at the
+  first, unseparated.  If making layers (3), bake at 350 for 30 minutes.
+  
+  My grandmother used this recipe for a geranium cake where she would first
+  line the "well- greased" pan with scented geranium leaves.
+  
+      Ken Wilson                         Asheville, North Carolina, USA
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /CAKES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bar Room Slaw</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Assorted Vegetables **</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dijon-style mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Kosher salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>To 1 1/2C olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Romaine lettuce leaves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Belgian endive, separated into leaves, rinsed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Watercress, rinsed, trimmed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Alfalfa sprouts</item></ing></ingredients>
+    <directions>
+      <step>  1.  Select vegetables according to season, personal preference and
+  complementarity of colors, textures and tastes.  Cut into very fine
+  julienne by hand or shred fine in food processor, using shredding disc. 2.
+  Whisk egg yolks, lemon juice, mustards, salt and pepper in medium bowl
+  until well blended.  Add oil, drop by drop, whisking continuously, until
+  mixture is thick.  Then continue whisking in oil in slow steady stream.
+  Stir in vinegar. 3. To serve, pour amount of dressing desired over
+  julienned vegetables in bowl; toss gently. Line individual salad plates
+  with romaine, endive and watercress. Top with dressed vegetables, dividing
+  evenly.  Sprinkle with sprouts. ** Some vegetables to consider: carrot,
+  zucchini, red, green, and yellow bell pepper, celery, celeriac, summer
+  squash, chayote, Chinese cabbage, daikon, black radish, turnip, white and
+  red cabbage, cucumber, tomato, sugar snap peas, broccoli stems. Julienned
+  vegetables can be prepared ahead; refrigerate, wrapped in plastic wrap.
+  Make dressing just before serving. Use one cup of julienne vegetables per
+  person.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

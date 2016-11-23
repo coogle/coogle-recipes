@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Barley Soup</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meats</cat>
+        <cat>Soups</cat>
+        <cat>Mc</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef short ribs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Can of tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Onion, large; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Beef bouillion granules</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Carrots; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Celery; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Barley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Green pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  In large kettle or dutch oven, brown short ribs over low heat.  Drain well.
+  Stir in water, undrained tomatoes, onion, bouillion granules, salt, basil,
+  and Worcestershire sauce.  Cover, simmer for  1 1/2 hours. Stir in carrot
+  celery, barley, green pepper, parsley.  Cover, simmer for 45 minutes.
+  Remove ribs. When cool enough to handle, cut off any meat and coarsely chop
+  Discard bones.  Skim off fat from soup.  Return meat to soup, heat through.
+  Season to taste with salt and pepper.  Makes 8 servings.
+  Posted to MC-Recipe Digest V1 #269
+  
+  Date: Wed, 30 Oct 1996 06:59:05 -0500
+  
+  From: kmeade@IDS2.IDSONLINE.COM (The Meades)
+ 
+</step></directions></recipe></recipeml>

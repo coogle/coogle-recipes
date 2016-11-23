@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken and Potatoes</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>3-4 pound fryer, cut into serving pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Potatoes, peeled &amp; quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Crushed tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Grated Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing></ingredients>
+    <directions>
+      <step>  Wash chicken and wipe dry with paper toweling.  Put enough oil in a large
+  roasting pan to cover bottom of the pan. Place chicken in p;an and place
+  potatoes between the chicken pieces.
+  
+  Sprinkle tomatoes, parsley, basil, garlic, salt and pepper over the chicken
+  and potatoes.  Lastly, sprinkle with the grated cheese and the oil.
+  
+  Bake in 375øF oven for 1 1/4 hours, or until chicken is done. Yield: 4
+  servings.  Typed in MMFormat by cjhartlin@msn.com Source: The Jr. League of
+  Orange County, New York (The Eastern Jr. League Cookbook)
+  Posted to MM-Recipes Digest  by "Cindy Hartlin" &lt;cjhartlin@email.msn.com&gt;
+  on Apr 10, 1998
+ 
+</step></directions></recipe></recipeml>

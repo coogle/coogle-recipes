@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bamia Stew</title>
+      <categories>
+        <cat>Kuwaiti</cat>
+        <cat>Main course</cat>
+        <cat>Meat</cat>
+        <cat>Middle east</cat>
+        <cat>Stew</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground lamb or beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Tomatoes; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>(1 can) tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/8</qty>
+          <unit>pounds</unit></amt>
+        <item>Okra; washed, heads removed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tamarind pods; soaked in water</item></ing></ingredients>
+    <directions>
+      <step>  Brown the meat without oil until it absorbs all its liquid. Add the onions,
+  then the spices and garlic. Mix well and add the chopped tomatoes. Cover
+  and let cook on medium heat. Add the water when the tomatoes appear to
+  soften. Let it simmer for 15 minutes, then add the okra, tomato paste and
+  salt. Let the stew cook slowly and towards the end add the strained
+  tamarinds.
+  
+  Serve hot with rice
+  
+  NOTES : An okra stew very popular in the Middle East. Served with rice.
+  Ground lamb or beef simmered with tomatoes, okra and Middle Eastern spices.
+  Posted to recipelu-digest Volume 01 Number 581 by "catspaw@inetnow.net"
+  &lt;catspaw@inetnow.net&gt; on Jan 23, 1998
+ 
+</step></directions></recipe></recipeml>

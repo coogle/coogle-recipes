@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Guacamole</title>
+      <categories>
+        <cat>Dips</cat>
+        <cat>Mexican</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Black or white sesame seed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Firm-ripe avacado</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Shredded pickled ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Seasoned rice vinegar OR</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cider vinegar,mixed with</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Wasabi powder or prepared horseradish</item></ing></ing-div>
+      <ing-div>
+        <title>POTSTICKER CRISPS</title>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Round potsticker skins</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place sesame seed in a 7-8" frying pan over medium-high heat. Shake pan
+  often until seed begins to pop, 3-4 minutes. Pour from pan; set aside to
+  cool.
+  
+  Peel and pit avacado; dice into a bowl. Add 1/2 teaspoon sesame seed,
+  ginger, vinegar, and wasabi; mix gently. Transfer to a serving bowl and
+  sprinkle with remaining seed. Serve with potsticker crisps.
+  
+  Per serving: 81 calories; 1.1 grams protein; 7.2 grams fat; (1.1 grams
+  saturated fat); 4.8 grams carbohydrates; 27 milligrams sodium; 0 milligrams
+  cholesterol.
+  
+  *** POTSTICKER CRISPS ***
+  
+  One at a time, dip potsticker skins in water; shake off excess. Lay in a
+  single layer on a greased 12x15" baking sheet.
+  
+  Bake in a 450'F. oven until browned and crisp, 4-8 minutes, depending on
+  thickness. Cool on racks. If made ahead, package airtight and store at room
+  temperature up to 2 days.
+  
+  Per crisp: 39 calories; 1.8 grams protein; 0.1 grams fat; (0 grams
+  saturated fat); 7.8 grams carbohydrates; 3.9 milligrams sodium; 0
+  milligrams cholesterol.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

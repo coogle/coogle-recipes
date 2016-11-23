@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Soup</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>225</qty>
+          <unit>grams</unit></amt>
+        <item>Sweet almonds, blanched (8 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Hard-boiled egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>liter</unit></amt>
+        <item>Chicken stock (2 pints)</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>grams</unit></amt>
+        <item>"Beurre manie", made with 25 g butter and 25 g flour (2 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>deciliters</unit></amt>
+        <item>Cream (1/3 pint)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>White pepper</item></ing></ingredients>
+    <directions>
+      <step>  F.&amp;R.Dahl: "This delicate soup, popular 100 years ago, is now unusual. On
+  no account should it be liquidized at any stage, as that ruins the texture"
+  
+  Mince the almonds and, using a pestle and mortar, reduce to a paste with
+  the egg yolks and a little stock, to stop them oiling.
+  
+  Bring the stock up to simmering point in a saucepan and whisk in the beurre
+  manie. When that has dissolved, whisk in the almond paste.
+  
+  Cook gently for 30 minutes.
+  
+  Strain through a sieve, add the cream, season with salt and pepper, heat
+  gently and serve.
+  
+  From: Felicity &amp; Roald Dahl, Memories with food at Gipsy House, Penguin,
+  1991, ISBN 0-670-83462-9
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

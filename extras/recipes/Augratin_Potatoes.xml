@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Augratin Potatoes</title>
+      <categories>
+        <cat>Potatoes</cat>
+        <cat>Laurie's re</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Potatoes; peeled and sliced</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350. In large saucepan melt 1/4 cup butter; add flour and
+  milk and bring to a boil. Add cheeses and stir, then add potatoes, stirring
+  to mix well. Pour into 9 X 13 inch pan. Melt 1 tablespoon butter and
+  combine with breadcrumbs. Sprinkle over top of potatoes. Cover and bake for
+  1 to 1 1/2 hours.
+  
+  Recipe by: Pillsbury Cookbook
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Laurie Campbell
+  &lt;lauriec@flash.net&gt; on Oct 27, 1997
+ 
+</step></directions></recipe></recipeml>

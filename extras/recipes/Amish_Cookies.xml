@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amish Cookies</title>
+      <categories>
+        <cat>Amish</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter; (real)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; beat well</item></ing>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cream of tartar</item></ing></ingredients>
+    <directions>
+      <step>  Mix together, beat well and add 1 teaspoon vanilla. Drop by teaspoon onto
+  baking sheet (slightly greased). Bake 10 minutes in 375 degree oven. Makes
+  about 65 cookies.
+  Posted to recipelu-digest Volume 01 Number 648 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 31, 1998
+ 
+</step></directions></recipe></recipeml>

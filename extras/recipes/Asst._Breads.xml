@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asst. Breads</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Leaves BREAD SNDWICH 22OZ #51</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Leaves BREAD WHEAT 16 OZ #53</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Leaf BREAD AMER RYE 16OZ #55</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Leaf BREAD RAISIN 16 OZ #57</item></ing></ingredients>
+    <directions>
+      <step>  FOOD SERVICE PERSONNEL WILL PLACE LOAVES OF THE TYPES OF BREAD IN THE
+  BREAD DISPENSER 15 MINUTES PRIOR TO THE SERVING SCHEDULE FOR SELF SERVICE
+  BY DINERS. ASSORTED BREADS SHOULD BE MADE AVAILABLE THROUGHOUT SERVING
+  PERIOD. WHEN REPLENISHING THE BREAD
+  INTO CONSIDERATION THE AMOUNT OF TIME LEFT TO SERVE THE MEAL TO PREVENT
+  FOOD WASTE. THEY WILL USE THE CORRECT BREAD CODE. AFTER SERVING
+  AMOUNT AND TYPE USED WILL BE ENTERED ON THE KITCHEN REQUISITION AND RETURN
+  WORKSHEET.
+  
+  Recipe Number: S00800
+  
+  SERVING SIZE: 2 SLICES
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

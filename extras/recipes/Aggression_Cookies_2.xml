@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aggression Cookies</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Oatmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing></ingredients>
+    <directions>
+      <step>  Dump all ingredients in a large bowl. Mash it, knead it, pound it! The
+  longer and the harder you mix it, the better it tastes. Roll dough into
+  small balls, and bake on cookie sheet at 350 degrees for 10 to 12 minutes,
+  or until lightly browned.
+  
+  Posted to recipelu-digest Volume 01 Number 518 by Sandy Snow
+  &lt;sandysno@pctech.net&gt; on Jan 14, 1998
+ 
+</step></directions></recipe></recipeml>

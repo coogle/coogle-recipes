@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alaska Salmon Salad Sandwich</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Sandwich</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>15 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned Alaska salmon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Plain nonfat yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>slices</unit></amt>
+        <item>Bread</item></ing></ingredients>
+    <directions>
+      <step>  Drain and flake salmon. Stir in remaining ingredients except pepper and
+  bread. Season with pepper to taste. Spread salmon mixture on half of bread
+  slices; top with remaining bread. Cut sandwiches into halves or quarters.
+  
+  Makes 6 sandwiches.
+  
+  Nutrients Per Serving:
+  
+  Calories:               264 Sodium: 713 mg Protein: 20.1 g Dietary Fiber:
+  1.48 g Carbohydrates: 29.6 g Fat-Total: 6.68 g Cholesterol: 40.5 mg
+  
+  Source: Light &amp; Lively Recipes Reprinted by permission of Alaska Seafood
+  Marketing Institute Meal-Master compatible recipe format courtesy of Karen
+  Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

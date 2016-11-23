@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Fried" Chicken</title>
+      <categories>
+        <cat>Main dishes</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Chicken thighs(2.5#)</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Round buttery crackers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Rosemary,crushed</item></ing></ingredients>
+    <directions>
+      <step>  1. Finely crush round buttery crackers. Remove skin and cut away any excess
+  fat from chicken thighs.
+  2. Place butter or margarine in pie plate; cover with waxed paper. Cook at
+  high (100%) 1 to 1 1/2 minutes until butter melts. On waxed paper, mix
+  crumbs, paprika, salt, and rosemary.
+  3. Dip chicken thighs in butter or margarine; then coat with cracker-crumb
+  mixture. Arrange coated chicken thighs on rack in 12x8" baking dish; cover
+  dish with waxed paper. Cook at high 9 minutes. Remove waxed paper and
+  rotate dish a half turn. Cook at high 5-7 minutes longer until thighs are
+  tender. Let thighs stand 5 minutes before serving.
+  
+  Miscellaneous recipes from the collection of Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mo-misc.zip
+ 
+</step></directions></recipe></recipeml>

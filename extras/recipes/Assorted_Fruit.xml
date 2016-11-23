@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Assorted Fruit</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>ORANGES FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>pounds</unit></amt>
+        <item>PEARS FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>APPLE FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>BANANAS FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>TANGERINE FRESH</item></ing></ingredients>
+    <directions>
+      <step>  INSPECT FOR SPOILAGE AND CULL AS NEEDED UPON RECEIPT.  STORE UNDER
+  REFRIGERATION UNTIL NEEDED. FRUIT WILL BE WASHED THOROUGHLY 30 MINUTES
+  PRIOR TO SERVING. PLACE 3 POUNDS OF EACH TYPE OF FRUIT INTO SERVING
+  PAN AND PLACE ON SERVING LINE FOR SELF SERVICE.  FRESH FRUITS WILL BE
+  OFFERED THROUGHOUT THE SERVING PERIOD.  REPLENISHMENT WILL BE MADE
+  IN 3 POUND INCREMENTS
+  KITCHEN REQUISITION AND RETURN WORKSHEET.
+  NOTE:
+  BANANAS WILL BE STORED AT ROOM TEMPERATURE TO PRECLUDE SPOILAGE.
+  Recipe Number: S00100
+  
+  SERVING SIZE: 1 EA
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

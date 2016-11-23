@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Baking Mix (Sweet)</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Mixes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour; unsifted</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Unsweetened cocoa powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Sift together all ingredients. Store in tightly covered container at cool
+  room temperature. Stir before using. Makes 7 cups mix. Posted to MC-Recipe
+  Digest V1 #
+  Posted to MM-Recipes Digest  by Marti Wolek &lt;mwolek@techline.com&gt; on Mar
+  09, 1998
+ 
+</step></directions></recipe></recipeml>

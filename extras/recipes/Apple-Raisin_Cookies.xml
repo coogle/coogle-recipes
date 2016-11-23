@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Raisin Cookies</title>
+      <categories>
+        <cat>Dropcookies</cat>
+        <cat>Cookies</cat>
+        <cat>Travel</cat>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter Or Margarine;Softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown Sugar; Packed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; Large</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; Unbleached</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cloves; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Apples; Medium *</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; Chopped</item></ing></ingredients>
+    <directions>
+      <step>  *  Apples should be cored, peeled and chopped.  There should be 1 1/2
+     Cups.
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
+  Cream butter and sugar. Add eggs and milk; beat well.  Stir together flour
+  and next 5 ingredients; stir into creamed mixture.  Stir in apples,
+  rasins, and nuts.  Drop form tablespoon on well greased cookie sheet.
+  Bake at 350 degress F. for 12 to 14 minutes.  Immediately remove cookies
+  to rack.
+  
+  Makes 4 1/2 dozen.
+  
+  From Better Homes &amp; Garden's Homemade Cookies Cookbook, via The Home BBS.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/travel.zip
+ 
+</step></directions></recipe></recipeml>

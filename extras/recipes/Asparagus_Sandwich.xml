@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Sandwich</title>
+      <categories>
+        <cat>Sandwich</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(small) asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Hard-boiled eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(4-oz) cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Seasoned salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>slices</unit></amt>
+        <item>Bread</item></ing></ingredients>
+    <directions>
+      <step>  Combine asparagus, eggs &amp; cream cheese. Mash together; season with seasoned
+  salt. Butter outside of bread. Spread mixture in middle. Sprinkle outside
+  of buttered bread with Parmesan cheese &amp; put under broiler to brown. Turn
+  over, butter bread &amp; sprinkle with Parmesan cheese. Brown. Cut in half
+  diagonally.
+  
+  JANE GALYEAN
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

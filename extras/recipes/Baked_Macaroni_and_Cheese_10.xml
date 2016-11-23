@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Macaroni and Cheese</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Cheese</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Margarine, divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked macaroni</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Cheddar cheese, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Evaporated skim milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dash red pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees F. In small nonstick skillet heat 1 tsp
+  margarine until bubbly and hot. Add onion and saute until translucent. (Do
+  not brown). In bottom of 1-qt casserole spread 3/4 cup of macaroni. Top
+  with 1- 1/2 oz cheese, then half the sauteed onion. Repeat layers. In small
+  bowl combine milk, egg, salt, and pepper, mixing well. Pour over macaroni
+  mixture and sprinkle with paprika. Dot with remaining margarine and bake
+  until set, 20-25 minutes. Do not overcook.
+  
+  Each serving provides: 2 proteins, 1-1/2 bread, 1/2 vegetable, 1 fat, 3/4
+  milk. Per serving: 456 cal, 25 g pro, 21 g fat, 40 g carbohydrate, 727 mg
+  sodium, 185 mg cholesterol.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Rub, Larry's Best</title>
+      <categories>
+        <cat>Rub</cat>
+        <cat>Bbq</cat>
+        <cat>Cookoff</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/8</qty>
+          <unit>cups</unit></amt>
+        <item>GRD BLACK PEPPER</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>CAYENNE (OPTIONAL)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>MILD CHILI POWDER</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>CUMIN</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>DARK BROWN SUGAR</item></ing>
+      <ing>
+        <amt>
+          <qty>3/8</qty>
+          <unit>cups</unit></amt>
+        <item>WHITE SUGAR</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>GRD OREGANO</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>PAPRIKA</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>SALT</item></ing>
+      <ing>
+        <amt>
+          <qty>3/8</qty>
+          <unit>cups</unit></amt>
+        <item>GRD WHITE PEPPER</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/8</qty>
+          <unit>cups</unit></amt>
+        <item>CELERY SALT</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/8</qty>
+          <unit>cups</unit></amt>
+        <item>GARLIC POWDER</item></ing></ingredients>
+    <directions>
+      <step>  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

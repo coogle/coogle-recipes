@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anything Muffins</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>WET INGREDIENTS</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs or equivalent substitute</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar (up to 1)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Applesauce</item></ing></ing-div>
+      <ing-div>
+        <title>DRY INGREDIENTS</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>FRUIT COMBINATION (PICK ONE):</item></ing></ing-div>
+      <ing-div>
+        <title>A</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Mashed banana</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Low sugar marmalade</item></ing></ing-div>
+      <ing-div>
+        <title>B</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Mashed banana</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Low sugar strawberry preserves</item></ing></ing-div>
+      <ing-div>
+        <title>C</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh blueberries</item></ing></ing-div>
+      <ing-div>
+        <title>D</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped granny smith apples</item></ing></ing-div>
+      <ing-div>
+        <title>E</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Mashed banana</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mandarin orange pieces; mashed</item></ing>
+        <ing>
+          <amt>
+            <qty>(make</qty>
+            <unit>up</unit></amt>
+          <item>your own, just make sure the is some fluid in the ingredients</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  here)
+  
+  Preheat oven to 350 degrees. Mix dry ingredients thoroughly, set aside. Mix
+  wet ingredients in a large bowl, add dry ingredsients, mix until just
+  blended, add fruit. Bake for 30 minutes or until toothpick inserted in
+  center of muffin comes out clean. Posted to fatfree digest V97 #179 by
+  JBennicoff@aol.com on Aug 14, 1997
+ 
+</step></directions></recipe></recipeml>

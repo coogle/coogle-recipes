@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Grete Pye</title>
+      <categories>
+        <cat>Medieval</cat>
+        <cat>Main dish</cat>
+        <cat>Meat</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Shortcrust pastry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg white, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Until liquid</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Boned breasts of chicken</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pigeon or wild duck and/or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Saddle of hare or rabbit</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(not stewing meat)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Minced beef</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shredded suet</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Hard-boiled egg</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Yolks crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Each ground</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon and mace</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>And a pinch of ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Stoned cooking dates chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Currants</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Stoned prunes soaked</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>And drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Beef stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Rice flour or cornflour</item></ing></ingredients>
+    <directions>
+      <step>  No Christmas feast in medieval times was complete without a 'grete pye'. In
+  some recipes, it could contain many varied meats, but quite often only two
+  or three different kinds were suggested; change the meats suggested here if
+  you wish. Use just over half the pastry to line a 23-cm/9-inch pie plate.
+  Brush the inside with some of the egg white. Skin the pieces of breast and
+  other meat if necessary and parboil them gently in salted water for 10-15
+  minutes.  Drain and leave to cool. Mix together in a bowl the minced beef,
+  suet, salt and pepper to taste, the egg yolks and half the spice mixture.
+  Add the rest of the spices to the dried fruit in another bowl. Slice the
+  parboiled meat. Pre-heat the oven to 220C/425F/Gas Mark 7. Add 1 or 2
+  tablespoons of the beef stock to the rice flour or cornflour in a small
+  saucepan and cream them together; then add the remaining stock and stir
+  over gentle heat until slightly thickened. Keep aside. Cover the bottom of
+  the pastry case with half the mince mixture. Arrange the sliced meat in a
+  flat layer on top. Scatter the chopped spiced fruit over it and cover with
+  the remaining mince.  Pour the thickened stock over the lot. Roll out the
+  remaining pastry into a round to make a lid for the pie. Brush the rim of
+  the case with a little more egg white and cover with the lid. Press the
+  edges to seal, and make escape slits for steam. Decorate with the pastry
+  trimmings and glaze with egg white. Bake for 15 minutes, then reduce the
+  heat to 160C/325F/Gas Mark 3 and bake for 45-50 minutes longer. Serves 6 to
+  8. Grete pyes. Take faire yonge beef, And suet of a fatte beste, or of
+  Motton, and hak all this on a borde small; and caste therto pouder of peper
+  and salt; and whan it is small hewen, put hit in a bolle. And medle hem
+  well; then make a faire large Cofyn, and couche som of this stuffur in.
+  Then take Capons, Hennes, Mallardes, Connynges, and parboile hem clene;
+  take wodekokkes, teles, grete briddes, and plom hem in a boiling pot; And
+  then couche al this fowle in the Coffyn, And put in euerych of hem a
+  quantite of pouder of peper and salt. Then take mary, harde yolkes of
+  egges, Dates cutte in ij peces, reisons of coraunce, prunes, hole clowes,
+  hole maces, Canell and saffron. But first, whan thoug hast cowched all thi
+  foule, ley the remenaunt of thyne other stuffur of beef a-bought hem, as
+  thou thenkest goode; and then strawe on hem this: dates, mary, and reysons,
+  &amp;c.  And then close thi Coffyn with a lydde of the same paast, And putte
+  hit in the oven, And late hit bake ynough; but be ware, or thou close hit,
+  that there come no saffron nygh the brinkes there-of, for then hit wol
+  neuer close.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

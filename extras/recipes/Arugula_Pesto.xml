@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arugula Pesto</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Arugula leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan or Asiago cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>cups</unit></amt>
+        <item>Pine nuts; toasted</item></ing></ingredients>
+    <directions>
+      <step>  In blender or food processor place arugula, garlic and cheese and blend
+  until smooth.  Slowly add olive oil and nuts. Blend until desired
+  consistency.
+  
+  Spread on a pizza crust, top with cheddar cheese, onions and fresh tomato
+  slices.  Or, simply toss with cooked pasta.
+  
+  Copyright Ellen Ecker Ogden From: The Cook's Garden catalog - Spring/Summer
+  1990 - page 20
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

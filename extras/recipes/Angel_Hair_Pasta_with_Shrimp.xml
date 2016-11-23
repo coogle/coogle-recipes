@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Pasta with Shrimp</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Main dish</cat>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>35 per cent cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pesto sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated paresan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Worcestershire and tabasco</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Capellini</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Red pepper, cut in strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Snow peas, trimmed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Jumbo shrimp</item></ing></ingredients>
+    <directions>
+      <step>  In a saucepan over medium heat, melt butter, stir in flour and cook for a
+  few minutes until golden.  Add milk and cream, bring to a gentle simmer and
+  continue to stir until thickened. Add pesto, parsley, garlic, parmesan,
+  salt, pepper, worcestershire and tabasco, and stir until blended. Reduce
+  heat and keep warm, stirring occasionally. Cook pasta quickly in a large
+  pot of boiling water (3 to 4 minutes, or until al dente). At the same time,
+  poach the pepper, snowpeas and shrimp in another pot of boiling water ( 2
+  or 3 minutes, or until just heated through). Drain the pasta, mix it with
+  the sauce and portion it into heated individual serving bowls. Garnish each
+  portion with shrimp and vegetables, and serve immediately.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

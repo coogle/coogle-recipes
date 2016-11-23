@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Head green cabbage; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cucumber; seeded &amp; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bunch scallions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ribs celery; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Sprigs fresh mint leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sprigs fresh coriander or parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Chicken breasts; boned</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Teriyaki sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fish sauce (bottled)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; crushed</item></ing></ingredients>
+    <directions>
+      <step>  Place thinly sliced cabbage, carrot, cucumber, scallions, celery, mint
+  leaves and coriander or parsley in large salad bowl. Cut chicken breasts in
+  small cubes and soak in teriyaki sauce for about 5 minutes. Saute in wok or
+  skillet for about 5 minutes until cooked. Add to salad mixture. In a
+  separate bowl mix lemon juice, fish sauce (from oriental food store), sugar
+  and crushed garlic. Stir until sugar is dissolved. Toss salad with dressing
+  and allow to stand for 1/2 hour before serving.
+  
+  From the &lt;Micro Cookbook Collection of Contemporary Recipes&gt;.  Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

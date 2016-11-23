@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Noodle Salad</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Salad and d</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Chinese style egg noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green onions; about 3</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped fresh cilantro</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Apple juice; frozen concentrate, thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce; low sodium</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh ginger root; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; finely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Chinese egg noodles are the noodles used to make lo mein dishes. If they
+  are not available, substitute thin egg noodles or spaghetti. Cook noodles
+  as directed on package--except omit salt; drain. Toss noodles and remaining
+  ingredients. Cover and refrigerate about 2 hours or until chilled.
+  
+  Sources Betty Crocker New Choices Cookbook computer program
+  
+  Recipe by: Betty Crocker New Choices Cookbook computer program
+  
+  Posted to MC-Recipe Digest V1 #990 by Carol &amp; Bob Floyd
+  &lt;c.floyd@arnprior.com&gt; on Jan 05, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aberffraw Cakes</title>
+      <categories>
+        <cat>Bread</cat>
+        <cat>Welsh</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Castor sugar</item></ing></ingredients>
+    <directions>
+      <step>  TEISENNAU ABERFFRO Melt the butter in a basin and beat in the sugar.
+  Gradually add the flour, mixing well with a warm spoon, Roll out thinly on
+  a floured board and cut into rounds. Cook in a moderate oven (375/F. or
+  Mark 5)  for 15 minutes or until golden-brown. Serve sprinkled with sugar
+  and with whipped cream and raspberry jam.
+    Posted to MM-Recipes Digest V3 #256
+  
+    Date: Thu, 19 Sep 1996 18:42:04 +0000
+  
+    From: "ray.watson" &lt;ray.watson@ukonline.co.uk&gt;
+ 
+</step></directions></recipe></recipeml>

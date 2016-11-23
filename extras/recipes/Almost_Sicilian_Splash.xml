@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almost Sicilian Splash</title>
+      <categories>
+        <cat>Copycat</cat>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cubes ice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Jiggers white grape juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jigger orange soda</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sparkling water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon slice, garnish</item></ing></ingredients>
+    <directions>
+      <step>  Tall fluted glass. Blend in order given. Serve with lemon slice and a
+  straw.
+  
+  NOTES : Server at Olive Garden (Aug 96)
+  
+  Recipe by: Olive Garden Restaurants Posted to MC-Recipe Digest V1 #615 by
+  louiseh@juno.com on May 18, 1997
+ 
+</step></directions></recipe></recipeml>

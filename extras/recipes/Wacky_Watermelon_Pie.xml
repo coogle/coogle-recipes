@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wacky Watermelon Pie</title>
+      <categories>
+        <cat>Pie/</cat>
+        <cat>Crust/</cat>
+        <cat>Topping</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Low-fat graham cracker crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Oil</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit>ounces</unit></amt>
+          <item>Cool Whip® Free; thawed</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>ounces</unit></amt>
+          <item>Watermelon gelatin powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Watermelon balls</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 350. To prepare crust, combine graham cracker crumbs and
+  oil in a small mixing bowl.  Press into prepared pan.  Bake for 10 minutes.
+  To prepare filling,combine whipped topping, watermelon gelatin powder, and
+  water. Fold in watermelon balls. Spoon into prebaked crust. Chill for 2
+  hours.
+  
+  Recipe By     : National Watermelon Promotion Board
+  
+  Posted to Digest eat-lf.v096.n165
+  
+  Date: Tue, 24 Sep 1996 11:09:30 -0500
+  
+  From: matejka@bga.com (Anita A. Matejka)
+ 
+</step></directions></recipe></recipeml>

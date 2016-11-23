@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Strawberries 2</title>
+      <categories>
+        <cat>New text im</cat>
+        <cat>Cooking rig</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pints</unit></amt>
+        <item>Ripe strawberries; stemmed and halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamic vinegar reduction</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Green peppercorns, slightly crushed; drained and rinse</item></ing></ingredients>
+    <directions>
+      <step>  In a bowl, gently combine all ingredients. Allow to stand, refrigerated,
+  for at least 1 hour before serving.
+  
+      Copyright, 1996, TV FOOD NETWORK, G.P., All Rights Reserved
+  Recipe By     : COOKING RIGHT SHOW #CR9745
+  
+  Posted to MC-Recipe Digest V1 #304
+  
+  Date: Fri, 15 Nov 1996 17:19:33 -0500 (EST)
+  
+  From: Bill Spalding &lt;billspa@icanect.net&gt;
+ 
+</step></directions></recipe></recipeml>

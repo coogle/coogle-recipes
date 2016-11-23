@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken Supreme</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Pieces chicken thighs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Without skin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tarragon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh ground pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tamari soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Shallots -- diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh parsley -- chopped</item></ing></ingredients>
+    <directions>
+      <step>  Arrange chicken pieces in a heavy, shallow pan, lightly oiled. Season=
+  chicken pieces with salt, paprika, and tarragon. (If desired,=
+  freshly-ground pepper may be used.) Sprinkle lemon juice, soy sauce and=
+  sherry over chicken. Place diced shallots around chicken pieces. Place pan=
+  in preheated 425=B0F oven. and bake, uncovered, for 20 minutes. Lower oven=
+  temperature to 375=B0F; cover pan and contunue to bake for 30 minutes,=
+  basting occasionally with accumulated liquid. (Remove cover after 30=
+  minutes baking and continue to bake 15 or 20 minutes longer, or until=
+  chicken is tender and nicely-browned.) Add corn starch to yogurt. Put
+  accumulated juiced in pan on top of stove and= bring to a boil. Add yogurt
+  and stir until thickened. Put on top of chicken= and top with parsley.
+  
+  Recipe By     : The Rodale Cookbook
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

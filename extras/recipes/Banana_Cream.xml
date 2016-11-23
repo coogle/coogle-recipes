@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cream</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>75</qty>
+          <unit>grams</unit></amt>
+        <item>3 oz dried, no soak apricots</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe bananas.</item></ing>
+      <ing>
+        <amt>
+          <qty>300</qty>
+          <unit>grams</unit></amt>
+        <item>10 oz low fat yogurt.</item></ing></ingredients>
+    <directions>
+      <step>  Chop up the apricots and divide between four bowls. Puree the bananas with
+  the yogurt in a blender. Divide the yogurt mixture between the bowls.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

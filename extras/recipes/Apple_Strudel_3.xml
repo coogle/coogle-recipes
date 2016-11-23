@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Strudel</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Pies &amp; past</cat>
+        <cat>Fruit</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Seedless raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Almond slivers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Sheets phyllo dough</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>  Peel, core, and finely chop apples. Mix with sugar, spices, raisins, nuts,
+  and 2 tablespoons melted butter. Unwrap phyllo dough and keep between two
+  dampened tea towels. Place one sheet of dough on a third tea towel. Brush
+  with melted butter and sprinkle with bread crumbs. Place second sheet of
+  phyllo on top of first, brush with butter, and sprinkle with crumbs. Repeat
+  with remaining sheets of phyllo. Spread apple filling, about two inches in,
+  along one long side of dough, to within two inches of each edge. Filling
+  should be spread about three inches wide. Fold long side over once to cover
+  filling, then fold in edges. Continue to roll lengthwise, like a jelly
+  roll, using towel to help. Brush each roll with butter, and place, seam
+  side down, on a lightly buttered baking sheet. Bake at 400 degrees about
+  20-25 minutes, until golden. Remove from oven and score top into 1-1/2"
+  slices with a sharp knife. Cool and cut into slices.
+  
+  Posted to JEWISH-FOOD digest V97 #309 by BNLImp@aol.com (Iara lewin) on Nov
+  26, 1997
+ 
+</step></directions></recipe></recipeml>

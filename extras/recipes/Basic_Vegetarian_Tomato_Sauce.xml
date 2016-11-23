@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Vegetarian Tomato Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Vegetables</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Celery stalk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Basil leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>35</qty>
+          <unit>ounces</unit></amt>
+        <item>Drained canned plum tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper</item></ing></ingredients>
+    <directions>
+      <step>  You can substitute fresh tomatoes in this recipe. Remember 1 pound of fresh
+  equals 1 cup of canned. FINELY CHOP TOGETHER the carrot, celery, onion,
+  parsley and basil, or pulse them in a food processor. Warm the olive oil in
+  a large skillet. Saute the chopped vegetables for 10 minutes, stirring
+  often. Puree the tomatoes through a food mill into the pan. Add the salt
+  and several grindings of pepper. Bring to a simmer and cook, partly
+  covered, over very low heat, for 2 hours. Pass the finished sauce through
+  the medium blade of the food mill. Makes 3 Cups
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

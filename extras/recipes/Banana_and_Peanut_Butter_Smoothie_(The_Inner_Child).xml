@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana and Peanut Butter Smoothie (The Inner Child)</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Breakfast</cat>
+        <cat>Vegan</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Apple juice; chilled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Honey</item></ing></ingredients>
+    <directions>
+      <step>  Process all ingredients in a blender until smooth. Serve immediately.
+  
+  Printed in the Atlanta Journal/Constitution, 7/10/97
+  
+  &gt;From: Ellen C. Rakes &lt;ellen@brakes.elekta.com&gt;
+  
+  Per serving: 328 Calories; 9g Fat (23% calories from fat); 5g Protein; 62g
+  Carbohydrate; 0mg Cholesterol; 85mg Sodium =46ood Exchanges: 1/2 Lean Meat;
+  3 1/2 Fruit; 1 1/2 Fat; 1/2 Other Carbohydrates
+  
+  NOTES : This is pure comfort in a glass.
+  
+  Recipe by: Wish Fulfilling Tree Posted to Digest eat-lf.v097.n183 by "Ellen
+  C." &lt;ellen@elekta.com&gt; on Jul 20, 97
+ 
+</step></directions></recipe></recipeml>

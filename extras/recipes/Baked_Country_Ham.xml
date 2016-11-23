@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Country Ham</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Pork</cat>
+        <cat>Holiday</cat></categories>
+      <yield>200</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit>pounds</unit></amt>
+        <item>Uncooked smoked ham</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dijon mustard</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 300 degrees. Put ham, fatty-side up, in a foil-lined metal
+  baking pan. Cover with foil and bake for 3 hours. Combine remaining
+  ingredients. Remove ham from oven. Carefully trim away all but 1/8-inch of
+  fat. Score with a sharp knife in a diamond pattern, making cuts 1/8-inch
+  deep and one inch apart. Pour excess fat from pan. Line pan with new foil,
+  and put ham in pan. Spoon glaze over ham and bake for 20 minutes. Raise
+  oven temperature to 325 degrees, and glaze again. Bake an additional 20
+  minutes. Glaze once more and bake 15 minutes. Cool before carving into thin
+  slivers. Formatted by T. Grant, HWWK11B, from Martha Stewart Entertaining.
+  Posted to MM-Recipes Digest V4 #330 by scotlyn@juno.com (Daniel S Johnson)
+  on Dec 20, 1997
+ 
+</step></directions></recipe></recipeml>

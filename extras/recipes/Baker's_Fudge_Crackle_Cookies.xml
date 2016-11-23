@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baker's Fudge Crackle Cookies</title>
+      <categories>
+        <cat>Chocolate</cat>
+        <cat>Cookies</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Squares semi sweet chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Squares unsweetened chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Instant coffee</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cake and pastry flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Semi-sweet chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped toasted unblanced almonds</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>DIP:</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Squares semi-sweet chocolate</item></ing></ingredients>
+    <directions>
+      <step>  Melt chocolate squares, butter and coffee; stir well. Cool. Sift together
+  flour and baking powder.  Beat eggs until foamy; add sugar gradually. Add
+  vanilla and chocolate mixture. Stir in flour mixture. Then stir in
+  chocolate chips and nuts. Let stand at room temperature for 30 minutes.
+  Drop by teaspoonful onto baking sheets. Bake at 350 F for 10 minutes. Allow
+  to cool for 5 minutes before removing from pan. Makes about 3 dozen
+  cookies.
+  
+  DIP:  Partially melt chocolate.  Dip half of each cookie into melted
+  chocolate. Place on waxed paper lined cookie sheets. Chill for 5-10
+  minutes, or until chocolate is set. Serve cookies at room temperature.
+  
+  Origin: Canadian Living, December 1988, Baker's Chocolate Ad. Shared by:
+  Sharon Stevens
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

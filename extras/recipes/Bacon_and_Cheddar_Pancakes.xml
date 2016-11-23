@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Cheddar Pancakes</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Pancakes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Plain yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Mild cheddar cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cooked bacon; crumbled</item></ing></ingredients>
+    <directions>
+      <step>  1. In large bowl, whisk together flour, cornmeal, sugar, salt and baking
+  soda.
+  
+  2. In another bowl, whisk together eggs, milk, yogurt and butter. Whisk
+  into flour mixture just until combined.
+  
+  3. Heat griddle over med heat (350F). Preheat oven to 200F if you want to
+  hold pancakes.
+  
+  4. Pour 1/4 cup of batter, forming 4" rounds and sprinkle 1 tbsp of cheese
+  and bacon onto each pancake. Cook until golden, 1-2 mins on each side.
+  Serve with cheese and syrup.
+  
+  Contributor: Toronto Sun, Feb 18/98
+  
+  Posted to RecipeLu 3/19/98 by Cathleen &lt;catht@interlog.com&gt;
+  
+  Posted to recipelu-digest by Badams &lt;adamsfmle@sprintmail.com&gt; on Mar 21,
+  1998
+ 
+</step></directions></recipe></recipeml>

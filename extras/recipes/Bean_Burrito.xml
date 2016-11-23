@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Burrito</title>
+      <categories>
+        <cat>Ethnic</cat>
+        <cat>Low fat</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chopped onions</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chopped cucumbers (peeled if waxed)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chopped tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Non-fat corn tortillas or non-fat flour tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Non-fat refried beans</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Mild or spicy prepared salsa</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Non-fat cheddar cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Non-fat sour cream</item></ing></ingredients>
+    <directions>
+      <step>  Combine the parsley, onions, cucumbers and tomatoes.
+  Lay tortillas flat on work surface. Place half the
+  beans in the center of each tortilla. Top each with
+  half the vegetable mixture.
+  
+  Then, working with one tortilla at a time, fold in 2
+  sides over filling and roll from bottom to the top.
+  Place, seam-side down, in a baking dish and top with
+  salsa and cheese. Heat for 15 minutes in a 350 degree
+  oven. Serve topped with sour cream.
+  
+  Makes 2 servings.
+  
+  Serve this as a dip with no-fat chips. Can also be
+  used to top a baked potato.
+  
+  Source: SourceLine: Sun-Sentinel Recipes by Fax
+  
+  Posted on Delphi CF 229 by SUGARMOUSE on July 15,
+  1995. Formatted to MM by Trish McKenna 8/8/95
+  Posted to MM-Recipes Digest V3 #215
+  
+  Date: Thu, 8 Aug 1996 19:20:46 PST
+  
+  From: jlewis1@juno.com (julie l lewis)
+ 
+</step></directions></recipe></recipeml>

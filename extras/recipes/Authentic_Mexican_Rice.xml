@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Authentic Mexican Rice</title>
+      <categories>
+        <cat>Mexican</cat>
+        <cat>Rice</cat>
+        <cat>Side dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Long-grain white rice, raw</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>medium</unit></amt>
+          <item>Onion, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Salsa (Embasa brand)</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Tomato chicken boullion</item></ing></ing-div>
+      <ing-div>
+        <title>RECIPE CAN BE DOUBLED</title></ing-div></ingredients>
+    <directions>
+      <step>  Heat oil in saut‚ pan on medium-high.  Add uncooked rice and stir to coat
+  rice with oil. When rice is brown, add chopped onions and stir. When onions
+  start to brown, add in salsa tomatoes, stirring to coat rice. Add in water
+  and chicken-tomato seasoning and bring to a boil. Allow water to boil for 5
+  minutes, then lower heat to medium-low and cover.  Simmer for 10-15
+  minutes, stirring every few minutes.
+  
+  When water is completely evaporated and rice is tender, remove from heat
+  and serve hot.
+  
+  * NOTE:  Embasa Salsa comes canned and can be found in the ethnic section
+  of your grocery store. This is an authentic recipe from a Hispanic friend
+  of mine.
+  
+  Contributor:  Frances Say
+  
+  Posted to MM-Recipes Digest  by frances.m.say@bakernet.com on Apr 23, 1998
+ 
+</step></directions></recipe></recipeml>

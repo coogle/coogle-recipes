@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cole Slaw</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Head cabbage; cored</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Apple; cored</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; pared and grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>small</unit></amt>
+        <item>Onion; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Plain yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and white pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil and vinager to taste</item></ing></ingredients>
+    <directions>
+      <step>  Cut cabbage in four and slice thinly. Place in large bowl. Pell apples and
+  cut into julienne. Add to the bowl.
+  
+  Add remaining ingredients, except oil and vinager, and mix very well.
+  
+  Correct seasoning.Add oil and vinager to taste. Mix and marinate 30 minutes
+  before serving.
+  
+  Posted to JEWISH-FOOD digest V97 #327 by BNLImp &lt;BNLImp@aol.com&gt; on Dec 17,
+  1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Strawberry Vinaigrette</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Side dish</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Asparagus</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Hulled strawberries</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Strawberry vinegar</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Walnut oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Peanut oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Honey</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Trim asparagus and cut each stalk in thirds.  Steam until tender but still
+  crisp.  (Thin young stalks took 5 minutes.) Plunge in ice water; drain.
+  
+  Wash strawberries, then hull.  Cut strawberries in half; combine with
+  asparagus.
+  
+  Combine dressing ingredients; toss asparagus and strawberries gently with
+  dressing. Chill well before serving.
+  
+  The authors write: "What could be simpler - or more delicious - than
+  spring's first asparagus combined with spring's first strawberries?"
+  
+  My notes: Good, and simple.
+  
+  Tried 02/22/92.  From _The New Carry-Out Cuisine_ by Phyllis Meras with
+  Linda Glick Conway.  Boston: Houghton Mifflin Company, 1986. Pg. 252. From
+  Movable Feast restaurant/5504 Connecticut Ave., N.W./Washington, D.C.
+  20015.  (202)966-1657.  Typed for you by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

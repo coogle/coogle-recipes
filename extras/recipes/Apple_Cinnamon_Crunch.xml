@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cinnamon Crunch</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>A</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Old-fashioned oats</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Coconut</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Nuts; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sesame seed</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing></ing-div>
+      <ing-div>
+        <title>B</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>C</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Finely cut dried apples</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From More-with-Less Cookbook by Doris Janzen Longacre
+  
+  Makes 2 qts.
+      350    degrees 20-25 minutes
+  
+  Preheat oven to 350 degrees. Combine "A" in large bowl. Combine "B"
+  separately and add.
+  
+  Mix thoroughly. Spread on 2 large greased baking pans and bake 20-25
+  mintues, stiriing occasionally. Add "C".
+  
+  Store in tightly covered container in refrigerator.
+  Posted to JEWISH-FOOD digest by "Minelle &amp; Joe Paloff"
+  &lt;mpaloff@1starnet.com&gt; on Jun 1, 1998
+ 
+</step></directions></recipe></recipeml>

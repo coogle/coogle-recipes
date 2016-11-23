@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Lila's Snowball Cookies</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts -- ground</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, All-Purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Powdered Sugar -- to roll</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>In</item></ing></ingredients>
+    <directions>
+      <step>  1.  Preheat oven to 350 degrees.
+  
+  2.  Cream sugar and butter until light &amp; fluffy.
+  
+  3.  Add vanilla and nuts.  Add flour gradually.
+  
+  4.  Roll into small balls.  Place on baking sheet, and bake 15 to 20
+  minutes in a 350 degree oven.
+  
+  5.  Roll baked balls in powdered sugar while still warm.
+  
+  Recipe By     : Lila Winkleman
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

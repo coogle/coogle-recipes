@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Bread Machine Recipe</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Low-fat</cat>
+        <cat>Breadmaker</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Malt</item></ing>
+      <ing>
+        <amt>
+          <qty>11</qty>
+          <unit>ounces</unit></amt>
+        <item>Water (110 - 120 deg.F)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Whole Wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached white flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar, honey, molasses...</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Gluten</item></ing></ingredients>
+    <directions>
+      <step>  put yeast and malt into machine with several oz. of water.  Use a
+  thermometer for the water. Too hot will kill the yeast. The yeast will now
+  proof (start to multiply) In a separate bowl, measure out all dry
+  ingredients and mix. After a few minutes, yeast should be bubbling, add dry
+  stuff and any liquids including the water. start the machine and see how it
+  looks. If too dry, add until it looks right. Should be one big mass not
+  several. Flour: I often substitute 1 cup of corn or rye + 1 heaping T of
+  gluten for a cup of WW flour. For sweet breads, add another few T of sugar
+  (I commonly use honey, molasses, or malt powder) and may some raisins. 3 T
+  of carroway seeds or sesame seeds in a non sweet bread is great. I have
+  also added 2 mashed bananas, then cut the water.
+  Posted to Bakery-Shoppe Digest V1 #411 by serge.cyr@sympatico.ca (Serge
+  Cyr) on Nov 23, 1997
+ 
+</step></directions></recipe></recipeml>

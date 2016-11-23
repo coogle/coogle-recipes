@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beacon Hill Brownies</title>
+      <categories>
+        <cat>Brownies</cat>
+        <cat>Chocolate</cat>
+        <cat>Nuts</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Unsweetened chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; coarsely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Melt chocolate with butter in saucepan over very low
+  heat; stirring constantly until smooth. Cool slightly.
+  Beat eggs, sugar, and vanilla in a large mixing bowl
+  at high speed 10 min. Blend in chocolate at low speed.
+  Add flour, beating just to blend. Stir in walnuts.
+  Spread in greased 13x9" pan. Bake at 375~ for 35-40
+  minutes. (do not overbake). Cool in pan. Cut into bars
+  or squares. Makes 24-32
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

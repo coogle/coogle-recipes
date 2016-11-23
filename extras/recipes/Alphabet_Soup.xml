@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alphabet Soup</title>
+      <categories>
+        <cat>Restaurants</cat>
+        <cat>Pasta</cat>
+        <cat>Veget soup</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>MICKEY'S GOURMET CKBK</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Carrots, diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Rutabaga, diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Celery, diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Onion, diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Crushed tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Peas</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Froz green beans</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Pearl barley, cooked, cooled</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Alphabet pasta, cooked, cool</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Chicken bouillon cubes</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Beef bouillon cubes</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cornstarch dissolved in</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  50's Prime Time Cafe, Disney-MGM Studios Theme Park In soup pot, add water
+  and bouillon. Bring to boil; simmer, covered, 15 mins. Add carrots,
+  rutabaga, celery, and onions; simmer 15 mins or until tender but not mushy.
+  Separately cook, rinse, drain, and cool barley and alphabet pasta; set
+  aside. After vegs are tender, add tomatoes, peas, and green beans. Simmer
+  an additional 5 mins; stir in cornstarch and water. Allow soup to thicken
+  slightly and add barley and pasta. Heat only long enough to warm all
+  ingreds.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

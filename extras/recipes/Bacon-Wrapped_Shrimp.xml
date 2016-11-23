@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon-Wrapped Shrimp</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Appetizers</cat>
+        <cat>Microwave</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Canadian bacon,</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Shrimp, med, shelled 12 slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red bell pepper,</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Teriyaki sauce cut into 12 strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chili sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Hoisin sauce</item></ing></ingredients>
+    <directions>
+      <step>  1. Place bacon on rack; cover with paper towel. Microwave on High 1
+  minutes; pat dry on paper towel. Let cool slightly. 2. Wrap one shrimp and
+  one pepper strip in each piece of bacon; secure with wooden pick. Place in
+  11x7" baking dish. 3. In small bowl, combine the teriyaki, chili and hoisin
+  sauces with 2 T. water; pour over shrimp. Cover and refrigerate 2 hours,
+  turning once. 4. Uncover and microwave on High 3-4 minutes, until shrimp is
+  cooked through. Let stand 5 minutes before serving.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Aperitif</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Avocado</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Cucumber</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Lemon; juice of</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Parsley; chopped Crushed Ice</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lemon slices; -OR-</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cucumber peel</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Peel avocado and cucumber; chop in chunks and place in a blender. Add
+  parsley, lemon, and blend until smooth. Add the crushed ice and blend
+  together again. Strain into glasses. Garnish with lemon slices or cucumber
+  peel.
+  
+  SERVES:4 SOURCE:_The Non-Drinker's Drink Book_ by Gail Schioler
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

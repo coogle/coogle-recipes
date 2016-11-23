@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Curry Dip</title>
+      <categories>
+        <cat>Dips</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Curry powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Apricot jam</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Absolutely delicious with crunchy vegetables, this is also great with
+  crackers, chicken fingers and wings.
+  
+  pepper
+  
+  In saucepan, melt butter over medium heat; cook onion for 3 minutes, or
+  until softened but not browned. Push to side of pan. Thickly slice banana.
+  Add to pan and cook for 1 minutes. Add curry powder and cook for 1 minute,
+  stirring all ingredients together. Add water and bring to boil; reduce heat
+  and simmer for 10 minutes or until thickened and liquid is reduced by half.
+  Remove from heat; stir in jam. Transfer to food processor or blender;
+  process until smooth. Add sour cream,mayonnaise, salt, and pepper to taste;
+  process just until combined. (Can be covered and refrigerated for up to 1
+  day. Let stand at room temperature for 30 minutes before serving.) Makes 2
+  cups.
+  
+  Origin: Canadian Living, December 1991. Shared by: Sharon Stevens
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

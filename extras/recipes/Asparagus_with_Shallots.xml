@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Shallots</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fragrant peanut oil or olive</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Shallots, peeled and minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Finely chopped parsley</item></ing></ingredients>
+    <directions>
+      <step>      Snap off tough ends of asparagus.  If asparagus is thick, old or tough,
+  peel bottoms.  Add asparagus to pan of boiling salted water. Boil gently
+  until cooked--bright green and tender--but still firm, about 5 to 8
+  minutes.  Remove; drain on towel; put on platter and drizzle with oil,
+  lifting spears to coat.
+   Sprinkle with shallots and parsley.  Salt slightly.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

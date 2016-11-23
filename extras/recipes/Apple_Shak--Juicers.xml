@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Shak--Juicers</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Orange peeled; leave on white pithy part</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green apples; seeded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ripe banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brewers yeast</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Orange slice for garnish</item></ing></ingredients>
+    <directions>
+      <step>  Juice the orange and apple. Place juice, banana, and yeast in blender or
+  food processor, and blend until smooth. Garnish with orange slice
+  
+  Recipe by: Cherie Calbom
+  
+  Posted to recipelu-digest Volume 01 Number 496 by ctlindab@mail1.nai.net on
+  Jan 11, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Radicchio with Herbs</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Cheese</cat>
+        <cat>Seasonings</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Head of radicchio</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>To 12 slices goat cheese*</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed garlic</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Thyme; fresh or dried</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh, crusty French bread</item></ing></ingredients>
+    <directions>
+      <step>  *Use 2 to 3 slices of goat cheese per serving, for a total of 8 to 12
+  slices.
+  
+  Preheat oven to 350 F.
+  
+  Chiffonade one head of radicchio and divide evenly among 4 individual oven
+  proof plates.  Put goat cheese slices on top of each radicchio serving.
+  Drizzle with olive oil mixed with lots of garlic and thyme. Bake for 10
+  minutes.  Serve hot with French bread.
+  
+  Recipe developed by Ellen Ogden.  In "The Cook's Garden" catalog. Vol. 8,
+  No. 1.  Spring/Summer 1991. Pg. 15. Typed for you by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

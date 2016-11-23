@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avgolemono</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Greek</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Uncooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs, separated</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  Make chicken broth and heat to boiling; add rice. Simmer covered about 20
+  minutes.  Remove from heat and set aside. In a bowl, beat egg whites until
+  stiff; add yolks and beat well. Beat continuously adding lemon juice a
+  little at a time.  Then add about 1/5 of the broth, beating continuously.
+  Pour this mixture back into the pot of broth and rice. Mix well over heat
+  but, to avoid curdling, do not allow soup to come to a boil. Serve
+  immediately.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

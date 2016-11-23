@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7 Up Bundt Cake</title>
+      <categories>
+        <cat>Bundt cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine or butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon extract</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>7-up</item></ing></ingredients>
+    <directions>
+      <step>  Cream sugar and shortening until light and fluffy. Add eggs one at a time
+  beating well after each addition. Add flour. Beat in lemon extract and
+  7-Up. Pour batter into well greased and floured bundt pan. Bake at 325~.
+  for 1 hour and 15 minutes. Cool 10 minutes on wire rack before moving from
+  pan. Source: family friend
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  SBTY18D@prodigy.com (MS ANNE WEBB) on 3 Ju, l 1997
+ 
+</step></directions></recipe></recipeml>

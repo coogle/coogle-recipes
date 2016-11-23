@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barvarian Veal with Asparagus</title>
+      <categories>
+        <cat>German</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Veal; cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; large, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Carrots; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice; fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Beef broth</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unbleached flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper;fresh ground,to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen asparagus; * or</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus; fresh **</item></ing></ingredients>
+    <directions>
+      <step>  *   Frozen Asparagus should be tips and pieces. (2 boxes (10 Oz Each)) **
+  Fresh Asparagus should be cleaned and cut into 1-inch pieces.
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++ ++++
+  In a Dutch oven brown the veal in hot oil. Add onion and carrots. Cook
+  until onion is transparent. Stir in parsley. Mix lemon juice, broth, flour
+  and seasonings until well-blended.  Pour over meat. Cover and bake in
+  preheated 325 degree F oven 1 1/2 hours or until meat is tender. Add more
+  broth if needed.  Cook asparagus until tender-crisp. Stir into veal and
+  serve immediately.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

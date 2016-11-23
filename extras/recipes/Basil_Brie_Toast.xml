@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Brie Toast</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Breads</cat>
+        <cat>Cheese</cat>
+        <cat>Grill</cat>
+        <cat>Nat enq</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Basil leaves, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pine nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic, cloves, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oil, olive</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cheese, Parmesan, fresh,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Bread, white or whole wheat,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cut in half, crusts removed</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Cheese, Brie, sliced thin,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Thick parts of rind trimmed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Off</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Margarine or butter, melted,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>For brushing on grill rack</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tomato, sliced for garnish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Basil leaves, fresh for</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garnish</item></ing></ingredients>
+    <directions>
+      <step>  For pesto sauce, put basil, pine nuts, garlic and salt in a blender or food
+  processor fitted with steel blade. process until pureed. With the machine
+  running, pour oil in a slow, steady stream.  Process until sauce is smooth.
+  spoon sauce into a bowl.  Add parmesan cheese. Mix well. Cover and
+  refrigerate.
+  
+  Cover bread with slices of Brie cheese.  Spread top of cheese with a thin
+  layer of pesto sauce.
+  
+  Prepare grill.  When coals are hot, place bread on grill rack, brushed with
+  margarine, about 4 to 6 inches from heat source. Cover. Grill for 1 to 2
+  minutes.  Bread will be toasted on bottom and cheese will be soft and
+  runny.  Place two pieces of toast on each plate. Garnish with tomato slices
+  and basil leaves, if desired. Serve hot.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

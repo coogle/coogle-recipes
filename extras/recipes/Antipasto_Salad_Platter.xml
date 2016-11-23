@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antipasto Salad Platter</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Olive or salad oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Crushed red pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Freshly ground black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Snipped fresh basil*</item></ing></ing-div>
+      <ing-div>
+        <title>SALAD</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Radiatori or other pasta</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cubed red pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cubbed green pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Provolone cheese, cubed</item></ing>
+        <ing>
+          <amt>
+            <qty>20</qty>
+            <unit>ounces</unit></amt>
+          <item>Can Garbanzo beans, drained</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Salami (slice into quarters)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Small pitted black olives</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Salad oil</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Med mushroom,washed &amp; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped parsley</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  * OR 1 teaspoon dried basil leaves NOTE: Make Dressing First.... Make
+  dressing in a jar with a tight fitting lid, combine oil, lemon juice, 1
+  teaspoon salt, black pepper, red pepper, garlic, and basil; shake until
+  well combined. Cook pasta: In a large kettle bring 3 quarts water, salt and
+  salad oil to a boil. Add pasta; bring back to boiling; cook uncovered
+  stirring occasionally with long fork to prevent sticking, just until
+  tender. ~ about 7 to 8 minutes. Do not over cook. Drain well; do not rinse.
+  Turn into large bowl; add dressing; toss to combine. Cool completely. To
+  pasta mixture, add green and red peppers, sliced mushrooms, provolone
+  cheese, garbanzo beans, salami, olives, and parsley; toss lightly to
+  combine. Turn into serving bowl; Refrigerate covered 1 hour.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

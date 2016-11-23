@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Rice #7</title>
+      <categories>
+        <cat>Rice</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Onion soup mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing></ingredients>
+    <directions>
+      <step>  From: FranKOFK@aol.com
+  
+  Date: Mon, 29 Jul 1996 11:34:37 -0400
+  Place all ingredients in an oven-proof dish and bake in a 350 degree oven
+  approx. 45 minutes until the water is absorbed. Stir occasionally.  Enjoy!
+  
+  JEWISH-FOOD digest 286
+  
+  From the Jewish Food recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

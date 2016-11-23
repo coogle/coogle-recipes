@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anglesey Bakestones</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Bread</cat>
+        <cat>Welsh</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Castor sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Lard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch salt</item></ing></ingredients>
+    <directions>
+      <step>  SLAPAN SIR FON Rub the fat into the flour and add the other dry
+  ingredients. Beat the egg lightly and add with enough milk to make a soft
+  rolling consistency. Bake spoons- ful of the mixture on a greased griddle.
+    Posted to MM-Recipes Digest V3 #256
+  
+    Date: Thu, 19 Sep 1996 18:42:04 +0000
+  
+    From: "ray.watson" &lt;ray.watson@ukonline.co.uk&gt;
+ 
+</step></directions></recipe></recipeml>

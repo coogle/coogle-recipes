@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas Au Gratin</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Desserts</cat>
+        <cat>Low-cal</cat>
+        <cat>Kooknet</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Cottage Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon Rind; freshly grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Graham Cracker Squares; crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Combine cottage cheese, sugar, vanilla lemon rind and lemon juice in food
+  processor; blend until smooth. Spread blended cheese mixture in a shallow 7
+  x 12" glass baking dish or put 1/4 cup mixture in individual au gratin
+  dishes. Thinly slice bananas and spread slices evenly on top of cheese
+  mixture. If using individual dishes, put half a sliced banana on top of
+  each serving. Sprinkle top evenly with Graham cracker crumbs and sprinkle
+  lightly with cinnamon. Place under broiler until hot and lightly browned.
+  
+  Per Serving: 120 calories, 3 mg cholesterol, 1 g fat, 277 mg sodium.
+  
+  Source: San Francisco Examiner Typed by Katherine Smith Kook-Net: The
+  Shadow Zone IV - Stinson Beach, CA
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

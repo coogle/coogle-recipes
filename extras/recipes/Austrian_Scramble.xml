@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Austrian Scramble</title>
+      <categories>
+        <cat>Brunch</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>medium</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Baked potatoes; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped chives; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped parsley; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing></ingredients>
+    <directions>
+      <step>  Directions: Fry bacon until crispy in a large non-stick frying pan. Set
+  bacon aside to drain. Add onions to bacon grease except one tablespoon. Add
+  diced potatoes; mix with the onions. Add chives, parsley, garlic and salt
+  and pepper, stirring well between each addition. When thoroughly mixed,
+  pour potatoes in a bowl lined with a paper towel. Scramble eggs in same
+  pan. When eggs are almost set, add potato mixture and crumbled bacon; mix
+  thoroughly. All seasonings are optional. Experiment with the recipe to find
+  the combination for you. Eggs may be served separately with the
+  potato-bacon mixture.
+  
+  Miss Penny Deweese/Miss Penny's Southern Delicacies
+  
+  Posted to recipelu-digest by P&amp;S Gruenwald &lt;sitm@ne.infi.net&gt; on Feb 20,
+  1998
+ 
+</step></directions></recipe></recipeml>

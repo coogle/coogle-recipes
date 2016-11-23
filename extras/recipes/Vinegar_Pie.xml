@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinegar Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unbleached Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cold Water</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Large Eggs, Beaten</item></ing></ingredients>
+    <directions>
+      <step>  Combine sugar and flour.  Add the rest of the ingredients and place in a
+  saucepan.  Cook until thick and pour into prepared pie crust.  Bake in a
+  375 degrees F. oven until crust is brown.
+  
+  Farm Journal's Pie Cookbook and file from Eagle's Nest "MMPies"
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/pies2.zip
+ 
+</step></directions></recipe></recipeml>

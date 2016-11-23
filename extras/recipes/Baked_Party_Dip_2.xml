@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Party Dip</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Round loaf dark bread</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Green onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Garlic cloves, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cheese, cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cream, sour</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Cheese, cheddar, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Artichoke hearts</item></ing></ingredients>
+    <directions>
+      <step>  Bread should be unsliced. Preheat oven to 350. Cut a hole about 5" in
+  diameter in the top of the bread. (If you wish, make a decorative zigzag
+  pattern.) Reserve crusty part to make top for loaf. Scoop out most of soft
+  inside portion and save for another purpose. In skillet, saute green onions
+  and garlic in butter until onions wilt. Do not burn! Soften cream cheese
+  and cut into small chunks, then place in medium-sized bowl; add onions,
+  garlic, sour cream, and Cheddar. Mix well. Drain non-marinated artichoke
+  hearts and cut into quarters. Fold in artichoke hearts. Fill hollowed-out
+  bread with this mixture. Replace top of bread and wrap in a double
+  thickness of heavy-duty aluminum foil. Bake for about 1-1/2 hours. Remove
+  foil and top of bread and serve, using thin slices of warm garlic bread as
+  dippers. Note: The best part of this dish is when the dip is gone and all
+  you have left is the bread, which is soaked in all those delicious
+  ingredients. Just break the bread up and pass it around!
+ 
+</step></directions></recipe></recipeml>

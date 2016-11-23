@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie Dublin Style</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>9 inch pie shell</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Grated lemon rind</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>(1 pound 4 oz. each) sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Corn starch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Combine undrained apples and all except butter.  Mix lightly.  Spoon
+  ingredients into pastry shell.  Dot with butter.  Bake at 425 for minutes.
+  Serve warm or cold. This is an American version of "Apple Nianih Chinn Oir"
+  ~ Irish for "Noomh of the Golden Tresses", a beautiful maiden in Irish
+  mythology   who took her man to the land of eternal youth. Try it, Try it!
+  This recipe is not tested, it doesn't say if it is topped or not.
+  
+  Submitted by: Marina Cheesman source antique journal
+  Posted to MM-Recipes Digest V3 #190
+  
+  Date: Mon, 8 Jul 1996 19:08:29 -0700 (MST)
+  
+  From: jmchee@goodnet.com (Marina Cheesman)
+ 
+</step></directions></recipe></recipeml>

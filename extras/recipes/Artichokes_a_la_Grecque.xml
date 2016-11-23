@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichokes a la Grecque</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(10 oz.) of frozen artichokes</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Fennel seed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Coriander seed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Bay leaf</item></ing></ingredients>
+    <directions>
+      <step>  1. In a large, heavy skillet, cook artichokes in boiling water for 5
+  minutes. Add all remaining ingredients. Bring to a boil. Cover and simmer
+  for 20 minutes.
+  
+  2. Cool in cooking liquid. Serve artichokes with 4 tbsp of this liquid.
+  Posted to MM-Recipes Digest  by Julie Bertholf &lt;jewel1@ix.netcom.com&gt; on
+  Feb 15, 1998
+ 
+</step></directions></recipe></recipeml>

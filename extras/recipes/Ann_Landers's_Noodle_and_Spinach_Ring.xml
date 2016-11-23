@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ann Landers's Noodle and Spinach Ring</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Vegetables</cat>
+        <cat>Casseroles</cat>
+        <cat>Celebrity</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Chopped spinach; frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>American cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Worcestershire sauce</item></ing></ingredients>
+    <directions>
+      <step>  Cook noodles in salted water. Drain. Cook spinach in 1/2 cup salted water
+  only until thawed. Drain. alternate layers of noodles, spincah, crumbs and
+  cheese in a buttered 2 qt ring mold. combine other ingredients; pour over
+  casserole. Bake, set in a pan of hot water, in a 350~ oven for about 45
+  minutes.
+  Posted to MM-Recipes Digest V4 #177 by "Bob &amp; Carole Walberg"
+  &lt;walbergr@mb.sympatico.ca&gt; on Jul 10, 1997
+ 
+</step></directions></recipe></recipeml>

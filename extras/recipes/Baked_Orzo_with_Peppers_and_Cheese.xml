@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Orzo with Peppers and Cheese</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Roasted Red Peppers; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Green Chili Peppers; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; cut into sm. bits</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Orzo</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Monterey Jack Cheese; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan Cheese; grated</item></ing></ingredients>
+    <directions>
+      <step>  Add 2 teaspoons salt into boiling water, add orzo; boil 10 to 12 minutes
+  until tender; drain. Put orzo into lightly buttered dish with peppers,
+  chilies and Monterey Jack. Spread sour cream evenly over top, sprinkle with
+  Parmesan cheese, dot with butter. Bake at 450 degrees for 15 minutes, top
+  shelf of oven until golden puffy. Cool slightly.
+  
+  Cookbook '87
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 17, 1998
+ 
+</step></directions></recipe></recipeml>

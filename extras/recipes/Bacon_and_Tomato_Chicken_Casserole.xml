@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Tomato Chicken Casserole</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(9 ounces) frozen artichoke hearts, thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Chicken breast halves, boneless, skinless</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried thyme</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated sharp cheddar cheese (up to 1)</item></ing></ingredients>
+    <directions>
+      <step>  &gt;From the Pensacola News Journal
+  
+  Fry the bacon until crisp in a Dutch oven or deep stove-top casserole.
+  Drain on absorbent paper.  Pour out excess grease but don't wipe pot clean.
+  Chop artichokes into small pieces and put them in the Dutch oven.  Top with
+  chicken.  Sprinkle with thyme, salt and a generous amount of pepper.  Core
+  the tomatoes, cut them in half and scoop out the seeds with your finger
+  (don't worry about getting every seed). Slice tomatoes and place the slices
+  over the chicken. Combine grated cheese and crumbled bacon. Sprinkle over
+  chicken and bake, uncovered, for 20 minutes or until chicken is cooked and
+  cheese is melted. 4 servings.
+  
+  Posted to EAT-L Digest 23 October 96
+  
+  Date:    Thu, 24 Oct 1996 15:28:43 -0500
+  
+  From:    Pam and KerryAnn Cobb &lt;priss@AMARANTH.COM&gt;
+ 
+</step></directions></recipe></recipeml>

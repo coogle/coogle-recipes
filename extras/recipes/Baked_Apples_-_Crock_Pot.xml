@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apples - Crock Pot</title>
+      <categories>
+        <cat>Crockpot</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>large</unit></amt>
+        <item>Cooking apples</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated orange rind</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon rind grated</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rose wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whipped cream</item></ing></ingredients>
+    <directions>
+      <step>  Remove core from apples and place in crockpot. Mix together all other
+  ingredients except whipped cream. Pour over apples. Cover pot and cook on
+  low for about 3 1/2 hours or until apples are tender. Cool and serve with
+  whipped cream.
+  Posted to recipelu-digest Volume 01 Number 408 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Dec 27, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Rye Casserole</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Dinner in a</cat>
+        <cat>Meat</cat>
+        <cat>Beef</cat>
+        <cat>To post</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cranberry juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Carrots; cubed and cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>small</unit></amt>
+        <item>White onions; sliced and cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cracked rye</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Hot stock</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Nutritional yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soy flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mixed herbs</item></ing></ingredients>
+    <directions>
+      <step>  Cut beef into cubes. Sprinkle with oregano and bay leaf. Marinate in
+  cranberry juice for several hours. Drain, reserving juice. Saute beef in
+  oil until browned on all sides. Arrange meat in bottom of a casserole. Add
+  reserved juice. Cover and braise until tender. Add carrots and onions.
+  Brown the cracked rye in an unoiled pan. Add stock and remaining
+  ingredients and cover pan. Simmer for 30 minutes. Add rye to the beef. Heat
+  thoroughly and serve. Serves 6.
+  
+  Formatted by Mardi Desjardins March 12, 1998
+  
+  Recipe by: The Natural Foods Cookbook by Beatrice Trum Hunter, 1972
+  
+  Posted to MC-Recipe Digest by Mardi &lt;amdesjar@mb.sympatico.ca&gt; on Mar 12,
+  1998
+ 
+</step></directions></recipe></recipeml>

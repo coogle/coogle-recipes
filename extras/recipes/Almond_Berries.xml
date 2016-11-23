@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Berries</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Fresh strawberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pints</unit></amt>
+        <item>Fresh blueberries</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Toasted almond slivers</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Amaretto liqueur~</item></ing></ingredients>
+    <directions>
+      <step>  Mix berries together in bowl. Pour in 1 cup Amaretto. Toss well. Cover and
+  chill. Spoon into dessert cups to serve. Sprinkle on toasted almonds.
+  
+  Recipe By     : DESSERT SHOW#DS3040
+  
+  Posted to EAT-L Digest 27 Sep 96
+  
+  Date:    Fri, 27 Sep 1996 19:39:23 -0500
+  
+  From:    Jackie Bordelon &lt;jbord@PREMIER.NET&gt;
+ 
+</step></directions></recipe></recipeml>

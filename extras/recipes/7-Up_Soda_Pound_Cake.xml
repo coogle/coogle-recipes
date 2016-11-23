@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Up Soda Pound Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Novelty cak</cat>
+        <cat>Pound cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>7-UP</item></ing></ingredients>
+    <directions>
+      <step>  Cream together butter and sugar until light and fluffy. Add in eggs,
+  beating well after each addition. Beat in flour, extract and 7-UP. Pour
+  into greased 12-cup bundt pan. Bake at 325 for about 1 hour. Yield: 1
+  serving Preparation Time: 0:30 Posted to TNT - Prodigy's Recipe Exchange
+  Newsletter  by "Rhonda J. Coleman" &lt;wtb00516@mail.wvnet.edu&gt; on Jul 03,
+  1997
+ 
+</step></directions></recipe></recipeml>

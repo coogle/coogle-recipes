@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bamberger Krautbraten (Bramberger Meat &amp; Cabbage Casserole)</title>
+      <categories>
+        <cat>German</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cabbage; Head, Small</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions; Medium, Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork; Lean, Cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground Beef; Lean</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Caraway Seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>White Wine; Dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bacon; Strips, Thick Sliced</item></ing></ingredients>
+    <directions>
+      <step>  Remove outer, wilted cabbage leaves and core.  Place cabbage in a large pot
+  of boiling water and simmer gently for 10 minutes.  Remove and drain.
+  gently pull off 12 leaves and set aside.  Finely chop the rest of the
+  cabbage.  Heat 1 T vegetable oil; add onions, pork, and ground beef.  Cook
+  until lightly browned.  Drain off excess fat.  Add the chopped cabbage,
+  caraway seeds, salt, and pepper.  Pour in the white wine.  Cover and simmer
+  the mixture for 10 minutes, stirring often.  Grease an ovenproof dish with
+  1 t of vegetable oil; line the dish with half the cabbage leaves. Spoon in
+  the meat mixture, cover with the rest of the cabbage leaves. Cut bacon
+  strips in half and arrange on top.  Place in preheated 350 degree F. oven;
+  bake for approximately 45 minutes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Sauce From Garlic Country</title>
+      <categories>
+        <cat>Garlic</cat>
+        <cat>Pasta</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Egg tagliarini</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnut meats</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves fresh garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated Parmesan cheese</item></ing></ingredients>
+    <directions>
+      <step>  Cook tagliarini as directed for about 9 minutes or until al dente.  While
+  tagliarini is cooking, mix walnut meats in blender with enough hot
+  tagliarini water to make a paste.  Add garlic, butter, olive oil and
+  Parmesan cheese; blend, adding enough hot water to form desired
+  consistency.  Pour sauce over drained tagliarini; toss until well coated
+  and serve hot.  Sprinkle on additional Parmesan cheese if desired.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/garlic.zip
+ 
+</step></directions></recipe></recipeml>

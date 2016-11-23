@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Armenian Rice</title>
+      <categories>
+        <cat>Rice</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>grams</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit>grams</unit></amt>
+        <item>Uncooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>grams</unit></amt>
+        <item>Small egg noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>500</qty>
+          <unit>mililiters</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Basil (optional)</item></ing></ingredients>
+    <directions>
+      <step>  From: elayne@usa.pipeline.com (Elayne Cohen)
+  
+  Date: Wed, 17 Jul 1996 22:09:07 GMT
+  1. Melt butter in large saucepan,  add  egg  noodles, and cook until
+  browned.
+  
+  2. Add rice, stir to coat with butter. Cook on medium high heat for 1
+  minute.
+  
+  3. Add chicken stock, and optional basil, and stir to mix.
+  
+  4. Reduce heat, cover, and cook for  25 - 30  minutes until  rice  is done.
+  Remove  from heat and let stand, covered, for 5 minutes before serving.
+  
+  CONTRIBUTOR: Andrew L. Duane, Compugraphic Corp., Wilmington, Mass., USA,
+  {ima,ism780c,ulowell}!cg-atla!duane
+  
+  JEWISH-FOOD digest 262
+  
+  From the Jewish Food recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Annie Little John's Chili</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Chili</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef roast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Soup bone</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water as needed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Pinto beans, cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Mexene chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin seed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cayenne to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Cook meat and soup bone separately until tender in enough water to keep
+  covered. Dice roast, strain stock, and add the cooked beans.Stir in the
+  Mexene and cumin seeds. Add salt and pepper (black and red) to taste. Cook
+  very slowly over low flame 1 to 1 1/2 hours. AUTHOR'S NOTE: Leftover roast
+  beef will do a good job too, as will canned pintos.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

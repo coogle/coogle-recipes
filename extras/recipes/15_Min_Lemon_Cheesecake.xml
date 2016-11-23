@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>15 Min Lemon Cheesecake</title>
+      <categories>
+        <cat>Cheesecakes</cat>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Graham cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter/oleo; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Instant lemon pudding</item></ing></ingredients>
+    <directions>
+      <step>  Mix sugar; crumbs, and oleo. Bake as for crumb crust. Mix cream cheese
+  until smooth. Gradually blend in 1/2 cup milk until smooth and creamy. Add
+  remaining milk and pudding mix. Beat slowly with egg beater for 1 minute.
+  Do not overbeat. Pour into cooled crust. Chill
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

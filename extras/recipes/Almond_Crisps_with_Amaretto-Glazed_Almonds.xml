@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Crisps with Amaretto-Glazed Almonds</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>GLAZED ALMONDS</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Unsalted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Slivered almonds</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Amaretto liquor</item></ing></ing-div>
+      <ing-div>
+        <title>DOUGH</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour, all-purpose</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Unsalted butter; room temp.</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Egg; room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Amaretto liquor</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Powdered sugar, optional</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  For almonds:  Melt butter in heavy small skillet over medium heat.  Add
+  almonds and amaretto and stir until almonds are golden brown, about 5
+  minutes.  Cool on paper towels.
+  
+  For dough:  Preheat oven to 350-degrees.  Lightly grease 2 large baking
+  sheets.  Sift 1 cup flour with salt into small bowl.  Using electric
+  mixer, cream butter with 1/2 cup sugar in large bowl until light and
+  fluffy.  Blend in egg and amaretto.  Add flour and mix until dough binds.
+  (Dough will be sticky.)
+  
+  Divide dough into 30 pieces.  Roll each between palms into balls, dusting
+  hands with flour if necessary.  Set on baking sheets, spacing 2 inches
+  apart.
+  
+  Fill small bowl with water.  Mound sugar on plate.  Dip bottom of 2-1/2"
+  round glass into water and then into sugar.  Press glass down onto 1 dough
+  ball, flattening into 2-1/2- to 3-inch round.  Repeat with remaining
+  dough.  Sprinkle rounds lightly with sugar.
+  
+  Gently press several glazed almond slivers into each round in flower
+  pattern.  Bake until edges of cookies are golden brown, 8 to 10 minutes.
+  Cool on rack.  Just before serving, dust cookies with powdered sugar if
+  desired.
+  
+  Source: Bon Appetit magazine, date unknown.
+  Typed just for you by Karen Mintzias
+  
+  Collection of recipes from "Great Sysops of the World" from COOKFDN ops.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmgsotw1.zip
+ 
+</step></directions></recipe></recipeml>

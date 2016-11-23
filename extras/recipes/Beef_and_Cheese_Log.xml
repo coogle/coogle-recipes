@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Cheese Log</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Snacks</cat></categories>
+      <yield>1 10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Salad dressing (mayonnaise)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Natural sharp Cheddar cheese finely shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Chopped pressed beef finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans; finely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Mix salad dressing with softened cream cheese. Add Cheddar cheese and
+  beef.  Mix well.  Shape into a 10-inch log.  Roll in pecans.  Wrap in
+  waxed paper.  Chill.  Serve sliced with assorted crisp crackers.
+  
+  Makes 40 1/4-inch slices
+  
+  Calories per 1/4-inch slice without crackers: About 35
+  
+  Source: FOOD -- by U.S. Department of Agriculture
+  Typed for you by Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/usdafood.zip
+ 
+</step></directions></recipe></recipeml>

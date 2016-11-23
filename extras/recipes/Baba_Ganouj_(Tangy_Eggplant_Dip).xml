@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baba Ganouj (Tangy Eggplant Dip)</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>East indian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Eggplants</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Tahini</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves, pressed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped fresh parsley (opt)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 300'F. Pierce eggplant with a fork and bake whole until
+  eggplant begins to deflate (about 40 minutes). Let cool and scoop out
+  insides and mash with a fork. Add remaining ingredients and mix well. Makes
+  4-6 sandwiches or serves 6-8 as a dip.
+  Posted to MM-Recipes Digest V3 #305
+  
+  Date: Wed, 6 Nov 1996 23:46:18 -0500
+  
+  From: BobbieB1@aol.com
+ 
+</step></directions></recipe></recipeml>

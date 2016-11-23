@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ziti</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box (1 pound) ziti pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar (large) spaghetti sauce (or use your own if you have time)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Mozzarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated parmesan</item></ing></ingredients>
+    <directions>
+      <step>  Cook the pasta.  Drain.  Mix with the rest of the ingredients.  Bake for
+       45    minutes.
+  
+  Posted to EAT-L Digest 22 October 96
+  
+  Date:    Wed, 23 Oct 1996 13:32:10 -0500
+  
+  From:    Maggie Workman &lt;workman@CORIOLIS.ATMS.PURDUE.EDU&gt;
+ 
+</step></directions></recipe></recipeml>

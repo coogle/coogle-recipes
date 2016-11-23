@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waffle Sandwich</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Strawberry jam</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely chopped walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Waffles, toasted</item></ing></ingredients>
+    <directions>
+      <step>  Mix and spread on toasted waffles. Slice and pack as sandwich.
+  
+  Posted to EAT-L Digest 25 Aug 96
+  
+  From:    Maureen Riley &lt;MeauxR@AOL.COM&gt;
+  
+  Date:    Mon, 26 Aug 1996 01:23:16 -0400
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>About Rice Aromatic Rices</title>
+      <categories>
+        <cat>Rice</cat>
+        <cat>Mcrecipe</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Long-grain rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  : Heat 1 cup regular long-grain rice with 1 cup chicken broth, 3/4 cup
+  water, and 1/4 teaspoon salt to boiling. Cover and simmer on low 18 to 20
+  minutes until rice is tender and liquid is absorbed.
+  
+  ORANGE-CILANTRO: After rice has cooked, stir in 2 tablespoons chopped fresh
+  cilantro and 1/2 teaspoon grated orange peel.
+  
+  LEMON-PARSLEY: After rice has cooked, stir in 2 tablespoons chopped parsley
+  and 1 teaspoon grated lemon peel.
+  
+  ASIAN: Omit salt when cooking rice. After rice has cooked, stir in 2 green
+  onions, chopped, 2 teaspoons soy sauce, and 1/4 teaspoon Oriental sesame
+  oil.
+  
+  Copyright © 1995 The Hearst Corporation; all rights reserved
+  
+  Notes: Follow these basic directions to cook up fluffy rice, then stir in
+  the seasonings for one of the 3 options. Each serving about 175 calories.
+  
+  Recipe by: Homearts Recipe Archive 1996
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Feb 26,
+  1998
+ 
+</step></directions></recipe></recipeml>

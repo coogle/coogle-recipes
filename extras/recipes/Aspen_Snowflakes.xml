@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aspen Snowflakes</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Potato chips; crushed</item></ing></ingredients>
+    <directions>
+      <step>  Cream butter and sugar. Add flour a little at a time. Add vanilla and
+  potato chips. Drop by teaspoonfuls on ungreased cookie sheet. Bake at 350
+  degrees for 10 minutes. Let cool before removing from cookie sheet.
+  
+  Wis/Gramma
+  
+  Recipe by: Helen Jolly
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  MarySpero@prodigy.com (MS MARY E SPERO) on 5 No, v 1997
+ 
+</step></directions></recipe></recipeml>

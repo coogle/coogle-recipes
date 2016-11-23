@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>African Chow Mein</title>
+      <categories>
+        <cat>Kaz</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped celery</item></ing></ingredients>
+    <directions>
+      <step>  Brown beef, onion &amp; celery.
+  
+  1/4 c. wild rice 1/2 c. white rice 1 can mushrooms 2 tbsp. soy sauce 1 can
+  water chestnuts 1 can mushroom soup 1 can chicken rice soup 2 tbsp.
+  worcestershire sauce Salt &amp; pepper Pour 1 1/2 cups boiling water over top.
+   Bake at least 1 1/2 hour at 325 degr
+  
+  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

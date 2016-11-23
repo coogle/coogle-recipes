@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Jerkey</title>
+      <categories>
+        <cat>Snacks</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Flank Steak Or London Broil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Coarse Black Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Soy Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic Powder</item></ing></ingredients>
+    <directions>
+      <step>  Cut flank steak or london broil into 1/4" strips. Sprinkle with garlic
+  powder and coarse ground black pepper. Marinate in soy sauce for 24 hours.
+  Bake in 150øF oven for 10 to 12 hours. DO NOT exceed 150øF.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

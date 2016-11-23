@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Onion Appetizers</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Posted to r</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green onions and tops</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Hellmann's mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>24</qty>
+          <unit/></amt>
+        <item>Party pumpernickel toast</item></ing></ingredients>
+    <directions>
+      <step>  Fry bacon until very crisp. Strain and crumble. Combine bacon, onions and
+  mayonnaise; blend. Spread on toast and place in a 350 degrees oven to heat
+  through. Serve immediately. This is a real crowd pleaser!
+  
+  Recipe by: diane@keyway.net
+  
+  Posted to recipelu-digest Volume 01 Number 428 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Dec 31, 1997
+ 
+</step></directions></recipe></recipeml>

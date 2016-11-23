@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Turnovers</title>
+      <categories>
+        <cat>Cooking liv</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Granny smith apples; cored, peeled and cut into chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>slices</unit></amt>
+        <item>White bread; crusts removed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted butter</item></ing></ingredients>
+    <directions>
+      <step>  In a saucepan, combine the apples, lemon juice, sugar, vanilla extract,
+  cinnamon and nutmeg. Cook until softened and let cool. Lightly roll out a
+  piece of white bread and place some filling in
+  
+  the center of the bread. Fold one corner over diagonally, forming a
+  turnover. Pinch the edges closed. The turnovers can be frozen at this
+  point. If baking, preheat the oven to 375 degrees. Brush the top of the
+  turnover lightly with the melted butter and place on a cookie sheet. Bake
+  for 10 minutes or until golden.
+  
+  Yield: 8 turnovers
+  
+  Recipe by: Cooking Live Show #CL8962
+  
+  Posted to MC-Recipe Digest V1 #801 by "Angele and Jon Freeman"
+  &lt;jfreeman@netusa1.net&gt; on Sep 24, 1997
+ 
+</step></directions></recipe></recipeml>

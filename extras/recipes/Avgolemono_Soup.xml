@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avgolemono Soup</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Uncooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Grated lemon rind</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  Bring stock to a boil. Add rice and cook about 20 minutes, until it is
+  tender. Reduce heat to low. In a bowl, beat the egg yolks with the lemon
+  rind, lemon juice, and salt. Pour about 1/2 cup of the broth into the egg
+  mixture, then pour it back into the broth, stirring constantly. Simmer for
+  about 5 minutes over low heat, until slightly thickened. Serves 6-ish.
+  
+  Posted to JEWISH-FOOD digest V97 #316 by raab &lt;raab.ranch@sympatico.ca&gt; on
+  Dec 04, 1997
+ 
+</step></directions></recipe></recipeml>

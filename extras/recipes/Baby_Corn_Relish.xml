@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baby Corn Relish</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Relishes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oriental sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced fresh ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced shallot</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Hot red chilies,crushed, dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Rice vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Reduced-sodium soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oyster sauce</item></ing></ingredients>
+    <directions>
+      <step>  Pour oil into a 10-12" frying pan. Place over medium-high heat until oil
+  just starts to smoke, about 2 minutes. All at once, add ginger, shallot,
+  chilies, and coriander. Stir for 30 seconds.
+  
+  At once, add rice vinegar, soy sauce, and oyster sauce. Boil, uncovered,
+  over high heat until sauce is reduced to 1 cup, about 1 minute. Let cool.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

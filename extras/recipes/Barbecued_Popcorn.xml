@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Popcorn</title>
+      <categories>
+        <cat>Snacks</cat>
+        <cat>Popcorn</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Hot air-popped popcorn</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chili sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Onion powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated Parmesan cheese</item></ing></ingredients>
+    <directions>
+      <step>  Place popcorn in large bowl. In small saucepan, melt margarine. Stir in
+  chili sauce, onion and chili powder and salt. Pour chili mixture gradually
+  over popcorn, tossing to mix well. Sprinkle with cheese and toss.
+  Posted to recipelu-digest Volume 01 Number 652 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 31, 1998
+ 
+</step></directions></recipe></recipeml>

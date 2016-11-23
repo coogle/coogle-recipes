@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana and Lemon Pancakes</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Grating of nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil, as required</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Crepe recipe, see above</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine, melted</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Icing sugar, as requiring</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon wedges for garnish</item></ing></ingredients>
+    <directions>
+      <step>  Mix the sugar, nutmeg, salt &amp; lemon juice in a small bowl. Slice the
+  bananas &amp; mix them gently in the lemon-spice mixture. Heat a skillet &amp; add
+  a little vegetable oil. Fry each crepe on both sides. Spread each cooked
+  crepe with the melted margarine &amp; some of the banana mixture. Keep
+  everything warm until ready to serve. Sprinkle the crepes with icing sugar
+  &amp; garnish with lemon wedges.
+ 
+</step></directions></recipe></recipeml>

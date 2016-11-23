@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Deer Meat</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cube deer meat; about 2-3 steaks worth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Beef bouillon cube; dissolved in:</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soya sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped onion; (if desired)</item></ing></ingredients>
+    <directions>
+      <step>  Combine all the above in a casserole dish and bake at 325F for about 2
+  hours, stirring occasionally. Or combine in a crockpot and let cook on low
+  for 6-8 hours. Use the broth to make gravy if you like. The meat is tender
+  and not at all gamey this way.
+  
+  Posted to Bakery-Shoppe Digest V1 #456 by Mindy &lt;vinqvist@brunnet.net&gt; on
+  Dec 16, 1997
+ 
+</step></directions></recipe></recipeml>

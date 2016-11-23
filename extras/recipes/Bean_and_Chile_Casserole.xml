@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Chile Casserole</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cans</unit></amt>
+          <item>(16-oz) black beans</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(16-oz) whole kernel corn</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(16-oz) diced Italian tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pint</unit></amt>
+          <item>Salsa cruda (recipe below)</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Long green peppers (I used Anaheims; but Numex, Big Jims and others are fine); roasted; peeled, seeded</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Poblano peppers; roasted, peeled; seeded</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh cilantro</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Dry sherry</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Generous amount of ground cumin (I used about 2 t)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sprinkle of ground coriander</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Cloves garlic</item></ing></ing-div>
+      <ing-div>
+        <title>SALSA CRUDA</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>White onions</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Peppers (yellow/red bells plus Jalapenos; Serranos or Habaneros; adjust amount for heat level desired)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Limes; juice of</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt to taste</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Date: Fri, 22 Mar 1996 11:27:46 -0500 (EST)
+  
+  From: halsalhb@UCBEH.SAN.UC.EDU (h brian halsall)
+  Dice the chiles, peel and smash the garlic, coarsely chop the cilantro
+  (flavour is lost if chopped fine), and combine everything, with all can
+  juices, except the sherry in a large casserole. Bake at 350 until bubbling
+  gently (about 1/2 hour). Stir in the sherry, and serve. Do not cook longer,
+  otherwise the textures will be lost.
+  
+  Salsa Cruda: Coarsely chop equal parts tomatoes, white onions, peppers
+  (yellow/red bells plus jalapenos/serranos/habaneros - adjust amount
+  depending on the heat level desired). Pack with juice of two limes per pint
+  of pack and salt to taste. Pressure can for storage, or simmer gently for
+  about 10 min and refrigerate. Simmering can be omitted if a crunchy salsa
+  is desired.
+  
+  FATFREE DIGEST V96 #81
+  
+  From the Fatfree Vegetarian recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

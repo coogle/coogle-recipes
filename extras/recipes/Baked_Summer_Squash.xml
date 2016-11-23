@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Summer Squash</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Squash, yellow</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cheese, ricotta</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Onions, green; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage, rubbed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme leaves</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375 degrees. Remove and discard stem ends of the squash.
+  Slice the squash lengthwise, scoop out seeds and place the halves
+  side-by-side on a baking sheet. Combine remaining ingredients in a mixing
+  bowl. Fill the hollows in the squash evenly with the cheese mixture. Bake
+  15-20 minutes or until squash is tender. Serve immediately.
+ 
+</step></directions></recipe></recipeml>

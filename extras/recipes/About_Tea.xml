@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>About Tea</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Crocker</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>See Below</item></ing></ingredients>
+    <directions>
+      <step>  The tea you buy is a delicate blend of some 20 to 30 varieties. Quality
+  varies according to the soil, climate and altitude in which it is grown and
+  the age and size of the leaves when they are picked.
+  
+  Broadly classified, there are three types: black, oolong and green.
+  
+  Black tea derives its color from a special processing treatment in which
+  the leaves are allowed to oxidize. This turns the leaves black and produces
+  a rich brew.
+  
+  Oolong tea is semioxidized. Its leaves are brown and green. It brews light
+  in color.
+  
+  Green tea is not oxidized, thus the leaves remain green. The brew is pale
+  green in color.
+  
+  PREPARATION METHOD Whether you use loose tea or tea bags, the preparation
+  method is the same:
+  
+  Start with a spotlessly clean teapot made of glass, china or earthenware.
+  Add rapidly boiling water; allow to stand a few minutes, then pour out.
+  
+  Heat cold water to a full rolling boil.
+  
+  Add tea or bags to the warm pot, allowing 1 teaspoon of loose tea or 1 tea
+  bag for each cup of tea desired. Pour boiling water over tea (3/4 cup for
+  each cup of tea); let stand 3 to 5 minutes to bring out the full flavor.
+  Stir the tea once to ensure uniform strength.
+  
+  Do not judge the strength of tea by its color; You must taste it.
+  
+  Strain the tea or remove tea bags. Serve with sugar and milk or lemon if
+  desired.
+  
+  Prepare instant tea, a concentrate, according to the directions on the jar.
+  
+  Source: Betty Crocker's Cookbook, 6th Edition
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

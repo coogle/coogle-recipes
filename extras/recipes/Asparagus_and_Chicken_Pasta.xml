@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus and Chicken Pasta</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Vegetables</cat>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>450</qty>
+          <unit>packages</unit></amt>
+        <item>Pasta, such as penne</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Chicken breasts, skinned and</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Basil Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White wine</item></ing></ingredients>
+    <directions>
+      <step>  Cook pasta in a large pot of salted boiling water until ad dente, about 8
+  min.  Meanwhile, snap off and discard woody ends of asparagus.
+   Then, slice spears into 2 inch pieces.  Set aside to add to pasta during
+  last 3 min. of cooking. Meanwhile, cut chicken into strips. Heat oil in a
+  large frying pan set over medium heat.  Add chicken. Stir often until
+  cooked through, about 3 min.  Stir in wine and seasonings. Drain pasta and
+  asparagus.  Toss with chicken.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

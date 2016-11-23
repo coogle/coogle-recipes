@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vindaloo Base</title>
+      <categories>
+        <cat>Curry</cat>
+        <cat>Spices</cat>
+        <cat>Indian</cat>
+        <cat>Ethnic</cat>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Recipe mild curry base</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Turmeric</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground Black Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Spanish Onion, peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garam Masala</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fenugreek leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vinagar, (any)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Potato pieces boiled,(2"x2")</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chilli Powder 2-4 teaspoons</item></ing></ingredients>
+    <directions>
+      <step>  1. Proceed with stage 1 of mild curry base. 2. Make a water paste of the
+  turmeric, pepper and chilli powder, then add and fry for 1 minute. Add the
+  onion, stir- frying for 2 minutes 3. Continue with stage 2 to 5 of mild
+  curry base. 4. Add the potatoes and remaining ingredients at the end of
+  stage 5. 5. Serve after a minimum of 5 minutes simmering, or when ready.
+  NOTE: For a Tindaloo just add more chilli powder to taste.
+ 
+</step></directions></recipe></recipeml>

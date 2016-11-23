@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley Pilaf with Peas</title>
+      <categories>
+        <cat>Side dish</cat>
+        <cat>Grains</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>14 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Reduced sodium chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Medium QUAKER Barley*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lite soy sauce (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen peas</item></ing></ingredients>
+    <directions>
+      <step>  In medium saucepan, cook onion and garlic in oil until onion is tender.
+  Add chicken broth, water, barley and soy sauce; bring to a boil.  Reduce
+  heat to low; cover.  Simmer 35 minutes; add peas.  Continue simmering 10
+  to 15 minutes or until liquid is absorbed and barley is tender.
+  
+  Eight 1/2-cup servings
+  
+  *NOTE: To use Quick QUAKER Barley, substitute 1 cup quick barley for
+  medium barley and decrease water to 1 cup. Cook onion and garlic as
+  directed above.  Add remaining ingredients; bring to a boil.  Reduce heat
+  to low; cover.  Simmer 15 to 18 minutes or until liquid is absorbed and
+  barley is tender.
+  
+  Nutrition Information: 1/2 cup
+  * Calories 110
+  * Protein 4g
+  * Carbohydrate 18mg
+  * Fat 2g
+  * Cholesterol 0mg
+  * Dietary Fiber 3g
+  * Sodium 180mg
+  * Percent of Calories from Fat: 19%
+  
+  Exchanges: Starch/Bread 1, Fat 1/2
+  
+  Source: Quaker's Best Barley Recipes
+  Copyright 1992 The Quaker Oats Company
+  Reprinted with permission from The Quaker Oats Company
+  Electronic format courtesy of Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/barley.zip
+ 
+</step></directions></recipe></recipeml>

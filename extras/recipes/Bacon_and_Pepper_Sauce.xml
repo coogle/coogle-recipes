@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Pepper Sauce</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Sauces</cat>
+        <cat>Pasta</cat>
+        <cat>Mrs. g</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green pepper diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red pepper diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit/></amt>
+        <item>Stick butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Plum tomatoes chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>White wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Hot pepper halved and seeded</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Sautee bacon until almost crisp. Drain. Add butter and oil. Sautee onion
+  and garlic.Add peppers and sautee 5 min. Add tomatoes and wine, cook 15
+  min. REMOVE HOT PEPPER. Season with salt and pepper and serve over pasta.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

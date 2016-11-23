@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>American Style Hot Spiced Wine</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar (to start, and depending on dryness of wine)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sticks cinnamon (may break into pieces if desired)</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit/></amt>
+        <item>Whole allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>25</qty>
+          <unit/></amt>
+        <item>Whole cloves (up to 30)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dried orange peel (lemon peel optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole orange, sliced (or lemon if desired)</item></ing></ingredients>
+    <directions>
+      <step>  Heat the wine over low-medium heat in a non-metal container (I use a
+  Corningware casserole which is rangetop safe). Do NOT allow it to heat too
+  fast, and God forbid it should boil. When it's starting to get hot, stir in
+  the sugar gradually, stirring until dissolved. Turn off the heat whenever
+  you think it is hot enough (some amount hotter than the temperature at
+  which you intend to serve it, since it's going to sit for a while). Place
+  the spices in a cheesecloth bag and add them. Cover the pot and let steep
+  for however long you wish. (I like 15 minutes). Remove the spices, add
+  sliced citrus and serve with a non-metal ladle or dipper (if you don't take
+  out the spices, subsequent servings will have a stronger spice taste).
+  
+  Posted to EAT-L Digest 04 Sep 96
+  
+  From:    terry pogue &lt;tpogue@IDS2.IDSONLINE.COM&gt;
+  
+  Date:    Wed, 4 Sep 1996 23:49:53 +0100
+ 
+</step></directions></recipe></recipeml>

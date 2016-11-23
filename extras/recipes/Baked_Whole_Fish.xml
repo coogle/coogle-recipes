@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Whole Fish</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Main dish</cat>
+        <cat>Canadian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Salmon, whole; or trout</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Asst vegetables; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing></ingredients>
+    <directions>
+      <step>  Cover broiler pan rack with foil. Place bed of assorted sliced vegetables
+  on foil. Lay fish on vegetables and put bacon slices on fish. Bake at 425F
+  for 20-30 minutes or until flesh flakes easily with fork. Transport fish
+  and vegetables to platter
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

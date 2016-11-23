@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Australian/us Equivalents</title>
+      <categories>
+        <cat>Info/tips</cat></categories>
+      <yield>60</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>1 c + 2 tb</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>5 ml</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>1 tb + 1-1/2 ts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>20 ml</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>250 ml</item></ing></ingredients>
+    <directions>
+      <step>  Collected from posts. Special thanks to ANNE MACLELLAN for actually
+  comparing her set of Australian measures.
+    Posted to MM-Recipes Digest V3 #266
+  
+    Date: Sat, 28 Sep 1996 07:00:52 -0500
+  
+    From: netdir@cyberspc.mb.ca (S.Pickell)
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Cod with Italian Breadcrumbs</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cod fillets,; boneless and skinless</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh breadcrumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped fresh mixed herbs,</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated or finely chopped parmesan</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 425 degrees. Remove any bones from fillets with needle-nose
+  pliers. Melt butter in a baking dish in oven.
+  
+  In a bowl combine breadcrumbs, herbs, parmesan, enough melted butter to
+  make the breadcrumbs stick together. Season to taste with salt and pepper.
+  
+  Mound each fillet with 1/4 of the breadcrumb mixture and pat down firmly on
+  fillet. Place fillets in baking dish with melted butter. Bake for 20
+  minutes until the fish is milky white and flaky. Serve immediately.
+  
+  Yield: 4 servings
+  Recipe By     :COOK'S CHOICE SEAN &amp; CATHY SHOW #CH1220
+  
+  Posted to MC-Recipe Digest V1 #263
+  
+  Date: Sun, 27 Oct 1996 20:59:38 -0500
+  
+  From: Meg Antczak &lt;meginny@node1.frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

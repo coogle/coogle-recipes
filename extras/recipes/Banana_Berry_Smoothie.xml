@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Berry Smoothie</title>
+      <categories>
+        <cat>Ew</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Blueberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Plain yogurt</item></ing></ingredients>
+    <directions>
+      <step>  Peel bananas, slice and place on a cookie sheet. Put in freezer and freeze
+  until solid. Remove from freezer and place in blender. Slice berries and
+  add to blender. Pour in yogurt. Blend until smooth. Pour into glass and
+  serve.
+  Recipe By     :HOW TO BOIL WATER SHOW #BW8207
+  
+  Posted to MC-Recipe Digest V1 #247
+  
+  Date: Wed, 16 Oct 1996 15:00:25 -0400
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

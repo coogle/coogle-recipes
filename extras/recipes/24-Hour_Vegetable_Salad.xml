@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>24-Hour Vegetable Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Lettuce, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, pepper and sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs, hard cooked and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Peas, 10 oz. frozen, thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Bacon, cooked crisp, crumble</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Natural Swiss cheese, shred</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green onion, slice with tops</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Paprika</item></ing></ingredients>
+    <directions>
+      <step>  Place 2 cups of the lettuce in the bottom of a large bowl, sprinkle with
+  salt, pepper and sugar.  Layer eggs atop lettuce in bowl; sprinkle with
+  more salt. Layer in order; peas, remaining lettuce, bacon and Swiss cheese.
+  Spread mayonnaise over the top, sealing to the edge of the bowl. Cover and
+  chill for 24 hours. Garnish with green onion and paprika. Toss before
+  serving. Randy Rigg
+ 
+</step></directions></recipe></recipeml>

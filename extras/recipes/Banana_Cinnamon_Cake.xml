@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cinnamon Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BATTER</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar; packed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Banana yogurt; (6 oz)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Banana; mashed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Applesauce; at room</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Egg whites; whipped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Powdered sugar; sifted</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Margarine; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Skim milk; at room temperature</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven at 375.  Prepare a 9" baking pan with cooking spray and flour.
+  = To prepare batter, combine flour, brown sugar, baking powder, baking
+  soda, cinnamon, and salt in a mixing bowl. In another mixing bowl, combine
+  yogurt, banana, applesauce, egg whites, and vanilla.  Mix dry ingredients
+  with wet ingredients just until combined.  Pour batter into prepared pan.
+  Bake 20 to 30 minutes or until cake springs back when lightly touched.
+  Meanwhile, to prepare frosting, combine powdered sugar, margarine, and milk
+  in a mixing bowl; beat until smooth.  Spread frosting over cooled cake.
+  Recipe By     : Skinny Cookies, Cakes &amp; Sweets
+  
+  Posted to MC-Recipe Digest V1 #248
+  
+  Date: Thu, 17 Oct 1996 12:00:03 -0400
+  
+  From: Eileen &amp; Bob Holze &lt;beck4@asan.com&gt;
+ 
+</step></directions></recipe></recipeml>

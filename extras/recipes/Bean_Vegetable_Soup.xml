@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Vegetable Soup</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Soups</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Kidney beans; cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>cups</unit></amt>
+        <item>;water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Any available fresh veggies</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Canned crushed tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, pepper, seasonings to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Pasta; cooked</item></ing></ingredients>
+    <directions>
+      <step>   In a saucepan, combine cooked beans, water, oil, onion, vegetables,
+  tomatoes and seasonings. Bring to a boil. Reduce heat and simmer for 55
+  minutes or until vegetables are tender. Add cooked pasta and heat through.
+  
+   From DEEANNE's recipe files
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

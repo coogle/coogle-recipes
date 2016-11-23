@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Butter</title>
+      <categories>
+        <cat/></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Handful? basil, fresh; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing></ingredients>
+    <directions>
+      <step>  Blend ingredients together well.  Shape into a roll, wrap in foil and
+  refrigerate.  This is fantastic on breads, veggies, pasta, or basting
+  poultry.
+  Posted to MC-Recipe Digest V1 #189
+  
+  Date: 08 Aug 1996 17:25:22 GMT
+  
+  From: Richardson@digitalpopcorn.com (Richardson)
+ 
+</step></directions></recipe></recipeml>

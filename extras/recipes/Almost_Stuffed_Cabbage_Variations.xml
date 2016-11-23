@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almost Stuffed Cabbage Variations</title>
+      <categories>
+        <cat>Ground beef</cat>
+        <cat>Main dishes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>See Almost Stuffed Cabbage</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Recipe</item></ing></ingredients>
+    <directions>
+      <step>  I've made something similar quite often.  The only difference is I mix the
+  ground meat with the rice and 1 Tbs. of Worschestershire to form meatballs.
+  Once the rest of the mixture starts to boil, I add the meatballs and let
+  cook for at least an hour.  The longer it cooks, the thicker it is. And
+  yes, I do add golden raisins. Even thought I'm not a raisin fan, they do
+  add a sweetness to the dish.  I love this over mashed potatoes!
+  
+  Recipe By     : Penchard
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

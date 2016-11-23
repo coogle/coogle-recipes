@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acadian Crawdad Cakes</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Rice</cat>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Waldine Van Geffen VGHC42A</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Stick butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Crawfish tails -- ground</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked long-grain rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bell pepper -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon; crisp -- crumble</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley -- chop fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shallots -- chop fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Basil</item></ing></ingredients>
+    <directions>
+      <step>  ds Thyme 1 ts Salt ds Tabasco 3    Eggs; well beaten  Mix crawfish tails,
+  rice, bell pepper, bacon, parsley, shallots, basil, thyme, salt and Tabasco
+  together well. Pour the eggs over the mixture and blend them into the rice
+  mixture. Let mixture "set" in the fridge for about 30 minutes, covered.
+  Melt butter in skillet or griddle. Then, keeping your hands moist with a
+  few drops of water shape the mixture into small squares, about 3x3x1/2" and
+  plop them on the griddle. They will sizzle nicely and turn light brown in a
+  few minutes. Flip over and fry until brown. Source: The Frank Davis Seafood
+  Notebook (wrv)
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

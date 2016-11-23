@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Custard</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Eggs;</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Instant dry milk;</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dry sugar;sub equal to 1/4</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cup sugar;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nutmeg;(optional)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Boiling water;</item></ing></ingredients>
+    <directions>
+      <step>  Heat 2 cups water to 110 degrees to 115 degrees.  Place eggs, dry
+  milk, vanilla, salt and dry sugar substitute in a bowl and mix well.
+  Stir hot water into egg mixture.  Blend well, and pour a fourth of
+  mixture into each of 4 custard cups.  Sprinkle custard lightly with
+  nutmeg, if desired, and place the cups in an 8" or 9" cake pan.  Pour
+  boiling water around the cups to a depth of 1 1/2".  Bake at 325
+  degrees for about 1 hour, or until a knife comes out clean from the
+  center of custard. Cool at room temperature. Serve warm or chilled,
+  
+  Food Exchange per serving: 2/3 MILK EXCHANGE + 1 FAT EXCHANGE
+  CHO: 8g; PRO: 9g; FAT: 5g; CAL: 101;
+  
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  From the files of Al Rice, North Pole Alaska,  Feb 1994
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

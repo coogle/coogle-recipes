@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pasta Pt 1/2</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached All-Purpose Flour &lt;&lt;Or&gt;&gt;</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Durum Semolina Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>drops</unit></amt>
+          <item>Water As Needed</item></ing></ing-div>
+      <ing-div>
+        <title>SPINACH-BASIL PASTA</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Lightly packed spinach leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Lightly packed basil leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached all-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing></ing-div>
+      <ing-div>
+        <title>CARROT-SAGE PASTA</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh carrot puree or juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Minced fresh sage</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached all-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing></ing-div>
+      <ing-div>
+        <title>GREMOLATA PASTA</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Finely grated lemon zest</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Finely minced garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Finely minced fresh parsley</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached all-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing></ing-div>
+      <ing-div>
+        <title>SAFFRON-WHITE WINE PASTA</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dry white wine</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Crumbled saffron threads</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached all-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing></ing-div>
+      <ing-div>
+        <title>FETTUCCINE W/TOMATOES</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Fresh Gremolata Pasta, cut into fettuccine</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Extra-virgin olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Slivered shallots or red onion</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Roasted garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>1-2 cups seeded and diced fresh tomatoes, several varieties, if possible</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  FOOD PROCESSOR METHOD: Place the flour in the bowl of the food processor.
+  With the motor running, add the eggs, one at a time. Continue processing
+  for 10 seconds after the last egg has been added. Add drops of water if the
+  dough seems too dry. Turn out onto a lightly floured work surface and knead
+  for 6 to 8 minutes or until the dough is smooth and satiny and springs back
+  when pressed with a finger.
+  
+  HAND MIX METHOD: Place the flour in a mound on a clean work surface. Form a
+  well in the center and break the eggs into the well. Mix the eggs with a
+  fork. Pulling from the sides of the well, gradually incorporate the flour
+  into the eggs. Continue to mix until the dough forms a ball, adding drops
+  of water as necessary. Begin kneading the dough, pushing the dough with the
+  heel of your hand. Knead until soft and satiny. Most important, the dough
+  should spring back when poked with your finger. This will take 10 to 15
+  minutes of continuous kneading.
+  
+  Divide the dough into 4 pieces, wrap in plastic wrap, and refrigerate for
+  at least 45 minutes. The dough may also be frozen at this point, thaw in
+  the refrigerator before proceeding.
+  
+  Yield: approximately 1 pound of pasta, serving 4
+  
+  SPINACH-BASIL PASTA: Roll out by hand or with a hand-cranked pasta machine,
+  according to themanufacturer's directions.
+  
+  In a saucepan of lightly salted boiling water, blanch the spinach and basil
+  5 seconds. Remove and immediately plunge into ice water to set the color.
+  Drain, pat dry, and then squeeze in a towel to remove any excess liquid.
+  Chop very fine and add as the eggs are incorporated into the flour. Proceed
+  as directed above.
+  
+  CARROT-SAGE PASTA: Add the carrot puree or juice and minced sage to the
+  eggs as they are incorporated into the flour. Proceed as directed above.
+  
+  GREMOLATA PASTAL Add the zest, garlic, and parsley to the eggs as they are
+  incorporated into the flour. Proceed as directed above.
+  
+  SAFFRON-WHITE WINE PASTA: In a small saucepan, combine the wine, water, and
+  saffron. Bring to a boil. Remove from the heat and let cool. Add the
+  mixture to the eggs as they are incorporated into the flour mixture.
+  Proceed as directed above.
+  
+  FETTUCCINE WITH FRESH AND SUN-DRIED TOMATOES: Cook the pasta in lightly
+  salted boiling water until just al dente, about 3 to 4 minutes if fresh.
+  Drain and immediately run cold water over to stop the cooking. Drain again
+  and toss with 2 tablespoons of the olive oil to prevent the pasta from
+  sticking. Warm the remaining olive oil in a pan, add the shallots and
+  garlic, and saute for 3 minutes. Remove from heat and cool. Combine the
+  oil, shallots, and garlic with the remaining ingredients, except the
+  cheese. Season with salt and pepper and toss with the pasta. Serve in
+  bowls, sprinkled with freshly grated cheese, a drizzle of basil oil around,
+  and a basil sprig.
+  continued in part 2
+ 
+</step></directions></recipe></recipeml>

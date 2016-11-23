@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Sauces</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Non-fat yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Prepared horseradish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Powdered mustard</item></ing></ingredients>
+    <directions>
+      <step>  Mix yogurt with horseradish and mustard. Use other seasoning to taste. Mix
+  well, refrigerate while artichoke is steaming.
+  
+         SOURCE: National Cooking Echo 04/16/90 Contributed to the echo by:
+  Blanche Nonken &amp; Ellen Cleary
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

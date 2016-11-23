@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Dip</title>
+      <categories>
+        <cat>Dips</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Corned beef</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garlic salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>packages</unit></amt>
+        <item>Hidden Valley Thousand Island dressing</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Chopped green onions</item></ing></ingredients>
+    <directions>
+      <step>  1. Cut up corned beef.
+  
+  2. Mix all together.
+  
+  3. Good with crackers. You can substitute a little Thousand Island for the
+  packaged kind.
+  
+  Recipe by: Debbie Collins
+  
+  Posted to MasterCook Digest V1 #363 by " Liz Custer" &lt;custer@dconn.com&gt; on
+  Dec 5, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Coffee Cake #1</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Bisquick original baking mix</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Milk or water</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Cooking apples; peeled and thinly sliced (about 2 cups)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped nuts</item></ing></ing-div>
+      <ing-div>
+        <title>STREUSEL TOPPING</title>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Bisquick original baking mix</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Packed brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Stick firm margarine or</item></ing></ing-div>
+      <ing-div>
+        <title>GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Powdered sugar (up to)</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Milk</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   HEAT oven to 400 degrees. Grease square baking dish, 9x9x2-inches. Prepare
+  Streusel Topping; reserve.
+  
+   MIX baking mix, milk, sugar and egg; beat vigorously 30 seconds. Spread
+  half of the batter in baking dish.  Arrange apple slices on batter;
+  sprinkle with half of the topping. Spread remaining batter over apple
+  slices; sprinkle with remaining topping. Sprinkle with nuts.
+  
+   BAKE about 25 minutes or until tooth pick inserted in center comes out
+  clean; cool. Drizzle with Glaze.  8 servings.
+  
+   Streusel Topping: Mix baking mix, brown sugar, cinnamon and nutmeg. Cut in
+  margarine with fork or pastry blender until mixture is crumbly.
+  
+   Glaze: Mix ingredients until smooth and drizzling consistency.
+  
+  From &lt;Betty Crocker: Bisquick Classics and New Favorites&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

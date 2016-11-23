@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Another Chicken Pot Pie</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Mom's best</cat>
+        <cat>Cyberealm</cat>
+        <cat>Main dish</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Cream of broccoli soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked cut-up vegetables</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cubed cooked chicken</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Refrigerated flaky biscuits</item></ing></ingredients>
+    <directions>
+      <step>  1.  In a 3 qt baking dish, combine the soup, milk, thyme, and pepper.
+      Stir in the vegetables and chicken or turkey.
+  
+  2.  Bake at 400F 15 minutes or until mixture begins to bubble.
+      Meanwhile, cut each biscuit into quarters.
+  
+  3.  Remove dish from oven; stir. Arrange biscuit pieces over hot
+      chicken mixture. Bake 15 minutes or until golden brown.
+  
+  VARIATION:  Top with melted cheddar or swiss cheese (grated) for the
+  last 5 minutes of baking.
+  Turkey can be substituted for chicken.
+  The vegetables which can be used include carrots, broccoli, potatoes,
+  cauliflower, frozen or fresh.
+  
+  Cyberealm Cookbook, Vol 1, 4/93, Cyberealm BBS, compiled by Linda Fields.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber1.zip
+ 
+</step></directions></recipe></recipeml>

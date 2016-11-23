@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie - Pomona</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Apples</cat>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PATTI - VDRJ67A</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Crust for 9" pie (single)</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Tart apples; shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Walnuts; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>dashes</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Honey</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; soft</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Walnuts; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Brown sugar</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Prepare crust or use a ready made one. Prebake at 375 for about 8 minutes.
+  Prepare filling. Shred apples (they don't need to be peeled if skin is
+  soft). Mix with lemon juice quickly. Blend together walnuts, brown sugar
+  and nutmeg. Place apples in the prepared shell. Top with walnut mix. Pour
+  honey evenly over all. Bake at 375 for about 35 minutes. In the meantime,
+  prepare topping. With fork, blend together butter, flour, walnuts and sugar
+  until crumbly. Top pie with crumbled mix. Bake another 10-15 minutes or
+  until apples are soft and topping is light brown. Serve with whipped cream
+  or ice cream.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

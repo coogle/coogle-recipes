@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Bread Crumbs</title>
+      <categories>
+        <cat>Misc</cat>
+        <cat>Lite</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Wonder Light Reduced Calorie Fat-Free bread</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter Flavor Pam no stick cooking spray</item></ing></ingredients>
+    <directions>
+      <step>     Spray both sides of each bread slice with Pam and bake in a 250~ oven
+  until toasted.  Turn slices over and toast until brown and dry. Crumb bread
+  in food processor. Store in air-tight container in freezer and use as
+  needed.   Makes 3 (1 cup) servings.
+  
+     Per Serving.  0g fat, 80 calories, 0% fat, 2.6g protein, 0.5g carb, 0mg
+  sodium, 0 mg cholesterol.
+  
+     From.  The Lite Switch, June McLean Jeter.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

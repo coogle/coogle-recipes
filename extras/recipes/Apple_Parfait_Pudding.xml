@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Parfait Pudding</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Puddings</cat>
+        <cat>Sugar free</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PUDDING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Apples; chopped (about 9 apples, peeled and cored)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cinnamon and nutmeg to taste</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chopped walnuts</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Put half of the chopped apples in a blender and blend with cornstarch.
+  Combine with lemon juice and spices to taste. Pour into the top of a double
+  boiler and cook over medium heat, stirring, as mixture reaches a boil and
+  thickens. Add remaining chopped fruit and cook just until tender. Cool.
+  
+  Layer apple pudding and chopped nuts in tall dessert goblets, ending with
+  nuts. Chill and serve. Top with whipped cream if desired.
+  
+  Recipe by: Sweet and Sugar Free  -  Karen E. Barkie Posted to Digest
+  eat-lf.v097.n212 by Irene DiGiuseppe &lt;irene@1starnet.com&gt; on Aug 22, 1997
+ 
+</step></directions></recipe></recipeml>

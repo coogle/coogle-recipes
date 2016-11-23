@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Kabobs</title>
+      <categories>
+        <cat>Bar-b-q</cat>
+        <cat>Appetizers</cat>
+        <cat>Meats</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Boneless pork shoulder*</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Peanut oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove,peeled/split</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Italian herbs,mixed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Green peppers,medium**</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pineapple chunks (16 oz)</item></ing></ingredients>
+    <directions>
+      <step>  Date: Wed, 22 May 1996 23:06:55 -0500 (CDT)
+  
+  From: "Mr. &amp; Mrs. Pro and the crew" &lt;D.Pro@coretech.com&gt;
+  
+  * - cut pork shoulder into 1" cubes.
+  
+  ** - seed and cut green peppers into 1" squares.
+  
+  1. Place pork cubes (1") in a nonmetal bowl.
+  
+  2. Combine oil, vinegar, galic, salt and herbs, blend well, and pour over
+  pork cubes. Cover and refrigerate for 4 hours or more, overnight if
+  desired. Drain and reserve.
+  
+  3. Alternately thread pork cubes, peppers (1" square), and pineapple chunks
+  on metal skewers. Brush with marinade and place on barbecue grill as far as
+  possible over glowing coals. Broil, brushing with marinade and turning
+  often, for 30 to 40 minutes.
+  
+  Posted to MealMaster Recipes List, Digest #143
+ 
+</step></directions></recipe></recipeml>

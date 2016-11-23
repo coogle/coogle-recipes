@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baba Gannouj (Joel Rapp)</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>large</unit></amt>
+        <item>Eggplants</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Lemons, juiced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Tahini</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped parsley, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Cook eggplants whole on all sides, turning as necessary till they are soft
+  throughout &amp; the skin is charred. Set aside to cool for 1 hour.
+  
+  Peel eggplants &amp; discard skin.  In a mixing bowl, add lemon juice &amp; tahini.
+  Blend well.  Add salt to taste.
+  
+  Finely chop the garlic clove &amp; add to mashed eggplant. Stir well &amp; chill.
+  To serve, place in a flat serving dish &amp; garnish with parsley. Pour olive
+  oil the top.
+  
+  Joel Rapp, "Mother Earth's Vegetarian Feasts"
+  Posted to MM-Recipes Digest V3 #305
+  
+  Date: Wed, 6 Nov 1996 23:46:18 -0500
+  
+  From: BobbieB1@aol.com
+ 
+</step></directions></recipe></recipeml>

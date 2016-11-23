@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Dumpling #2</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat>
+        <cat>Diabetic</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Recipe pie crust</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>(15 mL) lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>(45 mL) granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Replacement</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or granulated fructose</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>(2 mL) cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>(20 mL) margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg white (slightly beaten)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Basic Pie Shell</item></ing></ingredients>
+    <directions>
+      <step>  Roll out pie dough and cut into 4 equal pieces. Peel and core apples and
+  sprinkle them with lemon. Place 1 apple in center of each piece of dough.
+  Combine sugar replacement and cinnamon in a bowl, sprinkling evenly into
+  cavity of apples. Top each apple with 1 tsp (5 mL) margarine. Bring
+  opposite ends of dough up over apple. Moisten slightly with water; seal
+  securely. Brush with beaten egg white and place in shallow baking pan. Bake
+  at 425 F (220 C) for 35 to 45 minutes, or until pastry is golden brown.
+  
+  Exchange 1 dumpling: 2 bread 1 fruit
+    2 1/2    fat
+  
+  Calories 1 dumpling: 221
+  Posted to MM-Recipes Digest V3 #305
+  
+  Date: Wed, 6 Nov 1996 14:18:31 -0800 (PST)
+  
+  From: Corky Courtright &lt;corky@discover.net&gt;
+ 
+</step></directions></recipe></recipeml>

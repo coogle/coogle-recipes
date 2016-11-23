@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Oat Bran Muffins</title>
+      <categories>
+        <cat>Low-cal</cat>
+        <cat>Muffins</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Whole Wheat Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Packed Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cooking Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oat Bran</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>x</unit></amt>
+        <item>Egg Whites</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded, peeled Apple</item></ing></ingredients>
+    <directions>
+      <step>   In a med bowl stir together flour, oat bran, brown sugar, baking powder,
+  baking soda, salt, nutmeg, and cinnamon. Set aside.
+   In a small bowl combine buttermilk, egg whites, and oil, Add to dry
+  ingredients; stir just till moistened. Stir in shredded apple. Store
+  batter, tightly covered, in the refrigerator for up to 5 days.
+   To bake, spray muffin cups with non-stick spray coating. Spoon about 1/4
+  cup batter into each muffin cup. Bake in a 375 deg F oven for 18-20
+  minutes or till a toothpick inserted near the center comes out clean.
+  Makes 12 muffins.
+  *************************************************************
+  Per serving: 124 calories, 4 g protein, 22 g carbohydrates, 3 g fat, 1 mg
+  cholesterol, 162 mg sodium, 162 mg potassium.
+  
+  Recipes culled from Better Homes and Gardens "Diet Recipe Card Library".
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmlo-fat.zip
+ 
+</step></directions></recipe></recipeml>

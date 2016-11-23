@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Awesome Pizza Dough</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water (80-85 degrees)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh garlic (I use crushed garlic sold by the jar)</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Italian seasoning</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast (or one packet)</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Sun, 23 Jun 1996 20:43:14 -0400</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>Kari Bittner &lt;TomBDoom@AOL.COM&gt;</item></ing></ingredients>
+    <directions>
+      <step>  Enter ingredients into bread machine in the order listed.  Put bread
+  machine on dough cycle for large white loaf. When dough enters Rise cycle,
+  take out, flour lightly, place in large bowl and cover with very warm, damp
+  cloth. Set in warm place to rise. Let rise for about 1 1/2 hours.
+  
+  Spread out, brush with olive oil, add toppings as desired.  (Final sprinkle
+  of Parmesan Cheese adds a great touch no matter what toppings you use.)
+  
+  Bake for 10-12 minutes on pizza stone pre-heated for 20 minutes in 475
+  degree oven.
+  
+  EAT-L DIGEST 22 JUNE 1996
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

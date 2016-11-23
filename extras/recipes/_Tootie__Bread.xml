@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Tootie" Bread</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Loaf French bread</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(8-oz) Swiss cheese slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Poppy seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Uncooked bacon; cut into small pieces</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400ø. Partially slice the bread into 16 pieces. Cut each
+  slice of cheese diagonally and place one triangle of cheese in between each
+  piece of bread. Place the bread on a foil covered cookie sheet. Combine
+  margarine, onion, mustard and poppy seeds and mix well. "Ice" the bread on
+  top and sides. Place small pieces of bacon on top. Bake for 20 minutes and
+  serve hot. Yield: 6 to 8 servings.
+  
+  ANN LEEK (MRS. STEPHEN A.)
+  
+  From &lt;Traditions: A Taste of the Good Life&gt;, by the Little Rock (AR) Junior
+  League.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

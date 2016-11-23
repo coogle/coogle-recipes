@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie Filling</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Canning</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FOR 1 QUART FILLING</title>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sliced fresh apples</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar; plus...</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Clear Jel(tm)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cold water</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Apple juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Bottled lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>drop</unit></amt>
+          <item>Yellow food coloring (optional)</item></ing></ing-div>
+      <ing-div>
+        <title>FOR 7 QUARTS FILLING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>quarts</unit></amt>
+          <item>Sliced fresh apples</item></ing>
+        <ing>
+          <amt>
+            <qty>5 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Clear Jel(tm)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cold water</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>cups</unit></amt>
+          <item>Apple juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Bottled lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Nutmeg (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>7</qty>
+            <unit>drops</unit></amt>
+          <item>Yellow food coloring (optional)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Quality: Use firm, crisp apples. Stayman, Golden Delicious, Rome, and other
+  varieties of similar quality are suitable. If apples lack tartness, use an
+  additional 1/4 cup of lemon juice for each 6 quarts of slices.
+  
+  Yield: 1 quart or 7 quarts
+  
+  Procedure: Wash, peel, and core apples. Prepare slices 1/2-inch wide and
+  place in water containing ascorbic acid to prevent browning. For more
+  information see "Ensuring High-Quality Canned Foods".
+  
+  For fresh fruit, place 6 cups at a time in 1 gallon of boiling water. Boil
+  each batch 1 minute after the water returns to a boil. Drain, but keep
+  heated fruit in a covered bowl or pot. Combine sugar, Clear Jel(tm) , and
+  cinnamon in a large kettle with water and apple juice. If desired, food
+  coloring and nutmeg may be added. Stir and cook on medium high heat until
+  mixture thickens and begins to bubble. Add lemon juice and boil 1 minute,
+  stirring constantly. Fold in drained apple slices immediately and fill jars
+  with mixture without delay, leaving 1 inch headspace. Adjust lids and
+  process immediately according to the recommendations in Table 1. See Table
+        2    for suggested quantities.
+  
+  Table 1. Recommended process time for Apple Pie Filling in a boiling-water
+  canner.
+  
+  Style of Pack: Hot.  Jar Size: Pints or Quarts. Process Time at Altitudes
+  of 0 - 1,000 ft: 25 min.
+                         1,001 - 3,000 ft: 30 min.
+                         3,001 - 6,000 ft: 35 min.
+                           Above 6,000 ft: 40 min.
+  
+  Table 2. Apple Pie Filling. (See ingredient list above)
+  
+  ======================================================= ===== * USDA
+  Agriculture Information Bulletin No. 539 (rev. 1994) * Meal-Master format
+  courtesy of Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

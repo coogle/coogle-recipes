@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken Parmesean</title>
+      <categories>
+        <cat>Main dishes</cat>
+        <cat>Poultry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Broiler fryer; cut up; skinned</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Corn flake crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese</item></ing></ingredients>
+    <directions>
+      <step>  Brush chicken with mayonaise: coat with combined remaining ingredients.
+  Place in 9+13 inch bakiang dish. Bake at 350° 1 hour or until tender.
+  
+  NOTES : Variations  Substitute 1 pound fish fillets for chicken.. Reduce
+  mayo to 1/3 cup, crumbs to 1/2 cup and parmesan cheese to 1/4 cup. Reduce
+  baking time to 30 minutes or until fish flakes easily with fork.
+  Recipe by: Kay Hitchcock
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 924 by "Kay L. Hitchcock"
+  &lt;HITCHCOC_K@popmail.firn.edu&gt; on Jan 09, 1998
+ 
+</step></directions></recipe></recipeml>

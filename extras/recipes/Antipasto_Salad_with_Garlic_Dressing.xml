@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antipasto Salad with Garlic Dressing</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Italian</cat>
+        <cat>Low-cal</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SALAD</title>
+        <ing>
+          <amt>
+            <qty>15 1/2</qty>
+            <unit>ounces</unit></amt>
+          <item>Can garbanzo beans, drained</item></ing>
+        <ing>
+          <amt>
+            <qty>6 1/2</qty>
+            <unit>ounces</unit></amt>
+          <item>Marinated artichoke hearts</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Roasted red peppers</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Black olives, pitted, drained, and sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>bunches</unit></amt>
+          <item>Romaine lettuce, torn into bite-size pieces</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Low-fat salami, sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Part-skim mozzarella cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Parmesan cheese, freshly grated</item></ing></ing-div>
+      <ing-div>
+        <title>GARLIC DRESSING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Tarragon vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Tarragon vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Prepared mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Worcestershire sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic, crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  This salad is pretty hardy, but to turn it into a main dish salad, just add
+  pasta shells, bows, or tortellini. Salad: Place beans, artichoke hearts,
+  roasted peppers and olives in salad bowl; add lettuce, Pour salad dressing
+  over all and toss well. Arrange salami on salad greens. Sprinkle both
+  cheeses over top. Dressing: Shake all ingredients in tightly covered jar.
+  Makes about 1/4 c dressing.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

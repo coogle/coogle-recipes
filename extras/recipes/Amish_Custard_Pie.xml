@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amish Custard Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>9" unbaked pie shell</item></ing></ingredients>
+    <directions>
+      <step>  Combine sugar, flour, salt and eggs and mix until smooth. Heat milk to
+  boiling point. Add 1 cup hot milk to egg mixture. Pour that into the
+  remaining hot milk.
+   Pour into unbaked pie shell. Sprinkle nutmeg over top. Bake at 350 degrees
+  F. for 45-60 minutes.
+  
+  Source: The Best Of Amish Cooking by Phyllis Pellman Good Submitted by
+  Michael Hatala, Prodigy Food &amp; Wine Board
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Shrimp Toast</title>
+      <categories>
+        <cat>Vietnamese</cat>
+        <cat>Appetizers</cat>
+        <cat>Seafood</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh or frozen, peeled and deveined, uncooked shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Prepared fish sauce, if desired</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated gingerroot (or 1/4 teaspoon ground ginger)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Shallots, minced (about 1/3 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Garlic cloves, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit/></amt>
+        <item>(1/2-inch thick) slices French bread, 2-2/1 inches in diameter</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit/></amt>
+        <item>Fresh cilantro leaves (Chinese parsley or fresh coriander leaves)</item></ing></ingredients>
+    <directions>
+      <step>  Info:  from Pillsbury's Fast and Easy Magazine, July/August 1993 posted by
+  Perry Lowell, RECIPE_CORNER, July 1993
+  
+  Thaw and chop shrimp.
+  
+  Heat broiler.  In medium bowl, combine all ingredients except bread and
+  cilantro leaves;  mix well.  Place bread slices on ungreased cookie sheet.
+  Broil 4 to 6 inches from heat for 1 to 2 minutes or until golden brown.
+  Turn slices over; spread evenly with shrimp mixture. Return to broiler;
+  broil an additional 1 to 3 minutes or until the shrimp turns pink. Garnish
+  with fresh cilantro.
+  
+  Makes 16 appetizers.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

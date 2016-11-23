@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Beef in Crusty Rolls</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meats</cat>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely Chopped Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cut-up Cooked Beef</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slices American Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Finely Chopped Garlic Clove</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Packed Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Dash Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>French Rolls, Split</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients except beef, rolls and cheese in 1-Qt casserole.  Cover
+  and microwave on high (100%) util hot and bubbly, 2 to 3 minutes; stir.
+  Mix beef into sauce.  Cover and microwave until beef is hot, 3 to 5 minutes
+  Fill rolls with beef mixture and cheese slices and serve.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/meats.zip
+ 
+</step></directions></recipe></recipeml>

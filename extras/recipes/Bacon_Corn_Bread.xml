@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Corn Bread</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pan-fried bacon; save the fat!</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Recipe "Corn Bread"</item></ing></ingredients>
+    <directions>
+      <step>  SERVES 6
+  
+    Bacon was one meat that would keep fairly well during the long trip on
+  the trail, providing you kept it in bags surrounded by bran. The bran would
+  help prevent the bacon fat from melting under the heat of the prairie sun.
+  This dish offers a new flavor, which must have been truly delicious after a
+  day in that wagon!
+  
+    Cook the bacon until crisp. Reserve the fat. Chop the bacon and stir it
+  into the corn bread batter. Use bacon fat instead of shortening, if you
+  wish, to make the batter.
+  
+    Grease the pan with a good bit of the bacon fat and bake the corn bread
+  as directed.
+  
+  From &lt;The Frugal Gourmet Cooks American&gt;.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

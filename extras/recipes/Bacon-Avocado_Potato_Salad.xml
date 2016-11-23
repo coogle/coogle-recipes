@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon-Avocado Potato Salad</title>
+      <categories>
+        <cat>Potatoes</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Boiling potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Avocados -- cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onions -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh lime juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>White wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh parsley -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh cilantro -- chopped</item></ing></ingredients>
+    <directions>
+      <step>  Boil potatoes in their skins. While potatoes boil, cube avocados and toss
+  with lime juice. Chop bacon into one inch pieces and fry until crisp in a
+  large skillet. Remove bacon to paper towels to drain. In bacon fat, saute
+  onions until golden. Remove pan from heat and stir in wine, vinegar,
+  mustard, and salt, pepper, and paprika to taste. When potatoes are tender,
+  drain, peel, and dice. While still warm, pour dressing over potatoes and
+  toss. Allow to cool to room temperature. Fold in avocado, bacon, parsley,
+  and cilantro. Serve at room temperature or chill one hour or longer.
+  
+  Recipe By     : Elizabeth Powell
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

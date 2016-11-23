@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arugula and Tomato Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>bunches</unit></amt>
+        <item>Arugula (3 bn = approx. 1 Cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Ripe tomatoes; cut in wedges =OR=- Cherry tomatoes, halved</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground pepper</item></ing></ingredients>
+    <directions>
+      <step>  WASH AND DRY the arugula, remove the tough stems and arrange on the outside
+  of a platter. Whisk together the olive oil, vinegar and mustard. Add salt
+  and pepper to taste. Toss the tomatoes gently in the salad dressing. Strain
+  and place the tomatoes in the center of the arugula. Drizzle the strained
+  dressing over the arugula.
+  
+  NATHALIE DUPREE
+  
+  PRODIGY GUEST CHEFS COOKBOOK
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

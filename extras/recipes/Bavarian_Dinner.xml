@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Dinner</title>
+      <categories>
+        <cat>Crockpot</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat>
+        <cat>Prodigy</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Sauerkraut, Bavarian style, undrained (27 oz each)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Polish kielbasa sausage, precooked and cut into 3 inch pieces.</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion, thinly sliced and separated into rings</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chicken bouillon, instant</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Celery seed</item></ing></ingredients>
+    <directions>
+      <step>  In bottom of slow cooking pot, layer 1 can sauerkraut, 1 lb sausage pieces,
+  half the onion slices, 1/2 t boulllon and 1/4 t celery seed. Repeat layers.
+  Cover and cook at setting #3 in West Bend cooker (low) for 7 ~ 9 hours or
+  #5 in West Bend Cooker (high) for 3-4 hours. Serve with boiled potatoes and
+  apple raisin salad.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

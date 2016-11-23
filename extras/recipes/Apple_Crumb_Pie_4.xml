@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crumb Pie</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Tart apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>9-inch pie shell</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Pare apples, core and cut into eights. Arrange in pie shell. Mix 1/2 cup
+  sugar and cinnamon, sprinkle over apples. Mix 1/3 cup sugar with flour, cut
+  in butter until crumbly (with pastry blender). Sprinkle over apples. Bake
+  at 400 F for 35-40 minutes, or until done. If pie browns too quickly, cover
+  edge with foil. Cool. Top with whipped cream.
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by vu-man@juno.com (V
+  U Man) on Nov 16, 1997
+ 
+</step></directions></recipe></recipeml>

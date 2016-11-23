@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cake</title>
+      <categories>
+        <cat>Cakes/</cat>
+        <cat>Banana</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Plain flour bananas; ripe, mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Can crushed pineapple</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Powdered sugar</item></ing></ingredients>
+    <directions>
+      <step>  Beat all ingredients together 4 minutes. Cook 1 hour in greased and floured
+  tube pan at 350 F. Glaze with 1/3 cup powdered sugar and add enough lemon
+  juice for right consistency to spread
+  
+  NOTE: Makes a really moist cake. Typed and Mc formatted by Martha Hicks &amp;
+  Buster
+  
+  Recipe by: From recipe files of Martha Hicks
+  
+  Posted to MC-Recipe Digest V1 #862 by "Nitro_II "
+  &lt;Nitro_II@classic.msn.com&gt; on Oct 24, 97
+ 
+</step></directions></recipe></recipeml>

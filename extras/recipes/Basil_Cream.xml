@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Cream</title>
+      <categories>
+        <cat>New text im</cat>
+        <cat>Cooking rig</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Shallots or green onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Rich shellfish stock &lt;&lt;OR&gt;&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Rich chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Fennel seed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Basil leaves; lightly packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Mint; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and freshly ground pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Italian Roma tomatoes; peel, seed, dice</item></ing></ingredients>
+    <directions>
+      <step>  Add shallots and garlic to a saucepan and saute in oil until soft but not
+  brown. Add wine, stock and fennel seed and bring to a boil and reduce by
+  half. Add cream and reduce to a light sauce consistency. Strain and add to
+  a blender or food processor.
+  
+  Blanch basil leaves momentarily in boiling salted water then plunge
+  immediately into ice water to stop cooking and set the color. Pat dry.
+  
+  Add blanched basil, parsley and mint leaves to blender and process until
+  smooth. Return contents to saucepan and keep warm. Correct seasoning with
+  salt, pepper and drops of lemon juice. Stir in tomatoes and serve
+  immediately.
+  Recipe By     : COOKING RIGHT SHOW #CR9737
+  
+  Posted to EAT-L Digest 24 October 96
+  
+  Date:    Fri, 25 Oct 1996 06:43:05 -0400
+  
+  From:    Bill Spalding &lt;billspa@ICANECT.NET&gt;
+  
+  NOTES : SHOW: 10/2
+ 
+</step></directions></recipe></recipeml>

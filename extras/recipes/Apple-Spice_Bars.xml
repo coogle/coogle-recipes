@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Spice Bars</title>
+      <categories>
+        <cat>Bar cookies</cat>
+        <cat>Cookies</cat>
+        <cat>Travel</cat>
+        <cat>Desserts</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs; Large</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour; Unbleached</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking Powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking Soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg; Ground</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ginger; Ground</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Apples; Finely Chopped, *</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  *  Core and Peel Apples.  Chop as fine as possible.
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
+  Cream shortening and sugar.  Add eggs, one at a time, and beat well.  Stir
+  together the flour, salt, baking powder, baking soda and spices.  Blend
+  into the creamed mixture and mix well.  Stir in apples.  Spread in a
+  greased 13 X 9 X 2-inch pan.  Mix sugar and cinnamon together; blend well.
+  Sprinkle on top of the dough.  Bake at 350 degrees F for 25 to 30 minutes.
+  Cool; cut into bars.
+  
+  Makes 36 bars.
+  
+  From Better Homes &amp; Garden's Homemade Cookies Cookbook, via The Home BBS.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/travel.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Stuffed Squash</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Acorn squash</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushrooms, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Salt-reduced tamari</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked rice OR</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Whole wheat bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>  Cut squash in half lengthwise. Scoop out seeds and stringy portion. Place
+  in a baking dish with 1/2 inch of water in bottom. Bake for about 1 hour at
+  350 degrees. While squash is baking, prepare the stuffing mix. Cook onions
+  and mushrooms in 1/4 c. water for 5 minutes. Add tamari and spices. Cook
+  over low heat for 5 more minutes. Remove from het. Add the rice or the
+  bread crumbs and mix together well. When the squash has baked about 1 hour
+  and is almost tender, remove from oven. Fill each with stuffing mix. Return
+  to oven and bake an additional 15 minutes.
+  
+  May be served as is or with gravy. To prepare ahead, bake the squash for
+  one hour and remove from oven. Let cool. Prepare stuffing. When ready to
+  prepare dinner, fill with stuffing mix and bake at 350 degrees for 30
+  minutes.
+  
+  From _The McDougall Plan_
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

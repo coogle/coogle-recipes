@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Butter</title>
+      <categories>
+        <cat>Condiments</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Text Only</item></ing></ingredients>
+    <directions>
+      <step>  Use two cups of blanched whole almonds. If only unblanched almonds are
+  available, blanch them this way: Place the almonds in a saucepan and cover
+  with water. Bring to boiling, then drain. The skins should slip off easily
+  when you press each almond between your thumb and forefinger. Dry on paper
+  towels. Spread the dry almonds in a shallow baking pan and toast in a 300
+  degree oven for about 20 minutes or until golden. Cool for 5 minutes before
+  processing or blending.
+  
+  To process: Place the steel blade in your food processor or blender. Add
+  the nuts. Cover and process or blend until a butter forms, stopping
+  occasionally to scrape the sides of the bowl or blender a few times. Keep
+  processing for three to five minutes or until all of the mixture is evenly
+  blended. Process about two minutes more or until the butter is the desired
+  smoothness.Store in a covered container in your refrigerator for up to two
+  weeks. Bring to room temperature for easier spreading. Makes about 1 1/4
+  cups.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

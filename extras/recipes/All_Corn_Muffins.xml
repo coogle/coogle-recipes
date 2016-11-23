@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All Corn Muffins</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>A</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cornmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing></ing-div>
+      <ing-div>
+        <title>B</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Corn oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Creamed corn</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 and prepare pan
+  
+  In a large bowl combine "A" well. Add "B" and combine well. Spoon into
+  prepared pan. Bake for 25 min. Check for doneness via the toothpick test.
+  Remove from pan and cool on wire rack. For bread, let cool in pan 10 min.
+  before moving to rack.
+  
+  Posted to recipelu-digest Volume 01 Number 414 by Abtaxel &lt;Abtaxel@aol.com&gt;
+  on Dec 29, 1997
+ 
+</step></directions></recipe></recipeml>

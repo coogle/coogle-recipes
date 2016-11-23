@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Glaze - Great Chefs</title>
+      <categories>
+        <cat>Basics</cat>
+        <cat>Glazes</cat>
+        <cat>Masterchefs</cat>
+        <cat>Frisco</cat>
+        <cat>Fo</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Jam, apricot</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>     Combine jam, sugar and water in a heavy saucepan.  Mix well, bring
+  to a boil, then simmer until clear.
+  
+      Source: Great Chefs of San Francisco, Avon Books, 1984
+  
+      Chef:   Christian Iser, Fournou's Ovens, Stanford Court Hotel,
+      :       San Francisco, CA
+  
+      Pastry Chef:  Jim Dodge
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-sf.zip
+ 
+</step></directions></recipe></recipeml>

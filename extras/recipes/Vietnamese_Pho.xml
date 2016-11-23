@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Pho</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Vietnamese</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef bones with marrow</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Oxtails</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Flank steak</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions; unpeeled, halved, and studded with 8 cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Shallots; unpeeled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Piece ginger; unpeeled</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Star anise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cinnamon stick</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Parsnips cut in 2-inch chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef sirloin</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Scallions; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cilantro; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Onions; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Hot chili sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Rice noodles 1/4-inch wide (or banh pho)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuoc mam (Vietnamese fish sauce)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper; freshly grnd.</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh bean sprouts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Fresh chili peppers; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Limes cut in wedges</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Fresh mint</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Fresh Asian or regular basil</item></ing></ingredients>
+    <directions>
+      <step>  Soak bone overnight in cold water.  Place bones, oxtails and flank steak in
+  a large stock pot.  Add water to cover and bring to a boil. Cook 10
+  minutes, drain and rinse pot and bones. Return bones to pot, add 6 quarts
+  water and bring to a boil.  Skim surface of scum and fat. Stir bones at
+  bottom from time to time. Add 3 more quarts water, bring to a boil again
+  and skim scum.  Lower heat and let simmer.  Char clove-studded onions,
+  shallots, and ginger under a broiler until they release their fragrant
+  odors.  Tie charred vegetables, star anise, and cinnamon stick in a thick,
+  dampened cheesecloth.  Put it in stock with parsnips and salt. Simmer for 1
+  hour. Remove flank steak and continue simmering broth, uncovered pot, for
+  4-5 hours.  Add more water if level goes below bones.
+  
+  Meanwhile, slice beef sirloin against grain into paper-thin slices, about
+  2-by-2 inches.  Slice flank steak the same way. Set aside. In a small bowl,
+  combine scallions, cilantro, and half the sliced onions. Place remaining
+  onions in another bowl and mix in hot chili sauce. Soak rice noodles in
+  warm water for 30 minutes. Drain and set aside.
+  
+  When broth is ready, discard bones.  Strain broth through a colander lined
+  with a double layer of damp cheesecloth into a clean pot. Add fish sauce
+  and bring to a boil. Reduce heat to simmer. In another pot, bring 4 quarts
+  of water to a boil.  Add noodles and drain immediately. Do not overcook
+  noodles. Divide among 4 large soup bowls. Top noodles with sliced meats.
+  Bring broth to a rolling boil, then ladle into soup bowls. Garnish with
+  scallions mixture and black pepper. Serve the onions in hot chili sauce and
+  remaining ingredients on the side to add as desired. Also, you can add
+  Hoisin sauce as a dip. Serves 4.
+  
+  Source: "The foods of Vietnam" by Nicole Routhier (Stewart, Tabori &amp; Chang)
+  
+  From the rec.food.recipe archives. From: nguyenc@rtsg.mot.com (Chuong M.
+  Nguyen)
+  
+  MM format by Judi M. Phelps. jphelps@shell.portal.com, juphelps@delphi.com,
+  or jphelps@best.com
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

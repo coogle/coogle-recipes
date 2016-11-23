@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie with Cheddar Crust</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Soft-wheat flour such as White Lily</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Preferably; or all-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Grated sharp cheddar cheese; chilled</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Unsalted butter; chilled</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Lard; chilled</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Solid vegetable shortening; chilled</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Ice water; up to 7 Tablespoons</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Tart baking apples; Rome or Jonathan, peeled and sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Dark brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Apple cider</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Anise seeds; ground</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Fresh lemon juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  For the crust, combine the flour with the sugar and salt in a food
+  processor. Scatter the cheese over the flour. Cut the butter, lard and
+  shortening into small pieces, and add them. Process briefly, until a
+  crumbly meal forms. (Alternatively, combine the ingredients in a bowl with
+  a pastry blender.) Pour in the smaller amount of water, and process or
+  blend until the dough holds together, adding the extra water if needed.
+  Divide the dough into two balls. Wrap these in plastic, and refrigerate
+  them for at least 30 minutes and as long as 24 hours.
+  
+  Preheat the oven to 400 degrees.
+  
+  Combine the apples with the smaller amount of brown sugar, adding the rest
+  if they taste overly tart. Mix in the remaining ingredients.
+  
+  Roll out both balls of refrigerated dough on a floured surface. Place one
+  in the bottom of whichever size pie pan you=re using, add the filling, and
+  top with the second crust. Crimp the edges and prick a few holes in the top
+  to allow the steam to escape. Bake the pie for 50 to 55 minutes, until the
+  crust seems well set and lightly browned. Check it after 25 to 30 minutes,
+  covering the edges with foil if they appear to be browning too rapidly.
+  Serve the pie warm or at room temperature.
+  
+  Yield: 1 10-inch pie or a 9-inch deep-dish pie
+  
+  Recipe by: DEAN FEARING SHOW #HE1A09
+  
+  Posted to MC-Recipe Digest V1 #786 by Sue &lt;suechef@sover.net&gt; on Sep 17,
+  1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Broccoli</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Stir-fry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil, divided</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Boneless beef sirloin or top round steak, 3/4 inch thick, sliced across the grain into thin strips</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Broccoli flowerets</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Medium onion cut into wedges</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic -OR-</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1/8 ts garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of Broccoli Soup Campbell's (10 3/4 oz can)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Hot cooked rice</item></ing></ingredients>
+    <directions>
+      <step>  1. In large skillet over medium-high heat, heat one tablespoon oil; cook
+  beef until browned, stirring often.  Remove.
+  
+  2. Reduce heat to medium.  In remaining oil cook broccoli and onion with
+  garlic until tender-crisp.
+  
+  3. Stir in soup, water and soy sauce.  Heat to boiling.
+  
+  4. Return beef to skillet.  Heat through, stirring often.
+  
+  5. Serve over rice.
+  
+  Serves 4.
+  
+  From a Campbell's Soup Advertisement, October 1993 Reader's Digest.
+  
+  Posted to MM-Recipes Digest V4 #132 by John Weber &lt;hdbrer@ibm.net&gt; on May
+  12, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Tomatoes and Eggs</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions -- sliced thinly</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Tomatoes -- peeled, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh basil -- chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Hot pepper sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt -- to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper -- to taste</item></ing></ingredients>
+    <directions>
+      <step>  1. Grease 4 ramekins or serving dishes with a tablespoon of margarine. Heat
+  oven to 350 degrees. 2. In a heavy saucepan or skillet, melt remaining 4
+  tablespoons margarine. Saute the onions until tender and translucent. Add
+  tomatoes, basil, hot pepper sauce, salt and pepper to taste. Simmer,
+  stirring often, for 10 minutes. 3. Pour the mixture evenly into the
+  ramekins. Top each with an egg. Bake 6-10 minutes or until eggs are done to
+  your taste. While still hot, sprinkle 1 tablespoon shredded cheese over top
+  if desired. Serve immediately.
+  
+  Recipe By     : Jo Anne Merrill
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

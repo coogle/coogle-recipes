@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anise Cookies (Radola)</title>
+      <categories>
+        <cat>Biscuits</cat></categories>
+      <yield>70</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>170</qty>
+          <unit>grams</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>170</qty>
+          <unit>grams</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ground Anise</item></ing></ingredients>
+    <directions>
+      <step>  Beat the eggs and the sugar to fluffy cream. Add flour and anise.
+  
+  With 2 teaspoons place small heaps on your baking sheet. Let them dry
+  overnight.
+  
+  Next morning heat your oven to 180 degrees Celsius(!) Bake the cookies for
+  8-10 minutes. They should keep their pale colour.
+  
+  Smells great !
+  
+  +-------------------------------------+ | M-D Radola | | Munich, Germany |
+  | radola@informatik.tu-muenchen.de
+    |
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

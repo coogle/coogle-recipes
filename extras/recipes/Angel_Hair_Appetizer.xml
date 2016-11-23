@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Appetizer</title>
+      <categories>
+        <cat>Tomatoes</cat>
+        <cat>Cheese</cat>
+        <cat>Side dishes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Sundried tomatoes -- packed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>In oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>With 1/4 cup of oil -- from</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Jar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Feta cheese -- crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>bunches</unit></amt>
+        <item>Fresh cilantro or parsley --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Angel hair pasta</item></ing></ingredients>
+    <directions>
+      <step>  Combine first 3 ingredients and set aside.  Cook pasta till al dente, the
+  drain and toss with sauce.  Serve warm or cold.  Serves 8 as appetizer or
+  side dish.
+  
+  Recipe By     : Rosilyn
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

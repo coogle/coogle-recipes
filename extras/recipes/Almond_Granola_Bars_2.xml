@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Granola Bars</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Bars</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Granola</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Sweetened condensed milk; (14 oz.)</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees. Melt butter in 13 x 9 x 2-inch pan in heated
+  oven. Sprinkle granola over melted butter and bake 10 minutes. Remove pan
+  from oven and sprinkle chocolate chips, almonds and coconut over granola
+  mixture. Pour sweet- ened condensed milk on top, evenly. Bake for 20 to 25
+  minutes. Cool. Cut into squares.
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Mar 21,
+  1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Hazelnut Butter</title>
+      <categories>
+        <cat>Syd's book</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cooked Asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Finely Ground Hazelnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cider Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt And Pepper To Taste</item></ing></ingredients>
+    <directions>
+      <step>  Wash asparagus under cold running water.  Snap off lower end of each stalk
+  with your fingers.  Let the stalk break where it wants to, this will leave
+  only the tender portion of the stalk.  Young tender asparagus can be cooked
+  in a steamer for 5-7 minutes, the more mature stalks for 7-10 minutes. Do
+  not over cook asparagus, it will lose flavor and nutrients if over cooked.
+  At the same time, place the hazelnuts and butter in a small heavy skillet.
+  Heat until the butter melts and mix thoroughly.  Remove from heat and stir
+  in vinegar.  Season with salt and pepper to taste. Pour hazelnut butter
+  over hot asparagus.  Serve at once.  From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

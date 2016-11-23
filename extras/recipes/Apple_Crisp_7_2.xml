@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp 7</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>large</unit></amt>
+        <item>Apples; peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey; 3-5 tablespoons</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Packed brown sugar</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350.  Spray a 2 quart baking dish with cooking spray.
+  Prepare the apples and put them in baking dish.  Combine the rest of the
+  ingredients and mix well.  Sprinkle over apples and bake 30-35 minutes.
+  
+  1/8= 204 calories, .8g fat, 50g carb, 2g protein
+  Recipe By     : FatFree Mailing List
+  
+  Posted to MC-Recipe Digest V1 #279
+  
+  Date: Tue, 05 Nov 1996 05:58:50 -0600
+  
+  From: Terry and Kathleen Schuller &lt;schuller@ix.netcom.com&gt;
+ 
+</step></directions></recipe></recipeml>

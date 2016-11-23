@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Glazed Chicken</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Poultry</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Balsamic vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Orange marmalade</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Chicken breast halves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Lemon-pepper seasoning</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Parsley</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Black olives</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Orange wedges</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 375 degrees. Mix vinegar, marmalade and oil and zap in
+  microwave 1 minute. Place chicken breasts in baking dish and brush with
+  mixture. Sprinkle with lemon-pepper. Bake 20 minutes. Baste again and bake
+  additional 20 minutes. Serve with garnish if desired.
+  
+  Recipe by: Ethel Hofman Posted to JEWISH-FOOD digest V97 #242 by Judith
+  Sobel &lt;jcs@mindspring.com&gt; on Sep 01, 1997
+ 
+</step></directions></recipe></recipeml>

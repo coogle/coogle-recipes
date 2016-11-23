@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Paste</title>
+      <categories>
+        <cat>Make</cat>
+        <cat>Your</cat>
+        <cat>Own</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Blanched Almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  1. Put the orange juice, 1 cup of the almonds and the sugar into a blender
+  or food processor and whirl until the nuts are very fine.
+  
+  2. Add the remaining cup of almonds and whirl again until very fine.
+  
+  3. Knead together, cover with dampened cheesecloth, and store in airtight
+  container in the refrigerator.
+  
+  Makes 1 1/2 pounds.
+  
+  Recipe by: diane@keyway.net
+  
+  Posted to recipelu-digest Volume 01 Number 196 by "Diane Geary"
+  &lt;diane@keyway.net&gt; on Nov 4, 1997
+ 
+</step></directions></recipe></recipeml>

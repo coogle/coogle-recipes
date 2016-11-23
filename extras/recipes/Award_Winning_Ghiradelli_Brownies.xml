@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Award Winning Ghiradelli Brownies</title>
+      <categories>
+        <cat>Chocolate</cat>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat>
+        <cat>Cookies</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Unsifted flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Ghiradelli ground chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts, chopped</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 350F degrees.  Using a spoon,  stirr eggs with sugar and
+  vanilla; add butter.  Sift ground chocolate with flour, baking powder,
+  salt.  Stir into egg mixture; add nuts. Spread into greased 8- or 9-inch
+  square pan. Bake at 350F for 20 to 30 minutes. For extra chewy brownies,
+  use 8-inch pan and less baking time. For cake- like brownies, use 9-inch
+  pan and longer baking. Cut into squares.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

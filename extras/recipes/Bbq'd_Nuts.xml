@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq'd Nuts</title>
+      <categories>
+        <cat>Snack</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Dry roasted peanuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Measquite smoke-flavored BBQ sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Onion salt</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>Cheryl Miller &lt;csmiller@LAMAR.COLOSTATE.EDU&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Tue, 23 Jul 1996 21:58:49 +0000</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 300 degrees.  In a large bowl, combine all ingredients.
+  Spread nuts evenly on a lightly greased baking sheet and bake for 20
+  minutes, stirring after 10 minutes. Cool then store in an airtight
+  container. Makes 3 cups.
+  
+  EAT-L Digest 23 July 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andouille</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>60</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork stomach (maws)</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork butt; cut into 1/2-in. cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Curing salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Msg</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sausage casing</item></ing></ingredients>
+    <directions>
+      <step>  Date: Sat, 17 Feb 1996 01:06:44 -0600
+  
+  From: rael@EbiCom.net
+  
+  Knew I had this somewhere.  Will admit I haven't made it, so....lemme know
+  if it works. Better yet, send me some &lt;g&gt;. From _Cajun_Cuisine_ by Beau
+  Bayou Publishing Company, 1985.
+  
+  1.  Rinse the pork stomach in salty water, cut open and remove all fat;
+  grind coarsely in a food processor or food grinder.
+  
+  2.  Mix all ingredients together and stuff into casing using a funnel or
+  sausage stuffer. Yield: 15 pounds fresh andouille. Note: If a smoker is
+  available smoke at 120 degrees to 150 degrees for approximately 4 to 6
+  hours. rael@ebicom.net Mississippi Redneck Cook
+  
+  CHILE-HEADS DIGEST V2 #243
+  
+  From the Chile-Heads recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

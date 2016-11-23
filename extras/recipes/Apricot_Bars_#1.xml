@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Bars #1</title>
+      <categories>
+        <cat>Cookie</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 3/4</qty>
+            <unit/></amt>
+          <item>Stick butter</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Soda</item></ing>
+        <ing>
+          <amt>
+            <qty>18</qty>
+            <unit>ounces</unit></amt>
+          <item>Apricot preserves</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Egg whites</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cream of tartar</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Ground pecans</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Sift dry ingredients several times. Add cold butter and work until crumbly.
+  Add slightly beaten egg yolks. Compress into a ball. Flatten on a 15x10
+  inch cookie sheet. Roll with a rolling pin. Spread 18 ounces of apricot
+  preserves on top of dough. Leave 1/4 inch margin around edge of dough.
+  Topping: Beat egg whites until stiff. Add cream of tartar. Slowly add sugar
+  and vanilla. Fold in nuts. Spread on top of dough and apricots. Bake at 350
+  for 20 minutes.
+  
+  MRS B.M. MEEK (SUSAN)
+  
+  MARVELL, AR
+  
+  From the book &lt;High Cotton Cookin'&gt;, Marvell Academy Mothers Assn, Marvell,
+  AR  72366, ISBN 0-918544-14-9, downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

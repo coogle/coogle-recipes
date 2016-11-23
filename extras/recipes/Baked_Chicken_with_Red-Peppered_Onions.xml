@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken with Red-Peppered Onions</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>1990 dccc</cat>
+        <cat>1st</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chicken, broiler/fryer, quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper, lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Onions, sweet, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oil, olive</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Jelly, hot pepper, red</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Pepper, red, sweet, cut into rings</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cilantro</item></ing></ingredients>
+    <directions>
+      <step>       Put your chicken on the oiled rack of large broiler pan.
+  Sprinkle the chicken with lemon pepper.  Bake at 400 F, skin side up,
+  for about 50 minutes or until the chicken is fork tender.
+  
+       Meanwhile, in a large non-stick fry pan, place olive oil, and
+  heat to medium temperature.
+  
+       Add onions and cook until barely wilted, about 5 minutes.
+  
+       Add jelly and stir gently until melted.
+  
+       Spoon one-half of the onion mixture onto a large platter.
+  Arrange the chicken over onions; top with remaining onions.
+  
+       Garnish with pepper rings and cilantro.
+  
+       Cook:  Ellen Burr, Massachusetts
+  
+       Source: "Chicken Cookery"  - 1994 Delmarva Chicken Cooking Contest
+       :       Delmarva Poultry Industries, Inc.
+       :       Georgetown, Delaware, 19947-9622
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/dpi.zip
+ 
+</step></directions></recipe></recipeml>

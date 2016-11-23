@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce From Cooking Live</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Mixed apples, i.e. Cortland; McIntosh; Golden Delicious; Gala; etc., cored and quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit/></amt>
+        <item>To 1 cup sugar; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of half a lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon; optional</item></ing></ingredients>
+    <directions>
+      <step>  In a large saucepan combine the apples, 1/2 cup water and sugar, bring the
+  liquid to a boil, and simmer the mixture, stirring occasionally and
+  breaking up the apples, for 20 minutes. When the apples are tender and the
+  mixture is the consistency of a chunky puree pass the apples through a food
+  mill and return to the saucepan. Simmer the applesauce, gently, for an
+  additional 5 to 10 minutes or until slightly thickened. Adjust seasoning
+  with lemon juice, sugar and cinnamon. Serve the applesauce warm or chilled.
+  
+  Yield: 4 cups
+  Recipe By     : COOKING LIVE SHOW #CL8745
+  
+  Posted to MC-Recipe Digest V1 #265
+  
+  Date: Mon, 28 Oct 1996 10:03:35 -0500
+  
+  From: "Angele and Jon Freeman" &lt;jfreeman@netusa1.net&gt;
+ 
+</step></directions></recipe></recipeml>

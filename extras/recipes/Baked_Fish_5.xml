@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fish</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Fish</cat>
+        <cat>Appetizers</cat>
+        <cat>Microwave</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Seasond coating mix for fish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Fish fillets or serving</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Size pieces of fish</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  1. Lightly grease a shallow, 10-inch, heat-resistant, non- metallic baking
+  dish. 2. Empty seasoned coating mix into the plastic shaker bag. 3. Moisten
+  fillets with water. Shake off excess water. 4. Shake 1 or 2 fillets at a
+  time in the bag until evenly coated. 5. Arrange in greased baking dish. 6.
+  Heat, uncovered, in Microwave Oven 7 minutes or until fish is easily flaked
+  with a fork. Note: If frozen fillets are used, partially defrost in
+  Microwave Oven and do not moisten with water.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

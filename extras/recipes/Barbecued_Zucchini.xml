@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Zucchini</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Zucchini</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Italian salad dressing</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  SERVES 6-8
+  
+    I like vegetables as much as I do meat, perhaps more. There is no reason
+  why you cannot put something into your barbecue cooker other than potatoes
+  and meat. Try this one. Even your children will eat their vegetables.
+  
+    Trim the ends of the squash and cut each lengthwise in half and then each
+  piece into quarters. Marinate in the salad dressing for 1/2 hour before
+  cooking. Place on the charcoal grill and add salt and pepper to taste.
+  These pieces should cook in very little time, so watch them. Nobody likes
+  soggy zucchini!
+  
+  From &lt;The Frugal Gourmet Cooks American&gt;.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

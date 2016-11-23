@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Coffee</title>
+      <categories>
+        <cat>Vietnamese</cat>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Stephen Ceideburg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sweetened Condensed Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Strong Black Coffee</item></ing></ingredients>
+    <directions>
+      <step>  In restaurants and cafe, dark-roast coffee is brewed in an individual drip
+  pot that sits on top of a glass, slowly dripping into sweet milk. it takes
+  a good 10 to 15 minutes for the water to finish dripping through, and the
+  coffee is sipped at an equally leisurely pace. Both the coffee and the pots
+  are available in Southeast Asian markets, but any type of coffee and any
+  brew- method that produces a strong, rich-tasting cup will do.
+  
+  Place the milk in the bottom of an 8 ounce glass. Carefully pour in coffee,
+  trying not to disturb the layer of milk. Stir milk up from bottom and sip
+  coffee. There will probably be some milk left in the bottom of the glass
+  when you are finished.
+  
+  Makes 1 serving.
+  
+  Variation: This coffee may also be served iced. Add ice cubes on top of the
+  sweet milk and proceed as above.
+  
+  From the California Culinary Academy's "Southeast Asian Cooking", Jay
+  Harlow, published by the Chevron Chemical Company, 1987. ISBN
+  0-89721-098-0.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

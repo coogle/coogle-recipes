@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Layer Bars</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Desserts</cat>
+        <cat>Cookies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Graham cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Semisweet chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butterscotch chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flaked coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Sweetened condensed milk</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in a 13 x 9 x 2 inch pan.  Sprinkle crumbs evenly over butter.
+  Sprinkle in layers, chocolate chips, butterscotch chips, nuts, and top with
+  coconut. Pour condensed milk over all. Bake in a pre-heated 350 degree oven
+  for 30 minutes.  Let cool and cut in bars.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

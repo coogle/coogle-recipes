@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinegar (Sour) Sauce</title>
+      <categories>
+        <cat>Bbq sauces</cat>
+        <cat>To post</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>White Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh Lime Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced Garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh Chile Peppers (Your Choice), minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh Cilantro Or Oregano, roughly chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cracked Black Pepper, to taste</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients well in small bowl; cover and refrigerate until time to
+  use.
+  
+  Makes about 3/4 cup.
+  
+  Source: "License to Grill" Chris Schlesinger and John Willoughby.
+  
+  Recipe by: P. B. Post:  07/03/97 Posted to MC-Recipe Digest V1 #655 by
+  Raymond &lt;r1706@tl.infi.net&gt; on Jul 2, 1997
+ 
+</step></directions></recipe></recipeml>

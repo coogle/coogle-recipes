@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Burgers</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>6 -8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>26</qty>
+          <unit>ounces</unit></amt>
+        <item>Minced steak</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Soy Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing></ingredients>
+    <directions>
+      <step>  From: MeLizaJane &lt;MeLizaJane@aol.com&gt;
+  
+  Mix all the ingredients in a large bowl. Cover with plastic wrap and
+  refrigerate overnight. Form the mixture into 6-8 hamburgers and cook on the
+  barbecue or in the oven. Serve wrapped in a lettuce leaf, or in the usual
+  way.
+  
+  Posted to recipelu-digest by jeryder@juno.com on Mar 29, 1998
+ 
+</step></directions></recipe></recipeml>

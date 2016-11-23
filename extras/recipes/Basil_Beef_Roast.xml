@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Beef Roast</title>
+      <categories>
+        <cat>Beef</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Boneless chuck roast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dried whole basil, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small onion, ringed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Hot water</item></ing></ingredients>
+    <directions>
+      <step>  Brown roast on both sides in hot oil in a large Dutch oven. Sprinkle roast
+  with basil, garlic powder, and pepper; top with onion. Add hot water. Bring
+  to a boil; cover, reduce heat, and simmer 2 1/2 hours or until tender.
+  Remove from pan drippings to serve. From "The Progressive Farmer" January
+  1992.
+  
+  Posted to MealMaster Recipes List, Digest #153
+  
+  Date: Fri, 31 May 1996 00:53:26 -0500 (CDT)
+  
+  From: "Mr. &amp; Mrs. Pro and the crew" &lt;D.Pro@coretech.com&gt;
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Chicken Wings</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>35</qty>
+          <unit/></amt>
+        <item>Chicken wings; tips removed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Tamari sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry red wine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves (large) garlic; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh ground pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Place chicken wings, disjointed, in large flat pan.  Combine other
+  ingredients and pour over chicken. Let stand for at least 1 hour or over
+  night.  Be sure all wings are well coated with marinade. Place pan in 350
+  oven and reduce heat to 250. Bake 4-5 hours, turning wings at regular
+  intervals.  If all marinade is not absorbed, pour off and dry wings out a
+  bit longer in oven (but not too much) before serving. Makes a great hors
+  d'oeuvre or main course despite being a bit messy to eat.
+  
+  REQUIRES MARINATING AND LONG
+  
+  COOKING TIME BUT IT IS SIMPLE.
+  
+  From the &lt;Micro Cookbook Collection of Contemporary Recipes&gt;.  Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

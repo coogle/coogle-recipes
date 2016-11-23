@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bars</title>
+      <categories>
+        <cat/></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Crispy rice cereal crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar; packed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Pumpkin pie spice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites; whipped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400. Prepare a  9 x 9 x 2" pan with cooking spray; set
+  aside. In a mixing bowl, combine crispy rice cereal, flour, brown sugar,
+  baking powder, pumpkin pie spice, and baking soda. In another mixing bowl,
+  combine egg whites, bananas, and oil. Mix dry ingredients with wet
+  ingredients just until moistened. Spread mixture into prepared pan. Bake
+  for 20 minutes or until lightly browned.
+  Posted to Digest eat-lf.v096.n146
+  
+  Date: Sun, 8 Sep 1996 18:43:33 -0500
+  
+  From: matejka@bga.com (Anita A. Matejka)
+ 
+</step></directions></recipe></recipeml>

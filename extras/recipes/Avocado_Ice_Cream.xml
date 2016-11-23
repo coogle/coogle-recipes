@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Ice Cream</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(14.5-oz) evaporated milk; well chilled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mashed ripe avocados</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  From: Wendy Lockman &lt;wlockman@ra1.randomc.com&gt;
+  
+  Date: Thu, 21 Mar 1996 21:05:45 -0500
+  Mix juices.  Beat milk in chilled bowl until almost doubled in volume. Add
+  all ingredients; blend well.  Freeze.
+  
+  From _Our Best Recipes_ by Lena E. Sturges, Food Editor.  Birmingham, AL:
+  Oxmoor House, Inc., 1970.  Pg. 132.  Library of Congress Catalog Number
+  70-140493.  Typed for you by Cathy Harned.
+  
+  MC-RECIPE@MASTERCOOK.COM
+  
+  MASTERCOOK RECIPES LIST SERVER
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

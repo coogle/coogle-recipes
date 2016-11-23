@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cream</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>large</unit></amt>
+        <item>Apples -- unpeeled and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cored</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Apple cider</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon zest -- grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Powdered sugar</item></ing></ingredients>
+    <directions>
+      <step>  Place apple quarters in a heavy saucepan with cider and sugar. Bring to a
+  boil over medium heat, stirring to dissolve sugar and prevent scorching.
+  Continue to cook and stir until apples become mushy. Puree through food
+  mill and stir in spices and lemon zest. Cool. While apple puree cools, beat
+  cream until it forms stiff peaks. Gradually add powdered sugar and blend
+  well. Fold 1/2 cup of apple puree into whipped cream, then fold whipped
+  cream into remaining apple puree. Spoon into parfait glasses and chill
+  thoroughly. Sprinkle top of each apple cream with nutmeg before serving.
+  
+  Recipe By     : Elizabeth Powell
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

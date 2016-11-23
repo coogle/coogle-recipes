@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bakewell Pudding</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Pies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Puff pastry</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Strawberry jam</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Egg whites</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Almond essence</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Pre-heat oven to 425oF or Mark 7. Roll out the pastry and line a wide
+  shallow dish or a pie plate. Spread the pastry with a thick layer of jam.
+  Cream butter and sugar, add the egg yolks, the beaten egg whites and the
+  almond essence. Spread the mixture over the jam and bake for 15 mins.
+  Reduce heat to 350oF Mark 4 for 20 mins. The filling is ment to remain soft
+  and is not intended to set.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

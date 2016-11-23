@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Adobo (Pork in Adobo)</title>
+      <categories>
+        <cat>Chile</cat>
+        <cat>Mexican</cat>
+        <cat>Pork</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork loin</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lard</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Dried ancho chiles</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Meat stock</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions; for garnish</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Avocado</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Radishes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Cook the pork with one onion, salt and pepper. Toast chile slightly, soak
+  and grind with an onion, the garlic and the oregano. Saute the mixture in
+  lard. Add the cooked meat, 2 cups of the stock, the vinegar and bay leaf.
+  Let simmer until the sauce (adobo) is thick and coats the meat thoroughly.
+  Serve in paltter garnished with water-soaked onion slices, strips of
+  avocado and radish flowers. NOTES
+  : From: Mexican Cookbook for American Homes (Authentic Recipes from Every
+  Region of the Mexican Republic Adapted for Use in the Unithe States, Centra
+  and South America) , 10th edition, 1997 by Josefina Velazques de Leon,
+  Diector, Culinary Arts Institute, Mexico City.
+  
+  Recipe by: Mexican Cookbook Devoted to American Homes
+  
+  Posted to MC-Recipe Digest V1 #1061 by Walt Gray &lt;waltgray@mnsinc.com&gt; on
+  Jan 29, 1998
+ 
+</step></directions></recipe></recipeml>

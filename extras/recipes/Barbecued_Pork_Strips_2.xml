@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Pork Strips</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Bar-b-q</cat>
+        <cat>Oriental</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pounds</unit></amt>
+          <item>Boneless pork butt</item></ing></ing-div>
+      <ing-div>
+        <title>MARINADE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Light soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chinese rice wine or dry sherry</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Minced garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Brown bean sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Hoisin sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Red bean curd</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>5-spice powder</item></ing></ing-div>
+      <ing-div>
+        <title>BASTING LIQUID</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Malt sugar or honey</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Boiling water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  CUT THE PIECE OF PORK BUTT in half. Cut the two halves into 3/4-inch
+  strips. Put the strips in a bowl with the marinade and mix well to coat
+  them thoroughly. Marinate at room temperature for 3 hours, or overnight in
+  the refrigerator. Remove the pork from the marinade and baste the strips
+  with the malt-sugar mixture. Use curved skewers (available in Chinese
+  cookware shops and some restaurant- supply stores) to hang the meat from
+  the top shelf of the oven over a large pan filled with water to a depth of
+  1/4 inch. Roast the pork at 350F for 45 minutes, basting occasionally with
+  the malt sugar or honey. Increase the heat to 425F and roast for 20 minutes
+  to finish the pork. When the pork is cool enough to handle, cut it into
+  1/2-inch slices. Arrange the pork slices on a platter. Serves 4 to 6 as a
+  main course accompanied by vegetables, 8 to 10 as an appetizer.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

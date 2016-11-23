@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cookie Dough</title>
+      <categories>
+        <cat>Kohl</cat>
+        <cat>Cookies</cat>
+        <cat>Kooknet</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; sifted all-purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter; softened (or oleo)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Lgt brown sugar - packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar; granulated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing></ingredients>
+    <directions>
+      <step>  1. Sift flour, baking soda and salt onto waxed paper. 2. Beat shortening,
+  butter and sugars until well mixed. Beat in eggs and
+     vanilla. Stir in flour mixture until soft dough forms. 3. Divide dough
+  into 6 equal portions. Shape into rolls about 1 1/2" in
+     diameter. Wrap each in foil and freeze. OR, if you prefer, flavor the 6
+     different portions according to the notes that follow. 4. Slice frozen
+  rolls about 1/4" thick. Arrange cookies 2" apart on an
+     ungreased cookie sheet. Bake at 375 degrees for about 10 minutes or
+     until lightly browned.
+  
+  NOTES: Coconut cookies: Mix 1/2 cup flaked coconut into 1/6 of dough.
+         Pecan cookies: Mix 1/2 cup chopped nuts into 1/6 of dough.
+  
+  Taken from: IT ALWAYS TURNS OUT THE SAME WAY COOKBOOK A Collection of
+  Recipes from the Kitchen of Joyce &amp; Clem Kohl Kook-Net: þ THE IMPROV BBS þ
+  Kook-Net Hub þ (602)991-4849
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

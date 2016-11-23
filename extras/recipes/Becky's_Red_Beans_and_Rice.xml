@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Becky's Red Beans and Rice</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Ethnic</cat>
+        <cat>American</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Ham hocks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Kidney beans; dried, red</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water; to soak beans</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bell pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme;dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Louisana hot sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Rice; cooked</item></ing></ingredients>
+    <directions>
+      <step>  Cover the beans with water and allow to stand overnight, or place the beans
+  in water and bring to a boil, remove from heat and let stand at least 2
+  hours. Drain the Beans, and rinse well. Put 10 c water,the meat, vegetables
+  and seasonings, in a kettle and simmer for about 1 1/2 hours, or until the
+  meat is very tender. Remove the ham hocks from the pan, and add the beans,
+  add additional water as needed.  Simmer and cook, stirring occasionally,
+  and adding water if necessary. The beans should be tender in about 1 1/2
+  hours. Remove the meaty parts of the ham hocks, and discard the bones and
+  skin. Add the meat to the beans the last 10 or 15 min. of the cooking time.
+  Serve over the rice with hot cornbread, or spoonbread. (recipe posted)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cinnamon Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Apples, cut and diced. (Red Delicious Style)</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar.</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon. CAKE MIXTURE:</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar.</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour.</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder.</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oil.</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla.</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice.</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing></ingredients>
+    <directions>
+      <step>  Mix sugar and cinnamon,add apples until completely coated.
+  
+  mix ingredients for cake. Beat for 2&amp;1/2 min. on medium speed.
+  
+  INSTRUCTIONS: Pre-heat oven to 350^, mix all ingredients together except
+  apple mixture. Pour a layer of the batter into a greased and floured
+  "BUNDT" pan and some of the apple mixture, continue this until all is in
+  the pan with      the final layer being batter. *** Bake for 1:15 min., let
+  cool at least 15min, remove from pan and let cool at least 1/2 hr. before
+  cutting. From the files of Al Rice, North Pole Alaska. Feb 1994
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

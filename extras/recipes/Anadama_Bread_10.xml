@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anadama Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Active dry yeast</item></ing></ingredients>
+    <directions>
+      <step>  Warm liquids to 80 to 100 degrees. Place ingredients into breadmaker per
+  machines instructions. Use the sweet mode cycle. Yield 1 med loaf.
+  
+  &gt;From: LIR119@delphi.com  Joan,"Flour Power"
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  NOTES : Sue Klein sent me her anadama recipe to convert to the abm. I did
+       and she
+       enjoyed it saying it was one of the best ones she tasted so far.
+       Here is her
+       recipe/ my conversion with minor changes. The bread is a med loaf,
+       semi
+       coarse grain, moist texture, good crisp crust with great flavor.
+       It was
+       wonderful warm and made great toast the next day.She and I still
+       have ideas
+       to even improve it more, but it a great one as a base recipe.
+ 
+</step></directions></recipe></recipeml>

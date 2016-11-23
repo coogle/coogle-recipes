@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Sage Chutney</title>
+      <categories>
+        <cat>Condiment</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Apple; tart, coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apple cider; or apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Light brown sugar; packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Dried cherries</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Golden raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Dates; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sage; chopped</item></ing></ingredients>
+    <directions>
+      <step>  From: "Mardi Wetmore" &lt;mardiw@wco.com&gt;
+  
+  Date: Sat, 3 Aug 1996 14:17:46 +0000
+  Mix all ingredients in heavy saucepan.  Cook until thick.
+  
+  Digest eat-lf.v096.n113
+  
+  From the EAT-LF recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

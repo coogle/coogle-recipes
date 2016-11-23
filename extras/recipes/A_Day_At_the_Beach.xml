@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Day At the Beach</title>
+      <categories>
+        <cat>Beverages -</cat>
+        <cat>Alcoholic</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Coconut Rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Amaretto</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Orange Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Grenadine</item></ing></ingredients>
+    <directions>
+      <step>  Shake with ice and pour into highball glass over ice. Float grenadine on
+  top. Garnish with pineapple slice.
+  
+  Recipe by: Mr. Boston
+  
+  Posted to MC-Recipe Digest V1 #1006 by "jms@twave.net" &lt;jms@twave.net&gt; on
+  Jan 12, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Better Than Sex" Dessert</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crust:</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Chris Babbitt
+                          Filling:
+        1    cup           powdered sugar
+        8    ounces        cream cheese
+       12    ounces        Cool Whip®
+        1      large         package vanilla instant pudding
+        1      large         package chocolate instant pudding
+        3    cups          cold milk
+  
+  Crust: combine flour, sugar, and pecans.  Cut in margarine until crumbly.
+  Press into 9x13 inch greased pan.  Bake at 350 F for 15 to 20 minutes.
+  Cool.
+  
+  Filling:  beat together powdered sugar and softened cream cheese.  Fold in
+  half of Cool Whip.  Spread on cooled crust.  Beat until thickened both
+  pudding mixes with milk.  Spread on cheese mixture.  Spread remaining Cool
+  Whip on pudding.  Chill overnight.
+  
+  Optional:  sprinkle grated chocolate bar on top.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Cashew Stir-Fry</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Hot cooked Brown Rice</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Water or vegetable stock</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Minced Gingerroot</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>(pref toasted) Sesame Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dry crushed red pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>White pepper</item></ing></ing-div>
+      <ing-div>
+        <title>ND STEP</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Safflower oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Fresh Asparagus *</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>x</unit></amt>
+          <item>Scallions, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sm sweet red pepper, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Clove Garlic,  minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cashews  **</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  *    woody parts of stems removed, tender part cut into 3" lengths (3 cups)
+  **   dry-roasted and unsalted, or raw slivered almonds GARNISH: mandarin
+  orange sections and toasted sesame seeds, optional Cook or reheat brown
+  rice. In small bowl, combine soy sauce and cornstarch. Stir in remaining
+  sauce ingredients; set aside. In a wok or large skillet, heat oil. Stir-fry
+  asparagus, scallions, pepper, and garlic until vegetables are crisp/tender.
+  Stir sauce mixture; pour it over the vegetables and stir until it is
+  thickened and bubbly. Reduce heat; fold in cashews. Cover and cook 1
+  minute, until cashews are heated through. Serves 4-6. VARIATIONS: - 3-4 c
+  broccoli florets may be substituted for asparagus; or add other veggies
+  such as sliced mushrooms or thinly sliced carrots - with the cashews,
+  gently stir in 1 lb firm tofu cut into 1/2" cubes - serve over pasta rather
+  than rice; buckwheat noodles are good
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

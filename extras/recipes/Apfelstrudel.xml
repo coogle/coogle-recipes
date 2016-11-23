@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apfelstrudel</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DOUGH</title>
+        <ing>
+          <amt>
+            <qty>9</qty>
+            <unit>ounces</unit></amt>
+          <item>Sifted flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pints</unit></amt>
+          <item>Lukewarm water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs; beaten</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Sour apples</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pints</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Chopped chestnuts (up to)</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>ounces</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Sift flour into bowl &amp; make well in center. Stir in remaining dough
+  ingredients &amp; mix well. Cover with inverted bowl &amp; allow to rest 30
+  minutes. Cover table with clean cloth, allowing it to hang down &amp; sprinkle
+  top with 1/2 cup flour, most of it in center of cloth. Place dough in
+  center &amp; roll into 10-inch circle, making sure dough is very thin. Wash,
+  quarter, core &amp; pare apples. Cut in 1/8-inch slices. Combine with sugar,
+  nuts &amp; raisins. Slowly add sour cream. Place filling on dough &amp; drizzle
+  with melted butter. Fold edges of dough &amp; roll up. Brush top &amp; sides with
+  melted butter. Bake on greased baking dish at 350 for 45-50 minutes or
+  until golden brown. Baste &amp; brush with butter during baking. Pour boiling
+  milk over strudel &amp; bake until milk disappears.
+  
+  FRAU ECKHARDT (HELGA) SANDER
+  
+  From the &lt;The Bliss of Cooking Returns&gt;, Fort Bliss Officers Wives Club,
+  Ft. Bliss, TX.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Molasses Muffins</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Fruits</cat>
+        <cat>Muffins</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas; Ripe, Md</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; Large, Unbeaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Light Molasses Or Syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening, Melted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole Wheat Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Walnuts; Chopped, Optional</item></ing></ingredients>
+    <directions>
+      <step>  Mash the bananas until no lumps remain.  Add the unbeaten egg, mixing
+  well.  Beat in the sugar, molasses and the shortening. (NOTE:  The secret
+  of this recipe is to mix the above ingredients well until very smooth.)
+  Sift the flour, baking power, soda, and salt together and add to the
+  liquid mixture.  As these are a quick bread, do not beat the dry mixture
+  into the liquid but rather fold it in only until it is moistened and no
+  streaks remain.  Spoon the mixture into a muffin tin that has been sprayed
+  with a non-stick coating.  Bake at 350 degrees F for 20 to 25 minutes or
+  until done.  Serve warm.
+  
+  From "Make Mine Healthy" by Mimi Morgan.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/muffins2.zip
+ 
+</step></directions></recipe></recipeml>

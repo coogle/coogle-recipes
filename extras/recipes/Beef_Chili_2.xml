@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Chili</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Main dish</cat>
+        <cat>Rice</cat>
+        <cat>Tex-mex</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>BARB DAY - GWHP32A-----</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cube steaks -- lean</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Spicy Seasoning Mix --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Divided,  Note: See</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Recipe for Spicy Beef and --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rice Salad for this</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>28</qty>
+          <unit>ounces</unit></amt>
+        <item>Plum tomatoes; canned --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole kernel corn -- frozen</item></ing></ingredients>
+    <directions>
+      <step>  Preparation time:  30 minutes Heat oil in deep large skillet over medium
+  heat 5 minutes. Meanwhile cut each steak lengthwise into 1" wide strips,
+  then cut crosswise in 1" pieces. Sprinkle meat with 2 ts. spicy seasoning.
+  Stir-fry meat and onion 2 to 3 minutes.  Season with salt if desired. Add
+  tomatoes (break up with back of spoon), corn and remaining 2 1/2 teaspoons
+  of the seasoning mix.  Bring to a boil; reduce heat to medium low and
+  simmer, uncovered, 18 to 20 minutes. Serving suggestions: Tortilla chips
+  and melon wedges.
+  
+  Source: Beef Industry Council
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

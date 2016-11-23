@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce Oat Bran Muffins</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Breads/bm</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oat bran</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cinnamon or pumpkin</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pie spice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unsweetened applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Large egg whites</item></ing></ingredients>
+    <directions>
+      <step>  Place flour, oat bran, brown sugar, baking powder, and cinnamon or
+  pumpkin pie spice in bowl and mix well at low speed.  In a separate
+  bowl combine the applesauce, water, oil, and egg whites and beat with
+  a fork to blend. Add applesauce mixture to flour mixture and mix at
+  medium speed only until all flour is moistened.  Grease muffin tins
+  with margarine or line with paper cups.  Fill muffin tins 1/2 full
+  and bake at 400 F for about 20 minutes, or until muffins are browned
+  and spring back when touched in the center.  Serve hot, if possible.
+  Nutrient value per 1 muffin serving: CAL 120; CHO 18 gm; PRO 3 gm;
+  FAT 5 gm; NA  120 mg Food exchanges per serving: 1 bread, 1 fat
+  
+  Source:  The New Diabetic Cookbook by Mabel Cavaiani, R.D.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

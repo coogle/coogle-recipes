@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic White Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tblsp sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Plain yogurt; heated or sour cream or buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing></ingredients>
+    <directions>
+      <step>  She claims that the yogurt keeps the bread moist longer (doesn't crumble as
+  much). I've made it and it's good. She mentioned to me a while ago about
+  reading that commercial bakers use emulsifiers to prevent crumbly bread.
+  
+  &gt;From: gkwan@balboa.eng.uci.edu  (Greg)
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+ 
+</step></directions></recipe></recipeml>

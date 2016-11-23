@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus and Blue Cheese Quiche</title>
+      <categories>
+        <cat>Starters</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Tarts</cat>
+        <cat>French</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Pastry *</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Blue cheese (good)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese (Philadelphia)</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit>mililiters</unit></amt>
+        <item>Made up to with half &amp; half</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>medium</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, pepper &amp; cayenne</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Asparagus; peeled &amp; cooked</item></ing></ingredients>
+    <directions>
+      <step>  NB* As usual, the weight of pastry is the weight of flour used to make it.
+  
+    Roll out the pastry and line a 9" flan ring. Bake blind as usual at a
+  high temperature (400 for 8-9 mins weighted down then a futher 2-3 mins
+  just to colour lightly). Meanwhile, mash the cheeses together, put into a
+  measuring jug and make up to volume with cream or cream and milk. Beat hard
+  with the eggs (food processor). Season to taste with salt, pepper and
+  cayenne as usual.
+    The asparagus should have been peeled/trimmed as usual and boiled in
+  strongly salted water until just tender - for really freshly picked
+  asparagus &lt;15 minutes will suffice. Immediately remove from water and
+  separate on a paper towel to cool quickly. When cold, cut into 2" lengths
+  and spread out on the flan base. Pour over the custard and bake in a
+  moderate oven (375F) for around 30 minutes until nicely set. Serve warm
+  (not cold or too hot).
+  
+  Recipe IMH Georges' Home BBS 2:323/4.4
+  Posted to MM-Recipes Digest  by muddy@ibm.net on May 27, 1998
+ 
+</step></directions></recipe></recipeml>

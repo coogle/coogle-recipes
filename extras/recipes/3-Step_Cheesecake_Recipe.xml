@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>3-Step Cheesecake Recipe</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Cakes</cat>
+        <cat>Cheese</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>8 oz pkgs cream cheese; softened *</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Mini semi-sweet choco chips</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Graham cracker crust</item></ing></ingredients>
+    <directions>
+      <step>   * You can substitute "light" cream cheese Beat cream cheese, sugar and
+  vanilla at medium speed until well blended. Blend in 2 eggs. Stir in
+  chocolate chips then pour batter into graham cracker pie crust. (you may
+  sprinkle 1/4 c mini semi-sweet chocolate chips on top if you desire) Bake
+  at 350F for 40 min, or until center is almost set. Cool. For best results
+  refrigerate for 3 hours.
+   Source: TV Guide clipping
+ 
+</step></directions></recipe></recipeml>

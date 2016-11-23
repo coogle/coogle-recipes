@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amish Potato Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Celery Seed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Hard cooked Eggs, diced</item></ing></ingredients>
+    <directions>
+      <step>  Cook potatoes in their jackets until soft.  Cool, peel, and dice. Mix
+  potatoes gently with the remaining 5 ingredients; then add to the dressing.
+  
+  DRESSING: 2 Eggs, well beaten 3/4 cup sugar 1 t Cornstarch Salt to Taste
+  1/4 to 1/2 cup vinegar (to taste) 1/2 c Cream or evaporated milk 1 t
+  Mustard 3 T butter, softened 1 cup Mayonnaise
+  
+  Mix Eggs with sugar, cornstarch and salt.  Add vinegar, cream and mustard.
+  Cook until thickened.
+  
+  Remove from heat and beat in butter.  Add mayonnaise and mix until smooth
+  Add potato mixture to the cooled dressing, folding gently together. From:
+  "Amish and Mennonite Kitchens" Submitted By N.F. MILLER ORTIZ On 02-05-95
+  
+  From: Fido National Cooking Echo
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

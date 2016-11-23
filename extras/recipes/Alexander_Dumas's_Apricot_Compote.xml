@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alexander Dumas's Apricot Compote</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruit</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Apricot halves; fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Orange; juiced OR 6-to-8 tbs orange juice</item></ing></ingredients>
+    <directions>
+      <step>  Halve and pit the apricots. In a heavy, medium saucepan, boil the water and
+  sugar until thickened into syrup, about 5 minutes. Add apricots to the hot
+  syrup and cook over medium heat for 3 minutes. Remove from heat and add the
+  orange juice, Let cool before serving.
+  
+  "SIMPLICITY itself, this recipe has lived a long and glamorous life.
+  Created by Dumas, author-cum-chef, the low-fat compote brims with flavor
+  and nutrition, particularly vitamines A and E."
+  
+  1998-Apr-16 Hanneman (MC-PER SERVING 230 cals)
+  
+  Recipe by: HOT FLASH COOKBOOK by Cathy Luchetti (1997)
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Apr 16,
+  1998
+ 
+</step></directions></recipe></recipeml>

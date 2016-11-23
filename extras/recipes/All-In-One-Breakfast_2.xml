@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-In-One-Breakfast</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Whole wheat bread --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Tomato slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Fresh mushrooms -- thin</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Bacon; crisp --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Drain/crumble</item></ing></ingredients>
+    <directions>
+      <step>  Place toast on baking sheet.  Spread with butter if desired. Cover with
+  mushrooms and tomato slices. Sprinkle cheese and crumbled bacon on top.
+  Bake in 350 degree oven until cheese melts. 1 serving - 147 cal or 1 bread,
+  1 fat and 1 lean meat exchange (without butter) or 182 cal or 1 bread, 2
+  fat and 1 lean meat exchange (with butter).
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

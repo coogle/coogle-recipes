@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Black-Bean Sauce (Brennan)</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>*california</cat>
+        <cat>Mc-recipe</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Fermented black beans</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Garlic cloves; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Minced fresh ginger</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sherry</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cornstarch</item></ing></ing-div>
+      <ing-div>
+        <title>STIR FRY</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Asparagus; diagonally cut</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Oil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix together a tablespoon or two of fermented black beans, a clove of
+  minced garlic, a little soy sauce, minced fresh ginger, sherry and
+  cornstarch to make a sauce. Cut asparagus spears into 1-inch diagonal
+  slices.
+  
+  Heat a little oil in a wok and stir- fry the mixture for a minute or two,
+  until the asparagus is tender, but still bright green. Pour in the sauce
+  and stir for a minute or two longer.
+  
+  Excerpt from SF Chronicle 05/06/98 Food Section see www.sfgate.com and
+  Busted by Hanneman
+  
+  Recipe by: Georgeanne Brennan
+  
+  Posted to MC-Recipe Digest by Kitpath &lt;phannema@wizard.ucr.edu&gt; on May 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

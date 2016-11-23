@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Pork</title>
+      <categories>
+        <cat>Pork</cat>
+        <cat>Ham</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Boneless pork sirloin chops</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>To 3 garlic cloves -- minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cooking oil -- divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Seasoned flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushrooms -- sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Scallion -- sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Beer -- room temperature</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>To 2T sour cream -- optional</item></ing></ingredients>
+    <directions>
+      <step>  In 1 tablespoon of oil, saute garlic; then lightly flour pork and brown
+  until golden. Remove pork and set aside. In same skillet, add another
+  tablespoon of oil; saute scallions and mushrooms. Return pork to pan;
+  sprinkle with thyme.  Add 8-12 oz beer, depending on thickness of cut;
+  bring to boil (the alcohol evaporates and leaves a "malt" flavor, so
+  thedarker the brand, the better). Cover and simmer 8 minutes for thin,
+  15-20 minutes for thick. Spoon sauce over meat to serve. For a richer
+  sauce, add 1-2 tablespoons sour creamjust before serving. From Ann Conway
+  
+  Recipe By     : Concord Hospital Admitting Cookbook
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

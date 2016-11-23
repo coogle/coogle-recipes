@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waldorf Salad</title>
+      <categories>
+        <cat>Bnr</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Apples; cored and diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped celery</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped diamond walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise or salad dressing</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce</item></ing></ingredients>
+    <directions>
+      <step>  In a large bowl sprinkle diced apples with lemon juice. Add celery, walnuts
+  and mayonnaise or salad dressing; toss to coat. Serve on individual
+  lettuce-lined plates.
+  Posted to brand-name-recipes by Beach Princess&lt;barbra@pipeline.com&gt; on Jan
+  23, 1998
+ 
+</step></directions></recipe></recipeml>

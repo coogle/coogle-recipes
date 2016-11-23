@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Free Dressing</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar; cider or wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard; dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Celery seed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dill seed</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit>27</unit></amt>
+        <item>Apr 96 22:29:18 EDT</item></ing></ingredients>
+    <directions>
+      <step>  From: "Lisabeth Crawford (Pooh)" &lt;104105.1416@CompuServe.COM&gt;
+  
+  Source: - Vegetarian Cooking for Diabetics Mix all ingredients together
+  throughly. 1 serving = 1 tbsp Free.
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LISTSERVER
+  
+  MM-RECIPES DIGEST V3 #119
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

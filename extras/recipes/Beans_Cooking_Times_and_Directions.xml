@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beans Cooking Times and Directions</title>
+      <categories>
+        <cat>Beans/legum</cat>
+        <cat>Info</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Text only</item></ing>
+      <ing>
+        <amt>
+          <qty>TABLE</qty>
+          <unit>OF</unit></amt>
+        <item>SOAKING AND COOKING TIMES for BEANS (Approximate)</item></ing></ingredients>
+    <directions>
+      <step>  Adzuki,  soak for 4 hours, cook 1hour
+  Black Beans, soak for 4 hours, cook  1 to 1 1/2 hours
+  Black-eyed Peas, cook 1 to 1 1/4 hours  (No need to soak.)
+  Lima Beans, soak for 4 hours, cook 1 to 1 1/2 hours
+  Cannellini Beans, soak for 4 hours, cook 1 to 1 1/2 hours
+  Chick-Peas, soak for 4 hours, cook for 2 1/2 to 3 hours
+  Dals, cook for 30 minutes (No need to soak)
+  Fava (Broad Beans), soak for 12 hours, cook 3 hours
+  Ful Nabed (Broad Beans), soak for 12 hours, cook 3 hours
+  Great Northern Beans, soak for 4 hours, cook 1 1/2 to 2 hours
+  Brown Lentils, cook 30 to 45 minutes  (No need to soak Lentils)
+  Green Lentils, cook 40 to 50 minutes
+  Red Lentils, cook 30 to 45 minutes
+  Mung Beans, soak for 4 hours, cook 45 minutes to 1 hour
+  Split Peas, cook 45 minutes to 1 hour (No need to soak.)
+  Whole Peas, soak for 4 hours, cook 40 minutes
+  Pigeon Peas, cook 30 minutes (No need to soak.)
+  Pink, Calico, or Red Mexican Beans, soak 4 hours, cook 1 1/2 to 2 hours
+  Pinto Beans, soak for 4 hours, cook 1 1/2 to 2 1/2 hours
+  Red Kidney Beans, soak for 4 hours, cook 1 to 1 1/2 hours
+  White Kidney Beans, (Cannellini), soak for 4 hours , cook 1 hour
+  Small White (Navy) Beans, soak for 4 hours, cook 1 1/2 to 2 hours
+  Soybeans, soak for 12 hours, cook 3 to 4 hours
+  
+  Cooking time for legumes is determined by several factors, including
+  cooking temperature, length of soaking time, the size and age of the beans,
+  and even the altitude at which you live.  The average yield is 2 1/4 to 2
+  1/2 cups cooked legumes for every dry cup used.
+  
+  COOKING TIMES AND YIELDS FOR (1 CUP) WHOLE GRAINS
+  Amaranth, 2 to 3 cups water, cook 20 to25 minutes, yield 2 1/2 cups
+  Barley
+  Pot, 3 1/2 cups water, cook 50 to 55 minutes, yield 3 cups.
+  Pearl, 2 1/2 cups water, cook 40 to 45 minutes, yield 3 cups.
+  Grits, 4 cups water, cook 20 to 25 minutes, yield 3 cups.
+  Buckwheat Groats (Kasha), 2 cups water, cook 15 to 25** minutes, yield 2
+      1/2    cups.
+  Cornmeal, 4 cups water, cook 25, yield 3 cups.
+  Hominy Grits, 4 cups water, cook 25 minutes, yield 3 cups.
+  Millet, 2 to 3* cups water, cook 35 to40 minutes, yield 3 1/2 cups/
+  Oats
+  Whole (Groats), 3 1/2 cups water, cook 50 to 60 minutes, yield 3 cups
+  Steel-Cut, 4 cups water, cook 40 to 45, yield 3 cups.
+  Rolled, 1 1/2 cups water, cook 10***minutes, yield 2 1/2 cups.
+  Quinoa  2 cups water, cook 15 to 20 minutes, yield 3 1/2 cups.
+  Rice
+  Long-Grain; Medium-Grain,1 1/2 to 2 cups water, cook 20 to 30 minutes.
+  Basmati;Wehani, 2 1/2 cups water, cook 35 to 45 minutes, yield 3 cups.
+  Short-Grain; Glutinous (Sweet), 2 cups water, cook 35 to 40 minutes,
+  yield 3 cups.
+  Flaked, 1 1/4 cups water, cook 5 to 8 minutes, yield 2 1/4 cups.
+  Wild, 2 1/2 cups water, cook 40 to 50 minutes, yield 3 cups.
+  Rye
+  Whole (Berries), 3 1/2 cups water, cook 50 to 60 minutes, yield 3 cups.
+  Cracked, 3 cups water, cook 40 to 45 minutes, yield 3 cups.
+  Rolled or Flaked, 2 cups water, cook 15 to20 minutes, yield 3 cups.
+  Teff, 3 cups water, cook 15 to 20 minutes, yield 3 cups.
+  Triticale
+  Whole (Berries), 3 1/2 cups water, cook 50 to 55 minutes, yield 2 1/2 cups.
+  Flaked, 2 cups water, cook 15 to 20 minutes, yield 2 1/2 cups.
+  Wheat
+  Whole (Berries), 3 1/2 cups water, cook 50 to 55 minutes, yield 2 1/2 cups.
+  Bulgar, 2 cups water, cook 30***minutes, yield 2 1/2 cups.
+  Coucous, 2 cups water, cook 15***minutes, yield 3 cups.
+  Cracked, 3 cups water, cook 35 to 40 minutes, yield 2 1/2 cups.
+  Rolled or Flaked, 2 cups water, cook 15 to 20 minutes, yield 2 1/2 cups.
+  
+  * Use the greater proportion of water for a porridge-like consistency.
+  **Use longer cooking time for coarse grinds; use the shorter time for fine.
+  ***Instead of simmering, cover pot and turn off heat.  Allow grain to sit
+  for the time specified.
+  
+  Curtis Jackson, cjackson@mv.us.adobe.com
+  
+  I've just discovered, thanks to an old cookbook, a faster way to cook
+  beans, with very good results. The method is to drop the beans into
+  boiling water sufficiently slowly that the water never stops boiling.  The
+  rational, according to the cookbook, is that the sudden heat ruptures the
+  bean's hull.  Hot water can then easily penetrate and cook the bean.  No
+  pre-soaking is required.  The cookbook also suggests that after getting
+  all the beans in the water, the heat should be turned down to as slow a
+  simmer as possible, because excessive heat causes the proteins in the
+  beans to get tough.  Also, no salt should be added until the beans are
+  cooked, as salt hinders the water from penetrating the bean. I've tried
+  this with red kidney beans and lima beans, and it worked very well.  They
+  both cooked to perfectly done tenderness in 1 hour, with no pre-soaking.I
+  haven't tried it with harder to cook beans, like soybeans.
+  
+  Posted to MC-Recipe Digest V1 #148
+  Date: Fri, 12 Jul 1996 07:38:12 -0400
+  From: kmeade@ids2.idsonline.com (The Meades)
+ 
+</step></directions></recipe></recipeml>

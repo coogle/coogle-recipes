@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pecan Bread</title>
+      <categories>
+        <cat>Abm</cat>
+        <cat>Posted-mm</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Extra large eggs -- lightly</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dairy sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>When beep sounds -- add:</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Banana -- mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans or walnuts -- finely</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped</item></ing></ingredients>
+    <directions>
+      <step>  Into baking pan measure flour, sugar, baking powder, soda, and salt.  Add
+  oil, eggs, sour cream and vanilla.  Insert pan securely into unit; close
+  lid. Select "Cake" setting; press "Start." When beep sounds after about 5
+  minutes, add mashed bananas and nuts.  Press "Start" again.  The "Complete"
+  light will flash when cake is done.
+  
+  Using hot pads, remove pan from unit; pull out kneading rod.  Turn bread
+  out onto cooling rack. Cool; slice thinly to serve. Makes 1 5x4-inch loaf.
+  BANANA-CHOCOLATE CHIP BREAD:  Prepare bread as above through "Cake"
+  setting.  When beep sounds, add mashed banana and 1/3 cup chopped chocolate
+  chips.  Omit nuts.  Continue as directed.
+  
+  From the recipe files of suzy@gannett.infi.net
+  Posted to MM-Recipes Digest V3 #331
+  
+  From: Suzy &lt;suzy@gannett.infi.net&gt;
+  
+  Date: Mon, 2 Dec 1996 20:54:09 -0500 (EST)
+ 
+</step></directions></recipe></recipeml>

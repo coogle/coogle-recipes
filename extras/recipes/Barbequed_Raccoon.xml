@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbequed Raccoon</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Misc</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Racoon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Celery</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cloves</unit></amt>
+        <item>Garlic; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Red onions; quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Apple; quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Hot red peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  BE SURE LYMPH GLANDS OF RACCOON ARE REMOVED!!!  Have someone who is
+  experienced remove the glands as well as the skin. Pull celery apart and
+  wash. Place all ingredients in pot with enough water to cover raccoon.
+  Bring to slow boil and cook until tender or until fork goes in easily,
+  about 1-2 hours depending upon size of raccoon. Remove meat from pot, cut
+  off front and back legs; cut remainder into four pieces. Place on rack,
+  brush with your favorite barbeque sauce. Place in 400 deg. oven; turn and
+  baste frequently with barbecue sauce until a golden brown, 45 minutes to 1
+  hour. Serves 6.
+ 
+</step></directions></recipe></recipeml>

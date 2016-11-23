@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Stix</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Thin bread sticks about 8 inches long.</item></ing></ingredients>
+    <directions>
+      <step>  Dredge one side of each bacon strip in cheese, then roll it around a bread
+  stick cheese-side in. Place all the sticks on a plate lined with paper
+  towel. Microwave 4 - 5 1/2 minutes or until bacon begins to brown. Remove
+  from oven and immediately roll in cheese.
+  
+  These stay crisp for several hours after microwaving and are great with
+  pasta dishes.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Roll-Ups</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese w/chives</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>25</qty>
+          <unit/></amt>
+        <item>Mixed grain sandwich bread</item></ing>
+      <ing>
+        <amt>
+          <qty>25</qty>
+          <unit/></amt>
+        <item>Bacon cut in halves</item></ing></ingredients>
+    <directions>
+      <step>     Combine milk and cheese.  Stir to spreading consistency. Spread about 2
+  teaspoons on each side of bread, thin cut in 2 pieces. Roll bread and wrap
+  with bacon. Place on broiler pan. bake at 350F for 30 minutes or until
+  bacon browns.  These freeze well. thaw before cooking. Yields 50.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

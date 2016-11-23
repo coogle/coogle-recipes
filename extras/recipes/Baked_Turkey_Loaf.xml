@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Turkey Loaf</title>
+      <categories>
+        <cat>Low fat</cat>
+        <cat>Poultry</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Ground turkey</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>medium</unit></amt>
+          <item>Onion; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Celery stalk; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh parsley; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Bell pepper; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Whole-wheat bread crumbs; toasted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Skim milk; or chicken stock</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Egg white; slightly beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Black pepper; freshly ground</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried oregano; crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>mililiters</unit></amt>
+          <item>Garlic; crushed</item></ing></ing-div>
+      <ing-div>
+        <title>PER SERVING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>*cals</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>*mg chol</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>*gm dietary fiber</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>*gm fat</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>*mg sodium</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix all ingredients until just blended.  Do not overmix. Press the mixture
+  into a 4 x 9-inch nonstick loaf pan. Bake at 325F for 45 minutes to 1 hour.
+  Serve hot with Mushroom Glaze (see recipe same name) or serve cold. Makes 6
+  servings.
+  Posted to EAT-L Digest 19 Sep 96
+  
+  Date:    Fri, 20 Sep 1996 08:30:49 -0400
+  
+  From:    Eileen &amp; Bob Holze &lt;beck4@ASAN.COM&gt;
+ 
+</step></directions></recipe></recipeml>

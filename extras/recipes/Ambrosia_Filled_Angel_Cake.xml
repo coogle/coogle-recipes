@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ambrosia Filled Angel Cake</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Angel food cake</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ambrosia filling: --</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Confectioner's sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Crushed pineapple --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Strawberries -- sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded coconut meat</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Blueberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Kiwi fruit</item></ing></ingredients>
+    <directions>
+      <step>  * Purchase a large angel food cake, or use a homemade one.
+  
+  Starting 1 inch down from top, slice the top from cake. Lay aside to use
+  later. Using a serrated knife and a spoon, cut out the inside of the cake,
+  leaving a wall around all sides. Do not cut through to bottom. You will be
+  using the cavity for the filling.
+  
+  FILLING: Whip the cream and the confectioner's sugar until slightly stiff
+  peaks form. Using half the cream, gently fold in the fruit and coconut,
+  leaving out a few blueberries and the kiwi fruit for the top. Stuff the
+  cavity with this fruit filling. Replace the top you earlier cut away.
+  Spread the remaining whipped cream on top and sides of cake; sprinkle a few
+  blueberries around and decorate with overlapping slices of the thinly cut
+  kiwi fruit. Decorate with any other fruit you prefer, and chill for a
+  minimum of 4 hours.
+  
+  Recipe By     : Jo Anne Merrill
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

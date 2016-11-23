@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aargauer Rueblitorte</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>480</qty>
+          <unit>grams</unit></amt>
+        <item>Karotten</item></ing>
+      <ing>
+        <amt>
+          <qty>300</qty>
+          <unit>grams</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit>grams</unit></amt>
+        <item>Griesszucker</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit>grams</unit></amt>
+        <item>Eigelb pasteurisiert</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>deciliter</unit></amt>
+        <item>Milch/Rohmilch, offen</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit>grams</unit></amt>
+        <item>Haselnusse gemahlen</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit>grams</unit></amt>
+        <item>Eiweiss pasteurisiert</item></ing>
+      <ing>
+        <amt>
+          <qty>100</qty>
+          <unit>grams</unit></amt>
+        <item>Griesszucker</item></ing>
+      <ing>
+        <amt>
+          <qty>350</qty>
+          <unit>grams</unit></amt>
+        <item>Weissmehl</item></ing>
+      <ing>
+        <amt>
+          <qty>25</qty>
+          <unit>grams</unit></amt>
+        <item>Backpulver</item></ing>
+      <ing>
+        <amt>
+          <qty>100</qty>
+          <unit>grams</unit></amt>
+        <item>Aprikoture</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit>grams</unit></amt>
+        <item>Fondant weiss</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>deciliters</unit></amt>
+        <item>Zitronensaft</item></ing></ingredients>
+    <directions>
+      <step>  Vorbereitung : - Tortenringe auf ein mit Silikonpapier belegtes Backblech
+  stellen - Karotten waschen, schalen und fein raffeln - Mehl und Backpulver
+  zusammen sieben - Aprikoture erwarmen - Fondant mit Zitronensaft im
+  Wasserbad erwarmen Zubereitung
+  : - Weiche Butter und Zucker schaumig ruhren - Eigelb nach und nach zu der
+  Buttermasse geben - Milch, Haselnusse, und Karotten unter die Masse
+  melieren - Eiweiss und Zucker zu Schnee schlagen und abwechslungsweise mit
+  dem Mehl unter die Masse ziehen - In die Ringe abfullen und bei 190 C
+  backen (Nadelprobe) - Auf ein Gitter sturzen und erkalten lassen -
+  Oberflache Aprikotieren und mit Fondant glasieren
+ 
+</step></directions></recipe></recipeml>

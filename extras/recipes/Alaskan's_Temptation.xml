@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alaskan's Temptation</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>213</qty>
+          <unit>grams</unit></amt>
+        <item>Canned pink Alaska salmon</item></ing>
+      <ing>
+        <amt>
+          <qty>750</qty>
+          <unit>grams</unit></amt>
+        <item>Old potatoes; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Leek washed and thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>150</qty>
+          <unit>mililiters</unit></amt>
+        <item>Skimmed milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Low fat fromage frais</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sunflower oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>grams</unit></amt>
+        <item>Cheddar cheese</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 190 C; 375 F, Gas mark 5. Grease a shallow casserole dish.
+  Drain can of salmon, flake and set aside.
+  
+  Arrange one third of potatoes and half of leeks in casserole dish. Add half
+  the salmon then a further third of potatoes and remaining leeks and salmon.
+  Sprinkle over the cheese and cover with remaining potato. Mix the milk,
+  fromage frais and 1 tablespoon of oil. Season. Pour into casserole. Brush
+  top layer with remaining oil, cover and bake for 45 minutes. Remove cover.
+  Continue baking until brown.
+  
+  Serves 6. Approx. 260 kcals per serving
+  
+  From: On the Wild Side - Alaska Canned Salmon Recipes Reprinted with
+  permission from Alaska Seafood Marketing Institute Meal-Master compatible
+  recipe format courtesy of Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

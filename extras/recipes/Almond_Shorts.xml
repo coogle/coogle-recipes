@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Shorts</title>
+      <categories>
+        <cat>Candies</cat>
+        <cat>Christmas</cat>
+        <cat>Holiday</cat></categories>
+      <yield>168</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar, brown</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds, slivered</item></ing></ingredients>
+    <directions>
+      <step>  Combine sugars, baking soda, vinegar, and vanilla. Stir in eggs. Cut butter
+  into small pieces and work into mixture. Add flour, a cup at a time, and
+  mix well. Knead in almonds. Gather dough into ball and divide into five
+  equal pieces.  Roll each piece into a cylinder. If you wish, roll each
+  cylinder in colored sugar. Wrap in wax paper and refrigerate overnight.
+  
+  Preheat oven to 350.  Cut each log into 1/4" slices. Bake on ungreased
+  cookie sheet for 8 minutes. "This recipe is a tradition in my husband's
+  Swedish family. It makes enough cookies to feed the Swedish Army."
+  
+  Recipe by Sandra Silfven, Detroin News food editor. Source: _Gifts from the
+  Christmas Kitchen_, sent by BEE to Sylvia Steiger (THE.STEIGERS on GEnie,
+  71511,2253 on CI$) for the November 1992 cookbook swap
+ 
+</step></directions></recipe></recipeml>

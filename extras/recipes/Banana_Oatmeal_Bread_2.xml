@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Oatmeal Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Bread maili</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>ROLLED OATS; 1 cup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>EGG; 1</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>SOUR CREAM; 1/4 cup for Welbilt/DAK add 1T water; Welbilt/DAK add 2T</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>BANANA; 2 cups</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ripe and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>BREAD FLOUR; 2 cups</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>WHOLE WHEAT FLOUR; 1 cup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>SALT; 1 teaspoon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>BUTTER; 1 tablespoon</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>HONEY; 2 tablespoons</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>NONFAT DRY MILK; 1 tablespoon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>CINNAMON; 1/2 teaspoon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>NUTMEG; 1/4 teaspoon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>ACTIVE DRY YEAST; 2 teaspoons</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(for all machines) for Panasonic/National, use 4 tsp yeast</item></ing></ingredients>
+    <directions>
+      <step>  Crust: Light Menu selection: Bake (light)
+  
+  1.  Place all ingredients in bread pan, select Light Crust setting,
+    and press Start. 2. After the baking cycle ends, remove bread from pan,
+  place on cake rack, and allow to cool 1 hour before slicing.
+  
+  &gt;From: Ruth C Perry &lt;perryrc@battelle.org&gt;
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+ 
+</step></directions></recipe></recipeml>

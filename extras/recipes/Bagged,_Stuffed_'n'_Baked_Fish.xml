@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bagged, Stuffed 'n' Baked Fish</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fish, (4 lb) dressed, split</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>&amp; boned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Melted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Seasoned stuffing</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Minced fresh parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded carrots</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Brown-in-bag</item></ing></ingredients>
+    <directions>
+      <step>  Wipe fish with damp cloth; set aside. Shake flour into empty
+  brown-in-bag. Sprinkle fish inside &amp; out with salt &amp; pepper. Combine
+  1/4 cup butter, stuffing, onion, parsley &amp; carrots: stuff cavity &amp;
+  secure opening with toothpicks or bind with soft string. Place
+  stuffed fish in bag; brush with remaining butter &amp; sprinkle outside
+  with paprika. Close bag loosely with twist tie about 2" from fish.
+  (Bag should fit loosely over food.) Puncture six 1" slits in top of
+  bag with paring knife. (These allow air &amp; water vapors to escape from
+  bag.) Cook in 350 oven about 1 hour. Remove pan from oven; allow to
+  sit &amp; cool several minutes. To remove fish, slit open top of bag with
+  paring knife or scissors. (Steam escapes when bag is split, so use
+  care not to burn yourself.) Remove fish to serving platter.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

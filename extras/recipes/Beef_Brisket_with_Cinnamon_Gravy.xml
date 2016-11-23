@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Brisket with Cinnamon Gravy</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef brisket</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Peeled &amp; sliced onions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Med sweet potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Beef broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Celery seed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>(3") cinnamon sticks,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water</item></ing></ingredients>
+    <directions>
+      <step>  Trim any separable fat from brisket; place in roasting pan. Cover
+  brisket with onions. Peel &amp; quarter sweet potatoes &amp; surround brisket
+  with them. Combine broth, celery seeds, cinnamon sticks &amp; pepper;
+  pour over brisket. Cover tightly &amp; bake in 325 oven for 3 1/2 hours
+  or until meat is tender. Remove beef to warm platter, reserving
+  juices. Strain pan juices &amp; skim off fat from top. Measure out 2
+  cups. Combine cornstarch &amp; water in saucepan. Add broth &amp; bring to
+  boil, stirring constantly. Cook &amp; stir, until thickened. Slice
+  brisket thinly across grain &amp; serve with gravy &amp; vegetables. Wine
+  Suggestion: Merlot or Cabernet Sauvignon.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

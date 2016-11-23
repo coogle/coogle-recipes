@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Chocolate Pecan Pie</title>
+      <categories>
+        <cat>Pies &amp;</cat>
+        <cat>Pastries</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Whole eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Chocolate; squares</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt; pinch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pecans</item></ing></ingredients>
+    <directions>
+      <step>  Pastry for a one-crust pie.
+  
+  1. Make the pastry, roll it out, and use it to line a 9" pie pan.
+  
+  2. Beat the eggs well, add the sugar, and continue to beat until light and
+  creamy. Add the melted butter and the chocolate. Stir in the salt and lemon
+  juice. Add the pecans and pour the filling into the unbaked pei shell.
+  
+  3. Bake in a 375 deg F oven for 30 minutes, or until set.
+  
+  Serving Ideas : Serve warm with whipped cream
+  
+  NOTES : Big Chocolate Cookbook........Gertrude Parke
+  
+  Recipe by: Suzy-Q Lewis
+  
+  Posted to Bakery-Shoppe Digest V1 #488 by "hlewis@cci-29palms.com"
+  &lt;hlewis@cci-29palms.com&gt; on Jan 4, 1998
+ 
+</step></directions></recipe></recipeml>

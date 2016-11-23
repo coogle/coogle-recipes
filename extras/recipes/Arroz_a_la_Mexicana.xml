@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz a la Mexicana</title>
+      <categories>
+        <cat>Rice</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Unpolished long-grain rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken fat or vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Casera sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Homemade chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; freshly ground black pepper</item></ing></ingredients>
+    <directions>
+      <step>  1. Wash &amp; rinse rice in several changes of water to remove excess starch.
+  Spread on cookie sheet to dry.
+  
+  2. Saute rice in fat in large cast-iron frying pan until grains are
+  uniformly light brown.
+  
+  3. Reduce heat to very low &amp; stir in remaining ingredients. Press a sheet
+  of tin foil over the rice &amp; cover w/ heavy lid.
+  
+  4. Cook over low heat for 20 min. Do not uncover the pan or stir. Make sure
+  the pan is correctly centered over the flame. When the rice is cooked,
+  fluff w/ a fork &amp; correct the seasoning before serving.
+  
+  CASA ROMERO
+  
+  GLOUCESTER ST.; BOSTON
+  
+  BEV:CARTA BLANCA OR DOS EQUIS
+  
+  From the &lt;Micro Cookbook Collection of Mexican Recipes&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

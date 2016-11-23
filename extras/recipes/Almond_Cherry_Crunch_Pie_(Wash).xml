@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Cherry Crunch Pie (Wash)</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Cherry pie filling; up to 4</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Corn starch</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>drops</unit></amt>
+          <item>Almond flavoring</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Finely chopped almonds</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; melted</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 350.
+  
+  Mix pie filling, corn starch and almond flavoring. Pour into unbaked pie
+  crust Combine almonds, brown sugar and flour. Stir in melted butter until
+  mixture is crumbly. Crumble mixture on top of pie.
+  
+  Bake about 30 to 40 minutes, until topping is golden brown.
+  
+  Source: Barbara Williams, Coasting &amp; Cooking Bk #4 -- Washington &amp; Oregon,
+  1997. ISBN:0-9609950-2-1
+  
+  Typed and MC_Busted for you by Brenda Adams &lt;adamsfmle@sprintmail.com&gt;
+  
+  Recipe by: Plaza Fountain, Port Twonsend, Wash.
+ 
+</step></directions></recipe></recipeml>

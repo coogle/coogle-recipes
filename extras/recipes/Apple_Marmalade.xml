@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Marmalade</title>
+      <categories>
+        <cat>Condiments</cat>
+        <cat>Jams</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit/></amt>
+        <item>Lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Bottle fruit pectin</item></ing></ingredients>
+    <directions>
+      <step>  Pare and slice apples.  Add just enough water to prevent sticking. Cover
+  and cook until apples are soft. Add grated rind and juice of lemon, and
+  sugar. Heat to boiling, stirring constantly. Boil hard 1 minute. Remove
+  from fire.  Add fruit pectin. Stir 1 minute. Skim. The Household
+  Searchlight
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

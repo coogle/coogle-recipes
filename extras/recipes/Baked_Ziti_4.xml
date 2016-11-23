@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ziti</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Casseroles</cat>
+        <cat>Microwave</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Pk. ziti (Pasta), cooked conventionally</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Italian Tomato Sauce(recipe)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded mozzarella cheese</item></ing></ingredients>
+    <directions>
+      <step>  1. In a deep, 2-quart, heat-resistant, non-metallic casserole combine ziti,
+  tomato sauce and 1/3 cup shredded cheese. 2. Sprinkle remainder of cheese
+  on top of casserole and heat- uncovered, in Microwave Oven 5 to 8 minutes
+  or until cheese is melted and sauce is bubbly.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

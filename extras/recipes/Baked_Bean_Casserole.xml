@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Bean Casserole</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat>
+        <cat>Casseroles</cat>
+        <cat>Microwave</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Old fashioned baked beans</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>In molasses &amp; brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sauce, canned</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing></ingredients>
+    <directions>
+      <step>  1. Place bacon on a paper-towel-lined paper plate. Heat, covered with paper
+  toweling, 3 minutes or until crisp. 2. In a deep, 1 1/2-quart,
+  heat-resistant, non-metallic casserole combine beans, onion, catsup,
+  mustard and brown sugar. Mix thoroughly. 3. Crumble bacon and sprinkle over
+  baked bean mixture. 4. Heat, uncovered, in Microwave Oven 10 minutes or
+  until sauce is bubbly. Variation: Add 6 franks or 4 slices ( 1/2-inch
+  thick) ham and heat an additional 2 minutes in Step 4.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

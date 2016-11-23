@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot-Honey Butter</title>
+      <categories>
+        <cat>Dairy</cat>
+        <cat>Fruits</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Dried apricots (2 lbs)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated lemon zest</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely chopped crystallized</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ginger</item></ing></ingredients>
+    <directions>
+      <step>  In a heavy saucepan, combine apricots, lemon zest, 1/4 cup lemon juice and
+  2 cups water. Bring to a boil. Reduce heat to low and simmer, uncovered,
+  for 45 minutes to 1 hour, or until the apricots are soft. Transfer the
+  apricots and the cooking liquid to a food processor and puree until smooth.
+  Return to the saucepan, along with honey and the remaining 1/4 cup lemon
+  juice. Simmer, stirring often, until very thick, about 1 hour. Stir in
+  crystallized ginger and let cool. (The butter can be stored, covered, in
+  the refrigerator for up to 2 weeks or in the freezer for up to 6 months.)
+  Source: Eating Well Magazine
+  :          November/December 1992
+  :          Pg.68
+  
+  From the collection of K. Deck
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Bean Dip</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Sauces/dips</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Cream cheese; softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Refried beans</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Taco spice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Onion; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>drops</unit></amt>
+          <item>Tabasco suace</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>drops</unit></amt>
+          <item>Tabasco sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cheddar cheese; shredded and divided</item></ing></ing-div>
+      <ing-div>
+        <title>ACCOMPANIMENTS</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Large Fritos</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cobine all ingredients except 1/2 cup of the shredded cheddar cheese.
+  
+  Spread into an 8x8x2 pan.  Sprinkle remaining cheese over the top. Bake at
+  350 for 30 minutes.  Serve with large Fritos.
+  Contributor:  Carol Osenga
+  
+  Posted to MM-Recipes Digest  by lena36@juno.com (Lena P Mitchell) on Mar 9,
+  1998
+ 
+</step></directions></recipe></recipeml>

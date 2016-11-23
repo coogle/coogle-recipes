@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amazon Chocolate Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Unsweetened, good quality</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cocoa</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Plus 2 Tbs corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White vinegar or lemon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice</item></ing></ingredients>
+    <directions>
+      <step>  Mix the flour, cocoa, baking soda and salt together and then sift the
+  mixture. In a separate bowl mix the water, corn oil vanilla and
+  vinegar or lemon juice. The whisk the wet and dry mixtures together.
+  Pour through a strainer into a clean bowl, breaking up and pressing
+  through any lumps. Mix again and the pour the mixture into a greased
+  9 x 13 x 2-inch pan. Tap the edge of the pan against the counter or,
+  for more fun but comparable results, drop the entire pan from a
+  height of about 6-inches onto the counter top or the floor a few
+  times to pop and dislodge any air bubbles. Bake at 350 degrees for 25
+  to 30 minutes.
+  
+  Trust this recipe. The omission of eggs or butter is not an
+  oversight. And you must pop the air bubbles as directed. I've had
+  this cake several times and it IS good! Now, if you don't think this
+  is OINKY enough, check out the following variation:
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

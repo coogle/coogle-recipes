@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Glazed Chicken</title>
+      <categories>
+        <cat>Crockpot</cat>
+        <cat>Poultry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apricot preserves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Bottled russian dressing</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Envelope onion soup mix</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Frozen chicken breasts; (not thawed)</item></ing></ingredients>
+    <directions>
+      <step>  Mix the first 3 ingredients together. Place chicken in crock pot and cover
+  with apricot mixture. Cook on low 5 to 6 hours.
+  Posted to recipelu-digest Volume 01 Number 342 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Dec 05, 1997
+ 
+</step></directions></recipe></recipeml>

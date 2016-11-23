@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Indian Spice Turkey</title>
+      <categories>
+        <cat>Indian</cat>
+        <cat>Poultry</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Turkey breast, boned and halved, partially frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Plain nonfat yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced seeded jalapeno chili</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>dashes</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Garlic powder</item></ing></ingredients>
+    <directions>
+      <step>  Trim halved turkey breast slices of all fat and skin. Butterfly meat by
+  using a sharp knife, starting in center of one long side and cutting in
+  half to within 1/2" of second long side; open meat like a book (using
+  partially frozen turkey makes this process easier). Set meat flat on a
+  platter.
+  
+  Mix together yogurt, chili, cumin, pepper, nutmeg, and garlic powder in a
+  small bowl.  Rub mixture over turkey, cover, and chill overnight (or at
+  least 2 hours).
+  
+  Prepare barbecue.  Grill meat 4 inches from heat source until cooked
+  through, about 4-6 minutes per side. Let stand for 5 minutes, then cut
+  diagonally into slices. Serve with a rice salad. Makes about 6 servings.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

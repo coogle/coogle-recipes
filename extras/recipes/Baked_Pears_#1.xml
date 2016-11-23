@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pears #1</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Pears; anjou or comice or what-have-you</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit>Lu</unit></amt>
+        <item>Bozinovich &lt;U33754@uicvm.uic.edu&gt;</item></ing></ingredients>
+    <directions>
+      <step>  Date: Sat, 23 Apr 1994 14:29:53 GMT
+  
+  Scrub fruit, cut in half, place face down on oiled pie tin. Bake 400 F
+  until well done. Eat.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /FRUIT
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

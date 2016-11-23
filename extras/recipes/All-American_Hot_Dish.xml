@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-American Hot Dish</title>
+      <categories>
+        <cat>Hamburger</cat>
+        <cat>Main dish</cat>
+        <cat>Meats</cat>
+        <cat>Vegetables</cat>
+        <cat>Cheese</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Lean Ground Beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; Chopped, 1 Md</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Whole Kernel Corn, 1 Cn</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato Sauce; 1 Cn</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Ripe Olives; Pitted, Halved</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Noodles; Uncooked, Abt 2 C</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano Leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cheddar Cheese; Shredded</item></ing></ingredients>
+    <directions>
+      <step>  Cook and stir the meat and onion in a large skillet until the meat is
+  brown.  Drain off the excess fat.  Stir in the UNDRAINED corn and the rest
+  of the ingredients.
+  
+  TO COOK IN A SKILLET:
+  
+  Heat the mixture to boiling then reduce the heat and simmer, uncovered,
+  stirring occasionally, until the noodles are tender, about 20 minutes.
+  Serve hot.
+  
+  TO COOK IN THE OVEN:
+  
+  Pour the mixture into an ungreased 2-quart casserole.  Cover and bake in a
+  375 degree F. oven for 30 minutes, stirring occasionally.  Uncover and
+  bake until the mixture thickens, about 15 minutes.  Serve hot.
+ 
+</step></directions></recipe></recipeml>

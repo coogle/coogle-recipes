@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potato Wedges</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Melted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>dashes</unit></amt>
+        <item>Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing></ingredients>
+    <directions>
+      <step>  Scrub potatoes. Do not peel. Cut each potato lengthwise in quarters. Stir
+  together melted butter, garlic powder and parsley. Arrange potatoes skin
+  side down on a shallow baking pan. Brush seasoned butter over cut surfaces
+  of potatoes. Sprinkle with salt and pepper. Bake, uncovered, at 400 degrees
+  for about 1 hour or until golden brown and tender when pierced.
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 17, 1998
+ 
+</step></directions></recipe></recipeml>

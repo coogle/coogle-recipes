@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fish with Vegetable Casserole</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Carrots; sliced very thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Fish; halibut, cod, trout, etc</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Potatoes; halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken broth or bouillon cube</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Cheese (optional)</item></ing></ingredients>
+    <directions>
+      <step>    Preheat oven to 400 degrees. Arrange in large baking pan, carrots,
+  potatoes, onions, parsley, salt and pepper. Place fish on vegetables;
+  slightly season fish first.
+  
+    In sauce pan, heat chicken broth, butter and lemon juice until butter
+  melts, mix well. Pour sauce over fish and vegetables. Arrange bacon slices
+  over fish.
+  
+    Bake one hour or until carrots are tender.
+  
+    Optional: Slices of cheese can be spread over casserole before baking.
+  Serves 4 to 6.
+  
+  From &lt;A Taste of Louisiana&gt;.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

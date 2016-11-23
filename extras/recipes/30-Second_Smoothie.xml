@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>30-Second Smoothie</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Posted</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>USA WEEKEND 9/2-4/1994</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Nonfat yogurt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Ice cubes; more if desired</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Whip in blender until frothy.
+  
+  Variation: for 1 c orange juice, substitute 1 banana or 1 c blueberries,
+  strawberries, raspberries, pineapple, or sliced peaches. Or substitute
+  frozen fruit for the ice.
+  
+  Nutritional information per serving: 237 calories, 15 gm protein, xx mg
+  cholesterol, 43 gm carbohydrate, 175 mg sodium, 1 gm fiber, 1 gm fat (0.3
+  gm sat, x gm mono, x gm poly), x.x mg iron, xx mg calcium, x% of calories
+  from fat.
+  
+  MM tyops by Sylvia Steiger, GEnie THE.STEIGERS, CI$ 71511,2253, Internet
+  sylvia.steiger@lunatic.com, moderator of GT Cookbook and PlanoNet Lowfat &amp;
+  Luscious echoes
+  
+  From: Honn Date: 06-05-95
+  Posted to brand-name-recipes by "Christopher E. Eaves" &lt;cea260@airmail.net&gt;
+  on Apr 02, 1998
+ 
+</step></directions></recipe></recipeml>

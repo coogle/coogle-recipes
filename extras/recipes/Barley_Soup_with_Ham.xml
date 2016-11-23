@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley Soup with Ham</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Carrots, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ribs celery, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pearl barley</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Imported bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced smoked ham</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh mushrooms, trimmed and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh parsley leaves, minced</item></ing></ingredients>
+    <directions>
+      <step>  Put the oil and onion in a soup kettle, set over low heat, and cook until
+  the onions are softened, about 5 minutes. Raise heat to medium, stir in the
+  garlic and carrots, and stir-cook for one minute. Add the celery and
+  stir-cok for a minute.  Add the barley, broth, bay leaf, and allspice.
+  Bring to the boil, skimming the top of the soup as necessary. Simmer,
+  covered, for about one hour, or until the barley is tender. (The soup may
+  be prepared in advance to this point.)
+  
+  Stir the ham into the piping hot soup and let simmer while you prepare the
+  mushrooms.  Heat the butter in a small skillet, add the mushrooms and lemon
+  juice, and stir-cook for 2 to 3 minutes. Stir in the parsley. Add the
+  mushroom mixture to the soup and simmer for 5 minutes longer. Discard the
+  bay leaf.  Season the soup with salt and freshly- ground pepper to taste.
+  Ladle into warmed bowls and serve immediately.
+  
+  Makes 5 servings.
+  
+  [WASHINGTON POST  Jan 11, 1989] Posted by Fred Peters.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

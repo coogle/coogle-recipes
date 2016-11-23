@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cake #3</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Mashed ripe banana</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking soda; dissolved In:</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Mashed bananas</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Soft margarine</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Confectioner's sugar; for Spreading consistency</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lemon juice; optional</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine sugar, shorteing and egg. Ad mashed banana, baking soda and water.
+  Add flour, baking powder, salt and vanilla. Mix well. Bake in a greased and
+  floured 9x9" baking pan at 350 F. for 30-35 minutes or until cake tests
+  done. Cool. Frost with banana frosting or use lemon or orange frosting.
+  Banana Frosting: Mash banana. Add vanilla and margerine. Add sugar to make
+  correct consistency for spreading. Can add dash lemon juice to add
+  tartness.
+  
+  Date: Wed, 26 Jun 1996 13:17:19 -0400
+  
+  From: bobbi744@sojourn.com (Roberta Banghart)
+  
+  Recipe By     : Mom Dye's Recipe/R. Banghart
+  
+  MC-Recipe Digest V1 #130
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>123 Meatloaf</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>HAMBURGER</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>EVAPORATED MILK</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>ONION SOUP MIX</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients together and put in loaf pan.  Bake at 350 for about 1
+  hour or until done.  Top with tomato sauce or ketchup.
+  
+  Variation:  Put cheese and/or mushrooms in middle of meatloaf.  Nice
+  Change.
+  Posted to MM-Recipes Digest V5 #017 by "The Mitchell's " &lt;dabulls@usa.net&gt;
+  on Jan 17, 1998
+ 
+</step></directions></recipe></recipeml>

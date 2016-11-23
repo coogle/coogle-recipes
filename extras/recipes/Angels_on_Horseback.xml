@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angels on Horseback</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Large fresh oysters</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon, cut in half</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh parsley, chopped</item></ing></ingredients>
+    <directions>
+      <step>  Drain oysters.  Lay an oyster across 1/2 slice bacon. Sprinkle each oyster
+  with seasonings and parsley. Roll entire strip of bacon around oyster and
+  fasten with toothpicks. Place oyster on a rack in a shallow baking dish.
+  Bake in 450 degree oven for 10 minutes, or until bacon is crisp. Remove
+  toothpicks and serve.
+  
+  From: Rare Collections, by the Junior League of Galveston
+  
+  Food &amp; Wine RT [*] Category 2, Topic 2 Message 225 Thu Feb 11, 1993
+  YLR.ROSE [Cafe Queen]        at 16:36 EST
+  
+  MM by QBTOMM and Sylvia Steiger, GEnie THE.STEIGERS, CI$ 71511,2253, GT
+  Cookbook echo moderator at net/node 004/005
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Vegetable Platter</title>
+      <categories>
+        <cat>Vietnamese</cat>
+        <cat>Appetizers</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Soft lettuce leaves; (Boston or similar, not (iceberg)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh mint leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh coriander (Chinese parsley)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cucumber *</item></ing></ingredients>
+    <directions>
+      <step>  * peeled in lengthwise strips and with green strips in between, then
+  cut in half lengthwise and into thin horizontal slices, forming
+  semi-circles.
+  
+  A salad or vegetable platter is a very important part of a Vietnamese
+  meal; indeed, it is served at practically every one.  The vegetables,
+  which are eaten along with many dishe, are arranged on a platter, and
+  diner helps himself to whatever he desires.  In Vietnam we used many
+  more vegetables and herbs than we can find in the West.  But, in
+  spite of that, the following platter makes a satisfactory
+  accompaniment to the dishes we have prepared for this book.  All
+  vegetables and herbs are those served in Vietnam, except that the
+  variety is smaller.
+  
+  Arrange a mound of lettuce in the center of a platter.  Around the
+  lettuce, and touching it, arrange separate mounds of mint and
+  coriander.
+  
+  Arrange the cucumbers in overlapping slices around the complete outer
+  rim of the platter.
+  
+  This is the basic arrangement of the vegetable platter.  On those
+  occasions when a recipe calls for another vegetable, it can be added
+  to this platter.
+  
+  Makes 8 servings.
+  
+  From "The Classic Cuisine of Vietnam", Bach Ngo and Gloria Zimmerman,
+  Barron's, 1979.
+  
+  Posted by Stephen Ceideberg; May 24 1993.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

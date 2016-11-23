@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Curd with a Deliciously Spicy Sauce</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Vegan</cat>
+        <cat>Chinese</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chili paste with soy bean</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chinese thin soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves peeled and minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Very finely minced ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Scallions very finely sliced into rounds, including 3/4 of the green</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bean curd cut into 1-inch cubes</item></ing></ingredients>
+    <directions>
+      <step>  Prepare the sauce.  Put the cornstarch in a small bowl.  Slowly add
+  the vegetable stock, mixing as you do so.  Now add the chili paste,
+  soy sauce, sesame oil, salt, and sugar.  Mix again.  Set the sauce
+  aside.
+  
+  Heat the vegetable oil in a wok over a medium high flame.  When hot,
+  put in the garlic and ginger.  Stir and fry for 5 seconds.  Put in
+  the bean curd. Stir and fry for 1 minute.  Turn heat to low.  Stir
+  the sauce and pour it over the bean curd.  Mix gently and bring to a
+  simmer.  Let the sauce thicken, stirring gently every now and then as
+  it does so.
+  
+  Source: Madhur Jaffrey's World-of-the-East Vegetarian Cooking
+  Typed for you by Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/vegan4.zip
+ 
+</step></directions></recipe></recipeml>

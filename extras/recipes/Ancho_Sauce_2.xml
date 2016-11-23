@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ancho Sauce</title>
+      <categories>
+        <cat>Salsa</cat>
+        <cat>Mexican</cat>
+        <cat>Sauces</cat>
+        <cat>Tex-mex</cat>
+        <cat>Tomatoes</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Dried ancho chilies</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt; (or to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Peeled; seeded and finely chopped tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tumeric</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Garlic cloves; minced</item></ing></ingredients>
+    <directions>
+      <step>  Seed and stem chilies under cold running water. Break into one-inch pieces.
+  Place in medium bowl. Add boiling water and soak one hour.
+  
+  Strain chilies through sieve, reserving liquid. Add tomatoes, garlic, salt,
+  oregano, cumin and tumeric, and blend well. Pour mixture into heavy small
+  saucepan. Add one cup reserved soaking liquid. Bring to boil, stirring
+  constantly. Reduce heat and simmer until sauce thickens and coats spoon,
+  ten to fifteen minutes. Serve at room temperature. From Bon Appetit, Dec
+  '85.
+  
+  Makes 2 cups
+  Posted to MC-Recipe Digest V1 #1061 by shade &lt;liveoak@polaris.net&gt; on Jan
+  29, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Chicken Burritos</title>
+      <categories>
+        <cat>Crs</cat>
+        <cat>Low-fat</cat>
+        <cat>Healthy</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Flour tortillas 7-8"</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fat free refried beans</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>slices</unit></amt>
+        <item>Deli chicken breast (3 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Shredded reduced fat cheddar cheese (1/2 c.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Salsa</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 400. Spread 1/4 cup refried beans evenly onto each tortilla.
+  Place 2 slices chicken and 2 tablespoons cheese down the center 1/3 of each
+  tortilla; fold sides over filling. Place, folded side down, on an ungreased
+  cookie sheet. Bake at 400 6-8 minutes or until throoughly heated. Serve
+  topped with lettuce and salsa.
+  
+  Per serving: 240 cal., 15g pro., 32g carb., 5g fiber, 6g fat, 19mg chol.,
+  890mg sod., 180mg pot., 2 starch and 1 1/2 lean meat exchanges.
+  
+  Fast and Healthy Jan/Feb 95 Typed by Carolyn Shaw 1-95
+  
+  Posted to MealMaster Recipes List, Digest #154
+  
+  Date: Sun, 02 Jun 1996 17:20:44 -0400
+  
+  From: Helene Rotondo &lt;Helene.Rotondo@csionline.com&gt;
+ 
+</step></directions></recipe></recipeml>

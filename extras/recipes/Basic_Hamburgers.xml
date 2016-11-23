@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Hamburgers</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat>
+        <cat>Hamburgers</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Ground Beef</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Onion; Finely Chopped, 1 sm.</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water Or Evaporated Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Worcestershire Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Pepper</item></ing></ing-div>
+      <ing-div>
+        <title>VARIATIONS</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Horseradish</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Mustard; Prepared</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chives; Snipped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Blue Cheese; Crumbled, *</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sesame Seed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Ripe Olives; Chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dill Pickle; Chopped, OR</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Pickle Relish</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Nuts; Chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  *  You should use only enough Blue Cheese to suit your own taste.
+  Mix all ingredients (including those in the variations that you choose)
+  together.  Shape mixture into 6 patties, each about 3/4-inch thick.  Broil
+  or grill patties 4-inches from the heat, turning once, to desired
+  doneness, 10 to 15 minutes.  Nice served on toasted buns with favorite
+  toppings.
+ 
+</step></directions></recipe></recipeml>

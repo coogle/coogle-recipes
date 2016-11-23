@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Orange Softies</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1 2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Mashed ripe banana (about 3 large bananas)</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine or butter softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Grated orange peel</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Quaker Oats, uncooked (quick or old-fashioned)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Raisins</item></ing></ing-div>
+      <ing-div>
+        <title>ORANGE ICING</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Grated orange peel</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat oven to 350 F.  Combine bananas, margarine and orange juice.  Blend
+  in eggs, vanilla and orange peel.  Add combined dry ingredients and
+  raisins; mix well.  Drop by rounded teaspoonfuls onto ungreased cookie
+  sheet.  Bake 20 to 22 minutes or until light golden brown.  Cool 1 minute
+  on cookie sheet; remove to wire rack.  Drizzle icing over cooled cookies.
+  Store tightly covered.
+  
+  ORANGE ICING: Combine 3/4 cup powdered sugar, 4 to 5 teaspoons orange
+  juice and 1 teaspoon grated orange peel.  Mix until smooth.
+  
+  NUTRITIONAL ANALYSIS per serving:
+  * calories 138
+  * carbohydrates 19 g
+  * protein 2 g
+  * fat 6 g
+  * calcium 9 mg
+  * sodium 70 mg
+  * cholesterol 20 mg
+  * dietary fiber 1 g
+  
+  Source: "Hurry, Let's Eat!"
+  Reprinted with permission from The Quaker Oats Company
+  Electronic format courtesy of Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/quaker03.zip
+ 
+</step></directions></recipe></recipeml>

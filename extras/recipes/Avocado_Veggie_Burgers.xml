@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Veggie Burgers</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Sized avocado</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cooked soybeans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>small</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato puree</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whole wheat bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>  1. Mix all the ingredients except bread crumbs together in a blender or
+  food processor, and blend until smooth. Put mixture into a bowl and add
+  bread crumbs until the mixture sticks together enough to be formed into
+  patties
+  
+  2. Make two burger shaped patties and fry in oil until they're browned.
+  Serve on buns with your favorite burger fixings!
+  
+  MEANANTI@CWIS.ISU.EDU
+  
+  (MEANS_ANTIGONE_M)
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

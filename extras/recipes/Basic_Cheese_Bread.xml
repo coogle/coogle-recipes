@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cheese Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Cheese brea</cat>
+        <cat>Salute</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lukewarm water</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour; sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Env</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Sharp cheddar; grated (2</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk cups)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Lukewarm water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar salad oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt active dry yeast</item></ing></ingredients>
+    <directions>
+      <step>  Place 1/4 cup lukewarm water in small bowl; sprinkle yeast over it, and sti
+  Knead dough with fingers, punching and turning over and over, until it is a
+  Clean out the mixing bowl, wash with soapy water, dry, then rub with shorte
+  Cover it with a clean towel, place bowl in a warm place; near the range or
+  Remove risen dough from bowl with greased hands, turn out on floured counte
+  VARIATIONS: o Instead of grated Cheddar, use 2 cups caraway cheese,
+  domestic or import o Use 2 cups of a spiced cheese like Leyden, in place of
+  Cheddar. o Add 1 cup crumbled blue cheese and 1 cup mild Cheddar or Brick
+  instead o From: A Salute to Cheese, by Betty Wason, Hawthorn Books, Inc.,
+  1966. Posted by June Hoffman, 8/93 Converted by MMCONV vers. 1.10
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

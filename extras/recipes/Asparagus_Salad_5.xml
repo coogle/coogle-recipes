@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>To post</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce Leaves Of Your Choice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Asparagus Cuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Avocado, peeled and cubed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Blue Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Croutons</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Italian Dressing</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt And Pepper, to taste</item></ing></ingredients>
+    <directions>
+      <step>  No amounts are given because it depends on the number you wish to serve.
+  One avocado and one can of cut asparagus with reasonable amounts of the
+  other ingredients will feed 6 to 8 people. Use dressing sparingly; put a
+  little in the bottom of the salad bowl and toss from the bottom up. Add
+  more dressing if leaves are not lightly coated. Season to taste with salt
+  and pepper and add croutons before seasoning.
+  
+  Serves: 6 to 8
+  
+  Source: "Mountain Measures", Junior League of Charleston, WV. ed. 1974
+  
+  Recipe by: Mrs. Edward L. Sherwood Posted to MC-Recipe Digest V1 #616 by
+  Bill Spalding &lt;billspa@icanect.net&gt; on May 16, 1997
+ 
+</step></directions></recipe></recipeml>

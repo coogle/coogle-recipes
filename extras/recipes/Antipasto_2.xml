@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antipasto</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Iceberg lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(Large) Italian tuna,*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small jar roasted red -</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small jar green vinegar -</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peppers,**</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peppers</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tomatoes, cut in wedges</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pitted black olives</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Green olives w/Pimento</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Provolone cheese,***</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Imported ham****</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Genoa Salami****</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mortadella****</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepperoni (large slices)****</item></ing></ingredients>
+    <directions>
+      <step>  *packed in olive oil
+  **packed in vinegar and oil
+  ***sliced, slices cut in half
+  ****Sliced Italian cold cuts, rolled lengthwise
+  On platter, arrange lettuce, leaving a hole in the middle large enough to
+  hold the can of tuna. Drain oil from the can over the lettuce, then place
+  tuna in the middle of platter.
+  Divide platter into sections, placing 1/2 slice of cheese in each section.
+  On top of cheese, place 1 rolled slice of each type of meat.
+  Drain liquid from red pepper jar over all, then randomly place peppers,
+  olives, and tomatoes around the platter. Salt and pepper to taste, then
+  pour more olive oil over all.
+  Eat heartily, accompanied by much loud Italian conversation. In fact, I
+  typed this accompanied by much loud Italian conversation. My parents were
+  here, and both were shouting instructions over my shoulder. They disagreed
+  about the arrangement of the lettuce - my mother said that the hole in the
+  middle of the platter was necessary; my father insisted that it wasn't,
+  saying you can just dump the tuna on top of the lettuce. I finally had to
+  give up on this reply until they went home. So now, in the peace and quiet
+  of the aftermath, I've finished it. Hope you had a wonderful holiday.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

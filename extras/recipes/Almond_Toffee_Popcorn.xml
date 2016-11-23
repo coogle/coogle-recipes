@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Toffee Popcorn</title>
+      <categories>
+        <cat>Snacks</cat>
+        <cat>Popcorn</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>White corn syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Almonds; chop; toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Popcorn; popped</item></ing></ingredients>
+    <directions>
+      <step>  In heavy saucepan, combine sugar, butter, corn syrup, water and almonds.
+  Cook over a moderate heat to 280~ on a candy thermometer. Add the vanilla.
+  Stir well and pour over the popped corn.
+  Posted to recipelu-digest Volume 01 Number 652 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 31, 1998
+ 
+</step></directions></recipe></recipeml>

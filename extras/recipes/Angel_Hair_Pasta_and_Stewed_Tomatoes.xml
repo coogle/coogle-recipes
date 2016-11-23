@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Pasta and Stewed Tomatoes</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box angel hair pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Stewed tomatoes juice from one lemon (small)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Broccoli, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves garlic, chopped up fine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh oregono</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Thyme</item></ing></ingredients>
+    <directions>
+      <step>  Cook pasta.  Cook broccoli (steam or boil).  Mix pasta, broccoli and rest
+  of ingrediants.  Its that easy and tastes great! I'll be having it for
+  lunch today. Shared by Johnathan Adams
+  
+  From Genie F&amp;W Library FFD9403.TXT Recipes from the Fat Free Digest From
+  Fatfree Digest April-May 1994, Formatting by Sue Smith (using MMCONV)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

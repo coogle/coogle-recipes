@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Pie</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Pies &amp; past</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cans</unit></amt>
+          <item>Apricots -- 16 oz each,</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>dashes</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Lemon Juice</item></ing></ing-div>
+      <ing-div>
+        <title>PASTRY</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Ice Water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  For filling: Heat oven to 375 deg F. Drain apricots; reserve 1/3 C syrup.
+  In a saucepan, stir together sugar, flour, spices and salt. Add reserved
+  syrup; cook until thickened; remove from heat and add butter, lemon juice
+  and apricots.  Pour mixture into prepared, pastry-lined pie pan. Place top
+  crust; crimp to seal; cut slits in top. Bake for 45 min.
+  
+  Pastry: Blend together flour, shortening and salt with a pastry blender.
+  Beat together egg, vinegar and ice water. Mix with flour mixture, using
+  fork, until mixture forms a ball. Roll out 1/8" thick on lightly floured
+  pastry cloth with covered rolling pin.  Fit crust into pie pan and trim.
+  Bake pie according to filling directions.
+  
+  Patricia Lomax, Mansfield, Ohio
+  
+  Recipe By     : Home Cooking, Oct 1994, pg 53
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

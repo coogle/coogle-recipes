@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Foccacia</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BASIC DOUGH</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Warm water; (110 to 115 degrees)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Yeast</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>3 1 /4 c  all-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Roma tomato,; sliced thinly</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chiffonade of basil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Grated Parmesan cheese</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a small bowl, dissolve the sugar in the warm water. Sprinkle the yeast
+  over that mixture and
+  
+  let stand for 10 minutes, to bloom (it should begin to foam). In the mixer
+  bowl with the dough hook attached, add 3 cups of flour, salt and yeast
+  mixture. Slowly turn it on and work the dough together. Turn it up to
+  medium and mix for 5 minutes. If the dough is sticky, continue mixing and
+  gradually add the remaining flour. Place this smooth ball of dough into an
+  oiled bowl, cover and set aside to rise for 3 hours.
+  
+  Preheat the oven to 375 degrees. Punch down the dough, and remove it from
+  the bowl onto a lightly oiled, 9-inch by 13-inch sheet tray. Spread the
+  dough out onto the sheet tray. Using your fingertips, make "dimples" in the
+  dough. Drizzle the dough with olive oil, sprinkle on the basil, spread out
+  the tomato slices, sprinkle on the cheese and bake for 30 - 35 minutes.
+  
+  Yield: 6 appetizers
+  Recipe By     :ESSENCE OF EMERIL SHOW #EE2193
+  
+  Posted to MC-Recipe Digest V1 #270
+  
+  Date: Tue, 29 Oct 1996 22:59:54 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

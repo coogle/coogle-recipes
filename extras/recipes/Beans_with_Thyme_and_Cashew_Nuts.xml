@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beans with Thyme and Cashew Nuts</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Side dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Green beans</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sunflower oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Cashew nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped thyme</item></ing></ingredients>
+    <directions>
+      <step>  Slice beans.  Boil them in lightly salted water until they are just tender.
+  Drain them.
+  
+  Heat oil in a skillet over medium heat.  Put in the cashew nuts &amp; stir
+  until they are golden brown. Remove from the skillet. Increase the heat.
+  Put in the beans &amp; garlic. Stir until the garlic begins to brown. Mix in
+  the nuts &amp; thyme &amp; remove the pan from the heat.
+  
+  Gail Duff, "A Book of Herbs &amp; Spices"
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

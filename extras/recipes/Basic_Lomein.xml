@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Lomein</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Main dish</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Dried black mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Roast pork</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chinese cabbage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bamboo shoots</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bean sprouts</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Snow peas</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Slices fresh ginger root</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Stock (chicken)</item></ing></ingredients>
+    <directions>
+      <step>  Soak dried mushrooms. Slice roast pork, celery, cabbage and bamboo shoots.
+  Blanch bean sprouts. Stem snow peas. Shred ginger root and crush garlic.
+  Heat oil. Add ginger root and garlic; stir fry to brown lightly. Add pork
+  and stir fry a few times. Then add in sherry to blend. Add all vegetables
+  except snow peas and stir fry 1 minute more. Add stock and heat quickly.
+  Then cook,covered, 3 minutes over medium heat. Stir in snow peas. Combine
+  mixture with tossed noodles (*See below) Variations: Substitute cooked
+  beef,ham, chicken, duck, crabmeat, lobster or shrimp. You can also add
+  shredded green onion to the garlic/ginger mixture. I use Shaoxing wine
+  instead of sherry, which is more authentic. *To cook noodles, prepare
+  boiling water with a little salt. Add noodles and cook until barely done.
+  Drain and rinse with cold water to stop cooking. Separate noodles with a
+  fork, then toss them with a little sesame oil or peanut oil and set aside
+  until they are ready to go into your stir-fry for the final heat. You will
+  want about a pound of noodles for the above recipe. This recipe is simply a
+  guideline for a dish that can be varied in a thousand ways!
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

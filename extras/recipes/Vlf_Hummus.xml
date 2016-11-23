@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vlf Hummus</title>
+      <categories>
+        <cat>Low-fat</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(19 oz.) chickpeas, rinsed and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>To 3/4 cup non-fat yogurt (depending on how creamy you want it) juice of one lemon 4 cloves of garlic, crushed (depending on how much you like garlic-</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Is enough for me, but others I know insist on more)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin dash of black pepper</item></ing></ingredients>
+    <directions>
+      <step>  optional, depending on how strict you want to be about the vlf: 6 drops or
+  so of toasted sesame oil (doesn't add dramatically to the fat, but
+  *greatly* improves the flavor for us "real" hummus fans - makes up
+  partially for the lack of tahini)
+  
+  Combine all ingredients in blender and blend smooth. Garnish with a dash of
+  paprika and serve w/pita triangles, in a sandwich, etc. My favorite is
+  hummus on a pita with carrots, cucumbers, and lettuce (that was lunch
+  today, in fact!)  Hummus is so easy to make that you can whip it up while
+  eating breakfast to take to work (like I did today) for all you people
+  looking for quick lunch ideas.
+ 
+</step></directions></recipe></recipeml>

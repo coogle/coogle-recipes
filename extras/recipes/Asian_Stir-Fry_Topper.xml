@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Stir-Fry Topper</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce; low sodium</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger root; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red pepper flakes; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Sirloin steak; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Snow peas; julienned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Scallions; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sesame seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Baking potatoes; baked</item></ing></ingredients>
+    <directions>
+      <step>  In a small bowl, combine the broth, soy sauce, cornstarch, gingerroot,
+  peanut butter and pepper; mix until the cornstarch is dissolved. Set aside.
+  
+  In a large nonstick skillet, heat the oil. Add the steak and cook, stirring
+  frequently, until the beef is no longer pink and browned, 3 to 4 minutes.
+  With a slotted spoon, remove the beef from the skillet and set aside.
+  
+  Add the snow peas, scallions and sesame seeds to the skillet; stir fry
+  until the vegetables are crisp-tender, 2 to 3 minutes. Return the beef to
+  the skillet. Stir in the broth mixture, and cook until the meat and
+  vegetables are hot and the sauce has thickened, 1 to 2 minutes. Cut open
+  the hot potatoes and top them with the beef-vegetable mixture.
+  
+  Posted to MC-Recipe Digest V1 #725 by James and Susan Kirkland
+  &lt;kirkland.gj.net@gj.net&gt; on Aug 08, 1997
+ 
+</step></directions></recipe></recipeml>

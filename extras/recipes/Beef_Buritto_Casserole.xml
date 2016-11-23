@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Buritto Casserole</title>
+      <categories>
+        <cat>Casseroles</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Refried beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bisquick</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Hamburger; browned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar; (16 oz.) medium salsa sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sliced green or black olives</item></ing></ingredients>
+    <directions>
+      <step>  Mix together first 3 ingredients and put in bottom of greased 9 x 13 pan.
+  Layer top with hamburger, salt, cheese and olives. Bake at 375 degrees for
+  30 minutes. Serve with lettuce and sour cream.
+  
+  Recipe by: Bisquick Site - Found By Brenda Whimsey Stephens
+  
+  Posted to brand-name-recipes by Tiina &lt;4Angels@videotron.ca&gt; on Mar 04,
+  1998
+ 
+</step></directions></recipe></recipeml>

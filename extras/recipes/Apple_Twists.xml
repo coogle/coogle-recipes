@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Twists</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PASTRY</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Plain flour</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1/2.    shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Ice water (up to 5)</item></ing></ing-div>
+      <ing-div>
+        <title>APPLES</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Tart apples</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>White sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Warm water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Melted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Make pastry using above ingredients, roll thin &amp; cut into 8 strips. *I use
+  Pillsbury premade pie crusts as a time saver.
+  
+  Peel &amp; core apples, cut into 8 pieces. Wrap a strip of pastry around each
+  apple slice. Arrange apple twists in baking pan, leaving space between each
+  twists. Brush twists w/melted butter. Sprinkle w/mixture of sugar and
+  cinnamon. Pour water over twists and bake for 25-30 min. at 350 degrees.
+  
+  Posted to EAT-L Digest  by Gaye Stanton &lt;chatter@USIT.NET&gt; on Sep 8, 1997
+ 
+</step></directions></recipe></recipeml>

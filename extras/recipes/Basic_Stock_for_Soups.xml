@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Stock for Soups</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Soups</cat>
+        <cat>Chicken</cat></categories>
+      <yield>7</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Stewing chicken</item></ing>
+      <ing>
+        <amt>
+          <qty>11</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Gingerroot slices</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Green onions</item></ing></ingredients>
+    <directions>
+      <step>  It comes from Simple and Delicious Chinese Cooking Cookbook.
+  
+  Place all ingredients in a large saucepan.  Bring to a boil skimming off
+  any foam from top.  Reduce heat. Cover. Simmer for 2 to 2 1/2 hours.
+  
+  Strain stock when slightly cooled; refrigerate. Discard chicken; no flavor
+  remains in it. Discard gingerroot and onions.
+  
+  Lift fat from top of cold stock before using.  Stock will keep in
+  refrigerator for 3 or 4 days.  Freeze if storing for a longer period.
+  
+  Makes 7 to 8 cups.
+  
+  Posted by Claire Carter. Courtesy of Fred Peters.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

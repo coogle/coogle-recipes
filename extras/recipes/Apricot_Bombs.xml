@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Bombs</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Lunch</cat>
+        <cat>Snacks</cat></categories>
+      <yield>14</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Dried Apricots -- moist</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Marmalade, Orange</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Powdered Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sunflower Seeds, Roasted --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Optional</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sesame Seeds -- optional</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nuts -- chopped, optional</item></ing></ingredients>
+    <directions>
+      <step>  1. Steam apricots if apricots are stiff to soften. Grind or chop very fine.
+  2. Mix and mash apricots together with remaining ingredients. 3. Shape into
+  1 inch balls, roll in powdered sugar and coat thickly. Repeat in half an
+  hour, or use coconut instead.
+  
+  Recipe By     : "Backpacker's Cookbook" by Margaret Cross and Jean Fiske
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Pork Spareribs</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Pork rib</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper to taste</item></ing></ing-div>
+      <ing-div>
+        <title>TOMATO BARBEQUE SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Tomato ketchup</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Vinegar</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Salt and pepper pork ribs. Barbeque ribs on coals until ready. Then baste
+  with the sauce.
+  
+   Mix sauce well. Remove ribs from the coals and quickly apply the tomato
+  basting sauce, using a barbeque brush, covering the whole rib on both
+  sides. Return ribs to coals and continue barbequeing each side for two
+  minutes only.
+  
+   Remove, cut and serve. The tomato barbeque sauce should be applied to the
+  ribs after they have been barbequed to perfection, and each treated side
+  barbequed for only 2 minutes more after applying the tomato basting sauce.
+  This is the secret of perfectly barbequed pork spareribs: if the sauce is
+  applied whilst the meat is still raw, or if a side is facing the coals for
+  more than 2 minutes after brushing on the tomato basting sauce, the tomato
+  in the sauce tends to turn to charcoal.
+  
+  HCV@MATIES.SUN.AC.ZA
+  
+  PROF HC VILJOEN (CHRISTO)
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

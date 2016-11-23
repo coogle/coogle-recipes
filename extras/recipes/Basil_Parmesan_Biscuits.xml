@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Parmesan Biscuits</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fat-free Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Fat-free plain yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Skim milk -- at room</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Temperature</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fat-free  Parmesan cheese</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven at 350.  In a mixing bowl, combine flour, baking powder,
+  baking soda, salt, and cheese.  In another mixing bowl, combine oil,
+  yogurt, and milk.  Mix dry ingredients with wet ingredients just until
+  moistened.  Place dough on well floured surface.  Using a lightly floured
+  rolling pin, roll out dough until 1/2" thick.  Using a cutter of choice,
+  cut out shapes, gently reroll the scraps, to form 12 biscuits.  Place
+  biscuits on unprepared baking sheet, spacing 1" apart.  Sprinkle with
+  remaining 2 teaspoons cheese and bake for 12 to 15 minutes or until golden.
+  
+  Recipe By     : Reader's Digest Live Longer Cookbook
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

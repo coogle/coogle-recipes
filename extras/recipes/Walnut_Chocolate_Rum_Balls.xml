@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Chocolate Rum Balls</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Nuts</cat>
+        <cat>Candies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Walnuts, ground or finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated "German's sweet" or bittersweet chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sifted confectioner's sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Rum</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cocoa powder</item></ing></ingredients>
+    <directions>
+      <step>  Combine nuts, sugar, and chocolate. Moisten with rum to form a stiff dough.
+  Form into small balls and roll in cocoa to coat. This recipe is not only
+  simple, it's flexible. It can be made with other kinds of liquor (amaretto,
+  sherry, and Southern Comfort work well), nuts (almonds or pecans, for
+  instance) and coatings (ground nuts, finely grated coconut, etc.) and
+  always comes out tasting great. Adding small chunks of nut for texture is
+  also effective.
+ 
+</step></directions></recipe></recipeml>

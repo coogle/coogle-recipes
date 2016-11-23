@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baking Powder Biscuits</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour*</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 450 F. Cut shortening into flour, baking powder and salt with
+  pastry blender until mixture resembles fine crumbs. Stir in just enough
+  milk so dough leaves side of bowl and rounds up into a hail. (Too much milk
+  makes dough sticky; not enough milk makes biscuits dry.)
+  
+  Turn dough onto lightly floured surface. Knead lightly 10 times. Roll or
+  pat to 1/2 inch thick. Cut with floured 2-inch biscuit cutter. Place on
+  ungreased cookie sheet about 1 inch apart for crusty sides, touching for
+  soft sides.
+  
+  Bake until golden brown, 10 to 12 minutes. Immediately remove from cookie
+  sheet.
+  
+  *If using self-rising flour, omit baking powder and salt.
+  
+  Recipe by: Betty Crocker's Best of Baking
+  
+  Posted to MC-Recipe Digest V1 #984 by "M. Hicks" &lt;nitro_ii@email.msn.com&gt;
+  on Jan 4, 1998
+ 
+</step></directions></recipe></recipeml>

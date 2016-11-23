@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Different Cornbread</title>
+      <categories>
+        <cat>Dupree</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cornmeal mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fennel seed; cracked</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper; cracked</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 450 degrees. Pour the shortening in a 10-inch cast-iron
+  skillet. Place the skillet in the hot oven. Place the self-rising cornmeal
+  or mix in a bowl and whisk in the milk and egg. Add the fennel and pepper
+  and stir until thoroughly blended. Stir the hot shortening into the batter,
+  then pour the batter into the hot skillet. Bake 15 to 20 minutes, until
+  done. Serve piping hot with butter.
+  Yield: One 10-inch round
+  Recipe By     : Nathalie Dupree Cooks a Sunday Night Supper.  TVFN, 1996
+  
+  Posted to MC-Recipe Digest V1 #239
+  
+  Date: Wed, 9 Oct 1996 15:19:37 -0700 (PDT)
+  
+  From: patH &lt;phannema@wizard.ucr.edu&gt;
+ 
+</step></directions></recipe></recipeml>

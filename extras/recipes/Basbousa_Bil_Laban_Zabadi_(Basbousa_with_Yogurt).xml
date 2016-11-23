@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basbousa Bil Laban Zabadi (Basbousa with Yogurt)</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Turkish</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Lemon (juice only)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Blanched almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Semolina</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Few drops vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whipped cream</item></ing></ingredients>
+    <directions>
+      <step>  Make a thick syrup by boiling the sugar, water and lemon juice together and
+  simmering until it thickens. Allow to cool and chill. Melt half of the
+  unsalted butter. Toast the blanched almonds and chop them finely. Beat the
+  yogurt with the sugar in a large mixing bowl. Add melted butter and all
+  remaining ingredients except the cream, and beat well until thoroughly
+  mixed. Pour into a large rectangular buttered baking tray and bake in a 400
+  degree oven for 30 min. Pour the cold syrup immediately over the hot
+  basbousa as soon as it comes out of the oven. Cut into lozenge shapes and
+  return to the oven for 3 more minutes. Serve soused with other half of
+  butter, melted, and spread with whipped cream.
+  
+  Posted by DEBORAH AKYUREK, Prodigy ID# DNJS60B.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

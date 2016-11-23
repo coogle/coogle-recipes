@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pizza Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Pizza</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>2 lb,3 oz. can whole</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tomatoes, packed in tomato</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Puree or juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Fresh basil leaves or 1</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Teaspoon dried basil, dried</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oregano or dried marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove of garlic, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Tomato paste (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch of salt (optional)</item></ing></ingredients>
+    <directions>
+      <step>  1.  Pour the contents of the tomato can into a 2 quart, heavy non-aluminum
+      saucepan and coarsely crush the tomatoes with a fork or your hands. 2.
+  Add the herbs, garlic, tomato paste, pepper, and salt. 3. Bring to a bubble
+  over medium heat, stirring to mix the seasonings. 4. As soon as the sauce
+  begins to bubble, turn the heat to low and
+      maintain the sauce at a gentle simmer. 5. Cook, uncovered, stirring
+  from time to time, for a minimum of 15
+      minutes and a maximum of 1 hour. This sauce will keep for about a week
+  in an airtight container in the refrigerator. It can also be frozen for up
+  to 4 months. Variation: For onion sauce, saute 1 small, finely chopped
+  sweet onion
+  :          in 2 tablespoons of olive oil until the onion is just
+  :          translucent.  Follow instructions for basic sauce.
+  
+  :          For meat flavored sauce, saute the meat of two Italian sweet
+  :          sausages (removed from their casings and roughly crumbled)
+  :          in 1 tablespoon of olive oil.  Cook the sausage meat for 1 to
+  :          2 minutes over medium heat until it is no longer pink. Follow
+  :          instructions for basic sauce. ~--
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Burgundy</title>
+      <categories>
+        <cat>Casseroles</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef shoulder, cut into 1 1/2" squares</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sliced onions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Mushrooms, cut into quarters</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>dashes</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Bottle Burgundy wine (750ml)</item></ing>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>  This beef Burgundy is wonderful served with noodles or small boiled
+  potatoes.
+  
+  Brown meat in olive oil in 5-quart Dutch oven. Add onions and garlic
+  and cook 5 minutes. Add mushrooms, bay leaf, thyme, Worcestershire
+  and pepper. Add wine and water.
+  
+  Cover and bake at 350'F. 2-3 hours or until meat is tender. In bowl,
+  blend together flour and butter. Stir into stew mixture. Heat to
+  boiling. Then simemr until thickened.
+  
+  Each serving contains about: 360 calories; 209 milligrams sodium; 108
+  milligrams cholesterol; 20 grams fat; 9 grams carbohydrates; 29 grams
+  protein; 0.38 gram fiber.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

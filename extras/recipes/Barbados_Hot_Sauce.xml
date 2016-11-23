@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbados Hot Sauce</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Green onions</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Turmeric</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Mustard, powdered</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit/></amt>
+        <item>Bonnet peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Horseradish, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>White vinegar</item></ing></ingredients>
+    <directions>
+      <step>  This recipe is from a fund raising cookbook from Barbados. Windmill doesn't
+  include horseradish in the list of ingredients but it sounds good.
+  
+  Mince the first 8 ingredients together. Add vinegar until the desired
+  consistency is obtained, then bottle and leave for 3 or 4 days before
+  using. Posted to CHILE-HEADS DIGEST V3 #367 by Leslie Duncan
+  &lt;duncan@vianet.on.ca&gt; on Jun 26, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Athens Pecan Cake (Greek Menu 1)</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat>
+        <cat>Greek</cat>
+        <cat>Nuts</cat>
+        <cat>Spirits</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs; well beaten</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rind of 1 orange</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped pecans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Brandy</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing></ingredients>
+    <directions>
+      <step>  Cream butter and sugar. Fold in beaten eggs and blend well. Add orange
+  rind, nuts and brandy and mix well. Add flour and baking powder, blending
+  thoroughly. Pour into a greased 9x13" baking pan. Bake in a 350 F. oven for
+  40 minutes, or until done. Makes 24 servings. MC formatting by
+  bobbi744@sojourn.com
+  
+  NOTES : This recipe is a big hit at the Taverna Anna Restaurant in North
+  Filotheh, a suburb of Athens. If you like pecans, you'll enjoy this cake.
+  Bobbie's notes: I found this a bit dry. I served it with peach butter. Try
+  cutting cooking time by 10 minutes. Test for doneness.
+  Recipe by: Opaa! Greek Cooking, Detroit Style by George J. Gekas
+  
+  Posted to MC-Recipe Digest V1 #809 by Roberta Banghart
+  &lt;bobbi744@sojourn.com&gt; on Sep 26, 1997
+ 
+</step></directions></recipe></recipeml>

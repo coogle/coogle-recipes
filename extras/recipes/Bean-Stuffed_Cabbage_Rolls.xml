@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean-Stuffed Cabbage Rolls</title>
+      <categories>
+        <cat>Main</cat>
+        <cat>Dishes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Head cabbage</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>SAUCE--</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion -- finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic -- crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>FILLING--</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>White beans, canned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion -- finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown rice, cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Carefully reomove 12 large outside leaves from the cabbage.  Place leaves
+  in a large pot of boiling water and boil 5 minutes. Remove leaves from
+  water, place in a colander, and run under cold water for a few minutes.
+  Drain.
+  
+  To prepare sauce:  combine all sacues ingredients in a small saucepan.
+  Bring to a boil over medium heat.  Reduce heat to medium-low, cover, and
+  simmer 15 minutes.
+  
+  To prepare filling:  place beans in a large bowl.  Mash slightly with a
+  fork or potato masher.  Add remaining filling ingredients and mix well.
+  
+  To assemble:  preheat oven to 350 degreesF. Lightly oil a 9 x 13-inch
+  baking pan or spray with nonstick cooking spray. Divide filling evenly and
+  place each portion near the base of a cabbage leaf. Roll leaves up tightly,
+  folding in the sides as you roll.  Place rolls stem side down in prepared
+  pan.  Spoon sauce evenly over rolls. Cover Tightly and bake 1 hour.
+  
+  Recipe By     : Bobbi Hinman in the Meatless Gormet
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

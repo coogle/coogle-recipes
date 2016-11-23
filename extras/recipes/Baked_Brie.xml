@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Brie</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Cheese</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Crescent rolls; refrigerated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Round brie</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter; melted</item></ing></ingredients>
+    <directions>
+      <step>  Take two triangles of crescent roll dough and press them together to form a
+  square, repeat with other 6 triangles. Cut round of brie in half heigth
+  wise (you should have to rounds now). Form two squares of dough around each
+  round to completely cover. Brush with melted butter. Follow baking
+  instructions as given on crescent roll package.
+  Posted to MC-Recipe Digest V1 #950 by "sherilyn70@earthlink.net"
+  &lt;Sherilyn70@earthlink.net&gt; on Dec 8, 1997
+ 
+</step></directions></recipe></recipeml>

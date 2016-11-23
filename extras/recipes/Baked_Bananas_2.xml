@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Bananas</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Side dishes</cat>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bananas; firm</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Lemons; grated rind &amp; juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar; firmly packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter (or marg.); melted</item></ing></ingredients>
+    <directions>
+      <step>  Cut bananas in half lengthwise; place cut side down in a buttered
+  baking dish.  Brush bananas with lemon juice; sprinkle wiht grated
+  lemon juice; sprinkle with grated lemon rind and brown sugar. Drizzle
+  with butter.
+  
+  Bake at 350 degrees for 15 to 20 minutes.  Serve warm as a side dish
+  with meat, or as a dessert plain or with ice cream.
+  
+  If used with brown sugar substitute, could be used as a diabetic
+  recipe Also use less margarine, way less!!  Brush with a pastry brush.
+  Food Exchange per serving:  1 FRUIT EXCHANGE + 1/2 FAT EXCHANGE
+  
+  SOURCE: Southern Living Magazine, sometime in 1977.
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

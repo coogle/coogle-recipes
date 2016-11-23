@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinegar Cookies</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>White vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  In a large bowl with mixer on low speed beat margarine and sugar until
+  blended. Increase mixer speed to high and beat for 3 minutes until light
+  and fluffy. At low speed, beat in flour, vinegar, and baking soda until
+  mixed. Cover bowl with plastic wrap and refrigerate for 1 hour.
+  
+  Drop dough by rounded teaspoons onto ungreased cookie sheet, bake 17 to 20
+  minutes in a 350 degree oven until edges are golden. Makes about 4 dozen
+  cookies.
+  
+  Posted to EAT-L Digest  by Russellyn Crombie &lt;DJJRS@AOL.COM&gt; on Sep 11,
+  1997
+ 
+</step></directions></recipe></recipeml>

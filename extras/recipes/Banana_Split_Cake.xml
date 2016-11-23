@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Cake mix; yellow</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pineapple, crushed, large</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Pudding, instant; french</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk; cold</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Cool whip or real whip cream</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese; room temper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Nuts and cherries</item></ing></ingredients>
+    <directions>
+      <step>  Bake cake according to package directions, cool.  Mix dry pudding mix and
+  cream cheese until well mixed. Add milk, a little at a time, until smooth.
+  
+  Spread pudding over cake, cover with drained pineapple.  cut bananas
+  lengthwise and place over pineapple. Cover this with cool whip and top with
+  cherries and nuts.
+  ****Bake cake in a large pan and leave in the pan in order to keep all the
+  toppings on thecake.
+  Posted to MC-Recipe Digest V1 #248
+  
+  Date: Thu, 17 Oct 1996 12:00:36 -0400
+  
+  From: Eileen &amp; Bob Holze &lt;beck4@asan.com&gt;
+ 
+</step></directions></recipe></recipeml>

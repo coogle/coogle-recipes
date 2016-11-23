@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almost Like Alan's Potato Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit/></amt>
+        <item>Russet potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Hard-cooked eggs, sliced *</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Kosher salt to taste</item></ing></ingredients>
+    <directions>
+      <step>  * Hard-cooked sliced eggs are optional.
+  ======================================================= ==================
+     Cook potatoes in their skin until tender but still firm. Peel potatoes
+  while hot and cut into chunks; mix in vinegar. Add mayonnaise, sugar and
+  eggs and celery, if desired. Season with salt to taste.
+     Printed in the July 2, 1992 issue of the Los Angeles Daily News.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Corn Dish</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick oleo or butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Creamed corn</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Whole kernel corn; undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Jiffy corn bread mix</item></ing></ingredients>
+    <directions>
+      <step>  Melt oleo and add corns. Add 1 cup cheese, eggs and corn bread mix. Put in
+  greased pan (8x8) and bake at 350 degrees for 45 minutes to an hour. Posted
+  to EAT-L Digest  by Phyllis Braun &lt;pbraun@IDIR.NET&gt; on Dec 23, 1997
+ 
+</step></directions></recipe></recipeml>

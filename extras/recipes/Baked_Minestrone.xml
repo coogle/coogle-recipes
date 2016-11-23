@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Minestrone</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Italian</cat>
+        <cat>Soups &amp; ste</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean ground beef*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic -- crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cans</unit></amt>
+        <item>Beef broth -- 10 oz each</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Soup cans water</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Herb seasoning</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Undrained tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>15 1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Kidney beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Thinly sliced carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Small seashell macaroni</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced zucchini</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated parmesan</item></ing></ingredients>
+    <directions>
+      <step>  *cut in  1 in. cubes Mix beef; onion; garlic, salt and pepper in large
+  saucepan.  Add  oil and stir to coat meat.  Bake at 400 for 30 min or until
+  brown-  stir occasionally. Turn to 350 and add beef broth, water and herb
+  seasoning. Cover and cook 1 hr. Or until tender. Stir in tomatoes, kidney
+  beans, carrots and macaroni. Place zucchini on to and cover. Bake 30 to 40
+  min. Serve with cheese. - CULINARY BOOK
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

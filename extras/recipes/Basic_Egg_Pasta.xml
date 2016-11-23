@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Egg Pasta</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached all-purpose flour sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Extra-virgin olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: The Ultimate Pasta Machine Cookbook Following the instructions
+  given in your owner's manual, prepare and set up the pasta machine with an
+  extruder die to make the desired shape of pasta.
+  
+  All ingredients must be at room temperature.  Place the liquid ingredients
+  in a glass measuring cup.  If less than 3/4 cup, add some water to make up
+  the balance.
+  
+  Add the dry ingredients to the pasta machine mixing bowl. Switch the pasta
+  machine on.  Slowly pour the liquid ingredients through the feed tube. Mix
+  for approximately 3 minutes, or until the dough appears to be coming
+  together in soft pea-sized crumbs.
+  
+  Following the instructions given in your owners' manual, begin to extrude
+  the dough.  Cut off the first 2 to 3 inches extruded and discard. As the
+  pasta begins to come out, gently move it away from the machine. Cut with a
+  sharp knife or scissors at desired lengths. Place extruded pasta on a wire
+  rack or on a clean kitchen cloth. Let sit for at least 30 minutes before
+  cooking, or store for later use.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

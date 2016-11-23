@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Soup with Pork (Quick Cooking)</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean pork</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Scallion stalks</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Stock (see recipe)</item></ing></ingredients>
+    <directions>
+      <step>    1. Slice pork thin. Combine soy sauce, sugar and salt. Add to pork and
+  toss. Let stand half an hour, turning meat occasionally.
+  
+    2. Meanwhile bring stock to a boil. Cut scallion stalks in 2-inch
+  sections, then add. Simmer, covered, 3 to 4 minutes.
+  
+    3. Add pork and simmer, covered, 5 minutes more. Skim surface to clear.
+  
+    VARIATIONS: For the scallions, substitute 6 tablespoons pickled
+  vegetables, shredded and drained. Simmer, covered, 2 minutes. Then pick up
+  step 3, adding a few drops of sesame oil at the very end.
+  
+    After step 3, add any of the following vegetables and simmer until done:
+  
+    2 Cucumbers, peeled or unpeeled, sliced thin
+  
+    12 radishes, unpeeled and sliced thin (simmer uncovered)
+  
+    1 large bamboo shoot and 8 water chestnuts, both sliced thin
+  
+    1 Cup fresh green peas; and 1/2 pound spinach, cut in 2-inch sections
+  (simmer uncovered )
+  
+    3 dried black mushrooms (soaked), cut in strips; and 1/4 pound
+  beansprouts
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

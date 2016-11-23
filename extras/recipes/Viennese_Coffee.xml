@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Viennese Coffee</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Coffee</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Makes 1-1/2 Quarts</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Semisweet Chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Hot Strong Coffee</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whipped Cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated Orange Peel</item></ing></ingredients>
+    <directions>
+      <step>  Melt chocolate in a heavey saucepan over low heat. Stir in sugar and
+  whipping cream.  Beat in coffee with a whisk, 1/2 cup at a time; continue
+  to beat until frothy. Top with whipped cream and sprinkle with orange
+  peel.
+  From Sheila Buff &amp; Judi Olstein, "The New Mixer's Guide to Low-Alcohol and
+  Nonalcoholic Drinks." Published By HPBooks, Inc., 1986, ISBN 0-89586-458-4.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

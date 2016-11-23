@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Sweet Potatoes</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Appetizers</cat>
+        <cat>Microwave</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>medium</unit></amt>
+        <item>Sweet potatoes</item></ing></ingredients>
+    <directions>
+      <step>  1. Select sweet potatoes for uniform shape and size. Scrub potatoes well
+  and pierce each potato with tines of fork. 2. Arrange on paper toweling,
+  leaving at least 1 inch between potatoes. 3. Bake according to cooking
+  chart below. 4. Check for doneness as cooking times vary according to
+  variety and shape of potatoes. 1 potato 4 minutes 2 potatoes 7 minutes 4
+  potatoes  15 minutes 6 potatoes 25 minutes Tip: Potatoes should be arranged
+  in a circle with as much space as possible between them. Never place one
+  potato in the center of the circle, as it may not cook.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

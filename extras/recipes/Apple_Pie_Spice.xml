@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie Spice</title>
+      <categories>
+        <cat>Spices</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground ginger</item></ing></ingredients>
+    <directions>
+      <step>  Makes 1/2 cup.  Stir into applesauce.  Stir into crumb topping for
+  coffeecake.  Heat with apple cider.  Pour through coffee filter before
+  drinking.  Simple Spice Cookies: sprinkle over sliced refrigerator sugar-
+  cookie dough before baking.
+  
+  Buy spices in bulk from a natural foods store.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

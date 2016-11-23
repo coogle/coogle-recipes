@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Egg Pasta Dough</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Northern Italian Cooking Put flour on a pastry board and make a
+  well in the center. Break the eggs into well; beat with a fork. Draw some
+  flour from inner rim of well over eggs, beating constantly. Keep adding
+  flour a little at a time until you have a soft dough. Put dough aside. With
+  a pastry scraper, remove bits and pieces of dough attached to board.
+  Lightly flour board and your hands. Knead dough 10 to 12 minutes, adding
+  flour a little at a time until dough is smooth and pliable. Insert a finger
+  into center of dough.  If it comes out almost dry, dough is ready for pasta
+  machine.  If dough is sticky, knead it a little longer adding more flour.
+  Cut an egg-size piece from dough.  Wrap remaining dough in a cloth towel to
+  prevent it from drying. Set rollers of pasta machine at their widest
+  setting.  Flatten small piece of dough, dust with flour and fold in half.
+  Run it through pasta machine. Repeat this step 5 to 8 times until dough is
+  smooth and not sticky. Change notch of pasta machine to the next setting
+  and run dough through once without folding. Keep changing setting and
+  working pasta sheet through machine until pasta reaches desired thickness.
+  A good thickness for general use is about 1/16 inch. Sprinkle dough with
+  flour between rollings if it is sticky.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

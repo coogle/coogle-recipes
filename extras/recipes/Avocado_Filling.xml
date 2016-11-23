@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Filling</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>45</qty>
+          <unit/></amt>
+        <item>Avocados, peeled and finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>White onion, peeled and, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cilantro,, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>small</unit></amt>
+        <item>Serrano chiles or 1 small jalapeno chile,, finely chop</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Limes, Juice of</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sea salt, to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper,, to taste</item></ing></ingredients>
+    <directions>
+      <step>  Mash the avocados with a fork and stir in the onions, cilantro, chiles, and
+  lime juice. Season to taste with salt and pepper.
+  
+  Yield: about 2 1/2 cups
+  Posted to MC-Recipe Digest V1 #330
+  
+  Recipe by: TOO HOT TAMALES SHOW #TH6276
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+  
+  Date: Thu, 5 Dec 1996 21:21:59 -0500
+ 
+</step></directions></recipe></recipeml>

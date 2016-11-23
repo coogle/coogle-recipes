@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamico Chicken with Olives</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Recipe Fricasseed Chicken frozen or fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Low-sodium chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pitted green olives; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped fresh parsley</item></ing></ingredients>
+    <directions>
+      <step>  DEFROST THE FRICASSEED CHICKEN, if frozen. Arrange the chicken pieces in an
+  oven-proof casserole or Dutch oven. Combine the tomato paste, broth and
+  vinegar in a small bowl, and add to the chicken. Add the olives, cover and
+  place in the oven. Turn the oven on to 375F and bake for 20 minutes.
+  Meanwhile, place the fricassee sauce in a small saucepan over medium heat,
+  and cook until it is thick enough to coat a wooden spoon, about 5-to-10
+  minutes. Uncover the casserole and strain the sauce over the chicken.
+  Continue to bake, uncovered, another 5 minutes. To serve, arrange the
+  chicken and sauce in a serving bowl or on a deep serving platter, and
+  sprinkle with the parsley.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

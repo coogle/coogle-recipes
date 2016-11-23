@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Dip #1</title>
+      <categories>
+        <cat>Dip</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>(14-oz) artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Italian dressing mix</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>dashes</unit></amt>
+        <item>Lemon-pepper marinade</item></ing></ingredients>
+    <directions>
+      <step>  Combine ingredients using blender. Make a day ahead, if possible. Delicious
+  &amp; easy.
+  
+  SUE CARTER
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Pilaf</title>
+      <categories>
+        <cat>Main dish</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Basmati rice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Cloves garlic wee bit olive oil pinch each of dried thyme, marjoram and basil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water.</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Canned (not marinated) artichoke hearts</item></ing></ingredients>
+    <directions>
+      <step>  Rinse rice several times, until rinse water runs clear. Saute garlic and
+  herbs in olive oil until fragrant, about two minutes, being ultra careful
+  not to scorch the garlic. Add rice and saute an other two or three minutes.
+  Add artichoke hearts and saute another minute. Add water and bring to a
+  boil. Cover, reduce heat and cook about fifteen minutes. Turn off burner
+  and let sit five more minutes. Fluff with forks.
+  
+  Note:
+  
+  I got the idea for this while flipping through a book called _Trucs_of_
+  the_Trade_ @a bookstore one day.  I don't remember what all the guy called
+  for, but this seemed like the logical accopaniment to the above. Shared by
+  Bill Maddex
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

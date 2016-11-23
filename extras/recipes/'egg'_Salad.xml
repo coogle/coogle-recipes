@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>'egg' Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Tofu; medium firm, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh parsley; chopped, or more</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Curry powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Mayo or almondaise (use your favourite)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt + pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Paprika sprinkled on top</item></ing></ingredients>
+    <directions>
+      <step>  From: sylvia@itrc.on.ca
+  
+  Date:   Tue, 30 Jul 1996 10:25:42 -0400
+  Mix the first six together until colour is consistent. For a large group,
+  put lettuce leaves around the bowl first, pack in the 'egg' salad, then
+  form a sunny happy face with a spoon. For some reason, people love it and
+  get a real kick out of this.
+  
+  fatfree digest V96 #210
+  
+  From the Fatfree Vegetarian recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aztec Corn Soup</title>
+      <categories>
+        <cat>Soups/stews</cat>
+        <cat>Mexico</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>LISA CRAWLEY  TSPN00B</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh Corn; cut from cob</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>clove</unit></amt>
+          <item>Garlic; minced or pressed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chicken Stock</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Oregano Leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Cn Green Chilies; diced</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Jack Cheese; shredded</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Tomato; cored and diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh Cilantro; chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   in a 5-6qt pan, melt butter over med. heat. Add corn and garlic; cook,
+  stirring, until corn is hot and darker golden in color (about 2 min).
+  Remove from heat. Whirl stock and 2 c of the corn mixture in a food
+  processor or blender until smooth; add to remaining corn mixture in pan.
+  Stir in milk, oregano and chilies; bring to a boil over med. heat stirring
+  constantly.  Remove from heat and stir in cheese.
+   Season to taste with salt.  Garnish individual servings w/ tomato and
+  cilantro. Makes 4-6 servings.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

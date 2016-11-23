@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Bread and Dough Recipe (Sourdough)</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bread</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pita bread</item></ing></ingredients>
+    <directions>
+      <step>  For the dough I used: (more or less on the quantities) 1 cup white flour 2
+  cups whole wheat 1 teaspoon yeast 1 cup sour dough 1 tablespoon honey 1 cup
+  water and then watch it if you need more water or more flour
+  
+  By the way I use these same things and quantities to make my bread. In the
+  bread I add various things, for instance caraway seeds, or garlic, or
+  raisins, whatever I feel like The bread always comes out good. So this is
+  my always recipe for bread or dough.
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : (Jenka Guevara)
+ 
+</step></directions></recipe></recipeml>

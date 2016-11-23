@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley Stew</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Nov.</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Barley, diiered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Whole tomatoes, peeled &amp; cut</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Into chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Carrots chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Can kideny beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Curry powder (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Stalk of celery cut into</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>small</unit></amt>
+        <item>Pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>To 3 potatoes peeled &amp;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Place barley in large Pyrex bowl, add water, cover with plastic wrap and
+  nuke for 20 minutes on full power.  May need 10 more minutes until barley
+  is cooked.
+  
+  Saute onion, garlic, ginger &amp; curry in nonstick pan.
+  
+  Continue to saute adding the remaining ingredients; bring to a boil and
+  turn to a simmer.
+  
+  Simmer 30-45 minutes until potatoes &amp; carrots are cooked.  You may have to
+  add more water.
+  
+  Serve with hot bread.
+  
+  Variations:  Add other vegetables such as corn, peas. Omit potatoes.
+  
+  Posted by tron!clevax.dnet!fishman@uunet.uu.net (RON FISHMAN) to the
+  Fatfree Dig. Vol.12 Issue 10 Nov. 11, 1994. FATFREE Recipe collections
+  copyrighted by Michelle Dick 1994. Used with permission. Formatted by Sue
+  Smith, S.Smith34, TXFT40A@Prodigy.com using MMCONV.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Flank Steak</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Marinades</cat>
+        <cat>Bbq sauces</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>MUSTARD, DRY</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>SALT</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>PEPPER</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>BROWN SUGAR, PACKED</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>SOY SAUCE</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>OLIVE OIL</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>GARLIC CLOVE, CHOPPED</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>LEMON JUICE</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>FLANK STEAKS</item></ing></ingredients>
+    <directions>
+      <step>  Date: Thu, 16 May 1996 07:54:36 -0700
+  
+  From: cstarz@teleport.com (Carey Starzinger)
+  
+  Whisk together first 8 ingredients in bowl to make basting sauce. Place
+  flank steaks in shallow pan (flank steaks are best if they are tenderized
+  first).  Pour sauce over steaks covering them well. Refrigerate for at
+  least 12 hours.  Remove steaks from basting sauce and cook over grill for
+  about 3-5 minutes per side. Baste with additional sauce as desired.
+  
+  Posted to MealMaster Recipes List, Digest #139
+ 
+</step></directions></recipe></recipeml>

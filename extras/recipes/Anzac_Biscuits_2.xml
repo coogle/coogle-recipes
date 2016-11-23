@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anzac Biscuits</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>100</qty>
+          <unit>grams</unit></amt>
+        <item>Butter (look on the back side of your measuring cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Golden syrup. (any light syrup will do)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit/></amt>
+        <item>Coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Hot water</item></ing></ingredients>
+    <directions>
+      <step>  This recipe is from the Edmonds Cookery book - the cooking bible on 3 1/2
+  million kiwi bookshelves. I'd love to know if they were the same as the
+  ones you remembered. Please write and tell me.
+  
+  Melt butter and sugar together in a large saucepan. Cool. Mix sugar,
+  coconut, rolled oats, and flour together. Stir into saucepan. Dissolve soda
+  in water and mix in. Place rounded teaspoonfuls on a greased oven tray.
+  Bake at 350 F (180 C) for 15 minutes. Makes 36. These are chewy and a vry
+  popular cookie here.
+  
+  Posted to Bakery-Shoppe Digest V1 #233 by Rayna Knighton
+  &lt;rayna@iconz.co.nz&gt; on Sep 13, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artis' Chicken Gumbo</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Soups</cat>
+        <cat>Vegetables</cat>
+        <cat>Cajun</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Stewing chicken</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Shallots -- or green onins</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit/></amt>
+        <item>Stems</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic -- more w/out</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>medium</unit></amt>
+        <item>Green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Spoon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>large</unit></amt>
+        <item>Spoon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Roux</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Andouille sausage -- or ham</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Oysters -- with liquid</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>File powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil or chicken fat -- for</item></ing></ingredients>
+    <directions>
+      <step>  Cut up chicken and season with salt and pepper. Fry chicken until brown, in
+  its own fat, in a black iron pot. Place in soup pot. Cut up seasonings.
+  Pour off fat from pot. Smother seasonings and take out by rinsing with
+  small amount of water, putting in soup pot with browned chicken. Make a
+  dark roux, add 2 1/2 quarts water, pour into soup pot. Fry sliced sausage
+  slowly to render fat. Add sausage to gumbo. Let cook, with lid cracked, on
+  Low heat until tender, 2-3 hours for a good old bird. Remove bay leaves.
+  Add oysters, about 10 minutes before serving, cooking just until they curl.
+  Add file after oysters curl and turn off heat, or pass file to be used
+  individually. Serve in rimmed soup bowl over hot cooked rice.
+  
+  Recipe By     : DDMmom/AOL
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

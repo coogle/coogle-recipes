@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Onion and Horseradish Dip</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked and crumbled bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Horseradish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dairy sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Medium onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley</item></ing></ingredients>
+    <directions>
+      <step>  Put all ingredients into blender. Cover. Press button 4 to 20 seconds or
+  until smooth. Chill 1 hour. Yields: 1 1/2 cups. Delicious with vegetables.
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Mar 22,
+  1998
+ 
+</step></directions></recipe></recipeml>

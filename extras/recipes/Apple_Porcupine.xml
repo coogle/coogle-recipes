@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Porcupine</title>
+      <categories>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Tart apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Jelly, marmalade</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or preserved fruit</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sliced almonds</item></ing></ingredients>
+    <directions>
+      <step>  Core and pare tart apples. For 6 apples, cook together for 5 minutes 1 cup
+  sugar, and 1 1/2 cups water.  Add apples, simmer until tender but not
+  mushy. Baste often with syrup in pan. Drain, cool, fill with jelly,
+  marmalade, or preserved fruit.  Stick with bits of sliced almonds. Serve
+  with whipped cream as a dessert. From Apple Recipes by the Connecticut
+  Apple Marketing Board and
+                        the Connecticut department of Agriculture
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

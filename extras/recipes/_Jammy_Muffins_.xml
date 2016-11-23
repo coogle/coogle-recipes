@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Jammy Muffins"</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Quick</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>AM Unrefined Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raw honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole Grain Bran Muffin Mix (Arrowhead Mills)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg beaten or egg replacer</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Prepare Whole Grain Bran Muffin Mix according to package directions.
+  Before baking, spoon 1 teaspoon apple butter (or favorite flavor) into
+  center of the unbaked muffin.  Bake at 350 degrees F. for 25-30 minutes.
+  
+  Source: Arrowhead Mills "Whole Grain Muffins" tri-fold
+  Reprinted by permission of Arrowhead Mills, Inc.
+  Electronic format courtesy of: Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/am.zip
+ 
+</step></directions></recipe></recipeml>

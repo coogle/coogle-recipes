@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Beef and Corn Muffins</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Beef</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>BARB DAY - GWHP32A-----</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Round tip steaks -- cut</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit/></amt>
+        <item>"</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Barbecue sauce -- your</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>To</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Favorite</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion -- cut into thin</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Wedges</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Corn muffins -- quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>W/4" thick</item></ing></ingredients>
+    <directions>
+      <step>  Preparation time: (Not including muffins) 15 minutes Cut the steaks
+  crosswise into 1" wide strips; reserve. Cook and stir onion in oil in large
+  nonstick skillet over medium-high heat 3 minutes or until lightly browned.
+  Remove and keep warm. Add beef strips (1/2 at a time) to skillet; cook and
+  stir 2 to 3 minutes. Add barbecue sauce and onions; heat until hot. Place
+  an equal amount of the beef mixture over corn muffins. Serving suggestions:
+  Favorite Cole Slaw  Source:  Beef Industry Council
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

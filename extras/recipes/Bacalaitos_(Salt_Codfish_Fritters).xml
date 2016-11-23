@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacalaitos (Salt Codfish Fritters)</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Puerto rico</cat>
+        <cat>Fish</cat>
+        <cat>Upload</cat></categories>
+      <yield>60</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Codfish, salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, all-purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Garlic cloves; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Annatto oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil, vegetable; for frying</item></ing></ingredients>
+    <directions>
+      <step>    Soak the codfish in cold water for 2 hours or longer, according the the
+  saltiness and hardness of the fish. Drain, rinse and place in a small
+  saucepan. Pour boiling water over the fish and allow to stand 5 minutes.
+  Drain. Remove any bones and skin and shred the fish.
+    Sift the flour and baking powder into a large bowl. Add the garlic, water
+  and annatto oil and mix to a smooth batter. Add the shredded fish and mix
+  well. Heat oil to 370F in a deep fryer or large, heavy saucepan. Fry the
+  the mixture by teaspoonfuls until golden brown. Drain on paper towels, keep
+  warm and serve hot as hors-d'aeuvres.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Happy Home Recipe</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Main dish</cat>
+        <cat>Info/help</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Of love</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Of loyalty</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Forgiveness</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Friendship</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Spoons of hope</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Spoons of tenderness</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>quarts</unit></amt>
+        <item>Of faith</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Barrel of laughter</item></ing></ingredients>
+    <directions>
+      <step>  Take love and loyalty, mix them throughly with Faith.  Blend it with
+  tenderness, kindness and understanding.  Add friendship and hope,
+  sprinkle abundantly with laughter.  Bake it with sunshine.  Serve
+  daily with generous helpings
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

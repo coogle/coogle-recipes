@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Won Tons</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Low-cal</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for deep frying</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Envelope veg soup mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Asparagus, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water chestnut, finely chopd</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit/></amt>
+        <item>Won Ton wrappers (3" sq)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Soy sauce, (optional)</item></ing></ingredients>
+    <directions>
+      <step>  in uncovered electric skillet, heat 3/4 inch of oil to 360 degrees.
+  Meanwhile, in medium bowl combine 1 envelope Instant Spring Vegetable Soup
+  Mix, asparagus, and water chestnuts. Place 2 teaspoons of the mixture on
+  the center of each Won Ton wrapper. Moisten corners with water, fold
+  wrappers in half to form a triangle, and press edges to seal. Form Won Ton
+  by bringing together two opposite points and overlapping; moisten
+  overlapping points and press to seal well. Fry in hot oil until golden
+  brown; drain. Serve, if desired, with soy sauce.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beaumont Inn Smoked Sausage and Mushrooms</title>
+      <categories>
+        <cat>Side dish</cat>
+        <cat>Meat sausag</cat>
+        <cat>Appetizer</cat>
+        <cat>Mushroom</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh; ground smoked Sausage cooked and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>24</qty>
+          <unit>large</unit></amt>
+        <item>Mushrooms; stems removed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Parmesan cheese; grated</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Beaumont Inn
+  
+  Cook mushrooms at 350 degrees for 7 minutes. Allow to cool. Mix cooled
+  sausage, cream cheese, and Parmesan. Fill each mushroom with 1 teaspoon of
+  filling. Bake at 350 degrees for 7 minutes.
+  
+  Note: If ground smoked sausage isn't available you can add 1/2 teaspoon of
+  a liquid natural smoke product (like Wright's) to 1/2 pound ground pork
+  (not pork sausage).
+  
+  Entered for you by: Bill Webster
+  Posted to MC-Recipe Digest V1 #835 by Bill Webster &lt;thelma@pipeline.com&gt; on
+  Oct 10, 1997
+ 
+</step></directions></recipe></recipeml>

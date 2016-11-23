@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Tomatoes</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Tomatoes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Tomatoes; whole</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beef; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Green onions, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onions; cooking, chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ginger root fresh, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Garlic, fresh minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Corn starch (or) tapioca starch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar, white</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Green onions; diced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable oil</item></ing></ingredients>
+    <directions>
+      <step>  Preparing Tomatoes:  Remove skins off tomatoes by placing tomatoes in hot
+  boiling water.  Leave for 2 to 3 minutes, peel off tomatoe skins, cut
+  tomatoes in 6 wedges and place in bowl.
+  
+  Heat wok, add 2 tablespoons vegetable oil, add 1/2 of the ginger and
+  garlic, add raw beef and cook it to 50 percent done (optimist) or 50
+  percent raw (pessimist). Remove beef from wok. Add 2 more tablespoons of
+  vegetable oil to wok, add remaining garlic and ginger, add onions, cook 1
+  minute and add tomatoes.  Stir fry until tomatoes are warm, add water,
+  salt, sugar and ketchup. Season sauce to your taste. Bring to a boil and
+  thicken sauce with corn starch.  Add back the cooked beef and shredded
+  green onions.  Mix well and remove from wok. Serve over steamed rice, chow
+  mein, or fried rice. Garnish with green onions
+  
+  Source: Cooking the Chinese Way with Herb Chow
+  
+  Typos by Vern
+ 
+</step></directions></recipe></recipeml>

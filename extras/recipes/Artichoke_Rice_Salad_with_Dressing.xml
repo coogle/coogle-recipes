@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Rice Salad with Dressing</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SALAD</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Jars (6 oz) marinated</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Artichoke bottoms</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Bottle (4 oz) stuffed</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Green olives</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit/></amt>
+          <item>Green onions</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Green pepper, sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Rice pilaf mix OR</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chicken rice mix</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Mayonnaise</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Curry powder</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Jars marinade from</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Artichoke bottoms</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cook rice according to package directions; let cool. Drain artichoke
+  bottoms, reserving liquid.  Drain olives; discard their liquid. Chop
+  artichoke bottoms, olives, onions, and pepper. Add to cooled rice and mix.
+  
+  Make the dressing by combining marinade from artichokes with other dressing
+  ingredients.  Toss with rice salad. Refrigerate 1 hour. Serve when ready.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

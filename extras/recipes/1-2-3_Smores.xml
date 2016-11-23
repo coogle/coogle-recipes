@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1-2-3 Smores</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Rice cakes (any flavor)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Hershey's candy bar</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Miniature marshmallows</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Betty Fields Break candy bar in half. Put one half on 1 rice
+  cake, the other half on the other rice cake. Put 5 marshmallows on top of
+  each rice cake and candy bar. Microwave for 30 seconds. Makes 2 servings.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

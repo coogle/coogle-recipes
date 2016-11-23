@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Turnip Soup</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef shank</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Chinese white turnips</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>White onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>     1. Cut beef in 1-inch cubes. Place in saucepan with cold water and bring
+  to a boil. Then reduce heat and skim several times to clear. Simmer,
+  covered, 1 hour.
+  
+     2. Peel and dice turnips; peel and quarter onions. Add to pan and
+  simmer, covered, 30 minutes more.
+  
+     3. Season with salt and pepper. Simmer another minute.
+  
+     VARlATIONS: For the beef, substitute pork or an uncooked chicken
+  carcass.
+  
+     Add with beef 1 Piece dried tangerine peel (soaked).
+  
+     Add with vegetables 1 tomato, peeled and diced; and either 1 carrot or 4
+  water chestnuts, diced.
+  
+     Add with seasonings 1 tablespoon soy sauce and/or 1 teaspoon sherry.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

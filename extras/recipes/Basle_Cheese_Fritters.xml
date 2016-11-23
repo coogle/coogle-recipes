@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basle Cheese Fritters</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slices bread</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slices Gruyere or Emmenthal cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Paprika</item></ing></ingredients>
+    <directions>
+      <step>  Fry bread lightly on both sides in butter and arrange on a baking sheet.
+  Pour boiling water over finely chopped onions and leave for a moment. Pour
+  off water, and fry onions in the remains of the butter until tender. Spread
+  onions thinly on the bread and cover each slice with a slice of cheese.
+  Sprinkle with paprika and bake in a very hot oven (445 degrees F/Gas mark
+  8) until cheese melts. Serve at once.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baba Au Rhum</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Abm-100:; (ABM-300/350):</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Yeast; (1 1/2 tsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour; (2 c)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar; (2 T)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt; (1 tsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk; 80 deg,(1/4 c)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water; 80 deg,(1/3 c)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Oil; 80 deg,(1/4 c)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg; room temp,(1)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Almond extract; (1/2 tsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla extract; (1/2 tsp)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>At beep add:</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins; (1/2 c)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds; slivered,(1/4 c)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Add:</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rum Syrup:</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Rum</item></ing></ingredients>
+    <directions>
+      <step>  SETTING: Sweet Bread, MEDIUM
+       12    o'clock
+  
+  This French yeast bread,  adapted from the  Austrian Guglehuph, was
+  originally name Ali Baba, after a hero in the book, "The Thousand and One
+  Nights."   A coffee bread made extra moist with Rum Syrup spooned over.
+  Could also be served for dessert.
+  
+  Before the end of the secondary  kneading, the electronic beeper will sound
+  10 times. At this signal, add rum sauce mixture.
+  
+  Prepare Syrup:  In small  saucepan, bring sugar and  water to a boil,
+  stirring occasionally. Remove from heat; add rum. Spoon over warm bread.
+  (For more penetration, puncture bread with fork.) Serve warm or cold.
+  
+  &gt;From: Rick Turley &lt;rickt@hpfccg.sde.hp.com&gt;
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : Welbilt/Red Star Yeast
+ 
+</step></directions></recipe></recipeml>

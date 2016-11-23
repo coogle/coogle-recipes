@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Custard</title>
+      <categories>
+        <cat>Pudding</cat>
+        <cat>Custard</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nutmeg (optional)</item></ing></ingredients>
+    <directions>
+      <step>  In a medium bowl, lightly beat eggs. Stir in milk, sugar, vanilla, and
+  salt. Place a 1-quart casserole or six 6-ounce custard cups in a 13x9x2
+  baking pan on oven rack. Pour custard mixture into casserole or cups.
+  Sprinkle with nutmeg, if desired. Pour boiling water into the pan around
+  casserole or custard cups to a depth of 1 inch. Bake at 325 for 50 to 60
+  minutes for the 1-quart casserole, 30 to 40 minutes for the custard cups,
+  or until a knife inserted near center comes out clean. Serve warm or
+  chilled. To unmold chilled individual custards, first loosen edges with a
+  spatula or knife, then invert onto serving plate.
+  
+  Variation: Baked Coffee Custard. Prepare as above, adding 4 tsp instant
+  (decaf) coffee crystals dissolved in 1 Tbsp hot water to eggs along with
+  milk, sugar, etc. Omit nutmeg. Serve topped with whipped cream, sprinkled
+  with toasted almonds.
+  
+  From: Ari Rapkin
+  
+  Busted and entered for you by: Bill Webster
+  Posted to MC-Recipe Digest V1 #889 by Bill Webster &lt;thelma@pipeline.com&gt; on
+  Nov 08, 1997
+ 
+</step></directions></recipe></recipeml>

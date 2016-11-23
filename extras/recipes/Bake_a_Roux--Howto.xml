@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bake a Roux--Howto</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Flour -- all purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Cooking oil</item></ing></ingredients>
+    <directions>
+      <step>  Mix  flour and oil together in a heavy ovenproof container. Place on center
+  shelf in preheated 400 degree oven. Bake at this temperature for 1 1/2 to 2
+  hours.  Set timer, and stir roux every 15 minutes. Roux should be a caramel
+  color when done.  Remove from oven, cool, transfer to containers with tight
+  fitting lids and store in refrigerator until needed. Roux may also be
+  frozen.  Yield:  enough for 4 to 6 pots of gumbo.
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

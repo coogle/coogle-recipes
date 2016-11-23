@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic French Omelet</title>
+      <categories>
+        <cat>French</cat>
+        <cat>Eggs</cat>
+        <cat>Breakfast</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Combine eggs, milk, and salt in bowl. Beat gently. Place butter in skillet
+  and heat until butter is very slightly browned. Add eggs and immediately
+  stir them briskly with back of fork. When the eggs have thickened and there
+  are no more liquid eggs in skillet, stop stirring and continue cooking for
+  a few seconds, gently shaking the pan back and forth over the heat. Take
+  skillet off fire and with fork fold one-third of omelet over center. Then
+  fold other third over first. Slide omelet onto heated serving dish.
+  COMMENTS French omelets are famous for their smoothness and lightness. This
+  is because the eggs are cooked very quickly and remain moist -- as they
+  should. Once the butter is hot, it does not take more than two minutes to
+  make the omelet itself. There is in every French household an "omelet
+  skillet," used only for that purpose. It is a cast iron or heavy aluminum
+  skillet, approximately 9-inches across. It is never washed but is carefully
+  wiped after each use with paper towels. If it becomes necessary to wash it,
+  it is scoured with a scouring pad, then oiled and wiped with paper. Some
+  omelet skillets are larger for bigger omelets, but it is never advisable to
+  make an omelet of more than 4 eggs. It is much easier to cook two 3-egg
+  omelets than a 6-egg one. The eggs should be taken out of the refrigerator
+  one hour before cooking. They are beaten lightly, just enough to break them
+  and blend the whites and yolks together. This is done at the last minute.
+  The one essential factor in the successful making of an omelet is the
+  temperature of the butter. The eggs are not poured into the skillet until
+  the butter bubbles and turns "noisette" (hazelnut), that is, slightly
+  brown. Then the eggs are turned into the skillet and the omelet is briskly
+  made. Many cooks, just before serving, rub a piece of butter over the top
+  of the omelet to give it a "shine," which does not make it any better but
+  does make it more appetizing. Source: The Art of French Cooking by Fernande
+  Garvin, Published by Bantam Books, Inc. 1958
+  
+  Suggested Wine: A chilled dry white wine:  Bordeaux Graves.
+  
+  Recipe by: The Art of French Cooking
+  
+  Posted to TNT Recipes Digest by MarySpero@prodigy.com (MS MARY E SPERO) on
+  Apr 28, 1998
+ 
+</step></directions></recipe></recipeml>

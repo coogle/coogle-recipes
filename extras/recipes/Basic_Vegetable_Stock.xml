@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Vegetable Stock</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Heads of celery</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Carrots bunch of parsley stalks</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Clean and prepare the vegetables, chop coarsley and boil in the water for
+  30 mins. Leave to cool, then puree the mixture and pass it through a sieve.
+  Discard the vegetable debris and store the stock in a sealed container in
+  the frige. Note: It will keep happily for a couple of weeks, or may be
+  frozen for up to 3 months. I love cookbooks!!
+  
+  From: Licorice1@aol.com. Fatfree Digest [Volume 8 Issue 51] June 12, 1994.
+  Formatted by Sue Smith, S.Smith34, TXFT40A@Prodigy.com using MMCONV.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

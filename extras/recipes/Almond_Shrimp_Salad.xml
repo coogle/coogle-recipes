@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Shrimp Salad</title>
+      <categories>
+        <cat>Almonds</cat>
+        <cat>Main dishes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Near East Toasted Almond Pilaf Mix *</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Seedless grapes; red or green, halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped celery</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped fresh dill</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Romaine lettuce leaves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon wedges</item></ing></ingredients>
+    <directions>
+      <step>  Prepare pilaf mix as package directs; cool slightly. Stir shrimp, grapes,
+  celery, dill, lemon juice, oil, garlic and honey into pilaf. Cover; chill
+  two hours before serving. Line serving bowl with lettuce leaves; top with
+  rice mixture. Serve with lemon wedges.
+  
+  Servings: 4
+  
+  * One package of pilaf mix is 6.6 ounces
+  
+  See http://www.almondsarein.com/ &gt;Hanneman/Buster/MasterCook 1998/Ap
+  
+  Recipe by: Almond Board of California
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Apr 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

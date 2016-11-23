@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Adam West's Super Bowl Dumplings</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Dumplings</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Sweet italian ground</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Red pepper, dice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mushroom, dice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh sage</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Won-ton wrappers</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nonstick cooking spray</item></ing></ingredients>
+    <directions>
+      <step>  In large skillet, warm sausage over low heat for 15 minutes. Drain
+  fat. Add onions, peppers, mushrooms, pepper, and sage, and saute over
+  low heat for 10 minutes; set aside. Lay won-ton wrappers on a
+  well-floured surface. Brush tops with water. Fill each skin with 1 ts
+  of mixture, then fold in half diagonally; press edges to seal. Spray
+  a steamer basket with nonstick cooking spray.  Place as many
+  dumplings as possible in basket and steam, covered, for four to five
+  minutes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

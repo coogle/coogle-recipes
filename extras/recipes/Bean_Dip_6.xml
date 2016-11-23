@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Dip</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Refried beans; (preferrably not seasoned)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Container sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Yellow onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Fresh serranos; (or 1-3 jalapenos), chopped (up to 4)</item></ing></ingredients>
+    <directions>
+      <step>  Turn crockpot on high. Put beans, onions and serranos in, and mix well.
+  Cover and stir periodically until it starts to bubble. Let simmer for 10
+  minutes, stirring frequently. Add sour cream, mix well, and let it come
+  back to a simmer. Turn down to low, and keep covered until ready to serve.
+  Serve hot with tortilla chips.
+  
+  Posted to FOODWINE Digest  by Erin&amp;Steve &lt;saoeer@EARTHLINK.NET&gt; on Jan 3,
+  1998
+ 
+</step></directions></recipe></recipeml>

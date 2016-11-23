@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Butter Barbecue Sauce</title>
+      <categories>
+        <cat>Barbecue</cat>
+        <cat>Savory sauc</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomato sauce; 8 ozs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Pickapeppa sauce; or Worcestershire sauce</item></ing></ingredients>
+    <directions>
+      <step>  For sauce, in a small saucepan combine all ingredients. Bring just to
+  boiling. Brush sauce onto burgers to last 10 mins of grilling. Heat any
+  remaining sauce just til bubbly; serve with burgers. Makes about 1 1/2 cups
+  sauce, enough for 1 to 2 lbs of meat.
+  
+  Recipe by: Better Homes &amp; Gardens  7/96
+  
+  Posted to KitMailbox Digest  by Cairn Rodrigues &lt;cairnann@yahoo.com&gt; on May
+  21, 1998
+ 
+</step></directions></recipe></recipeml>

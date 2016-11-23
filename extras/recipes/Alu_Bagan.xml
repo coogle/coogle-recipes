@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alu Bagan</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Vegetarian</cat>
+        <cat>Potato</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>CAThie Coppolino (TDDB08B)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>x</unit></amt>
+        <item>Garlic cloves, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Potatoes, peeled, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Eggplant, peeled, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>(or more) Mushrooms, halved</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Tomatoes, chopped, OR 1 (16 ounce) can chopped tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>With juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tumeric</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Curry powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red chilli powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>(or more) salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Olive oil (as needed)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water (as needed)</item></ing></ingredients>
+    <directions>
+      <step>  In large skillet or electric frying pan, heat oil and saute onions and
+  garlic until onions are golden. Add potatoes, eggplant, and mushrooms and
+  cook over medium-high heat ten minutes. Add tomatoes and all spices to
+  mixture along with 1 C. water. Cover and simmer, stirring occasionally,
+  until veggies are cooked, about 30 to 40 minutes. You may need to add more
+  water or oil as it evaporates. Serve with warmed whole wheat tortillas. We
+  like to serve burrito style after spreading the tortilla with butter.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

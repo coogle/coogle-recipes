@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Olive Oil</title>
+      <categories>
+        <cat>Misc</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Enough fresh green basil sprigs, including blossoms but no woody stems, to fill 1-qt jar 2/3 full loosely</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Rinse the basil, shake off any excess water, and pat the basil dry. Bruise
+  the basil lightly with a wooden spoon and pack it loosely into a 1-quart
+  glass jar with a non-metallic lid. Add the oil and let the mixture stand,
+  covered, in a cool dark place for 1 month. Strain the oil into a glass
+  pitcher, pour it into glass jars, and seal the jars with their lids. The
+  oil keeps in a cool dark place for about 6 months. Makes about 4 cups.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

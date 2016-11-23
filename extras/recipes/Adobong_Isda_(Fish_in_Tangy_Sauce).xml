@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Adobong Isda (Fish in Tangy Sauce)</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Filipino</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Hito (catfish) dressed (or pickerel or trout)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cooking oil</item></ing></ingredients>
+    <directions>
+      <step>  1.  Put fish in porcelain or teflon skillet.  Combine the rest of
+  ingredients except cooking oil, and pour over the fish.
+  
+  2.  Over medium heat, bring to a boil.  Cover, lower heat and simmer f
+  about 10 minutes turning fish once.
+  
+  3.  Transfer fish to a dish.  Let sauce in skillet simmer until reduce
+  Transfer to a small bowl and set aside.
+  
+  4.  Heat oil in skillet.  Fry fish until brown on all sides. Place on
+  serving dish.  Pour sauce over it.
+  
+  Preparation and cooking time:  30 minutes Serves 4-5
+  
+  Recipes by Dennis Santiago, TWS bbs (1-310-676-0492), formatted by Man
+  Rothstein (1/24/94)
+ 
+</step></directions></recipe></recipeml>

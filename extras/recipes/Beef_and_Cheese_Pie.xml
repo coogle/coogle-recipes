@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Cheese Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit/></amt>
+        <item>Chopped green bell pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>8 oz. tomato sauce and mushr</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>8 oz. cut green beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>8 oz. crescent rolls</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg,slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded Cheddar cheese</item></ing></ingredients>
+    <directions>
+      <step>     Preheat oven to 375 degrees.Fry ground beef,onion and green bell pepper
+  in a large frying pan.Drain fat.Stir in tomato sauce, beans,and
+  seasoning.Simmer while preparing crust.Separate crescent rolls into 8
+  triangles.Place in an ungreased 9" pie pan.Press bottom and sides to form a
+  crust.Combine egg and 1 cup cheese. Spread over crust,evenly.Spoon hot meat
+  mixture into crust. Sprinkle with remaining cheese.Bake for 20 to 25
+  minutes.Serves 6.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

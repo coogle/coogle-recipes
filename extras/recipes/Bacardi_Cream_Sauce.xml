@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacardi Cream Sauce</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Bacardi rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon twist</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients. Simmer. Reduce to half. Typed by
+  jazzbel@batelnet.bs.
+  
+  Recipe by: Goombay Madness
+  
+  Posted to Bakery-Shoppe Digest V1 #251 by "Jazzbel"
+  &lt;jazzbel@grouper.BatelNET.bs&gt; on Sep 18, 1997
+ 
+</step></directions></recipe></recipeml>

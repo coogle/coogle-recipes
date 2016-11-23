@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>About Miso</title>
+      <categories>
+        <cat>Text file</cat>
+        <cat>Digest</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Text file</item></ing></ingredients>
+    <directions>
+      <step>  The best resource on Miso that I know of is Shurtleff and Aoyagi's book
+  _The Book of Miso_.  It's quite a complex subject.  The differences is miso
+  can be attributed to a variet of factors, from the proportion of
+  ingredients, cooking techniques, and duration and temperature of
+  fermentation.  The redish color comes from long fermentation times (or in
+  cheap imitations, from dyes).  The whiter misos are generally fermented for
+  short times, and often made with rice in addition to soybeans. Reds are
+  generally saltier and whites sweeter.
+  
+  Misos vary widely in fat content (like most soy products) and generally
+  range from .25 to 1.5 gram of fat per tablespoon (and from about 6%CFF to
+  over 30%CFF).  Some varieties, like peanut miso, obviously have even more
+  fat.  Since it is rare that a dish has more than 1 T miso per serving, miso
+  does not generally add appreciable fat to a dish. Many of the white sweet
+  misos clock in at the low end (.25 grams per T, 6-10%CFF) so if you do want
+  to use more miso, these kinds can be added liberally to a dish (and since
+  their taste isn't as strong or salty, they do become many dishes in greater
+  quantity).
+  
+  I find the dark, hearty misos make great gravy starters.  Add a bit of
+  water/stock, some nutritional yeast, spices and a thickener to some miso
+  and voila, instant delicious gravy.  A favorite miso-potato recipe follows.
+  
+  ~- Michelle Dick artemis@rahul.net
+  
+  On miso, you just have to try different kinds &amp; brands.  There are numerous
+  styles of miso.  Red misos tend to be more "savory" and white ones are
+  usually more "sweet".  Country-style (Inaka) is made grainier on purpose.
+  If served as a sauce on veggies, probably it's not straight miso but mixed
+  w/sugar and some rice vinegar.  BTW a warning to vegetarians, some misos
+  come "dashi-iri" which includes fish-based stock.  I think the ingredients
+  label in English will mention fish, but not sure (since I can read the
+  Japanese, I don't usually check the English), so check the ingredients
+  carefully.  There is kombu-dashi (I even found some granulated packets)
+  which is vegetarian, but most dashi is from bonito flakes (I guess it must
+  be cheaper).
+  
+  Aiko P.
+  From Fatfree Digest April-May 1994, Formatting by Sue Smith (using MMCONV)
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

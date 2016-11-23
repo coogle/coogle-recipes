@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pears</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Pears</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Maple Syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Powdered Ginger</item></ing></ingredients>
+    <directions>
+      <step>  1. Leave stems on pears, but cut a slice from the bottom end to form a flat
+  surface so pears will stand up in baking dish. 2. Mix all ingridients and
+  pour over pears. 3. Bake uncovered in preheated oven at 325 F, for 1 hour
+  and 20 min. 4. Baste with the syrup while baking.
+     Out of Have a natural Christmas 79
+     typed by Brigitte Sealing
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

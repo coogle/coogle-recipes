@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Slush</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Regular tea bags</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Amaretto</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(6-oz) frozen orange juice concentrate; thawed and undiluted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(6-oz) frozen lemonade concentrate; thawed and undiluted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bottles (33.8-oz) ginger ale; chilled</item></ing></ingredients>
+    <directions>
+      <step>   Here are some recipes for holiday season drinks, copied from Southern
+  Living Magazine a few years ago:
+  
+   Pour boiling water over tea bags; cover and let stand 5 minutes.  Remove
+  tea bags and discard.  Transfer tea to a 2-quart freezer container.  Stir
+  in 3 1/2 C. water and next 4 ingredients. Cover and freeze until firm. To
+  serve, partially thaw until slushy. Pour equal amounts of slush mixture and
+  ginger ale into serving glasses. Yield: 1 gallon.
+  
+  NDOOLEY@PRESIDENT-PO.PRESIDENT
+  
+  .UIOWA.EDU
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

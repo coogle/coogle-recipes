@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Dip</title>
+      <categories>
+        <cat>Dips</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cans</unit></amt>
+        <item>Artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic powder</item></ing></ingredients>
+    <directions>
+      <step>     Combine equal amounts Parmesan cheese and mayonnaise. Add garlic powder.
+  Add artichoke hearts and combine with cheese mixture. May be served cold or
+  heated 10 to 20 minutes in 350F oven or until cheese is melted (do not heat
+  in microwave).  Serve with chips or as a spread on french bread.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Alice's Curried Four Fruit Bake</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Family &amp; fr</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Curry powder</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Pear halves; canned</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Maraschino cherries</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Peach halves; canned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lg</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 325 degrees.
+  
+  Melt margarine. Add sugar and curry. Drain and dry fruit in 1 1/2 quart
+  casserole. Add margarine mixture. Bake 1 hour. Serve warm from baking dish.
+  
+  Good with ham, lamb, chicken or turkey. Flavor will be even better if dish
+  stands covered in refrigerator and the reheated.
+  
+  Recipe by: Alice Hale
+  
+  Posted to MC-Recipe Digest by "Barbara E. Price" &lt;abprice@wf.net&gt; on Apr
+  28, 1998
+ 
+</step></directions></recipe></recipeml>

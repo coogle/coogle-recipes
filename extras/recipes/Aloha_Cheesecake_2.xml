@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aloha Cheesecake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Vanilla Wafer Crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream Cheese, Softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Macadamia Nuts, Toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Med Kiwi Peeled, Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine, Melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Large Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>8 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Crushed Pineapple, Drained</item></ing></ingredients>
+    <directions>
+      <step>  Combine crumbs and margarine; press onto bottom of 9-inch springform pan.
+  Bake at 350 degrees F., 10 minutes.
+  
+  Combine cream cheese, sugar and milk, mixing at medium speed on electric
+  mixer until well blended.  Add eggs, one at a time, mixing well well after
+  each addition.  Stir in nuts; pour over crust.  Bake at 350 degrees F.,
+  45 minutes.  Loosen caek from rim of pan; cool before removing rim of pan.
+  Chill.  Before serving, top with fruit.
+  
+  Recipes from Nestles Toll House cookbook and Kraft Philidelphia Cream
+  Cheese Cookbooks.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/chscake.zip
+ 
+</step></directions></recipe></recipeml>

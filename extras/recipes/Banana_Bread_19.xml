@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread</title>
+      <categories>
+        <cat>Bread</cat>
+        <cat>Osg</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; all purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter; or other shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nut meats; or raisins</item></ing></ingredients>
+    <directions>
+      <step>  Mix well and turn in well greased loaf pan. Bake in moderate oven 350
+  F for 45 minutes. Remove from oven, let stand in pan a few minutes,
+  then remove to cool.
+  
+  Source: Emma Blair, Newbury Grange, Geauga County, OH
+  Mrs. W. F. Work, Hardy Grange, Holmes County, OH
+  Originally published in Ohio State Grange Cook Book, 21st ed., Apr 1966.
+  Compiled by members of Ohio State Grange Home Economics Committee.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-bread.zip
+ 
+</step></directions></recipe></recipeml>

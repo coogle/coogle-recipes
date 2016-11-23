@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pork Steak</title>
+      <categories>
+        <cat>Barbecue</cat>
+        <cat>Pork</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Pork steaks, cut 3/4 inch thick</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Rum extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Prepared mustard</item></ing></ingredients>
+    <directions>
+      <step>  Remove excess fat from steaks.
+  
+  Measure remaining six ingredients into deep bowl. Add chops. Marinate at
+  least two hours or overnight in refrigerator. Place chops on greased grill
+  over medium heat. Baste with sauce. Continue to baste and turn until done,
+  about 15 minutes total time.
+  
+  NOTES : I use pork chops and less rum extract (1 teaspoon).  It is best if
+  you marinate overnight.
+  
+  Recipe by: Company's Coming Barbecues Posted to MC-Recipe Digest V1 #612 by
+  Kim Robb &lt;krobb@summer.com&gt; on May 14, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Streusel Coffee Cake</title>
+      <categories>
+        <cat>Coffee</cat>
+        <cat>Cakes*</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Bisquick baking mix</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon; ground</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Applesauce; sweetened</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable oil</item></ing></ing-div>
+      <ing-div>
+        <title>STREUSEL TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Bisquick baking mix</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Firm butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar; packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nuts; finely chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Grease round pan, 9". Mix all ingredients except Streusel Topping until
+  moistened. Spread batter in pan; sprinkle with Streusel Topping. Bake in a
+  preheated 400~ oven until wooden toothpick inserted in center comes out
+  clean, about 20-25 minutes. Serves warm. Streusel Topping: Mix all
+  ingredients until crumbly.
+  Posted to EAT-L Digest  by LDGOSS &lt;LDGOSS@PRODIGY.NET&gt; on Jan 21, 1998
+ 
+</step></directions></recipe></recipeml>

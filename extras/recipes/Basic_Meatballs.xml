@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Meatballs</title>
+      <categories>
+        <cat>Microwave</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fine bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Mix together; shape into 12 balls. Arrange in circle in 9 x 10 pie plate.
+  Cover with wax paper. Microwave on high 9 to 12 minutes, rotating dish half
+  way after 5 minutes.
+  
+  Variation 1 -- use 1 Tbsp. Worcestershire sauce and 1/4 cup chopped onion
+  
+  Variation 2 -- 1 Tbsp. steak sauce and 1/4 Tbsp. garlic powder
+  
+  Variation 3 -- 1 Tbsp. catsup and 1/4 tsp. prepared mustard
+  
+  Posted to Bakery-Shoppe Digest by "CD" &lt;poppy@connectcorp.net&gt; on Apr 5,
+  1998
+ 
+</step></directions></recipe></recipeml>

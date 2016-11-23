@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Meringue</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>See below</item></ing></ingredients>
+    <directions>
+      <step>  Beat 1 egg white until frothy. Add 1 1/2 cups confectioners sugar;
+  beat until meringue holds its shape. Fold in 1/2 cup finely chopped
+  blanched almonds.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

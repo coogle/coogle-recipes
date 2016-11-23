@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balkan Cold Cucumber Salad</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Thinly sliced cucumbers --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peeled and seeded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sea salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Hard-boiled eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Plain nonfat yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Apple cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Spinach</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh dill sprigs -- for</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garnish</item></ing></ingredients>
+    <directions>
+      <step>  1. Cut cucumber slices into half-moon shapes. Place cucumbers in a large
+  bowl with sea salt. Toss well. Let marinate at room temperature for 30
+  minutes. Rinse well to remove salt.
+  
+  2. Slice eggs in half. Separate yolks and whites. Chop whites and set
+  aside. Mash egg yolks with mustard, yogurt, honey, and vinegar.
+  
+  3. Toss together cucumbers, egg whites, and egg-yolk mixture. Wash spinach
+  and remove stems. Arrange on 4 salad plates. Spoon cucumber salad on top.
+  Garnish with dill sprigs. Serve at room temperature.
+  
+  Recipe By     : the California Culinary Academy
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

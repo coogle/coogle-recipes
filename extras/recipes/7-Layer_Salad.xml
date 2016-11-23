@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Layer Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Head lettuce; torn into pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Peas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bacon; cooked and crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Cheddar cheese; grated or shredded</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Miracle whip</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  From: Susie &lt;ssarge@mc.net&gt;
+  
+  Date: Sun, 04 Aug 1996 06:33:47 -0700
+  Mix the milk and miracle whip together to get a consistency of thick salad
+  dressing.  Set aside.
+  
+  layer: Lettuce, celery, onions, peas, miracle whip/milk mixture, cheese,
+  bacon pieces.
+  
+  Refrigerate overnight.  You can vary the quantities of all the ingredients
+  to suit you.  You could also add a layer of ripe olives or something.  The
+  only layers that need to be in order are the lettuce, salad dressing mix,
+  and topped with the cheese and bacon. The celery, onions, peas, etc.
+  doesn't really matter the order they are in. Ripe olives I would put on top
+  with the cheese and bacon layer.
+  
+  Mm-recipes Digest V3 #210
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

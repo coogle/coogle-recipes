@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus and Eggs</title>
+      <categories>
+        <cat>Brunch</cat>
+        <cat>Eggs</cat>
+        <cat>Victorian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; (up to 4)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Asparagus; dressed, cut</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Toast slices</item></ing></ingredients>
+    <directions>
+      <step>  Beat three or four eggs well with pepper and salt. Cut some dressed
+  asparagus into pieces the size of pease, and stir them into the eggs. Melt
+  two ounces of butter in a small stew-pan, and pouring in the mixture, stir
+  it till it thickens, and serve it hot on a toast.
+  
+  Source: Meg Dods, Cook and Housewife's Manual (1829), as featured in The
+  Victorian Cookbook by John Midgley
+  
+  Recipe by: Meg Dods
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 908 by MarySpero@prodigy.com (MS
+  MARY E SPERO) on 2 Ja, n 1998
+ 
+</step></directions></recipe></recipeml>

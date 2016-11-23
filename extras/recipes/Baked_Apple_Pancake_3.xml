@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apple Pancake</title>
+      <categories>
+        <cat>Breakfast</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Whole apple peeled; thinly sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; unsalted</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Nuts and raisins; chopped</item></ing></ing-div>
+      <ing-div>
+        <title>BATTER</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Whole eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 450F.
+  
+  Saute apple slices in butter over medium heat until tender. Add sugar,
+  cinnamon, nuts and raisins to the pan, stirring to coat apple. Remove from
+  heat and set aside.
+  
+  For the batter, melt butter in the microwave, set aside to cool. Spray
+  skillet with Pam. In a bowl beat eggs until light. Slowly add flour and
+  salt, blending until smooth. Beat in melted butter and milk.
+  
+  Pour apple filling into skillet and top with batter. Bake 15 minutes.
+  Reduce oven temperature to 350F and bake five to ten minutes more. Cut
+  pancake into four pieces and serve with favorite topping.
+  
+  NOTES : Barbara Michel had this one marked as "good !" I have made the
+  changes in the recipe that she indicated.
+  Recipe by: Delicious Decisions/tpogue@idsonline.com
+  
+  Posted to recipelu-digest Volume 01 Number 428 by Terry Pogue
+  &lt;tpogue@idsonline.com&gt; on Dec 31, 1997
+ 
+</step></directions></recipe></recipeml>

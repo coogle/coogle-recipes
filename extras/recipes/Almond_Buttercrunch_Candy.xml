@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Buttercrunch Candy</title>
+      <categories>
+        <cat>Candies</cat>
+        <cat>Holiday</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Almonds, slivered;blanched</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Corn syrup, light</item></ing></ingredients>
+    <directions>
+      <step>  Line bottom and sides of 8 or 9 inch cake pan with foil. Butter heavily.
+  Combine almonds, butter, sugar and corn syrup in 10 inch skillet. Bring to
+  a boil over medium heat, stirring constantly until mixture turns golden
+  brown, about 5 to 6 minutes. Quickly spread candy in prepared pan. Cool
+  until firm. Remove candy from pan by lifting edges of foil. Break into
+  pieces, if desired. makes; about 3/4 lb
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

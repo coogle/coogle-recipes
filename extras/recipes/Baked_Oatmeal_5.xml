@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Oatmeal</title>
+      <categories>
+        <cat>Breakfast</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar*</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>3 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oatmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon; (up to 1)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Mix oil, sugar and eggs, add rest of ingredients, mix well. Bake 30 minutes
+  at 350 degrees uncovered. Serve warm with milk. * This was very sweet so I
+  used only half the sugar, 3/4 cup.
+  
+  Recipe by: Liz Custer
+  
+  Posted to MC-Recipe Digest V1 #990 by " Liz Custer" &lt;custer@dconn.com&gt; on
+  Jan 7, 1998
+ 
+</step></directions></recipe></recipeml>

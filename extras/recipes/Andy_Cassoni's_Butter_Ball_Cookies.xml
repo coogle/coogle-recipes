@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andy Cassoni's Butter Ball Cookies</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Christmas</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cake flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ground walnuts</item></ing></ingredients>
+    <directions>
+      <step>  Cream together butter and sugar. Add the remaining ingredients. Roll into
+  balls and bake for 30 minutes in a 325F oven. When warm, roll in
+  confectioners' sugar and cool. Repeat rolling in sugar.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Wheat Bread</title>
+      <categories>
+        <cat>Bread</cat>
+        <cat>Machine</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FOR 1 1/2 POUND LOAF</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Yeast; bread machine type</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Bread flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Whole wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Nonfat dry milk powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vital Gluten</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>+ 2 T. water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Add ingredients to machine in order suggested by manufacturer. Process on
+  White bread cycle. Can do in timed baking cycle. Process on Light setting.
+  MC formatting by bobbi744@sojourn.com
+  
+  NOTES :  Makes a good sized loaf. Can add 1/2 tsp. dried herbs with the
+  flour.
+  
+  Recipe by: Fleishmann's Bread Machine Favorites
+  
+  Posted to MC-Recipe Digest V1 #877 by Roberta Banghart
+  &lt;bobbi744@sojourn.com&gt; on Oct 31, 1997
+ 
+</step></directions></recipe></recipeml>

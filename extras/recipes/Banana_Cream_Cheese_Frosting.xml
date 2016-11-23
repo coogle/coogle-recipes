@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cream Cheese Frosting</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter;  at room temperature</item></ing></ing-div>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream cheese;  at room temperature</item></ing></ing-div>
+      <ing-div>
+        <title>09</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Banana;  mashed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Freshly grated nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Confectioners' sugar; (16 ounce)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Beat the butter, cream cheese, and sour cream together in a large bowl
+  until light. Add the banana, vanilla, nutmeg, and sugar, mixing well until
+  fluffy. Spread over cooled cake if using as a frosting. Keep refrigerated
+  until serving time. Yield: 2 1/2 cups
+  
+  Posted to EAT-L Digest 27 Sep 96
+  
+  Date:    Fri, 27 Sep 1996 21:27:43 -0500
+  
+  From:    Jackie Bordelon &lt;jbord@PREMIER.NET&gt;
+  
+  NOTES : NATHALIE DUPREE COOKS #ND7111
+ 
+</step></directions></recipe></recipeml>

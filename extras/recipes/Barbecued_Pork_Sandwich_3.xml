@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Pork Sandwich</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>22</qty>
+          <unit>pounds</unit></amt>
+        <item>PORK BUTTS FZ</item></ing>
+      <ing>
+        <amt>
+          <qty>100</qty>
+          <unit/></amt>
+        <item>BUN HAMBGR 13OZ #102</item></ing></ingredients>
+    <directions>
+      <step>  1.  HEAT BARBECUED PORK ACCORDING TO MANUFACTURER'S DIRECTIONS.
+  
+  2.  PLACE 2/3 CUP (1-NO. 6 SCOOP) HOT MIXTURE ON BOTTOM HALF BUN. TOP WITH
+  SECOND HALF.
+  
+  3.  SERVE HOT IMMEDIATELY.
+  
+  NOTE:  IF DESIRED, BUNS MAY BE TOASTED IN STEP 2.
+  
+  Recipe Number: N02703
+  
+  SERVING SIZE: 2/3 CUP PL
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

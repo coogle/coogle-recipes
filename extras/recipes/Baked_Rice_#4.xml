@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Rice #4</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bouquet garni</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Coarse salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sweet butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Carolina (long grain) rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Saffron threads</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parmesan; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chives; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 400 degrees. Combine the chicken stock, milk, cream,
+  bouquet garni, salt and pepper in a saucepan. Cover. Simmer for 20 minutes.
+  Remove and discard the bouquet garni. Set the chicken stock mixture aside.
+  Soften the onion in the butter over low heat in a large, oven proof
+  skillet. Add the rice and saffron. Cook, stirring gently, until the rice
+  grains are opaque. Add the chicken stock mixture. Stir until well mixed.
+  Cover. Bake for 20 minutes. Test for doneness. If underdone, cover and let
+  stand, steaming, at room temperature until done. Stir in the cheese and
+  chives.  Serve.
+  
+  JOEL.EHRLICH@SALATA.COM
+  
+  (JOEL EHRLICH)
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

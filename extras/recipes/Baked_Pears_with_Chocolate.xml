@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pears with Chocolate</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Ripe pears; peeled, halved and cored</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chocolate fudge topping; warm</item></ing>
+      <ing>
+        <amt>
+          <qty>Prep:</qty>
+          <unit>10</unit></amt>
+        <item>min, Cook: 30 min.</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350øF. Combine sugar and water in a heavy saucepan over
+  medium heat. Simmer 8-10 minutes until mixture begins to thicken slightly.
+  Place pears, cut side down, in a buttered shallow baking dish. Pour sugar
+  mixture over pears and bake 10 minutes. Turn pears and bake another 10
+  minutes, basting occasionally. Serve pears warm with chocolate topping.
+  
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Mar 02, 1998
+ 
+</step></directions></recipe></recipeml>

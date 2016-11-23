@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ziti and Vegetables</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Pasta</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Ziti or penne macaroni</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Green peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Celery stalks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Salad oil</item></ing>
+      <ing>
+        <amt>
+          <qty>28</qty>
+          <unit>ounces</unit></amt>
+        <item>Crushed Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable juice -- reg.or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Hot</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Mozzarella,lowfat --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parmesan cheese -- grated</item></ing></ingredients>
+    <directions>
+      <step>  In saucepot, prepare ziti as label directs. Meanwhile, cut green peppers,
+  carrots, celery, and onion into 1/2" pieces. In nonstick skillet over med.
+  high heat, in hot salad oil, cook vegetables til lightly browned. Stir in
+  1/4C. water; continue cooking over med. heat til vegetables are tender
+  crisp. Preheat oven to 375 F. Drain ziti in colander; set aside. To same
+  saucepot, add cooked vegetables; stir in crushed tomatoes, vegetable juice,
+  sugar, salt, and oregano; over high heat, heat to boiling. Remove saucepot
+  from heat; stir in cooked ziti. Reserve 1 C. shredded mozzarella for
+  topping. Into ziti mixture in saucepot, stir Parmesan cheese and remaining
+  mozzarella. Spoon mixture into shallow 4 qt. casserole; sprinkle with
+  reserved mozzarella cheese. Cover casserole and bake 30 minutes or til
+  cheese melts and mixture is hot and bubbly.
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potatoes, Stuffed</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Vegetables</cat>
+        <cat>Side dishes</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Salt;</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil;</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour half and half;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chives; snipped</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 450 degrees. Prick skins of potatoes with fork; lightly oil
+  your hands and rub oil onto the potatoes with fork; lightly onto the
+  potatoes.  Place potatoes oven and bake until done (about 35-40 minutes).
+  Reduce heat each heat to 325 degrees.  Remove potatoes from oven; cut a
+  think slice from each and hollow out, being careful to leave shell intact.
+  Mash centers in mixer with sour half and half, salt, pepper, and chives;
+  refull shells, heaping high. Bake on aluminum foil heated throught and top
+  is lightly browned (about 1/2 hour) Food Exchange per serving: 1
+  BREAD/STARCH EXCHANGE +
+        2    FAT EXCHANGES
+  
+  Source: Recipes for Diabetics by Billie Little Brought to you and yours by
+  Nancy O'Brion and her Meal-Master Posted to MC-Recipe Digest V1 #747 by
+  Herbert A Morrison &lt;Huggyb@golden.net&gt; on Aug 18, 1997
+ 
+</step></directions></recipe></recipeml>

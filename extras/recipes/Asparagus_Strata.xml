@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Strata</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Londontowne</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Asparagus, pieces or spears</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Bread slices, thin</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>American cheese slices</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Place 4 slices of bread, with crusts removed, into greased 8" X 8" X 2"
+  pan. Put slice of cheese on each piece of bread, then place asparagus
+  evenly on top of cheese. Top each with another slice of bread. Mix egg,
+  milk, salt, pepper, and mustard and pour over bread. Let refrigerate
+  overnight. Sprinkle top with additional grated cheese and bake at 350
+  degrees for 45-50 minutes or until custard is set (knife comes out clean
+  when inserte).
+  
+  As a variation, use ham slices instead of asparagus and top with corn
+  flakes and 4T melted butter.
+  
+  Mrs. Harold T. Cook
+  
+  From a book of recipes compiled by members and friends of the LONDONTOWN
+  PUBLIK HOUSE ASSEMBLY, EDGEWATER, MD 21037. Funds from sale of book used in
+  restoration and maintenance of the 17th century inn (hint, hint).
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/london13.zip
+ 
+</step></directions></recipe></recipeml>

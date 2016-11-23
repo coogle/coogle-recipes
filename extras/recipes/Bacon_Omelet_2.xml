@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Omelet</title>
+      <categories>
+        <cat>Egg</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Slices of bacon Cooked and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crumbled</item></ing></ingredients>
+    <directions>
+      <step>  Put butter in 9 inch pie plate.  Microwave on high 30 seconds until melted.
+  Beat eggs and milk and pour into pie plate. Sprinkle bacon on top and cover
+  with waxed paper. Microwave on high 4 minutes stirring once during cooking.
+  Cover and let stand 1 to 2 minutes. Fold in half
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

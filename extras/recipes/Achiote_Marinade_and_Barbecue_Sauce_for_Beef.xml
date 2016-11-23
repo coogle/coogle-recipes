@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Achiote Marinade and Barbecue Sauce for Beef</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Stephen Ceideburg</item></ing></ing-div>
+      <ing-div>
+        <title>MARINADE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Red wine vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Garlic cloves, minced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Achiote paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Crushed red pepper</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and black pepper, to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Olive oil</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Dried pasilla chile</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Boiling water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Achiote paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Of the marinade</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Marinade: Combine marinade ingredients.
+  
+  Makes enough for 2 pounds of beef.
+  
+  To use: Toss paper-thin slices (1 inch by 3 to 4 inches) of beef sirloin
+  with the marinade in a nonmetallic bowl. Refrigerate 6 to 8 hours or
+  overnight. Drain meat, reserving 3/4 cup of the marinade. Thread meat on
+  bamboo skewers.
+  
+  Sauce: Remove and discard seeds from pasilla chile. Coarsely chop chile and
+  cover with boiling water. Soak for 20 to 30 minutes. Drain, and put in a
+  food processor with achiote paste and olive oil. Puree. Add the 3/4 cup
+  marinade and blend until smooth.
+  
+  To use: Brush on skewers of meat. Broil or grill until meat is done, about
+  5 minutes, basting with marinade several times. Brush again before serving.
+  
+  Adapted from Time-Life's "Cooking of Latin America."
+  
+  From an article by Heidi Haughy  Cusik, The San Francisco Chronicle,
+  7/1/92.
+  
+  Posted by Stephen Ceideburg
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

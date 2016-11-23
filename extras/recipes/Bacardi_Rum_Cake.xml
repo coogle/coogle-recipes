@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacardi Rum Cake</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chopped pecans (walnuts will do)</item></ing>
+        <ing>
+          <amt>
+            <qty>18 1/2</qty>
+            <unit>ounces</unit></amt>
+          <item>Box yellow cake mix (do not use the sort with pudding in the mix)</item></ing>
+        <ing>
+          <amt>
+            <qty>3 3/4</qty>
+            <unit>ounces</unit></amt>
+          <item>Vanilla pudding mix</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cold water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Rum</item></ing></ing-div>
+      <ing-div>
+        <title>GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Rum</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Date: Mon, 29 Apr 1996 23:05:20 -0400
+  
+  From: Walt Gray &lt;waltgray@mnsinc.com&gt;
+  CAKE: Mix all cake ingredients together. Bake in bundt or tube pan at 325
+  for one hour. Let cool slightly and remove from pan. Glaze when cool.
+  
+  GLAZE: Melt butter in saucepan.  Stir in water and sugar.  Boil 5 minutes,
+  stirring constantly.  Remove from heat; add rum.
+  
+  In order to glaze the cake, first use a carving fork to poke holes in the
+  top and sides of the cake.  Slowly spoon glaze over cake.  It will take a
+  while for the cake to soak up all the glaze.  Sometimes it is necessary to
+  let the cake stand for five minutes or so in the midst of glazing so it can
+  absord the liquid. Then continue to glaze the cake until the glaze is all
+  used up.
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LISTSERVER
+  
+  MM-RECIPES DIGEST V3 #120
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

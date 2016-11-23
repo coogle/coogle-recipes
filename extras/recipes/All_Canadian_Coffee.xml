@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All Canadian Coffee</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Maple syrup; pure</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Rye whiskey</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Coffee; hot, black, double strength</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Whipping cream</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Maple syrup; pure</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Topping: Whip cream with maple syrup just up until soft mounds; set aside.
+    Divide maple syrup and whiskey among 4 warmed heat proof glass mugs or
+  goblets. Pour in coffee to 1 inch of top; spoon topping over coffee.
+  Decorate with tiny Canadian flags if desired. MAKES: 4 Servings
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

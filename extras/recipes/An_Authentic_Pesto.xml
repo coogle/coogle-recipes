@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>An Authentic Pesto</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Walnuts, shelled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pine nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Coarse salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>(or 5) black peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic clove(s)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Basil leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Grated Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Grated Romano cheese or added Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Place all ingredients except 1 cup black peppercorns in food processor and
+  grind very fine. Add remaining olive oil and blend a few seconds until very
+  smooth.
+  
+  From:   Quick and Healthy Cooking
+  :       Baltimore Sun
+  
+  From: Diane Lazarus                   Date: 05-23-96
+  
+  Posted to MM-Recipes Digest V3 #272
+  
+  Date: Fri, 4 Oct 1996 23:59:50 -0400
+  
+  From: BobbieB1@aol.com
+ 
+</step></directions></recipe></recipeml>

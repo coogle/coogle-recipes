@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amish Sour Cream Apple Pie</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Amish</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Apples; peeled, diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>9 inch pie shell; unbaked</item></ing></ing-div>
+      <ing-div>
+        <title>CRUMB TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar; packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cinnamon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Recipe by: Jo Merrill Use dairy sour cream for this recipe-not a sour cream
+  substitute. Beat sour cream and egg together; add sugar, flour, salt and
+  vanilla. Mix until smooth. Stir in apples. Place mixture into pie shell and
+  bak in preheated 400 degree oven for 25 minutes. Meanwhile mix topping
+  ingredients until crumbly-- Remove pie from oven and sprinkle the crumb
+  topping over. Bake 20 minutes longer.
+  
+  Formatted &amp; Busted by RecipeLu &lt;recipelu@recipelu.com&gt;
+  Posted to recipelu-digest Volume 01 Number 653 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 31, 1998
+ 
+</step></directions></recipe></recipeml>

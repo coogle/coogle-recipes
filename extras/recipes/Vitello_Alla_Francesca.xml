@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vitello Alla Francesca</title>
+      <categories>
+        <cat>Veal</cat>
+        <cat>Italian</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Veal; two pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Red sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>slices</unit></amt>
+        <item>Eggplant</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Mozzarella cheese</item></ing></ingredients>
+    <directions>
+      <step>  In a sauce pan saute the veal.  Remove from the heat. Cook the noodles
+  until done and drain.  Place the noodles on the bottom of a casserole dish.
+  Place the veal on top of the noodles and add the red sauce. Place the
+  eggplant on top and sprinkle with the Parmesan cheese. Cover with the
+  mozzarella.  Bake at 350-degrees until brown and serve.
+        [ The Legends of Louisiana Cookbook; Sheila Ainbinder;
+                        ISBN 0-671-70817-1 ]
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

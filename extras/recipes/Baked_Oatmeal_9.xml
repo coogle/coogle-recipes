@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Oatmeal</title>
+      <categories>
+        <cat>Breakfasts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Oatmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chunky or regular applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Topping</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Vanilla yogurt</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 325o F
+  
+  In a large bowl combine the oatmeal, baking powder and salt. Mix in milk,
+  eggs, oil, brown sugar. Stir and pour into a greased casserole dish. Bake
+  at 325 for 45 minutes. Serve hot, topping each with vanilla yogurt.
+  
+  Notes: A delicious hot treat on a cold morning. Convenient to prepare ahead
+  of time. Every time I serve it, I'm asked for the recipe.
+  
+  Recipe by: The Barn Inn Bed &amp; Breakfast, Millersburg, Ohio
+  
+  Posted to MC-Recipe Digest by SuzyWert@aol.com on Feb 12, 1998
+ 
+</step></directions></recipe></recipeml>

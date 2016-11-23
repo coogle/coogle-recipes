@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1,000 Calorie-A-Bite Trifle</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Usenet</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FRUIT</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Pears</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Raspberries (tinned or fresh)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Passion fruit</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Dry sherry (1 bottle)</item></ing></ing-div>
+      <ing-div>
+        <title>SPONGE CAKE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar, castor</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour, self-raising</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs (slightly whisked)</item></ing></ing-div>
+      <ing-div>
+        <title>CUSTARD</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>ounces</unit></amt>
+          <item>Double cream (or use whipping cream)</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>ounces</unit></amt>
+          <item>Double cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Roast almonds</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Peel and slice pears, drain raspberries if tinned, and scoop out passion
+  fruit.  Place fruit in large trifle bowl and add an ample quantity of
+  sherry. Leave for twenty-four hours to soak in the refrigerator.
+  
+  Preheat oven to 350 degrees F.  Cream butter and sugar until light and
+  fluffy. Add eggs and about 2 T of flour and beat. Fold in rest of flour.
+  Bake in 7-inch square tin for 25-30 mins until brown. Let cool. Slice into
+  fingers and arrange on top of fruit. More sherry may be added at this
+  point.
+  
+  Pour one large glass of sherry.  Mix eggs and add all ingredients to small
+  bowl.  Place bowl in pan of simmering water. Stir continuously with wooden
+  spoon, sipping sherry, until custard thickens. This takes about ten
+  minutes. Pour custard on top of sponge. Chill in fridge. Whip cream until
+  stiff and smooth over top of custard. Arrange almonds decoratively.
+  
+  NOTES:
+  
+  *  The title says it all -- This recipe is my own invention.
+  
+  : Difficulty:  moderate
+  : Time:  1 hour preparation, 1 day waiting, 10 minutes cooking.
+  : Precision:  no need to measure.
+  
+  : Angi Lamb
+  : Department of Computer Science, University of York, UK
+  : ukc!minster!angi
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alehouse Brisket</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef brisket</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Envelope dry onion soup mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>    Place meat in roasting pan and brown uncovered in oven. Season meat with
+  pepper.  Dissolve onion soup mix in water. Mix ketchup and beer together
+  and add to soup mixture. Pour mixture over meat. Cover pan with foil and
+  roast for 2 hours or until tender.
+    Add flour to 1/4 cup pan drippings to make a paste.
+   Stir paste into gravy in pan.  to make a thicker gravy, add more flour.
+  Return pan to oven and continue roasting for an additional 30 minutes.
+  Slice meat across grain and serve with gravy.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

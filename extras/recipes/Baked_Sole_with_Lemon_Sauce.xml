@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Sole with Lemon Sauce</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Sauces</cat>
+        <cat>Syd's book</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Sole, Fresh or Frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg Yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Flour, All-Purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken Broth</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green Olives, Stuffed</item></ing></ingredients>
+    <directions>
+      <step>  Pre-heat oven to 350øF.  Grease a large shallow baking dish.  Arrange
+  fillets in dish.  Sprinkle fillets with salt and pepper.  Dot with 2 T
+  butter.  Bake for 10 minutes or until fish flakes easily when tested with a
+  fork.  Start sauce preparation about 15 minutes before you put the fish in
+  the oven.  In a cup, mix egg yolks with water, set aside.  In heavy
+  saucepan over medium heat, into 1 T of hot butter, stir flour until well
+  blended.  Gradually stir in chicken broth and lemon juice.  Cook with
+  stirring until mixture is thickened.  Remove saucepan from heat.  Into egg
+  yolks, stir 6-8 drops of Tabasco Sauce.  Slowly pour egg mixture into
+  sauce, stirring rapidly to avoid lumping.  Cook with stirring until
+  thickened (DO NOT BOIL).  Spoon off any excess liquid from fish.  Pour
+  sauce over fish and garnish with sliced stuffed green olives.  The olives
+  add a lot more to this dish than you might imagine. From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

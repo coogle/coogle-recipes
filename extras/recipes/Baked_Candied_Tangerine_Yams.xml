@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Candied Tangerine Yams</title>
+      <categories>
+        <cat>Potatoes</cat>
+        <cat>Candy</cat>
+        <cat>Side dishes</cat>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Yams -- canned, halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Butter Or Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pancake Syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tangerine Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Rum Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dark Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tangerines -- sectioned</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 350 deg F.  In a shallow baking pan arrange yam halves; dot
+  with butter.  Mix remaining ingredients, except tangerine sections; pour
+  over all.  Bake for 25 min, uncovered; baste with syrup once or twice
+  during baking.
+  
+  Remove from oven; scatter tangerine sections over top of yams; return to
+  oven for another 5 min.  Can be served at room temp or chilled.
+  
+  Serves 4
+  
+  Gwen Campbell, Sterling, VA
+  
+  Recipe By     : Home Cooking, Nov. 1994
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

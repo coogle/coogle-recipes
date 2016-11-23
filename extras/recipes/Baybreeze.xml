@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baybreeze</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Vodka</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Cranberry juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Pineapple juice</item></ing></ingredients>
+    <directions>
+      <step>  Combine vodka, cranberry, and pineapple juice over ice in a highball glass.
+  Stir. Garnish with a lime wedge. Posted to FOODWINE Digest 30 Jun 97 by
+  Jared Brown &lt;writers@AXIONET.COM&gt; on Jul 1, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aniseed Charabeli</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>300</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, all-purpose; sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Aniseed, grated</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated peel of 1/2 lemon</item></ing></ingredients>
+    <directions>
+      <step>  Sprinkle baking sheets with flour.   In a large bowl, beat sugar and eggs
+  until creamy.  Stir in flour.  Add aniseed and lemon peel. Shape dough into
+  1/2 inch ropes. Cut ropes into 3 inch lengths; curve each piece into a
+  half-moon shape.  Slash outer edge of half-moon in 3 places with a sharp
+  knife.  Place on prepared baking sheets. Cover and let stand overnight at
+  room temperature.   Preheat over to 375 deg.  Bake cookies 12 to 15 minutes
+  or until golden. Remove from baking sheets immediately; cool on rack. This
+  cookie is very hard and crisp. It makes an excellent "dunking" cookie!
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

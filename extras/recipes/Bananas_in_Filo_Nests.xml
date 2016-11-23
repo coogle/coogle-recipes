@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas in Filo Nests</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grand Marnier liqueur or rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh-squeezed orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Grated orange zest</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Filo Nests</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Low-fat whipped topping(opt)</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in skillet. Add sugar, liqueur or rum, orange juice and
+  zest. Bring to boil. Continue boiling over medium heat 5 minutes or
+  until thickened, stirring occasionally.
+  
+  Cut bananas in 1/4" slices. Add to mixture and cook 1-2 minutes. Place
+  each Filo Nest on dessert plate. Spoon bananas into center of Filo
+  Nests; drizzle hot orange syrup all over filo. Sprinkle with powdered
+  sugar and serve with whipped topping. Serve immediately.
+  
+  Each serving contains about: 360 calories; 181 milligrams sodium; 8
+  milligrams cholesterol; 5 grams fat; 76 grams carbohydrates; 6 grams
+  protein; 0.63 grams fiber.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

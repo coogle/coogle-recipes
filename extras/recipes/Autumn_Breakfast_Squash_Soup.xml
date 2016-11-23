@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Autumn Breakfast Squash Soup</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Soups</cat>
+        <cat>Vegetarian</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Diced butternut squash (peeled)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Diced carrots</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Diced onions</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Canola oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>White miso</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing></ing-div>
+      <ing-div>
+        <title>OPTIONAL</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Orange juice concentrate OR- more if desired thawed</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  A soup this hearty makes a wonderful morning meal by itself or served with
+  whole grain bread.
+  
+  DIRECTIONS ========== Steam squash and carrots for 10 minutes. Set aside.
+  
+  Saute onions in oil until translucent.
+  
+  Dissolve miso in water.
+  
+  Place all ingredients in a blender and puree.
+  
+  Per serving: 202 cal, 4 g prot, 342 mg sod, 31 g carb, 9 g fat, 0 mg chol,
+      112 mg calcium
+  
+  * Source: Chef Ron Pickarski, Vegetarian Gourmet (Autumn 1993) * Typed for
+  you by Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

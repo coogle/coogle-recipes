@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Cheese Loaf</title>
+      <categories>
+        <cat>Biscuits</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon; lean</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Refrigerator biscuits; buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard; mild</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sharp cheddar cheese; grated</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 450F. Line bottom and sides of 9 x 5 x 3" loaf pan with foil,
+  leaving 2" overhang on each side; grease foil.
+  
+  In small skillet over medium heat, cook bacon until crisp; drain on paper
+  towel. Crumble.
+  
+  Arrange biscuits from one package in single layer in prepared pan. Spread
+  mustard over biscuits; sprinkle cheese and crumbled bacon over mustard.
+  Arrange biscuits from second package in single layer over cheese.
+  
+  Bake bread 10 minutes; cover pan loosely with foil; bake 10 minutes longer.
+  Cook in pan on wire rack 5 minutes. Use foil overhangs to life bread from
+  pan; peel off and discard foil. Serve bread warm, cut into 3/4" slices.
+  
+  Recipe by: Cynthia Colmenero
+  
+  Posted to MC-Recipe Digest by Cynthea &lt;Cynthea@aol.com&gt; on Mar 25, 1998
+ 
+</step></directions></recipe></recipeml>

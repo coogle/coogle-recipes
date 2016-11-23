@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Sausage Pancakes with Cider Syrup</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Meats</cat>
+        <cat>Apples</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PATTI - VDRJ67A</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Pancake mix</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh apple; shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Bulk pork sausage; browned and drained</item></ing></ing-div>
+      <ing-div>
+        <title>CIDER SYRUP</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Pumpkin pie spice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Apple cider</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Margarine or butter</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat griddle to 375~. In small bowl, beat egg on high speed until thick and
+  lemon colored, about 5 minutes. Lightly spoon pancake mix into measuring
+  cup; level off. Stir in pancake mix, milk, oil and cinnamon. Fold in apples
+  and sausage. Grease griddle lightly before making each pancake. Pour batter
+  from 1/4 cup measuring cup onto hot griddle. Bake until bubbles appear,
+  about 2 minutes on each side. Serve with hot Cider Syrup.
+   CIDER SYRUP: In medium saucepan, combine sugar, cornstarch and pumpkin pie
+  spice; stir in apple cider and lemon juice. Cook, stirring constantly,
+  until mixture thickens and boils for 1 minute. Remove from heat and stir in
+  margarine.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

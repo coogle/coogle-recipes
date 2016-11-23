@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken with Yogurt Crust and Peaches</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Herb-seasoned stuffing mix</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Whole skinless chicken breasts; each cut in half</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Plain yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Peaches;      peeled and halved</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon sugar</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375 degrees.  In a food processor or blender, reduce the
+  stuffing mix to coarse crumbs.  Pour them onto a sheet of wax paper.  Coat
+  one piece of chicken breast with yogurt as thickly as possible (admittedly,
+  this is a messy step), then dip it into the crumbs to coat. Lay the chicken
+  in an oiled baking dish large enough to hold chicken and peaches in one
+  layer. Repeat with the remaining chicken.
+  Surround the chicken with the peach halves, cut side down.  Sprinkle the
+  peaches (not the chicken) with cinnamon sugar.  Bake for 20 minutes, or
+  until the breasts are just cooked through but not dry.
+  Posted to EAT-L Digest 14 October 96
+  
+  Date:    Tue, 15 Oct 1996 06:10:59 -0300
+  
+  From:    Betsy Burtis &lt;ebburtis@IX.NETCOM.COM&gt;
+ 
+</step></directions></recipe></recipeml>

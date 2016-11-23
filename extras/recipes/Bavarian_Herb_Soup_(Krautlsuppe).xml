@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Herb Soup (Krautlsuppe)</title>
+      <categories>
+        <cat>Soups/stews</cat>
+        <cat>German</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Herbs *</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Water or vegetable stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Potato, peeled and chopped into small cubes</item></ing></ingredients>
+    <directions>
+      <step>  Serves 4.
+  
+  salt and pepper bread cubes for croutons
+  
+  * at least 3 of these:  chervil, watercress, spinach, sorrel (dandelion and
+  pimpernel for brave souls) Bitter herbs are traditionally eaten at Easter
+  in Christian countries as a sign of penitence. This Bavarian soup is served
+  on Easter Thursday, known as Maundy Thursday. Fresh chervil, easily
+  available in any German market, is usually the dominating flavor. This is a
+  delicate fresh-tasting soup for any time of the year.
+  
+  You will need a large saucepan.  Pick over and wash the herbs, stripping
+  the leaves from those stalks which are too woody. Chop the rest.
+  
+  Melt the butter in a deep pan and fry the onion gently until transparent.
+  Add the herbs and sweat them for a moment before you pour in the water or
+  broth.  Add the potato to the soup. Bring the soup to a boil, and then turn
+  down the heat.  Simmer for 20 minutes.  Mash the potato in the soup to
+  thicken it a little.  Taste, and add salt and freshly milled pepper.
+  
+  Serve with bread croutons fried in butter or bacon fat (goose fat is even
+  better).  They should be so hot that they sizzle when they are added to the
+  hot soup at the table.
+  
+  From:  THE OLD WORLD KITCHEN - THE RICH TRADITION OF EUROPEAN PEASANT
+  COOKING" by Elisabeth Luard, ISBN 0-553-05219-5
+  
+  Posted by:  Karin Brewer, Cooking Echo, 7/92
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

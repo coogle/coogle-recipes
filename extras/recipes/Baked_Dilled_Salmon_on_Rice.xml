@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Dilled Salmon on Rice</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Syd's book</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion, Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves Garlic, Minced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>medium</unit></amt>
+        <item>Tomatoes, Diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushrooms, Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh Dill, Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt And Pepper To Taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked Brown Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Salmon Fillets</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Olive Oil Spray</item></ing></ingredients>
+    <directions>
+      <step>  Coat a nonstick skillet with olive oil cooking spray.  Saute‚ onion,
+  garlic, tomatoes and mushrooms for 5 minutes or until softened. Add lemon
+  juice and fresh dill. Remove from heat. Add salt and pepper to taste. Spray
+  a baking dish with cooking oil spray. Spread rice evenly over bottom. Top
+  rice with salmon.  Cover each fillet with vegetable mixture. Cover pan with
+  foil.  Bake for 20 minutes at 350øF.  From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

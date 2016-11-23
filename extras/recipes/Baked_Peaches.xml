@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Peaches</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>16 oz. can peach haves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flaked coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Rum extract/flavoring</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Peach syrup (reserve from</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Canned peaches)</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 400F.  Drain peaches reserving 1 T of syrup. Arrange peaches
+  in a shallow baking dish with cut sides up. Combine coconut, honey, extract
+  and syrup in small bowl. Blend well. Fill each peach with 1 T of mixture.
+  Bake 5 minutes.  Cool before serving. May be served as a light dessert with
+  a dollop of whipped topping. Serves 4-6. Source: Dottie Theriault's
+  collection
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

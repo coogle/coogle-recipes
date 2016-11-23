@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Curd with Ginger</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Tofu</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Pads tofu</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Tree ears</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Peanut oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Finely chopped ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely chopped garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped scallions</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Hot chilies; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked fresh peas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sesame oil</item></ing></ingredients>
+    <directions>
+      <step>  Cut tofu into 1/2 inch cubes.  Soak tree ears in warm water till soft.
+  Drain &amp; chop coarsely.  Heat oil in a wok &amp; when very hot add ginger,
+  garlic &amp; scallions. Add tofu, stirring quickly. Add tree ears, chilies &amp;
+  peas. Stir. Add sugar &amp; vinegar &amp; toss. Spoon mixture into a serving dish &amp;
+  sprinkle with sesame oil.  Serve over rice.
+  
+  "Vegetarian Times Cookbook"
+  Posted to EAT-L Digest 05 Sep 96
+  
+  Date:    Thu, 5 Sep 1996 19:06:49 -0700
+  
+  From:    Stacy Hansen &lt;schansen@PACIFICRIM.NET&gt;
+ 
+</step></directions></recipe></recipeml>

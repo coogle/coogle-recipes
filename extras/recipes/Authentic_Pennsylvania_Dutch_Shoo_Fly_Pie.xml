@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Authentic Pennsylvania Dutch Shoo Fly Pie</title>
+      <categories>
+        <cat>Penn dutch</cat>
+        <cat>Pies</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Baking molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg yolk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pastry for 9-inch pie</item></ing></ingredients>
+    <directions>
+      <step>  Line 9-inch pie plate with pastry.  Mix molasses and egg yolk. Dissolve
+  soda in boiling water and add to egg and molasses.  Set aside.  Stir dry
+  ingredients together, mixing well.  Cut in shortening until mixture looks
+  like coarse crumbs.  Pour molasses into pie shell.  Sprinkle crumbs evenly
+  over top.  Do not stir. Bake at 450 degrees F. 15 minutes, then reduce heat
+  to 350 degrees F. and bake 20 minutes longer.  Cool and serve.
+  Serves 8.
+  
+  Jim Bodle, F-Cooking
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcorr.zip
+ 
+</step></directions></recipe></recipeml>

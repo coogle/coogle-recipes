@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Preparation of Heads, Feet, Tails, Ears and Snouts</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Information</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Information Text</item></ing></ingredients>
+    <directions>
+      <step>  One or both of these first two steps is required in all the recipes
+  that follow.
+  
+  Step I: Cleaning
+  
+  Remove any hairs on heads, feet, tails, ears or snouts by singeing
+  over an open flame or plucking.  Scrub well (using a vegetable brush
+  if desired) and then sprinkle with salt, rubbing it into the skin.
+  Rinse well with cool water; pat dry.  Remove any excess fat.  Poultry
+  feet (chicken, duck or turkey) must be stripped of their outer scaly
+  skin; plunge them in boiling water for 1 minute, as you would do
+  before peeling tomatoes. Proceed with recipe.
+  
+  Step II: Parboiling
+  
+  Parboil in salted water (1 teaspoon salt for each quart water) for 5
+  minutes.  Drain, discarding water.  This step serves the propose of
+  ridding the meat of running blood as well as clinging meat, fat or
+  bone residue, thereby adding clarity to sauces.
+  
+  All these recipes are from "Innards and Other Variety Meats".  Jana
+  Allen and Margret Gin.  101 Productions.  San Francisco, 1974.
+  
+  Posted by Stephen Ceideberg; June 9 1992.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

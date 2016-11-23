@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean, Tomato, and Roasted Poblano Salad</title>
+      <categories>
+        <cat>Cookbook</cat>
+        <cat>Salad</cat>
+        <cat>Beans/legum</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Poblano chiles</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Black beans; cooked (See note)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Corn kernels; (fresh)cooked</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Watercress; coarsely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Tomato; (large),diced</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Scallions; thinly sliced</item></ing></ing-div>
+      <ing-div>
+        <title>CHILE-LIME VINAIGRETTE</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lime zest</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lime juice; freshly squeezed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Dijon mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Pure chile powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Crushed red pepper flakes</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Snap off the chile stems, then roast the poblanos over a gas flame or under
+  a broiler until the skins are lightly charred all over. Place the poblanos
+  in a paper or plastic bag, cover, and let them steam for 15 to 20 minutes.
+  Peel away the skin, and seed. Dice the peppers, then combine in a large
+  bowl with the black beans, corn, watercress, tomato, and scallions. In a
+  small bowl, whisk together the vinaigrette ingredients. Pour over the salad
+  and toss to coat. Serve chilled or at room temperature.
+  
+  Note: You may substitute two 8-ounce cans black beans. Be sure to rinse and
+  drain them.
+  
+  Recipe by: Jennifer Trainer Thompson, Jump Up and Kiss Me
+  
+  Posted to recipelu-digest by Badams &lt;adamsfmle@sprintmail.com&gt; on Feb 19,
+  1998
+ 
+</step></directions></recipe></recipeml>

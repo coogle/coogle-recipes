@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Ro's Coleslaw</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Salads</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PHILLY.INQUIRER</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>SUPER FINE SUGAR</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pounds</unit></amt>
+          <item>CABBAGE</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>CELERY SEED</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>MAYONNAISE</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>SALT</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>SOUR CREAM</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>PINCH WHITE PEPPER</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>VINEGAR</item></ing></ing-div></ingredients>
+    <directions>
+      <step>    CUT CABBAGE INTO QUARTERS.CUT OUT CORE.SLICE CABBAGE INTO LONG,THIN
+  SLICES.MIX MAYONNAISE,SOUR CREAM,VINEGAR,SUGAR,CELERY SEED,SALT AND PEPPER
+  IN A LARGE BOWL.ADD SHREDDED CABBAGE And toss LIGHTLY.MAKES THREE QUARTS.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

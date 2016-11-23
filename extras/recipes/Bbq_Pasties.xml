@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Pasties</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Frozen pie shells; thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Pulled pork</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Potatoes; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rutabaga; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  I just replaced the meat in the pasty recipe with pulled pork. It gave it a
+  nice smokiness and with the BBQ sauce, it was great. I like flakey crusts
+  and hate rolling pastry dough, so I use frozen pie shells. I get one pasty
+  out of each shell. This makes 4 pasties.
+  
+  Mix all ingredients and put 1/4 in each pie shell. Fold the pastry over the
+  filling to make half-moon shaped pies. Seal the edges and cut a couple of
+  small slits on the top. Bake on a cookie sheet at 375F for 30 to 35
+  minutes, then reduce heat to 350F and bake 15 more minutes.
+  
+  Serve with BBQ sauce and a Stroh's. Ya, sure, you betcha.
+  Posted to bbq-digest by wight@odc.net on Jun 6, 1998
+ 
+</step></directions></recipe></recipeml>

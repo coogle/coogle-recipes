@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Baloney" Cheese Dogs</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Hot dogs</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Hot dog buns</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mayonnaise or mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Turkey bologna</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sticks cheddar cheese or string cheese sticks</item></ing></ingredients>
+    <directions>
+      <step>  Spread inside of hot dog buns with mayonnaise or mustard. Roll 1 bologna
+  slice around each cheese stick. Place inside hot dog bun. Wrap each bun in
+  plastic wrap.
+  
+  Recipe by: BETTER HOMES AND GARDENS MAGAZINE -- SEPTEMBER 1996 Posted to
+  MC-Recipe Digest V1 #677 by essie49@juno.com (Ethel R Snyder) on Jul 18,
+  1997
+ 
+</step></directions></recipe></recipeml>

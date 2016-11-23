@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Squares</title>
+      <categories>
+        <cat>Mom</cat>
+        <cat>Bars and sq</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BASE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Soft margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Egg whites</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chopped walnuts</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Jam; optional</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine ingredients for base until crumbly. Press into 8"x8" pan. Bake at
+  350 degrees for 15 mins. Remove from oven and cool. Spread with jam if
+  desired. Beat egg whites and salt until soft peaks are formed. Add brown
+  sugar and vanilla and beat until stiff peaks form. Fold in walnuts. Spread
+  over base. Bake at 275 degrees until topping is golden.
+  
+  Source Jean Hopkins-Mom Formatted for Mastercook by Carol
+  Floyd--c.floyd@arnprior.com
+  
+  Recipe by: Jean Hopkins-Mom
+  
+  Posted to MC-Recipe Digest V1 #872 by Carol &amp; Bob Floyd
+  &lt;c.floyd@arnprior.com&gt; on Oct 28, 1997
+ 
+</step></directions></recipe></recipeml>

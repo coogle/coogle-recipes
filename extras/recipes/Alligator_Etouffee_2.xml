@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alligator Etouffee</title>
+      <categories>
+        <cat>Cajun</cat>
+        <cat>Main dish</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Alligator meat; cut in thin strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter (2 sticks)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Green onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Celery stalks; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomatoes; (sorry folks, no size given)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, cayenne and black pepp er</item></ing></ingredients>
+    <directions>
+      <step>  Fat grams    per serving:              Approx. Cook
+  Time:  1:20 Saute onions, garlic and celery in butter
+  until soft.  Add tomatoes and simmer for 20 minutes in
+  covered iron pot.  Add alligator meat and allow to
+  cook over low heat until tender (approximately 1
+  hour). If gravy is too thick, add a little hot water.
+  Serve over rice.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

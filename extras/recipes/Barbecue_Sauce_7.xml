@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Sauce</title>
+      <categories>
+        <cat>Cajun</cat>
+        <cat>Sauces</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SEASONING MIX</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Onion powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>White pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Garlic powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cayenne pepper</item></ing></ing-div>
+      <ing-div>
+        <title>MAIN INGREDIENTS</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Bacon, minced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Pork, beef or chicken stock</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Orange juice (1/2 orange)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice (1/4 lemon)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Minced garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Unsalted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped onions</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Bottled chili sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dry roasted pecans, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Rind &amp; pulp from 1/2 orange</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Rind &amp; pulp from 1/4 lemon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Tabasco sauce</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine the seasoning mix ingredients in a small bowl and set aside.
+   In a 2-quart saucepan fry the bacon over high heat until crisp. Stir
+  in the onions, cover pan, and continue cooking until onions are dark
+  brown, but not burned, about 8 to 10 minutes, stirring occasionally.
+  Stir in the seasoning mix and cook about 1 minute.  Add the stock, chili
+  sauce, honey, pecans, orange juice, lemon juice, orange and lemon rinds
+  and pulp, garlic, and Tobasco, stirring well.  Reduce heat to low;
+  continue cooking about 10 minutes, stirring frequently.  Remove orange
+  and lemon rinds.  Continue cooking and stirring about 15 minutes more
+  to let the flavors marry.  Add the butter and stir until melted.
+  Remove from heat.  Let cool about 30 minutes, then pour into a food
+  processor or blender and process until pecans and bacon are finely
+  chopped, about 10 to 15 seconds.
+  This sauce may be used to barbecue chicken, pork or ribs.
+  Makes about 5 Cups.
+  From Paul Prudhomme's "Louisiana Kitchen"
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cajun.zip
+ 
+</step></directions></recipe></recipeml>

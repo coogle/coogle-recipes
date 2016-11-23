@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avacado Dip #2</title>
+      <categories>
+        <cat>Dip</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mashed avocado pulp</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(8-oz) cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Freshly squeezed lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Finely chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Worcestershire sauce</item></ing></ingredients>
+    <directions>
+      <step>  Gradually add the avocado to the softened cream cheese, blending until
+  smooth. Add the lemon juice, onion, salt, and Worcestershire sauce. Mix
+  until well blended. Yield: 2-1/2 cups.
+  
+  From &lt;The Progressive Farmer's Southern Country Cookbook&gt;, by the editors
+  of the 'Progressive Farmer Magazine'.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

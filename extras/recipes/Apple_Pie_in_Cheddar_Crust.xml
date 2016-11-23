@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie in Cheddar Crust</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat>
+        <cat>Pies</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CHEDDAR CRUST</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached Flour; Sifted</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Cheddar; Md, Shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Water; Iced</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>7</qty>
+            <unit>cups</unit></amt>
+          <item>Apples; *</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Unbleached Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon; Ground</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter Or Regular Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg Yolk; Lg, Beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  *    Use tart cooking apples such as Macs or Granny Smith's.  Core, pare
+       and thinly slice the apples.
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
+  CHEDDAR CRUST:
+  
+  Combine the flour, cheese and salt in a bowl.  Using a pastry blender or
+  two knives, cut in the shortening until coarse crumbs form.  Sprinkle the
+  iced water (5 or 6 tbls will be needed) and using a fork, toss the crumbs
+  until a dough is formed.  Press the dough firmly into a ball.
+  
+  FILLING:
+  
+  Divide the pastry almost in half and roll out the larger half, on a
+  lightly floured surface, to a 13-inch circle.  Line a 9-inch pie plate
+  with the pastry, trimming the edges to 1/2-inch beyond the rim of the pie
+  plate.  (Note:  When lining the pie plate, be careful not to stretch the
+  pastry when spreading it out.  This will cause holes or the pastry will
+  shrink and the filling will run over in the oven as it is baked.  Place in
+  the pie plate and gently, working from the center, spread the pastry out
+  until it covers the bottom of the pie plate and then lay the rest of the
+  pastry over the rim and trim.)  Combine the apples, sugar, flour, and
+  cinnamon in a bowl, mixing well.  Arrange the apple mixture in the pastry
+  lined pie plate.  Roll out the remaining pastry to an 11-inch circle.
+  Gently fold into quarters and cut steam slits in the folds.  Unfold the
+  crust and place on top of the filling, trimming the crust to 1-inch beyond
+  the rim of the pie plate.  Fold the top crust under the lower one and
+  flute to form a ridge around the edge of the pie plate.  Combine the egg
+  yolk and water, then brush the mixture over the top crust and rim.  Bake
+  in a 400 degree F. oven for 45 to 50 minutes or until apples are tender
+  and the crust is a golden brown.  Cool on a wire rack until slightly warm
+  and serve with Vanilla Ice Cream, if desired.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcheese.zip
+ 
+</step></directions></recipe></recipeml>

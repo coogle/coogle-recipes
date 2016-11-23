@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Fern Preparation</title>
+      <categories>
+        <cat>Info</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Ferns</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>;Boiling salted water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste or-</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon juice or any sauce for asparagus</item></ing></ingredients>
+    <directions>
+      <step>  Tatum writes: "The young, tender, tightly curled fronds - croziers or
+  fiddleheads - of bracken (or brake ferns) and of ostrich and cinnamon ferns
+  are all prepared in the same way.
+  
+  "Rub off the fuzz (or, for some ferns, the scaly coating) of the young,
+  crisp fronds, wash them and place them, lying flat, in a saucepan or
+  skillet with a small amount of boiling salted water. Bring water again to a
+  boil.  Turn to low heat, cover and simmer for 10 to 20 minutes, or until
+  fronds are just tender (time will depend on the size and kind of fronds)."
+  
+  Season with butter, salt and pepper to taste, or serve with lemon juice of
+  any sauce suitable for asparagus.
+  
+  From "Billy Joe Tatum's Wild Foods Cookbook and Field Guide" by Billy Joe
+  Tatum.  New York: Workman Publishing Company, Inc., 1976. Pg. 139. ISBN
+  0-911104-77-1.  Posted by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

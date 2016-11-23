@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Cheese Toastwishes</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Sandwiches</cat>
+        <cat>Cheese</cat>
+        <cat>Main dish</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Bread; your choise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; beaten with fork</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Skim milk;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>dashes</unit></amt>
+        <item>Paprika;</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>(1-oz each) American Cheese;</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees.  Prepare shallow pan with vegetables
+  pan-coating.  Toast bread on one side only.  Combine beaten egg, milk,
+  salt, and paprika; mix well and pour into a pie plate.  Dip bread in
+  this mixture quickly until all is absorbed. Place 2 slices bread
+  toasted side down in preapared pan and cover each with 1 slice
+  cheese.    Place remaining 2 slices bread toasted side p on top, then
+  cover with remaining 2 slices cheese.  Bake 10-12 minutes.
+  
+  Food Exchange per serving: 2 STARCH EXCHANGES + 2 HIGH-FAT EXCHANGES
+  + 1/2 FAT EXCHANGE. Low-sodium diets. Omit salt.  Substitue
+  Low-sodium cheese.
+  
+  Source: The Art of Cooking for the Diabetic by Mary Abbott
+  Hess,R.D.,M.S. Brought to you and yours via Nancy O'brion and her
+  Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

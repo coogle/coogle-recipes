@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Chowder</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onions; Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mushrooms; Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Artichokes; Canned, *</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken Broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Green Peas</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unbleached Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Evaporated Skimmed Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; Pepper; To Taste</item></ing></ingredients>
+    <directions>
+      <step>  *    Drain and chop the canned artichokes.
+  
+  In a large saucepan heat the oil and saute the onions.  Add the mushrooms,
+  artichokes, and broth.  Cook about 5 minutes or until tender.  Add the
+  peas.  Blend the flour into the evaporated milk and add to the mixture in
+  the pan.  Cook for 5 to 7 minutes or until slightly thickened.  Season to
+  taste with salt and pepper.
+  
+  Each 1 Cup Serving contains:
+                                Tot    Sat
+  Cal    Prot    Carb    Fib    Fat    Fat    Chol    Sodium
+      186    13 G    26 G    5 G    4 G    1 G    4 Mg     162 Mg
+  
+  From The Cookbook For The 90's by Helen V Fisher
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/soup_1.zip
+ 
+</step></directions></recipe></recipeml>

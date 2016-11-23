@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pandowdy</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Tart apples; (like Granny Smith)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Biscuit dough; (use Bisquick, or the like)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Core and slice apples and put them in a greased pie dish. Sprinkle with
+  cinnamon, drizzle on molasses and dot with butter. Cover with biscuit dough
+  rolled to about 1/2 inch in thickness. Cut vents so steam can escape. Bake
+  at 375 degrees for 30 minutes. Serve hot cutting squares of biscuit as a
+  base for the fruit mixture. Serve with whipped cream sprinkled with nutmeg.
+  
+  Instead of rolling out the dough, drop it from a spoon over the filling.
+  This allows the gooey sauce to bubble up around the dough.
+  
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 05, 1998
+ 
+</step></directions></recipe></recipeml>

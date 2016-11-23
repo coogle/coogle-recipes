@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arugula, Red Onion and Shaved Parmesan Salad</title>
+      <categories>
+        <cat>Cooking liv</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Fresh lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Dijon-style mustard</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and freshly ground black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>cups</unit></amt>
+          <item>Arugula leaves, trimmed, washed, dried and chilled</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Red onion, peeled, cut into very thin rings and soaked in ice water for 15 minutes</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Shaved parmesan</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a large bowl whisk together the lemon juice and mustard, seasoning with
+  salt and pepper to taste. Drain the red onion and pat dry. Just prior to
+  serving the salad, add the arugula and red onion to the dressing and toss
+  to coat. Taste and adjust seasoning with additional lemon juice, salt and
+  pepper if necessary. Sprinkle the salad with the shaved Parmesan and serve
+  immediately.
+  
+  Yield: 4 servings
+  
+  Recipe by: Cooking Live Show #CL8905 Posted to MC-Recipe Digest V1 #652 by
+  "Angele and Jon Freeman" &lt;jfreeman@netusa1.net&gt; on Jun 30, 1997
+ 
+</step></directions></recipe></recipeml>

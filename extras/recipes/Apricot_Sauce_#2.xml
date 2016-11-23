@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Sauce #2</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apricot jam</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Brandy flavoring</item></ing></ingredients>
+    <directions>
+      <step>  Date: Thu, 18 Apr 1996 06:16:12 GMT
+  
+  From: Anne Sheresky &lt;sheresky@worldchat.com&gt;
+  
+  Mix all together. Serve hot or cold over crepes, ice cream, cake or
+  whatever.
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LIST SERVER
+  
+  MM-RECIPES DIGEST V3 #108
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

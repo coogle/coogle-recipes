@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cider Sauce for Ham</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Fruit</cat>
+        <cat>Mitch's fav</cat>
+        <cat>Sauces</cat>
+        <cat>Thanksgivin</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>quarts</unit></amt>
+        <item>Apple Cider; Reduced To</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Reduced Cider</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Mcintosh Apples Pared And Quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit/></amt>
+        <item>Makes this many cups</item></ing></ingredients>
+    <directions>
+      <step>  In a 4 quart saucepan bring cider to boiling. Boil gently over medium heat
+  about 20 minutes or until cider is reduced to specified amount in recipe.
+  Add quartered apples and sugar; toss gently to combine. Gently simmer
+  apples covered until apples are soft-- about 20 minutes. Stir once. Serve
+  warm with ham.
+  
+  See recipe for Ham baked in apple cider.
+  
+  Note the reduced cider is entered so that when the number of servings is
+  changed the reduced amount will be accurate.
+  
+  Recipe by: The New McCalls Cookbook
+  
+  Posted to MC-Recipe Digest V1 #871 by "Max H. Mitchell"
+  &lt;mmitch-fay@worldnet.att.net&gt; on Oct 27, 1997
+ 
+</step></directions></recipe></recipeml>

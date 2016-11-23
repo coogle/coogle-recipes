@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Dressing</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Extra virgin olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>24</qty>
+            <unit/></amt>
+          <item>Basil (well; more or less ;-) leaves</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>A few drops of lemon juice</item></ing></ing-div>
+      <ing-div>
+        <title>OPTIONAL</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Pine nuts</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  The following are my favourite (simple) salad dressings for raw vegetables.
+  I have some other recipes (e.g. mayonnaise), but they are quite complicated
+  and not yet formatted...
+  
+  Put all ingredients in a blender until smooth. This is perfect also with
+  boiled vegetables.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Lucretia B
+  &lt;lucretiab@geocities.com&gt; on Dec 10, 1997
+ 
+</step></directions></recipe></recipeml>

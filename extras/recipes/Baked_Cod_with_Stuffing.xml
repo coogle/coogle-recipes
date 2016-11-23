@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Cod with Stuffing</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Whole cod; head, fin, tail removed</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt pork fat back; sliced</item></ing></ing-div>
+      <ing-div>
+        <title>STUFFING</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Bread crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Onion; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Savory (up to)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Potato; mashed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Celery; finely chopped (optional)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From: Wendy Lockman &lt;wlockman@ra1.randomc.com&gt;
+  
+  Date: Sun, 11 Feb 1996 10:35:49 -0500
+  Stuffing: Mix all ingredients together well. Should be able to form into a
+  ball. Stuff into cod immediately before baking.
+  
+  Remove bone from whole cod (head, tail and fins removed). Stuff interior of
+  cod with savoury stuffing (see below). Bind cod with twine to hold in
+  stuffing, and top generously with salt pork fat back. Bake cod with open
+  side/salt pork up at 350 Degrees F for one hour or until salt pork is brown
+  and crunchy. That's about it, you could sub in bacon for the salt pork, but
+  it is good with the salt pork. Enjoy.
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LIST SERVER
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

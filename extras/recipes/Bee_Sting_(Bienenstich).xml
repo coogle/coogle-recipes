@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bee Sting (Bienenstich)</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>German</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CAKE</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Active Dry Yeast</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter OR Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPONG</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>9</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter OR Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Almonds; (sliced)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Milk</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Vanilla Pudding; (3 5/8 oz)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place flour in a large bowl. Add yeast and sugar. Scald milk, stir in
+  butter or margarine and cool to lukewarm. Pour over flour, add the egg and
+  beat until smooth. Cover and let it rise in a warm place until it doubles
+  in size. Punch down dough and roll into a 10" round. Place in a 10" X 3"
+  springform pan. Cover and let it rise again in a warm place until it
+  doubles in size. Once the cake has doubled, place sugar, butter or
+  margarine and almonds in a saucepan. Cook over medium heat approximately
+  five minutes until butter and sugar have melted. Take if off the heat, add
+  two tablespoons milk and cool to lukewarm. Spread over the top of the cake
+  and bake in a preheated oven at 375!~F for 30 minutes. Loosen the edge with
+  a knife, take the cake out of the pan and cool. Prepare pudding according
+  to the package's directions using 1 1/2 cup milk. Set aside to cool. Once
+  the cake is cold, cut it into two layers. Spread the cold pudding in the
+  middle and replace the top layer. Serve. Makes one 10" X 3" cake.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

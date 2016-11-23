@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Mincemeat</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Preserves</cat>
+        <cat>British</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>750</qty>
+          <unit>grams</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>500</qty>
+          <unit>grams</unit></amt>
+        <item>Candied peel</item></ing>
+      <ing>
+        <amt>
+          <qty>500</qty>
+          <unit>grams</unit></amt>
+        <item>Sultanas</item></ing>
+      <ing>
+        <amt>
+          <qty>500</qty>
+          <unit>grams</unit></amt>
+        <item>Currants</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>kilogram</unit></amt>
+        <item>Apples, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>500</qty>
+          <unit/></amt>
+        <item>Suet (shredded)</item></ing>
+      <ing>
+        <amt>
+          <qty>750</qty>
+          <unit>grams</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Rind &amp; Juice of a lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Rind &amp; Juice of an orange</item></ing>
+      <ing>
+        <amt>
+          <qty>30</qty>
+          <unit>grams</unit></amt>
+        <item>Mixed spice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Grated nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>500</qty>
+          <unit>mililiters</unit></amt>
+        <item>Brandy or Rum</item></ing></ingredients>
+    <directions>
+      <step>  Pass the raisins, peel and half the sultanas and currents and the apples
+  through a mincing machine. Then add the remainder of the fruit, suet,
+  sugar, rind and juice of the orange and lemon, spice, nutmeg and Brandy (or
+  Rum). Mix well and leave covered in a jar. Stiring every day for one week.
+  Turn into jars, leave 1" space from the top &amp; Cover. Mincemeat should be
+  kept a few weeks before using.
+  
+  ** This recipe is from 1933 edition Radiation Cookery Book
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Chard</title>
+      <categories>
+        <cat>Low</cat>
+        <cat>Fat</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>(~1-1.5 lb?) of swiss chard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(or greens of choice)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>2 tomatoes, chopped (or one</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>cans</unit></amt>
+        <item>Chopped tomatoes)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>2 T balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly cracked black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>To taste</item></ing></ingredients>
+    <directions>
+      <step>  Wash the chard and chop or tear into peices, discarding tough stems. Saute
+  tomatoes over medium heat in large skillet until cooked to desired
+  consistancy, 5-15 min. (I like mine on the soft side). Add vinegar, chard
+  and water if needed.  Cover and steam vegetables until cooked to desired
+  doneness, 5-15 min. Check occasionally to be sure there is enough water in
+  the pan.
+  
+  Cooking time for tomatoes and greens depends on how tough the greens are,
+  smaller, younger leaves will be more tender; and how well cooked you like
+  the vegetables.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

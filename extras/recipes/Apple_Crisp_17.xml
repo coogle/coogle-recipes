@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Peeled; sliced apples</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Rolled oats; (I used quick cooking oats)</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Firmly packed brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter or margarine</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place sliced apples in bottom of greased baking dish. Mix dry ingredients;
+  sprinle over apples. Pour water over apples.
+  
+  Topping: Mix flour, oats and sugars. Cut in margarine until mixture is
+  crumbly. Sprinkle crumbs over apples. Sprinkle a bit of cinnamon over top.
+  
+  Bake at 350 degrees for 1 hour
+  
+  This recipe was found on the internet and it was from Bill Dudgins of
+  Canada
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 949 by Dorothy Hart
+  &lt;whhart@dcn.davis.ca.us&gt; on Jan 18, 1998
+ 
+</step></directions></recipe></recipeml>

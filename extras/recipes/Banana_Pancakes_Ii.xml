@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pancakes Ii</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>EGG</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>SUGAR</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>FLOUR</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>BAKING POWDER</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>RIPE BANANAS; PEELED AND MASHED</item></ing></ing-div>
+      <ing-div>
+        <title>BUTTER</title></ing-div>
+      <ing-div>
+        <title>SUGAR</title></ing-div></ingredients>
+    <directions>
+      <step>  Beat egg with sugar. Add flour, baking powder and bananas. Mix together
+  with a fork. Drop a tablespoon at a time into a hot buttered frying pan.
+  Turn with bubbles appear. These cook quickly. Be careful not to burn
+  butter. Add more butter to frying pan as needed. Remove to platter and
+  sprinkle with granulated sugar. These are so delicious that no syrup is
+  needed.
+  
+  THIS RECIPE CAME FROM A NATIVE COOK AT ROUND HILL, MONTEGO BAY, JAMICA.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by CHEBECK@aol.com on
+  Sep 18, 1997
+ 
+</step></directions></recipe></recipeml>

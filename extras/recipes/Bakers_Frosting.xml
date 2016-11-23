@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bakers Frosting</title>
+      <categories>
+        <cat>Frosting</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box (1-pound) powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Milk; enough to make a very stiff but smooth frosting (one tblsp at a time)</item></ing></ingredients>
+    <directions>
+      <step>  From: gray@wfoc.usbm.gov (Lynn R. Gray)
+  
+  Date: 22 Mar 1995 19:18:33 -0600
+  
+  To make a frosting that is the type you get on a purchased cake, try this:
+  To this you may add 1 tsp. of flavor such as almond extract or white
+  vanilla. This will make it slightly thinner. This frosting may then be
+  spread on a cake and with a little food coloring, be used as a decorating
+  frosting. Remember, this is not low in calories.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /CAKES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

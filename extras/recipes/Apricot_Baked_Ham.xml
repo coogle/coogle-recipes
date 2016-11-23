@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Baked Ham</title>
+      <categories>
+        <cat>Ham</cat>
+        <cat>Main dish</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Fully cooked ham with bone</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit/></amt>
+        <item>Whole cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apricot preserves</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Packed light brown sugar</item></ing></ingredients>
+    <directions>
+      <step>  Score the surface of the ham with shallow
+  diamond-shaped cuts.  Insert cloves in cuts.  Combine
+  preserves and mustard; spread over ham.  Pat brown
+  sugar over apricot mixture.  Place ham on a rack in a
+  roasting pan. Bake at 325 degrees for 20 minutes per
+  pound or until ham is heated through and thermometer
+  reads 140 degrees.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

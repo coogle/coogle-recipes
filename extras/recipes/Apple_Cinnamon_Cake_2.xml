@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cinnamon Cake</title>
+      <categories>
+        <cat>American</cat>
+        <cat>Desserts</cat>
+        <cat>Fillings &amp;</cat>
+        <cat>Fruit</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Apple pie filling</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 350 Blend together cake mix, apple pie filling and eggs. Beat
+  2 minutes at medium speed. Combine sugar and cinnamon. Spread half the
+  batter in to prepared 13x9" pan, sprinkle with cinnamon sugar, pour over
+  remaining batter and sprinkle with the remaining sugar mixture. Bake for
+  30-35 minutes, use pick test. I top with cool whip with a teaspoon of
+  cinnamon blended in. Also, the batter looks very thick, it's okay, so don't
+  add anything else.It comes out moist and is delicious.
+  
+  Serving Ideas : Top with whipped cream
+  
+  Recipe by: Lisa Lepsy Posted to TNT - Prodigy's Recipe Exchange Newsletter
+  by Babygoil@aol.com on Aug 2, 1997
+ 
+</step></directions></recipe></recipeml>

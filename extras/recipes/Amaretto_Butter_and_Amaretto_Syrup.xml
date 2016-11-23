@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Butter and Amaretto Syrup</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>AMARETTO BUTTER</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Amaretto</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter or margarine; soften</item></ing></ing-div>
+      <ing-div>
+        <title>AMARETTO SYRUP</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Amaretto</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Maple syrup</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  AMARETTO BUTTER: Combine butter and amaretto. AMARETTO SYRUP: In small
+  saucepan, combine amaretto and syrup. Heat to boiling. Allow to cool before
+  serving.
+  
+  Posted to brand-name-recipes by Barbra&lt;barbra@pipeline.com&gt; on Feb 04, 1998
+ 
+</step></directions></recipe></recipeml>

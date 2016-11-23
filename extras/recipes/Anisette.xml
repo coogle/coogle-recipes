@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anisette</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>15 2/3</qty>
+          <unit>ounces</unit></amt>
+        <item>Vodka 100 proof</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>drops</unit></amt>
+        <item>Anise oil</item></ing>
+      <ing>
+        <amt>
+          <qty>9 5/8</qty>
+          <unit>ounces</unit></amt>
+        <item>Simple syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Glycerine</item></ing></ingredients>
+    <directions>
+      <step>  add alcohol to bottle in which anisette will be stored, add anise oil and
+  shake until all of the oil is dissolved. Add the rest of the ingredients
+  and again shake well. Ready to drink.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by F3RRARI
+  &lt;F3RRARI@aol.com&gt; on Dec 30, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Roca</title>
+      <categories>
+        <cat>Candies</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>(1 pound) butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Package chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts ground in a blender</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter over high heat.  Add sugar, stirring until
+  it foams up well. Continue over high heat, adding
+  almonds.  Continue to cook, stirring continually until
+  mixture is color of mahogany and sugar is all melted.
+  (Take it off the heat for a moment if it starts to
+  smoke.)
+  
+  Stir as you take it off the heat permanently and pour
+  quickly onto your biggest flat pan with sides.  Tilt
+  to spread evenly.  After 5 minutes, pour on chocolate
+  chips. When they have melted a bit, spread them over
+  the top of the hot mixture with a rubber scraper.
+  Scatter ground walnuts over the top, shaking to
+  distribute evenly.
+  
+  Candy is thoroughly cooled when the chocolate is dull
+  looking. (Cool at least three hours at room
+  temperature.) Break into pieces and it's ready to eat.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

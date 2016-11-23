@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Bean Chili</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef; we've also used ground turkey</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cans</unit></amt>
+        <item>Pinto beans; red/black (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Onions; diced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Spices; to taste, eg. garlic, chili powder; cumin, red pepper; hot sauce</item></ing></ingredients>
+    <directions>
+      <step>  From: Charlie Johnston &lt;howknows@bigblue.oit.unc.edu&gt;
+  
+  Date: 18 Feb 1994 02:18:17 -0500
+  
+  Form meat into thin patties.  Brown in skillet, seasoning to taste.  Press
+  patties between paper toweling to remove grease, then break into pieces.
+  Place meat and beans (undrained) in Crockpot w/ additional spices.  Add
+  additional water (or a can of beer) if necessary.  Cook all day on low.
+  Serve in bowls with sour cream and tortilla chips.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /MISC
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

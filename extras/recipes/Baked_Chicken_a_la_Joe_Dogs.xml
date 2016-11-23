@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken a la Joe Dogs</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Gangsters</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Chicken breasts (remove skin but leave bones in)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves, crushed and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Crushed, dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>New red potatoes cut into 1/4" rounds (leave skin on)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>small</unit></amt>
+        <item>Onions, quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Garlic salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Accent (opt)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Sweet peas (16 oz)</item></ing></ingredients>
+    <directions>
+      <step>  Place chicken breasts, facing bone down, in a 14x10" baking pan or
+  dish. Sprinkle pepper, chopped garlic cloves and oregano over meaty
+  tops. Arrange potatoes and onions in pan around chicken. Sprinkle
+  garlic salt and Accent (optional) over top of everything and pour one
+  cup of chicken stock over chicken breasts. Cover pan or dish and cook
+  in preheated 350'F. oven for 45 minutes. After 45 minutes, remove
+  cover and pour the other cup of chicken stock, as well as a can of
+  sweet peas, including juice, over the concoction. Bake, uncovered,
+  for another 20-25 minutes. Serve with rice and Dewar's White Label
+  scotch.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

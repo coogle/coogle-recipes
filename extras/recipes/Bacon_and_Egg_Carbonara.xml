@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Egg Carbonara</title>
+      <categories>
+        <cat>Italian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Sliced bacon (about 10 slices) cut into 1" squares</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Dry thin pasta, such as capellini or vermicelli; or 1 pkg (9 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Angel hair pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped chives or thinly sliced green onions, including tops</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated parmesan cheese</item></ing></ingredients>
+    <directions>
+      <step>  In a wide fry pan; cook bacon over medium heat until crisp. Spoon off and
+  discard all but 3 TBSP of the drippings; keep pan with bacon warm over
+  lowest heat. In a 5 - 6 quart pan; cook pasta in three quarts boiling water
+  just until tender to bite (@3 minutes for dry capellini. 8-10 minutes for
+  dry vermicelli, and 1 to 2 minutes for fresh angel hair pasta); or cook
+  according to package directions.  After adding the pasta to the boiling
+  water, spoon 1/2 c of the sour cream into each of 4 wide, shallow bowls;
+  place bowls in a 200 degree oven while completing cooking. Drain pasta
+  well; add pasta and chives to bacon in the pan. Mix lightly, using two
+  forks.  Spoon an equal portion of pasta mixture into each warm bowl. Make a
+  nest in the center of each; slip in an egg yolk. Mix each portion
+  individually and sprinkle with cheese.
+ 
+</step></directions></recipe></recipeml>

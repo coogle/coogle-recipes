@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Kuchen - Philadelphia Orchestra Cookbook</title>
+      <categories>
+        <cat>Pastry</cat>
+        <cat>Dessert</cat>
+        <cat>Apple</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>20-ounce can pie apples; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees. Cut butter into dry cake mix until crumbly.
+  Pat mixture lightly into ungreased 13" x 9" x 2" pan, building up slightly
+  at edges. Bake 10 minutes. Arrange apple slices on warm crust. Sprinkle
+  cinnamon on apples. Blend sour cream and egg yolks and drizzle over apples.
+  Bake 25 minutes or until apples are lightly browned. Serve warm with a
+  scoop of vanilla ice cream.
+  
+  Yield: Servings determined by package of cake mix.
+  
+  Taken from "The Philadelphia Orchestra Cookbook," published by The West
+  Philadephia Committee for The Philadelphia Orchestra, c. 1980.
+  Posted to MC-Recipe Digest V1 #851 by Bill Webster &lt;thelma@pipeline.com&gt; on
+  Oct 18, 1997
+ 
+</step></directions></recipe></recipeml>

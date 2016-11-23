@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond\poppyseed Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat>
+        <cat>Bundt</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Butter, softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Poppyseed filling</item></ing>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit>ounces</unit></amt>
+          <item>Almond filling</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing></ing-div>
+      <ing-div>
+        <title>ALMOND GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Confectioner's sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Light cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Almond extract</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Preheat oven to 350F. Grease and lightly flour a 10 inch tube or bundt
+  pan. Cream butter and sugar together until light and fluffy. Add eggs, one
+  at a time, mixing thoroughly after each addition. Beat in almond filling,
+  and poppyseed filling. Sift together flour, baking powder and salt. Add to
+  creamed mixture alternately with the milk, beginning and ending with dry
+  ingredients. Blend thoroughly. Turn batter into prepared pan. Bake 50
+  minutes, or until a cake tester inserted in center of cake comes out clean.
+  Cool about 10 minutes. Remove from pan and cool thoroughly. Glaze: Combine
+  all ingredients and stir until well blended and smooth. Drizzle over top of
+  cake.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

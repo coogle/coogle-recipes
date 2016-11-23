@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic/generic Hot Sauce Recipe</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Basic mash - and hot.
+  
+  If you want it sweeter, add 1/2 cup raisins. Really.
+  
+  Posted to CHILE-HEADS DIGEST V4 #273 by "Robert Farr, Chile Man"
+  &lt;rbfarr@erols.com&gt; on Jan 18, 1998
+ 
+</step></directions></recipe></recipeml>

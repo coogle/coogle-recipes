@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas and Pancakes</title>
+      <categories>
+        <cat>Low fat</cat>
+        <cat>Desserts</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Or 1-2 small bananas per</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Person</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Calvados, grand marnier or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cointreau</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Oz orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Molasses sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Oz lager beer</item></ing></ingredients>
+    <directions>
+      <step>  Make pancakes with lager, flour and egg, and cook in the normal way (I used
+  a cooking spray to grease a non-stick frying pan). Fold each pancake in
+  half, and then in half again, so it forms a quarter-circle (if you're as
+  bad at cooking pancakes as I am, they'll come out in bits anyway - if so,
+  pretend it didn't happen!), and place them in a large flan dish.
+  
+  Peel bananas, cut in half long-ways and in half again cross-ways, and place
+  face-down on top of the pancakes. Put the remaining ingredients into a
+  frying pan or small saucepan, and boil for 3-4 minutes, until just
+  beginning to be syrupy.  Pour over bananas and pancakes, and bake in a
+  moderate oven (Mark 4 - 350 F) for 20-30 minutes.
+  
+  I served this with fromage frais (cream substitute) and a chocolate sauce,
+  for which the recipe follows:
+  
+  Recipe by: Annabel Smith Converted to MM by Donna Webster
+  donna@webster.demon.co.uk
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

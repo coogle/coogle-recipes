@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Smunchies</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>26</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>52</qty>
+          <unit/></amt>
+        <item>Graham cracker squares</item></ing></ingredients>
+    <directions>
+      <step>  From: Wendy Lockman &lt;wlockman@ra1.randomc.com&gt;
+  
+  Date: Sun, 21 Apr 1996 15:41:22 -0400
+  My suggestion: Mash one banana into a measuring cup. Measure an equal
+  amount of peanut butter.
+  
+  Mash very ripe bananas into a smooth paste. Mix in peanut butter.  Chill
+  well. Drop 2 Tbsp. onto one square graham cracker, cover with second graham
+  cracker square. Freeze until ready to use.
+  
+  1 serving 188 calories, 1 starch, 1 med. fat meat, 1 fat exchange 20 grams
+  carbohydrate, 7 grams protein, 11 grams fat, 118 mg sodium
+  
+  Adapted from Exchanges for All Occasions by Marion Franz, 1993 edition
+  Shared but not tested by Elizabeth Rodier, Jan 94.
+  
+  MC-RECIPE@MASTERCOOK.COM
+  
+  MASTERCOOK RECIPES LIST SERVER
+  
+  MC-RECIPE DIGEST V1 #52
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

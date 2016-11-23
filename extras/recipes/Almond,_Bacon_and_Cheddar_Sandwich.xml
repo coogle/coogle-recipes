@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond, Bacon and Cheddar Sandwich</title>
+      <categories>
+        <cat>Sandwich</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped toasted almonds; unblanched</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>slices</unit></amt>
+        <item>Crisp bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated Cheddar cheese (pack in measuring cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped green onions or chives</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Wheat bread</item></ing></ingredients>
+    <directions>
+      <step>  Finely chop almonds, crumble bacon, and add rest of ingredients and blend.
+  Spread generously on wheat bread.  Yield: 3 cups filling.
+  
+  ANN EVANS (MRS. THOMAS)
+  
+  From &lt;Traditions: A Taste of the Good Life&gt;, by the Little Rock (AR) Junior
+  League.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

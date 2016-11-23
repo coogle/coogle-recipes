@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Salmon with Field Greens</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FOR THE BARBECUE RUB</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Garlic powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Onion powder</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground allspice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground white pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Paprika</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Salmon fillets, 5 oz each</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Olive oil for the salmon</item></ing></ing-div>
+      <ing-div>
+        <title>FOR THE VINAIGRETTE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Organic field greens</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>V8 or other vegetable juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Balsamic vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped tomato</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Barbecue rub (reserved from above)</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From Will Greenwood, not-quite White House chef.
+  
+  For the rub: Combine the chili, garlic and onion powders, the sugar,
+  salt, allspice, cumin, white pepper and paprika in a food processor
+  until thoroughly mixed. Sprinkle all but 1 1/2 tablespoons of the rub
+  on all sides of the salmon. Let fillets marinate for 6 hours.
+  
+  To cook the salmon: Prepare a very hot grill. If you are using wood
+  chips on the hot coals, first soak these in water so they will smoke
+  more. Add soaked chips 5 minutes before starting the salmon.
+  
+  Rub the fillets with a thin film of olive oil. Grill them
+  approximately 8-10 minutes, depending on thickness.
+  
+  For the field greens and vinaigrette: Clean and refresh the greens in
+  cold water. Spin dry. Mix the vegetable juice, vinegar and tomato
+  together with the reserved barbecue rub and olive oil. Toss with the
+  greens.
+  
+  To serve: Divide greens among plates. Top each plate with a salmon
+  fillet. Spoon the remaining vinaigrette in the bowl over the salmon.
+  Serve hot.
+  
+  Per serving: 298 calories, 30 grams protein, 11 grams carbohydrates,
+  14 grams fat, 2 grams saturated fat, 73 milligrams cholesterol, 886
+  milligrams sodium.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

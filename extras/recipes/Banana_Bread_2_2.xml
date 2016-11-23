@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread 2</title>
+      <categories>
+        <cat/></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fat-free sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites; whipped</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven at 350.  Prepare  a 8 x 4 x 2" loaf pan with cooking spray and
+  flour; set aside. In a mixing bowl, combine flour, sugar, baking powder,
+  cinnamon, baking soda, nutmeg, and cloves.  In another mixing bowl, combine
+  bananas, water, sour cream, and egg whites. Mix dry ingredients with wet
+  ingredients just until moistened.  Pour batter into prepared pan. Bake 60
+  minutes.
+  Posted to Digest eat-lf.v096.n141
+  
+  Date: Mon, 2 Sep 1996 22:04:16 -0500
+  
+  From: matejka@bga.com (Anita A. Matejka)
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Batzaria Salata (Beet Salad)</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Greek</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Beets (or more), med. size</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Oil (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Vinegar (optional) OR</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Skordalia (garlic) Sauce</item></ing></ing-div>
+      <ing-div>
+        <title>SKORDALIA SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Head of garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Potatoes, boiled, peeled</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Oil (or more)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Almonds</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Walnuts</item></ing></ing-div></ingredients>
+    <directions>
+      <step>     Select fresh tender beets and cut off the tops and roots. Wash the
+  beets, without removing the skins, and boil in a large pot with ample
+  water.  Meanwhile, clean the beet greens with the stems; add to the pot
+  after the beets have cooked 30 min.  When beets are tender, remove and
+  strain the liquid.  Peel the beets and cut them into round slices; chop up
+  the greens. Mound greens in center of a platter and surround them with the
+  beet slices.  Pour oil and vinegar over all, and serve. or serve with
+  Skordalia (garlic) Sauce. Serve hot or cold.
+  
+     SKORDALIA SAUCE:  Clean garlic and mash it completely (you may use food
+  processor).  Mash in potatoes, one by one, until you have a thick paste
+  (the more potatoes you use, the more sauce you get--but less potent).
+  Alternately add the oil and vinegar, beating constantly. If the sauce is
+  too thick for your taste, add a little water or fish or chicken stock. NO
+  LUMPS IN THIS SAUCE, P-L-E-A-S-E !!
+  
+     NOTE:  Many people like to add almonds or walnuts to skordalia. These
+  are mashed to a pulp and added to the paste before the potatoes, oil, and
+  vinegar.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

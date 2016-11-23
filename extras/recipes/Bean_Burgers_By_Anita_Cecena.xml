@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Burgers By Anita Cecena</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Minced green onions.</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced garlic.</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White wine/stock</item></ing>
+      <ing>
+        <amt>
+          <qty>29</qty>
+          <unit>ounces</unit></amt>
+        <item>Cooked drained pinto beans</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cracker meal or bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Seasoned rice vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Italian seasonings (oregano, basil, etc.)</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven 350 degrees. Saute onions/garlic in stock/white wine. Combine
+  with beans, cracker meal, egg whites, parsley, vinegar, seasonings. Mash
+  well with fork until blended, but not entirely smooth. (Here I depart from
+  recipe...I make up a bunch of hamburger sized patties, freeze some,
+  refridge some, and cook them as needed for about 20 minutes in a toaster
+  oven...I know they are done when the egg/bread crumbs are brown and the
+  patty is a bit dry.  I find this basic recipe can absorb many, many
+  changes.I've used white beans, black beans, whatever, sauteed mushrooms,
+  hot sauce, catsup, etc. The main thing is to get a good
+  texture/cohesiveness in the final product, so it sticks together. Have
+  fun!)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

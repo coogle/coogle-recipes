@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abm Rice Bread</title>
+      <categories>
+        <cat>Abm</cat>
+        <cat>Breads</cat>
+        <cat>Rice</cat>
+        <cat>Jw</cat></categories>
+      <yield>1 1/2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Veg oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>All purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ground Rice Crispies</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast</item></ing></ingredients>
+    <directions>
+      <step>  It takes about 2 cups of Rice Crispies  to make 1 cup of ground rice in the
+  blender.
+  
+  Add liquid ingredients, then dry ingredients, then yeast. Set machine for
+  regular/basic and medium crust. Watch the first mixing and add more flour
+  if necessary for the dough to form a ball that lifts from the tub.
+  
+  Jim Weller
+  Posted to Bakery-Shoppe Digest V1 #453 by Jim Weller &lt;jweller@ssimicro.com&gt;
+  on Dec 14, 1997
+ 
+</step></directions></recipe></recipeml>

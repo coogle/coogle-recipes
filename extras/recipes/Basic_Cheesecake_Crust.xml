@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cheesecake Crust</title>
+      <categories>
+        <cat>Polkadot</cat>
+        <cat>Faylen</cat>
+        <cat>Cakes</cat>
+        <cat>Info</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Crushed graham crackers (1 package)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted butter</item></ing></ingredients>
+    <directions>
+      <step>  Mix the graham crackers and sugar, then add butter and mix with a fork
+  until completely moistened.  Press mixture into the bottom and up 1/3rd of
+  the side of a 9-inch springform pan.  Refrigerate for 1 hour.
+  
+  Variations:  Use ginger snaps instead of graham crackers for a spicier
+  crust or for cakes like pumpkin.  Use chocolate wafers instead of graham
+  crackers for a chocolate, white chocolate, or certain fruit-flavored or
+  ~topped cheesecakes like raspberry, cherry, or orange. For a sweeter,
+  moister crust (do this only if the cheesecake is going to get eaten
+  quickly, because it gets mushy faster) use brown sugar instead of white.
+  
+  (see also Basic Cheesecake Filling and Basic Cheesecake Method &amp; Toppings)
+  
+  * The Polka Dot Palace BBS 1-201-822-3627.  Posted by FAYLEN
+  
+  Posted to MC-Recipe Digest V1 #703 by Lisa Clarke &lt;lisa@gaf.com&gt; on Aug 1,
+  9
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anchor Steam-Style Amber</title>
+      <categories>
+        <cat>Beer</cat>
+        <cat>Brewing</cat></categories>
+      <yield>54</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>pounds</unit></amt>
+        <item>John Bull plain light malt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Crystal malt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Northern Brewer hops (11</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Alpha) (boil)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Cascade hops (5.6 alpha)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(finish)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Packs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lager yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>Pour</qty>
+          <unit>1</unit></amt>
+        <item>gallon water into brewpot.  Crush grains and  add  to  brewpot.</item></ing></ingredients>
+    <directions>
+      <step>  Bring  to boil. Remove grains. Add malt extract. Add 1/3 of the  boiling
+  hops.  After 20 minutes, add another 1/3 of hops. After another 20  min-
+  utes  add  the last 1/3 of hops. After another 20 minutes,  remove  from
+  heat and add finishing hops. Cover wort. Pour 3 gallons cold water  into
+  fermenter.  Strain wort into fermenter along with enough water  to  make
+  5-1/2 gallons. Pitch yeast and put in blowoff tube or airlock. This recipe
+  was offered in 1986 by the now-defunct Home Brewer shop  in San Jose,
+  California, as the best approximation to Anchor Steam possible with
+  home-brew-scale extract brewing.
+  
+  Recipe By     : Clay Phipps
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

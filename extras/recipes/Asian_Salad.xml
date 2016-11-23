@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Salad</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Head bok choy; sliced thin</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Carrots; grated</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Green onions; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Bean sprouts</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cilantro leaves; chopped</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Seasoned rice vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Chinese chili-garlic paste</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  I've made a few more recipes from Gabe Mirkin's book. The Cranberry Beans
+  and Kale was a dud for me (and so not posted here), but I liked the Asian
+  Salad. It also gave me a chance to use my nice Japanese slicer: the
+  Benriner. As with most his recipes, this makes a lot, you may want to halve
+  the recipe.
+  
+  Mix vegetables in a bowl. Mix vinegar and chili-garlic paste together. Pour
+  dressing over vegetables and toss.
+  
+  Posted to fatfree digest V97 #295 by Michelle Dick &lt;artemis@rahul.net&gt; on
+  Dec 14, 97
+ 
+</step></directions></recipe></recipeml>

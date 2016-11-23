@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antipasto Steak Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>And</cat>
+        <cat>Dressings</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef boneless top sirloin steak, 1 inch thick</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Freshly ground pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Romaine lettuce; torn into bite-size pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Garlic-flavored croutons</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Freshly shredded Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Caesar salad dressing</item></ing></ingredients>
+    <directions>
+      <step>  Heat coals or gas grill. Sprinkle beef with pepper. Cover and grill beef 4
+  to 6 inches from medium heat 15 to 18 minutes for medium doneness, turning
+  once. Cut beef across grain into thin slices.
+  
+  Toss romaine, croutons, cheese and dressing. Top with beef slices. Serve
+  with additional shredded Parmesan cheese if desired.
+  
+  Recipe by: Easy Grilling! Salads and Sides/Betty Crocker 1997 Posted to TNT
+  ~ Prodigy's Recipe Exchange Newsletter  by SilkyKitty
+  &lt;SilkyKitty@prodigy.net&gt; on Jul 13, 1997
+ 
+</step></directions></recipe></recipeml>

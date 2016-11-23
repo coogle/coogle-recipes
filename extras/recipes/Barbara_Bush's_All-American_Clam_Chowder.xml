@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbara Bush's All-American Clam Chowder</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Seafood</cat>
+        <cat>Celebrity</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>ounces</unit></amt>
+        <item>Clams, canned with liquid, * see note</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Potatoes, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of celery soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Black pepper</item></ing></ingredients>
+    <directions>
+      <step>  * Save the clam liquor.
+  
+  Cook bacon in frying pan until crisp. Remove, drain and break into 1"
+  pieces. Brown onion in bacon fat. Add clam liquor and potatoes. Cover. Cook
+  over low heat until potatoes are done (about 15 minutes). Blend in bacon
+  pieces, minced clams, and other ingredients. Heat, but don't boil. Bacon
+  may be used for garnish. Serves 4.
+  
+  Recipe by: Barbara Bush Posted to TNT - Prodigy's Recipe Exchange
+  Newsletter  by Sherry Zeiss &lt;zeiss@tab.com&gt; on Jul 11, 1997
+ 
+</step></directions></recipe></recipeml>

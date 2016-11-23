@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ambrosia Fruit Salad</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>small</unit></amt>
+        <item>Mandarin oranges</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pineapple; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Miniature marshmallows</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Coconut</item></ing></ingredients>
+    <directions>
+      <step>  Drain juice from mandarin oranges and pineapple. Mix all ongredients
+  together. Let stand in refrigerator overnight.
+  Recipe By     : Cook Hill School Cookbook
+  
+  Posted to MC-Recipe Digest V1 #281
+  
+  Date: Wed, 6 Nov 1996 10:16:48 -0500
+  
+  From: ctlindab@usa.nai.net
+ 
+</step></directions></recipe></recipeml>

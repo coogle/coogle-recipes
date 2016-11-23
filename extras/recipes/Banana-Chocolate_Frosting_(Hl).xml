@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Chocolate Frosting (Hl)</title>
+      <categories>
+        <cat>Frosting-ck</cat>
+        <cat>Choco-ck</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Spread margarine margarine; butter or soft tofu</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chatfield's carob powder or cocoa powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Banana; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey; preferably raw and unfiltered</item></ing></ingredients>
+    <directions>
+      <step>  Place all ingredients in a food processor or blender. Puree until smooth.
+  
+  Courtesy of Wilma Nachsin and Mary Harris' "My Kid's Allergic to Everything
+  Dessert Cookbook"
+  
+  Copyright, 1997, TV FOOD NETWORK, G.P., All Rights Reserved
+  
+  Busted by Gail Shermeyer &lt;4paws@netrax.net&gt;
+  
+  Recipe by: RECIPE FOR HEALTH SHOW #RHF197
+  
+  Posted to MC-Recipe Digest V1 #799 by 4paws@netrax.net (Shermeyer-Gail) on
+  Sep 24, 1997
+ 
+</step></directions></recipe></recipeml>

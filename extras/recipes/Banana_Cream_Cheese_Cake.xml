@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cream Cheese Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Yellow cake mix, prepared in 13x9 pan.</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese, room temperature</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(3-oz) instant vanilla pudding</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Or 4 bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Container Cool Whip</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped nuts</item></ing></ingredients>
+    <directions>
+      <step>  Beat cream cheese until creamy. Add milk, gradually; add pudding, beating
+  until well mixed. Pour over cooled cake. Slice the bananas over cake. Cover
+  with Cool Whip and top with nuts.
+  Posted to MM-Recipes Digest  by Julie Bertholf &lt;jewel1@ix.netcom.com&gt; on
+  Feb 24, 1998
+ 
+</step></directions></recipe></recipeml>

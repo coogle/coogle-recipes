@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bonanza Bread</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Quite ripe bananas; (good even if they are a bit overripe and brown in places)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon to taste</item></ing></ingredients>
+    <directions>
+      <step>  yes, those are all of the ingredients! Here's how ya do it!
+  
+  Peel the bananas and mash in a large bowl with the sugar and vanilla. This
+  will turn to a thick, fragrant glop (a technical term) in a few minutes.
+  Stir in the flour and baking soda a bit at a time, until it's all
+  incorporated. Pour this mixture into a glass dish (just about anything
+  should work, we've done it in a loaf pan too and it works great) and
+  sprinkle some cinnamon on the top. Bake in a 350 over for 50 min - 1 hr.
+  Now, this bread is not the texture of the familiar banana bread, which i
+  think has more the consistency of a muffin or cake. This will actually have
+  the texture of a chewy, dense bread!
+  
+  Posted to fatfree digest by pat94@total.net (Pat &amp; Tina) on Apr 3, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Lemon Chicken</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Barbeque</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Black peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>kilograms</unit></amt>
+        <item>Chicken</item></ing></ingredients>
+    <directions>
+      <step>  Combine lemon juice, oil and thyme. Coarsely grind or crush pepper; add to
+  lemon mixture. Place chicken in shallow dish; pour lemon mixture over,
+  turning chicken to coat all over. Refrigerate for 1 to 3 hours, turning
+  chicken occasionally.
+  
+  Cook chicken on greased grill over hot coals or on high setting, turning
+  frequently to prevent burning, for about 20 minutes on each side or until
+  chicken is no longer pink inside.
+  
+  Per serving: 522 Calories; 30g Fat (53% calories from fat); 55g Protein; 5g
+  Carbohydrate; 170mg Cholesterol; 165mg Sodium
+  
+  NOTES : 2 teaspoons of chopped fresh thyme may be substituted for dry.
+  
+  Recipe by: The Canadian Living Barbecue and Summer Foods Cookbook Posted to
+  MC-Recipe Digest V1 #612 by Kim Robb &lt;krobb@summer.com&gt; on May 14, 1997
+ 
+</step></directions></recipe></recipeml>

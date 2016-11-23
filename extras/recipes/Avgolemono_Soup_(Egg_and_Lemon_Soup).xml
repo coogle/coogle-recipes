@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avgolemono Soup (Egg and Lemon Soup)</title>
+      <categories>
+        <cat>Soups/stews</cat>
+        <cat>Greek</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Rich chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs, well beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Rice (not instant)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Strained lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  In a large sauce-pan bring to a boil the 6 cups of broth. Add the rice and
+  simmer for about 20 minutes until tender. Reduce the heat and barely
+  simmer. in a mixing bowl beat the eggs until they are light and frothy and
+  stir in the lemon juice.  Slowly add 2 cups of the broth to the mixing
+  bowl, beating constantly. Stir the mixture gradually into the remaining
+  broth. Reheat the soup before serving, but do not let it boil.
+  
+  Posted by Jerry Tretiak. Courtesy of Fred Peters.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

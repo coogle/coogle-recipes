@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arizona Skillet Dinner</title>
+      <categories>
+        <cat>Legumes</cat>
+        <cat>Low-fat</cat>
+        <cat>Vegetarian</cat>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green bell pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomatoes; canned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Kidney beans; canned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Corn; canned</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Macaroni; elbow</item></ing></ingredients>
+    <directions>
+      <step>  Saute onion, green pepper, garlic, chili powder, salt, and cumin until
+  vegetables are tender. Stir in tomatoes, breaking with spoon. Add kidney
+  beans and corn; bring to boil. Reduce heat and simmer 15 minutes, stirring
+  occasionally. Toss with elbows.
+  
+  Recipe by: Net
+  
+  Posted to JEWISH-FOOD digest by Annice Grinberg
+  &lt;VSANNICE@WEIZMANN.WEIZMANN.AC.IL&gt; on May 12, 98
+ 
+</step></directions></recipe></recipeml>

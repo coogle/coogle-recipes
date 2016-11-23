@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baja Blintzes</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Mexican</cat>
+        <cat>Cheese</cat>
+        <cat>Eggs</cat>
+        <cat>Ham</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock or bouillon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk -OR- half &amp; half</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Onion; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Canned diced green chilies</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Monterey Jack cheese; shred</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Hard-cooked eggs; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ham; cooked, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>(8-inch) flour tortillas</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375~F. In a small saucepan, melt
+  butter. Stir in flour. Cook and stir 2 minutes. Stir
+  in stock and milk. Cook, stirring constantly, over
+  medium heat until thickened; remove from heat. Stir in
+  onion, chilies, salt and cheese. Arrange 1/2 a sliced
+  egg and 1 rounded tablespoon ham on each tortilla.
+  Spoon about 2 tablespoon cheese sauce over ham. Fold
+  both sides of each tortilla over filling; then fold
+  top and bottom to slightly overlap in center. Place
+  filled tortillas, folded-side down, in a shallow
+  baking pan. Cover with foil. Bake in preheated oven 10
+  to 12 minutes or until heated through. Serve warm.
+  Makes 6 servings.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

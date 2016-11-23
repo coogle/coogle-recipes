@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Trout</title>
+      <categories>
+        <cat>Bar-b-q</cat>
+        <cat>Seafood</cat>
+        <cat>Main dish</cat>
+        <cat>Fish</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Trout</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lemon juice</item></ing></ing-div>
+      <ing-div>
+        <title>MARINADE FOR FISH</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cooking sherry</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove crushed garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Salad oil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Brush trout with lemon juice inside and out to preserve freshness
+  before refrigeration.  Place 2 trout, 10 to 12 inch fish, in shallow
+  baking dish; pour marinade (recipe follows) over fish.  Let stand for
+  one hour.  Place on grill and cook until done, approx. 15 minutes.  The
+  drained marinade should be used for basting during cooking.
+  
+  MARINADE: Use hand mixer to blend all ingredients well.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-trout.zip
+ 
+</step></directions></recipe></recipeml>

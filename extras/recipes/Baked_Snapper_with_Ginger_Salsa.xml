@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Snapper with Ginger Salsa</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>medium</unit></amt>
+        <item>Tomato; peeled, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Scallion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cilantro, fresh; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Jicama; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh lime juice; divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Jalapeno; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger, fresh; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Filet, snapper; (1 pound)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Wine, white, dry</item></ing></ingredients>
+    <directions>
+      <step>  Salsa: Combine tomatoes, onion, cilantro, jicama, 2 T lime juice, jalapeno
+  and ginger in bowl.  Cover and let sit for at least one hour.
+  
+  Fish: Preheat oven to 425 degrees.  Place fillets in a shallow pan and
+  cover with wine and remaining 1 T. lime juice. Cover pan with aluminum foil
+  and bake for 25 minutes or unti fish flakes when poked with a fork.
+  
+  Arrange fish on a serving plate and spoon salsa on top.
+  
+  Per serving: 153 cals (64% from portein, 26% from carbo, 10% from fat), 24
+  g prot, 5 g carbo, 2 g fat, 41 mg chol, 127 mg sod. Exchanges: 1/2 Veg, 2
+      1/2    Meat
+  
+  Originally from: Healing Your Heart
+  :          by Dr. Herman Hellerstein and Paul Perry
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

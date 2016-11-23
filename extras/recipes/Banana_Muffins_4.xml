@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Muffins</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Tnt</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; optional</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375degrees. Place cupcake papers in tin. Mash bananas in
+  large bowl. Mix in sugar and egg. Sift flour, baking powder, baking soda
+  and salt. Add to banana mixture alternately with oil. Stir in walnuts. Fill
+  tins 2/3 full. Bake until golden and tester comes out clean...approx 25 -30
+  minutes.
+  
+  NOTES : This is probably my favorite banana muffin.  Simple and low fat.  I
+  do not sift anything...do not mash bananas.  I beat them before adding the
+  other ingredients.  One bowl..quick!!   I usually do not use nuts.
+  Recipe by: Bon Appetit?
+  
+  Posted to recipelu-digest Volume 01 Number 478 by "bertnevie"
+  &lt;tess@shore.intercom.net&gt; on Jan 8, 1998
+ 
+</step></directions></recipe></recipeml>

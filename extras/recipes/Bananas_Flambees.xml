@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas Flambees</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Rum</item></ing></ingredients>
+    <directions>
+      <step>  Peel bananas, splitting lengthwise and cutting in halves. Place bananas in
+  a buttered, shallow, oven-proof baking dish and dot with butter. Sprinkle
+  sugar over bananas. Bake uncovered at 325'F for about 35 minutes. Set dish
+  on stove, being careful to keep warm. Pour rum in a long-handled spoon,
+  which has been warmed by dipping in boiling water. Set a match to the rum
+  and as it flames pour over bananas. As it runs down in the dish, ladle it
+  up and over the bananas until the flaming ceases. The secret of this
+  dessert is to have all ingredients warm, otherwise it will not flame well.
+  
+  This old recipe, as good today as years ago, was brought to Louisiana by a
+  distant relative of Empress Josephine, at whose table this was often
+  served.
+  
+  Source: Recipes and Reminiscences of New Orleans Recipe: Mrs. Reginald C.
+  Watson
+ 
+</step></directions></recipe></recipeml>

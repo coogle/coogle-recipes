@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Rice Pilaf</title>
+      <categories>
+        <cat>Dupree</cat>
+        <cat>Rice</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins or currants</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dehydrated chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter; optional</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Chicken stock cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water (2 to 2-1/2 cups)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Slivered toasted almonds</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Place the rice, raisins, onion, butter, stock cubes and water in a 2- to
+  3-quart saucepan. Bring to the boil, and stir once or twice. Reduce heat,
+  cover, and simmer 45 to 50 minutes, or until rice is tender and liquid is
+  absorbed. Remove from heat. Add almonds, season with salt and pepper, and
+  fluff with a fork.
+  Recipe By     : Nathalie Dupree Cooks, TVFN
+  
+  Posted to MC-Recipe Digest V1 #239
+  
+  Date: Wed, 9 Oct 1996 15:19:37 -0700 (PDT)
+  
+  From: patH &lt;phannema@wizard.ucr.edu&gt;
+ 
+</step></directions></recipe></recipeml>

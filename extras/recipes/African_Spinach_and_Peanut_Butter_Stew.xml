@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>African Spinach and Peanut Butter Stew</title>
+      <categories>
+        <cat>African</cat>
+        <cat>Ethnic</cat>
+        <cat>Stews</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tomatoes (peeled or tinned)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Spinach</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Peanut butter (not sweet!)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for frying</item></ing></ingredients>
+    <directions>
+      <step>  Slice the onions and fry in oil until soft.  Peel the tomatoes in boiling
+  water (or use tinned tomatoes). Slice and add to the onions.
+  
+  Wash, trim and chop the spinach coarsely.  Add to the stew and cook,
+  covered, over a medium heat for 5 minutes, stirring to prevent sticking.
+  
+  Thin the peanut butter with hot water to make a smooth paste. Add to the
+  stew.  Season with salt and pepper and cook for another 5 - 10 minutes,
+  stirring and adding water if necessary to prevent sticking.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

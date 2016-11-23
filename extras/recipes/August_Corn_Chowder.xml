@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>August Corn Chowder</title>
+      <categories>
+        <cat>Corn</cat>
+        <cat>Chowder</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Defatted chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Corn ears, kernels removed, cobs reserved and halved crosswise (see note below)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Fresh dill sprigs (including stems) PLUS</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped fresh dill</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Red-skinned new potatoes, unpeeled, cut into 1/4" dice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Low-fat plain yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cucumbers, peeled, seeded and cut into small dice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Red bell pepper, cored, seeded and cut into 1/4" dice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Coarsely ground black pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Whenever cold soups call for chicken broth, be sure to defat it
+  completely for best results. Also, black pepper is the only spice in
+  this chowder, so freshly ground is a MUST.
+  
+  1. Place broth, corn cobs and dill sprigs in a heavy pot. Bring to a
+  boil, reduce heat, simmer 10 minutes. Discard cobs and dill.
+  
+  2. Add potatoes to broth and cook for 8 minutes or until tender. Add
+  corn kernels and cook 1 minute longer. Remove from heat; pour soup
+  through a strainer, reserving vegetables and broth.
+  
+  3. Place yogurt and 2/3 of the diced cucumbers in the bowl of a food
+  processor; pulse on and off just to combine ingredients (so some
+  texture remains). With motor on, pour in 1 cup of reserved broth
+  through feed tube and pulse machine on to just combine ingredients.
+  Remove to a bowl. Save any leftover broth for another use.
+  
+  4. Stir in the reserved vegetables, remaining diced cucumber, bell
+  pepper and chopped dill. Season with fresh black pepper. Refrigerate
+  for up to 2 hours. Serve chilled.
+  
+  Per 1-cup serving: 212 calories, 2 grams fat, 5 milligrams
+  cholesterol.
+  
+  NOTE: If you like, cut 3 more ears of corn (with kernels) into 1"
+  lengths and cook separately for 2-3 minutes. Then divide corn between
+  bowls and ladle soup on top.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

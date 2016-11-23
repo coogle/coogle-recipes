@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Beef" and Bean Burrito</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Nat. touch</cat>
+        <cat>Main dish</cat>
+        <cat>Tex-mex</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Natural Touch Taco Mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Refried beans</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Tortillas, flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cheese, cheddar, low-fat; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Taco sauce</item></ing></ingredients>
+    <directions>
+      <step>  Prepare taco mix according to package directions. Place 3 ounces of Taco
+  Mix and 1/4 cup of refried beans on each flour tortilla. Roll up tortilla.
+  Pour sauce over burritos and sprinkle with cheddar cheese. Heat in
+  microwave oven for 2 minutes or conventional oven for 10 minutes at 350
+  degrees or until hot.
+  
+  From "Recipes, Natural Touch"
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

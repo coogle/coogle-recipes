@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Sundae Cookies</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Margarine or butter softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar, firmly packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mashed ripe banana (about 4 medium)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Quaker Oats, uncooked (quick or old-fashioned)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Semisweet chocolate pieces</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ice cream or frozen yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ice cream topping (any flavor)</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 350 F.  Beat together margarine and sugar until creamy.  Add
+  banana, eggs and vanilla; beat well.  Add combined oats, flour, baking
+  soda and salt; mix well.  Stir in chocolate pieces; mix well.  Drop by 1/4
+  cupfuls onto ungreased cookie sheet about 3 inches apart.  Spread dough to
+  3-1/2-inch diameter.  Bake 14 to 16 minutes or until edges are light
+  golden brown.  Cool 1 minute on cookie sheet; remove to wire rack.  Cool
+  completely.  To serve, top each cookie with a scoop of ice cream and ice
+  cream topping.
+  
+  Nutrition Information (1 cookie without ice cream or topping):
+  * Calories: 225
+  * Fat 11g
+  * Sodium 130mg
+  * Dietary Fiber 1g
+  
+  Source: Quaker Oats Favorite Cookies
+  Copyright 1994, The Quaker Oats Company
+  Reprinted with permission from The Quaker Oats Company
+  Electronic format courtesy of Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/quaker02.zip
+ 
+</step></directions></recipe></recipeml>

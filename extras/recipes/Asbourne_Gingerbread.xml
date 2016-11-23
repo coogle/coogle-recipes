@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asbourne Gingerbread</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Self-raising flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch of salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Golden syrup</item></ing></ingredients>
+    <directions>
+      <step>  Pre-heat oven to 350oF Mark 4. Sieve flour, salt and ginger together. Cream
+  the syrup, margarine and sugar in a bowl, then stir in the dry ingredients.
+  Knead to form a smooth dough. Form 1 inch balls, then roll into a sausage
+  shape and flatten slightly on a greased baking sheet with the back of a
+  fork. Bake until golden brown; approx. 15 to 20 mins. Cool on a wire rack.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

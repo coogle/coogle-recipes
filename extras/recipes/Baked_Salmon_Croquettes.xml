@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Salmon Croquettes</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>HOME COOKING SAMPLER</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Fresh salmon; cooked and flaked to make about 3 cups</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh bread crumbs; made frm 2 sl quality white bread, crusts removed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Scallion, white only; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Fresh dill; snipped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Lemon; zest of, grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Heavy cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cayenne pepper</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Caviar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lemon wedges</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat the oven to 350~.  Thoroughly grease 6 individual ramekins or
+  custard cups with 1 tbsp of the butter. Place the flaked salmon in a bowl.
+  Add 3/4 cup of the bread crumbs, the scallion, dill, lemon zest, egg, and
+  cream.  Mix gently with a fork.  Season with salt, pepper, and cayenne
+  pepper.  Divide the mixture among the buttered cups and pack it down
+  slightly. Top the croquettes with the remaining 1/4 cup of bread crumbs.
+  Dot with the remaining tbsp of butter.
+  
+  Arrange the cups in a roasting pan.  Pour in enough hot water to come
+  halfway up the sides of the ramekins. Bake until fairly firm and set, about
+  30 mins. Cool for 5 to 10 mins. The croquettes can be unmolded, right side
+  up, or served in the ramekins. Top each croquette with sour cream and
+  caviar, or simply garnish with lemon.
+  
+  Author - Peggy K. Glass
+ 
+</step></directions></recipe></recipeml>

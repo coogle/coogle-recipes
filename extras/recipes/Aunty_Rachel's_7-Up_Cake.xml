@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunty Rachel's 7-Up Cake</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Boxes Duncan Hines pudding cake mix plus ingredients to prepare cake as directed on box</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cans</unit></amt>
+          <item>(12-oz) 7-up</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Boxes vanilla instant pudding plus ingredients to prepare pudding as directed on box</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cool Whip</item></ing></ing-div></ingredients>
+    <directions>
+      <step>    Following baking directions on box, prepare cake and add 1 tsp. vanilla.
+  Bake at 350 degrees.  When cake is done and still hot, poke holes in cake
+  with a fork.  Pour 2 cans of 7-Up over the entire cake.  Let stand for one
+  hour or more in its original baking pan.
+  
+   Frosting: Add 1 tsp. vanilla extract to 2 boxes of vanilla instant pudding
+  mix.  Mix as directed on box and spread in an even layer on the cake.  Just
+  before serving, spread Cool Whip over the frosting.  Cut and serve.
+  
+  From a book of my mother's (Judy Hosey) titled &lt;Senator Richard Matsuura's
+  Favorite Recipes&gt;, mostly Japanese and Hawaiian.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

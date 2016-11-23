@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amy's Diced Potatoes</title>
+      <categories>
+        <cat>Potatoes</cat>
+        <cat>Vegetables</cat>
+        <cat>Bar-b-que</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Potato -- diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bottle</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Seasoned salt, Lawery's</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter, liquid</item></ing></ingredients>
+    <directions>
+      <step>  Diced potatoes into 1/2 inch cubes. Place potatoes into a foil boat or an
+  aluminum pan. Sprinkle worcestershire sauce all over the potatoes. Sprinkle
+  butter over the potatoes. Sprinkle seasoned salt next. Cook til done over a
+  grill or in a smoker.
+  
+  Recipe By     : Amy Lewallen
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

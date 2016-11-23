@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Atzem Pilafi</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Pasta/rice</cat>
+        <cat>Greek</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Lamb, cut 1 1/2" cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Tomatoes, peeled,strained OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato paste diluted with:</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Raw rice</item></ing></ingredients>
+    <directions>
+      <step>     Wash and dry meat.  Brown 2/3 of the butter in lge. pot. Add meat and
+  brown on all sides.  Add onions and continue to cook until they become a
+  light golden color. Add tomatoes or diluted tomato paste, and the salt,
+  pepper and water.  Cover pot and simmer until meat is tender, abt. 1 hr.
+  Put meat into casserole and keep it warm. Strain sauce; measure it. Add
+  water if necessary to make 8 or 9 cups. Pour into lge. pot and bring to a
+  boil.  Add rice.  Stir at the start to prevent sticking. Cover and simmer
+  until most of the liquid is absorbed, 20 to 30 min. Remove from heat. Add
+  meat and mix well.  Brown remaining butter and pour it over the rice. Cover
+  pot with a clean towel, then cover towel with pot lid. Let stand for 5 min.
+  Serve hot.  Serves 6 to 10.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

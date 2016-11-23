@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crumb Pie</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Honey Graham Pie Crust</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg white; slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Apple pie filling; (21 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioners' sugar; optional</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Apple slices and mint sprig; for garnish</item></ing></ingredients>
+    <directions>
+      <step>  Brush pie crust with egg white. Bake at 375F for 5 minutes; set aside.
+  Spoon pie filling into pie crust. In small bowl, combine flour, sugar and
+  cinnamon. Cut in margarine until mixture is crumbly; stir in pecans
+  Sprinkle over pie filling. Bake at 375F for 25 to 30 minutes or until
+  topping is golden brown. Cool slightly on wire rack. Serve warm, sprinkled
+  with confectioners' sugar if desired. Garnish with apple slices and mint
+  sprig.
+  
+  Recipe by: Honey Maid
+  
+  Posted to recipelu-digest Volume 01 Number 261 by N8ugz@aol.com on Nov 16,
+  1997
+ 
+</step></directions></recipe></recipeml>

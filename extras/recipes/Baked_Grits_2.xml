@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Grits</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Regular or quick-cooking grits</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Sharp cheddar cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; well beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit/></amt>
+        <item>Cu + 1 TBS milk</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 350 degrees.  Cook the grits according to package
+  directions.  Regular girts require 25 to 30 minutes of slow cooking;
+  quick-cooking grits will take 3 to 5 minutes. Stir in the cheese, butter,
+  eggs, and milk and pour into a buttered 3-cup baking dish. Bake 40 minutes
+  or longer, or until set.
+  Recipe By     : Craig Claiborne's Southern Cooking, p. 226
+  
+  Posted to MC-Recipe Digest V1 #274
+  
+  Date: Sat, 02 Nov 1996 17:45:22 -0600
+  
+  From: Lou Parris &lt;lbparris@earthlink.net&gt;
+  
+  NOTES : This is a basic baked grits recipe.   Variations in other recipes
+  include adding onions, garlic, or scallions, jalepeno
+  
+  peppers, Worchestershire sauce, Gruyere and Parmesan cheese instead
+  
+  of Cheddar.   See neighboring pages in this cookbook.
+ 
+</step></directions></recipe></recipeml>

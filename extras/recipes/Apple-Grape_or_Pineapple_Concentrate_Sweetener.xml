@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Grape or Pineapple Concentrate Sweetener</title>
+      <categories>
+        <cat>Jams/jelly</cat>
+        <cat>Condiment</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>APPLE-GRAPE SWEETENER:</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Can frozen apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Concentrate, defrosted</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Can frozen grape juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Concentrate, defrosted</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>PINEAPPLE SWEETENER:</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Can frozen pineapple juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Concentrate, defrosted</item></ing></ingredients>
+    <directions>
+      <step>  1. For the apple-grape sweetener: In a large saucepan, combine the apple
+  and grape juice concentrates.  Bring to a boil, reduce the heat slightly
+  and cook at a low boil 15 to 20 minutes.  Measure; you should have about 2
+  cups.  Transfer to a jar and cool.  Cover and refrigerate.
+  
+  2. For the pineapple sweetener: Pour the pineapple juice concentrate into a
+  medium saucepan.  Bring to a boil; reduce the heat slightly, and cook at a
+  low boil 15 to 20 minutes.  Measure; you should have about 1 cup. Transfer
+  to a jar and cool.  Cover and refrigerate.
+  
+  3. The sweeteners will have a 2-week shelf life in refrigeration.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

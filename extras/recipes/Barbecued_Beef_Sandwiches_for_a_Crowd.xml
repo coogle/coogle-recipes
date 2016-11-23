@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Beef Sandwiches for a Crowd</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Bbq</cat></categories>
+      <yield>45</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Beef briskets, trimmed about 12 lbs.</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Barbeque sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit/></amt>
+        <item>Hamburger buns</item></ing></ingredients>
+    <directions>
+      <step>  Place briskets in a large roasting pan. Combine barbecue sauce and water;
+  pour over meat. Cover tightly and bake at 325 for 4 to 4 1/2 hours or until
+  fork-tender. Remove meat from juices; cool. Skim fat from juices. Thinly
+  slice meat; return to pan and heat in juices. Serve on buns.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

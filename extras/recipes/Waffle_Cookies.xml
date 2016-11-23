@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waffle Cookies</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Snacks</cat>
+        <cat>Desserts</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Butter or Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cocoa</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pinch of salt</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title></ing-div></ingredients>
+    <directions>
+      <step>  Beat together sugar and butter until creamy. Beat eggs with vanilla and
+  stir into butter mixture. Sift together dry ingredients and stir into
+  creamed mixture. Batter will be quite stiff.
+  
+  Drop a heaping teaspoonful of batter into each section of a hot waffle
+  iron. Close lid and bake one to 1 1/2 minutes. Do not allow cookies to cook
+  until crisp. Cookies will burn if not removed promptly. Use fork to remove
+  cookies and place on racks to cool.
+  
+  Immediately close lid of waffle iron to reheat, one to two minutes.
+  Meanwhile frost just baked cookie while warm, using recipe below or your
+  favourite frosting. Re-open waffle iron and repeat procedure. Continue
+  until all batter is used. Cookies will have ragged edges characteristic of
+  the waffle iron. Blend together, 1 cup confectioner's sugar, one tablespoon
+  butter, one teaspoon vanilla, two tablespoons cocoa and enough cream or
+  milk to make a smooth, spreadable frosting.
+  
+  From the Kitchen of: Nellie Yurkovich, Omaha, Nebraska Shared by: Gary &amp;
+  Margie Hartford, Eugene, OR (1:152/19)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

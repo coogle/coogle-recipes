@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Puree - Master Chefs</title>
+      <categories>
+        <cat>Basics</cat>
+        <cat>Fruits</cat>
+        <cat>Masterchefs</cat>
+        <cat>New york</cat>
+        <cat>1fa</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Apples, tart (Granny Smith or like), peeled cored, and cut into 8 wedges</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  For Apple Puree:
+  ================
+  
+       Place the apples in a heavy saucepan over medium-low heat,
+  adding a few drops of water if they're "dry." Cover the pan and
+  cook, stirring occasionally, until slightly softened, 10 to 15
+  minutes.
+  
+       Break the apples up into 1-inch pieces.  Refrigerate, covered,
+  until cold.
+  
+       Go on to the other recipe for this dish -
+       Roquefort Beignets with Apple Puree II (Batters)
+  
+       Source:  New York's Master Chefs, Bon Appetit Magazine
+       :  Written by Richard Sax, Photographs by Nancy McFarland
+       :  The Knapp Press, Los Angeles, 1985
+  
+       Chef:   Leslie Revsin, One Fifth Avenue Restaurant, New York
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-ny.zip
+ 
+</step></directions></recipe></recipeml>

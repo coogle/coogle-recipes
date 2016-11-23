@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Good Relish</title>
+      <categories>
+        <cat>Kaz</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>gallon</unit></amt>
+        <item>Green tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Dozen</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>large</unit></amt>
+        <item>Onions</item></ing></ingredients>
+    <directions>
+      <step>  Grind tomatoes and onions together.  Add salt and cover with water, let
+  stand 10 minutes.  Drain well. Add:
+  
+  1 dozen peppers (green and red) 2 hot peppers 1 dozen pickles (canned ones
+  can be used) 1 tbsp. celery seed 3 1/2 lb. sugar 1 qt. vinegar Cook 15
+  minutes.  Seal while hot.
+  
+  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

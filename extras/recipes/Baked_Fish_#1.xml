@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fish #1</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box cherry tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pitted black olives; to taste (maybe a cup?)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; chopped (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Feta cheese (again; to taste)</item></ing></ingredients>
+    <directions>
+      <step>  From: shavelson@binah.cc.brandeis.edu
+  
+  Date: Wed, 10 Aug 1994 01:43:55 GMT
+  Here's a recipe we came up with that's great for red snapper or any other
+  firm white fish.
+  
+  Coat fish lightly with mayo or olive oil and lay in a shallow baking dish.
+  Put in a 350F oven to bake. While fish is cooking, saute onion until
+  translucent, add garlic, tomatoes, and olives and cook just until tomatoes
+  collapse. Just before fish is done, top with crumbled feta and cook just
+  until cheese softens/melts. Top with veggies and serve.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /FISH
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

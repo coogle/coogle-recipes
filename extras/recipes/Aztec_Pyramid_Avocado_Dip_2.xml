@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aztec Pyramid Avocado Dip</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Cheese</cat>
+        <cat>Syd's book</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Avocado *</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cream Cheese, Softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>ounces</unit></amt>
+        <item>Taco Seasoning Mix, 1 Pkg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar, Sharp, Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh Tomatoes, Fine Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Green Onions, Sliced,Use All</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Black Olives, Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon Juice</item></ing></ingredients>
+    <directions>
+      <step>  * Use 3 California Avocados (dark skinned type) that have been peeled and
+  pitted.
+  
+  LAYER 1: (Bottom)  Mash the avocados and blend in the lemon juice, mixing
+  well, and spread evenly in a bowl or on a serving plate to the edges of the
+  dish. LAYER 2: Beat the cream cheese until smooth and creamy. Blend in the
+  sour cream, mixing well, and blend in the taco seasoning, blending well.
+  Spread over the avocado layer. LAYER 3: Sprinkle the cheddar cheese over
+  the cream cheese mixture. LAYER 4: Distribute the tomatoes over the cheddar
+  cheese layer. LAYER 5: Spread the green onions over the tomato layer. LAYER
+  6:  Top with the black olives. Serve at room temperature. Makes about 10
+  1/2 cups of dip. SUGGESTED DIPPERS: Tortilla Chips, Bell peppers, Lobster,
+  Jicama.  From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas Flambe</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Bananas; peeled &amp; sliced lengthwise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Banana liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>White rum</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vanilla ice cream</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in chafing dish. Add brown sugar &amp; blend well. Add bananas &amp;
+  saute lightly. Sprinkle w/ cinnamon &amp; lower flame. Pour rum &amp; banana
+  liqueur over bananas. Ignite carefully, basting bananas w/ flaming liquid.
+  Serve over ice cream when flame dies out. **Caution is the rule whenever
+  liquors are ignited. Flames beneath pan must be low-or the pan removed from
+  flame entirely-to protect against accidents.** Tip: Bananas must be ripe
+  for this recipe.
+  
+  CHINA ROW
+  
+  CANNERY ROW; MONTEREY
+  
+  BEVERAGE: CHINESE TEA
+  
+  From the &lt;Micro Cookbook Collection of Chinese Recipes&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

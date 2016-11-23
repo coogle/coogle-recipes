@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cream Pie with Chocolate</title>
+      <categories>
+        <cat>Bananas</cat>
+        <cat>Pies</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>9-inch pie shell; unbaked</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>ounces</unit></amt>
+          <item>Bittersweet chocolate; finely grated</item></ing></ing-div>
+      <ing-div>
+        <title>FOR THE CUSTARD</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs; lightly beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Light cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing></ing-div>
+      <ing-div>
+        <title>FOR THE TOPPING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Bananas; ripe</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Coffee-flavored liqueur; optional</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Heavy cream</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Confectioner's sugar; or to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh nutmeg; grated</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat the oven to 350 degrees. Put the pie shell on a cookie sheet and
+  scatter the chocolate in the shell. To make the custard, mix together the
+  eggs, sugar, cream, and vanilla. Pour into the pastry shell and carefully
+  put it in the oven. Bake until the custard is nearly set in the middle,
+  about 40 minutes. Let the custard cool, then cover and chill.
+  
+  Right before serving, peel and slice the bananas, and toss them with the
+  orange juice and coffee liqueur. Spread the slices on the custard. Whip the
+  heavy cream, sweeten it with confectioner's sugar, and flavor with vanilla.
+  Spread the cream over the bananas, dust with nutmeg, and chill until
+  serving time. Don't let the completed pie wait long.
+  
+  Recipe by: A Feast Of Fruits
+  
+  Posted to MC-Recipe Digest V1 #1047 by "Marie Smith" &lt;craftee@sprynet.com&gt;
+  on Jan 27, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>#1 Lemon Bars</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>Sticks butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; lightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Additional powdered sugar</item></ing></ingredients>
+    <directions>
+      <step>  In bowl combine flour, sugar and butter.  Pat into 9X13 pan.  Bake for 20
+  minutes in a 350F oven.  While it is baking, whisk together eggs, 3 TB
+  flour, sugar and lemon juice.  Pour over crust while crust is still hot.
+  Bake for an additional 20-25 minutes, or until top is golden brown. Cool on
+  a wire rack and dust with additional powdered sugar.
+  
+  Posted to Bakery-Shoppe Digest V1 #206 by novmom@juno.com (Angela
+  Gilliland) on Aug 29, 1997
+ 
+</step></directions></recipe></recipeml>

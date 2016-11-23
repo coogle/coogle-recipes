@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Rice Pudding</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Rice</cat>
+        <cat>Mcdougall</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown rice; cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Soy milk; "rice dream"</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Raisins; or currants</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Preparation Time: 0:55 Combine all ingredients. Pour into a casserole,
+  cover and bake at 325 degrees for 45 minutes. May be served hot or cold.
+  From the Mcdougall Health Supporting CookBook volume one. By Mary
+  Mcdougall. ISBN 0-8329-0393-0
+  From the collection of Sue Smith, S.Smith34, Uploaded June 16, 1994
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mcdougal.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Fruit Sherbet</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pureed fruit (try cherries; raspberries; canned pineapple; honeydew or cantaloupe melon; or citrus fruit)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cold water</item></ing></ingredients>
+    <directions>
+      <step>  Date: Thu, 23 May 1996 23:21:04 -0400
+  
+  From: KimAllen@aol.com
+  From the booklet that accompanied my Supremer Ice Creamer from NordicWare.
+  
+  Mix egg whites and sugar with wire whist.  Blend in fruit and water.  Mix
+  well.  Chill.  Pour into ice cream maker and follow directions for ice
+  cream.
+  
+  FATFREE DIGEST V96 #143
+  
+  From the Fatfree Vegetarian recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

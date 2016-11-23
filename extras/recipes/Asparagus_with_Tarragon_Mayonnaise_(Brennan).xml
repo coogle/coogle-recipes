@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Tarragon Mayonnaise (Brennan)</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>*california</cat>
+        <cat>Mc-recipe</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Steamed asparagus spears; chilled</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Minced tarragon leaves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly gorund pepper</item></ing></ingredients>
+    <directions>
+      <step>  Steam asparagus spears until tender, then run them under cold water and set
+  aside. Stir together minced tarragon leaves, mayonnaise, a little lemon
+  juice and freshly ground pepper. Serve the asparagus with a spoonful or two
+  of the tarragon mayonnaise alongside.
+  
+  Excerpt from SF Chronicle 05/06/98 Food Section see www.sfgate.com and
+  Busted by Hanneman
+  
+  Recipe by: Georgeanne Brennan
+  
+  Posted to MC-Recipe Digest by Kitpath &lt;phannema@wizard.ucr.edu&gt; on May 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

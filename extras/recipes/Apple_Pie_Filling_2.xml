@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie Filling</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>quarts</unit></amt>
+          <item>Jars packed tightly with apple slices</item></ing></ing-div>
+      <ing-div>
+        <title>BLEND</title>
+        <ing>
+          <amt>
+            <qty>4 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt.</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Yield: 6qts, or 12 pts
+  
+  Stir into 10 cups water, and cook over med heat till thick and bubbly. Add
+  3 tsp lemon juice, and pour over apples. Leave 1 inch head space. Water
+  bath 20 min for qts, and 15 min for pints.
+  
+  Posted to MM-Recipes Digest V4 #250 by Curlans@aol.com on Sep 19, 1997
+ 
+</step></directions></recipe></recipeml>

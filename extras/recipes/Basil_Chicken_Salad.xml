@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Chicken Salad</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked; cubed skinless chicken breast</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped scallion or chives</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh basil; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  This is one of my favourite luncheon meals. I serve it on a bed of fresh
+  spinach leaves, garnished with orange slices. The recipe originally called
+  for low/non fat sour cream, but I found that the sour cream tends to go
+  runny if it's left for several hours so I tried a combination of half
+  nonfat/half fullfat. That seems to work well. Of course, for those of you
+  not calorie concious, you could use all full fat sour cream! :) This does
+  taste better if it's refrigerated at least 3-4 hours before serving but
+  overnight is even better.
+  
+  In a large bowl combine the chicken, celery, chives, sour cream and basil;
+  mix lightly with a fork.
+  
+  Just before serving, add pepper and salt to taste. Posted to EAT-L Digest
+  by Enza Wall &lt;walldv@INTERLOG.COM&gt; on Aug 2, 1997
+ 
+</step></directions></recipe></recipeml>

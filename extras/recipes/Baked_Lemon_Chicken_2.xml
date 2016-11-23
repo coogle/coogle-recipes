@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lemon Chicken</title>
+      <categories>
+        <cat>Crockpot</cat>
+        <cat>Poultry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole (3 lb. or larger) broiler-fryer or chicken breasts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Crumbled dry oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sherry or water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Wash chicken and giblets; pat dry. Season chicken with salt and pepper.
+  Sprinkle half of garlic and oregano inside cavity of chicken. Melt butter
+  in frying pan and brown chicken. Transfer to crock pot. Sprinkle with
+  remaining oregano and garlic. Add sherry to frying pan, stir to loosen
+  brown bits. Pour into crock pot. Cover, cook over low (200 degrees) for 8
+  hours. Add lemon juice last hour. Transfer chicken to cutting board. Skim
+  fat from juices and pour to a serving bowl. Carve chicken. Serve with
+  juices over chicken.
+  Posted to recipelu-digest Volume 01 Number 293 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Nov 23, 1997
+ 
+</step></directions></recipe></recipeml>

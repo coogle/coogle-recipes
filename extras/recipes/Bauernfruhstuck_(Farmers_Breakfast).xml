@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bauernfruhstuck (Farmers Breakfast)</title>
+      <categories>
+        <cat>German</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Potatoes; Medium</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bacon; Strips, Cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; Large</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ham; Cooked, Small Cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tomatoes; Medium, Peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chives; Chopped</item></ing></ingredients>
+    <directions>
+      <step>  Boil unpeeled potatoes 30 minutes.  Rinse under cold water, peel and set
+  aside to cool.  Slice potatoes. In a large frypan cook bacon until
+  transperent.  Add the potato slices; cook until lightly borwned. Meanwhile
+  blend eggs with milk and salt.  Stir in the cubed ham. Cut the tomatoes
+  into thin wedges; add to the egg mixture. Pour the egg mixture over the
+  potatoes in the frypan.  Cook until the eggs are set. Sprinkle with chopped
+  chives and serve at once.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

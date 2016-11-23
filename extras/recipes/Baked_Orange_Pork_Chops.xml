@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Orange Pork Chops</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean pork chops, thick</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Oranges, sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>  Arrange pork chops in a casserole.  Sprinkle with salt, pepper and flour
+  and top with orange slices. Pour juice over the top and cover with orange
+  slices. Cover. Bake in a preheated 350 degree oven for 1 1/2 hours or until
+  tender. Randy Rigg
+ 
+</step></directions></recipe></recipeml>

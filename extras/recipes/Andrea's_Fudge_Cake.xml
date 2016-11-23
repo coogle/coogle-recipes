@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andrea's Fudge Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Chocolate</cat>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Semi-sweet chocolate, coarse y chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Espresso or strong coffee</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar </item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs; large, separated, roo temperature</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour Confectioners sugar for garn sh, optional</item></ing></ingredients>
+    <directions>
+      <step>  Position rack in center of oven and preheat to 350
+  degrees. Lightly butter a 9" springform pan. Dust pan
+  with flour and tap out excess. In top of double boiler
+  over hot, not simmering water, melt together espresso
+  and chocolate, stirring occasionally. Remove pan from
+  heat and cool until tepid. In large bowl, using
+  hand-held electric mixer set at medium high speed,
+  cream sugar and butter together until light and
+  fluffy. One at a time, add egg yolks to mixture,
+  beating well after each addition. Beat in flour. In
+  large grease-free bowl, using hand-held mixer at
+  medium high speed, beat egg whites until they form
+  stiff, shiny peaks. Fold 1/4 of the whites into
+  chocolate mixture to lighten. Then fold in remaining
+  whites. Fold in butter and flour mixture. Scrape
+  batter into prepared pan and bake 60 to 70 minutes or
+  until top is crusty and cracked and the middle is
+  still slightly moist. Remove cake to wire rack to cool
+  completely. Remove sides of springform pan and
+  transfer cake to serving plate. If desired, place
+  doily on top of cake and sprinkle with confectioners
+  sugar. Remove doily to form pattern.
+  Converted by MMCONV vers. 1.40
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

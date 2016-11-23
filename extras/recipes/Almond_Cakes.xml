@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Cakes</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Cakes</cat>
+        <cat>Eat-lf mail</cat>
+        <cat>Low fat</cat>
+        <cat>Want to try</cat></categories>
+      <yield>28</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Blanched almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Rose water; (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable cooking spray</item></ing></ingredients>
+    <directions>
+      <step>  Place almonds in food processor, and process until finely ground. Add sugar
+  and flour; process until blended. Add rose water and egg whites; process
+  until well-blended (the mixture will be very thick). With floured hands,
+  shape the dough into 28 balls, and place 2 inches apart on baking sheets
+  coated with cooking spray.
+  
+  Bake at 325 degrees for 28 minutes or until crisp on the outside and soft
+  on the inside; cool on racks.
+  
+  Yield: 28 cookies (serving size: 1 cookie).
+  
+  The original version of these cookies called for 2 cups of almonds. We
+  replaced 1 cup with flour for a healthier, but still delicious,
+  alternative.
+  
+  NOTES : Cal  85.3, Fat 2.8g, Carb 13.9g, Fib 0.4g, Pro 1.9g, Sod 7mg, CFF
+  28.2%.
+  
+  Recipe by: Cooking Light, Nov/Dec 1994, page 105
+  
+  Posted to Digest eat-lf.v097.n235 by Reggie Dwork &lt;reggie@reggie.com&gt; on
+  Sep 17, 1997
+ 
+</step></directions></recipe></recipeml>

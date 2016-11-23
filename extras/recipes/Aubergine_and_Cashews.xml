@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aubergine and Cashews</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Main dish</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Aubergine (eggplant)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Penne or fusili</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cashews -- broken</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomatoes -- canned</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>small</unit></amt>
+        <item>Mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cream -- light</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garam masala</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne or to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Coriander -- ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Turmeric</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Chop aubergine into 1 and 1/2 cm rings then into 8 or 4 depending on size
+  of auburgine. Heat oil in a large frying pan. Chop mushrooms. Fry aubergine
+  until just soft. Add mushrooms and cashews, continue to fry until mushroms
+  just soften.
+  
+  Add spices, stir thoroughly. Chop tomatoes and add to mix. Add a bit of
+  tomato puree. Stir well. Drain cooked pasta. Add cream to mix until it's a
+  reasonable consistency. Stir well. Add pasta, mix together until thoroughly
+  coated. Serve with green salad.
+  
+  Recipe from Richard Alan Drew &lt;rid@aberystwyth.ac.uk&gt;  MM by DEEANNE
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

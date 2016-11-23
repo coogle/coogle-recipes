@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Butter</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>quarts</unit></amt>
+        <item>Sweet apple cider or juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>quarts</unit></amt>
+        <item>Pared and quartered cooking apples; (about 4 lb.)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cloves</item></ing></ingredients>
+    <directions>
+      <step>  "Betty Crocker's Cookbook"
+  
+  Heat cider to boiling in a 5-quart Dutch oven. Boil uncovered until cider
+  measures 2 quarts, about 1-1/4 hours.
+  
+  Add apples. Heat to boiling; reduce heat. Simmer uncovered, stirring
+  frequently, until apples are soft and can be broken apart with spoon, about
+  1 hour. If you want smooth apple butter, press through sieve or food mill
+  at this point.
+  
+  Stir in remaining ingredients. Heat to boiling; reduce heat. Simmer
+  uncovered, stirring frequently, until no liquid separates from pulp, about
+  2 hours. Heat to boiling. Immediately pour mixture into hot jars, leaving
+  1/4" headspace. Wipe rim of jars. Seal and process in boiling water bath 10
+  minutes. Makes about 3 half-pints butter.
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 974 by "Michael G. Sooter"
+  &lt;msooter@llion.org&gt; on Jan 30, 1998
+ 
+</step></directions></recipe></recipeml>

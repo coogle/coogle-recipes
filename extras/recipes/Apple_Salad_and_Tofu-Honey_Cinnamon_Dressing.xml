@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Salad and Tofu-Honey Cinnamon Dressing</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Granny Smith apples; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Gala apples; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Celery stalks sliced diagonally</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Pineapple tidbits; drained (8 ounce can)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Walnuts, coarsely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Mint sprigs</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Plain low-fat yogurt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Soft silken tofu</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cinnamon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place sliced apples in mixture of lemon juice and water. Add more water
+  if needed to cover apples. At serving time, drain liquid from apples.
+  Combine apples, celery, pineapple and nuts. For the dressing: Combine
+  yogurt, tofu, honey and cinnamon in a food processor and blend until
+  smooth. Chill. Combine apple mixture with dressing and toss gently.
+  Serve on a bed of fresh greens. Garnish with mint sprigs. Serves 8.
+  
+  (Per Serving): 114 calories/4 grams protein/14 grams carbohydrates/3
+  grams total fat/.6 grams saturated fat/2 mg cholesterol/44 mg sodium
+  
+  Created by Connie Cahill
+  Copyright 1996 Indiana Soybean Development Council
+  Meal-Master format by Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/soyfoods.zip
+ 
+</step></directions></recipe></recipeml>

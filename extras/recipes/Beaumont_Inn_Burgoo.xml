@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beaumont Inn Burgoo</title>
+      <categories>
+        <cat>Soups/stews</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Mixed cooked meats (beef; lamb, pork, chicken, game, etc</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>gallons</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>gallons</unit></amt>
+        <item>Beef stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tomatoes; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Celery; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Green bell pepper; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Potato; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Carrots; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Peas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Okra</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lima beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Yellow corn</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Beaumont Inn
+  
+  Combine all ingredients and bring to a boil. Reduce heat and simmer for 2
+  hours, skimming the top as needed.
+  
+  Note: Many regional versions of this soup are thick enough to stand your
+  spoon in. I developed this recipe to be a lighter first course soup. Its
+  history dates back to before the civil war and is a favorite at Kentucky
+  Derby time.
+  
+  Entered for you by: Bill Webster
+  Posted to MC-Recipe Digest V1 #835 by Bill Webster &lt;thelma@pipeline.com&gt; on
+  Oct 10, 1997
+ 
+</step></directions></recipe></recipeml>

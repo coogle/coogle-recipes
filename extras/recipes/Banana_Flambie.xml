@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Flambie</title>
+      <categories>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Medium sized Ripe Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Apricot Jam</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Orange Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White Rum or Heated Brandy</item></ing></ingredients>
+    <directions>
+      <step>  In a large frypan, melt butter over medium heat. Add bananas and cook for 3
+  ~ 4 minutes, then carefully turn bananas over and cook 1 - 2 minutes more
+  until just tender. Transfer bananas to a dish. Add apricot jam and orange
+  juice to frypan; bring to boil and cook about 2 minutes until sauce
+  thickens; return bananas to dish. Add rum or brandy; light with a match and
+  flame. Serve immediately, accompanied with ice cream or a dollop of whipped
+  cream. Serves 4. From The Gazette, 91/02/13.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

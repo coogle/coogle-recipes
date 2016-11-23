@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Porterhouse</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Marinades</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Porterhouse steaks about 1-to-1 1/4-lb each</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Freshly ground black pepper</item></ing></ing-div>
+      <ing-div>
+        <title>MARINADE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Dark soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Light soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oyster sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chili bean sauce or paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Fish sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Rice wine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sesame oil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Date: Wed, 22 May 1996 07:30:26 -0700
+  
+  From: cstarz@teleport.com (Carey Starzinger)
+  
+  BRING THE STEAKS to room temperature. Sprinkle with the freshly ground
+  black pepper. In a medium-sized bowl, mix all the marinade ingredients
+  together and spread this evenly over each side of the steaks. Allow to sit
+  and marinate at room temperature for at least 1 hour. Approximately 40
+  minutes before you are ready to cook, make a charcoal fire and, when the
+  coals are ash white, grill the steaks on each side for about 5-to-10
+  minutes, depending on their thickness and your taste.
+  
+  Posted to MealMaster Recipes List, Digest #143
+ 
+</step></directions></recipe></recipeml>

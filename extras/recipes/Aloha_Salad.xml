@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aloha Salad</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>California Dried Figs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fresh pineapple</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mandarin oranges</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Toasted flaked coconut</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh mint (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Slice dried figs. Slice pineapple into half; scoop out center; cut into
+  bite-size chunks. Drain oranges. Arrange figs, pineapple chunks and oranges
+  in pineapple shells. Whip cream; stir in sugar and coconut (reserve some
+  coconut for topping, if desired). Spoon over fruits. Garnish with fresh
+  mint, if desired.
+  
+  Source: 48 Family Favorites with California Figs Reprinted with the
+  permission of The California Fig Advisory Board Electronic format courtesy
+  of Karen Mintzias Posted to TNT - Prodigy's Recipe Exchange Newsletter by
+  Chad Alan Bumgarner &lt;chadalan@softcom.net&gt; on Jul 23, 1997
+ 
+</step></directions></recipe></recipeml>

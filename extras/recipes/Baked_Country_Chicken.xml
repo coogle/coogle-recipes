@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Country Chicken</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Poultry</cat>
+        <cat>Maine</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Chicken breast halves --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Boned</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Light cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper -- to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese -- freshly</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushrooms -- sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Toasted almonds -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Avocado</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350^.  In skillet, poach the chicken breasts until tender.
+  Set aside. Melt 4 tablespoons of butter in skillet. Stir in flour and cook
+  for 3 minutes. Slowly add cream and chicken stock, stirring until smooth
+  and thickened. Season with the salt, pepper, Parmesan cheese and herbs. Set
+  aside. Saute mushrooms in remaining 2 tablespoons butter. Place the chicken
+  in a 2 quart casserole and top with mushrooms. Sprinkle with salt and
+  pepper.  Pour sauce over and bake, uncovered, for 25 minutes. Remove from
+  oven. Sprinkle with almonds. Return to oven for 10 minutes. Peel and slice
+  1 or 2 avocados lengthwise.  Place over casserole before serving.
+  
+  Recipe By     : Maine Ingredients
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Cake #1</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cake flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cream of tartar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  From: jbalt@netaccess.on.ca (Jack Balt)
+  
+  Date: Wed, 24 May 1995 17:59:13 GMT
+  
+  Sift flour with 1 c sugar four times. Set aside. Beat whites with salt till
+  foamy, then add cream of tartar and beat till stiff. Add the 3/4 c sugar 1
+  T at a time, beating into egg whites. Add vanilla. Sift flour and sugar
+  mixture over top of whites a little at a time and fold in. Bake in an
+  ungreased 10" tube pan at 325 for 65-75 minutes. Invert pan to cool. Serves
+  12.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /CAKES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

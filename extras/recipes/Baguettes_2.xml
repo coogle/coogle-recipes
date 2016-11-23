@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baguettes</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>French</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>;Water, lukewarm</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Yeast, dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Combine in a small bowl the water, salt, yeast, and sugar. Add the
+  shortening and let proof.  Sift the flour into a large bowl. Make a well in
+  the center and gradually add liquid, stirring constantly. Stir with a
+  wooden spoon until the dough starts to leave the sides of the bowl. Turn
+  out and knead for 10 minutes. Place the dough in a lightly greased bowl and
+  cover with a clean tea towel and let rise about 1 1/2 hours. Punch dough
+  down and let rise again for 30 to 45 minutes. Punch down and let rest for
+  10 minutes. Turn the dough onto a floured board and roll into a 15" x 10"
+  oblong.  Roll up tightly toward you, beginning with the wide side. With a
+  hand on each end, roll the loaf back and forth to taper the ends and
+  lengthen the loaf. Place diagonally on a greased and cornmeal- sprinkled
+  cookie sheet. Slash at 2" intervals and let rise uncovered for about 1 1/2
+  hours. Place in a 425 F oven.  For the first 15 minutes, spray with a fine
+  mist of water every four minutes. Reduce heat to 350 F and bake 20 minutes
+  longer.  The loaf should be golden brown and slide off the sheet easily.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

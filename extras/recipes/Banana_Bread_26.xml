@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread</title>
+      <categories>
+        <cat>Master mix</cat>
+        <cat>Quick bread</cat>
+        <cat>Jewel</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bake it all mix*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bananas; mashed**</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing></ingredients>
+    <directions>
+      <step>  *Do not pack. **About 1 pound, or 4 small bananas
+       Combine bananas, nuts and egg.  Add Mix, sugar and soda. Beat to blend
+  thoroughly.  Turn into a 9 by 5 by 3-inch loaf pan, bottom rubbed with
+  shortening. Bake in a 350 F. oven 45 to 50 minutes. Let stand about 10
+  minutes, then turn out on rack to cool. Twelve hours' storage improves
+  flavor and texture.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

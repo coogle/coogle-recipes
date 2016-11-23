@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avgolemono (Greek Egg and Lemon Sauce)</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Fruits</cat>
+        <cat>Greek</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice Of 1 Lemon (About 1/4 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Well Seasoned Chicken Stock</item></ing></ingredients>
+    <directions>
+      <step>  Avgolemono is easy to make and creates quit a stir at a formal dinner
+  party.  It is an almost ethereal sauce, light, foamy, and a beautiful pale
+  yellow color. It is a great accompaniment to roasted meat or chicken, or
+  poached fish, and it is heartily recommended for boiled artichokes. Add
+  another cup of chicken stock and serve this as a perfect first course soup.
+  
+  In a large mixing bowl, beat the eggs with a whisk until lemon colored and
+  frothy, then beat in the lemon juice until the mixture is very foamy. Whisk
+  in the hot stock a little at a time until the sauce is light in color and
+  foamy.  Serve immediately.
+  
+  Yield: About 2 cups
+  
+  From The Complete Book Of Sauces by Sallie Y. Williams
+ 
+</step></directions></recipe></recipeml>

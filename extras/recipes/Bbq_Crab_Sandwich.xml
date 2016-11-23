@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Crab Sandwich</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Main dish</cat>
+        <cat>Sandwiches</cat>
+        <cat>Seafood</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Crab</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green Stuffed Olives; Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cheddar; Md, In Small Cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>English Muffins</item></ing></ingredients>
+    <directions>
+      <step>  Mix all the ingredients except the muffins together.  Refrigerate for at
+  least 1 hour to blend the flavors.  Spread on English Muffin halves and
+  broil until hot and cheese is melted.  Serve hot.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcheese.zip
+ 
+</step></directions></recipe></recipeml>

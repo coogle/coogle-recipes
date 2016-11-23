@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Sushi Rice</title>
+      <categories>
+        <cat>Rice</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Calrose rice (uncooked)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Japanese rice vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Date: Sat, 16 Mar 1996 02:31:07 GMT
+  
+  From: gemini@synapse.net (Georgette &amp; Dave Burnside)
+  
+  Wash rice and rinse well. Add 3 cups water and cook in rice cooker. To cook
+  on stove, bring rice to a boil in a covered saucepan. Simmer for 15
+  minutes. Remove pan from stove and let sit for another 10-15 minutes. Mix
+  together vinegar, sugar, and salt, and cook over medium heat until sugar
+  dissolves. Cool. Place cooked rice in a large mixing bowl. Sprinkle half of
+  vinegar sauce over the hot rice; mix gently. Taste. Add more vinegar sauce
+  if desired. Makes 9 cups. All types of sushi can be made from this rice.
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LIST SERVER
+  
+  MM-RECIPES DIGEST V3 #76
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

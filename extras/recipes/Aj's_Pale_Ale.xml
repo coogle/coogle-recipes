@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aj's Pale Ale</title>
+      <categories>
+        <cat>Beer</cat>
+        <cat>Brewing</cat></categories>
+      <yield>54</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Pale malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Crystal malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Gypsum</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Pale dry extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Light brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Willamette hops (boil)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Hallertauer hops</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Irish moss</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Clusters hops pellets</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Red Star ale yeast</item></ing></ingredients>
+    <directions>
+      <step>  Mash pale malt, crystal malt, and gypsum in 2-3/4 gallons of 170  degree
+  water;  this should give initial heat of 155 degrees (pH 5.0).  Maintain
+  temperature at 140-155 degrees for 2 hours. Sparge. To wort, add extract
+  and  brown  sugar.  Boil  with Willamette hops.  After  15  minutes  add
+  Hallertauer and Irish moss. Dry hop with clusters and steep. When  cool,
+  add wort to carboy and pitch yeast. The posted recipe called for 4 pounds
+  of dry extract with 2  cups  re- served for priming. This seemed excessive
+  and a good way to get  explod- ing bottles, so we reduced the amount of
+  extract to 3-1/2  pounds  and assumed that standard priming techniques
+  would be used, maybe  replacing corn sugar with 3/4 to 1 cup of malt
+  extract. --- Ed. Notice that I screwed up the hops: Clusters are for
+  bittering,  and Willamette (or Fuggles) for aromatic. Original Gravity:
+  1.048 Final Gravity: 1.011 Primary Ferment: 23 days
+  
+  Recipe By     : Alex Jenkins
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

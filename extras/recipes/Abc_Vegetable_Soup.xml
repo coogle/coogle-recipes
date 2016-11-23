@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abc Vegetable Soup</title>
+      <categories>
+        <cat>Soups &amp;</cat>
+        <cat>Stews</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic;, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Reduced salt chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(28-ounces) crushed tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Alphabet pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped broccoli</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sliced celery</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated Parmesan cheese;, optional</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil in a saucepan over medium heat. Add onion and garlic and cook
+  until the onion is soft,about 2 minutes. Stir occasionally.Add chicken
+  broth, tomatoes, pasta, and parsley to the saucepan. Bring the liquid to a
+  boil, reduce heat, and simmer for 10 minutes. Add broccoli, carrots, and
+  celery to soup; cook 10 minutes. Add salt and pepper to taste. With adult
+  help, ladle soup into serving bowl and sprinkle with Parmesan cheese before
+  serving, if desired.
+  
+  Recipe by: Makes 6 servings
+  
+  Posted to recipelu-digest Volume 01 Number 664 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Feb 01, 1998
+ 
+</step></directions></recipe></recipeml>

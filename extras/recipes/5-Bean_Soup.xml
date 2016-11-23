@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>5-Bean Soup</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>EDEN Extra Virgin Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Celery stalks; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Carrots; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Potato; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Barley</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Can EDEN Pinto Beans</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Can EDEN Black Beans</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Can EDEN Kidney Beans</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Can EDEN Navy Beans</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Can EDEN Aduki Beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Corn, fresh or frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>EDEN Spaghetti Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>EDEN Shoyu (or more, to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried basil</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil and saute garlic and onion until onion is translucent. Add
+  celery, carrots, potato, barley and water. Simmer 30 minutes. Add beans,
+  corn, spaghetti sauce, shoyu, and herbs. Simmer 5-10 minutes. Serve.
+  Great the next day!
+  
+  Per serving: 323 Calories;
+  2g Fat (60/0 calories from fat); 18g Protein;
+  59g Carbohydrate; 1mg Cholesterol; 651mg Sodium
+  
+  Copyright 1994 Eden Foods, Inc.
+  &lt;Electronic Format courtesy of Karen Mintzias&gt;
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/eden.zip
+ 
+</step></directions></recipe></recipeml>

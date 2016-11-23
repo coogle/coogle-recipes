@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinaigrette</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PHILLY.INQUIRER</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>DIJON MUSTARD</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>RED VINEGAR</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>LIVE OIL</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>DROP OR 2 WORCESTERSHIRE SA</item></ing></ing-div></ingredients>
+    <directions>
+      <step>     MAKE A SIMPLE VINAIGRETTE BY DISSOLVING 2 TABLESPOONS DIJON MUSTARD IN
+  1/4 CUP RED VINEGAR.BEAT IN A GOOD QUALITY OLIVE OIL UNTIL THE VINAIGRETTE
+  THICKENS.YOU CAN FLAVOR THIS BASE WITH GARLIC,GRATED CHEESE,SHALLOTS,EVEN
+  DROP OR TWO OF WORCESTERSHIRE SAUCE...............
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

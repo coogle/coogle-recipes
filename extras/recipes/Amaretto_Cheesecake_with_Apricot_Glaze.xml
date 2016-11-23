@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Cheesecake with Apricot Glaze</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Cheese</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Graham Wafer Crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Almonds, chopped toasted unblanched</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter, melted</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>packages</unit></amt>
+          <item>Cream Cheese(250g), softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour Cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>AMARETTO DI SARONNO liqueur</item></ing></ing-div>
+      <ing-div>
+        <title>GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Apricot Jam</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>AMARETTO DI SARONNO liqueur</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  CRUST: Combine ingredients; press onto bottom of a 9-inch springform pan.
+       Set aside. FILLING: Combine cream cheese, sugar, and flour, mixing
+  until well
+       blended. Add eggs, one at a time, mixing just until
+       combined.Blend in sour cream and liqueur; pour over crust. Bake
+       in 450F oven 10 minutes. Reduce oven temperature to 250F;
+       continue baking for 1 hour. Run knife around rim of pan ; cool on
+       wire rack. Chill.
+  
+  GLAZE: To glaze cake, combine jam and liqueur in a saucepan; heat until
+       warm and smooth. Strain mixture and pour over cheesecake before
+       removing sides of pan. Garnish if desired. Makes 10-12 servings.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Burritos</title>
+      <categories>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Drained, cooked beans pinto, pink or kidney</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped tomato (peeled)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Diced green chilies</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Garlic clove; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded Monterey Jack</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bottled hot pepper sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Flour tortillas (about 8")</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Taco sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dairy sour cream (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tomato wedges (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Mash drained beans. Saute chopped tomato, green pepper onion, chilies
+  and garlic in oil.  Add mashed beans, cheese, salt and hot pepper sauce
+  to taste, heat thoroughly.  Wrap tortillas in foil and heat at 350 F. 10
+  minutes.  (Or, loosely wrap in plastic wrap or waxed paper and microwave
+  at HIGH 30 to 40 seconds.)  Place about 1/4 cup bean mixture along
+  center of each tortilla and roll up.  Serve with taco sauce or top each
+  with sour cream and tomato wedge.  Serve warm.  Makes 6 servings.
+  
+  Copyright IDAHO BEAN COMMISSION  P.O.Box 9433...Boise, Idaho 83707
+  &lt;Electronic format by Karen Mintzias&gt;
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/id_beans.zip
+ 
+</step></directions></recipe></recipeml>

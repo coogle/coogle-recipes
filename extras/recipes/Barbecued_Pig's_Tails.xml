@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Pig's Tails</title>
+      <categories>
+        <cat>Mennonite</cat>
+        <cat>Pork</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Dozen pigs' tails</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar or syrup [Maple, perchance? S.C.]</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and freshly ground pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Rosemary (optional)</item></ing></ingredients>
+    <directions>
+      <step>  We attribute this recipe to the Mennonite colony of Ontario.  It's
+  often served at picnics and is known as one of the favorite foods at
+  stag parties.
+  
+  Prepare pigs' tails according to Step I in basic instructions; cut in
+  3-inch pieces.  Place pigs' tails on a rack and bake in a 300F oven
+  for 2 to 3 hours, until meat is tender and most of the fat has baked
+  off. An alternate method to this is to simmer the pigs' tails in
+  acidulated water for 1 1/2 hours.
+  
+  Combine all other ingredients for barbecue sauce, coating tails well.
+  Grill over hot charcoal, turning and basting, until crisp.  If fresh
+  rosemary is available, break off several branches, tie them together
+  and use as a basting brush.  For barbecuing, we prefer leaving the
+  tails uncut or halved so as to have fewer piece to constantly turn.
+  
+  Serve with traditional barbecue accompaniments such as corn-on-the-
+  cob, French bread and green salad.
+  
+  Serves 6 to 8.
+  
+  All these recipes are from "Innards and Other Variety Meats".  Jana
+  Allen and Margret Gin.  101 Productions.  San Francisco, 1974.
+  
+  Posted by Stephen Ceideberg; June 9 1992.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Pasta with Cilantro, Sun-Dried Tomatoes and Feta</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>"Bella" sun-dried tomatoes in oil; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil; from tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Feta cheese; crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Fresh cilantro; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Angel hair pasta; cooked</item></ing></ingredients>
+    <directions>
+      <step>  Combine first 3 ingredients and set aside. Cook pasta according to
+  directions and toss with the tomatoes, cilantro and feta cheese. Serve warm
+  or cold.
+  
+  NOTES : From a recipe leaflet that came with a jar of "Bella" brand
+  sun-dried tomatoes.
+  Recipe by: "Bella" Sun Dried Tomatoes Recipe Card
+  
+  Posted to recipelu-digest Volume 01 Number 413 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Dec 29, 1997
+ 
+</step></directions></recipe></recipeml>

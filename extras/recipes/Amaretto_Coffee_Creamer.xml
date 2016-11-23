@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Coffee Creamer</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Non-dairy coffee creamer</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Confectioners sugar</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in a container with a tight fitting lid. Shake well
+  to blend. Store in airtight container and give creamer with the recipe for
+  Amaretto Coffee. Yields 12 servings. To make Amaretto Coffee: In a mug,
+  combine 2 tablespoons of creamer with 6 ounces of coffee.
+  
+  Posted to recipelu-digest by Lynn Nelson &lt;lynnn@erols.com&gt; on Feb 08, 1998
+ 
+</step></directions></recipe></recipeml>

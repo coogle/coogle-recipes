@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Babe</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Bacardi rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Nassau Royale</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Pineapple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Grenadine</item></ing></ingredients>
+    <directions>
+      <step>  combine all ingredients with ice and shake. garnish with pineapple or
+  orange slice and serve. Typed by jazzbel@batelnet.bs.
+  
+  Recipe by: Goombay Madness
+  
+  Posted to Bakery-Shoppe Digest V1 #254 by "Jazzbel"
+  &lt;jazzbel@grouper.BatelNET.bs&gt; on Sep 20, 1997
+ 
+</step></directions></recipe></recipeml>

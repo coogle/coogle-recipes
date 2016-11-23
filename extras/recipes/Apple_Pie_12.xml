@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Apples; peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice; fresh squeezed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon rind</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Pour apples into "my favorite dessert pie crust". Squeeze juice of one
+  orange over apples (I know the recipe above says 1/8 cup, but that is just
+  a guesstimate to satsisfy the computer for nutritional info). Sprinkle
+  lemon peel over top. In a separate bowl, combine dry ingredients, and
+  sprinkle over top of apple mixture. Top with butter. Brush some sweetened
+  condensed milk on edges of bottom crust, top with top crust, pinch seems,
+  and then brush sweetened condensed milk over whole top crust (see "My
+  Favorite Pie Crust). Bake at 425 for 10 minutes, and then 350 for 35-45
+  minutes. Cool for at least
+       30    minutes.
+  
+  Recipe by: Karin Wilson
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 949 by Karin
+  &lt;iluv2cook@prodigy.net&gt; on Jan 18, 1998
+ 
+</step></directions></recipe></recipeml>

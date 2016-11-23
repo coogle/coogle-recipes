@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fudge Pudding</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cocoa</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Nuts; chopped (almonds or w</item></ing></ingredients>
+    <directions>
+      <step>  Fat grams    per serving:              Approx. Cook Time: 1:20
+    Preheat oven to 325F. Combine sugar, flour and cocoa in bowl. Stir in
+  eggs, melted butter, vanilla and nuts. Place large pan of hot water in
+  oven. Pour batter in buttered (" square cake pan. Place in larger pan,
+  water should come halfway up the side.   Bake 1 hour, 20 min. Pudding is
+  done when surface is lightly cracked and centre springs back when touched.
+  Remove dish from larger pan to cool. Pudding has custard like consistency
+  when it cools. Serve lukewarm or cut cold into squares. Good for chocolate
+  lovers, a cross between a pudding &amp; a brownie. Source: Lucy Waverman
+  CookingS CookBk
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

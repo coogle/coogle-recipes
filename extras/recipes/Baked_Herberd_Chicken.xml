@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Herberd Chicken</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Poultry</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Chicken breast; boneless &amp; skinned</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Virgin olive oil;</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dry white wine;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Leaf tarragon; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Leaf basil; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Hot red pepper flakes;</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 350 degrees. Trim any fat from chicken breast and
+  pound lightly between two sheets of waxed paper to flatten.  Coat
+  with olive oil and place in a baking dish.  Add wine, lemon juice,
+  herbs and and pepper flakes, turning chicken to coat both sides.
+  Cover dish with foil. Bake 25 to 30 munutes, until chicken cooked
+  through.
+  
+  Serve with Quinoa and Spaghetti Squash (Also in this file)
+  Food Exchange per serving: 4 LOW/FAT MEAT EXCHANGES  CAL: 177  CHO:
+  72mg; CAR: 1g; PRO: 27g; SODIUM: 68mg; FAT: 5g;
+  
+  Source: Light and Easy Diabetes Cuisine by Betty Marks
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

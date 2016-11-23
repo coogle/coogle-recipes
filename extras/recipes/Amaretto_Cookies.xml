@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Cookies</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Cookies</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Almonds, ground toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon rind; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Amaretto liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Pastry flour, whole wheat</item></ing></ingredients>
+    <directions>
+      <step>  Cream together butter and molasses.  Add eggs, ground almonds, lemon rind
+  and almond extract; mix well. Stir in Amaretto alternately with flour. Drop
+  by teaspoonsful onto unoiled cookie sheets. Bake at 350 degrees for 12-15
+  minutes.  Cookies will be golden brown when done.
+  Posted to MM-Recipes Digest V3 #281
+  
+  Date: Sun, 13 Oct 1996 23:28:22 -0400
+  
+  From: Walt Gray &lt;waltgray@mnsinc.com&gt;
+ 
+</step></directions></recipe></recipeml>

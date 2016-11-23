@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Short Ribs</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef short ribs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Aunt Jemima Syrup OR- Lite Syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Trim excess fat from ribs.  Place ribs and salt in 4-qt. saucepan or Dutch
+  oven.  Cover with water, bring to a boil.   Cover; simmer 1-1/2 to 2 hours
+  or until tender.  Meanwhile, saute onion in oil until tender.  Add
+  remaining ingredients; simmer 15 minutes.  Drain ribs.  Place on rack in
+  broiler pan or over ash-colored coals on outdoor grill so meat is 6 to 7
+  inches from heat.  Broil 10 minutes, turning occasionally.  Baste ribs
+  with sauce; continue broiling about 10 minutes, turning and basting
+  frequently with sauce.  Serve with remaining sauce, if desired.
+  
+  NUTRITIONAL ANALYSIS per serving:
+  * calories 355
+  * carbohydrates 30 g
+  * protein 34 g
+  * fat 11 g
+  * calcium 32 mg
+  * sodium 580 mg
+  * cholesterol 100 mg
+  * dietary fiber 0 g
+  
+  Source: "Hurry, Let's Eat!"
+  Reprinted with permission from The Quaker Oats Company
+  Electronic format courtesy of Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/quaker03.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Roux</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Essence</item></ing></ingredients>
+    <directions>
+      <step>  EMERIL LIVE SHOW #EMlA36
+  
+  In a large pot, heat the oil. When the oil is almost smoking, whisk in the
+  flour. Cook the roux for 12 to 15 minutes, stirring constantly for a dark
+  roux.
+  
+  Yield: 1 cup
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 19, 1998
+ 
+</step></directions></recipe></recipeml>

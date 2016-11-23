@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Sauce Noodle Dough</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg [a]</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato-based barbecue sauce [a]</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Water [a]</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Unbleached all purpose flour</item></ing></ingredients>
+    <directions>
+      <step>  Mix [a] lightly, then stir into the flour with a fork. When stiff enough to
+  handle, knead 10 minutes then let rest 30 minutes covered. Makes about 10
+  ounces
+  
+  &gt;From The Glorious Noodle. Posted to TNT - Prodigy's Recipe Exchange
+  Newsletter  by hvane@shrewsbury.org on Jul 3, 1997
+ 
+</step></directions></recipe></recipeml>

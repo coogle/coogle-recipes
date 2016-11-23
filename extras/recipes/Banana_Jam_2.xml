@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Jam</title>
+      <categories>
+        <cat>Condiment</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh lime juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh orange juice or water</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Vanilla bean split in half</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lengthwise and cut into 1/3s</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Banana liqueur (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Peel the bananas and thinly slice or mash with a fork. Place the bananas in
+  a heavy saucepan with the lime juice, orange juice, sugar, vanilla bean and
+  salt, and bring to a boil. Reduce the heat and gently simmer the banana jam
+  until htick, about 30 minutes, stirring often. Stir in the banana liqueur
+  and remove the pan from the heat. Leave the vanilla bean in the jam - it's
+  pretty.
+  
+  Spoon the jam into three 6-ounce canning jars that have been sterilized.
+  Fill the jars to with-in one-eighth inch of the top. Screw on the lids.
+  Invert the jars for 5 minutes, then reinvert. Let the jam cool to room
+  temperature.
+  
+  Store the jam in a cool, dark place.  Refrigerate the jam once opened; it
+  will keep for several weeks.
+  
+  From Steven Raichlen's "The Caribbean Pantry Cookbook"
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

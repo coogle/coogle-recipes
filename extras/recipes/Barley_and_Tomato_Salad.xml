@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley and Tomato Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Barley; uncooked</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green onions; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Canola oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tomatoes; diced</item></ing></ingredients>
+    <directions>
+      <step>  1. In a sauce pan, boil barley in water for 15 minutes; drain. Return to
+  pot, replace lid and steam barley for 10 minutes more; cool.
+  
+  2. Add parsley, basil, and green onions; let sit to blend flavours.
+  
+  3. In a small bowl beat together, lemon juice, oil and soy sauce; add
+  tomatoes; toss with barley mixture.
+  
+  4. Chill and serve.
+  
+  &gt;From the Recipe Files of RecipeLu &lt;recipelu@recipelu.com&gt;
+  Posted to MC-Recipe Digest by RecipeLu &lt;recipelu@geocities.com&gt; on Mar 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

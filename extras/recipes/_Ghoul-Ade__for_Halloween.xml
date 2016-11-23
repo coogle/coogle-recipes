@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Ghoul-Ade" for Halloween</title>
+      <categories>
+        <cat>Beverage</cat>
+        <cat>Halloween</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Envelope Kool-Aid grape flavor unsweetened mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Envelope Kool-Aid orange flavor unsweetened mix</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>quarts</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bottle (qt.) ginger ale; chilled</item></ing></ingredients>
+    <directions>
+      <step>  Preparation : Mix Kool Aid's together with sugar, in large pitcher. Add
+  water and mix. Just before serving, add ginger ale.
+  Posted to MC-Recipe Digest V1 #252
+  
+  Date: Sun, 20 Oct 1996 07:13:09 -0700
+  
+  From: Greg Leonhardt &lt;gregl@ix.netcom.com&gt;
+ 
+</step></directions></recipe></recipeml>

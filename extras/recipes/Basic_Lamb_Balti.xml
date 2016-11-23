@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Lamb Balti</title>
+      <categories>
+        <cat>Balti</cat>
+        <cat>Indian</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Portions pre-cooked lamb</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ghee</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Balti masala paste</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Garam masala</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped fresh coriander leaf</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing></ingredients>
+    <directions>
+      <step>  Heat the ghee in the karahi:  stir-fry the garlic very quickly. Add the
+  onion, reduce the heat, and fry until translucent and starting to brown.
+  Add the meat and the Balti masala paste. Turn the heat up and stir-fry for
+  about 5 minutes.  Slowly add the stock, and simmer on low heat for about 10
+  minutes.  Then check the meat for tenderness: add stock or water if
+  required.  When almost tender enough, add the garam masala and coriander
+  leaves.  Salt to taste:  simmer for another 15 minutes. Serve with naan
+  bread.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

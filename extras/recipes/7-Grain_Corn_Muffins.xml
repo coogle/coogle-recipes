@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Grain Corn Muffins</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Quick</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked AM 7 Grain Cereal</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Maple syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>AM Unrefined Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sea salt (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>AM Instant Oatmeal (original)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>AM Yellow Cornmeal</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients (except for cornmeal) in blender until very smooth.
+  Mix in cornmeal with a spoon.  Fill oiled muffin cups 1/2 full.  Bake at
+  375 F. for 35-45 minutes.
+  
+  Source: Arrowhead Mills "7 Grain Cereal Recipes" tri-fold
+  Reprinted by permission of Arrowhead Mills, Inc.
+  Electronic format courtesy of: Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/am.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ashkenazic Chicken Soup and Matzo Balls with Fresh Dill</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Jewish</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pounds</unit></amt>
+          <item>Chicken wings or drumsticks</item></ing>
+        <ing>
+          <amt>
+            <qty>9</qty>
+            <unit>cups</unit></amt>
+          <item>Cold water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Onion, peeled</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Carrot, peeled</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Parsnip, peeled (opt)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Celery stalks, including leafy tops</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit/></amt>
+          <item>Parsley sprigs</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Dill sprigs</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Snipped fresh dill</item></ing></ing-div>
+      <ing-div>
+        <title>MATZO BALLS</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Matzo meal</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Water or chicken soup</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>quarts</unit></amt>
+          <item>Salted water for simmering</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine chicken wings, water, onion, carrot, parsnip, celery, parsley
+  and dill sprigs, and pinch of salt to a large saucepan and bring to a
+  boil. Partly cover and simmer 2 hours, skimming occasionally. Skim
+  off excess fat. (Chicken soup can be kept 3 days in refrigerator or
+  can be frozen; reheat before serving.)
+  
+  Make matzo balls: In a medium bowl, lightly beat eggs with oil. Add
+  matzo meal, salt and stir until smooth. Stir in water, then let
+  mixture stand for 20 minutes so matzo meal absorbs liquid.
+  
+  Bring salted water to a boil. With wet hands, roll about 1 teaspoon of
+  matzo ball mixture between your palms into a ball; mixture will be
+  very soft. Set balls on a plate. With a rubber spatula, carefully
+  slide balls into boiling water. Cover and simmer over low heat for
+  about 30 minutes or until firm. Cover and keep warm until ready to
+  serve. (Matzo balls can be kept 2 days in their cooking liquid in a
+  covered container in refrigerator; reheat gently in cooking liquid or
+  in soup.)
+  
+  To serve soup, remove chicken wings, onion, celery, parsnip, parsley
+  and dill sprigs. Take meat off bones and add to soup; or reserve for
+  other uses. Add pepper to soup, stir in snipped dill and taste soup
+  for seasoning. Slice carrot and add a few slices to each bowl. With a
+  slotted spoon, add a few matzo balls. Serve hot.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

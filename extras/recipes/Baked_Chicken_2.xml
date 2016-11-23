@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Casseroles</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Chicken thighs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of mushroom soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Envelope onion soup mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Long-grain rice</item></ing></ingredients>
+    <directions>
+      <step>  Lightly butter bottom of casserole dish and distribute rice evenly. Dilute
+  soup with one can of water and half of onion soup mix. Pour half of this
+  mixture over rice. Place chicken pieces on top. Pour rest of soup mixture
+  over chicken and sprinkle with rest of onion soup mix. Cover. Bake at 350¡
+  for 1 1/2 to 2 hours.
+  
+  Per serving: 2894 Calories; 157g Fat (49% calories from fat); 183g Protein;
+  178g Carbohydrate; 801mg Cholesterol; 5264mg Sodium
+  
+  Recipe by: Heather Cunningham
+  
+  Posted to Bakery-Shoppe Digest V1 #188 by Kim  &lt;krobb@summer.com&gt; on Aug
+  14, 1997
+ 
+</step></directions></recipe></recipeml>

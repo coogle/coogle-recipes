@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cereal</title>
+      <categories>
+        <cat>Breakfast:</cat>
+        <cat>Method: noc</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Breakfast cereal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Pour cereal into bowl. Add milk.
+  Posted to recipelu-digest by "Valerie Whittle" &lt;catspaw@inetnow.net&gt; on Feb
+  7, 1998
+ 
+</step></directions></recipe></recipeml>

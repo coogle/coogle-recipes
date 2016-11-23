@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas Foster</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ripe banana; peeled and sliced lengthwise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Banana liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>White rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Scoop vanilla cream</item></ing></ingredients>
+    <directions>
+      <step>  This is from: BRENNAN'S New Orleans cookbook
+  
+  Melt brown sugar and butter in flat chafing dish. Add bananas and saute
+  until tender Sprinkle with cinnamon Pour in banana liqueur and rum over all
+  and flame Baste with warm liquid until flame burns out Serve immediately
+  over ice cream 1 serving
+  
+  My son went to Brennan's in New Orleans a few years ago and had this and he
+  loved it. He brought me back the cookbook.
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 959 by vaughndell@juno.com on Jan
+  23, 1998
+ 
+</step></directions></recipe></recipeml>

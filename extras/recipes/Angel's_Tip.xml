@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel's Tip</title>
+      <categories>
+        <cat>Mixed</cat>
+        <cat>Drinks</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>ounces</unit></amt>
+        <item>White creme de cacao</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Sweet cream</item></ing></ingredients>
+    <directions>
+      <step>  Pour creme de cacao in a pousse-cafe glass. Carefully float cream on top,
+  being careful not to let ingredients mix. (You can float the cream by
+  holding a teaspoon bottom-side up over the glass and pouring the cream
+  slowly over it.)
+  
+  Float cherry on top of cream (also known as a King Alphonse when you add
+  the cherry).
+  
+  Recipe By     : Joe Robertson
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

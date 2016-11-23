@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Chicken and Andouille Pasta</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Cajun</cat>
+        <cat>Sausage</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Corn oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Chicken breast; cut into 3/4" cubes</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cayenne pepper</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Andouille sausage</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>Bell pepper; cut in strips</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>Red onions; cut in strips</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Marinara sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Hickory smoked barbecue sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Provolone cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Smoked gouda cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>ounces</unit></amt>
+          <item>Rigatoni pasta</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Green onions; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cilantro leaves</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Season chicken with salt, black pepper, cayenne and cumin.
+  
+  2. Satué chicken and andouille in corn oil until chicken loses raw color.
+  
+  3. Add bell pepper, onion and garlic. Cook until vegetables are limp.
+  
+  4. Add marinara and barbecue sauce. Bring to a boil.
+  
+  5. Place cooked rigatoni pasta in a bowl. Pour Satuéed mixture on top of
+  pasta.
+  
+  6. Top with Provolone and Gouda cheeses. Garnish with green onions and
+  cilantro leaves.
+  
+  Recipe by: Semolina's Restaurant
+  
+  Posted to recipelu-digest Volume 01 Number 415 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Dec 29, 1997
+ 
+</step></directions></recipe></recipeml>

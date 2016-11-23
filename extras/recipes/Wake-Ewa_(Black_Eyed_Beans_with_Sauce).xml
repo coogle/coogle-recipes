@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wake-Ewa (Black Eyed Beans with Sauce)</title>
+      <categories>
+        <cat>Side dish</cat>
+        <cat>Main dish</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Black eyed peas; soaked &amp; cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Coriander; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Thyme; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Tomatoes; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar Salt</item></ing></ingredients>
+    <directions>
+      <step>  1. First cut the onion in half. Grate 1 half then slice the rest finely. 2.
+  Warm the oil in a pan and soften the onion slcies in it. 3. Meanwhile,
+  combine the grated onion, chili, coriander and thyme in a bowl with the
+  tomatoes and add this to the cooked onion slices. Contniue to cook the
+  mixture gently for 10-15 minutes, stirring constantly. 4. After this put in
+  the cooked black eyed peas, mash them a little and then add sugar and salt.
+  Mix everything well and cook for 5-10 minutes to heat all the ingredients
+  before serving with salad and rice or fufu (cassava mash).
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

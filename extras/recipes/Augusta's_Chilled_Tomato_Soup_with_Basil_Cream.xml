@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Augusta's Chilled Tomato Soup with Basil Cream</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Vegetables</cat>
+        <cat>Appetizers</cat>
+        <cat>Kooknet</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Lightly Packed Fresh Basil Leaves; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Ripe Tomatoes; seeded, peeled, and coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken Stock</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground Black Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whole Basil Leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>Early</qty>
+          <unit>in</unit></amt>
+        <item>the day, put the chopped basil leaves in a small bowl. Scald the</item></ing>
+      <ing>
+        <amt>
+          <qty>cream</qty>
+          <unit>in</unit></amt>
+        <item>a small saucepan and pour it over the basil. Let steep 1 hour,</item></ing></ingredients>
+    <directions>
+      <step>  then strain the cream and chill deeply. In a food processor, puree the
+  chopped tomato, stock, milk and honey until very smooth. Transfer the puree
+  to a bowl, and season with salt and pepper. Chill deeply. When ready to
+  serve, whip the basil cream. Ladle the chilled soup into chilled glass cups
+  or stemmed glasses. Dollop each serving with the whipped cream and top with
+  a fresh basil leaf.
+  
+  Source: "Dairy Hollow House: Soup &amp; Bread," by Crescent Dragonwagon Typed
+  by Katherine Smith Kook-Net: The Shadow Zone IV - Stinson Beach, CA
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abalone Saute</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Abalone Slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fine cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  1 pound Abalone serves 2-3. Pound slices of Abalone very, very thin. Mix
+  egg and cream. Dip slices of Abalone in egg mixture, dredge in crumbs.
+  Saute in bubbling hot butter about 1 minute per side. Longer cooking
+  toughens Abalone. Serve with cottage fired potatoes.
+  
+  Posted to KitMailbox Digest  by ehgf@primenet.com (Ellen) on Jan 4, 1998
+ 
+</step></directions></recipe></recipeml>

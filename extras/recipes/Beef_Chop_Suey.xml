@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Chop Suey</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef round steak;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sesame oil;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Low-sodium soy sauce;</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Celery stalk; thinly sliced diagonally</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Size onions; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken broth;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bean sprouts; rinsed</item></ing></ingredients>
+    <directions>
+      <step>  Trim any fat from steak and dice.  In a large non-stick skillet or
+  wok, heat oils and stir-fry meat over high heat 1 minute.  Stir in
+  soy sauce. Remove meat with a slotted spoon and keep warm.  Add
+  celery, onions and broth to the skillet. Bring to a boil, reduce heat
+  and cook 5 minutes. Add bean sprouts.  Cook 3 minutes more, then
+  return meat and stir to heat. Serve with Confitti Rice and Sesame
+  Spinach Salad. Food Exchange per serving: 3 MEAT EXCHANGE + 2
+  VEGETABLES EXCHANGE CAL: 243; CHO: 64mg; CAR: 9g;  PRO: 28g; SOD:
+  200mg; FAT: 11g
+  
+  Souce: Light &amp; Easy Diabetes Cuisine by Betty Marks
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

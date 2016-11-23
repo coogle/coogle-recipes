@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bechamel Sauce #1</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White pepper</item></ing></ingredients>
+    <directions>
+      <step>  In a heavy saucepan, melt the butter over moderate heat.  Remove pan from
+  heat; stir in the flour.  Add the milk and cream all at once, whisking
+  constantly until the flour partially dissolves.  Return pan to high heat;
+  cook, stirring constantly, until the sauce boils and is smooth.  Reduce
+  heat and simmer 2 to 3 mins. or until sauce is thick enough to heavily coat
+  the wires of a whisk. Remove pan from heat; add the salt and white pepper.
+  
+  MARIO'S
+  
+  TURTLE VILLAGE, DALLAS
+  
+  From the &lt;Micro Cookbook Collection of Italian Recipes&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

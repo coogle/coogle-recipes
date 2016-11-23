@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Honey Tomatoes</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Southern</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Tomatoes; medium</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread crumbs; fresh, coarse Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tarragon; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Fat grams    per serving:              Approx. Cook Time: :35
+     Preheat oven to 350F. Slice off stem ends of tomatoes  and carefully
+  scrape out seeds. Place open side up in buttered baking dish. Mix bread
+  crumbs, salt, pepper and tarragon. Drizzle honey over tomatoes, rubbing it
+  down into cavities.  Sprinkle tomatoes with crumb mixture and dot with
+  butter. Bake uncovered for 30 minutes, till tomato skins begin to wrinkle.
+  Place under broiler for another 5 minutes or till crumbs begin to brown.
+  Serve hot or at room temperature.
+  Source: _Southern Cooking_ by-Lee Bailey
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcorr.zip
+ 
+</step></directions></recipe></recipeml>

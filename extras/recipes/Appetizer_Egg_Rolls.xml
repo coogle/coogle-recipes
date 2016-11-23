@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Appetizer Egg Rolls</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Eggs</cat>
+        <cat>Meats</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Pork; Boneless, Cut Julienne</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Onion; Small, Sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cabbage; Green Or Chinese *</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Vegetable Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mushrooms; Sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sprouts; Bean Or Alfalfa</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Currants</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Almonds; Slivered</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sherry; Dry</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Soy Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Egg Roll Wrappers; Abt 6" Sq</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>;Oil For Deep Fat Frying</item></ing></ing-div>
+      <ing-div>
+        <title>GINGER APRICOT SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Apricots; Dried (Abt. 10)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon Juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  * Cabbage should be shredded.
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++++++
+  Saute the pork, onion, and cabbage in hot oil until lightly browned. Stir
+  in the mushrooms, bean sprouts, currants, and almonds and saute, stirring
+  for 1 minute.  Dissolve the cornstarch in 2 T water, and combine with
+  sherry, soy sauce, and ginger; add to the pork mixture and bring to a boil,
+  stirring.  Remove from heat and cool.  Stack the egg roll wrappers and cut
+  in half to form rectangles. Forming one roll at a time, place a heaping a
+  teaspoonful of pork mixture on one end of rectangle, moisten the long
+  edges, and roll up.  Press the edges together to seal. Egg roll may be
+  prepared to this point, then refrigerated for several hours or overnight or
+  frozen for several days before frying. Adjust time for browining. If rolls
+  are frozen, let them thaw before cooking. Heat the oil to 375 degrees F.
+  and fry the egg rolls, 4 or 5 at a time, until golden brown and crisp on
+  all sides.  Frying will take about 4 to 5 minutes; turn rolls once. Drain
+  on paper towels and keep warm while frying the remaining rolls. Serve with
+  warm Ginger Apricot Sauce. GINGER APRICOT SAUCE: Combine the apricots,
+  sugar, ginger, and salt with 3/4 cup water in a small saucepan and bring to
+  a boil. Reduce heat and simmer, uncoverd, for 5 minutes. Pour the mixture
+  into a blender container or food processor. Add lemon juice, cover and
+  process until smooth. Serve warm.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

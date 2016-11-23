@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beaver Tail Beans</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Misc</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Beaver tail</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pot of beans</item></ing></ingredients>
+    <directions>
+      <step>  Blister tail over fire until skin loosens (or dip into boiling water for a
+  couple minutes).  Pull of skin. Cut up meat and boil with a pot of beans.
+   Add salt and pepper to taste.  Add chopped onions to enhance flavor.
+  Beaver tail is also good roasted over a campfire or in the oven.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

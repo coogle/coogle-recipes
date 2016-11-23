@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bagel Spread</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Low-fat tofu (frozen then thawed; drained, and pressed to remove as much water as possible)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Maple syrup (or to taste) (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cardamom pods; crack open and use seeds only</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>cups</unit></amt>
+        <item>Currants</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water or low-fat soymilk for blending</item></ing></ingredients>
+    <directions>
+      <step>  Date: Fri, 7 Jun 1996 10:27:58 -0400 (EDT)
+  
+  From: "Judith E. Thomas" &lt;jethomas@mailbox.syr.edu&gt;
+  I came up with this because I don't eat dairy and wanted something to put
+  on my bagels
+  :-)
+  
+  Put all but the currants in a blender and blend until smooth.  If it is not
+  thick enough, you can add a mixture of cornstarch and water that have been
+  heated and thickened to the mixture.  Add soymilk if it's too thick.  I
+  always have the tofu in my freezer; it doesn't *have* to be frozen first,
+  but it should be well drained.
+  
+  FATFREE DIGEST V96 #158
+  
+  From the Fatfree Vegetarian recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

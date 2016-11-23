@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arizona Chicken</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Breasts</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Chicken breast halves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Salsa</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lime juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cilantro; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Pound each breast between breasts of plastic wrap to a uniform thickness of
+  1/2 inch. Spread both sides with mustard. In large skillet, melt butter
+  over medium heat. Add chicken and cook 3-4 minutes on each side. Stir salsa
+  and lime juice together and add to skillet. Simmer gently, uncovered, until
+  chicken is cooked through and sauce has thickened, about 6-8 minutes.
+  Sprinkle with chopped cilantro.
+  
+  Recipe by: Eatl-l
+  
+  Posted to MC-Recipe Digest by csdixon &lt;csdixon@javanet.com&gt; on Feb 28, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Little Italian</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dried basil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dried marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ground coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dried thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dried rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dried savory</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Hot red pepper flakes</item></ing></ingredients>
+    <directions>
+      <step>  from Dean Ornish's Eat More Weigh Less
+  
+  He says grind in food processor - I use my little coffee grinder. Store in
+  a tightly sealed container. He says keeps well up to 3 months. I make
+  bigger batches and it keeps well for up to 6 months. I give this as a
+  Christmas present to lots of folks every year - and get rave reviews.
+  
+  Posted to fatfree digest V97 #213 by mgbusb@med.unc.edu (Marjorie Busby) on
+  Sep 17, 1997
+ 
+</step></directions></recipe></recipeml>

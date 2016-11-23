@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Appetizer Bean Con Queso</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Carnation</cat></categories>
+      <yield>21</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>quarts</unit></amt>
+        <item>Que Bueno Precooked Refried Beans; prepared according to label; heated</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Green chiles; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cheese; cheddar, monterey jack or american; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Cheese; as above</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tortilla chips, crisp</item></ing></ingredients>
+    <directions>
+      <step>  1.  Combine refried beans and diced green chiles. Place 1 cup bean mixture
+  in oven-proof serving dish. Top with 1 ounce grated cheese. 2. Place under
+  broil or in microwave over until cheese is melted. Serve immediately with
+  crisp tortilla chips. May be gaarnished with sour cream, chopped green
+  onions or sliced ripe olives, if desired.
+  
+  Makes 21 appetizer servings. Each appetizer serves 2.
+  
+  Note: The above ingredients may also be used for burrito filling. To
+  prepare, place 1 cup heated bean mixture in large warm flour tortilla. Top
+  with 1 ounce grated cheese. roll and fold envelope style. Serve. Makes 21
+  burritos.
+  
+  Source: Carnation Company
+  
+   -- ---
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

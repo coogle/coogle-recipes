@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pasta Dough</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Semolina durum flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Combine the above ingredients to make a dough. wrap in a towel and let sit
+  for 30 minutes. [start the sauce heating...]
+  
+  After the 30 minutes, [start the water boiling] divide the dough in half
+  and roll out each half, allowing the first sheet of pasta to sit while
+  rolling out the second.
+  
+  When the sheets are dryish, cut according to how you like your pasta.
+  
+  The pasta maker recommends rolling, and folding in half before rerolling.
+  after rolling you are supposed to sprinkle some flour betwixt the two
+  halves. If you create a dry enough dough, then you do not need to do this.
+  in fact, the first time through the rollers, my dough is pretty crumbly at
+  the edges, but a few more passes makes the dough much more workable.
+  
+  Cook for about 2 minutes.
+  
+  Posted by "BrownleeS" &lt;BrownleeS@dsmo.com&gt;
+  
+  Posted to MM-Recipes Digest V4 #169 by Nancy Miller
+  &lt;millern@redwood.cc.andrews.edu&gt; on Jul 1, 1997
+ 
+</step></directions></recipe></recipeml>

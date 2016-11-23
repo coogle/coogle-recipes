@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Pale, Clear Sauce</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Stock</item></ing></ing-div>
+      <ing-div>
+        <title>OPTIONAL</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Whole peeled onion</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Some white leek or scallion</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Tough parts of mushrooms</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and fine white pepper as desired</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Not to start a sauce war, but this is just my take on the basic sauce scene
+  based on reading many cook books (written before and after Escoffier), and
+  just some rule of thumb ideas that seem to work for me.
+  
+  Melt butter and mix with flour with a fork.  Add warm stock (chicken, veal,
+  vegetable, whatever), and whisk smooth.  Add optionals if you wish. Simmer,
+  uncovered, skimming off scum as needed.  Cornstarch can be substituted for
+  flour by using 1.5 C stock and adding 0.5 C water mixed with cornstarch
+  after adding stock. Whisk well in either case. The solids can be added then
+  for the reduction. Strain the solids out before using. This sauce should be
+  pale and clear. White wine in a modest amount (substitued for stock) with
+  some tarragon leaves is nice with fowl. Some like a garlic clove.
+  Posted to JEWISH-FOOD digest V96 #54
+  
+  Date: Thu, 17 Oct 1996 18:03:41 -0600
+  
+  From: rbparker@henning.cfa.org (Ron Parker)
+ 
+</step></directions></recipe></recipeml>

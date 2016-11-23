@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cinnamon Pudding</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Vegan</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Sea salt (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>AM Rice and Shine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Roasted pecan or other nuts (chopped)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Bring juice, water and salt to a boil in a large saucepan.  Stir in Rice
+  and Shine and cinnamon.  Turn heat to low.  Simmer 5 minutes.  Remove from
+  heat.  Stir in nuts and vanilla.  Let set until slightly cool.  Pour into
+  a 9" square pan.  Refrigerate until set and cool.  Serve squares plain or
+  with a little fruit syrup.
+  
+  Source: Arrowhead Mills "Something Sweet" tri-fold
+  Reprinted by permission of Arrowhead Mills, Inc.
+  Electronic format courtesy of: Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/am.zip
+ 
+</step></directions></recipe></recipeml>

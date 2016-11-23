@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Corn</title>
+      <categories>
+        <cat>American in</cat>
+        <cat>Vegetable</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Ears corn</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Bacos®</item></ing></ingredients>
+    <directions>
+      <step>  Cut corn kernels off the cob and scrape cob with a spoon to collect the
+  remaining juices. Season with salt, pepper and bacon bits and spread in a
+  thin layer over a shallow pan that has been sprayed with cooking oil spray
+  (Pam.) Bake at 400 degrees until heated through.
+  
+  NOTES : In the original recipe, it calls for bacon drippings as a
+  seasoning, to taste, I substituted cooking spray and bacon bits.
+  Recipe by: Mr. Raymond Red Corn
+  
+  Posted to MC-Recipe Digest V1 #970 by lisacooks@juno.com (Lisa L Dixon) on
+  Dec 24, 1997
+ 
+</step></directions></recipe></recipeml>

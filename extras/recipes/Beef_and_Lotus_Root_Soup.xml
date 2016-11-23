@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Lotus Root Soup</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Short ribs of beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Fresh lotus root</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Chinese red dates</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>     1. Chop beef ribs in 11/2-inch sections. Peel lotus root; cut in
+  1/4-inch slices.
+  
+     2. Place beef and lotus root in a saucepan with red dates and cold
+  water. Bring to a boil. Reduce heat at once, skim surface to clear, then
+  simmer, covered, 45 minutes.
+  
+     3. Stir in soy sauce and salt. Simmer another minute.
+  
+     VARIATION: Add with beef, etc., any or all of the following: 1 leek
+  stalk, cut in sections; 2 slices fresh ginger root; 1 piece dried tangerine
+  peel (soaked).
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

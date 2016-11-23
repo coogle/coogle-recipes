@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>(Irish) Potato Casserole</title>
+      <categories>
+        <cat>Casseroles/</cat>
+        <cat>Potato</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Frozen hash brown potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onions; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of chicken soup</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Melted margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Grated sharp cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Thaw potatoes about 30 min., then mix all ingredients in a large bowl.
+  Place in a 9 X 13 baking dish. Bake at 350 for one hour. Serves 8
+  *MCformatted by Martha Hicks &amp; Buster*
+  
+  Recipe by: From recipe files of Martha Hicks
+  
+  Posted to MC-Recipe Digest V1 #880 by "Nitro_II "
+  &lt;Nitro_II@classic.msn.com&gt; on Nov 2, 97
+ 
+</step></directions></recipe></recipeml>

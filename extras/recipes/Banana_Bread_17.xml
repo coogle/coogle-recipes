@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Apr95</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>INTO A MIXING BOWL</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Whole wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Zest of one orange (orange</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Part of peel, finely</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Grated)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Dried currants OR 1/2_cup</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chopped dried Apricots</item></ing></ing-div>
+      <ing-div>
+        <title>INTO A BLENDER/FOOD PROCESSO</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>small</unit></amt>
+          <item>Overripe bananas</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>8 ounce canned crushed</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Unsweetened pineapple</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Egg whites (or equivilent)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dairy or soy nf milk</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix the wet into the dry, stir until well mixed.  Pour into a prepared or
+  nonstick loaf pan, bake at 350 degrees farenheit for about 40 minutes, test
+  with a wooden pick.  Let stand for about 5 minutes, remove from pan, cool
+  on a rack.
+  
+  Note: I don't like to use refined sugar and this is fairly sweet, but if
+  you prefer a sweeter bread, add some chopped dates or 1/4 cup sugar.
+  
+  Posted by jrg14@cornell.edu (Janice R. Gordon) to the Fatfree Digest
+  [Volume 16 Issue 28] Apr. 1, 1995.
+  
+  Individual recipes copyrighted by originator. FATFREE Recipe collections
+  copyrighted by Michelle Dick 1995. Formatted by Sue Smith,
+  SueSmith9@aol.com using MMCONV. Archived through kindness of Karen
+  Mintzias, km@salata.com and Mark Alexander, Mark@alexr.demon.co.uk.
+  
+  1.80á
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Sauce</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cl Garlic; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pinches</unit></amt>
+        <item>(2-inch) fresh rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; optional</item></ing></ingredients>
+    <directions>
+      <step>  Put all the ingredients except the butter into a saucepan and bring to a
+  boil.  Reduce the heat and simmer until it is reduced by half, about 10
+  minutes. The sauce is ready when it coats the back of a spoon. Add the
+  optional butter and stir well.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

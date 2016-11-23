@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Sourdough Starter (With Potato)</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Sourdough</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Baking potato peeled, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>White flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Cook potato in water to cover until tender. Pour off liquid to measure 1 c,
+  saving potato for other use. Let potato water cook to lukewarm. In a glass
+  or ceramic bowl that has been scalded, place flour, yeast and sugar; add
+  lukewarm potato water and stir in well. Cover with plastic wrap and pierce
+  with fork to release gases. Place in a warm, draft-free location at an even
+  85F for 2 days; stir several times daily. (do not let sourdough starter
+  rise above 95F because higher temp are favorable to less desireable
+  microorganisms) Refrigerate until ready to use. Replenish with one c flour
+  and 3/4 c water and let stand overnight or 12 hrs in a warm location before
+  refrigerating again. When replenishing, add lukewarm water with flour.
+  Starter should be at room temp when using in recipes, always after having
+  stood 12 hrs from addition of replenishing flour and water. At least 1 c
+  should remain to refrigerate.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

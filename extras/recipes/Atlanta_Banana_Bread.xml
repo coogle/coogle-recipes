@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Atlanta Banana Bread</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(2-layer-size) yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped nuts; (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Notes: From Houston (Texas) Chronicle files.
+  
+  Preheat oven to 350 degrees. Butter a 9-by-5-by-3-inch loaf pan. Mash
+  bananas in a bowl and add dry cake mix, eggs, vanilla and nuts. Beat 2
+  minutes at medium speed of electric mixer. Pour into prepared pan and bake
+  1 hour or until cake tests done.
+  
+  Gibson says she finds the recipe is too much batter for one pan so she
+  divides it between two loaf pans. Cake with pudding mix included also may
+  be used, she said.
+  
+  Posted to recipelu-digest by ncanty@juno.com (Nadia I Canty) on Mar 28,
+  1998
+ 
+</step></directions></recipe></recipeml>

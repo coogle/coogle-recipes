@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potato Chips</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Red Boiling Potatoes -</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or white boiling potaotes,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cut crosswise into</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1/8-inch thick slices</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter - melted (3/4 stick)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and freshly ground</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>        Position racks in upper and lower third of oven and preheat to
+    500F. Lightly grease 2 baking sheets.  Arrange potato slices in single
+    layer on prepared baking sheets.  Brush generously with butter. Bake
+    7 minutes.  Switch pan positions and continue baking until potatoes
+    are crisp and browned around edges, about 7 to 9 minutes. Transfer to
+    heated platter.  Sprinkle with salt and freshly ground pepper. Serve
+    immediately.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Spaghetti</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Spaghetti; cooked and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Mozzarella cheese; shredded</item></ing></ingredients>
+    <directions>
+      <step>  Combine spaghetti, eggs and Parmesan cheese. Place half the mixture in a
+  greased baking dish. Add half the Mozzarella cheese. Repeat with remaining
+  spaghetti and Mozzarella. Bake in a 350 degrees oven for 20 minutes. Cut
+  into squares and serve with spaghetti sauce . Serves 4.
+  Posted to recipelu-digest Volume 01 Number 181 by "Diane G."
+  &lt;diane@keyway.net&gt; on Oct 29, 1997
+ 
+</step></directions></recipe></recipeml>

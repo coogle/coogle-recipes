@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Salmon</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Salmon (up to 6)</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chopped green onion</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red chili pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>drops</unit></amt>
+        <item>Tabasco sauce</item></ing></ingredients>
+    <directions>
+      <step>  These are from the American Indian Society Cookbook. It was published in
+  December 1984.  If anyone wants the complete book (approximately 80 pgs/
+  150 recipes) the address for inquiry is
+  
+                American Indian Society of Washington, D.C.
+                519 - 5th Street, S.E.
+                Washington, D.C. 20003
+  
+  Clean the fish and cut off head and tail.  Salt and pepper it all over,
+  inside and out. Stuff the cavity with the chopped pepper. Pour the combined
+  remaining ingredients over the fish and bake at 325 degrees for 3 hours.
+  Baste occasionally with the sauce.
+  
+  Gloria McDonald - Flathead
+  
+  Posted to FOODWINE Digest 18 October 96
+  
+  Date:    Sat, 19 Oct 1996 16:57:40 -0400
+  
+  From:    Garry Howard &lt;g.howard@IX.NETCOM.COM&gt;
+ 
+</step></directions></recipe></recipeml>

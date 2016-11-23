@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Sour Cream Bake</title>
+      <categories>
+        <cat>Asparagus</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All green asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Carton sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  Combine mayonnaise, sour cream and lemon juice; heat, but do not boil,
+  asparagus. Drain asparagus. Heat, but do not boil, sour cream mixture.
+  Place drained asparagus in casserole dish; pour the sour cream mixture over
+  it.
+  
+  Turn on broiler and run the asparagus in and leave until bubbly. Sprinkle
+  with paprika lightly before serving.
+  Posted to recipelu-digest by "Diane Geary." &lt;diane@keyway.net&gt; on Feb 4,
+  1998
+ 
+</step></directions></recipe></recipeml>

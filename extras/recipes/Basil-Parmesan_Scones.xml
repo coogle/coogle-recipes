@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil-Parmesan Scones</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Recipe buttermilk bisquits</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Basil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dash garlic &amp; onion</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Powder, black pepper</item></ing></ingredients>
+    <directions>
+      <step>  There's a bakery near me called Aunt Mary's (are you listening, Sallie?)
+  and they have the most wonderful basil-parmesan scones. One day I
+  experimented and was pleased to find a pretty good facsimile.
+  
+  Just add the above ingredients along with all the other dry ingredients and
+  proceed as above.  These are a nice change of pace from Italian or garlic
+  bread. Or cut with smaller cutter and serve as appetizer (don't forget to
+  reduce baking time if smaller).
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

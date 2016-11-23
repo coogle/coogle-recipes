@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaranth Crepes in Lemon Sauce</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CREPES</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Honey or maple syrup</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; melted OR- vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk, soymilk, or water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>AM Amaranth Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sea salt (optional)</item></ing></ing-div>
+      <ing-div>
+        <title>CREPE SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Honey or maple syrup</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Arrowroot powder OR- cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Finely grated lemon peel</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Beat eggs in blender; add other liquids, then flour and salt.  Heat small
+  skillet.  Oil lightly.  Put 1-1/2 tablespoons butter in pan and tip to
+  spread over surface.  Add 1/2 cup batter.  Bake.  Turn crepe and bake
+  other side.  Fill cooked crepe with bananas or whipped tofu; roll up and
+  cover with sauce.
+  
+  Crepe Filling: Sliced bananas or whipped tofu (see Golden Amaranth Short
+  Cake recipe)
+  
+  Crepe Sauce: Combine ingredients (except lemon peel) in a saucepan; stir
+  and simmer over medium heat until clear and slightly thick; remove from
+  heat and stir in peel.
+  
+  Source: Arrowhead Mills "Amaranth Flour" tri-fold
+  Reprinted by permission of Arrowhead Mills, Inc.
+  Electronic format courtesy of: Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/am.zip
+ 
+</step></directions></recipe></recipeml>

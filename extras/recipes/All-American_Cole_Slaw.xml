@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-American Cole Slaw</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Green cabbage; quartered, cored, and shredded fine</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar; cider, malt, distld</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, small; grated (optnl)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Carrot, medium; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>     In a large mixing bowl, toss the cabbage with the vinegar and salt.
+  Grate the carrots and optional onion directly into the bowl. Add the
+  mayonnaise and toss well.
+     The slaw can be served immediately, but it is much better -- more melded
+  and tender -- if allowed to stand and tossed occasionally for 30 minutes to
+  1 hour. For a very limp slaw, refrigerate several hours or overnight.
+  
+  ^^^^^^^^^^
+     The law on cole slaw is cabbage and vinegar.  All the rest is
+  interpretation.  Adjust the recipe to taste: Add more mayonnaise,
+  substitute sour cream or yogurt for some (but not all) of the mayonnaise,
+  or add a supplement of one or the other. Add diced green and/or red pepper
+  if you have one, celery or caraway seeds if you like that kind of thing, or
+  shredded celery for an extra fresh taste.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

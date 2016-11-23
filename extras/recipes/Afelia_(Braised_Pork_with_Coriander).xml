@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Afelia (Braised Pork with Coriander)</title>
+      <categories>
+        <cat>Pork</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Karen Mintzias</item></ing>
+      <ing>
+        <amt>
+          <qty>750</qty>
+          <unit>grams</unit></amt>
+        <item>Pork fillet, leg or loin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>500</qty>
+          <unit>grams</unit></amt>
+        <item>New potatoes; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>250</qty>
+          <unit>grams</unit></amt>
+        <item>Small mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Red wine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Crushed coriander seeds</item></ing></ingredients>
+    <directions>
+      <step>  Cut pork into approximately 3 cm (1-1/4 inch) pieces leaving some fat on
+  meat as this is desirable.
+  
+  Heat half the butter in a heavy based pan and brown potatoes. Remove and
+  keep aside.
+  
+  Add remaining butter and brown pork on each side, push to side of pan.
+  
+  Trim and clean mushrooms and fry quickly in pan next to meat. Stir to
+  combine.  Reduce heat to low.
+  
+  Pour in wine, add salt and pepper to taste and place potatoes on top.
+  
+  Sprinkle with coriander seeds, cover pan with lid and simmer over low heat
+  for 45 minutes or until pork and potatoes are tender.
+  
+  Serve with a tossed green salad.
+  
+  * Source: The Complete Middle East Cookbook, by Tess Mallos * Typed for you
+  by Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

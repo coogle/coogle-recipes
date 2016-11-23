@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cranberry Cookie Cobbler</title>
+      <categories>
+        <cat>Pampered</cat>
+        <cat>Chef</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Granny Smith Apples; peeled, cored, slice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(16 oz) whole berry cranberry sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(20 oz) refrigerated sugar cookie dough, cut in half</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees. Peel, core, and slice apples. Cut apples in
+  half; place in deep dish baker. Combine cranberry sauce, sugar, flour, and
+  cinnamon in bowl; mix well. Pour over apples; mix well. Cut cookie dough in
+  half; reserve one portion for another use. Slice cookie dough into 1/4-inch
+  thick slices. Arrange evenly over apple mixture. Bake 30-35 minutes or
+  until apples are tender and top is golden brown. Yield: 10 servings.
+  
+  Recipe by: Pampered Chef Fall/Winter Season's Best 1996 Posted to MC-Recipe
+  Digest V1 #681 by hister@juno.com (Iris E. Dunaway) on Jul 20, 1997
+ 
+</step></directions></recipe></recipeml>

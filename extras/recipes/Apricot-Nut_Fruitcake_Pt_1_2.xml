@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot-Nut Fruitcake Pt 1/2</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Broken walnuts (8 ounces; 230 g)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Hazelnuts or filberts (5 ounces; 140 g), toasted, skinned, halved or coarsely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Brazil nuts (6 ounces; 170 g), coarsely chopped, or halved pecans</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Seedless raisins (6 ounces; 170 g)</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Firmly packed golden raisins (7 ounces; 210 g)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Firmly packed dried apricot halves (12 ounces; 340 g), cut into quarters</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dark rum or Calvados, plus 1/2 cup unsweetened apple cider, or use all spirits</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Unsifted whole-wheat pastry flour (6 3/4 ounces; 185 g); available in health food stores</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Unsifted all-purpose flour (10 ounces; 280 g)</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Each of ground cinnamon and nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Lightly slated butter (3 sticks; 340 g), at room temperature, or use 1/2 cup margarine plus 1 cup butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Firmly packed light brown sugar (10 1/2 ounces; 300 g)</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Unpeeled grated apple, cooking type such as Granny Smith (6 ounces; 170 g)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Applesauce</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Halved walnuts, almonds or pecans</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cut-up dried apricots</item></ing></ing-div>
+      <ing-div>
+        <title>APRICOT GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Apricot preserves, best quality</item></ing></ing-div>
+      <ing-div>
+        <title>FIRM APRICOT GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Apricot preserves, best quality</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Unflavored gelatin</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Kirsch, or other fruit-flavored liqueur or fruit juice</item></ing></ing-div>
+      <ing-div>
+        <title>BASIC ICING GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sifted confectioners' sugar (4 3/4 ounces; 135 g)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cream, or more as needed to thin the glaze (up to 2)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Unsalted butter, melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Lemon or orange extract; or 1 teaspoon vanilla extract</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. A day or two before baking the cake, combine all the dried fruits and
+  nuts in a large bowl and toss well with the rum or Calvados and cider.
+  Cover with plastic wrap and set aside in a cool place for at least 24
+  hours. Toss the mixture occasionally.
+  
+  2. On the baking day, prepare pans. Use one tube pan 10 x 4 inches or one 9
+  1/4-inch tube pan (9 cup capacity) plus 2 baby loaf pans, each 6 x 3 1/2 x
+  2 inches, or the equivalent in capacity (cake consists of about 12 cups
+  batter.) Lightly grease pan(s), cut paper liners to cover both bottom and
+  sides, press paper in place, then grease paper. Position rack in center of
+  oven for 1 large cake, or divide oven in thirds for several cakes. Preheat
+  oven to 325 F (165 C).
+  
+  3. Sift both flours, the baking powder, baking soda, salt, and spices
+  together onto wax paper. Set aside.
+  
+  To make the cake batter, use a spoon and a mixing bowl or the electric
+  mixer to cream together the butter and sugar until well blended. Add eggs,
+  one at a time, beating after each addition. Stir in vanilla. Add the flour
+  mixture in 3 or 4 additions, beating very slowly to blend after each
+  addition. The batter will be quite stiff. Stir in the grated apple and
+  applesauce. Stir the macerated fruit-nut-rum mixture, then add it to the
+  batter along with all the liquid. Stir the batter with a sturdy wooden
+  spoon until well blended; really the best way to blend is with your bare
+  hands.
+  
+  4. Spoon the batter into the prepared pan(s), filling them about 2/3
+  
+  continued in part 2
+ 
+</step></directions></recipe></recipeml>

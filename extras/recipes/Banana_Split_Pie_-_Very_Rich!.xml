@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Pie - Very Rich!</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PART A</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Crushed graham crackers</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick oleo margarine; melted</item></ing></ing-div>
+      <ing-div>
+        <title>PART B</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Box powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>packages</unit></amt>
+          <item>(8-oz) cream cheese (Let cream cheese soften before mixing with powdered sugar)</item></ing></ing-div>
+      <ing-div>
+        <title>PART C</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Bananas (up to 5)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Crushed pineapple (drained)</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Cool Whip</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Nuts</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Maraschino cherries</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix together part "A" and place in long pan or 2 pie pans. Mix part "B"
+  together well and spread over crust. Slice 4 or 5 bananas on top of cream
+  cheese mixture. Spread pineapple on top of bananas. Spread 8-oz. Cool Whip
+  on top and sprinkle with nuts and maraschino cherries on top.
+  Posted to Bakery-Shoppe Digest V1 #219 by Shelley Sparks
+  &lt;ssparks@mailbox.arn.net&gt; on Sep 04, 1997
+ 
+</step></directions></recipe></recipeml>

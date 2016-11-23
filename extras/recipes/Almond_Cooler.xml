@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Cooler</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Almond herbal tea bags</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Lemon sherbet; or orange sherbet</item></ing></ingredients>
+    <directions>
+      <step>  Pour the boiling water over tea bags. Let stand for 5 minutes. Remove tea
+  bags; discard. Chill tea for at least 2 hours. At serving time, spoon
+  sherbet into 4 chilled glasses, pour in chilled tea.
+  
+  MAKES: 4 - 8 oz servings Per serving: 129 cal., 1 g. protein, 30 g. carbo.,
+  1 g. fat, 10 mg. sodium
+  
+  SOURCE: 1986 Best-Recipes Yearbook, Better Homes and Gardens
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

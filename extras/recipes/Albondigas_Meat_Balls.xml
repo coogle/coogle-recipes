@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Albondigas Meat Balls</title>
+      <categories>
+        <cat>Beef/veal</cat>
+        <cat>Mexico</cat>
+        <cat>Ham/pork</cat>
+        <cat>Submitted</cat>
+        <cat>Archived</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef, lean, ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk, whole</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Basil leaves, dried; crumbl ed</item></ing></ingredients>
+    <directions>
+      <step>    Mix together until well blended lean beef, pork sausage, cornmeal, milk,
+  egg, onion, garlic and basil.
+    Shape the mixture into about 3/4-inch balls.  If making ahead, return the
+  meatballs to bowl, cover, and chill up to 4 hours.
+    Adapted from Sunset Best of the West, Spring/Summer 1993. Downloaded from
+  Food &amp; Wine Round Table of GEnie. CompuChef conversion by Rick Weissgerber,
+  MM/reposted by DonW1948@aol.com
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

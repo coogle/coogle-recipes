@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abernethy Biscuts</title>
+      <categories>
+        <cat>Cookie</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>(level) baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Caraway flavouring</item></ing></ingredients>
+    <directions>
+      <step>  Date: Thu, 12 Aug 93 09:33:35 +0200
+  
+  From: hz225wu@unidui.uni-duisburg.de (Micaela Pantke) (COLLECTION)
+  
+  From: ruby@crash.amigans.gen.nz (Vida Halligan)
+  
+  Source: _Aunt Daisy's NEW COOKERY_  (1947) Sift flour and salt, add sugar;
+  Rub in the butter.  Mix milk and soda add flavouring; mix this into dry
+  ingredients, Knead, roll out about 1/4 inch thick, cut into shapes, cook in
+  a quick oven 350-400 deg F
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /COOKIES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

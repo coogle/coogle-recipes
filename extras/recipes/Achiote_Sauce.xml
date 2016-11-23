@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Achiote Sauce</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion,; roughly chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves,; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Achiote paste,; crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cracked black pepper</item></ing></ingredients>
+    <directions>
+      <step>  In a medium saucepan, over medium-low heat melt the butter. Cook the onions
+  until soft and translucent, 12 to 15 minutes. Stir in the garlic and tomato
+  and Achiote paste and cook an additional 3 to 5 minutes, stirring
+  frequently. Add the chicken stock, salt and black pepper. Bring to a boil,
+  reduce to a simmer and cook, stirring and skimming frequently, 12 to 15
+  minutes. Add the vinegar and cook at end for 2 to 3 minutes. Puree in a
+  blender or food processor. Store in refrigerator 2 to 3 days.
+  Recipe By     :TOO HOT TAMALES SHOW #TH6125
+  
+  Posted to MC-Recipe Digest V1 #319
+  
+  Date: Wed, 27 Nov 1996 09:16:29 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Burrito Casserole</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Tortillas; * see note</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Pinto beans; canned, rinsed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown rice; cooked</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Green onions; chopped</item></ing></ing-div>
+      <ing-div>
+        <title>ENCHILADA SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Tomato sauce; ** see note</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Garlic powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Onion powder</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cornstarch; *** see note</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preparation Time: 2:07 This may be made without the brown rice; use 5 cups
+  mashed cooked and drained beans instead. The sauce can also be used in
+  other Mexican recipes.
+  
+  To make the enchilada sauce combine all ingredients in a saucepan and cook,
+  stirring constantly, until the mixture boils and thickens, about 7 minutes.
+  Preheat the oven to 350 degrees. Spread 1 cup of the enchilada sauce in the
+  bottom of a covered casserole dish. Take one tortilla at a time and spread
+  some beans, rice, and scallons down the center. Roll up and place
+  seam-side-down in the casserole dish. Repeat until all ingredients are
+  used. Pour the remaining enchilada sauce over the rolled-up tortillas,
+  cover, and bake for 30 minutes.
+  
+  From the recipe files of Sue Smith, SueSmith9@aol.com. Posted by KevinVegan
+  to AOL. D/L April 16, 1995. Formatted using MMCONV 1.8. 1.80=E1
+  
+  Date: Tue, 11 Jun 1996 02:59:32 -0400
+  
+  From: Dennis &lt;dennisjy@ix.netcom.com&gt;
+  
+  MM-Recipes Digest V3 #162
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

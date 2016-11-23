@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana and Almond-Cream Loaf</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tbl Almond Flavored; (Or Other)  Liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Frozen Pound Cake; (Thawed),</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cut Into Three Layers, Lengthwise Ripe Bananas; ,Peeled And Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tbl Sliced Almonds; Or Chopped Nuts</item></ing></ingredients>
+    <directions>
+      <step>  In medium bowl beat cream and liqueur until soft peaks form. Place bottom
+  layer of pound cake on serving platter. Spread 1/3 of cream mixture on
+  layer; top with half the banana slices. Repeat with remaining layers,
+  ending with whipped cream. Sprinkle with almonds.
+  Posted to MC-Recipe Digest V1 #203
+  
+  Date: Sat, 17 Aug 1996 01:19:29 -0400
+  
+  From: kathy &lt;jbird21@mindspring.com&gt;
+  NOTES : Category: Dessert
+       Main Ingredient: Pound Cake
+       Servings:
+ 
+</step></directions></recipe></recipeml>

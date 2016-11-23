@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Au Gratin Turnips and Potatoes</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Side dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced turnips &amp; potatoes (any combination,) peeled and thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion peeled and finely sliced,</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground white pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated Swiss cheese</item></ing></ingredients>
+    <directions>
+      <step>  PREHEAT OVEN TO 375F. TOSS together turnips, potatoes, onion with melted
+  butter and place in a 9-inch square or round baking dish. Cover tightly and
+  place in preheated oven for 30 minutes. In a small pot on top of the stove
+  combine milk, nutmeg, pepper and salt and bring to a boil. Immediately
+  remove from heat. Remove turnip-potato mixture from the oven, remove cover
+  and mix in half the cheese. Pour the milk over the potatoes and sprinkle
+  with remaining cheese. Replace in oven, uncovered, another 20 to 25
+  minutes. If the gratin is golden brown, it's ready to serve. If not,
+  preheat broiler. Place gratin under broiler about 3 minutes to brown top
+  before serving.
+  
+  MICHAEL ROBERTS - PRODIGY GUEST CHEFS COOKBOOK
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

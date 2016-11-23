@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bechamel Sauce</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>32</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Kosher salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in a 1-quart saucepan over low heat. Whisk in flour, stirring
+  to combine. Cook 2 to 3 minutes. Gradually add vegetable broth, whisking
+  constantly until thickened. Season with salt, pepper, and nutmeg. Cook over
+  low heat for 5 minutes.
+  
+  NOTES : Use immediately or store in a sealed container in the refrigerator=
+  for up to 3 days. Yield: 2 cups (serving size: 1 tablespoon).
+  Recipe by: =A9 1995 Cole Group, Inc.
+  
+  Posted to recipelu-digest Volume 01 Number 526 by "Christopher E. Eaves"
+  &lt;cea260@airmail.net&gt; on Jan 14, 1998
+ 
+</step></directions></recipe></recipeml>

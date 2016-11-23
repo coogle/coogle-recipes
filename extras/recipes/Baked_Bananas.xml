@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Bananas</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bananas; As many bananas as there are guests</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Any type of whipped topping (dairy/non-dairy)</item></ing></ingredients>
+    <directions>
+      <step>  From: elisa@netcom.com (Elisa Enison)
+  
+  Date: Thu, 11 Jul 1996 12:50:19 -0700
+  Place bananas (IN PEEL) on aluminum foil covered baking sheet bake for
+  20-30 minutes @ 350 degrees or until peel becomes black. Remove from skin
+  and place in dish. Top with a dollop of whipped topping.
+  
+  This is especially good if the bananas are ripe.   Bananas come out almost
+  tasting as if liquer has been added.
+  
+  JEWISH-FOOD digest 252
+  
+  From the Jewish Food recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

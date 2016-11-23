@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbeque-Spiced Grilled Tenderloin Steaks</title>
+      <categories>
+        <cat>Barbeque</cat>
+        <cat>Beef</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sweet paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>6 oz 1" thick Tenderloin Steaks</item></ing></ingredients>
+    <directions>
+      <step>  Combine first 6 ingredietns in small bowl. (Can be prepared 1 week ahead.
+  Store in airtight container.)
+  
+  Prepare barbeque (high heat).  Rub spice mixture generously into both sides
+  of steaks.  Grill steaks to desired doneness, about 3 minutes per side for
+  medium-rare.  Serve hot.
+  
+  Bon Appetit - Too Busy to Cook Posted to MealMaster Recipes List, Digest
+  #154
+  
+  Date: Tue, 28 May 1996 07:51:52 -0700
+  
+  From: cstarz@teleport.com (Carey Starzinger)
+ 
+</step></directions></recipe></recipeml>

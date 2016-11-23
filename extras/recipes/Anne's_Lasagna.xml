@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anne's Lasagna</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground turkey or hamburger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Italian sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dried basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Onion powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>(6-oz) tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar (16-oz) pizza sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(8-oz) tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit/></amt>
+        <item>Lasagna noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>container</unit></amt>
+        <item>(16-oz) cottage cheese (I use small curd)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Mozzarella cheese (I use shredded)</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>Julie Sterchi &lt;sterchi@WABASH.NET&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Thu, 1 Aug 1996 08:47:18 -0700</item></ing></ingredients>
+    <directions>
+      <step>  In large skillet, brown meats.  Add garlic, 2 tblesp. parsley flakes,
+  basil, oregano, onion powder, and sauces. Simmer while lasagna noodles cook
+  according to package directions.  Combine cottage cheese, eggs, pepper, 2
+  tblesp. parsley flakes, and Parmesan cheese.  In 9 x 13 in.  pan, layer: 1)
+  noodles, 2) meat sauce, 3) cottage cheese mixture, 4) mozzarella cheese.
+  Use 1/3 each time to make 3 layers. Bake at 375 degrees for 30 minutes. Let
+  stand about 15 minutes before cutting and serving.
+  
+  Add garlic bread and a green salad, and you've got a feast fit for even
+  Garfield!
+  
+  EAT-L Digest 31 July 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

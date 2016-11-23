@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apples with Caramel Sauce</title>
+      <categories>
+        <cat>Apples</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Frozen apple juice concentrate, undiluted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Tart apples, peeled, cored and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Calvados (apple brandy; opt)</item></ing></ingredients>
+    <directions>
+      <step>  1. In 2-quart heavy saucepan melt sugar over low heat, watching
+  carefully so it doesn't burn.
+  
+  2. In 2-cup glass measuring cup microwave heavy cream 30 seconds to 1
+  minute, or until it reaches about 140-160'F.
+  
+  3. When sugar has liquified and turned an amber color, slowly stir in
+  warm cream with a wooden spoon. Stir vigorously to avoid lumps. Stir
+  liquified sugar as it begins to turn amber color.
+  
+  4. Stir in apple juice concentrate and vanilla. Cook over moderate
+  heat until thoroughly blended. Strain out any lumps that might remain.
+  
+  5. Meanwhile, in heavy non-stick skillet saute apples in butter 2
+  minutes, or until heated through but still crisp. If desired, warm
+  Calvados, pour over apples and ignite. When flames subside, spoon
+  apples into serving dishes and top with warm caramel sauce.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

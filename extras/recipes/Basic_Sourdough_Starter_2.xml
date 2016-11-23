@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Sourdough Starter</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Sourdough</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>NFXS18B</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour *</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve yeast in warm water in 3-qt glass bowl. Stir in milk. Stir in
+  flour gradually. Beat until smooht. Cover with towel; let stand in warm,
+  draft-free place until starter begins to ferment, about 24 hrs. (bubbles
+  will appear on surface of starter) If starter has not begun fermentation
+  after 24 hr, discard and begin again. If fermentation has begun, stir well;
+  cover tightly with plastic wrap and return to warm, draft-free place. Let
+  stand until foamy, 2-3 days. When starter has become foamy, stir well; pour
+  into 1-qt crock or glass jar with tighlty fitting cover. Store in frig.
+  Starter is ready to use when a clear liquid has risen to top. Stir before
+  using. Use 1 c starter in recipe; reserve remaining starter. Add 3/4 c milk
+  and 3/4 c flour to reserved starter. Store covered at room temp until
+  bubbles appear, about 12 hrs, refrigerate. Use starter regularly, every
+  week to 10 days. If the volume of the breads you bake begins to decrease,
+  dissolve 1 t yeast in 1/4 c warm water. Stir in 1/2 c milk, 3/4 c flour and
+  the remaining starter. *DO NOT USE SELF RISING FLOUR* NOTE: Start bread at
+  night to bake in the morning - or vice versa. Before adding the milk and
+  flour to remaining starter, bake your bread and judge the volume
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

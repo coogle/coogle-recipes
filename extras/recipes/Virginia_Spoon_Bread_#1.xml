@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Virginia Spoon Bread #1</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cornmeal; white or yellow</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk; scalded</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; separated</item></ing></ingredients>
+    <directions>
+      <step>    Spoon bread is simply a very rich and dense corn bread, a dish so dense
+  that it must be served up with a spoon. General Washington loved this dish
+  and it was apparently served quite often at Mount Vernon.
+  
+    Mix the cornmeal and salt together and stir them into the hot milk.  Cook
+  over very low heat, stirring all the time, until thick and smooth. Continue
+  cooking for 15 more minutes, stirring occasionally. Cool slightly. Stir in
+  the baking powder and well-beaten yolks, and fold in the stiffly beaten egg
+  whites. Turn into a greased casserole or 8-inch-square pan. Bake in a
+  moderate oven (375ø) about 35 minutes, or until the bread is firm and the
+  crust is brown. Serve from the baking dish.
+  
+  From &lt;The Frugal Gourmet Cooks American&gt;.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

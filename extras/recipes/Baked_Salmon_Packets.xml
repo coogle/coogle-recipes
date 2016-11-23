@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Salmon Packets</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Salmon filets</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Thyme sprigs, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Parsley sprigs, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Garlic cloves, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White wine, dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper, ground</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees. Place 4 large pieces of foil on a working
+  surface, shiny side down. Spray the inside with vegetable cooking spray.
+  Place a fish filet on each piece of foil. Evenly divide thyme, parsley,
+  garlic, salt, pepper, and wine among the fish. Dot each filet with one
+  teaspoon of butter and then securely fold and seal the edges. Place the
+  packets on a baking sheet and bake for 10-12 minutes. Place packets on
+  plates and open carefully.
+  
+  SOURCE: Meg Woodard, R.D., Lucky Nutritionist, printed in Lucky
+  :       Supermarket ad dated 3/13/1996.
+  
+  Typed for you by Lawren Freebody @ Salata BBS
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

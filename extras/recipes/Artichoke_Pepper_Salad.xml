@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Pepper Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar (12 Oz) Pepper Salad, undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(6 Oz) Black Olives (Pitted), drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(10 Oz) Green Olives (Pitted), drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Artichokes, drained</item></ing></ingredients>
+    <directions>
+      <step>  Place pepper salad with liquid in bowl. Cut olives in pieces and add to
+  pepper salad. Add sliced artichokes and mix gently.
+  
+  Serves 6.
+  
+  Source: "Mountain Measures", Junior League of Charleston, WV ed. 1974
+  
+  NOTES : Good with Italian food.
+  
+  Recipe by: Mrs. J. Douglas Machesney Posted to MC-Recipe Digest V1 #611 by
+  Bill Spalding &lt;billspa@icanect.net&gt; on May 14, 1997
+ 
+</step></directions></recipe></recipeml>

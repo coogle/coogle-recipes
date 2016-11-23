@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Violet Tea</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>To 3 tsp. violet leaves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>;Boiling water</item></ing></ingredients>
+    <directions>
+      <step>  Pour boiling water over violet leaves.  Steep five minutes.
+  
+  From Kathleen S. Van Horn's "Sweet Violets" article in "The Herb
+  Companion."  April/May 1993, Vol. 5, No. 4. Pg. 29. Posted by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

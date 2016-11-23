@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce Bundt Cake</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple sauce (1 can)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  From: pippa@parcplace.com (Pippa Dillman)
+  
+  Date: 5 Aug 1994 16:31:57 -0400
+  
+  Mix well dry cake mix, eggs and applesauce.  Set aside.  Mix sugar and
+  cinnamon.  grease and flour bunt pan (or cake pan).  Pour half of batter in
+  pan, swirl in half of sugar mixture.  Pour in the remaining batter and
+  swirl remaining sugar mixture. Bake at 350 for 1 hour. (If using flat pan
+  bake about 40 minutes)
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /CAKES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

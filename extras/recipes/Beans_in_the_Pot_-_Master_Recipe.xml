@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beans in the Pot - Master Recipe</title>
+      <categories>
+        <cat>Beans</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Pinto beans; cranberry beans, or Anasazi beans</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Medium onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Whole garlic cloves; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bay leaves or sprigs cilantro</item></ing></ingredients>
+    <directions>
+      <step>  Place beans in large pot; add water to cover by at least 2 inches. Soak
+  overnight or use quick-cook method: Bring to a boil, cook 2 minutes, then
+  remove from heat, cover and let sit for 1 hour.
+  
+  Drain beans, then return to pot and add wataer to cover by 1 inch. Add
+  onions and garlic. For a Mexican flavor, add cilantro and mint; for an
+  Italian flavor, add a bay leaf or two.
+  
+  Bring to a boil, reduce heat to low, and simmer uncovered, stirring once or
+  twice, for 1 1/2 - 2 hours, or until the beans are tender. Add water as
+  needed, enough to cover beans with a little extra on top, but don't add too
+  much or the beans "drown" and their flavor is compromised. Season to taste
+  with salt.
+  
+  Yields about 6 cups of cooked beans.
+  
+  Recipe by: SF Chronicle; Jun 7, 1995 - WEEKEND COOK
+  
+  Posted to MC-Recipe Digest V1 #1000 by Judi Moseley &lt;judi@moseleygroup.com&gt;
+  on Jan 10, 1998
+ 
+</step></directions></recipe></recipeml>

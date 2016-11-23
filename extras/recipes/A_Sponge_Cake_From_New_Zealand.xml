@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Sponge Cake From New Zealand</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fine sugar (can use regular)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>grams</unit></amt>
+        <item>Butter melted (about 2 ounces)</item></ing></ingredients>
+    <directions>
+      <step>  Beat eggs and salt. Add sugar and beat till thick. Sift flour and baking
+  powder together. Add to egg mixture. Fold in butter. Pour into greased and
+  lined deep 20 cm (8 inch) round cake tin.
+  
+  Bake at 190 C. (375 F.) for 25-30 minutes or till cake springs back when
+  lighly touched. Leave in tin for 10 minutes before turning out onto cooling
+  rack.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Rayna Knighton
+  &lt;rayna@iconz.co.nz&gt; on Oct 19, 1997
+ 
+</step></directions></recipe></recipeml>

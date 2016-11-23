@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asado De Platanos</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Round steak</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cooking bananas (plantains)</item></ing></ingredients>
+    <directions>
+      <step>  1.  Fry the steak in 3 tbs. oil over high heat until both sides are well
+  browned.
+  
+  2. Sprinkle with salt, pepper, and chopped onion.  Pour in the wine and
+  water. Cover tightly and simmer 45 min. or until fork passes easily through
+  the meat.
+  
+  3.  In another pan, heat the remaining 1 tbs. oil; sprinkle in the sugar
+  and allow to turn a golden color.
+  
+  4.  Cut the bananas in half lengthwise and add to the skillet.  Remove from
+  heat when bananas are well browned on both sides.  Serve the meat cut in
+  portions and bathed in its own sauce, with the bananas on the side.
+  
+  LA MARGARITA
+  
+  CHICAGO, MORTON GROVE
+  
+  WINE:  LOS REYES
+  
+  From the &lt;Micro Cookbook Collection of Mexican Recipes&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

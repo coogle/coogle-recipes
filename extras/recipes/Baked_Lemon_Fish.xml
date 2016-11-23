@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lemon Fish</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fish fillets (sole; flounder)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon (6 wedges)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and fresh ground pepper or lemon pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  From: gregfam@aa.net (Lee Grgory)
+  
+  Date: 16 Oct 1995 05:50:00 -0600
+  
+  In bottom of shallow baking or broiling pan, spread oil,lemon juice, and
+  pepper. Swish fish around in pan, coating both sides.  Sprinkle with
+  parsley. Broil 3-4 minutes on each side or until edges are browned. Serve
+  with lemon wedges and sprinkle with salt or additional lemon pepper.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /CAKES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

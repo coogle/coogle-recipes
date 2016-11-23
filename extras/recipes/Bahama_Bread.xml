@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bahama Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Fruits</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>FLOUR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>BAKING SODA</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>SALT</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>BUTTER</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>SUGAR</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>EGGS</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>MILK</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>LEMON JUIcE OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>VANILLA EXTRAcT</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>CHOPPED NUTS; OPTIONAL.</item></ing></ingredients>
+    <directions>
+      <step>  2-3     ea VERY RIPE BANANAS; MASHED PREHEAT OVEN TO 350 cOMBINE FLOUR,
+  BAKING SODA, AND SALT IN A BOWL cREAM THE BUTTER IN A MIXING BOWL GRADUALLY
+  ADD THE SUGAR AND MIX TO WELL BLENDED ADD THE EGGS AND THE BANANA MIX
+  UNTILL WELL BLENDED. cOMBINE THE MILK AND LEMON JUIcE IN A LARGE BOWL.
+  ALTERNATELY MIX THE FLOUR MIXTURE INTO THE BANANA MIXTURE. ADD A LITTLE AT
+  A TIME, BEGINNING AND ENDING WITH THE DRY INGREDIENTS. BLEND WELL AFTER
+  EAcH ADDITION. ADD NUTS. TURN THE BATTER INTO A HEAVILY BUTTERED 9 X 5 X 3
+  INcH LOAF PAN. BAKE FOR ONE HOUR OR UNTIL BREAD IS GOLDEN AND SPRINGS BAcK
+  WHEN TOUcHED. cOOL IN PAN FOR TEN MINUTES. TAKE BREAD OUT OF PAN AND cOOL
+  cOMPLETELY.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

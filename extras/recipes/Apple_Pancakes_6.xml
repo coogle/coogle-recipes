@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pancakes</title>
+      <categories>
+        <cat>Pancakes</cat>
+        <cat>German</cat>
+        <cat>Breakfast</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour-unbleached,unsifted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs beaten (lge eggs)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple slices</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter/margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Apple Pancakes (German)
+  
+  Sift together the flour, 2 tsp sugar and the salt.
+  
+  Beat eggs &amp; milk together. Gradually add flour mixtu, beat until smooth.
+  Saute apples in 1/4 cup of butter until tender. Mix 2 Tbsp sugar and the
+  cinnamon together. Toss with apples. Melt 2 Tbsp butter in a 6 inch
+  diameter deep fry pan. Pour in the batter to a depth of a about 1/4 inch.
+  when set place 1/4 of the apples on top, cover with more batter. Fry
+  pancake until lightly brown on both sides. Keep warm and repeat procedure
+  until all batter and apples are used up.
+  
+  I hope the person requesting the pancake recipe like it, although
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

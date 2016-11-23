@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Armenian Eggplant Casserole</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Londontowne</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Eggplant, lg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green pepper, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Clove garlic, finely minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, med, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sour cream (optional sauce)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper, freshly ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Pare and dice eggplant. Heat oil in skillet, add onion, green pepper, and
+  eggplant. Stir over low heat until eggplant is soft. Add tomatoes(may
+  substitute canned Italian solid pear shape, drained), salt, and pepper.
+  Simmer a few minutes. At this point you can add basil, chives, parsley,
+  tarragon or oregano to taste. Turn into casserole dish and bake at 325
+  degrees for 40 minutes. Casserole may be served hot or cols, with sour
+  cream.
+  
+  Mrs. Henry D. Chaplin
+  
+  From a book of recipes compiled by members and friends of the LONDONTOWN
+  PUBLIK HOUSE ASSEMBLY, EDGEWATER, MD 21037. Funds from sale of book used in
+  restoration and maintenance of the 17th century inn (hint, hint).
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/london13.zip
+ 
+</step></directions></recipe></recipeml>

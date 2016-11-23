@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread Vegan</title>
+      <categories>
+        <cat>Dessert bre</cat>
+        <cat>Hand made</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; whole wheat</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Wheat bran</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Wheat germ</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Turbinado sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sea salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple; finely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients. Bake 60-75 minutes in a greased and floured loaf
+  pan, or until a toothpick inserted in the center comes out clean. Remove
+  from pan and cool on its side.
+  Posted to FOODWINE Digest 17 October 96
+  
+  Date:    Thu, 17 Oct 1996 17:46:08 -0400
+  
+  From:   Emma K Kidd[SMTP:ekidd@wsunix.wsu.edu]
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Barbara's (Christmas) Dip</title>
+      <categories>
+        <cat>Christmas</cat>
+        <cat>Dips</cat>
+        <cat>Holiday</cat>
+        <cat>Okie recipe</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Potted meat or deviled ham</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pickle relish</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Miracle Whip®</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients together and chill, Serve with ruffles.
+  
+  NOTES : This was a favorite of my Aunt Barbara's. My family makes it now
+  every Christmas.
+  Recipe by: Barbara Haines Brunt
+  
+  Posted to TNT Recipes Digest by lisastnt@juno.com (Lisa L Dixon) on Mar 16,
+  1998
+ 
+</step></directions></recipe></recipeml>

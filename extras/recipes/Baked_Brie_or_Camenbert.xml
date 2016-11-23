@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Brie or Camenbert</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Nuts</cat>
+        <cat>Pastry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tube</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oven toasted almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit/></amt>
+        <item>10 oz</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Camenbert cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cresent Bread</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Round of Brie -- or</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven 325. Unfold Cresent Roll Bread and flatten.  Place cheese on
+  top cover with almonds. Cover side and top of cheese with Bread dough. Seal
+  seams well with fingers. Beat together 1 egg and 1/4 c water with a fork
+  and brush the egg mixture over the bread. Bake at 350 for approx 7-9
+  minutes.  Cool, wrap and refrigerate. To serve warm in oven 375 for about 3
+  minutes.
+  
+  Recipe By     : CookinSue
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

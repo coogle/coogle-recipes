@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked S'mores</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>DUNCAN HINES Golden Sugar Cookie Mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Milk chocolate bars (1.55 oz ea)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Marshmallow creme (7 oz)</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 350'F. Grease an 8" square pan.
+  
+  2. Combine cookie mix, contents of buttery flavor packet from Mix, egg and
+  water in large bowl. Stir until thoroughly blended. Divide cookie dough in
+  half. Press half the dough evenly into bottom of pan.
+  
+  3. Cut each milk chocolate bar into 12 sections by following division
+  marks on bars. Arrange chocolate sections into 4 rows, with 9 sections in
+  each row.
+  
+  4. Place spoonfuls of marshmallow creme on top of chocolate. Spread to
+  cover chocolate and cookie dough. Drop remaining cookie dough by
+  teaspoonfuls on top of marshmallow creme. Spread lightly with back of
+  spoon. Bake at 350'F. for 25-30 minutes or until light golden brown. Cool
+  completely. Cut into squares.
+  
+  Makes 9 squares.
+  
+  From Favorite All Time Recipes - Homemade Holiday Cookies, Publication
+  International, Ltd., ISBN 0-7853-0147-X.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/pi-cooky.zip
+ 
+</step></directions></recipe></recipeml>

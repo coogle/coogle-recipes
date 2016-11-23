@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Fudge</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Hershey's Cocoa, heaping</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans (opt)</item></ing></ingredients>
+    <directions>
+      <step>  Notes: Before you begin, be sure to fill sink half full of cold water.
+  Also, butter a dinner plate (or similar dish) to the edge to pour the
+  fudge on when it is done.
+  
+  In a deep, heavy bottomed pan (I use a pressure cooker pan), mix
+  together sugar, cocoa and milk. Cook on high heat, stirring
+  constantly to remove any lumps from cocoa and prevent burning, until
+  mixture comes to a boil. Continue boiling, stirring occasionally,
+  until mixture reaches soft ball stage (about 10-15 minutes) and turn
+  off heat (if you have an electric stove, move pan off burner as it
+  will overcook the fudge with the remaining heat on the burner). Add
+  vanilla extract and butter.
+  
+  Place pan in sink of cold water to speed cooling; do not let the
+  water come over the edge of the pan. Beat with spoon until fudge
+  starts to thicken slightly, it will still have a glossy look to it.
+  After it has cooled, remove pan from water (be sure and put a kitchen
+  towel on your lap for protection as the pan will still be quite
+  warm!) and continue to beat until the fudge loses its gloss and
+  begins to get stiff. Add the pecans then. Beat a couple more minutes.
+  Pour out onto buttered plate, scrape the sides and bottom to get as
+  much on the plate as you can, let cool (if you can wait at least 10
+  minutes), and it is ready to serve.
+  
+  Notes: Test for soft ball stage by dropping a partial spoonful into a
+  cup of cold water. When the mixture forms a `soft' ball, it is ready
+  or you can use a candy thermometer (I never have mastered those
+  things). If your fudge comes out runny or a bit soft, it was
+  undercooked; if it is hard and grainy, it was overcooked. Mine turns
+  out all ways and we eat it.
+  
+  This recipe is *not* fail proof and it takes a lot of practice and
+  patience to get the hang of it, good luck and watch the waistline!
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

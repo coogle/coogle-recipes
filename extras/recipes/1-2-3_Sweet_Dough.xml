@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1-2-3 Sweet Dough</title>
+      <categories>
+        <cat>Cooking liv</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Sticks butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>  Using the kitchen aid, cream the butter and sugar until light and fluffy.
+  Add the eggs one at a time and mix until well combined. Mix in the vanilla
+  extract and be sure to scrape the bottom of the bowl. Add the flour all at
+  once and mix until all of the ingredients are incorporated. Form a disk,
+  wrap in plastic and refrigerate for at least one hour before using.
+  
+  Yield: two crusts
+  
+  Recipe by: Cooking Live Show #CL8969
+  
+  Posted to MC-Recipe Digest V1 #803 by "Angele and Jon Freeman"
+  &lt;jfreeman@netusa1.net&gt; on Sep 24, 1997
+ 
+</step></directions></recipe></recipeml>

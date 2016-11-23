@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potato Patties</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Vegetarian</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Potatoes, scrubbed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onion; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly ground pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Whole wheat pastry flour</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 375.
+  
+  Shred the potatoes coarsely.  Mix with the onion, parsley, pepper, and
+  flour.  Shape into 4 patties and place on a nonstick baking sheet. Bake for
+  30 minutes.  If you like, place the patties under the broiler during the
+  last few minutes for browning.
+  
+  Food Exchange per serving: 1 STARCH/BREAD EXCHANGES
+  
+  Source: Unknown...retrived from a cooking echo! Brought to you and yours
+  via Nancy O'Brion and her Meal-Master
+  
+  Posted to MM-Recipes Digest V3 #273
+  
+  Date: Sun, 6 Oct 1996 01:12:23 -0400
+  
+  From: BobbieB1@aol.com
+ 
+</step></directions></recipe></recipeml>

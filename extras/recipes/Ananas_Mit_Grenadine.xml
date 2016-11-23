@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ananas Mit Grenadine</title>
+      <categories>
+        <cat>Getraenke</cat></categories>
+      <yield>999</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 cl Grenadinesirup</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 cl Ananassirup</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>3 cl Zitronensaft</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>5 cl Orangensaft</item></ing></ingredients>
+    <directions>
+      <step>    Alle Zutaten mit ein paar Eiswuerfeln im Shaker gut schuetteln (bis der
+  Shaker richtig beschlagen ist), dann ohne Eis ins Glas giessen.
+  
+    Wenn Sie mehr als eine Portion machen wollen: die beiden Sirupsorten nur
+  mit Zitronensaft shaken und den Orangensaft erst im Glas dazugeben, sonst
+  wird`s eng im Shaker.
+  
+  *  Aus essen &amp; trinken 8 / 86
+  
+  Erfasser: Lothar Datum: 07.02.1994 Stichworte: Drinks, Alkoholfrei
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

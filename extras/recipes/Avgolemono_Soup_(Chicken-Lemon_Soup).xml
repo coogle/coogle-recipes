@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avgolemono Soup (Chicken-Lemon Soup)</title>
+      <categories>
+        <cat>Greece</cat>
+        <cat>Soups/stews</cat>
+        <cat>Archived</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Rice, white</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  1. Bring the stock to a boil in a large saucepan.
+  
+  2. Add the rice, cover and simmer over low heat for 20 minutes.
+  
+  3. In a large mixing bowl, beat the eggs.
+  
+  4. Whip the lemon juice into the eggs.
+  
+  5. Constantly whip the lemon-egg mixture while you add 2 cups of the hot
+  stock, without rice.
+  
+  6. Just before serving, and the egg, lemon and stock mixture to the rest of
+  the rice and chicken stock, whisking constantly while heating the soup over
+  a medium-low burner. Do not boil the soup or the eggs will coagulate.
+  
+  7. Add the salt.
+  
+  8. Let the soup stand covered off the burner for 5 minutes.
+  
+  Original recipe from "The Ultimate Soup Book"
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

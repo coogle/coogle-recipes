@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cocktail</title>
+      <categories>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cans</unit></amt>
+        <item>Fruit cocktail (without the cherries), drained</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Bananas; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Grand manier liquer or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Any other orange liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla essence</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Papaya puree</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit/></amt>
+        <item>Fresh cream</item></ing></ingredients>
+    <directions>
+      <step>  Mix fruit cocktail and banana slices. Spoon into six cocktail glasses and
+  pour sauce over, decorate with cherries and mint leaves. Beat together the
+  rest of the ingredients (a smooth sauce is obtained when papaya puree is
+  prepared in a blender.
+  
+  busted by sooz
+  
+  Recipe by: Turbana
+  
+  Posted to recipelu-digest Volume 01 Number 250 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Nov 12, 1997
+ 
+</step></directions></recipe></recipeml>

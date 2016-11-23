@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Y Gandules</title>
+      <categories>
+        <cat>Beans/legum</cat>
+        <cat>Ethnic</cat>
+        <cat>Side dishes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>See Below</item></ing></ingredients>
+    <directions>
+      <step>  While sofrito is simmering, cook 2 cups rice.  Set aside.  Also prepare 1
+  lb dry or two cans, drained pigeon peas. To prepare dry peas, simply cook
+  in boiling salted water until done; drained peas can simply be tossed with
+  cooked rice.  Place rice in pot large enough to hold rice, peas, and
+  sofrito. (Add them to pot in this order). Toss until thoroughly mixed and
+  warmed. It may be necessary to rewarm the rice mixture.
+  
+  Recipe By     : ARC63
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

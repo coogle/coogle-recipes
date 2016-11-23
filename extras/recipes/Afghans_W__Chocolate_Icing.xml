@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Afghans W/ Chocolate Icing</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>AFGHANS</title>
+        <ing>
+          <amt>
+            <qty>7</qty>
+            <unit>ounces</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>ounces</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>Bournville Cocoa</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Corn flakes</item></ing></ing-div>
+      <ing-div>
+        <title>CHOCOLATE ICING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Dessertspoon butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Dessertspoon boiling water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Chocolate; grated</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Icing sugar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Essence of vanilla</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Afghans: Soften butter, add sugar and beat to a cream; add flour, cocoa and
+  lastly corn flakes. Put spoonfulls on a greased oven tray and bake about 15
+  minutes at 180 degrees C (350 F). When cold, ice with chocolate icing and
+  put walnuts on top.
+  
+  Chocolate Icing: Warm butter, dissolve chocolate in water; add to butter,
+  then stir in sifted icing sugar. Flavour with vanilla.
+  
+  Recipe by: Edmonds' Cookery Book
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 945 by mollywalsh@juno.com (Molly
+  Walsh) on Jan 16, 1998
+ 
+</step></directions></recipe></recipeml>

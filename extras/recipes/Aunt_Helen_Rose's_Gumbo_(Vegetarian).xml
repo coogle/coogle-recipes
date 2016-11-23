@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Helen Rose's Gumbo (Vegetarian)</title>
+      <categories>
+        <cat>Eat-lf mail</cat>
+        <cat>Kitpath</cat>
+        <cat>Soups</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Olive oil spray</item></ing>
+        <ing>
+          <amt>
+            <qty>16</qty>
+            <unit>ounces</unit></amt>
+          <item>Frozen okra; (4 cups cut)</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>medium</unit></amt>
+          <item>Onion; (1-1/2 cups thinly sliced)</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>medium</unit></amt>
+          <item>Green bell pepper; cored (1-1/2 cups sliced)</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>medium</unit></amt>
+          <item>Celery stalks; (1-1/2 cups sliced)</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>medium</unit></amt>
+          <item>Garlic cloves; crushed</item></ing></ing-div>
+      <ing-div>
+        <title>ROUX</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vegetable oil for roux; optional, *see note</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>All-purpose flour; sifted</item></ing></ing-div>
+      <ing-div>
+        <title>REST</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cayenne pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>No-salt-added whole tomatoes; with juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Corn kernels; *see note</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Frozen baby lima beans</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Worcestershire sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>File*; to thicken</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper; to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Worcestershire sauce; for serving</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Hot pepper sauce; for serving</item></ing></ing-div>
+      <ing-div>
+        <title>FLUFFY RICE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Long-grain white rice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>quarts</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper; to taste</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Prepare a large, nonstick pan with olive oil spray and heat on medium-high
+  heat. Add okra, onion, bell peppers, celery, and garlic. Saute 5 minutes.
+  Remove vegetables to a bowl.
+  
+  ROUX* - Add oil to saucepan and stir in flour. Saute 3 minutes, until flour
+  turns a cocoa color. *For a roux with no fat, omit the oil and brown the
+  flour in a dry pan, over medium heat, stirring constantly. Without oil,
+  flour will burn.
+  
+  Add the 4 cups water little by little, stirring constantly until smooth.
+  Bring to a simmer, add thyme and cayenne. Add tomatoes breaking them up
+  with a spoon. Return vegetables to the pan and simmer 5 minutes. Add corn
+  and lima beans. Continue to simmer 5 minutes. Turn off heat, add
+  Worcestershire sauce, file powder and salt and pepper to taste, and let
+  stand. Serve gumbo with Worcestershire sauce and hot pepper sauce at the
+  table as desired. Serve with hot cooked rice.
+  
+  To make RICE: Bring a large pot of water with 2 to quarts of water to boil.
+  Add rice and boil, uncovered, about 10 minutes. Test a grain. Rice should
+  be cooked through, but not soft. Drain rice in a colander. Run hot water
+  through rice and stir with a fork. Add salt and pepper to taste.
+  
+  (C) Recipe from "Vegetarian Dinner in Minutes," by Linda Gassenheimer
+  (Chronicle Books).
+  
+  &gt;edited by Pat Hanneman (Kitpath) 98-Feb for (C) Eat-LF Mailing List
+  Archive.
+  
+  *FILE : powdered sassafras leaves, most commonly used to flavor and thicken
+  gumbo.
+  
+  Recipe by: Vegetarian Dinner in Minutes by Linda Gassenheimer
+  
+  Posted to EAT-LF Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Feb 18,
+  1998
+ 
+</step></directions></recipe></recipeml>

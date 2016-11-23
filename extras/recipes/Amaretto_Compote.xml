@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Compote</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Desserts</cat>
+        <cat>Mrs. g</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pitted prunes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dried appricots</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Red pears, cored and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Amaretto</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Shredded lemon peel</item></ing></ingredients>
+    <directions>
+      <step>  In a medium saucepan combine water, prunes, and apricots. Bring to a boil.
+  Remove from heat and let stand for 15 min. Drain, reserving 1/2 cup liquid.
+  Leave prunes and apricots on the side. In the 1/2 cup liquid, combine
+  pears, Amaretto, sugar and lemon peel. Cover and simmer 10 minutes until
+  the pears are crisp-tender. Stir in prunes and apricots and heat through.
+  Serve warm over vanilla ice-cream or frozen yogurt. Also makes a wonderful
+  topping for pound cake.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

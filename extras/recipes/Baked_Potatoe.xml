@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potatoe</title>
+      <categories>
+        <cat>Barbeque</cat>
+        <cat>Camping</cat>
+        <cat>Grill/campi</cat>
+        <cat>Potatoes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion</item></ing></ingredients>
+    <directions>
+      <step>  preheat oven to 400 degrees, wash and dry tatoes,. Cut the potatoe (but
+  only 3/4 through) into 4 slices. Slice onion into 1/4 inch slices then in
+  half, put onion inside potatoe slices. Rub potatoe with butter and wrap in
+  tin foil cook for one hour
+  
+  Posted to Bakery-Shoppe Digest V1 #214 by "Pollywog"
+  &lt;hlewis@cci-29palms.com&gt; on Sep 2, 1997
+ 
+</step></directions></recipe></recipeml>

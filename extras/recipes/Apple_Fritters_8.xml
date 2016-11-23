@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Fritters</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apple; peeled, cored, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Self-rising flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Canola oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sifted confectioners' sugar</item></ing></ingredients>
+    <directions>
+      <step>  DIRECTIONS 1. Beat egg. Add sugar. Slowly stir in milk and orange juice. 2.
+  Blend in apple, vanilla and flour. 3. Drop mixture by teaspooonfuls into
+  hot oil. Fry until brown on both sides, about 3 minutes per side. Drain in
+  colander or on paper towels. Dust with confectioners' sugar. Serve warm.
+  Posted to MC-Recipe Digest by "M. Hicks" &lt;nitro_ii@email.msn.com&gt; on Feb
+  16, 1998
+ 
+</step></directions></recipe></recipeml>

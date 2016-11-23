@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>August Goerg's Grilled Steak (Spiessbraten August Goerg)</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Barbecue</cat>
+        <cat>German</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Shallot or small onion cut into small pieces</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Mace</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Steak (just over 1 lb), at least 1 1/4 inches</item></ing></ingredients>
+    <directions>
+      <step>  ((Note:  Per Horst Scharfenberg, this recipe originated in the town of
+  Idar-Oberstein in the 19 th century, when gemstone prospectors returning
+  from South America created their own version of gaucho-grilled steaks. The
+  dish was then further refined by Scharfenberg's mentor August Goerg. K.B.))
+  
+  Per person: thick, trimmed
+  
+  Mix together the shallot or onion with the pepper and mace. Insert a few
+  shallot pieces into the steak using the point of a small knife.  Coat the
+  steak with the shallot mixture, pressing it in so it will adhere.
+  
+  Remove the loose shallot pieces and grill the steak (over a fire of oak
+  logs, says August Goerg, from which the bark has been removed).*  Take the
+  steaks off the grill while they are still pink inside.  Sprinkle them with
+  salt.
+  
+  *Note:  A special grill is used, suspended with 3 chains from an iron
+  tripod and constantly swinging through the flames.
+  
+  From:  THE CUISINES OF GERMANY by Horst Scharfenberg, Simon &amp;
+  Schuster/Poseidon Press, New York.  1989 Posted by: Karin Brewer, Cooking
+  Echo, 8/92
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

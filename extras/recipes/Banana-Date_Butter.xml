@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Date Butter</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>999</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Dried, pitted dates,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Banana, peeled &amp; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  Combine the dates and the juice in a 2 cup measure and cover, microwaving
+  on full power until the dates are soft, about 3 minutes. Let them cool,
+  uncovered, for about 2 minutes. Then tip them into a processor or a blender
+  along with the banana, butter and lemon juice and whiz until the texture is
+  smooth but flecks of date still remain.
+  
+  Serve at room temperature or chilled on waffles, whole-wheat English
+  muffins or rice cakes.
+  
+  Stores covered and refrigerated for up to four days; makes 2/3 cup.
+  
+  Assorted recipes from the Detroit News, entered by Diane Pahl
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

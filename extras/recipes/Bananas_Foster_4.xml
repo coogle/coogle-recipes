@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas Foster</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ripe banana, peeled and sliced lengthwise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Banana liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>White rum</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in a chafing dish. Add brown sugar and blend well. Add banana
+  and saute. Sprinkle with cinnamon. Pour over banana liqueur and rum and
+  ignite, basting banana with flaming liquid. Serve when flame dies out.
+  
+  Source: The New Orleans Restaurant Cookbook, Dierdre Stanforth Recipe:
+  Brennan's
+ 
+</step></directions></recipe></recipeml>

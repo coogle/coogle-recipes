@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Stunning Appetizer</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Aaa</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Smoked salmon; cut in strips</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cream cheese; whipped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black caviar</item></ing></ingredients>
+    <directions>
+      <step>  No oven but want a gourmet snack...try this: Cut smoked salmon (lox) into
+  small strips. Mix together whipped cream cheese (light o.k.) and black
+  caviar. Spread onto lox and roll up into bite size pieces. Serve with wine
+  and bread. Colorful and delicious. These can be made ahead of time too and
+  refrigerated.
+  
+  Recipe by: Mary Jo Angell   (HMUF37A)
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  MarySpero@prodigy.com (MS MARY E SPERO) on Sep 16, 1997
+ 
+</step></directions></recipe></recipeml>

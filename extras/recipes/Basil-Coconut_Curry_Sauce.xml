@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil-Coconut Curry Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Regional</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced fresh ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Minced fresh lemon grass*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dried kaffir lime leaves**</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red curry paste (follows)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Canned coconut milk</item></ing></ingredients>
+    <directions>
+      <step>  * - or 2 teaspoons grated lemon peel
+  ** - or chopped fresh lemon leaves
+  ======================================================= ============== ===
+  1. In a 1 1/2 to 2 quart pan on high heat, bring to a boil white wine,
+  fresh ginger, fresh lemon grass (or lemon peel), kaffir lime leaves and red
+  curry paste. Simmer, covered, for 15 minutes.
+  2. In a blender, whirl mixture with cornstarch and coconut milk until
+  smooth. Return to pan (with 1 tablespoon dried basil leaves if not using
+  fresh, following). Stir sauce over high heat until boiling. If made ahead,
+  chill airtight up to 1 day. Reheat to simmering; if needed, add coconut
+  milk to thin. Stir in fresh basil leaves. Use hot.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

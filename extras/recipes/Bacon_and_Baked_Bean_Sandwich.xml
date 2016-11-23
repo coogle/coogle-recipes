@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Baked Bean Sandwich</title>
+      <categories>
+        <cat>Sandwich</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>THE ULTIMATE SANDWICH CKBK</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Hard cooked egg; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Bacon; cooked</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lettuce</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Baked beans; hot or cold</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Toast</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Assemble.
+  
+  Date: Sun, 23 Jun 1996 14:23:52 -0700
+  
+  From: Dan Schamber &lt;dansch@haven.ios.com&gt;
+  
+  MM-Recipes Digest V3 #175
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bea's Potent Potable</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>25</qty>
+          <unit>ounces</unit></amt>
+        <item>Vodka or run</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pineapple juice (large can)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Frozen pink or white Lemonade (pink looks better)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Black tea</item></ing></ingredients>
+    <directions>
+      <step>  Mix the above ingredients and freeze until slush/ice.  Put one scoop of
+  mixture into a cup and top up with 7-up or Wildberry Cooler.
+  
+  Date: Fri, 7 Jun 1996 23:48:24 GMT
+  
+  From: Oksana Horbach &lt;horbacho@admin.fcbe.edu.on.ca&gt;
+  
+  MM-Recipes Digest V3 #159
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

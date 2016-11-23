@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp #07</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Largish green or cooking apples (granny smith's or macintosh)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit/></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter; not melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground cloves</item></ing></ingredients>
+    <directions>
+      <step>  From: bankler@sheltie.ece.cmu.edu (Brian Bankler)
+  
+  Date: 4 May 1994 14:42:36 GMT
+  
+  Grease casserole dish.  Peel and slice apples and put in dish (fill to
+  below rim of dish). Combine sugar, flour, butter and crumble together with
+  fork. On top of apples sprinkle cinnamon, cloves, water and lemon juice.
+  Cover with topping. Bake 30 minutes at 375F.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /DESSERTS
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

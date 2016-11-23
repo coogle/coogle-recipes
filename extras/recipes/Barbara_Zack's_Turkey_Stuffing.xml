@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbara Zack's Turkey Stuffing</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Stuffings</cat>
+        <cat>Thanksgivin</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken gizzards</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Chicken livers</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Yellow onion; quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Carrots; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Stalks celery; tops removed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>packages</unit></amt>
+        <item>Saltine crackers</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Yellow onion; quartered</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Celery tops</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing></ingredients>
+    <directions>
+      <step>  Cook livers and gizzards separately in enough water to cover until done.
+  Cook vegetables in water until done. Run meat and cooked vegetables through
+  a meat grinder alternately with crackers, raw onions, and celery tops.
+  Season to taste. Stuff turkey loosely. Bake any additional stuffing in a
+  buttered, covered casserole dish.
+  
+  NOTES : This is a very heavy stuffing, but it has a wonderful flavor.  It's
+  an old family recipe that my mother-in-law made every Thanksgiving until
+  her death in 1985. This is from the Lardie side of the family.
+  Recipe by: Barbara Ann Lardie Zack
+  
+  Posted to TNT Recipes Digest by "Barbara Zack" &lt;bzack@leading.net&gt; on May
+  8, 1998
+ 
+</step></directions></recipe></recipeml>

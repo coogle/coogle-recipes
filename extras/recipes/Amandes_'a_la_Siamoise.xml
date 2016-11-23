@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amandes 'a la Siamoise</title>
+      <categories>
+        <cat>Kuchen</cat>
+        <cat>Gebaeck</cat>
+        <cat>Pralinen</cat></categories>
+      <yield>999</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>500 g Zucker</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1/8 l Wasser</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>125 g Puderzucker</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>500 g Mandeln, abgezogen, halbiert und leicht</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Geroestet</item></ing></ingredients>
+    <directions>
+      <step>    Dieses Rezept fuer glasierte Mandeln entstammt einem Buch, das 1698 von
+  Massialot, dem Kuechenchef Ludwigs XIV, verfasst wurde.
+   Den Zucker bei mittlerer Hitze im Wasser aufloesen und den Sirup bis ca.
+  125Grad erhitzen. Den Topf von der Kochstelle nehmen und die geroesteten
+  Mandeln hineingeben. Die Mischung auf einen mit Butter oder Oel
+  bestrichenen, auf einem Rost ausgebreiteten Bogen Pergamentpapier geben und
+  hart werden lassen Oder aber die Mandelhaelften einzeln mit einem Loeffel
+  aus dem Sirup heben, in Puderzucker waelzen und auf Pergamentpapier
+  trocknen lassen. Erfasser: Marco Datum: 13.01.1993 Stichworte:
+  Suessigkeiten, Kuchen, Gebaeck
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

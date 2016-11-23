@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lemon Chicken</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Boneless chicken breasts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove minced garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Bone and pound the chicken breasts. Dreddge with flour. Melt the butter in
+  a baking pan. Coat chicken on all sides, turning skin side up if not
+  boneless. Bake at 375 degrees, brushing with pan drippings for 30 minutes.
+  Meanwhile, make the lemon baste, where you mix 1/3 cup lemon juice, minced
+  onion, garlic and salt and pepper. Brush chicken with part of the baste,
+  and bake, brushing with the remaining baster for 30 minutes longer or until
+  done. Serve with rice and a vegetable.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by louiseh@juno.com
+  on Jul 22, 1997
+ 
+</step></directions></recipe></recipeml>

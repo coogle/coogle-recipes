@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Heart</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Beef</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>TO BRAISE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Fresh, Beef Heart</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing></ing-div>
+      <ing-div>
+        <title>TO COOK IN LIQUID</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Fresh, Beef Heart</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt, per quart of water</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Water, sufficient to cover heart in kettle</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  TO BRAISE:  Cook whole heart on all sides after first rubbing with oil,
+  salt and pepper, until just brown. Add 1/2 cup water. Heat to boiling;
+  reduce heat immediately. Cover and simmer on top of range, or in 300 degree
+  oven until tender, about 3 to 4 hours. TO COOK IN LIQUID: Cover heart with
+  water; add salt to water and heat to boiling; skim surface and reduce heat
+  to simmer.  Cover and simmer until tender about 3 to 4 hours. Serve with
+  small bowls of cider vinegar or horseradish for dipping.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

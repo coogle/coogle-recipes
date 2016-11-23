@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lasagna with Asparagus and Pesto</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Asparagus, medium-sized</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Recipe basic pasta, rolled to thinnest setting, on pasta machine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Salsa balsamella</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Pesto sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Grated pecorino sardo</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Bread crumbs</item></ing></ing-div>
+      <ing-div>
+        <title>PESTO SAUCE</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Pine nuts</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh basil leaves, picolo fino</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Sea salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Freshly grated parmigiano</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Freshly grated pecorino</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>ounces</unit></amt>
+          <item>Ligurian extra virgin olive oil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a large stone mortar, place pine nuts, basil, garlic and salt and grind
+  with a pestle until paste. Add cheeses and drizzle in olive oil, beating
+  with a wooden spoon. Store in jars, topped with extra virgin olive oil.
+  
+  To Prepare Baked Lasagna Dish:
+  
+  Preheat oven to 425 F. Bring 6 quarts water to boil and add 2 tablespoons
+  salt. Set up ice bath next to boiling water.
+  
+  Trim asparagus and boil one minute. Drain and refresh in ice bath. Remove,
+  drain well, and cut into 4-inch to 5-inch pieces and set aside.
+  
+  Cut pasta into 5-inch squares and drop into same boiling water as
+  asparagus. Cook one minute until tender. Remove and refresh in ice bath.
+  Drain on towels and set aside.
+  
+  In a mixing bowl, stir balsamella, pesto, and grated cheese together until
+  mixed well. Butter 4 gratin dishes and place one piece of 5-inch pasta on
+  the bottom of each one. On top of pasta, place the following: 3 pieces of
+  asparagus, followed by 2 tablespoons pesto, followed by another piece of
+  pasta. Continue with this layering until you have 4 pieces of pasta and 4
+  layers of asparagus and pesto mixture. Lay one more piece of pasta on top,
+  followed by a spoonful of pesto mixture and sprinkle each of the 4 gratin
+  dishes with bread crumbs. Put all 4 dishes in oven and bake for 12 to 15
+  minutes, or until bubbling and golden brown on top. Remove and serve
+  immediately.
+  
+  Yield: 4 servings
+  
+  Recipe by: Molto Mario MB1D32 Posted to MC-Recipe Digest V1 #631 by Sue
+  &lt;suechef@sover.net&gt; on Jun 01, 1997
+ 
+</step></directions></recipe></recipeml>

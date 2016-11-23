@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Appetizer Wieners</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Diabetic</cat>
+        <cat>Microwave</cat>
+        <cat>Meats</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Beef Wieners</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Worcestershire Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Onion Powder</item></ing></ingredients>
+    <directions>
+      <step>  Cut the wieners into eighths and place them on a microwave bowl or paper
+  plate.  Combine the remaining ingredients in a small bowl. Brush half of
+  the mixture over the wieners.
+  
+  With the microwave on HIGH, cook for 1-1/2 minutes, rotating the plate
+  one-half turn after 1 minute. Brush with the remaining sauce mixture.
+  
+  Continue cooking on HIGH for 1 minute.  Place a toothpick in the top of
+  each wiener piece.
+  
+  One Serving: Calories: 43 Carbohydrates: negligible
+  
+   Exchange: 1/3 high-fat meat
+  
+  Source: Diabetic Microwave Cookbook, by Mary Jane Finsand
+         Sterling Publishing (1989), ISBN 0-8069-6957-1,
+         ISBN 0-8069-6960-1 (pbk.)
+  
+  Shared by:  Norman R. Brown
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

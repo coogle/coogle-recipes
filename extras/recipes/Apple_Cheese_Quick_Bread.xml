@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cheese Quick Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Breakfast</cat>
+        <cat>Brunch</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Unsalted butter, softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Whole wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>All purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Double acting baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Granny smith apples,grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Swiss cheese, grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Pecans,chopped</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Apple wedges</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>8oz. Gouda cheese wheel</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>8oz farmer's cheese wheel</item></ing></ing-div>
+      <ing-div>
+        <title>ACCOMPANIMENT</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>8oz.package cream cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Granny smith apples, grated</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a large bowl, cream together the butter and sugar. Beat in the honey and
+  the eggs. Sift together the
+  
+  Enter (?), (N)ext Pg, (P)revious Pg, or (M)enu:
+                                                  Page 3 of 3 flours, baking
+  powder, baking soda and salt into the butter mixture. Stir mixture until it
+  is well combined and stir in the apples, cheese and pecans. Spoon into well
+  greased 9x5 loaf pan. Bake at 350F for 50-60 minutes, or until toothpick
+  comes out clean. Remove from pan. Cool completely. Serve sliced bread with
+  accompaniments. Garnish with cheese wheels and apple wedges. (dip apple
+  wedges in lemon juice to preserve color). Converted by MMCONV vers. 1.10
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Babka (Noodle Pudding)</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Egg noodles or spaghetti</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Melted butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cherry, apricot or strawberry preserves</item></ing></ingredients>
+    <directions>
+      <step>  Cook noodles in boiling salted water until almost done. Drain. Place in a
+  mixing bowl with butter; toss to coat. In a separate bowl, beat eggs, milk
+  and sugar until well blended. Combine with noodles. Pour into a greased
+  13x9 inch baking pan.  Bake at 350 for about 35 minutes or until puffy and
+  noodles begin to brown at edges. Cut into squares and serve hot or cold
+  with fruit preserves.
+  
+  Taste Of Home, Recipe by:  Lydia Robotewskyj
+  
+  Posted to EAT-L Digest  2 November 96
+  
+  Date:    Sun, 3 Nov 1996 16:17:04 -0600
+  
+  From:    Pam and KerryAnn Cobb &lt;priss@AMARANTH.COM&gt;
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Tapioca</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Crockpot</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Peeled, sliced apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Instant tapioca</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Boiling water</item></ing></ingredients>
+    <directions>
+      <step>  In medium bowl, toss apples with brown sugar, cinnamon, salt and tapioca
+  until evenly coated.  Place apples in slow cooker. Pour lemon juice over
+  top.
+   Pour in boiling water.  Cook on high for 3-4 hours. Serves 4 Source: Home
+  Cooking  Typed in MMFormat by cjhartlin@msn.com 01/02/98
+  Posted to MM-Recipes Digest V5 #027 by "Cindy Hartlin"
+  &lt;cjhartlin@email.msn.com&gt; on Jan 26, 1998
+ 
+</step></directions></recipe></recipeml>

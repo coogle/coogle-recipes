@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Pear with Crab, Pear, Peach and Primroses</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Flowers</cat>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Avocadoes</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Crab meat; 225</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Pear; ripe</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Peach; ripe</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Primrose petals; freshly picked</item></ing></ing-div>
+      <ing-div>
+        <title>CREAMY VINAIGRETTE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dry mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Garlic clove; crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>White wine vinegar; or lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>9</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing></ing-div>
+      <ing-div>
+        <title>TO MAKE "CREAMY" TO 6 TB ADD</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Heavy cream</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  CREAMY VINAIGRETTE: Put all ingredients in a screw top jar and shake
+  vigourously. Shake well each time before serving. Add 3 Tbsp heavy cream to
+  6 Tbsp vinaigrette to amke it creamy.  (Use this portion immediately as it
+  will not keep.) Halve the avocadoes and remove the stones. Mix the crab
+  meat with the vinaigrette and fill the avocadoes with this mixture. Peel
+  and slice the pear and peach and tuck slices into the crab meat. Decorate
+  the avocadoes with fresh primroses and serve immediately with thin finfers
+  of toast and butter. SERVES:4
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

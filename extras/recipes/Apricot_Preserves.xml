@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Preserves</title>
+      <categories>
+        <cat>Spreads</cat>
+        <cat>Jams</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>kilograms</unit></amt>
+        <item>Pitted, very ripe apricots (8 lbs 12 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/4</qty>
+          <unit>kilograms</unit></amt>
+        <item>Sugar (7 lbs)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>packages</unit></amt>
+        <item>"Einsiedehilfe" ('Preserving Aid') dissolved in</item></ing></ingredients>
+    <directions>
+      <step>  hot water
+  
+  Cook apricots and sugar to setting point, continually skimming off foam.
+  Shortly before done, add lemon juice. Remove from heat. Stir in 'Preserving
+  Aid' dissolved in hot water. Pour into hot, dry, sterilized jars. Seal jars
+  with cellophane the top of which has been dipped in rum and smooth the
+  overhang over the jars' necks, tying with thin twine.
+  
+  Makes 12 half-liter jars and one quarter-liter jar. (Between 13 and 14 1
+  pint jars).
+  
+  "Einsiedehilfe" ('Preserving Aid') is sold (in Austria) in 15 gram packages
+  and consists of 65 percent sugar and 35 percent benzoic acid.
+  
+  To test for setting point:  Spoon a little of the conserve onto a chilled
+  saucer. Leave for a few minutes - then hold saucer upside down. If conserve
+  doesn't run, then setting point has been reached.
+  
+  From:  Maria Baumgartner (Karin Brewer's mother), Vienna, Austria Posted
+  by:  Karin Brewer, Cooking Echo, 6/92
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

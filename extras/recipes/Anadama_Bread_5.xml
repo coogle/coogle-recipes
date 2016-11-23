@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anadama Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Low fat</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Yellow cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Place cornmeal into a bowl. Carefully pour boiling  water into cornmeal,
+  stirring to make sure it is  smooth. Let stand for about 30 minutes. Stir
+  in molasses, salt and butter. Place yeast into the abm pan, bread flour,
+  then cornmeal mixture. Select white bread and push start. NOTE: An early
+  American recipe. Source:.......From Loafing It by DAK
+  
+  &gt;From: bj29@mirage.skypoint.com (bjjan)
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : Loafing It by DAK
+ 
+</step></directions></recipe></recipeml>

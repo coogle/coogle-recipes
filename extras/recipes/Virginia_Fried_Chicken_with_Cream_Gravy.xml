@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Virginia Fried Chicken with Cream Gravy</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Cut up chicken</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>+ 2 Tbls. flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg 3/4 cup unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Bourbon</item></ing></ingredients>
+    <directions>
+      <step>  Remove skin from chicken. Combine 1/2 cup flour, 1/2 tsp. salt,
+  pepper, allspice &amp; nutmeg in large paper bag. Place chicken a few
+  pieces as a time in bag &amp; shake to coat evenly. Heat oven to 275.
+  Melt 1/2 cup butter with 1 Tbls. oil in large, heavy skillet over med
+  low heat. (Do not let butter burn.) Gently place chicken in skillet.
+  Do not crowd pieces; use 2 skillets if necessary. Saute over med low
+  until golden, 12 minutes on each side. Add more oil &amp; butter as
+  needed. Remove chicken; drain on paper towels. Place chicken in
+  shallow baking pan; transfer to oven. Bake chicken uncovered 30
+  minutes to 1 hour. Meanwhile, drain all but 2 Tbls. fat from skillet.
+  Stir in 2 Tbls. flour over low heat; cook, stirring constantly, 2
+  minutes. Whisk in stock, scraping bottom &amp; sides of pan. Stir in
+  cream; cook over low heat for 20 minutes. Season with salt &amp; pepper.
+  Just before serving, add bourbon. Spoon some of the sauce over
+  chicken; pass remaining sauce.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

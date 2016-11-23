@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aloha Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Banana; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, all-purpose; sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pinapple crushed 15 1/2 oz can</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Coconut</item></ing></ingredients>
+    <directions>
+      <step>  Cream butter and sugar until fluffy. Add eggs and mix well. Stir in
+  bananas. Sift flour, baking powder, baking soda and salt together. Add to
+  cream mixture and mix well. Fold in undrained pineapple and coconut. Grease
+  and flour two 9 x 5 loaf pans. Pour batter into pans. Bale at 350 for 70
+  minutes until tester come out clean. Remove from pans to cool
+  Posted to EAT-L Digest 27 Jul 96
+  
+  Date:    Sun, 28 Jul 1996 21:37:04 -0400
+  
+  From:    Debbie Grayson &lt;Blueiis1@AOL.COM&gt;
+ 
+</step></directions></recipe></recipeml>

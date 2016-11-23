@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Apricot Smoothie</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple; Golden Delicious, peeled; cored &amp; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Apricots; fresh, pitted, skin optional</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Yogurt; plain</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Ice cubes; up to 12 cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey</item></ing></ingredients>
+    <directions>
+      <step>  Place all ingredients in a blender and puree until smooth.
+  
+  Serves 2-4 Preparation time: 5 minutes
+  
+  SOURCE: _Apples_ by Robert Berkeley
+  
+  Date: Thu, 6 Jun 1996 00:09:05 -0400
+  
+  From: BobbieB1@aol.com
+  
+  MM-Recipes Digest V3 #157
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

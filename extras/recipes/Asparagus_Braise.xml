@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Braise</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Oriental</cat>
+        <cat>Wok</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus, thinly sliced on the diagonal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bamboo shoots, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water chestnuts, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Celery, sliced diagonally OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Celery stalk, sliced diagonally</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh mushrooms, sliced OR</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Canned mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cashews (opt)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  1. Clean and prepare vegetables.
+  
+  2. Heat oil in wok to smoking point. Stir fry asparagus in wok for
+  about 2 minutes. Reduce heat to low medium, cover wok and cook
+  asparagus for 5 more minutes, lifting cover 3-4 times to stir it. At
+  the end of 5 minutes, add all the other ingredients except cashews
+  raise heat 1 notch, stir fry 3 minutes with cover over wok. Lift
+  cover at least once or twice to stir vegetables, so all will be
+  cooked through. Place food in platter, if desired sprinkle cashews
+  over all.
+  
+  NOTE: A very lovely party dish, especially in spring, when asparagus
+  is available.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cc-wok.zip
+ 
+</step></directions></recipe></recipeml>

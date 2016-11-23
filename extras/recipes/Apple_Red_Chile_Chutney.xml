@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Red Chile Chutney</title>
+      <categories>
+        <cat>Indian</cat>
+        <cat>Condiment</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Granny Smith apples, peeled, cored and coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Fresh red chilies (or hydrated dried chilies), diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Cloves garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped fresh marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Toasted pine nuts (optional)</item></ing></ingredients>
+    <directions>
+      <step>  To prepare the chutney, place apples and chilies in a heavy saucepan
+  with sugar, vinegar, garlic and water.  Bring to boiling over medium
+  heat, lower the heat, partially cover the pan and simmer, stirring
+  occasionally, for 30 minutes.
+  
+  Stir in marjoram and add pine nuts.  Allow to cool, then refrigerate.
+  Use within a few days.
+  
+  Makes about two cups.
+  
+  The San Mateo Times.  6/26/90
+  
+  Posted by Stephen Ceideburg July 27 1990.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

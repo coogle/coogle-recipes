@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Gateau</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Soft butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sliced almonds</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>C and H Golden Brown Sugar</item></ing></ing-div>
+      <ing-div>
+        <title>CAKE</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>C and H Golden Brown Sugar firmly packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Pound cake mix (17 oz.)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Topping: Spread a 9-inch tube pan with soft butter in an even thick layer
+  on bottom and 2/3 way up the sides.  Pat almonds evenly over butter.
+  Sprinkle brown sugar on bottom.
+  
+  Cake: Combine brown sugar with cake mix and prepare according to package
+  directions.  Pour batter into prepared pan.  Bake in 325 degree oven 1
+  hour or until golden brown.  To remove cake, invert on serving plate.
+  Serve cold.
+  
+  If using a loose bottom tube pan place foil under pan to protect oven.
+  
+  Reprinted with permission from _Just Cakes_
+  From the C and H Sugar Kitchen
+  Electronic format by Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/c_hsugar.zip
+ 
+</step></directions></recipe></recipeml>

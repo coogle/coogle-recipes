@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anita's Italian Herb Bread Abm</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, bread</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Basil leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Buttermilk, powdered</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Cheese, Parmesan, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>7/8</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Bring bread ingredients to room temperature and pour into bakery, in order.
+  Set "baking control" at 10 o'clock. Select "white bread" and push Start.
+  
+  For best results, use the finest and freshest ingredients available. That
+  is especially true for this particular recipe.
+   Lois' sister Anita, who loves Italian food, will tell you that this
+  fabulous bread is well worth the trip to your nearest Italian market or
+  deli to purchase a chunk of imported Parmesan.
+   You'll be disappointed with anything less, once you've tried it.
+  
+  Tested in DAK R2D2.  Sylvia's comments:
+  
+  Source: _Bread Machine Magic_ by Linda Rehberg &amp; Lois Conway
+  
+  MM by Sylvia Steiger, GEnie THE.STEIGERS, CI$ 71511,2253, GT Cookbook echo
+  moderator at net/node 004/005
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

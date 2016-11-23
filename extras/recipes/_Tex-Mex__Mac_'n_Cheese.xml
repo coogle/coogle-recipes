@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Tex-Mex" Mac 'n Cheese</title>
+      <categories>
+        <cat/></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>OR ground turkey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bell pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mushroom; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Whole kernel corn --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Undrained</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, pepper; seasonings --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>As desired</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Macaroni and cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>OR Velveeta and Shells</item></ing></ingredients>
+    <directions>
+      <step>  In large skillet, brown the ground beef or turkey with the chopped pepper,
+  onion and mushrooms.  Stir in the tomato paste and water and corn. Cook the
+  macaroni and cheese according to package directions, adding milk and
+  margarine if required.  Add the macaroni and cheese to the beef mixture.
+  Mix well and serve.
+  Recipe By     : Concord Hospital Admitting Cookbook, Concord, NH
+  Posted to MC-Recipe Digest V1 #342
+  
+  From: Gruenwald &lt;sitm@ekx.infi.net&gt;
+  
+  Date: Fri, 13 Dec 1996 00:02:57 -0600
+ 
+</step></directions></recipe></recipeml>

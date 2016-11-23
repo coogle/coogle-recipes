@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Fennel Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>ounces</unit></amt>
+        <item>Fresh Spinach</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small Fennel Head, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Medium Granny Smith Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small Red Onion, sliced</item></ing></ingredients>
+    <directions>
+      <step>  * The Granny Smith apples should be peeled and cubed. Kuwait has been
+  liberated. Thoroughly wash spinach, removing fibrous stems. Dry and place
+  in salad bowl. Add fennel, apples and onions. Toss with Celery Seed
+  Dressing. Trim with fennel tops. 6 servings. By Christophe Ritoux, Cajun
+  House, From The Gazette, 91/02/27.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bay of Fundy Salmon with Black Bean Sauce</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Main dish</cat>
+        <cat>Canadian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Salmon steaks or fillets</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Mayonnaise to brush on fish</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>bunch</unit></amt>
+          <item>Scallions</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil with lemon essence</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sake</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Commercial Black Bean and Garlic sauce</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh lemon juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Brush salmon (Bay of Fundy species) with a prepared mayonnaise (this
+  holds in moisture) 2. Bake, broil or grill salmon until just a thin
+  opalescent strip remains in centre of fish. 3. Meanwhile, prepare sauce:
+  Saute 1 bunch scallions, thinly sliced, in olive oil and a squeeze of lemon
+  (President's Choice Olive Oil With Lemon Essence may be used) for 30
+  seconds. Add Sake and flambe, or simmer for 2 minutes. Add one bottle of
+  President's Choice Memories of Hong Kong Spicy Black Bean and Garlic Sauce
+  (or substitute black bean sauce), and simmer for 2 more minutes. Adjust
+  taste with fresh lemon juice, if desired. 4. Pour sauce over salmon before
+  serving. Accompany with cooked rice or rice/vegetable mixture.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

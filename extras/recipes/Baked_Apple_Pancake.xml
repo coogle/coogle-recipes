@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apple Pancake</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Granny smith apples; peeled, cored; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Stick unsalted butter</item></ing></ingredients>
+    <directions>
+      <step>  1. Heat oven to 425 degrees. Lightly oil a 10-inch cast-iron skillet. Toss
+  apples with both sugars and cinnamon in a large bowl.
+  
+  2. Mix milk and eggs in a blender or food processor; add flour and salt and
+  mix to combine.
+  
+  3. Melt butter in prepared skillet over medium heat. Add apple mixture;
+  cook, stirring often, until sugar melts, about 5 minutes. Remove from heat
+  and pour batter over.
+  
+  4. Bake until pancake is puffed and golden, 20 to 30 minutes. Serve at
+  once. Yield: 2 to 4 servings.
+  
+  JAPLADY@NWU.EDU (REBECCA RADNOR)
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baby Bird Food</title>
+      <categories>
+        <cat>Make</cat>
+        <cat>Your</cat>
+        <cat>Own</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Ken-L Ration dog food</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Hard-boiled egg; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Hi-Protein baby cereal</item></ing></ingredients>
+    <directions>
+      <step>  Mix well. Form into rather large pellets (the size of a raisin). Offer to
+  birds every half hour, feeding as much as they will take each time. Mixture
+  may be refrigerated. Offer water from medicine dropper, but very little is
+  needed and should be given carefully to avoid aspiration into lungs causing
+  pneumonia. It is next to impossible to overfeed.
+  
+  Note: It is illegal in most states to cage most wild baby birds, but this
+  food may save them until they can be released.
+  
+  Recipe by: When Fall From A Nest.
+  
+  Posted to recipelu-digest Volume 01 Number 364 by "Diane Geary"
+  &lt;diane@keyway.net&gt; on Dec 12, 1997
+ 
+</step></directions></recipe></recipeml>

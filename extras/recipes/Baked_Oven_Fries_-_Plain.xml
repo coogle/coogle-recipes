@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Oven Fries - Plain</title>
+      <categories>
+        <cat>Side dishes</cat>
+        <cat>Snacks</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Baking potatoes, peeled and</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>And cut into this strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 450 degrees.
+  
+  2. Combine all ingredients in a bowl, toss well.  Arrange the potatoes in a
+  single layer on a baking sheet.  Bake for 35 minutes or until golden.
+  Posted to recipelu-digest Volume 01 Number 668 by Kelly Burleson
+  &lt;kelly@hci.net&gt; on Feb 01, 1998
+ 
+</step></directions></recipe></recipeml>

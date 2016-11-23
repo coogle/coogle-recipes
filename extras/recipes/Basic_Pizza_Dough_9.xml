@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pizza Dough</title>
+      <categories>
+        <cat>Pizza</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water (110 degrees F.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water (110 degrees F.)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>About 3 1/2 cups unbleached flour</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve the yeast and sugar in the 1/3 cup warm water.  Let it proof
+  until puffy, about 10 minutes.
+  
+  Stir together the yeast mixture, remaining warm water, honey, salt,
+  olive oil and 1 cup of the flour in a large mixing bowl.  Whisk until
+  blended. Add remaining flour, a little at a time.
+  
+  Turn out the dough onto a floured board and let rest for 5 to 10
+  minutes while you wash the bowl and rub it with a few teaspoons of
+  olive oil. Then knead dough for 3 minutes.  Place dough in bowl and
+  turn to coat it well with the olive oil.  Let rise for about 1 hour,
+  or until doubled in bulk.
+  
+  Punch down dough.  At this point you may form the pizzas, or
+  refrigerate the dough for several hours, well wrapped in plastic so
+  it won't dry out. (Although a refrigerator rest is not necessary, it
+  makes the dough easier to handle.)
+  
+  Makes enough dough for two 12-inch pizzas, or two 10-inch thick-crust
+  pizzas.
+  
+  San Francisco Chronicle, 2/6/91.
+  
+  Posted by Stephen Ceideburg; February 13 1991.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

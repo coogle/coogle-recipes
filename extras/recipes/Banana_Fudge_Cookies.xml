@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Fudge Cookies</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>40</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>18 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Package chocolate cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Mashed bananas, ripe</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Semisweet chocolate pieces</item></ing></ingredients>
+    <directions>
+      <step>  Combine cake mix, bananas, egg, and water in a bowl. Beat with electric
+  mixer at medium speed until smooth. Stir in chocolate pieces. Drop by
+  rounded teaspoonfuls, about 2 inches apart, on greased baking sheets. Bake
+  in 350 degree oven 8 minutes or until done. Remove from baking sheets; cool
+  on racks. Makes 3 1/2 dozen.
+ 
+</step></directions></recipe></recipeml>

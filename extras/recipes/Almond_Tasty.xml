@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Tasty</title>
+      <categories>
+        <cat>Alcohol</cat>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Unsalted almonds, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chocolate extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Vanilla bean (1 inch)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Orange peel, scraped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Vodka</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Lemon wedge, scraped peel</item></ing></ingredients>
+    <directions>
+      <step>  Lightly pound almonds with hammer (in bag or cover with paper towel) and
+  combine with other ingredients in bottle. Be sure to thoroughly scrape
+  orange and lemon peels. Let steep for two weeks, turning bottle
+  occasionally. The chocolate extract tends to settle on the bottom and the
+  finished liqueur may need to be mixed before serving. Strain and filter.
+  Experiment with different variations of this recipe, perhaps alternating
+  hazelnuts or adding some spices. Yield: 1 pint Container: Wide mouth quart
+  jar
+ 
+</step></directions></recipe></recipeml>

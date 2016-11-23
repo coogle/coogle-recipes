@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Ice Cream</title>
+      <categories>
+        <cat>Ice</cat>
+        <cat>Cream</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Blanched almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Superfine sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Kirsch</item></ing></ingredients>
+    <directions>
+      <step>  Pound the almond into paste. Add milk and heavy cream, mix thoroughly
+  together. In a saucepan, heat the almond mixture to a boil. Remove from
+  heat. In a bowl, mix egg yolks, sugar and kirsch for 5 minutes. Add almond
+  milk and mix well with wooden spoon. Heat the mixture over low heat for 5
+  minutes without letting it boil.  Stir continuously. Then allow it to cool.
+  Strain through a sieve into ice cream maker and freeze until the ice cream
+  is thoroughly firm.
+  
+  I think you can probably use instant almond paste or almond extract instead
+  of pounding almond.  Be careful that the paste or extract is sweetened or
+  not. Also, you can add chopped fruits or nuts into the mixture. Just use
+  your imagination and creativity.
+  
+  Posted to EAT-L Digest - 18 Jun 96
+  
+  Date:    Tue, 18 Jun 1996 14:53:35 -0700
+  
+  From:    Sally Eisenberg &lt;sparky@NETGATE.NET&gt;
+  
+  Recipe By     : ohio-state.edu
+ 
+</step></directions></recipe></recipeml>

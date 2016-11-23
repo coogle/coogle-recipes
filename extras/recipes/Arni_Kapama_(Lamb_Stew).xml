@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arni Kapama (Lamb Stew)</title>
+      <categories>
+        <cat>Lamb/mutton</cat>
+        <cat>Greece</cat>
+        <cat>Archived</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Stewing lamb, cut in cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>Lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chopped tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>small</unit></amt>
+        <item>Piece cinnamon (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Sprinkle lemon juice over meat and leave for 1 hour.  Heat butter in a
+  frying pan and brown meat.  Transfer to large saucepan.  Put tomatoes in
+  frying pan.  Add salt, peeper, cinnamon and sugar.  Boil for 5 minutes and
+  add to meat.  Simmer covered for 2 hours.  Serve with potatoes, rice,
+  macaroni or spaghetti.  Serves 4 to 5. Arni Kapama (Lamb Stew)
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

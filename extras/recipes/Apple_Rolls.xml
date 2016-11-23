@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Rolls</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Misc</cat>
+        <cat>1941</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Pared, sliced apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted butter or butter substitute</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing></ingredients>
+    <directions>
+      <step>  Sift flour, measure, and sift with baking powder and salt. Cut in
+  shortening with 2 spatulas.  Add milk, Mix quickly and lightly. Turn onto
+  lightly floured board. Roll in oblong sheet 1/4 inch thick. Brush with
+  melted butter.  Cover with apples. Sprinkle with 1 cup sugar and the
+  cinnamon which have been mixed. Roll like a jelly roll. Cut in slices 1 1/2
+  inches thick. Sprinkle 1/4 cup brown sugar over bottom of well-oiled pan.
+  Place rolls, cut down, in pan.  Bake in hot oven (425ø F) about 40 minutes.
+  8 servings. Anna D. Larsen, Alpha, MN.
+  
+  Converted by MMCONV vers. 1.20
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waffles #2</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped pecans</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted butter</item></ing></ingredients>
+    <directions>
+      <step>  Combine flour, baking powder, salt &amp; sugar. Separate eggs. Beat egg yolks;
+  add milk &amp; beer. Add chopped pecans &amp; dry ingredients &amp; mix just enough to
+  blend. Add melted butter. Allow batter to stand overnight to permit
+  fermentation of beer. Just prior to baking waffles, beat whites of eggs
+  until stiff &amp; fold into batter. Pour enough batter into waffle iron so that
+  waffle will rise &amp; contact entire surface, browning evenly. Bake &amp; serve.
+  Yields about 6-8 waffles.
+  
+  COL GARY C. MAHAN
+  
+  TIME INCLUDES OVERNIGHT
+  
+  From the &lt;The Bliss of Cooking Returns&gt;, Fort Bliss Officers Wives Club,
+  Ft. Bliss, TX.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

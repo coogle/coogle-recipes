@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Orzo with Kalamata Olives and Fresh Herbs</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion,; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orzo</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Kalamata olives,; pitted and coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh herbs, i.e. parsley,; basil, oregano, th</item></ing></ingredients>
+    <directions>
+      <step>  In a saucepan heat olive oil over medium heat and cook onions until tender.
+  Add orzo and cook for 2-3 minutes. Add olives and 2 cups of chicken stock
+  and bring to a boil. Simmer for 5 minutes and 2 more cups of chicken stock.
+  Return to a boil and pour into a butter baking dish.
+  
+  Cover with foil and bake at 350 degrees for 20 minutes, stirring once.
+  After 20 minutes check orzo and if necessary add more stock and continue to
+  bake until tender. Sprinkle with fresh chopped herbs and serve hot.
+  
+  Yield: 4 servings
+  Recipe By     :COOK'S CHOICE SEAN &amp; CATHY SHOW #CH1220
+  
+  Posted to MC-Recipe Digest V1 #263
+  
+  Date: Sun, 27 Oct 1996 20:59:38 -0500
+  
+  From: Meg Antczak &lt;meginny@node1.frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

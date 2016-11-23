@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Tansy</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Fruits/nuts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sweet apples ( golden delici us )</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs, separated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Calvados or rum</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioner's sugar and lem n peel</item></ing></ingredients>
+    <directions>
+      <step>     Core, quarter and pare the apples; shred. Beat egg yolks, sugar, flour,
+  nutmeg and calvados into apples. Beat egg whites stiff, fold into apple
+  mixture. Heat butter in non-stick skillet; add the apple mixture and saute
+  over medium heat until bottom of the omelet is browned ( 2 or 3 minutes ).
+  Turn the omelet and brown other side. Slip omelet onto a warm plate and
+  sprinkle with confectioner's sugar. Source: Ahn Dao
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

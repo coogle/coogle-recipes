@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walter Mcilhenney's Chili</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Spices</cat>
+        <cat>Chili</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean Beef Chuck, 1" Cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Minced Garlic Cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chili Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tabasco Pepper Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Chopped Green Chilies Cooked Rice Chopped Onion Shredded Cheese Sour Cream</item></ing></ingredients>
+    <directions>
+      <step>  TABASCO CLASSIC: Walter McIlhenny was very fond of homemade chili and liked
+  to serve his version to former Marine Corps buddies who visited him on the
+  island.
+  
+  In a 5-quart Dutch oven or heavy saucepan, heat the oil over medium-high
+  heat.  In three batches, brown the beef well, removing each batch with a
+  slotted spoon. Set aside.
+  
+  Add the onion and garlic to the pot and cook for 5 minutes, or until
+  tender, stirring frequently.  Stir in the chili powder, cumin, salt, and
+  Tabasco sauce; cook for 1 minute. Add the water and chilies; bring to a
+  boil.  Return the beef to the pot.  Reduce the heat and simmer uncovered,
+  1-1/2 hours, or until the beef is tender. Serve the chili over rice with
+  onion, cheese and sour cream, if desired.
+ 
+</step></directions></recipe></recipeml>

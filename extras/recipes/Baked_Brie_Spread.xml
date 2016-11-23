@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Brie Spread</title>
+      <categories>
+        <cat>Appetizer</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Rounds brie cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chutney</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon; fried and crumbled</item></ing></ingredients>
+    <directions>
+      <step>  Spread chutney on cheese; top with bacon. Bake at 350 degrees for 20
+  minutes.
+  
+  From a collection of my mother's (Judy Hosey) recipe box which contained
+  lots of her favorite recipes, clippings, etc.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

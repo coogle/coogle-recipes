@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Brisket in Beer</title>
+      <categories>
+        <cat>Crock pot</cat>
+        <cat>Meat</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef roast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onion; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chili sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried thyme; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Trim fat from roast. Cut to fit crockpot. Put meat in, cover with onions,
+  bay leaf. Combine beer, chili sauce, sugar, thyme, salt, pepper, and
+  garlic; pour over meat.
+  
+  Cover and cook on low for 10-12 hours or high for 5-6 hours.
+  
+  Transfer meat to platter and keep warm. Discard bay leaf. Skim fat from
+  cooking juices. Measure 2 1/2 cup juices and place in a saucepan. Combine
+  cornstarch and water; add to saucepan. Cook and stir till thick and bubbly.
+  Cook for 2 min. more. Pass with meat.
+  
+  NOTES : Leftover beer can be frozen for the next time.
+  Posted to MC-Recipe Digest V1 #951 by Vickie &lt;pvreg@gte.net&gt; on Dec 09,
+  1997
+ 
+</step></directions></recipe></recipeml>

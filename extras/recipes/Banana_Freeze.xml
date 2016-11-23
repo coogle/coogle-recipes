@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Freeze</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Eggs, Whites Only</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Vanilla Pudding Mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Banana Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sweet Cherries</item></ing></ingredients>
+    <directions>
+      <step>  Mash the bananas. Cut the cherries in half. Prepare the pudding mix
+  according to package instructions. Stir in the vanilla extract. Stir in the
+  banana extract. Cover with waxed paper. Cool to room temperature. Fold in
+  the mashed bananas and the egg whites. Place paper muffin cups into muffin
+  pan(s). Spoon the pudding into the muffin cups. Freeze until firm. Let
+  stand at room temperature for 30 minutes before serving. Garnish with
+  cherry halves. Serve. Posted to EAT-L Digest by Joel Ehrlich
+  &lt;Joel.Ehrlich@SALATA.COM&gt; on Jul 8, 1997
+ 
+</step></directions></recipe></recipeml>

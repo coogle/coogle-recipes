@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Muffins</title>
+      <categories>
+        <cat>Low-cal</cat>
+        <cat>Low-fat</cat>
+        <cat>Muffins</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole-wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water; * see note</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Combine dry ingredients. Combine wet ingredients. Fold dry and wet
+  ingredients together, until just moistened. Spoon into lightly oiled or
+  non-stick muffin tins. Bake at 350 degrees for 30 minutes.
+  
+  NOTES : * or nut milk instead of water
+  
+  Recipe by: McDougall
+  
+  Posted to JEWISH-FOOD digest Volume 98 #009 by Annice Grinberg
+  &lt;VSANNICE@WEIZMANN.WEIZMANN.AC.IL&gt; on Jan 06, 98
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andouille a la Jeannine</title>
+      <categories>
+        <cat>Cajun</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Andouille or smoked sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Creole mustard</item></ing></ingredients>
+    <directions>
+      <step>  Slice andouille 1/4-to 1/2-inch thick.  Mix all liquid ingredients and pour
+  over andouille in a covered skillet.  Cook over low heat untill andouille
+  is tender.
+  Andouille is gumbo sausage for all you peoples who live away from the
+  center of the universe.  You can use other sausage and it would taste okay.
+  Justin Wilson "Gourmet and Gourmand Cookbook"
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cajun.zip
+ 
+</step></directions></recipe></recipeml>

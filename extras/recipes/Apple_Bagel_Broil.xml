@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Bagel Broil</title>
+      <categories>
+        <cat>Breakfast</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cinnamon raisin bagel (or your choice); split</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Apple; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon sugar; optional</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>American cheese (or your choice)</item></ing></ingredients>
+    <directions>
+      <step>  Lightly toast bagel and spread with butter or margarine while still hot.
+  Top each bagel with apple slices and sprinkle with sinnamon sugar. Place
+  cheese slices on each bagel and broil until cheese is bubbly. Makes 2 half
+  bagels.
+  
+  Posted to FOODWINE Digest 23 Sep 96
+  
+  Date:    Tue, 24 Sep 1996 10:31:50 -0400
+  
+  From:    Laura Hunter &lt;LHunter722@AOL.COM&gt;
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avgolemeno</title>
+      <categories>
+        <cat>Greek</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Uncooked rice or orzo</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>cups</unit></amt>
+        <item>Stock (up to 8)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon, juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs (up to 3)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Prepare a stock by boiling slowly lean lamb, meat bones, or chicken with
+  enough water to cover.  Strain stock when meat is done.  1/2 hour before
+  serving, boil stock and add rice or orzo.  When orzo is done, reduce heat
+  to simmer. In a bowl, beat eggs with 2 Tbsp. water and the lemon juice.
+  Spoon broth into egg mixture STIRRING CONSTANTLY to prevent curdling. After
+  adding about 5 Tbsp. broth to eggs, add eggs to the broth on the stove
+  STIRRING CONSTANTLY. Remove from heat. It should be slightly thick. Serve
+  immediately.  I like this pretty "lemony", so I sometimes add more lemon.
+  From archives of rec.food.recipes
+  
+  Date: Tue, 31 Jan 1995 08:20:10 GMT
+  
+  From: trev@wg.icl.co.uk (Trevor Hall)
+ 
+</step></directions></recipe></recipeml>

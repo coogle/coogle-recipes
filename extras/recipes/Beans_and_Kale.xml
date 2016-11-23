@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beans and Kale</title>
+      <categories>
+        <cat>Beans</cat>
+        <cat>Low-fat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Pinto beans, canned; rinsed and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Crushed red pepper; optional</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>bunches</unit></amt>
+        <item>Kale; stems removed</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing></ingredients>
+    <directions>
+      <step>  Slightly mash beans until they hold together. Stir in lemon juice, salt and
+  freshly ground pepper; crushed pepper if desired (or save to top individual
+  servings). Set aside for room temperature serving, or heat in top of double
+  boiler. Wash and chop the greens into small pieces. In large skillet, heat
+  sauteeing liquid of your choice and cook garlic several minutes. Add greens
+  and cook until wilted and bright green. Add salt and freshly ground pepper.
+  Posted to fatfree digest V96 #246
+  
+  Date: Thu, 5 Sep 1996 13:37:21 -0600
+  
+  From: Linda Brock &lt;mcgimp@dmi.net&gt;
+ 
+</step></directions></recipe></recipeml>

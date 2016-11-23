@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken Salad From Oster Kitchen Center</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Poultry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken -cooked, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery - diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds - blanched</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Potato chips - whole</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon slice - peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Onion - small</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cheddar cheese cubes</item></ing></ingredients>
+    <directions>
+      <step>    Heat oven to 375F.  Grease a 2-quart casserole.  Put
+  chicken and celery into casserole.  Blender - chop
+  nuts and add to chicken. Put 2 cups of potato chips
+  into blender container, cover and process 4 cycles at
+  (stir). Empty onto wax paper and set aside.  Repeat
+  with remaining chips. Put remaining ingredients into
+  container, cover and process at (blend) until smooth.
+  Add to chicken and mix well. Sprinkle potato chip
+  crumbs over top and bake for 30 minutes.
+  
+  A cycle is defined as a 1 second pulse operation with
+  a pause for food to settle before repeating.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

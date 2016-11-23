@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Soup (Zuppa Di Asparagi)</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Soups/stews</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Extra-virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus, trimmed, peeled and cut (1 inch pieces)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Freshly grated Parmesan or pecorino cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Italian bread, toasted</item></ing></ingredients>
+    <directions>
+      <step>  Heat the oil and garlic in a soup pot until the garlic is golden. Add the
+  asparagus and cook until they begin to color. Season with salt and pepper.
+  Add the broth and bring to a boil; reduce the heat and simmer for 15
+  minutes, or until the asparagus is tender.
+  
+  Beat the eggs and cheese together.  When the asparagus is tender, reduce
+  the heat so the soup is no longer simmering. Very slowly ladle some of the
+  hot soup into the beaten eggs, stirring continuously. After adding about 2
+  cups of the hot soup to the eggs, reverse the process and gradually stir
+  the eggs mixture into the soup pot. The soup must not boil or the eggs will
+  scramble.  Heat until thickened.
+  
+  Put one slice of toasted bread into each soup dish. Ladle the hot soup on
+  top and pass additional grated cheese.
+  
+  Serves 6.
+  
+  NOTE:  To trim asparagus, hold the tip in one hand and the base of the
+  stalk in the other.  Bend gently.  The asparagus will snap, leaving the
+  tender part with the tip.
+  
+  [ "We Called It Macaroni"; Nancy Verde Barr; Knopf; ISBN 0-394-55798-0 ]
+  
+  Posted by Fred Peters.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

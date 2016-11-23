@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Layer Cake</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mashed ripe bananas (4 to</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>)</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sifted cake flour</item></ing></ingredients>
+    <directions>
+      <step>  Cream shortening and sugar until light and fluffy.  Add eggs, one at a
+  time, beating well after each addition; stir in vanilla. Add sifted
+  ingredients alternately with bananas; blend until smooth after each
+  addition.  Pour into 2 well-greased 9-inch layer cake pans. Bake in 375
+  degree oven for 30 minutes. Cool 5 minutes, then remove from pans.
+  
+  Variations:
+  
+  Banana Nut Cake:  Fold 1/2 cup chopped nuts into cake batter. Banana Spice
+  Cake: Sift 1/8 teaspoon cloves, 1-1/4 teaspoons cinnamon and 1/2 teaspoon
+  nutmeg with dry ingredients.
+  
+  To Frost:  Spread bottom layer with frosting, cream pie filling, or whipped
+  cream.  Dip banana slices in lemon juice to prevent discoloration. Place
+  slices upright around outer edge of cake.
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

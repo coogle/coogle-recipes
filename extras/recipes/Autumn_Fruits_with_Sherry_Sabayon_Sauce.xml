@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Autumn Fruits with Sherry Sabayon Sauce</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Desserts</cat>
+        <cat>Sauces</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sherry</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Whipping cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Orange peel, grated</item></ing></ing-div>
+      <ing-div>
+        <title>FRUIT</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Cantaloupe</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit/></amt>
+          <item>Figs, fresh -OR-</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pints</unit></amt>
+          <item>Strawberries</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Green grapes</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Almonds, sliced</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Seed cantaloupe; cut into thin slices and peel.  Cut figs into wedges or
+  halve strawberries.
+  
+  Whisk yolks and sugar to blend in top of stainless steel double boiler.
+  Gradually whisk in half of sherry. Set over simmering water and whisk until
+  mixture holds shape for 3 seconds when drizzled from whisk, about 5
+  minutes.  Remove from over water and refrigerate until cool, whisking
+  occasionally.  Beat cream until soft peaks form. Fold into sabayon with
+  remaining sherry and orange peel. Can be prepared 6 hours ahead and
+  chilled.
+  
+  To serve, arrange cantaloupe slices around center of plates. Combine figs
+  or strawberries and grapes and mound in center. Spoon sauce over and
+  sprinkle with toasted almonds.
+  
+  from _Bon Appetit_, October 1987.
+  
+  MM by Sylvia Steiger, GEnie THE.STEIGERS, CI$ 71511,2253, GT Cookbook echo
+  moderator at net/node 004/005
+ 
+</step></directions></recipe></recipeml>

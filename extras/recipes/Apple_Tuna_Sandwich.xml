@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Tuna Sandwich</title>
+      <categories>
+        <cat>Sandwiches</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tuna in water;, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Apple;, halved and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lowfat vanilla yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Whole wheat bread</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Iceberg lettuce leaves</item></ing></ingredients>
+    <directions>
+      <step>  Combine tuna, apple, yogurt, mustard, and honey. Spread 1/2 cup mixture on
+  3 bread slices. Top each with lettuce leaf and remaining bread Place on
+  cutting board. Cut sandwiches in half.
+  
+  Recipe by: Makes 3 servings
+  
+  Posted to recipelu-digest Volume 01 Number 664 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Feb 01, 1998
+ 
+</step></directions></recipe></recipeml>

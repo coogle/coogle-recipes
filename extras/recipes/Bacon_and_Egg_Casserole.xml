@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Egg Casserole</title>
+      <categories>
+        <cat>Breakfast</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Unseasoned croutons</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion/garlic croutons</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Slices bacon</item></ing></ingredients>
+    <directions>
+      <step>  Cook bacon cripsly and crumble Coat a 9x12x2 cassrole dish with vegetable
+  spray.  Place croutons in casserole and pour margarine over them. Sprinkle
+  grated cheese over all. Mix milk, eggs and mustard and pour over cheese.
+  Sprinkle bacon crumbs over all. Bake at 325 degrees F for 45 minutes. Allow
+  casserole to stand for 15 minutes. From the package of Bryan Bacon Posted
+  by:  Grandma Sheila (Exner) July 1991 Courtesy of Shareware RECIPE CLIPPER
+  1.1
+  
+  Posted to recipelu-digest Volume 01 Number 353 by P&amp;S Gruenwald
+  &lt;sitm@ne.infi.net&gt; on Dec 09, 1997
+ 
+</step></directions></recipe></recipeml>

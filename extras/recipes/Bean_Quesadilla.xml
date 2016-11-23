@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Quesadilla</title>
+      <categories>
+        <cat>Beans/peas</cat>
+        <cat>Mexico</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beans With Tomatoes (recipe)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Flour tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Low-fat cheddary; grated</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cumin; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cayenne; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sour cream or plain yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Guacamole (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Drain Beans and tomatoes carefully of excess liquid (save for soup).
+  
+  Fro each quesadilla, spread 1/4 mixture on a flour tortilla, sprinkle on
+  1/4 cup grated cheese and pinch of cumin and/or cayenne (if desired).  Top
+  with another tortilla.  Hea in microwave 2 or 3 minutes, or until cheese is
+  melted.  =OR= Cook on a griddle or nonstick pan; place quesadilla on hot
+  surface for 2 to 3 minutes, turn carefully, and cook an additional 1 or 2
+  minutes until the cheese is melted.
+  
+  Cut into wedges and serve with sour cream or plain yogurt and guacamole if
+  desired.
+  
+  From:  Dan Bowe in The San Francisco Chronicle, 10/26/94, adapted by Linda
+  Shogren Submitted By SAM LEFKOWITZ
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

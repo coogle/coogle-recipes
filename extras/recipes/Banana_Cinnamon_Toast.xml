@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cinnamon Toast</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>large</unit></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Whole wheat bread; toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Light tub margarine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Brown sugar; (or equivalent sugar substitute)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Source: What's For Breakfast
+  
+  Slice banana half into 4 slices lengthwise and place on toast. Drizzle
+  melted margarine over banana. Mix together sugar and cinnamon and sprinkle
+  over banana. Broil until brown and bubbly.
+  Posted to recipelu-digest Volume 01 Number 673 by vergie1@juno.com (Vergie
+  A Ewing) on Feb 1, 1998
+ 
+</step></directions></recipe></recipeml>

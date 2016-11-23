@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Chili</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Pasilla chilies; seeded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ancho chilies; seeded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chili de Arbol; seeded</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Corn tortillas; quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef stew meat; in 1/2" cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Yellow onion; peeled, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic; peeled, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ground Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dark beer</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cinnamon stick</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Sprigs fresh cilantro tied in a bundle</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh lime juice; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground black pepper; to taste</item></ing></ingredients>
+    <directions>
+      <step>  Combine chilies and 1 1/2 cups chicken stock in a medium saucepan over high
+  heat. Bring to a boil, then lower heat and simmer for 10 minutes, stirring
+  twice, or until chilies are soft. Cool slightly. Pour into a blender. Add
+  tortillas and puree until smooth. Chili mixture should be quite thick, with
+  just enough liquid to puree. You may need to add a bit of additional stock.
+  
+  Heat oil in a large saute pan over medium-high heat. When oil smokes, add
+  beef cubes and cook, stirring frequently, for 5 minutes or until just
+  brown. Remove meat with a slotted spoon and set aside.
+  
+  While oil is still hot, stir in onion and cook for 5 minutes or until well
+  browned. When brown, add garlic and cumin and cook for 1 minute. Add chili
+  puree and fry for about 7 minutes or until thick and very dark, stirring
+  often to keep from scorching.
+  
+  When thick, add meat, beer, and 4 cups chicken stock, stirring well. Lower
+  heat and simmer, uncovered, for 1 hour or until very thick and reduced by
+  half. Remove from heat and stir in the cinnamon and cilantro bundle. Let
+  stand, without stirring, for 15 minutes. Remove cinnamon and cilantro and
+  stir in lime juice. Season with salt and pepper.
+  
+  Recipe by: MEXICAN COCKTAIL BUFFET, DEAN FEARING Posted to MC-Recipe Digest
+  V1 #768 by Sue &lt;suechef@sover.net&gt; on Aug 31, 1997
+ 
+</step></directions></recipe></recipeml>

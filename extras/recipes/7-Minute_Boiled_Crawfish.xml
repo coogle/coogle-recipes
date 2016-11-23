@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Minute Boiled Crawfish</title>
+      <categories>
+        <cat>Wildgame</cat>
+        <cat>Seafood</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>pounds</unit></amt>
+        <item>Crawfish, live</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ice cream salt, boxes</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Liquid crab boil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cayenne, lge stirring spoons</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Bay leaves, whole</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Celery, ribs</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Onions, medium</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Lemons or 1 tsp lemon oil</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Oranges, halved</item></ing></ingredients>
+    <directions>
+      <step>  Fill a 60 qt pot 1/2 full. Add all ingredients except crawfish and bring to
+  a boil. Add crawfish. When it boils agains, time for 7 minutes. Remove from
+  fire, add one bucket cold water. Let it soak for one hour. Source:
+  Times-Picayune/States-Item 15 Mar 84 Recipe date: 03/15/84
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

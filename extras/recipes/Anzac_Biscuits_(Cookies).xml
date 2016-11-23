@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anzac Biscuits (Cookies)</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fine sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Treacle (golden corn syrup)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Coconut, flaked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oatmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Plain flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Boiling water</item></ing></ingredients>
+    <directions>
+      <step>  ANZAC day is celebrated in Australia on April 25.  On this day in 1915, the
+  ANZACs (Australian and New Zealand Army Corps) landed at Gallipoli, and
+  suffered the worst defeat in Australian military history. The fallen
+  soldiers of all wars are now commemorated on ANZAC day. Another cookbook
+  stated that these cookies were sold to raise money to help returned
+  veterans.
+  
+  In saucepan place butter, treacle, soda, sugar and mix with boiling water.
+  Bring slowly to boil, remove and add dry ingredients. Mix well. Place
+  spoonfuls about 3 inches apart on well greased cookie tray. Bake at 275F
+  about 25 min.
+  
+  Source:  The Down Under Cookbook c. 1987 Graeme Newman, Albany, New York.
+  converted from his mother's handwritten cookbook to US measures. Shared by
+  Elizabeth Rodier 6/93 (not yet tested)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

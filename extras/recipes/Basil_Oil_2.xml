@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Oil</title>
+      <categories>
+        <cat>Cooking liv</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Basil leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable or olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Bring a large saucepan of salted water to a boil. Blanch the basil leaves
+  for 15 seconds, immediately transfer to a bowl of iced water and drain.
+  Coarsely chop the basil, squeezing out
+  
+  any excess water between paper towels. In a blender combine the chopped
+  basil and oil and puree for 3 to 4 minutes or until bright green. Pour into
+  a jar or other air tight container, cover, and refrigerate for 1 day.
+  Strain the oil through cheesecloth and refrigerate for another 24 hours.
+  Bring oil to room temperature to use.
+  
+  Yield: about 2 cups
+  
+  Recipe by: Cooking Live Show #CL8906 Posted to MC-Recipe Digest V1 #652 by
+  "Angele and Jon Freeman" &lt;jfreeman@netusa1.net&gt; on Jun 30, 1997
+ 
+</step></directions></recipe></recipeml>

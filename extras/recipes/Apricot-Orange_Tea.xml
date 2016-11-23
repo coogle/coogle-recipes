@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot-Orange Tea</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Beverages</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FROM LOIS FLACK</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>A COLD-WEATHER WARMER</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Apricot nectar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Lemon slices</item></ing>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Whole cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Instant tea</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1.  Combine apricot nectar, orange juice, water, sugar, and cinnamon
+  in a medium-size sauce-pan.  Insert cloves into each lemon slice; add
+  to sauce-pan.
+  
+  2.  Heat just to boiling; reduce heat; cover. Simmer 5 minutes.  Stir
+  in tea.
+  
+  Serve hot.
+  
+  Source: "Family Circle Illustrated Library of Cooking"
+  
+  Typed for you by: Lois Flack, CYBEREALM BBS, Watertown, NY.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber4.zip
+ 
+</step></directions></recipe></recipeml>

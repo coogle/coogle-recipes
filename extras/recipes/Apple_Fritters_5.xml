@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Fritters</title>
+      <categories>
+        <cat>Irish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>ounces</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs (separated)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Melted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Large cooking apples</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for deep frying</item></ing></ingredients>
+    <directions>
+      <step>  Make batter at least an hour before required, using following method. Sift
+  together flour and salt.  Make a well in the center.  Add the cooled melted
+  butter and some of the water and egg yolks.  Work in the flour and beat
+  until smooth.  Add remaining water.  Leave to stand. Just before using ,
+  beat the egg whites until stiff but not dry. Fold into batter mix.
+   Peel, core and slice apples (slices about 1/4-1/2 inch thick).  Dip into
+  batter and deep fry in very hot oil (175-180C) until golden. Drain and
+  serve dredged with sugar and sprinkled with lemon juice.
+  Posted to MM-Recipes Digest V4 #257 by SVQF34B@prodigy.com ( L M SMITH) on
+  Sep 27, 1997
+ 
+</step></directions></recipe></recipeml>

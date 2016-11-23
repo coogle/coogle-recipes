@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Peach Drink</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Very ripe bananas;cut into pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Very ripe peaches;peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mint leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>Jane &lt;lmuiw@SERVER.INDO.NET.ID&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Fri, 26 Jul 1996 23:28:24 +0700</item></ing></ingredients>
+    <directions>
+      <step>  Freeze banana slices and peaches until very firm.When fruits are
+  frozen,place in a blender with the milk,sugar and lemon juice.Blend at high
+  speed,pushing the fruit down carefully,until the mixture is blended and has
+  the consistency of soft ice cream.Garnish with fresh mint leaves and fruit
+  slices,if desired.Serve immediately.  Makes 2 cups.
+  
+  EAT-L Digest 25 July 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amish Apple Dumplings</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Apples, peeled and cored</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>White sugar, approx</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Pie pastry for 2 pies</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar sauce:</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mace</item></ing></ingredients>
+    <directions>
+      <step>  Roll out pastry and cut into squares enough  to cover apples completely.
+  Peel and core apples.  Roll in lemon juice. Then roll in white sugar and
+  cinnamon combined. Place on pastry square. Stuff core cavity with brown
+  sugar, butter, brown sugar in equal parts. (The amount depends on size of
+  core cavity, just stuff full.) Fold pastry up around apple to completely
+  enclose it.  Place in pan. Prepare sugar sauce by mixing water, sugar,
+  vanilla, butter, nutmeg, and mace and boiling for 1 minute. Let cool
+  slightly.  Pour over Apples. Bake in 375 F oven for 1 hour. Serve warm.
+  Note:  Apples may be frozen in pastry (before sugar sauce is added) if
+  desired.  Good dessert to make ahead if you have lots of apples around.
+  Just let thaw when ready to use, and cover with sugar sauce and bake as
+  usual.
+  
+  Source:  Amish Cooking in Quilt Country show Typed by: Melissa Mierau,
+  Martensville, SK
+ 
+</step></directions></recipe></recipeml>

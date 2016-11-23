@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Ruth Packard's Potato Chip Cookies</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sticks of butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Crushed potato chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 350 degrees.  Mix margarine and sugar and vanilla.  Add
+  crushed potato chips and nuts mixed with flour.  Roll into balls
+  about the size of a walnut and place on ungreased cookie sheet.
+  Flatten down with a glass that has been dipped into sugar.  Bake for
+  14-16 minutes. Makes approximately 5 dozen cookies
+  
+  From Dottie Theriault's collection
+  Posted to MM-Recipes Digest V3 #237
+  
+  Date: Sat, 31 Aug 1996 08:34:56 -0500
+  
+  From: pickell@cyberspc.mb.ca (S.Pickell)
+ 
+</step></directions></recipe></recipeml>

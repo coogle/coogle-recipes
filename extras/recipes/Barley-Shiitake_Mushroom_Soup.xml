@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley-Shiitake Mushroom Soup</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Oct.</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry shiitake mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Yellow onions</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Stalks celery</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Quaker Quick Barley</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Michelle's Chicken Style</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Seasoning</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt or to taste</item></ing></ingredients>
+    <directions>
+      <step>  Rinse the shiitake mushrooms and set them aside to soak in plenty of water.
+  They will need about an hour to soak.  Chop the onions, celery, and
+  carrots. Put the vegetables and Michelle's seasoning in a large stock pot
+  with the water. When the mushrooms are soft, snip them into smaller pieces
+  (approx. a square inch each) and drop them in the pot. Bring the pot to a
+  boil, turn down to simmer. Cook until the carrots just start to soften. Add
+  barley and simmer for another 10-15 minutes. Taste the broth occasionally
+  while cooking, add salt to taste and more of Michelle's seasoning if
+  needed.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

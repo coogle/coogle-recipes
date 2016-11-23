@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cider Cinnamon Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Breads</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Active Dry Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Bread Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Wonderslim; *see NOTE</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple Cider; or applejuice</item></ing></ingredients>
+    <directions>
+      <step>  *NOTE:  The original recipe used 2 T butter.
+  
+  Put in bread baking pan per manufacturer's directions and bake.  I used
+  light crust.
+  
+  This is FABULOUS!!
+  
+  Entered into MasterCook II and tested for you by Reggie Dwork
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  NOTES : Original called for 2 T oil.
+ 
+</step></directions></recipe></recipeml>

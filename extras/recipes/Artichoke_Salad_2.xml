@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Salad</title>
+      <categories>
+        <cat>Cajun</cat>
+        <cat>Salads</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Fresh artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Artichoke hearts, quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lea &amp; Perrins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Louisiana hot sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  In a wooden salad bowl, mash garlic and salt with a strong fork.
+  Add fresh artichoke hearts, and mash with the garlic and salt.
+  Add olive oil, stir, add lemon juice, stir, add wine vinegar,
+  stir, stir, add hot sauce, stir, add Lea &amp; Perrins Worcestershire
+  sauce, Mix well.  Put canned artichoke hearts in dressing and let
+  marinate for 1 hour, then eat as is or serve on a bed of greens.
+  From Justin Wilson's "Outdoor Cooking With Inside Help."
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cajun.zip
+ 
+</step></directions></recipe></recipeml>

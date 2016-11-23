@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Sea Scallops</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Sea scallops</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Slice scallops in half and place in a buttered casserole dish. Season with
+  salt and pepper. Combine butter, sherry and crumbs. Pour over scallops.
+  Bake at 350 degs for 10-15 mins.
+  
+  From: Aw Shucks...Another Junior League Cookbook
+  
+  Food &amp; Wine RT [*] Category 3, Topic 6 Message 161 Sun Feb 23, 1992
+  P.T.MACELUCH [Blivet NJ]     at 06:27 EST
+  
+  MM by QBTOMM and Sylvia Steiger, GEnie THE.STEIGERS, CI$ 71511,2253, GT
+  Cookbook echo moderator at net/node 004/005
+ 
+</step></directions></recipe></recipeml>

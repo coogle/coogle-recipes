@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Dip</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Jars marinated artichockes drained and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesean cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Romano cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cans green chilies, chopped and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Mayonaise (to 1 1/2 cups)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Minced garlic to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tabasco to taste</item></ing></ingredients>
+    <directions>
+      <step>  Mix artichokes, parmesean, romano, chilies and mayonaise.  Add garlic and
+  tabasco to taste.  Bake at 350F for about 30 minutes, until brown around
+  edges and bubbly.  Serve with crackers and toasted bread.
+  Posted to MM-Recipes Digest V4 #281 by Peg Doolin &lt;peggyvt@ibm.net&gt; on Oct
+  25, 1997
+ 
+</step></directions></recipe></recipeml>

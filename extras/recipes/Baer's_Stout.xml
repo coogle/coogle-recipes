@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baer's Stout</title>
+      <categories>
+        <cat>Beer</cat>
+        <cat>Brewing</cat></categories>
+      <yield>54</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Flaked barley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Medium crystal malt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>pounds</unit></amt>
+        <item>Dark Australian malt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Dark Australian dry malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Black patent malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Cascade hops (boil)</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>ounces</unit></amt>
+        <item>Northern Brewer hops</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(finish)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Wyeast</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>British ale yeast</item></ing></ingredients>
+    <directions>
+      <step>  Steep  flaked  barley and crystal malt for 50 minutes  at  153  degrees.
+  Strain  and boil 90 minutes. Add 1/3 of boiling hops after  30  minutes.
+  Add black patent and molasses at 45 minutes. After 60 minutes add 1/3 of
+  boiling  hops. At end of boil add remaining hops. Steep.  Strain,  cool,
+  and ferment. This is based on one of the excellent recipes from Dave Baer
+  (from  this digest). This one came out great! Apologies to Dave for what we
+  may have done to the original. Original Gravity: 1.051 Final Gravity: 1.018
+  
+  Recipe By     : Michael Eldridge
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Soft Serve</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe; frozen bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Part-skim Ricotta cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit>06</unit></amt>
+        <item>Mar 96 13:57:04 -0800</item></ing></ingredients>
+    <directions>
+      <step>  From: Lawren.Freebody@salata.com (Lawren Freebody)
+  In a food processor, combine frozen bananas with remaining ingredients.
+  Using a steel blade, process until smooth. Divide into 4 individual serving
+  bowls and serve right away. "As rich as ice cream and as smooth as frozen
+  custard, this dessert is a real prize."
+  
+  Each serving provides 109 calories, 4 g protein, 3 g fat, 18 g carboydrate,
+       39 mg sodium, 10 mg cholesteral.
+  
+  SOURCE: "Lean and Luscious and Meatless" by Bobbie Hinman &amp; Millie Snyder
+  &lt;typed for you by Lawren Freebody @ Salata BBS&gt;
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LIST SERVER
+  
+  MM-RECIPES DIGEST V3 #67
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

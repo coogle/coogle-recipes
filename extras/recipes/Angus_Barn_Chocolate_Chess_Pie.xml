@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angus Barn Chocolate Chess Pie</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Restaurants</cat>
+        <cat>Chocolate</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>NO CAROLINA'S HISTORIC REST</title>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit/></amt>
+          <item>Sticks butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit/></amt>
+          <item>Sq. unsweetened chocolate</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Small eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>9-in. pie crust; unbaked</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Melt butter and chocolate over boiling water.  Mix sugar, eggs, salt and
+  vanilla; add to chocolate mixture. Pour into pie shell and bake at 375 deg.
+  for about 35 minutes. From: "North Carolina's Historic Restaurants"
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

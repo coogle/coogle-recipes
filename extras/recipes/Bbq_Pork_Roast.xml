@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Pork Roast</title>
+      <categories>
+        <cat>Pork</cat>
+        <cat>Bbq</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork, Center cut loin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Season salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing></ingredients>
+    <directions>
+      <step>  Combine sage, allspice, coriander, nutmeg, peppercorns and season salt in
+  food processor.   Pulse until spices are combined.
+  
+  Pat dry pork roast and press spices on fat cap of roast. Roast in dome bbq
+  grill until 160F. internal temperature with indirect roasting. This can be
+  done with a pan directly under the roast and coals placed on either side of
+  pan.  Roasting time should be about 90 minutes.
+  
+  During the last 30 minutes of roasting, combine applesauce and brown sugar
+  and coat top of roast. Continue roasting until internal temperature is
+  170F. Apply applesauce mixture until all is used.
+  
+  Remove roast from grill and let set for 15 minutes before carving.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

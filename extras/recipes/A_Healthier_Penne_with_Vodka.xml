@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Healthier Penne with Vodka</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Absolut vodka</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter-flavored pam</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>14 oz. can plum tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vodka; cheap stuff is okay</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Non-dairy fat-free coffee ma</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Non-fat cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Penne pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Non-fat cheddar cheese, shre</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Crushed red pepper flakes</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Penchard Pour Absolut Vodka in a glass and sip while you spray a
+  large non-stick skillet with Pam. Add tomatoes and their juices and bring
+  to boil, crushing tomatoes with back of spoon. Reduce heat, add chopped
+  basil and simmer 15 mins. Season to taste with salt and pepper. Add crushed
+  red pepper flakes, Vodka, cream cheese, coffee-mate and cheddar cheese.
+  Simmer 3 mins. longer. Cook pasta in boiling water until al dente. Drain
+  well and toss with sauce. If fat grams aren't a problem, substitute cream
+  for coffee-mate.  Total fat per serving (using coffee-mate) is approx. 2
+  grams
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Risotto</title>
+      <categories>
+        <cat>Rice</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion; yellow minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Rice;Arborio</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth;homemade pref</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>dashes</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parmesan cheese freshly grated</item></ing></ingredients>
+    <directions>
+      <step>  Heat butter and oil in 14"X11"x2" dish or large casserole dish, uncovered
+  at High for 2 minutes. Add onions and stir to coat. Cook, uncovered at high
+  for 4 minutes. Add rice and stir to coat. Cook, uncovered for 4 minutes
+  more. Stir in broth (homemade is best; it has the best flavour). Cook,
+  uncovered for 12 minutes more. Remove from oven. Let stand uncovered for 5
+  minutes, to let rice absorb remaining liquid, stirring several times. Stir
+  in salt, pepper and Parmesan if desired.
+  
+  **Arborio rice is the best rice for Risotto. It is a short grained Italian
+  rice; available in grocery stores in cities with large Italian populations,
+  Italian food shops and gourmet food stores. Using North American rice will
+  not produce the right creamy texture.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

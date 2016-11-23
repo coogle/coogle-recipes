@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Souffle</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Cauliflower</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter; as needed</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crackers</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Hearts of artichokes</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Grated Chihuahua or Monterry Cheese</item></ing></ingredients>
+    <directions>
+      <step>  Saute onion in butter and add flour with milk. Soak the crackers in milk
+  and line a baking dish with them. Place vegetables on top of crackers. Beat
+  5 egg yolks and add to the sauce. Beat the egg whites until they peak and
+  add to the sauce. Pour over the vegetables, add grated cheese and bake at
+      350    for 45 minutes.
+  
+  Posted to Bakery-Shoppe Digest V1 #251 by "Yolanda de Ortega"
+  &lt;yillingw@gye.satnet.net&gt; on Sep 18, 1997
+ 
+</step></directions></recipe></recipeml>

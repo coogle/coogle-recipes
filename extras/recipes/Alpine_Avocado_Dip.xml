@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alpine Avocado Dip</title>
+      <categories>
+        <cat>Dips</cat>
+        <cat>Possum king</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Avocado; peeled, seeded</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Plain Yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Hot Pepper Sauce</item></ing></ingredients>
+    <directions>
+      <step>  In small bowl, mash avocado. Stir in remaining ingredients (mixture will be
+  lumpy). Chill thoroughly to blend flavors.
+  
+  Serve with assorted chips.
+  
+  Makes 1 1/2 Cups.
+  Posted to MC-Recipe Digest V1 #924 by "abprice@wf.net" &lt;abprice@wf.net&gt; on
+  Nov 25, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aduki, Orzo and Pepper Salad</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked aduki beans</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked orzo pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Finely diced crunchy fennel</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Slivered roasted red peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Finely sliced black pitted olives</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Packed Italian parsley,, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dressing made with olive oil, balsamic vinegar, garlic</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crumbled goat or feta cheese for garnish</item></ing></ingredients>
+    <directions>
+      <step>  Mix the ingredients together and season with salt and pepper; garnish with
+  cheese.
+  
+  Yield: 4 servings
+  Posted to MC-Recipe Digest V1 #325
+  
+  Recipe by: COOKING MONDAY TO FRIDAY SHOW MF6752
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+  
+  Date: Sun, 1 Dec 1996 22:57:11 -0500
+ 
+</step></directions></recipe></recipeml>

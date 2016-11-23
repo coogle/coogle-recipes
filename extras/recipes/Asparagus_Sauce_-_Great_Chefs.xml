@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Sauce - Great Chefs</title>
+      <categories>
+        <cat>Basics</cat>
+        <cat>Sauces</cat>
+        <cat>Masterchefs</cat>
+        <cat>Frisco</cat>
+        <cat>Relf</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus, medium/small</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter, unsalted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cream, heavy</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt (to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper (to taste)</item></ing></ingredients>
+    <directions>
+      <step>       Wash the asparagus and snap off the white ends.  Set aside all
+  tops and half that number of ends.  Plunge the tops into a large pot
+  of salted, boiling water and cook until limp but not for too long.
+  (Note: Cook slightly longer than for eating.  If undercooked, they
+  will not process well; if overcooked, they will taste earthy.)
+  
+       Drain the asparagus thoroughly and, while still hot, run it
+  through food processor with unsalted butter for 3 - 4 minutes until
+  smooth, scraping down the sides of the processor frequently.
+  
+       Meanwhile, chop asparagus ends to remove the dry hard field cuts
+  and simmer with cream.  Cook the ends slowly for 20 minutes, then
+  strain, pressing through gently.  Just before serving, combine
+  asparagus, butter and cream.  Heat slowly to just below boiling point.
+  Adjust the seasonings to taste.
+  
+       Preparation time:  3/4 Hour
+  
+       Source:  Great Chefs of San Francisco, Avon Books, 1984
+  
+       Chef:   Bruce LeFavour, Rose et Le Favour, St. Helena,
+       :       Napa Valley, California
+  
+       Pastry Chef:  Ann McKay
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-sf.zip
+ 
+</step></directions></recipe></recipeml>

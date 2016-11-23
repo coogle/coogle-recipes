@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas in Coconut Cream</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Thai</cat>
+        <cat>Fruits</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Firm, underripe bananas</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Coconut cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Jasmine essence</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>White sesame seeds, toasted</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Peel the greenest bananas you can find, split them lengthwise as for a
+  banana split, &amp; cut each half into 4 pieces. Mix the SAUCE ingredients with
+  1 c water. Add banana chunks &amp; bring to a gentle boil. Reduce the heat to
+  low &amp; cook for 5 minutes (if the bananas are not green enough they will go
+  mushy). Put into individaul serving bowls, sprinkle with toasted sesame
+  seeds &amp; serve hot.
+ 
+</step></directions></recipe></recipeml>

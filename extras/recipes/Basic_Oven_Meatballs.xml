@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Oven Meatballs</title>
+      <categories>
+        <cat>Hamburger</cat></categories>
+      <yield>72</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Beaten eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Soft bread crumbs (about 4 1/2 slices)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef</item></ing></ingredients>
+    <directions>
+      <step>  In large mixing bowl,combine beaten eggs,milk,bread crumbs, chopped onion
+  and salt;add meat and mix well.Shape into 6 dozen 1" balls.Place half the
+  meatballs in 15 1/2 x 10 1/2 x 2 1/4" baking pan.Bake @ 375 degrees 25 to
+  30 minutes.Remove from pan; cool.Repeat with remaining meatballs. Place
+  cooled meatballs on cookie sheet;freeze firm.Using 24 meatballs per
+  package,wrap meatballs in  moisture vapor proof material. Seal and
+  label.Makes 6 dozen.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

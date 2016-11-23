@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anytime Cucumber Slices</title>
+      <categories>
+        <cat>Not</cat>
+        <cat>Sent</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Cucumbers, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Onions, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced fresh dill or 1 tbsp dill weed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  In a bowl, combine cucumbers, onions and dill. In a saucepan, combine
+  sugar, vinegar, water and salt; bring to a boil. Pour over cucumber
+  mixture. Cover and chill for 3 hours or overnight.
+  
+  Recipe by: Taste of Home - June/July 1997 Posted to MC-Recipe Digest V1
+  #634 by The Taillons &lt;taillon@access.mountain.net&gt; on Jun 03, 1997
+ 
+</step></directions></recipe></recipeml>

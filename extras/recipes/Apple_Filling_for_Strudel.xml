@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Filling for Strudel</title>
+      <categories>
+        <cat>Ethnic</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>*INGREDIENTS*</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>cups</unit></amt>
+        <item>Apples, slices thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bread crumbs, very fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar, or more if apples are tart</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon rind (grandma does NOT use this)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Stick butter, melted</item></ing></ingredients>
+    <directions>
+      <step>  Source: Treasured Slovenian &amp; International Recipes
+  
+  *DIRECTIONS* Melt stick of butter and lightly brown the bread crumbs. Set
+  aside to cool. Sprinkle the cooled bread crumbs over the stretched dough.
+  Spread the sliced apples evenly over the dough and sprinkle sugar, cinnamon
+  and lemon rind over the apples. Melt the 1/2 stick of butter and when it
+  has cooled spoon over the apples. Roll up dough. Place in well greased pan
+  and bake in 350 F oven for one hour.
+  
+  notes: Be careful not to puncture the dough when transferring to the pan,
+  otherwise the strudel will stick to the pan.
+  
+  *VARIATIONS* Instead of lemon rind Grandma uses lemon juice. Grandma also
+  waits until the dough is ready to slice the apples, that way they don't
+  turn brown. She also uses the slicer on the side of a grater to slice the
+  apples really thin.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

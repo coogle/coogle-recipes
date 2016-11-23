@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bajan Pepper Wine</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>18</qty>
+          <unit/></amt>
+        <item>"wine peppers" or similar quantity of the tiny red peppers</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Barbados white rum</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sherry</item></ing></ingredients>
+    <directions>
+      <step>  From: anthony rue &lt;true@ucet.ufl.edu&gt;
+  
+  Date: Sat, 17 Aug 96 17:42:15 -0000
+  Here's a twist on the pepper booze that was posted a few weeks ago. Can't
+  say I've tried it myself; I only bring back Cockspur VSOR and I'm not about
+  to cut it with sherry. As for amounts, I mostly saw 12 oz bottles of rum in
+  the non-tourist stores and would use that as a starting point:
+  
+  Remove stems from the peppers and place in a bottle, then cover with rum
+  and leave for two weeks. Strain and dilute to required "hotness" with
+  sherry.
+  
+  CHILE-HEADS DIGEST V3 #076
+  
+  From the Chile-Heads recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

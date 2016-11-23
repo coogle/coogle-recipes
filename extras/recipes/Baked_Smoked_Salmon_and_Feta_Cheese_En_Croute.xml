@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Smoked Salmon and Feta Cheese En Croute</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Smoked salmon, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Feta cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg, slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Capers</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely choppedparsley</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Scallions, topped, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>(or more) poppyseeds</item></ing></ingredients>
+    <directions>
+      <step>  You'll also need 1 frozen pastry sheet, cut into a 3" X 8" rectangle and
+  some melted butter.  Preheat the oven to 375 degrees. In a medium bowl,
+  hand mix the salmon, cream cheese, Feta cheese, egg, capers, parsle, and
+  scallions.  Roll out the pastry sheet to double its size. Liberally brush
+  it with melted butter. Spread the salmon mixture over the sheet. Roll up,
+  jelly-roll style, folding the ends in to seal. Brush the top of the roll
+  with melted butter and sprinkle with poppy seeds. Make 1/2 inch deep
+  diagonal slashes across the roll to allow steam to escape. Bake the roll
+  for 20 to 30 minutes or until golden. Serve warm.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

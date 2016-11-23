@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Bluefish</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Bluefish fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>White wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bermuda onion; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing></ingredients>
+    <directions>
+      <step>  Date: Sat, 10 Feb 1996 18:39:37 -0500
+  
+  From: kmeade@ids2.idsonline.com (The Meades)
+  
+  Recipe By : Elizabeth Powell Place bluefish fillets in a shallow ceramic or
+  enameled baking dish. Combine vinegar, onions, peppercorns, and allspice.
+  Pour over fillet, turning to coat. Marinate, skin side up, at room
+  temperature, for 1 hour. Pour off vinegar, but not onions or spices. Turn
+  skin side down and spread top with sour cream. Bake at 350 degrees for
+  20-25 minutes, until fish flakes easily with a fork.
+  
+  MC-RECIPE@MASTERCOOK.COM
+  
+  MASTERCOOK RECIPES LIST SERVER
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

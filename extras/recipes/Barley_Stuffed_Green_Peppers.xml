@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley Stuffed Green Peppers</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Mushrooms, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onions,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pearl barley, cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Monterey jack,shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Bell peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Marinara sauce</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350F. Heat the oil in a large skillet. Add mushrooms and
+  onions and cook, stirring until the onions are browned. Stir in the barley,
+  parsley, thyme and pepper(ground). Stir in the cheese; set aside. Rinse the
+  bell peppers. Cut off the tops; remove and discard the seeds and pith. If
+  necessary, make a thin slice on the bottom of each pepper to balance. Spoon
+  1/4 of the mixture into each pepper. Stand the peppers upright in a baking
+  dish just large enough to accommodate them. Pour the saice into the baking
+  dish. Bake 30 minutes or until the peppers are tender.
+  
+  ~--
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

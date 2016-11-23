@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1930 Quick Tomato Soup Cake</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Spice cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomato soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Notes: By Mary Ann Hughes, Cresco. The Times News, PA
+  
+  Mix cake as directed using tomato soup and water for liquid. Add eggs if
+  called for. Bake as directed. Frost if desired.
+  
+  Posted to recipelu-digest by ncanty@juno.com (Nadia I Canty) on Mar 6, 1998
+ 
+</step></directions></recipe></recipeml>

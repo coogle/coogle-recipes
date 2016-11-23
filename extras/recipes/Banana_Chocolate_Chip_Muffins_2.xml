@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Chocolate Chip Muffins</title>
+      <categories>
+        <cat>Muffins</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Miracle Whip OR Miracle Whip Light Dressing</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Ripe Bananas, well mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mini semi-sweet chocolate chips</item></ing></ingredients>
+    <directions>
+      <step>  ~ Heat oven to 350 F. ~ Mix dressing and sugar. Add bananas, combine flour
+  and baking soda and
+      chips; mix until just moistened. ~ Spoon batter into greased or
+  paper-lined muffin pan, filling each cup
+      2/3 cup full. ~Bake 15 minutes. Makes 12.
+  Posted to MM-Recipes Digest V4 #322 by "John Weber" &lt;hdbrer@ibm.net&gt; on Dec
+  11, 97
+ 
+</step></directions></recipe></recipeml>

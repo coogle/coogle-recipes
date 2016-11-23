@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Sauce with Pasta</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Herb</cat>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>CLOVE Garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>SPRIGS Parsley; Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Cream Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Blue Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parmesan Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt And Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mince Garlic And Add It To The Chopped</item></ing></ingredients>
+    <directions>
+      <step>  Mince garlic and add it to the chopped parsley and basil. Mash butter,
+  cream cheese and blue cheese with a fork. Add to the olive oil, parmesan
+  cheese, salt and pepper. Mix with the garlic mixture and pour into a
+  screw-top jar. Shake well. Pour over hot pasta.
+  
+  Serving Ideas : Main
+  
+  Recipe by: B. Christensen (Cpvm71A)
+  
+  Posted to recipelu-digest by Nesb2 &lt;Nesb2@aol.com&gt; on Mar 9, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Corn Pasta</title>
+      <categories>
+        <cat>Crs</cat>
+        <cat>Makepasta</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>HAND</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Durum semolina</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Cornmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>To 1/3 apricot nectar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vegetable or olive oil,</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Optional</item></ing></ing-div>
+      <ing-div>
+        <title>EXTRUDER</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Durum semolina</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Cornmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>To 1/3 apricot nectar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vegetable or olive oil,</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Optional</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Per 1 cup Serving: 299calories 9.0g protein 52.6g carbohydrate 5.9g
+  fat 32.6mg sodium
+  
+  The Pasta Machine Cookbook Donna Rathmell German ISBN: 1-55867-081-5
+  Entered by Carolyn Shaw 4-95.
+  Posted to MM-Recipes Digest V3 #244
+  
+  Date: Fri, 6 Sep 1996 21:31:03 -0500
+  
+  From: pickell@cyberspc.mb.ca (S.Pickell)
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waldine's Seafood Gumbo</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Seafood</cat>
+        <cat>Wrv</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>WALDINE VAN GEFFEN VGHC42A</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Okra; dice or</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Boxes frozen cut okra</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Celery; chop</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cloves</unit></amt>
+          <item>Garlic; chop</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Green pepper; chop</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>bunches</unit></amt>
+          <item>Green onions; chop</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Parsley; chop</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Can tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Can tomato sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Bay leaf; crumble</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Thyme</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>quarts</unit></amt>
+          <item>Hot water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Raw shrimp; peel, devein</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Crabmeat</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Boiled crabs; break in pcs</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Put oil in large heavy pot. Add okra and saute. Add celery, garlic and
+  pepper; cook until light brown. Add green onions and parsley; cook about 2
+  minutes longer. Add tomatoes and sauce, bay leaf, thyme salt and pepper.
+  Cook for 5 minutes; stir. Add 1 qt hot water; cook for 20 minutes. Add
+  crabmeat and another quart hot water. Cook 30 minutes. Add remaining water
+  and cook for 1 hour. Add shrimp and boiled crabs about 1/2 hour before
+  removing from heat. Serve over rice in soup bowls.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  VGHC42A@prodigy.com (MRS WALDINE R VAN GEFFEN) on Aug 25, 1997
+ 
+</step></directions></recipe></recipeml>

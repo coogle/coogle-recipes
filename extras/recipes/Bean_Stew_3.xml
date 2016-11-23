@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Stew</title>
+      <categories>
+        <cat>Beans</cat>
+        <cat>Vegetables</cat>
+        <cat>Greek</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Garlic cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Runner beans, trimmed &amp; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Tomatoes, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Stock</item></ing></ingredients>
+    <directions>
+      <step>   Heat oil in a pot &amp; fry the onion for 2 minutes.  add garlic &amp; fry
+  together.  Add the rest of the ingredients &amp; the seasonings. Mix together
+  well.  Fry for 5 minutes. Add stock. Simer till the beans are tender.
+   Serve hot or cold.
+  
+   Jack Santa Maria, "Greek Vegetarian Cookery"
+  Posted to MM-Recipes Digest V4 #241 by Jack Elvis &lt;jackelvis@moonlink.net&gt;
+  on Sep 10, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bara Claddu</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Plain flour.</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>A small amount of baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Dried mixed fruit; (raisins and currants)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mixed spice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>A beaten egg</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>A drop of milk</item></ing></ingredients>
+    <directions>
+      <step>  Pronounced "Barra Clathee".
+  
+  Preheat the oven to 160 Centigrade (moderate oven). Mix all the dry
+  ingredients and then add the beaten egg. Add a little milk and mix well to
+  get the consistency right (damp but not wet, similar to a cake mix). Put
+  the mix into a greased loaf tin and bake for about an hour. The result is
+  like any good fruit cake - moist inside, but not wet.
+  Cool and slice to serve, well buttered.
+  
+  http://www.grossi.co.uk/wales/recipe.htm
+  Posted to recipelu-digest by LSHW &lt;shusky@erols.com&gt; on Feb 17, 1998
+ 
+</step></directions></recipe></recipeml>

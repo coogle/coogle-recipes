@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pepper-Salt Mix</title>
+      <categories>
+        <cat>Seasoning</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Szechwan peppercorns</item></ing></ingredients>
+    <directions>
+      <step>   1. Heat salt and peppercorns in a dry skillet oyer medium-low heat. Stir
+  or shake the pan constantly until the salt begins to brown and the odor of
+  pepper is released (about 5 minutes).
+  
+   2. Remove mixture from pan and let cool slightly. Crush peppercorns with a
+  rolling pin; then strain through a sieve.
+  
+   3. Store mixture in a tightly capped jar. Use as a table condiment or dip
+  for deep-fried and roasted foods.
+  
+   NOTE: These mixtures are also known as Fried Salt or Cantonese Salt.
+  
+   VARIATION: For the peppercoms, substitute either 1 teaspoon ground black
+  or white pepper; or 2/3 teaspoon Chinese red pepper.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ann's "Radcliffe" Beets</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Can beets -- sliced or diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Orange</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Reserved beet juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Pour off 1/3 cup beet juice from can and reserve. Heat beets in remainder
+  of liquid until simmering. Drain. Meanwhile, wash orange and pare thin
+  strips of peel from skin. Slice peel into lengthwise threads and set aside.
+  Squeeze 1/3 cup orange juice and add to reserved beet juice. combine
+  cornstarch, sugar, seasoning, vinegar, beet/orange juice and peel in medium
+  saucepan.  Bring to boil over medium heat, whisking constantly until
+  thickened.  Add drained beets and butter to pan and heat about 5 minutes.
+  Serve immediately. From Ann Conway
+  
+  Recipe By     : Concord Hospital Admitting Cookbook, Concord NH
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

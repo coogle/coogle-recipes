@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Dip</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Artichoke hearts packed in water; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Parmesean cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Lemon; squeezed</item></ing></ingredients>
+    <directions>
+      <step>  Blend and bake for 15 minutes at 350°
+  
+  Serving Ideas : serve warm with Triscuits
+  
+  Recipe by: Dorothy Combs
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 929 by "Kay L. Hitchcock"
+  &lt;HITCHCOC_K@popmail.firn.edu&gt; on Jan 11, 1998
+ 
+</step></directions></recipe></recipeml>

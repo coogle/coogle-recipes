@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas Flambe</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas, ripe but not soft</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rum, dark</item></ing></ingredients>
+    <directions>
+      <step>  Take 2 ripe, but not soft bananas and cut in half, then split lengthwise.
+  Melt a few Tablespoons butter over medium heat. Add 2-3 T brown sugar and
+  stir. Add bananas. Cook until fairly warm and starting to soften (about 1
+  min.). Flip bananas and allow to cook an additional 30 seconds. Add rum
+  (light or dark; dark has more flavor) to taste, and swirl in pan a bit.
+  Allow to thicken slightly, remove from heat and serve.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

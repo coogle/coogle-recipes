@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antipasto Hero</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meats</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Loaf Focaccia Bread; About 10-Inches In Diameter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive Or Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Red Wine Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried Oregano Leaves;Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red Pepper; Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Leaf Lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Provolone Cheese; Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Fully Cooked Smoked Ham; Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Salami; Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Tomatoes; Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Pepperocini: Italian Bottled Peppers, Cut Lengthwise In Half</item></ing></ingredients>
+    <directions>
+      <step>  Cut the bread loaf horizontally in half.  Mix the oil, vinegar, sugar,
+  oregano and red pepper together, blending well. Drizzle evenly over the cut
+  sides and top halves of the bread. Layer the lettuce, cheese, ham, and
+  salami, tomatoes, and peppers on the bottom half of the bread. Top with the
+  top half of the bread. Secure the bread with toothpicks or small skewers.
+  Wrap securely and refrigerate for up to 6 hours. Cut into 6 equal pieces
+  and serve.
+  
+  Nutrition Information Per Serving:
+  
+  Calories:  470    Protein:  19 Grams    Carbohydrates: 49 Grams Fat: 22
+  Grams    Cholesterol:  40 Milligrams
+    Sodium: 1040 Milligrams Potassium: 360 Milligrams
+  
+  Posted by Rich Harper
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

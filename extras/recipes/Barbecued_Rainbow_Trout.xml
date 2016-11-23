@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Rainbow Trout</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>(4 lb.) rainbow trout</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing></ingredients>
+    <directions>
+      <step>  Fill cavity of fish with chopped onion and tomatoes. Sprinkle lemon
+  juice over fish, along with salt and pepper. Wrap fish in foil. Barbecue
+  fish approximately 10 minutes on each side....
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-trout.zip
+ 
+</step></directions></recipe></recipeml>

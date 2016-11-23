@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana French Toast</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk; (any kind will do)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon or nutmeg; (but not both)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Whole wheat bread, multigrain bread,; or nut bread, sliced to the same thickness as conventional white bread</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe bananas, 1 peeled and sliced into 1/4-inch slices, the second, skin on for use as a garnish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Real maple syrup</item></ing></ingredients>
+    <directions>
+      <step>  Beat eggs, milk, and half of the cinnamon or nutmeg in a shallow bowl.
+  
+  Soak bread slices in egg mixture until completely soggy.
+  
+  Take one slice of bread, cover with banana slices, and then cover with a
+  second slice of bread (like a drippy banana sandwich).
+  
+  In a saute pan, over mediumhigh heat, melt butter. Add "sandwich". Cover
+  pan with lid. Cook until well browned on both sides and cooked throughout
+  (approximately 4 minutes on the first side and 3 minutes on the second
+  side).
+  
+  Remove "sandwich" from pan and place on warmed serving plates. Remove pan
+  from burner and quickly pour maple syrup into hot pan for 15 seconds.
+  
+  Pour syrup over "sandwich".
+  
+  Yield: 2 servings
+  Recipe By     :CHEF DU JOUR BOB BLUMER SHOW #DJ9284
+  
+  Posted to MC-Recipe Digest V1 #298
+  
+  Date: Tue, 12 Nov 1996 08:49:38 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

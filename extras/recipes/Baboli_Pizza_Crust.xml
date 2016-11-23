@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baboli Pizza Crust</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Pizza</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Yeast</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water;warm</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil;+ extra for pan</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt  (Optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water;warm</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPINGS</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>SEA SALT;OR KOSHER SALT</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pepper;ground</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive Oil</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chopped Rosemary and Thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix together first six ingredients and let rise 30 to 0 minutes. Divide
+  dough into 3 parts and place in 3 olive-oiled pie pans. Dimple dough with
+  fingers. Mix olive oil and water, brush tops with this mixture. Sprinkle on
+  top: sea salt, pepper, rosemary and thyme. Let rise 50 to 60 mins. Bake at
+  350 degrees F. for 25 minutes. May dip in olive oil. Peggy also says if the
+  herbs are dried to soak in water 10 minutes and then pat dry with paper
+  towels.
+  Posted to MM-Recipes Digest  by Julie Bertholf &lt;jewel1@ix.netcom.com&gt; on
+  Feb 07, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Squid</title>
+      <categories>
+        <cat>Thai</cat>
+        <cat>Seafood</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Squid, cut into rings</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon-garlic butter [posted in another post. S.C.]</item></ing></ingredients>
+    <directions>
+      <step>  Serve this with a Thai sweet/hot chili sauce.  Had it like that in
+  Bangkok and it was one of the best meals I had there.
+  
+  This recipe sounds too easy to be true.  It isn't.  As with any
+  grilled seafood, the fresher the ingredients and the simpler the
+  cooking, the better the end result.  Barbecued squid and an anise
+  flavored aperitif like Pernod, ricard, ouzo or raki, make a wonderful
+  combination. Make a fire, preferably with firewood or Mexican
+  charcoal, started from paper and kindling.  Skewer the squid.  When
+  coals are red hot, barbecue the rings for 2 to 3 minutes per side, or
+  until they are brown.
+  
+  Some recipes for grilled squid suggest marinating them.  I omit this
+  procedure because it adds flavor at the expense of softening the
+  flesh. Serve hot with lemon-garlic butter.
+  
+  NOTE:  Commercial charcoal and lighter fluid are petroleum products.
+  They impart an oily flavor to food.  Hardwood, or Mexican charcoal, a
+  commercial product, which is made by burning down mesquite, both give
+  a nice flavor and are certainly less toxic than petrochemicals.
+  Mexican charcoal is available in Northern California through Lazzari
+  Fuel Company, San Francisco.
+  
+  From "The International Squid Cookbook" by Isaac Cronin, Aris Books,
+  Berkeley, Ca. 1981 ISBN 0-915572-61-3
+  
+  Posted by Stephen Ceideberg; February 22 1993.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

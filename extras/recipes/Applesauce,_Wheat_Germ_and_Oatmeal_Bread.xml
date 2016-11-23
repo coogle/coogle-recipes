@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce, Wheat Germ and Oatmeal Bread</title>
+      <categories>
+        <cat>Abm</cat>
+        <cat>Breads</cat>
+        <cat>Jw</cat></categories>
+      <yield>1 1/2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whole wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oatmeal*</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Wheat Germ</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oat bran</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Gluten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger [opt'l]</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast</item></ing></ingredients>
+    <directions>
+      <step>  The combination of oatmeal, wheatgerm and applesauce is deadly!
+  
+  * Grind oatmeal into a coarse flour before adding to the dough pail.
+  
+  Add the solid and liquid ingredients and the yeast in order according to
+  the machine's manufacturer.
+  
+  Be on hand to observe the first mixing cycle and add flour or water as
+  needed as the moisture content of applesauce varies dramatically from batch
+  to batch.
+  
+  Because of the applesauce this bread needs no sugar or butter/oil.
+  
+  An original recipe by Jim Weller.
+  Posted to Bakery-Shoppe Digest V1 #453 by Jim Weller &lt;jweller@ssimicro.com&gt;
+  on Dec 14, 1997
+ 
+</step></directions></recipe></recipeml>

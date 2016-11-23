@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All At Once Spaghetti</title>
+      <categories>
+        <cat>Hamburger</cat>
+        <cat>Pasta</cat>
+        <cat>Italian</cat>
+        <cat>Beef</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cooking oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Hunt's Tomato Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Uncooked spaghetti</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(1/2 - 8 oz. pkg.)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated cheese</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil in saucepan or skillet.Add onion;cook until soft.Crumble in the
+  beef.Stir and fry until meat loses red color.Sprinkle with salt and
+  pepper.Pour in tomato sauce and water;bring to boil.Break
+  spaghetti;sprinkle in a little at a time,stirring into sauce and keeping it
+  separated.Cover tightly.Simmer 20 to 30 minutes.Stir toward end of cooking
+  time.Serve with cheese.Makes 3 to 4 servings.
+ 
+</step></directions></recipe></recipeml>

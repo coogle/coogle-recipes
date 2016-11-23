@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Amber</title>
+      <categories>
+        <cat>Irish</cat>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cooking apples, tart*</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Sugar (or to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Large eggs, separated</item></ing></ingredients>
+    <directions>
+      <step>  * peeled, cored and thinly sliced.  -- Cook the apple slices in about 2 T
+  of water, stirring occasionally until they form a puree. Add about 3/4 of
+  the sugar, the lemon juice, and the egg yolks: mix well. Put into an
+  ovenproof dish and bake at 350F for 20 minutes. Meanwhile, whisk the egg
+  whites until stiff, folding in the remaining sugar. Pile the meringue
+  evenly on top of the apple mixture, return the dish to the oven, and bake
+  for about 10 minutes.  Serve hot or cold.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

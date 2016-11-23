@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Cornet with Lemon Dressing</title>
+      <categories>
+        <cat>Pastry</cat>
+        <cat>Vegetables</cat>
+        <cat>Masterchefs</cat>
+        <cat>New york</cat>
+        <cat>24fa</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Asparagus, fresh, young, preferably thin, stalks, bottoms trimmed off</item></ing></ing-div>
+      <ing-div>
+        <title>PASTRY</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Puff Pastry **</item></ing></ing-div>
+      <ing-div>
+        <title>LEMON DRESSING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Mustard, Dijon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Lemon, juice of</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt (to taste)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pepper, white (to taste)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Oil, olive, extra-virgin</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  ** See recipe for Puff Pastry.
+  
+  For the pastry cornets:
+  =======================
+  
+       Roll the pastry out onto a lightly floured work surface to 3" x
+  20" rectangle, 1/4" thick.  Cut the rectangle into 4 long strips, each
+  3/4" wide.
+  
+       Wrap each strip around a long metal cone (which can be made from
+  heavy-duty aluminum foil), beginning at the tip and rolling the strip
+  around and around, overlapping slightly.  Place these on an ungreased
+  baking sheet and refrigerate for 1 hour or more.
+  
+       Preheat oven to 375 F.
+  
+       Bake pastry cornets until golden, about 15 minutes.
+  
+       Cool briefly, then very carefully the metal or foil cones.
+  
+  For the lemon dressing:
+  =======================
+  
+       Combine the egg yolks, mustard, lemon juice, and salt and pepper.
+  Whisk in the oil a drop at a time.  When the dressing begins to
+  thicken, add the oil 1 teaspoon at a time, then continue adding oil in
+  a thin stream.
+  
+       Adjust seasonings to taste.
+  
+       Cook the asparagus, tied in bundles, in boiling salted water
+  until it's just crisp-tender; drain.
+  
+  Construction:
+  =============
+  
+       Pour a small amount of dressing on each serving plate.
+  
+       Place a cornet on top of the dressing and tuck the asparagus into
+  the ends of the cornet, fanning the tips outward.
+  
+       Source:  New York's Master Chefs, Bon Appetit Magazine
+       :  Written by Richard Sax, Photographs by Nancy McFarland
+       :  The Knapp Press, Los Angeles, 1985
+  
+       Chef:  Michel Fitoussi, 24 Fifth Avenue, New York
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-ny.zip
+ 
+</step></directions></recipe></recipeml>

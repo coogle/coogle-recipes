@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amerikanischer Kranzkuchen</title>
+      <categories>
+        <cat>Kuchen</cat>
+        <cat>Gebaeck</cat>
+        <cat>Pralinen</cat></categories>
+      <yield>999</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>200 g Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>250 g Zucker</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 Vanillinzucker</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salz</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>3 Eier</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1-2 Tl Zimt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>300 g Mehl</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>21/2 Tl Backpulver</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>100 g grob gehackte Walnuesse</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>350 g Aepfel (Boskop)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>100 g Puderzucker</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 EL Rum</item></ing></ingredients>
+    <directions>
+      <step>    Butter schaumig ruehren, Zucker, Vanillinzucker und eine Prise Salz
+  hinzufuegen. 3 Eier nacheinander unterruehren. Zimt hinzufuegen und ruehren
+  bis der Zucker geloest ist. Mehl und Backpulver mischen und unterruehren.
+  Walnuesse und Aepfel unterheben. Teig in eine gefettete Kranzform geben und
+  bei 180Grad ca. 80 Minuten backen.
+  
+    Puderzucker und Rum verruehren und ueber den Kuchen geben. Erfasser:
+  Lothar Datum: 13.01.1993 Stichworte: Kuchen
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

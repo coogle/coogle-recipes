@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beautiful, Tasty Fruit Soup</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Peaches</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Frozen raspberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>An sour pitted cherries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pears</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon juice to taste</item></ing></ingredients>
+    <directions>
+      <step>  Source: Telshe Yeshiva Women, Chicago- Food Fair 1996
+  
+  Mix can juices together, add eggs. Cut up the fruits and add to liquid. Add
+  a bit of lemon juice. Refrigerate and chill.
+  
+  Posted to JEWISH-FOOD digest by kblindow@juno.com (Kuppel/Rebekkah Lindow)
+  on Apr 5, 1998
+ 
+</step></directions></recipe></recipeml>

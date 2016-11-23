@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alamo Muffins</title>
+      <categories>
+        <cat>Brunch</cat>
+        <cat>Muffins</cat></categories>
+      <yield>18</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Yellow cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking powder; (double-acting)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; , slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Yogurt; , plain</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream-style corn; (8-3/4 ounce)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green chili peppers*; , seeded and minced</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 450F. Mix together the cornmeal, sugar, baking powder,
+  baking soda, and salt. Using pastry blender, cut in the shortening until
+  the consistency is grainy. Beat the eggs into the yogurt, then add to the
+  cornmeal mixture. Add the cream-style corn and chili peppers, mixing just
+  until moistened.
+  
+  Divide the batter evenly among 18 greased or paper-lined muffin cups. Bake
+  until lightly browned, about 12 to 15 minutes.
+  
+  NOTES : A nice change from tacos or tortillas to accompany Mexican meals.
+  Makes 1-1/2 doz. *Carolyn's Note: I would just use a can of chopped green
+  chilies, drained, if fresh ones are not convenient.
+  Recipe by: From Yogurt, Yoghurt, Youghourt, an International Cookbook
+  
+  Posted to Bakery-Shoppe Digest V1 #246 by C4 &lt;c4@groupz.net&gt; on Sep 17,
+  1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almost Kentucky Fried Chicken</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Chiken</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Italian salad dressing mix</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pancake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Makae a paste out of the marinade ingredients. Coat chicken evenly. Stack
+  chicken pieces in a bowl. Cover and refrigerate overnight or at least for
+  several hours. Mix pancake mix with other seasonings. Dip pieces of chicken
+  in milk, then in pancake coating. Dust off excess. Lightly brown in skillet
+  with 1/2 inch vegtable oil in it. Brown for 4 minutes each side. Remove and
+  place in a single layer on shallow baking pan. Seal with flour. Bake for 1
+  hour at 350 Uncover and baste again with milk. Return, uncovered,
+  Posted to EAT-L Digest 25 Sep 96
+  
+  Date:    Thu, 26 Sep 1996 18:07:26 -0400
+  
+  From:    Simps &lt;c.simpson@WORLDNET.ATT.NET&gt;
+ 
+</step></directions></recipe></recipeml>

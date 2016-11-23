@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken #1</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole chicken; cut into pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(small) tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garam masala</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Minced green chilies (or to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped cilantro leaves (optional)</item></ing></ingredients>
+    <directions>
+      <step>  submitted by: zarina@gopher.ccbr.umn.edu (Zarina Alloo, Minneapolis, MN)
+  
+  Mix all the ingredients (except cilantro leaves) and marinate for at least
+  a couple of hours. Place chicken and the marinade in an oiled baking pan.
+  Bake in a pre-heated oven at 350 degrees, for 1 to 1 hours. Sprinkle
+  chopped cilantro leaves over the baked chicken before serving.
+  
+  DAVE &lt;DAVIDG@CLAM.RUTGERS.EDU&gt;
+  
+  RECIPEINTERNET LIST SERVER
+  
+  RECIPE ARCHIVE - 8 APRIL 1996
+  
+  From the 'RECIPEinternet: Recipes from Around the World' recipe list.
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

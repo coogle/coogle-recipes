@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Catherine's Italian Cookies</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Italian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Crisco</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Almond extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick oleo</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Nuts, chopped</item></ing></ing-div>
+      <ing-div>
+        <title>ICING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Box powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick of Butter or oleo Food coloring</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cream oleo, Crisco and sugar.  Add eggs, almond extract, cinnamon, cream
+  and milk.  Mix in nuts and baking powder and flour.  Roll small balls into
+  long rolls, then kind of flatten it.  Slice in 1/2 inch pieces. Put on
+  cookie sheet.  Bake until done at 350 degrees.
+  
+  Mix melted butter and powdered sugar.  Put in small containers and add
+  different food colorings.  Spread on cooled cookies and let harden. Then
+  put in canned containers.  Can store for months.
+  Posted to MM-Recipes Digest V3 #281
+  
+  Date: Sun, 13 Oct 1996 23:28:22 -0400
+  
+  From: Walt Gray &lt;waltgray@mnsinc.com&gt;
+ 
+</step></directions></recipe></recipeml>

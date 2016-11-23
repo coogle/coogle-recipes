@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alice's Butter Frosting</title>
+      <categories>
+        <cat>Kaz</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter flavored Crisco or 2</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sticks (1/4 lb</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Mix sugar and Crisco together.  Heat milk until hot on finger. (Do not
+  boil.)  Add half of the milk to sugar ~ Crisco mixture and beat 2 minutes.
+  Add rest of milk and beat 8 minutes longer (a total of 10 minutes all
+  together). The beating breaks up the sugar granules to a whipped cream
+  consistency, but is a butter type.
+  
+  To make a whipped cream frosting, use white Crisco instead of
+  butter-flavored. (This is Audrey's (my sister-in-laws recipe.) (I use these
+  often as I don't always have confectioners sugar on hand.)
+  
+  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

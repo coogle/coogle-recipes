@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angela's Squid Spaghetti</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Seasonings</cat>
+        <cat>Italian</cat>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter or olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Italian plum tomatoes peeled &amp; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>large</unit></amt>
+        <item>Onion; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Squid; cleaned tentacles intact body in bite-size pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh oregano; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh marjoram; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh basil; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Spaghetti or perciatelli (tubular spaghetti)</item></ing></ingredients>
+    <directions>
+      <step>  Heat butter or oil in large saucepan.  Add tomatoes and onions and cook for
+  20 minutes over medium heat, stirring occasionally until tomatoes break
+  apart easily and onion is soft. Add squid, reduce heat to low, and cook for
+  10 minutes more.  Add herbs and cook for 5 minutes. The squid should be
+  very tender.  Add salt and pepper and serve over pasta.
+  
+  Recipe from Angela Luis Dougherty of Seattle, WA in "Great Spaghetti Sauce
+  Cookoff" article in "The Herb Companion." Dec. 1992/Jan. 1993, Vol. 5, No.
+  2.  Pg. 79. Posted by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

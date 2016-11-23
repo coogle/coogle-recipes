@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Pesto (Spieler)</title>
+      <categories>
+        <cat>Grilling</cat>
+        <cat>Vegetables</cat>
+        <cat>Recipes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pesto</item></ing></ingredients>
+    <directions>
+      <step>  Toss asparagus with pesto to taste, a little olive oil and minced garlic.
+  
+  Grill (hot coals) until lightly charred, then serve as is, or with more
+  pesto.
+  
+  Notes: SF Chronicle 5/13/98
+  
+  Recipe by: Grilling by Marlena Spieler
+  
+  Posted to MC-Recipe Digest by Kitpath &lt;phannema@wizard.ucr.edu&gt; on May 14,
+  1998
+ 
+</step></directions></recipe></recipeml>

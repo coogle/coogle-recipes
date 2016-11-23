@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot-Cardamon Bars and Apricot Icing</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat>
+        <cat>Jams</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>COOKIE BAR</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Packed brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cardamom</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Or 1/8 tsp. ground cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Apricot nectar or orange</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Unsweetened applesauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cooking oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Slightly beaten egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Finely snipped dried apricos</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Recipe Apricot Icing</item></ing></ing-div>
+      <ing-div>
+        <title>APRICOT ICING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>To three teaspoons apricot</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Nectar or orange juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a medium mixing bowl stir together flour, brown sugar, baking powder,
+  baking soda, and cardamom or cloves; set aside. Stir together apricot
+  nectar or orange juice, applesauce, oil, and egg till combined. Sit in the
+  snipped apricots.
+  
+  Spread batter in an ungreased 11x7x1-1/2-inch baking pan. Bake in a
+  350-degree oven about 25 minutes or till a wooden pick inserted near the
+  center comes out clean. Cool in pan on a wire rack. Drizzle with Apricot
+  Icing.  Cut into bars.  Makes 24 bars.
+  
+  APRICOT ICING: In a small mixing bowl stir together 1/2 cup powdered sugar
+  and 2 to 3 teaspoons apricot nectar or orange juice.
+  
+  NUTRITION FACTS PER SERVING: 67 cal., 1 g total fat (0 g sat. fat), 9 mg
+  chol., 17 mg sodium, 13 g carbo., 0 g fiber, 1 g pro. Daily Value: 3% vit.
+  A, 3% vit. C, 0% calcium, 3% iron.
+ 
+</step></directions></recipe></recipeml>

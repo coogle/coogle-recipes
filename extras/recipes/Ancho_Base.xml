@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ancho Base</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Dried ancho chile peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Dried tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Beef-flavored bouillon cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in a saucepan.  Bring to a boil over medium heat;
+  reduce heat, and simmer, stirring occasionally, 10 minutes. Cool about 15
+  minutes.
+  
+  Position knife blade in food processor bowl; add mixture.  Process until
+  smooth, stopping often to scrape down sides.  Refrigerate up to 1 week or
+  freeze up to 3 months.
+  
+  Source:  "Southern Living, August 1995".
+  Posted to MC-Recipe Digest V1 #205
+  
+  Date: Sun, 18 Aug 1996 14:36:38 -0400
+  
+  From: kmeade@ids2.idsonline.com (The Meades)
+  NOTES : Good with grilled meat or fish, or with scrambled eggs and
+       omeletes.
+       Makes 3 1/2 cups.
+ 
+</step></directions></recipe></recipeml>

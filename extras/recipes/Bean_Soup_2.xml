@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Soup</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Baked or boiled beans</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt; pepper, paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Cook bacon, add to beans, add cold water and cook until beans are soft,
+  then rub them through a strainer. Place on the fire and add alittle more
+  water if needed, the soup must not be too thick. Combine with the flour and
+  butter. Cook 2 or 3 minutes. Season with salt, a dash of pepper, and
+  paprika.
+  
+  I got this recipe from a friend and it's quite good.
+  Posted to EAT-L Digest  by Russellyn Crombie &lt;DJJRS@AOL.COM&gt; on Sep 4, 1997
+ 
+</step></directions></recipe></recipeml>

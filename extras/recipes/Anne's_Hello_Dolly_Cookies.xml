@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anne's Hello Dolly Cookies</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick melted butter (1/2 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped pecans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Crushed vanilla wafers</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Eagle Brand sweetened condensed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Chocolate chips; small</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Angel Flake coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>Place</qty>
+          <unit>in</unit></amt>
+        <item>an 8" x 12" Pyrex pan in order listed above and bake in a 350</item></ing></ingredients>
+    <directions>
+      <step>  degree oven 30 minutes. Cool to room temperature and chill in refrigerator
+  before cutting to make prettier squares. Makes 30 squares.
+  
+  Recipe by: Daughter Anne
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by "Martha Sheppard"
+  &lt;marthahs@worldnet.att.net&gt; on Nov 2, 1997
+ 
+</step></directions></recipe></recipeml>

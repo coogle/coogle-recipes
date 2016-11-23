@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baa Yir (Deep-Fried Yellow Bean Paste)</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Thailand</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Beans, moong, dried</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Flour, all-purpose</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Red curry paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Soy sauce, light</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sugar, granulated</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Kaffir lime leaves</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Oil; for deep-frying</item></ing></ing-div>
+      <ing-div>
+        <title>THE SAUCE</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar, granulated</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Vinegar, rice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div></ingredients>
+    <directions>
+      <step>    Soak the moong beans in water for 30 minutes; drain. Roll the kaffir
+  leaves into thin cigarettes; slice into slivers. In a mortar pound the
+  drained moong beans to form a paste.  Add the other ingredients in turn,
+  stirring well.  Pluck a small piece of the paste and form into a ball the
+  size of a walnut.  Do not mould too tightly. Deep-fry the balls until
+  golden brown, drain and serve with the thick sweet sauce below.
+    THE SAUCE: Gently heat the three ingredients until the sugar dissolves.
+  Allow to cool before serving.
+    Source: Thai Vegetarian Cooking by Vatcharin Bhumichitr Typed for you by
+  Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

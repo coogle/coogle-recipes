@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunty Betty's Bombe</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Usenet</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Double cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Chocolate, plain</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing></ingredients>
+    <directions>
+      <step>  Whisk 1/2 of the cream until stiff and spread it around the edges of a
+  large bowl. Freeze for 1/2 to 1 hour.
+  
+  Dissolve the sugar in the water, bring to the boil and simmer for 3 minutes
+  until syrupy.  Meanwhile, break chocolate into blender or warm bowl.
+  
+  Pour the hot sugar syrup onto the chocolate and blend or whisk until the
+  chocolate has all melted.  Add the egg yolks and mix the whole lot
+  thoroughly.
+  
+  Whisk the remaining cream into soft peaks and fold gently into the
+  chocolate mixture. Pour into the centre of the frozen cream and freeze for
+  several hours until solid. Cover when fully frozen.
+  
+  NOTES:
+  
+  *  A high-cholesterol chocolate dessert -- This recipe comes from a
+  friend's aunt. It always seems to taste wonderful no matter how sloppily I
+  measure things. Yield: Serves 4-6.
+  
+  *  Although the recipe "serves 4-6," two people will happily eat the whole
+  thing.
+  
+  *  The outside is frozen solid, so you may find a fork useful for breaking
+  your portion into pieces without showering fellow diners with fragments. It
+  could be served in small portions, but don't count on having any left over.
+  
+  *  Double cream has more than 45 percent butterfat. It is difficult to find
+  cream in North America that is richer than whipping cream, which is
+  typically 32 percent butterfat. If you can find heavy cream it is likely to
+  be 36 percent. Use the richest cream you can find.
+  
+  : Difficulty:  easy.
+  : Time:  20 minutes preparation, 3 hours cooling.
+  : Precision:  no need to measure.
+  
+  : William Roberts
+  : Department of Computer Science &amp; Statistics
+  : Queen Mary College
+  : University of London, UK
+  : liam@qmc-cs.UUCP
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bassa Bassa Chicken</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Chicken Drumsticks</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Chicken Thighs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Seasoned salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar; (6 oz) Bassa Bassa Sauce</item></ing></ingredients>
+    <directions>
+      <step>  http://www.ronainc.com/Recipes.htm
+  
+  SPICY CARIBBEAN RECIPES
+  
+  Wash &amp; clean chicken, dry and pat generously with seasoning salt Bake
+  chicken for 30 minutes in 350 degrees oven Baste each piece with Bassa
+  Bassa Sauce and cook another 15 minutes
+  
+  Savor the flavor of Barbados!!!
+  
+  Posted to recipelu-digest by LSHW &lt;shusky@erols.com&gt; on Feb 16, 1998
+ 
+</step></directions></recipe></recipeml>

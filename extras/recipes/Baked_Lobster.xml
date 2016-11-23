@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lobster</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Seafood</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>x</unit></amt>
+        <item>Fresh Boiled lobsters</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Melted Butter or Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Finely Crushed Ritz Crackers</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing></ingredients>
+    <directions>
+      <step>  *** 1 1/4 to 1 1/2 lb. Lobsters (split and claws   cracked) Heat oven to
+  375F.  Remove any tomalley   (green liver) from lobsters; mash it and
+  reserve.   Place lobsters, split side up, in large, flat baking   pan. In
+  bowl, combine crumbs, 1/4 cup of the melted   butter, Worcestershire, an d
+  wine. Add tomalley.   Lightly spoon mixture into lobster cavities. Sprinkl
+  e   exposed meat of lobster with melted butter. Bake   uncovered, 35 to 40
+  minutes.  Sprinkle with paprika   and parsley. Serve with additional melted
+  butter.
+  
+  Posted to EAT-L Digest 09 Aug 96
+  
+  Date:    Sat, 10 Aug 1996 22:37:19 -0400
+  
+  From:    Ken Gomberg &lt;kgomberg@MINT.NET&gt;
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Dirt Simple, Plain, But Tried and True Texas Chili Recipe</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef; preferably a chuck or round, about, (don't use a fancy cut!) (up to 3)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>The best double-smoked bacon you can find</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ground cumin; (or more to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Good quality chili powder; (I use Santa Cruz hot, but adjust this for taste) (up to 2)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Paprika; (optional, for color and less heat) (up to 2)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; (optional) (up to 4)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  (taught me by an old friend Ed from Texas, as much a Texas boy as there
+  ever was)
+  
+  In keeping with all good recipes, measurements are pretty on the fly here.
+  
+  Cube the beef into bite-sized chunks. Dice the bacon. Heat a large heavy
+  pot, fry the bacon until almost crisp. Scoop it out and set aside (so it
+  won't get burnt). Then fry the meat in the bacon fat until browned on all
+  sides -- you may have to do this in batches. Scoop out the meat and add to
+  the bacon. Saute the onions (and garlic if you're using it) in the bacon.
+  (Those who really get concerned can drain off some of the fat, but it won't
+  be true Texan at that point.) When it's soft, throw in the cumin, chile
+  powder, and paprika and cook briefly. Return the meat, cover with water and
+  bring it to a boil. Taste and add salt, then cover and set it to simmer for
+  a couple of hours. Thicken as needed with cornmeal or stale tortillas.
+  
+  Serve with sour cream or cottage cheese, diced onions and, of course, beer.
+  
+  Like all good chilis this is best made a day in advance and reheated.
+  
+  Posted to CHILE-HEADS DIGEST V4 #272 by David Cook &lt;zebcook@pacbell.net&gt; on
+  Jan 17, 1998
+ 
+</step></directions></recipe></recipeml>

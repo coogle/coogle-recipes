@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Chicken Stock</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; peeled and quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; peeled and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Celery stalks; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Head of garlic; cut in half</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bouquet garni</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Raw chicken bones; rinsed in cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>quarts</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  EMERIL LIVE SHOW #EMlA36
+  
+  In a large stock pot, over high heat, add the oil. When the oil is hot, add
+  the onions, carrots, and celery. Saute for 2 to 3 minutes. Add the
+  remaining ingredients and bring to a boil. Reduce the heat to low and
+  simmer for about 2 hours. Remove the stock from the heat and skim off any
+  scum that is on the surface. Strain the stock through a large fine-mesh
+  sieve. Discard the bones and vegetables.
+  
+  Yield: 3 quarts
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 19, 1998
+ 
+</step></directions></recipe></recipeml>

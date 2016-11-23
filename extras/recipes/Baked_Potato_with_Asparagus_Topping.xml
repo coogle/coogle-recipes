@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potato with Asparagus Topping</title>
+      <categories>
+        <cat>Side dish</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Baking potato</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Stalks asparagus, cut diagonally in 1" lengths</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Half small carrot, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Light sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper and salt</item></ing></ingredients>
+    <directions>
+      <step>  Scrub potato; prick several times with fork. Microwave at High, turning
+  once, for about 5 minutes or until tender. Wrap in paper towel; let stand 5
+  minutes. (Or bake potato in 425øF oven or toaster oven for 1 hour or until
+  tender.)
+  
+  Meanwhile, in small saucepan, heat oil over medium heat; cook onion,
+  asparagus and carrot, stirring, for about 4 minutes or until tender-crisp.
+  Reduce heat to low. Stir in sour cream, and pepper to taste; heat through.
+  
+  Cut potato in half and mash pulp with fork; season with salt and pepper to
+  taste.  Spoon asparagus mixture over potato. Makes 1 serving. Typed in
+  MMFormat by cjhartlin@msn.com Source: The Canadian Living 20th Anniversary
+  Cookbook.
+  Posted to MM-Recipes Digest  by "Cindy Hartlin" &lt;cjhartlin@email.msn.com&gt;
+  on Apr 17, 1998
+ 
+</step></directions></recipe></recipeml>

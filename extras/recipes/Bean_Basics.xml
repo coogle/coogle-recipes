@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Basics</title>
+      <categories>
+        <cat>Bean</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>x</unit></amt>
+        <item>Beans</item></ing></ingredients>
+    <directions>
+      <step>  How many beans to serve how many? As a rough rule, a pound of dried legumes
+  will yield 8 moderate servings. Getting them ready: Spread beans on a big
+  pan or plate and pick out any rubbish-especially small pebbles-and broken
+  beans. Rinse in a colander. To soak or not? Lentils don't need to be soaked
+  and neither do split peas. All other dried legumes need soaking, especially
+  if they have spent some time on the shelf. Soaking how-tos: The basic way:
+  Cover with water to twice the depth of the beans and leave for 4 hours
+  (most kinds) or up to 24 hours, with changes of water, for fava beans or
+  other tough-skinned types. Drain, then cook in fresh water. Quick-soaking
+  or parboiling: Cover with plenty of water, bring to boiil and boil for 1 to
+  2 minutes. Set aside, covered for 1 hour. Drain and cook in fresh water.
+  Cooking: This varies widely among beans. The newest crop may cook in as
+  little as half the time needed by long-stored beans. The rule is to cook
+  beans at a gentle simmer, partly covered, until a sample is tender to the
+  tooth. Depending on bean kind and age, this may take as little as 45
+  minutes or as long as 3 hours; fava beans may need even longer. When to
+  salt: Wait until the beans are tender. Salting before that point will
+  toughen them permanently.  (wrv)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

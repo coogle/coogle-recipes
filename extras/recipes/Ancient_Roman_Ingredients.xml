@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ancient Roman Ingredients</title>
+      <categories>
+        <cat>Help</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>None; help file</item></ing></ingredients>
+    <directions>
+      <step>  From: hz225wu@unidui.uni-duisburg.de (Micaela Pantke) (COLLECTION)
+  
+  Date: Thu, 22 Jul 93 11:12:07 +0200
+  The following recipes are taken from an old Roman cookbook MARCUS GAVIUS
+  APICIUS: DE RE COQUINARIA.  The book I have is edited and translated from
+  Latin by Robert Maier.  My humble person only translated the German
+  translations into English.  I hope the recipes are still rather near to the
+  originals.  First I have to introduce you to some native Roman ingredients,
+  such as:
+  
+  ~- Caroenum: Boiled must (you have to boil the new wine or grape juice
+  until it is only half the amount you started with).
+  
+  ~- Defritum: Either thick fig syrup, or must that's boiled until you have
+  only a third of the amount with which you started.
+  
+  ~- Liebstoeckl: I didn't find an English translation.  In Latin it's called
+  'levisticum officinale'.  It's an umbelliferous plant with yellowish
+  flowers. Its dried roots are used as spice. It seems to be a kind of
+  celery.
+  
+  ~- Liquamen: a salty fish sauce. Most of the time you can replace it by
+  salt.
+  
+  ~- Passum: Very sweet wine sauce, made by boiling the must (new wine or
+  grape juice) to thicken it. (maybe add honey? - just my guess)
+  
+  ~- Poleiminze: A kind of mint that's growing in inundated areas. Just
+  replace it by ordinary mint.
+  
+  ~- Saturei: I didn't find an English translation.  In Latin it's called
+  'satureia hortensis'.  It's a violet or white flowered kind of labiate
+  plants which grows mainly in Southern Europe. It's used as a spice plant,
+  especially for bean dishes.
+  
+  ~- Silphium: Its other names are 'Laser' or 'ferula asa foetida'.  I've
+  noticed that it's also called 'hing' in the Indian cuisine.  It is an onion
+  and garlic substitute and should be used rather sparingly because of its
+  very strong taste and smell.
+ 
+</step></directions></recipe></recipeml>

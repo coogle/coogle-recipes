@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andie's Brunch</title>
+      <categories>
+        <cat>Breakfast</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>slices</unit></amt>
+        <item>Bread</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>slices</unit></amt>
+        <item>Ham</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cornflakes</item></ing></ingredients>
+    <directions>
+      <step>  "Butter both sides of the 16 slices of bread. Place 8 slices in a 8 x 10
+  pan which is 2" deep.Cover the bread with the sharp cheese and ham slices.
+  Top this with the remaining 8 slices of bread. Mix the eggs, milk, mustard,
+  and salt together. Pour over the casserole and refrigerate overnight. The
+  next morning, combine 1/2 cup butter and the cornflakes, and put on top of
+  the casserole. Bake for 1 hour at 350F.
+ 
+</step></directions></recipe></recipeml>

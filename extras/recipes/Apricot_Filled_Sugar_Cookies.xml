@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Filled Sugar Cookies</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Fruits</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Apricot Fruit Filling</item></ing></ingredients>
+    <directions>
+      <step>  Mix all together except filling to make a soft dough. Roll out 1/8" thick
+  and cut out 48 3" round cookies. Place /t of filling on the top of 24
+  rounds. Cover each with another round, crimp edges and make a slit on top.
+  Bake 10-12 minutes in a 375oF preheated oven. Makes 24 cookies.
+  
+  Source: "The Yankee Kitchen" 04-02-93 (#1) [Pat from Manchester]
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

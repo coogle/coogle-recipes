@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Batter for Frying</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic Powder (or fresh minced to death)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All Purpose Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Fresh Ginger, put through garlic press (or grated)</item></ing></ingredients>
+    <directions>
+      <step>  Mix eggs, salt, garlic, flour, cornstarch, and milk to make a smooth
+  batter.  Mix honey, lemon juice, sherry and ginger together and marinate
+  shrimp (split in back), lobster (cut in cubes), chicken (cut in pieces 1" x
+  2"), or thin-sliced pork for at least 15 minutes. Fry dipped pieces in
+  Peanut Oil until light brown.
+  
+  OPTION:  Cool fried pieces after frying, then refrigerate, if desired, and
+  later redip in batter, refry until golden brown. Even crunchier, and great
+  as appetizers for a party that you can prepare ahead and still serve HOT at
+  the last minute!
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Salmon in Foil</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Salmon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil or Softened Butter</item></ing></ingredients>
+    <directions>
+      <step>  Lay a piece of silver foil, large enough to wrap the salmon in a very loose
+  parcel, on a baking tray. If the salmon is to be served hot, grease the
+  foil with the butter, or use the oil if serving the salmon cold. Thinly
+  slice the lemon and put about half on the foil. Put the salmon on top, with
+  a few slices of lemon inside and lay the rest of the lemon along the top of
+  the salmon. Season generously and wrap loosely, making sure the edges are
+  securely folded together so that no steam can escape. Put into a medium
+  oven, Gas Mk 4,350F,180C, for 10 minutes per pound. If serving hot, take it
+  out of the oven and let it stand for a further 10 minutes. If serving cold,
+  leave the salmon in the foil for two to three hours. To serve: Unwrap the
+  fish and gently pull off the skin.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

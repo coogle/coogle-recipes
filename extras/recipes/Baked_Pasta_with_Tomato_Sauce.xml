@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pasta with Tomato Sauce</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Bake</cat>
+        <cat>Main dish</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>28oz tomatoes in juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Italian seasoning</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Spaghetti</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen mixed vegetables</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Ricotta cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parm cheese</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 375. Grease 13x9x2 baking dish.
+  
+  Empty can of tomatoes into medium saucepan.  Stir in italian seasoning, 1/2
+  t salt and 1/4 t pepper.  Bring to a boil, stirring and breaking up matoes
+  with a wooden spoon.  Reduce heat and simmer 25 min, stirring occasionally
+  or til desired thickness.
+  
+  While sauce cooks bring a large pot of lightly salted wter to a boil. Add
+  spaghetti and cook according to package directions, adding frozen veggies
+  to pot for last 5 min of cooking time.  Drain well.
+  
+  Meanwhile mix ricotta, milk, eggs, remaining salt and pepper in a large
+  bowl.  Add spaghetti with vegetables and mix well.  Transfer to prepared
+  dish and smooth top.
+  
+  Bake 15 min til set.  Sprinkle with parm cheese; serve with the tomato
+  sauce.
+  
+  Posted to MM-Recipes Digest V4 #139 by Lisa J &lt;maulkin@ma.ultranet.com&gt; on
+  May 19, 1997
+ 
+</step></directions></recipe></recipeml>

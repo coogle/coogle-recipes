@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Raspberry Vinaigrette</title>
+      <categories>
+        <cat>Almonds</cat>
+        <cat>Lowfat</cat>
+        <cat>Meatless</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Almond or vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated lemon peel</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ground toasted almonds *</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Seedless raspberry jam</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dijon-style mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in a small bowl. Whisk until thoroughly mixed.
+  
+  Servings: 8
+  
+  * To toast almonds, spread in an ungreased baking pan. Place in 350 degree
+  oven and bake 5 to 10 minutes or until almonds are light brown; stir once
+  or twice to assure even browning. Note that almonds will continiue to brown
+  slightly after removing from oven.
+  
+  See http://www.almondsarein.com/ &gt;Hanneman/Buster/MasterCook 1998/Ap
+  
+  Recipe by: Almond Board of California
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Apr 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

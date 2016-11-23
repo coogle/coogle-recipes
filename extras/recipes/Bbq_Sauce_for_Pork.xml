@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Sauce for Pork</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Sauces</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Maple syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Coleman's mustard</item></ing></ingredients>
+    <directions>
+      <step>  Half a cup of soy sauce, half a cup of maple syrup and about a
+  quarter of cup of Coleman's mustard++maybe with a little vinegar.
+  Apply to racks of pork ribs.  BBQ.  Enjoy...
+  
+  Posted by Stephen Ceideberg; April 19 1992.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

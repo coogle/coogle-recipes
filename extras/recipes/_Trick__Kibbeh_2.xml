@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Trick" Kibbeh</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Syrian</cat>
+        <cat>Lebanese</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bulgur, fine grade, soaked 1/2 hour in enough water to cover</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Thinly sliced green onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped mint</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Lentils</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 3 lemons</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Garlic cloves, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon</item></ing></ingredients>
+    <directions>
+      <step>  The "trick" in this Syrian-Lebanese vegetable soup is that there's no
+  meat in the kibbeh "meatballs." The idea that a vegetarian dish is a
+  deception (vegetarian dolmas are known as yalanji, the Turkish word
+  for "counterfeit") goes back at least 1,200 years in the Near East.
+  
+  In bowl, mix bulgur, flour, 1/2 tablespoon salt, cinnamon, green
+  onions, mint and parsley. Add enough water to make thick dough. Rolls
+  into 24 very firmly packed balls the size of large marbles. Set aside
+  to dry.
+  
+  Put 9 cups chicken stock in pot, add lentils and bring to boil 10
+  minutes. Add 2 1/2 tablespoons, reduce heat and simmer until lentils
+  are tender, 20-25 minutes.
+  
+  Add bulgur balls and boil 5 minutes. Add lemon juice, garlic and oil.
+  Simmer until balls are done, 10 minutes. Garnish with thin lemon
+  slices.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

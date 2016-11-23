@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Squash</title>
+      <categories>
+        <cat>Low</cat>
+        <cat>Fat</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>packages</unit></amt>
+        <item>Frozen squash, thrawed (6</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cups)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Toasted oat bran</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Maple syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Nonfat dry buttermilk (or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nonfat dry milk or the vegan</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Equivalent)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Grated fresh orange peel</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pumpkin pie seasoning</item></ing></ingredients>
+    <directions>
+      <step>  Mix together oat bran, dry milk, orange peel, and seasoning. Wisk in squash
+  and syrup. Bake at 350 degrees in a large rectangular pan (I use glass) for
+  about an hour. Serve hot or cold.
+  
+  Notes: 1. I buy oat bran in bulk. Toast it at 350 degrees on a cookie sheet
+  with edges. Stir every 10 minutes until light brown. I add the orange peel
+  at this point and store it in the refrigerator. Do not add the orange peel
+  before toasting, it burns. Already grated orange peel is available but the
+  fresh tastes better.
+  
+  2. I have made this with many different kinds of squash and or sweet
+  potatoes.  They are all good.  The frozen squash is just the easiest.
+  
+  3. Original recipe calls for cinnamon, I like the taste with the pumpkin
+  pie spice but I've used others. I did not like plain clove. from "Lean and
+  Luscious and Meatless" by Hinman and Snyder.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

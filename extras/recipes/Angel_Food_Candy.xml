@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Candy</title>
+      <categories>
+        <cat>Candies</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dark corn syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Chocolate almond bark,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>...melted</item></ing></ingredients>
+    <directions>
+      <step>  In a heavy saucepan, combine sugar, corn syrup and vinegar. Cook over
+  medium heat, stirring constantly, until sugar dissolves. Cook without
+  stirring until the temperature reaches 300 (hard crack stage) on a candy
+  thermometer. Do not overcook. Remove from the heat and quickly stir in
+  baking soda. Pour into a buttered 13-in. x 9-in. x 2-in. baking pan. When
+  cool, break into bitesize pieces. Dip into melted chocolate; place on waxed
+  paper until the chocolate is firm. Store candy tightly covered. Yield:
+    1-1/2    pounds
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

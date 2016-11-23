@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anytime Broccoli Cheese Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(10 1/4 oz) Campbell's NEW Broccoli Cheese Soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Combine soup and milk.
+  
+  CONVENTIONAL STOVE:  Over medium heat, heat until hot and bubbling,
+  stirring often.
+  
+  MICROWAVE OVEN:  Microwave, uncovered, on HIGH for 5 minutes or until
+  hot and bubbling, stirring halfway through heating.
+  
+  Serve over vegetables such as broccoli, cauliflower and carrots.
+  
+  Makes 1 1/2 cups.
+  
+  Posted by Stephen Ceideberg; October 14 1992.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Parsnips Irish Style</title>
+      <categories>
+        <cat>Irish</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Parsnips</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter or bacon fat</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  Peel parsnips, quarter, and remove any woody core.  Parboil for 15
+  minutes. Place in an ovenproof dish.  Add stock and sprinkle with
+  salt, pepper and nutmeg.  Dot with butter and bake for 30 minutes on
+  a low shelf in a moderate oven.  (Generally parsnips are baked in the
+  same oven as the main meat dish, whose cooking temperature governs
+  that of the parsnips.)
+  Posted to MM-Recipes Digest V3 #251
+  
+  Date: Fri, 13 Sep 1996 21:49:00 -0400
+  
+  From: BobbieB1@aol.com
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Bean Loaf</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Baked beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Breadcrumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ff cheese; grated *</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mixed herbs; (ie., an Italian herb blend)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing></ingredients>
+    <directions>
+      <step>  * I have cut this amount in 1/2, and even eliminated it completely. The
+  loaf is so 'rich' it makes little difference at all.
+  
+  Preheat oven 325F.
+  
+  Mash beans and breadcrumbs together. Add remaining ingredients to form a
+  stiff dough. Thin with skim milk if necessary. Place in a loaf pan and bake
+        1    hour.
+  Posted to fatfree digest by sharon@netwave.ca (Sharon McCleave) on Apr 29,
+  1998
+ 
+</step></directions></recipe></recipeml>

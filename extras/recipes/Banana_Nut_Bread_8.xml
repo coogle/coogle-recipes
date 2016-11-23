@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Nut Bread</title>
+      <categories>
+        <cat>Bread</cat>
+        <cat>Banana</cat>
+        <cat>Osg</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; general purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts meats</item></ing></ingredients>
+    <directions>
+      <step>  Sift flour, measure, sift with baking powder, soda, and salt. Cream
+  butter, add sugar gradually, creaming the while. Add eggs, one at a
+  time, beating each one in thoroughly. Mash bananas, add to first
+  mixture. Blend in well. Stir in dry ingredients gradually. When well
+  mixed, add nut meats. Turn into well greased loaf pan. Bake in oven,
+  350 F. from 45 to 60 minutes. Remove from oven, let stand in pan a few
+  minutes, then remove to cool.
+  
+  Source: Helen Erwin, Baughman Grange, Wayne County, OH
+  Originally published in Ohio State Grange Cook Book, 21st ed., Apr 1966.
+  Compiled by members of Ohio State Grange Home Economics Committee.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-bread.zip
+ 
+</step></directions></recipe></recipeml>

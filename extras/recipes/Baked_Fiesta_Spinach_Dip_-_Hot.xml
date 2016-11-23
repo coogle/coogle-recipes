@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fiesta Spinach Dip - Hot</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pecans; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Salsa; chunky, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen spinach; squeezed dry</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Monterey jack cheese; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Light cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Black olives; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Pecans; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400°.  Sauteonion 'til tender.  Stir in salsa and spinach
+  and cook two minutes more.  Transfer to 1 1/2 qt baking dish.  Stir in two
+  cups jack cheese, cream cheese, cream &amp; olives.  Sprinkle with pecans. Bake
+  about 30 minutes until hot &amp; bubbly; cover with foil last 15 minutes to
+  prevent burning.  Top with remaining Jack and serve hot.
+  Posted to EAT-L Digest 10 Sep 96
+  
+  Date:    Wed, 11 Sep 1996 11:43:42 -0500
+  
+  From:    "hassell@eecs.tulane.edu" &lt;hassell@EECS.TULANE.EDU&gt;
+ 
+</step></directions></recipe></recipeml>

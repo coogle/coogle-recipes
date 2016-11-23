@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bechamel Sauce - Microwave</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Microwave</cat>
+        <cat>Syd's book</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Unsalted Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>All-Purpose Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Tabasco Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Half And Half</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh Chives, Chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Microwave butter in a medium microwave safe bowl, covered with plastic
+  wrap, on high power until butter is melted, about 1 minute.  Stir in flour,
+  salt and Tabasco sauce until smooth.  Gradually pour in Half and Half,
+  whisking until smooth.  Microwave, covered with plastic wrap, on high for 2
+  minutes.  Whisk until smooth.  Microwave for 2 minutes longer. Serve warm.
+  Garnish with chopped chives.  Makes 1-1/4 cups.  114 calories per 1/4 cup.
+  From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

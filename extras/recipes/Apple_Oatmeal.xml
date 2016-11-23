@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Oatmeal</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Microwave</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Unsweetened apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Firm apple pared &amp; finely Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Oatmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Place juice, water, apple and seasonings in microwave proof measuring cup.
+  Nuke for 2.5 min. Place oatmeal in microwave proof serving bowl. Add
+  microwaved apple mixture to oatmeal. Microwave 1 min for quick oats, 3 min
+  for regular. Notes: Seasonings can be adjusted according to taste. Half
+  apples keep well until the next day or two by wrapping the unpealed half in
+  plastic wrap. Granny Smith or Macintosh apples are great for this.
+ 
+</step></directions></recipe></recipeml>

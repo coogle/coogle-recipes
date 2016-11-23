@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Frittata</title>
+      <categories>
+        <cat>Eggs</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Artichokes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves, peeled, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>small</unit></amt>
+        <item>Red potatoes (about 1/2 pound),  grated</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Eggs, well beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped fresh oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced fresh chives</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Minced fresh rosemary</item></ing></ingredients>
+    <directions>
+      <step>  This thick and sturdy herbed omelet lets the full flavor of fresh
+  artichokes shine through.
+  
+  Prepare artichokes (see recipe for Young Artichokes and Fava Beans
+  Stewed in Olive Oil) and cut them into 1/2-inch cubes.
+  
+  Heat the olive oil in a medium-sized, heavy-bottomed skillet over
+  medium heat.  Add the garlic and saute until translucent, 2 to 3
+  minutes. Reduce heat slightly and add the artichoke cubes; saute
+  until tender, about 10 minutes, stirring often.  Add the grated
+  potatoes and cook for another 5 minutes.  Add the eggs, salt, pepper
+  and herbs.
+  
+  To set the eggs, let them cook for 2 or 3 minutes, without stirring,
+  then lift the set edges and tilt the skillet slightly to let the
+  uncooked egg run underneath.  Repeat until the egg is set.
+  
+  Serve hot or cold, cut into wedges.
+  
+  Serves 4.
+  
+  PER SERVING:  335 calories, 18 g protein, 31 g carbohydrate, 18 g fat
+  (4 g saturated), 422 mg cholesterol, 524 mg sodium, 10 g fiber.
+  
+  From the San Francisco Chronicle, 4/23/93.
+  
+  Posted by Stephen Ceideberg; May 11 1993.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

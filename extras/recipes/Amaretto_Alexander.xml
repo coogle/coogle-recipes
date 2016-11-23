@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Alexander</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Amaretto liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Half-and-half</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>White creme de cacao</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>quarts</unit></amt>
+        <item>Vanilla ice cream</item></ing></ingredients>
+    <directions>
+      <step>  CBUSA CDROM from J&amp;D Dist, 1160 South State ST #220, Orem, UT 84058 Combine
+  amaretto, creme de cacao, and half-and-half in blender.  Put a scoop of ice
+  cream in each sherbet glass and the remainder in blender; blend well. Pour
+  into sherbet glasses and serve.  Serves 10.
+  
+  TOMG@HALCYON.COM (TOM GILCHRIST)
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

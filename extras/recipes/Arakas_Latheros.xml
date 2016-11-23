@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arakas Latheros</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Greek</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh peas</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Scallions</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oil OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Tomatoes, peeled,strained OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato paste diluted with:</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dill, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water as needed</item></ing></ingredients>
+    <directions>
+      <step>     Shell, wash and drain peas.  Chop white part of the callions into small
+  pcs., and the green part into lge. pcs.  Heat oil in large pot.  Add the
+  scallions and cook until soft but not browned.  Add the peas and brown very
+  lightly.  Add the tomatoes (or the diluted paste), dill, salt, and pepper.
+  Add enough water to half cover the peas.  Cover the pot.  Cook over medium
+  heat until only the oil remains and the liquid has been absorbed (abt. 45
+  min.).
+  
+     NOTE:   You can make this without the tomatoes, if you wish.  In that
+  case, add just enough water to cover the peas.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Couscous</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Main dish</cat>
+        <cat>Inet</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>;water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Apricots, dried; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Margarine, nondairy</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cardamom</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Couscous</item></ing></ingredients>
+    <directions>
+      <step>  Combine water, apricots, margarine and cardamom in 1 quart casserole dish.
+  Cover. Microwave on high for 4 minutes, or until water reaches full boil.
+  Add couscous. Cover. let stand 5 minutes or until liquid is absorbed.
+  Serves 5
+  
+  Per serving: 124 cal; 3 g prot; 1 g fat; 27 g carb; 14 mg sod
+  
+  Recipe submitted by Laura Benson &lt;1benson@psi.wilmer.com@inet#&gt;
+  
+  MM by DEEANNE
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

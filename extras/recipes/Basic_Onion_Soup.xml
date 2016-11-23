@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Onion Soup</title>
+      <categories>
+        <cat>Soups/</cat>
+        <cat>Stews</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>large</unit></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Water or stock of choice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bouillon cubes (if soup stock is not used)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Bread, toasted</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated Gruyere cheese</item></ing></ingredients>
+    <directions>
+      <step>  Cut the onion into thin slices. Pour the oil into t he soup pot and cook
+  the onions slowly until they turn brown. Stir continually. Add the water
+  and bouillon cubes. Bring the water to a boil and boil for 5 minutes, and
+  simmer for 10 more. Add the salt and pepper. Stir well. Pour the soup into
+  oven-proof soup bowls. Add a slice of toasted bread on top, cover the
+  entire top of the bowls with grated cheese, and carefully place the bowls
+  into a preheated oven (350) for 5 to 10 minutes. Serve the soup with the
+  cheese begins to bubble.
+  
+  Posted to MM-Recipes Digest V4 #186 by Julie Bertholf
+  &lt;jewel1@ix.netcom.com&gt; on Jul 18, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pancakes</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs, Separated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whole Wheat Pastry Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Unbleached Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Banana, Pureed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cooking Oil</item></ing></ingredients>
+    <directions>
+      <step>  Separate the eggs. Beat the whites until stiff. Refrigerate. Mix the two
+  flours, egg yolks and the milk. Puree the bananas. Blend into the flour
+  mixture. Add the vanilla and cinnamon. Mix well. Put a thin coating of oil
+  in a large skillet. Heat well. Fold 4 heaping tablespoons of egg white into
+  1 cup of batter. Pour into the hot skillet. Cook until golden. Continue
+  with the rest of the batter and egg whites. Posted to EAT-L Digest by Joel
+  Ehrlich &lt;Joel.Ehrlich@SALATA.COM&gt; on Jul 8, 1997
+ 
+</step></directions></recipe></recipeml>

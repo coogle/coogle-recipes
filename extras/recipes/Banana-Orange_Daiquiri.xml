@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Orange Daiquiri</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Light rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bottled sweet-and-sour cocktail mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Thawed orange juice concentrate</item></ing>
+      <ing>
+        <amt>
+          <qty>30</qty>
+          <unit/></amt>
+        <item>Ice cubes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Orange slices; (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Place first 4 ingredients in blender, and process until smooth. With
+  blender on, add ice cubes, 1 at a time, and process until smooth. Yield: 5
+  cups (serving size: 1 cup).
+  
+  Serving Ideas : Garnish with an orange slice, if desired.
+  
+  NOTES : Serve immediately.
+  
+  Nutr. Assoc. : 0 0 2323 1008 0 0
+  
+  Posted to MM-Recipes Digest V4 #132 by Sarah Gruenwald &lt;sitm@ekx.infi.net&gt;
+  on May 12, 1997
+ 
+</step></directions></recipe></recipeml>

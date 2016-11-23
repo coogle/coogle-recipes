@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Au Pied De Cochon Re (French Onion Soup)</title>
+      <categories>
+        <cat>France</cat>
+        <cat>Alcohol</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Soups/stews</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>(1/4 stick) unsalted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Onions, thinly sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Dry wine</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Chicken stock or canned</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Low-salt broth</item></ing></ing-div>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>1/2-inch thick French Bread</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Baguette slices, toasted</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Gruye're Cheese (about 4 oz)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Melt butter with oil in heavy large pot over medium heat. Add onions, cover
+  and cook until lightly colored, stirring occasionally, about 45 minutes.
+  Add wine and bring to boil, scraping up any browned bits. Cook 5 minutes.
+  Add browned bits.  Cook 5 minutes. Add stock and bring to simmer. Simmer
+  uncovered 1-1/2 hours. Season to taste with salt and pepper. (Can be
+  prepared 1 day ahead.  Cover and refrigerate.  Bring to simmer before
+  continuing.)
+  
+  Preheat broiler.  Ladle soup into boilerproof bowls. Top with slices of
+  toasted French bread.  Sprinkle with grated Gruyere cheese. Broil until
+  cheese melts. Serve immediately.
+  
+  SOURCE: Bon Appetit Favorite Restaurant Recipes Volume II
+  
+  Shared by Cate Vanicek
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

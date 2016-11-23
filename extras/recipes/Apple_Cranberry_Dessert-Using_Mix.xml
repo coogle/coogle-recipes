@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cranberry Dessert-Using Mix</title>
+      <categories>
+        <cat>Pastry</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bake it all mix</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar -- packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cooking apples -- sliced*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Can whole cranberry sauce**</item></ing></ingredients>
+    <directions>
+      <step>  *3 Medium, pared and cored. **About 1-2/3 cups    Combine sugar, cinnamon
+  and salt in an 8 by 8 by 2-inch baking dish.  Add orange juice, sliced
+  apples and cranberry sauce.  Mix lightly but thoroughly. Bake in a 425 F.
+  oven 15 minutes. Make a well in the Mix. Add milk and stir with a fork
+  until all of Mix is moistened. Drop dough by spoonfuls on hot
+  apple-cranberry mixture. Return to hot oven for 20 to 25 minutes. Serve
+  warm. Yield:  6 servings
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

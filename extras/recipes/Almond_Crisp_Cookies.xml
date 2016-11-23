@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Crisp Cookies</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter (no substitutions)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Granualted sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced almonds*</item></ing></ingredients>
+    <directions>
+      <step>  * (the skins on look prettier, but skinned will do) Preheat oven to 300
+  degrees. Cream together butter and sugar. Add egg whites; beat till smooth.
+  Stir in flour. SPREAD PAPER THIN (I use a dough scraper) and right to the
+  edges of two well greased cookie pans. Sprinkle the almonds on top. Bake
+  for 25 minutes, watching very closely. The almonds should be pale brown.
+  Remove from oven and either cut into squares immediately or let cool and
+  bread into pieces.
+  Posted to recipelu-digest Volume 01 Number 276 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Nov 19, 1997
+ 
+</step></directions></recipe></recipeml>

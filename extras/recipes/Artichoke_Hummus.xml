@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Hummus</title>
+      <categories>
+        <cat>Chile-heads</cat>
+        <cat>Rom mysteri</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked garbanzo beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Lemons</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Kosher salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Virgin olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Juice the lemons.  Combine all ingredients but the oil in the bowl of a
+  food processor, turn on, and slowly drizzle in olive oil as the ingredients
+  are being processed to a creamy consistency.
+  Posted to MC-Recipe Digest V1 #167
+  
+  Date: Wed, 24 Jul 1996 11:42:04 -0700 (PDT)
+  
+  From: PatH &lt;phannema@wizard.ucr.edu&gt;
+  NOTES : Lou Jane Temple is the food writer for the Kansas City Star. She's
+       an owner of Kansas City's trendy eatery, Cafe LuLu (1996)
+ 
+</step></directions></recipe></recipeml>

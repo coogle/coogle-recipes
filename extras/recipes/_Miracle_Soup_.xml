@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Miracle Soup"</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Mar95</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Tins tomaotes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bunch of celery, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>To 3 onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Cabbage, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>To 2 carrots, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Lipton onion soup mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green pepper, chopped</item></ing></ingredients>
+    <directions>
+      <step>  add to a large stock pot, bring to a boil, add more water if necessary.
+  
+  Although slightly bland, it's a good filler, and well, you can see from the
+  ingredients that you probably will loose weight if you ate nothing but this
+  {godawful my mother calls it} soup.
+  
+  Posted by Janet Hatch &lt;janet.hatch@acadiau.ca&gt; to the Fatfree Digest
+  [Volume 16 Issue 19] Mar. 23, 1995.
+  
+  Individual recipes copyrighted by originator. FATFREE Recipe collections
+  copyrighted by Michelle Dick 1995. Formatted by Sue Smith,
+  SueSmith9@aol.com using MMCONV. Archived through kindness of Karen
+  Mintzias, km@salata.com.
+  
+  1.80á
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

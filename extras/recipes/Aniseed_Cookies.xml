@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aniseed Cookies</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>40</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; separated</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Powered sugar; sifted</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, all purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Aniseed; ground</item></ing></ingredients>
+    <directions>
+      <step>  Grease and flour baking sheets.
+  Beat egg yolks, powdered sugar and salt in a large bowl until pale and
+  creamy. Beat egg whites until very stiff; fold into egg yolk mixture.
+  Siftflour, baking powder and aniseed onto egg mixture; fold in quickly but
+  thoroughly. Fill a pastry bag fitted with a plain nozzle with cookie
+  mixture. Pipe in small rounds onto prepared baking sheets. Let stand
+  overnight to dry out.
+  Preheat oven to 325'. Bake cookies 20 minutes. Cool on rack.
+  
+  Miscellaneous recipes from the collection of Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mo-misc.zip
+ 
+</step></directions></recipe></recipeml>

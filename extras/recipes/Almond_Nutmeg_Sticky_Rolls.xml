@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Nutmeg Sticky Rolls</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>14</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sliced almonds</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Light corn syrup</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Grated lemon peel</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon juice</item></ing></ing-div>
+      <ing-div>
+        <title>ROLLS</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Can Pillsbury refrigerated Crescent Dinner Rolls</item></ing></ing-div>
+      <ing-div>
+        <title>GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Almond extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Up to ...</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Milk</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat oven to 350 degrees.  Grease 9 or 8" round cake pan. Sprinkle almonds
+  in pan.  In small saucepan, combine remaining topping ingredients; bring to
+  a boil. Reduce heat; simmer 4 minutes, stirring occasionally. Pour mixture
+  over almonds.  In small bowl, combine 1/3 c sugar and nutmeg; mix well.
+  Separate dough into 2 long rectangles.  Overlap long sides; firmly press
+  perforations and edges to seal. Roll or press out to for 14 x 8" rectangle.
+  Sprinkle sugar mixture evenly over dough. Starting at longer side, roll up.
+  Firmly pinch edge and ends to seal. Cut into 1" slices; place, cut side
+  down, over topping. Bake for 20 to 25 minutes or until golden brown. Invert
+  onto serving plate.  In small bowl, combine powdered sugar, almond extract
+  and enough milk for desired drizzling consistency; blend until smooth.
+  Drizzle over rolls.  Serve warm.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Rigatoni with Ham, Tomatoes and Feta Cheese</title>
+      <categories>
+        <cat>Main</cat>
+        <cat>Dishes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Rigatoni</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced ham</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Plum tomatoes; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Feta cheese; crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mozzarella cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whipping cream</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees. Butter 13x9x2 inch baking dish.Cook pasta in
+  boiling salted until just tender. Drain. Return to pot and mix in ham,
+  tomatoes, feta and mozzarella cheeses, and thyme. Pour cream over. Mix well
+  and pour into prepared baking dish.
+  
+  Cover with foil and bake 15 minutes. Uncover and stir to distribute cheeses
+  evenly. Cover again with foil and bake another 30 minutes.
+  
+  NOTES : Quick and very good.
+  
+  Recipe by: Bon Appetit
+  
+  Posted to FOODWINE Digest  by Dan Taylor &lt;dant69@IDT.NET&gt; on Dec 7, 1997
+ 
+</step></directions></recipe></recipeml>

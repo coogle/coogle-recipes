@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Cucumber Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cucumbers; sliced (unpeeled, unseeded)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Rice vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chili paste w/ garlic (find in asian stores)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste (yes; it does need a bit)</item></ing></ingredients>
+    <directions>
+      <step>  Date: Tue, 20 Feb 1996 18:57:31 -0800 (PST)
+  
+  From: Crystalle Haynes &lt;crystall@po.EECS.Berkeley.EDU&gt;
+  Well, I did it again!  I actually made up (well, sorta) a yummy recipe.
+  This was adapted from a recipe by Bruce Cost.  It was origianlly called
+  Szechuan, but after I eliminated the oil, and some other stuff, it tasted
+  more Japanese to me, so I compromised and called it "Asian".
+  
+  The chili paste adds a bit of zing, but this is not hot at all.  Add more
+  if you like it spicy. Also, the original recipe calls for the cucumbers to
+  be peeled and seeded, but I am too lazy! I rather like it soupy, so seed
+  them if you don't like your salad so soupy...
+  :)
+  
+  Toss together and serve. *Yummy*!!!  :)
+  
+  FATFREE DIGEST V96 #50
+  
+  From the Fatfree Vegetarian recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

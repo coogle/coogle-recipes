@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Spinach Curry</title>
+      <categories>
+        <cat>Beef</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Braising Steak, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Garlic, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit/></amt>
+        <item>Cm (1") Root Ginger, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>And grated</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Coriander seeds, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>OR ground coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin seeds, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>OR ground Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Turmeric</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Cardammon pods seeds removed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>And crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green chillies seeded and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>OR last 5 items can be</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Replaced with:-</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>3 tb Curry paste</item></ing>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit>ounces</unit></amt>
+        <item>Chopped tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pints</unit></amt>
+        <item>Stock</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen Spinach, thawed and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Drained, season with salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>And black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh Coriander, chopped</item></ing></ingredients>
+    <directions>
+      <step>  Heat the oil in a pan and cook onions, garlic and ginger until softened.
+  Add the spices or curry paste and cook for 1-2 minutes. Add meat and cook
+  until browned. Stir in the tomatoes, stock spinach and seasoning. Bring to
+  the boil, cover and simmer for 1 1/2 hours, stirring occasionally. Remove
+  the lid and simmer for a further 30 minutes or until the sauce has
+  thickened and the meat is tender. Stir in the fresh coriander. Serve with
+  rice and/or naan bread and a selection for chutneys.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aran Spiosrai (Irish Spice Bread)</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Irish</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mixed spice *</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger, ground</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Sugar, brown, light</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Citron, candied; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Raisins, plain or golden</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Golden syrup **</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Egg; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  *  Equal parts of cinnamon, nutmeg and allspice.
+  
+  ** Lyons' Golden Syrup, carried in some fancy groceries. If you can't
+     find it, use Karo light corn syrup.
+  
+  Sift the flour with the soda and baking powder, and the mixed spice and
+  ginger:  then add the brown sugar, chopped peel and raisins: mix. Make a
+  well in the center. Melt the butter with the syrup over low heat, then pour
+  into the well in the mixture.  Add the beaten egg and milk and mix very
+  well.  Pour into a greased 2-lb loaf pan and bake in a preheated oven at
+  325 F for 40-50 minutes, or until it tests done.  This bread will keep
+  moist for several days, and actually improves somewhat during this period.
+  
+                               per Diane Duane
+                               Fidonet COOKING echo
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

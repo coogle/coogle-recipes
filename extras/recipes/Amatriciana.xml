@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amatriciana</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced or peeled tomatoes; chopped (or "basic" sauce)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Onion; finely shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Extra virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>White wine; optional</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Oreganon; optional</item></ing></ingredients>
+    <directions>
+      <step>  (in Italy it's usually served with spaghetti)
+  
+  Place oil, onion, garlic, and bacon (and the optional white wine) in a
+  saucepan. Cover and simmer on low heat until the onion is very tender (it
+  takes about 60 minutes if you're using wine, or 45 minutes if no wine is
+  added). Add tomatoes, salt and oreganon. Simmer for another half hour. Then
+  remove the pan from the heat and add pepper. This sauce will stay fresh for
+  a week if it's kept in an air-tight container in the refrigerator. Like
+  every other tomato based sauce, it can also be frozen for a longer life (up
+  to 3 months); however, it's preferable to add salt and pepper after
+  thawing.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Lucretia B
+  &lt;lucretiab@geocities.com&gt; on Dec 10, 1997
+ 
+</step></directions></recipe></recipeml>

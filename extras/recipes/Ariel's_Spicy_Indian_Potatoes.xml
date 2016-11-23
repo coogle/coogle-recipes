@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ariel's Spicy Indian Potatoes</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>x</unit></amt>
+        <item>Large Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed Black Peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dried Green Mango Powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(Amchoor or Umchoor)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil</item></ing></ingredients>
+    <directions>
+      <step>  1) Cut potatoes into shoestrings (ie thin fries).
+  
+  2) Pan fry in oil. Remove to serving platter.
+  
+  3) Sprinkle liberally with crushed black peppercorns and green mango
+     powder.
+  
+  From the kitchen of Peggy and Bruce Travers,Cyberealm BBS Watertown NY
+  315-786-1120
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

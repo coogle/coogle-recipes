@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alsatian Cassoulet</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Stews</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Red cabbage; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Heads cauliflower; cut into florets</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked seitan; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Unpeeled apples; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>White beans; cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Caraway seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shallots; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable stock or dark beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole wheat flour</item></ing></ingredients>
+    <directions>
+      <step>   Preheat oven to 450 deg.
+  
+   Combine all ingredietns, except flour, in a large roasting pan or
+  casserole dish. Sprinkle top with flour.
+  
+   Place in oven and cook, uncovered, for 30 minutes.
+  
+   Reduce heat to 250 deg. Cover and cook for 20 hours, stirring
+  occasionally. Serve hot.
+  
+   Per serving: 442 cal; 43 g prot; 132 mg sod; 64 g carb; 5 g fat; 0 mg
+  chol; 116 mg calcium
+  
+   Source: Vegetarian Gourmet, Winter 93/MM by DEEANNE
+  Posted to MM-Recipes Digest  by "John Weber" &lt;hdbrer@ibm.net&gt; on Mar 21, 98
+ 
+</step></directions></recipe></recipeml>

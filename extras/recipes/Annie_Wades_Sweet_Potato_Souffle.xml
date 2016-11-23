@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Annie Wades Sweet Potato Souffle</title>
+      <categories>
+        <cat>Potatoes</cat>
+        <cat>Side dish</cat>
+        <cat>Holiday coo</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Mashed cooked sweet potatoes, 2 large, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Light rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 F.
+  
+  Combine the mashed sweet potatoes with the rest of the ingredients. Beat
+  well by hand or with an electric mixer. Fold into a buttered 2 quart baking
+  dish. Bake for 45 to 50 minutes or until a knife inserted into the center
+  comes out clean and the top is firm and golden.
+  
+  Recipe by: Sundays at Moosewood Restaurant
+  
+  Posted to MC-Recipe Digest V1 #789 by Lynn Cage &lt;ltcage@onr.com&gt; on Sep 18,
+  1997
+ 
+</step></directions></recipe></recipeml>

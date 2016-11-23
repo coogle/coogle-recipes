@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Made in Japan" Chicken Teriyaki</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Chicken</cat>
+        <cat>Breakfast</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Chicken breasts; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Bean sprouts</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cabbage; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mushrooms; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Any other vegetables; matchsticked or chop</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Terriyaki sauce</item></ing></ingredients>
+    <directions>
+      <step>  1. In wok or large skillet, with small amount of oil, cook vegetables until
+  done.
+  
+  2. In smaller skillet (or same skillet after vegetables are cooked), heat
+  small amount of oil and quickly cook chicken shreds until done. Season with
+  salt and pepper to taste.
+  
+  3. Serve both over plate of sticky rice drizzled with a good store-bought
+  terriyaki sauce.
+  
+  NOTES : Other vegetables to add: carrots, broccoli, celery, bok choy. I
+  like the cabbage well-done, but the beansprouts added at the very last
+  minute so they're hot, but still crunchy.
+  Recipe by: Cathleen
+  
+  Posted to recipelu-digest Volume 01 Number 442 by "Diane Geary."
+  &lt;diane@keyway.net&gt; on Jan 3, 1998
+ 
+</step></directions></recipe></recipeml>

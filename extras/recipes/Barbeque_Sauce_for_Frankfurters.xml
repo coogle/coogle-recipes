@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbeque Sauce for Frankfurters</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tobasco</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing></ingredients>
+    <directions>
+      <step>  This recipe is from a small handwritten book I found at a used book store..
+  Little history of St.Bridget's Guild:
+  
+  On May 18, 1936, seventeen woman of St.Bridgets parish met for the purpose
+  of organizing a charitable society, named St. Bridget's Guild and dedicated
+  to raising money to buy baskets of food to help brighten the holidays of
+  needy families in the parish. Today it has grown to over 350 members.
+  
+  Split hotdogs, cook in 350 oven 20 minutes, basting frequently with sauce.
+  
+  Recipe by: Fran Pettay
+  
+  Recipe by: ST.BRIDGET'S GUILD OF CHESHIRE,CT 1936
+  
+  Posted to recipelu-digest Volume 01 Number 629 by ctlindab@mail1.nai.net on
+  Jan 29, 1998
+ 
+</step></directions></recipe></recipeml>

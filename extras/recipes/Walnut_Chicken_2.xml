@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Chicken</title>
+      <categories>
+        <cat>Indian</cat>
+        <cat>Poultry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Onion, finely sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>100</qty>
+          <unit>grams</unit></amt>
+        <item>Walnuts, roughly ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Roasting chicken, jointed</item></ing>
+      <ing>
+        <amt>
+          <qty>300</qty>
+          <unit>mililiters</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit/></amt>
+        <item>Cinnamon stick</item></ing>
+      <ing>
+        <amt>
+          <qty>150</qty>
+          <unit>mililiters</unit></amt>
+        <item>Tamarind extract</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Curry leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Heat the oil in a pan large enough to hold the chicken pieces without
+  having them overlapping. Fry the sliced onions until transparent, then add
+  the ground walnuts and continue cooking., stirring constantly for 3-4
+  minutes, or until onions mix with the walnuts to make a paste.Remove this
+  mixture from the pan, squeezing out as much oil as possible.
+  
+  Cook the chicken in the oil left in the pan until the pieces are well
+  sealed on all sides. Return the paste to the pan, pour in the water, then
+  add the salt and the cinnamon. Cook, covered for about 15 - 20 minutes, or
+  until chicken is cooked. Pour in the tamarind extract, then toss in the
+  curry leaves and sugar. Uncover the pan and continue to cook gently for a
+  further 5 minutes. Re-cover the pan and leave over a low heat for 10
+  minutes before serving.
+  
+  Source: The Best of Indian Cookery-Z. Shareef
+  Posted to EAT-L Digest 29 Dec 96
+  
+  From:    "Imran C." &lt;imranc@ONTHENET.COM.AU&gt;
+  
+  Date:    Tue, 31 Dec 1996 11:38:46 +1000
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Potatoes</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Red potatoes; cut in quarters</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt; optional</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cooking spray</item></ing></ingredients>
+    <directions>
+      <step>  1.  Spray a sheet of foil with cooking spray. Set the foil on BBQ grill.
+  start the grill. 2. Add potatoes to a covered glass casserole and sprinkle
+  with seasonings. Microwave on high for 5 minuted, stirring after 1 1/2
+  minutes.  Set aside. 3. When the grill is hot, arrange potatoes on foil.
+  Close hood and cook for 15 minutes, turning potatoes half way through
+  cooking time.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Crumble</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Allspice</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350. Grease a 9 by 5 inch loaf pan. Line bottom and along
+  sides of pan with waxed paper. Allow 3 inches overhang of paper at top.
+  Sift flour, sugar, baking powder and salt together in a large bowl. Cut in
+  butter until mixture resembles coarse meal. Remove 1/2 cup flour mixture to
+  medium bowl and set aside. Stir eggs, milk ,vanilla and almond extracts
+  into original flour mixture. And beat until blended. Pour about 1 cup
+  batter into prepared pan. Add almonds, cinnamon, and allspice to reserved
+  flour mixture and stir well. Sprinkle 1/3 of the nut mixture over batter in
+  pan. Repeat layering twice, ending with nut mixture. Bake until toothpick
+  inserted in center comes out clean, about 70-80 minutes. Loosen sides of
+  loaf pan with wide spatula. Grasping waxed paper firmly, pull loaf from pan
+  and cool on wire rack.
+  Recipe By     :THE DESSERT SHOW SHOW# DS3018
+  
+  Posted to MC-Recipe Digest V1 #261
+  
+  Date: Sat, 26 Oct 1996 22:42:31 -0400
+  
+  From: Meg Antczak &lt;meginny@node1.frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

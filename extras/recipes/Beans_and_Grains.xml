@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beans and Grains</title>
+      <categories>
+        <cat>Beans/peas</cat>
+        <cat>Crockpot</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Navy Beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Millet</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bulgur</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water; to cover</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Rosemary; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Garlic Powder; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bay Leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Barley</item></ing></ingredients>
+    <directions>
+      <step>  Cook navy beans, barley and spices in crockpot till almost done.  Add
+  millet and bulgar. Cook about 2 more hrs. Serve. Very good.
+  
+  Entered into MasterCook and tested for you by Reggie Dwork
+  reggie@reggie.com
+  Posted to Digest eat-lf.v096.n136
+  
+  Date: Wed, 28 Aug 1996 21:59:03 -0700
+  
+  From: Reggie Dwork &lt;reggie@reggie.com&gt;
+  NOTES : Can vary the beans, grains and spices to your preference.
+       Can add more water to make this into more of a soup.
+ 
+</step></directions></recipe></recipeml>

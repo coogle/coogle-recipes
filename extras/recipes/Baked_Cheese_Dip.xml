@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Cheese Dip</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cheddar cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Monterey Jack cheese; shred</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Parmesan cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion; chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Artichokes; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>10" round sourdough bread</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Hollowed out</item></ing></ingredients>
+    <directions>
+      <step>  Mix all the ingredients together and hollow out a round loaf of French
+  bread.  Put the mixture into the bread, put lid back on and bake for 1-1/4
+  hours at 350~.
+  Posted to EAT-L Digest 10 Sep 96
+  
+  Date:    Wed, 11 Sep 1996 11:43:42 -0500
+  
+  From:    "hassell@eecs.tulane.edu" &lt;hassell@EECS.TULANE.EDU&gt;
+ 
+</step></directions></recipe></recipeml>

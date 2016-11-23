@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Cheese and Tomato Sandwiches</title>
+      <categories>
+        <cat>Sandwiches</cat>
+        <cat>Microwave</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Slices Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Slices Rye Bread, Toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Mayo Or Salad Dressing</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried Dill Weed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Large Tomato, Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Slices Swiss Cheese</item></ing></ingredients>
+    <directions>
+      <step>  Place bacon on microwave rack in glass dish.  Cover loosely and microwave
+  until crisp, 2-1/2 to 3-1/2 minutes. Spread toast with mayonnaise; sprinkle
+  with dill. Place toast slices on serving plate; top with tomato and cheese
+  slices.  Crumble bacon and sprinkle over top. Microwave uncovered on high
+  (100%) until cheese begins to melt, 1 to 1-1/2 minutes. From: Syd's
+  Cookbook.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

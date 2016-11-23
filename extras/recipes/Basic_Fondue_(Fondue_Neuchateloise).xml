@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Fondue (Fondue Neuchateloise)</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Cheese/eggs</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Clove garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>5 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Emmental and Gruyere cheese*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Kirsch**</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Shake pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grind fresh nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>White bread, cubed</item></ing></ingredients>
+    <directions>
+      <step>  (Note:  the above measurements are for *each* person.
+   Multiply by your number of guests.)
+  
+  * Grated and mixed half and half.  ** This is Swiss cherry firewater:
+  clear, dry-tasting -- *not* "cherry brandy", which is dark and sweet.
+  
+  Most good liquor stores should carry it, at least one of the US brands like
+  Hiram Walker, or else maybe Bols. The best Kirsch is "Etter" brand from
+  Switzerland, but the odds of your finding it are minuscule. -- In
+  Switzerland, fondue is usually perpared in a "caquelon", an earthenware
+  dish with a handle, glazed inside; but any enamelled saucepan can be used,
+  or a not too shallow fireproof dish. Rub the inside of the pan with half a
+  cut clove of garlic, and let it dry until the rubbed places feel tacky. Put
+  the wine in the dish and bring it to a boil. Slowly start adding cheese to
+  the boiling wine, and stir constantly until each bit is dissolved, then add
+  more.  When all the cheese is in, stir the kirsch into the cornstarch well,
+  then add the mixture to the cheese and keep stirring over the heat until
+  the mixture comes to a boil again. Add freshly ground pepper and nutmeg to
+  taste.  -- Remove the dish to on top of a small live flame (Sterno or
+  alcohol burner) and keep it bubbling slowly. Bread should have been cubed
+  ~- about 1-inch cubes -- for spearing with fondue forks and stirring around
+  in the cheese.  The old custom is that if you accidentally lose the bread
+  into the cheese from the end of your fork, if you're male, you have to buy
+  a round of drinks for the table: if you're female, you have to kiss
+  everybody. (Hmm.) .
+  
+  Other fondue info:  Do not drink water with fondue -- it reacts unkindly in
+  your stomach with the cheese and bread. Dry white wine or tea are the usual
+  accompaniments.  Another tradition:  the "coupe d'midi", or "shot in the
+  middle", for when you get full: a thimbleful of Kirsch, knocked straight
+  back in the middle of the meal, usually magically produces more room if
+  you're feeling too full. Don't ask me how this works...it just does. -- The
+  crusty bit that forms at the bottom of the pot as the cheese keeps cooking
+  is called the "crouton", and is very nice peeled off and divvied up among
+  the guests as a sort of farewell to dinner.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

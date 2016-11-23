@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Awesome Sliced Tomatoes</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>And</cat>
+        <cat>Dressings</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tomatoes sliced in 1/2 inch thick slices</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Celery; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Green onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Blue cheese; crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parmesan cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Italian dressing</item></ing></ingredients>
+    <directions>
+      <step>  Using a 4-inch cookie sheet, layer tomatoes, celery, onions, blue cheese
+  and Parmesan cheese in this order. Sprinkle Italian dressing over top.
+  Cover with plastic wrap; refrigerate several hours. If you serve directly
+  from cookie sheet, cover the bottom with foil. These stay good for several
+  days.
+  
+  NOTES : These are my quick Church or club stand by.
+  
+  Recipe by: Tootie Dennis
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  LVFG53A@prodigy.com (MRS IRA M DENNIS) on Sep 13, 1997
+ 
+</step></directions></recipe></recipeml>

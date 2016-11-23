@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Up Salad (Aka Martian Guts)</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>7-up®</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Lime jell-o</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Miniature marshmallows</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Crushed pineapple; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Cool whip®</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Cindy Fewless Heat 7-Up and lime Jell-O together in a saucepan
+  until Jell-O is dissolved. Add marshmallows and stir until melted. Add
+  cream cheese and remove from heat. Mix with whisk until the cream cheese is
+  combined.  Add drained pineapple and mix well. Put in refrigerator
+  overnight to thicken.
+   Next day, stir in Cool Whip thoroughly.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

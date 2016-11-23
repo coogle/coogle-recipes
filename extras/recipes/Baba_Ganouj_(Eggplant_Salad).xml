@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baba Ganouj (Eggplant Salad)</title>
+      <categories>
+        <cat>Eggplant</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Eggplant</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Tahini</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley sprigs; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Green onion; minced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees. Cut off the stem ends of the eggplant and
+  prick it all over with a fork. Place it directly on an oven rack and let it
+  roast until completely pooped (about 45 minutes). When it is sagging,
+  wrinkled, crumpled, and totally soft, you'll know it's ready. Remove it
+  from the oven, and let cool. Scoop the insides out and mash well. Combine
+  with rest of ingredients, except olive oil. Chill well. Drizzle the oil
+  over the top before serving. Serve with assorted crackers.
+  
+  Recipe by: Cindy Tarsi -  The Moosewood Cookbook
+  
+  Posted to recipelu-digest Volume 01 Number 232 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Nov 09, 1997
+ 
+</step></directions></recipe></recipeml>

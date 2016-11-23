@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amarillo Chili</title>
+      <categories>
+        <cat>Chili</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bacon,slices,1/2" pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onion(s)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork shoulder,coarse grind</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef round,1/2" strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef chuck,coarse grind</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cans</unit></amt>
+        <item>Green chiles,whole</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Red chile,hot,ground</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Red chile,mild,ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano,dried,pref. Mexican</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Pinto beans</item></ing></ingredients>
+    <directions>
+      <step>  1. Fry bacon in a large, deep heavy pot over medium heat. When the bacon
+  has rendered most of its fat, remove the pieces with a slotted spoon, drain
+  on paper toweling and reserve.
+  
+  2. Add the onions and garlic to the bacon fat and cook until the onions are
+  translucent.
+  
+  3. Add the pork and beef to the pot. Break up any lumps with a fork and
+  cook over medium-high heat, stirring occasionally, until the meat is evenly
+  browned.
+  
+  4. Stir in the remaining ingredients except the beans and the bacon. Bring
+  to a boil, then lower the heat and simmer, uncovered, for 2 hours. Stir
+  occasionally.
+  
+  5. Taste and adjust seasonings. Stir in the beans and the bacon, and simmer
+  for 1/2 hour longer.
+ 
+</step></directions></recipe></recipeml>

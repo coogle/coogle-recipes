@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Fritters-Basic Recipe</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour -- sifted</item></ing></ingredients>
+    <directions>
+      <step>  Prepare Fritter batter (to bind fruit or Veggies)   Beat eggs, stir in
+  milk.  Sift together flour, baking powder, and salt; add to eggs and milk.
+  Add the oil and mix well.  Cut up Fruit or veggies and dip in batter. Drop
+  into hot deep oil and fry until brown.  Drain and serve hot with syrup (or
+  gravy for veggies)   Batter can be used for many things, Can add a cup of
+  corn to make corn fritters. Bananas, cut in half and dip in batter and fry.
+  Use for onion rings also.   Can sprinkle Fruit Fritter with Powdered sugar.
+  French Fried Bread, just dip bread and fry.
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

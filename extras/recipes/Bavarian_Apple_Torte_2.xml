@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Apple Torte</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BASE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Soft butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>All purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Raspberry jam</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>packages</unit></amt>
+          <item>(250 g) cream cheese at room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>cups</unit></amt>
+          <item>Apple slices</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sliced almonds BASE:</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  With Christmas soon upon us I thought it would be nice to post some of my
+  favorite cheesecakes all taken from my Simply Delicious cooking 2 cookbook.
+  
+  Have fun, Chef K
+  
+  Cream the butter, sugar and vanilla, add the flour and mix well. Press into
+  the bottom of a 10" spring form pan. Spread the crust with jam.
+  
+  FILLING: Beat the cream cheese, sugar and vanilla until smooth. Add the
+  eggs one at a time, beating well after each addition. Pour evenly over jam.
+  
+  TOPPING: Combine sugar and cinnamon, toss with sliced apples and spoon over
+  cream cheese layer. Sprinkle with almonds and bake in a preheated oven at
+  350 F (180 C) 75 minutes or until golden. Chill 8 hours.
+  
+  Posted to EAT-L Digest  by RKalenuik &lt;RKalenuik@AOL.COM&gt; on Dec 10, 1997
+ 
+</step></directions></recipe></recipeml>

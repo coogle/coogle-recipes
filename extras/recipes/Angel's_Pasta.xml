@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel's Pasta</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat>
+        <cat>Pasta/noodl</cat>
+        <cat>Sauces/grav</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Strawberries; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Dark brown sugar; divided</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Angel hair pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Toasted hazelnuts; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: unknown (5/20/96) In a small bowl, gently toss the sliced
+  berries and 1 tablespoon of the sugar. Cover and set aside. In a medium
+  saucepan, mix the cream and the rest of the sugar. Bring to a boil,
+  stirring constantly. Lower the heat and simmer until the sugar has
+  dissolved, cream has turned light brown and mixture is smooth. Remove from
+  the heat. Cook the pasta per package instructions, omitting the salt. Be
+  sure to drai the pasta completely. Over medium heat, add the pasta to the
+  sauce mixture and toss until coated. Before serving, spoon the berries with
+  their juice over the pasta and sprinkle with the chopped nuts. Serve
+  immediately.
+ 
+</step></directions></recipe></recipeml>

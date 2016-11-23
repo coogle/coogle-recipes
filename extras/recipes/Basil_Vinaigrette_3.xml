@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Vinaigrette</title>
+      <categories>
+        <cat>Salad dress</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried basil (or 1/2 tsp fresh)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried oregano (or 1/2 tsp fresh)</item></ing></ingredients>
+    <directions>
+      <step>  Date: Wed, 22 May 1996 23:35:23 -0400
+  
+  From: BobbieB1@aol.com
+  
+  Put all ingredients in a small bowl, and stir.  Let sit about 10 minutes.
+  Tanya Heikkinen theikkinen@marvin.ag.uidaho.edu From Fatfree Digest
+  April-May 1994, Formatting by Sue Smith (using MMCONV)
+  
+  Posted to MealMaster Recipes List, Digest #143
+ 
+</step></directions></recipe></recipeml>

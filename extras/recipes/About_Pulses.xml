@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>About Pulses</title>
+      <categories>
+        <cat>About</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>"Some</qty>
+          <unit>of</unit></amt>
+        <item>the most common kinds of pulses used in Indian cooking are as</item></ing></ingredients>
+    <directions>
+      <step>  follows:
+  
+  Chana dal (or gram dal) are hulled and split chick-peas. Deep yellow in
+  color, these pulses do not need soaking before cooking."
+  
+  "Kabli chana are yellow chick-peas. Unhulled and beige in color, they need
+  overnight soaking before cooking.
+  
+  "Kala chana are small brown or black chick-peas. Like kabli chana, they
+  require long presoaking and cooking to become tender.
+  
+  "Continental masoor are whole greenish-brown lentils. Flat and oval-shaped,
+  they originated in the West and were adopted by India, so they should
+  already be fairly familiar to you. They do not need presoaking."
+  
+  "Masoor are brown Indian lentils. Whole but smaller than continental
+  masoor, they do not require presoaking.
+  
+  "Masoor dal are split masoor which are tiny and salmon-pink because they
+  have also been hulled. They do not need presoaking and turn yellow when
+  they cook.
+  
+  "Moong beans (or hari dal) are dark green, small, and slightly cylindrical
+  in shape. They need 2-4 hours' soaking before cooking, but if oversoaked
+  they will sprout and become moong bean sprouts so familiar in the West."
+  
+  "Moong dal chilka are split moong beans, green on one side and pale on the
+  other. They do not need presoaking.
+  
+  "Moong dal are split, light yellow, and rectangular in shape because they
+  are hulled. They do not need to be soaked before cooking.
+  
+  "Toor dal (or arhar dal) are a hulled, split pulse, a little larger than
+  chana dal. Dull and yellow-colored, they do need presoaking."
+  
+  "Urid (or black matpe) are small, dull, and black, similar in size and
+  shape to moong beans. They must be presoaked.
+  
+  "Urid dal are split urid that do not need to be soaked before cooking.
+  
+  "Washed urid dal are off-white because they have been hulled and washed as
+  well as split. They do not require presoaking."
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

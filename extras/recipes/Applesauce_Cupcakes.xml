@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce Cupcakes</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Diabetic</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Unsweetened applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375 F.  Cream margarine until fluffy.  Beat eggs and
+  sugar; add to margarine and blend.
+  
+  Sift together dry ingredients.  Add to margarine mixture alternately
+  with applesauce, mixing well after each addition.  Stir in vanilla
+  and nuts.
+  
+  Spoon into 12 cupcake pans sprayed with vegetable pan spray or use
+  paper baking cups.  Bake 15-20 min.
+  
+  1 cupcake - 177 calories, 1 1/2 Starch/bread exchange, 1 1/2 fat 2.7
+  gm protein, 9.8 gm fat, 19.8 gm carbohydrate, 207.6 mg sodium, 53.3 mg
+  potassium, 1 gm fiber, 23 mg cholesterol
+  
+  Source:  Am. Diabetes Assoc., Family Cookbook Vol 1 1987 Shared but
+  not tested by Elizabeth Rodier Nov 93.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

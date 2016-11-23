@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"The Works" Pizza</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>(10.7-oz) Totino's Party Pizza Frozen Combination Sausage and Pepperoni Pizza</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar (2.5-oz) sliced mushrooms; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped green/red bell pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>(2 oz) shredded Mozzarella</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sliced green olives</item></ing></ingredients>
+    <directions>
+      <step>   Heat oven to 425 degrees. Grease cookie sheet or pizza pan. Place frozen
+  pizza on greased cookie sheet; sprinkle remaining ingredients over pizza.
+  
+   Bake on middle oven rack at 425 for 15-17 minutes or until cheese melts.
+  
+   TIP: Do not bake this recipe directly on oven rack.
+  
+  CALORIES: 330     SODIUM: 940MG
+  
+  CHOLESTEROL: 20MG    FAT: 18G
+  
+  CARBOHYDRATE: 25G    SAT:  5G
+  
+  From &lt;Meals In Minutes&gt;, a Pillsbury Classic Cookbook.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

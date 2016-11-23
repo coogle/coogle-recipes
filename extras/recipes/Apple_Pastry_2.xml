@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pastry</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>To post</cat>
+        <cat>Yeast</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Sweet DOUGH MASTER RECIPE</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apples; peeled, cored and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Using the Sweet Dough recipe, pat 1/2 of dough into a greased 9-inch pie
+  plate. Brush with melted margarine. Arrange apples on top of dough and
+  sprinkle with sugar and cinnamon. Let rise and 1 1/2 hours. Bake at 375
+  degrees for 12 minutes.
+  
+  Source: Home Cooking-Feb.1989 posted to reciplu 1-23-98 Contributor: Sarah
+  Gruenwald
+  
+  Posted to recipelu-digest Volume 01 Number 576 by P&amp;S Gruenwald
+  &lt;sitm@ne.infi.net&gt; on Jan 22, 1998
+ 
+</step></directions></recipe></recipeml>

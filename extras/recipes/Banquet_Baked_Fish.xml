@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banquet Baked Fish</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat>
+        <cat>Nfld</cat>
+        <cat>Traditional</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole fish or lg section</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sm bread cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Mild cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried leaf savory</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sprinkle of pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>33</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour seasoned with 1/2 tsp savory 1/4 tsp sage 1/4 tsp salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sprinkle of pepper</item></ing></ingredients>
+    <directions>
+      <step>  Saute onion in butter.  Add to bread cubes with seasoning, water, and 1/2
+  of the cheese.  if too dry, add more water. Pack stuffing firmly inside and
+  in front of fish. Dredge all over with seasoned flour. Bake with 3/4 cup of
+  hot water in bottom of pan until browned and tender, about 50 minutes at
+  350f, basting frequently.
+  
+  While fish bakes cream 4 tbsp butter with 1/4 cup flour, add juice of 1
+  lemon or 3 tbsp juice (bottled), 3 tbsp sugar, and 1 1/2 c water. Cook over
+  low heat, stirring until thickened. Add to gravy in pan with remaining
+  cheese.  Baste fish again with thickened gravy.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

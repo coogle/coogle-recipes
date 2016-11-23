@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baby Salmon Stuffed with Caviar (Part 3) (Assembly)</title>
+      <categories>
+        <cat>Seafood</cat>
+        <cat>Masterchefs</cat>
+        <cat>Frisco</cat>
+        <cat>M</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salmon Mousse ***</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Red Wine Sauce ***</item></ing></ing-div>
+      <ing-div>
+        <title>SALMON</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Salmon, baby, filet (@ 5- 6 oz), head, tail and skin on</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Caviar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chives, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Wine, white</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Puree, shallot</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Bay leaf</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cucumber, sauteed, cut into strings)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Tomato, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chives, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Eggs, salmon</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Crayfish tails</item></ing></ing-div></ingredients>
+    <directions>
+      <step>       *** These recipes should be prepared before hand.
+  
+  For the Salmon:
+  ===============
+  
+       Wash and salt and pepper the baby salmon.  Pipe the salmon mousse into
+  the inside of the salmon.  Add a line of caviar inside of the salmon, then
+  sprinkle with chives.
+  
+       Close the fish.  In a saute pan, heat white wine.  Add shallot puree
+  and bay leaf.  Place the fish in the saute pan (belly down) and bake in a
+  350 - 400 F oven for 20 minutes.  When fish is cooked, remove from pan,
+  remove the skin and reserve in a warm place.  Heat juices in saute pan for
+  a couple of minutes.  Strain juices into a saucepan containing a wine
+  butter sauce (see page 28).
+  
+  For the Assembly and Garnish:
+  =============================
+  
+       Place the baby salmon on a serving dish.  Ladle some of the
+  salmon-flavored red wine sauce over half the fish and the wine butter
+  sauce (flavored with the poaching liquid) over the other half.
+  
+       Garnish with cucumber, tomato, chives, salmon eggs, and crayfish tails
+  (boiled).
+  
+       Source:  Great Chefs of San Francisco, Avon Books, 1984
+  
+       Chef:   Masataka Kobayashi, Masa's, Vintage Court Hotel,
+       :       San Francisco, CA
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-sf.zip
+ 
+</step></directions></recipe></recipeml>

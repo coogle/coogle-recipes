@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Carrot Soup</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oriental sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>large</unit></amt>
+        <item>Green onions, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Sweet potato, peeled,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Carrots, peeled, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>29</qty>
+          <unit>ounces</unit></amt>
+        <item>Vegetable broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Inch-square fresh ginger, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Snipped fresh chives</item></ing></ingredients>
+    <directions>
+      <step>  1. Heat oil in 3-quart saucepan over medium-high heat. When hot, add onion.
+  Cook until softened, about 3 minutes, stirring often. Add sweet potato,
+  carrots, vegetable broth and water. Heat to a boil. Simmer, covered, until
+  vegetables are very soft, about 25 minutes.
+  
+  2. Strain solids from liquid, reserving broth. Puree solids with ginger in
+  blender or food processor. Add 1 cup liquid and puree mixture until very
+  smooth, about 1 minute. Stir mixture into remaining liquid. Season to
+  taste. Soup can be served hot or chilled. It will last in the refrigerator
+  for up to three days and freezes well. To serve, garnish with snipped
+  chives.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

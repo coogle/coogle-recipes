@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Salad</title>
+      <categories>
+        <cat>Ew</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Apples,; cored and diced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Container of strawberry yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Navel orange</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tangerine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tangelo</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Valencia orange</item></ing></ingredients>
+    <directions>
+      <step>  Place apples in a large bowl place apples. In separate bowl pour yogurt and
+  squeeze juice from oranges (different orange types can be substituted) a
+  little at a time to desired consistency. Pour yogurt mixture over apples.
+  Chill and serve.
+  Recipe By     :FROM MY GARDEN SHOW #5526
+  
+  Posted to MC-Recipe Digest V1 #246
+  
+  Date: Wed, 16 Oct 1996 14:24:36 -0400
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

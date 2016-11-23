@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angela's Milanese</title>
+      <categories>
+        <cat>Garlic</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Round Steak, sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Plain bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Cloves fresh garlic</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch of salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Dried hot chile peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Peel lemon, cut into strips</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sprigs fresh Rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>8 oz. ea tomato sauce</item></ing></ingredients>
+    <directions>
+      <step>  Dip steak in egg which has been beatn with water.  Dredge meat in crumbs.
+  Pour olive oil into large skillet to 1/8 inch and heat until very hot.
+  Brown steak quickly in oil turning once, until golden, adding more oil if
+  needed.  Remove from skillet and drain on paper towel.  Wipe out skillet
+  and pour about 1/16 inch oil.  Heat to very hot.  Chop garlic with salt
+  and add with chile peppers, lemon peel and rosemary to hot oil; saute
+  briefly then add tomato sauce and meat.  Gently cover meat with sauce and
+  simmer over low heat for at least 30 minutes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/garlic.zip
+ 
+</step></directions></recipe></recipeml>

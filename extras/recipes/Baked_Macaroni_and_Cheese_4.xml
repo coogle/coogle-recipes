@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Macaroni and Cheese</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Cheese</cat>
+        <cat>Vegetarian</cat>
+        <cat>Pasta-hot</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Boxes kraft macaroni and cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of mushroom soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated extra sharp cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs beaten</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper.</item></ing></ingredients>
+    <directions>
+      <step>  cook macaroni and cheese as directed. Once cheese, milk and butter are
+  added add can of mushroom soup, cheddar cheese and eggs. Transfer to a
+  baking dish and top with more cheese. Bake at 350 for about 30 mins..just
+  til cheese on top begins to brown.
+  Posted to TNT Recipes Digest by JoAnn &lt;joannr@pclink.com&gt; on Feb 19, 1998
+ 
+</step></directions></recipe></recipeml>

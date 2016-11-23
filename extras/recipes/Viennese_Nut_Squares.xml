@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Viennese Nut Squares</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Sweet butter</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Lemon (juice and peel)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Apricot preserves</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs, separated</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Chopped pecans</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Granulated sugar</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cut butter into flour until the size of small peas. Beat eggs and add
+  with sugar, lemon juice and peel. Save out 1 cup of this dough. Roll
+  out remaining dough to fit bottom and side of a greased 9x13" pan.
+  Spread the dough with apricot preserves. Chill while preparing
+  filling.
+  
+  Filling: Mix egg yolks with sugar; add nuts. Beat egg whites until
+  stiff. Carefully fold in nut mixture. Spread over apricots. Roll out
+  saved dough. Cut in 1/2" strips to form a diagonal lattice on top of
+  filling. Bake at 350'F. 60-75 minutes until golden.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

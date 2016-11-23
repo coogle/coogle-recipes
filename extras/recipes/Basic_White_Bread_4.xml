@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic White Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Bread maili</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>grams</unit></amt>
+        <item>Yeast ;  (1 1/2 tsp.)</item></ing>
+      <ing>
+        <amt>
+          <qty>300</qty>
+          <unit>grams</unit></amt>
+        <item>Flour  ;  (2 cups)</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>grams</unit></amt>
+        <item>Milk powder ;  (1 tbsp.)</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>grams</unit></amt>
+        <item>Sugar  ; (1 tbsp.)</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>grams</unit></amt>
+        <item>Salt ;  (1/2 tsp.)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>grams</unit></amt>
+        <item>Bread improver ;  (1/2 tsp.)</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>grams</unit></amt>
+        <item>Butter  ; (1 tbsp.)</item></ing>
+      <ing>
+        <amt>
+          <qty>220</qty>
+          <unit>mililiters</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Bake:  Rapid
+  
+  &gt;From: sherae@zeta.org.au (Sheri McRae)
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  NOTES :
+       ÒFound!  A booklet of recipes by weight.  Where the recipes say
+       bread
+       improver you'll probably just want to leave it out and use bread
+       flour.  If
+       you want more of these recipes by weight, I'm happy to post some
+       more.
+       Haven't tried the white but have tried the Wholemeal and it was
+       good.Ó
+ 
+</step></directions></recipe></recipeml>

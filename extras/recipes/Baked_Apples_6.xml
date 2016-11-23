@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apples</title>
+      <categories>
+        <cat>Baby food</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Washed apple, top and core removed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Of cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350~.
+  
+  Sprinkle the inside of the apple with the sugar and cinnamon. Place in a
+  baking dish, with a few spoonfuls of water at the bottom. Bake until tender
+  or 30-45 minutes.
+  
+  (NOTE: this is a good one for dessert for the whole family. Adults can
+  sprinkle nuts on top of their portions).
+  
+  From "Make Your Own Baby Food" By Lorrie Scally.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/kids.zip
+ 
+</step></directions></recipe></recipeml>

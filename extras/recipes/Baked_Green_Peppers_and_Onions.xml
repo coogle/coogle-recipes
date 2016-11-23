@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Green Peppers and Onions</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced green bell peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced onions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, or oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Source: Best Vegetable Recipes from Women's Day, 1980
+  
+  Put all ingredients in 1 1/2 quart casserole.  Cover and bake at
+      350    for 45 minutes.
+  
+  Nutrition (per serving):  100 calories, Saturated fat 4 g, Total Fat 6 g
+  (54% of calories), Protein 1 g   (6% of calories), Carbohydrates 10 g (40%
+  of calories), Cholesterol 16 mg, Sodium 159 mg, Fiber 1 g, Vitamin A 533
+  IU, Vitamin C 50 mg.
+  
+  Posted to Digest eat-lf.v096.n211
+  
+  Date: Wed, 6 Nov 1996 10:28:13 -0500
+  
+  From: BunnyMama@aol.com
+ 
+</step></directions></recipe></recipeml>

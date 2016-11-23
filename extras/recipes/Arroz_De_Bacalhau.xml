@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz De Bacalhau</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion peeled and thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Steak dried salt cod</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ripe tomato (or dbl. amt.) peeled, cored and very coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1 2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Short-grain rice</item></ing></ingredients>
+    <directions>
+      <step>  Short-grain rice adds the perfect texture to this traditional dish from
+  northern Portugal. The salt cod may eliminate the need for additional salt.
+  
+  BROWN THE ONION in the olive oil in a large heavy saucepan over moderate
+  heat. Meanwhile, shred the cod, remove the skin and bones and wash but do
+  not soak. Add the cod to the onion, cover and simmer for about 10 minutes.
+  Add the tomatoes and leave to cook 20-to-30 minutes, covered, over low
+  heat. Meanwhile, wash and drain the rice. Add 3 1/3 cups water to the pan
+  (add twice as much water as there is rice), season to taste with salt and
+  pepper. When the water boils, add the rice and continue to cook on low heat
+  until the rice is done--probably 25-to-30 minutes. Cover the kettle for the
+  last half of cooking.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>About Coffee</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Crocker</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>See Below</item></ing></ingredients>
+    <directions>
+      <step>  Start with a thoroughly clean coffee maker. Wash after each use with hot,
+  soapy water and rinse well with hot water; never scour with an abrasive
+  pad. When cleaning an automatic coffee maker, follow the manufacturer's
+  directions.
+  
+  Always use fresh coffee and freshly drawn cold water. Never use hot water,
+  especially in automatic coffee makers; it changes percolating time.
+  
+  Serve steaming-hot coffee as soon as possible after brewing. If coffee must
+  stand any length of time, remove grounds and hold coffee at serving
+  temperature over very low heat.
+  
+  Keep ground coffee tightly covered.
+  
+  PREPARATION METHODS Automatic: Follow manufacturer's directions for
+  selecting grind of coffee (special ones are available), measuring and
+  brewing the coffee and holding the coffee at serving temperature.
+  
+  Drip: Measure cold water and heat to boiling. Preheat coffeepot by rinsing
+  with very hot water. Measure drip-grind coffee into filter paper in cone or
+  into filter section of coffee-pot depending on the type of drip pot used.
+  Pour measured fresh boiling water into upper container; cover. When
+  dripping is completed, remove upper container and filter section.
+  
+                 COFFEE CHART Strength For each serving* of Brew Ground
+  Coffee         Water Weak 1 level tb 3/4 cup Medium 2 level tb 3/4 cup
+  Strong           3 level tb 3/4 cup *Best general recommendation.
+  
+  Source: Betty Crocker's Cookbook, 6th Edition
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

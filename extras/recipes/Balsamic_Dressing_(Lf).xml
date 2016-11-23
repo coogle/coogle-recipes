@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Dressing (Lf)</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Capers</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh parsley; chopped (opt)</item></ing></ingredients>
+    <directions>
+      <step>  Combine the ingredients. Adjust vinegar to taste, since it has a strong
+  flavor. Store in a covered container in the refrigerator. Makes about 1
+  cup. Per tablespoon: 1 calorie, 0 chol, 0 dietary fiber, 0 fat, 7mg sodium
+  Author's Note: If you don't have balsamic vinegar, you may substitute
+  another kinds. But, if this be the case, start with water and vinegar in
+  equal proportions.
+  
+  Posted to MC-Recipe Digest by "Martha Sheppard" &lt;marthahs@worldnet.att.net&gt;
+  on Apr 13, 1998
+ 
+</step></directions></recipe></recipeml>

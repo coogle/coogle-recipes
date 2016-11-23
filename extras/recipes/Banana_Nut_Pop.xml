@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Nut Pop</title>
+      <categories>
+        <cat>Healthy</cat>
+        <cat>Low-fat</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Apple juice concentrate</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grape Nuts</item></ing></ingredients>
+    <directions>
+      <step>  Insert a stick in banana. Dip in juice and roll in cereal. Wrap in plastic
+  wrap and freeze. Thaw a few minutes and eat! Adapted from Cooking for Good
+  Health by Gloria Rose ISBN: 0-89529-577-6
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

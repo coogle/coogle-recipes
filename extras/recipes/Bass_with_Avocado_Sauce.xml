@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bass with Avocado Sauce</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dish</cat>
+        <cat>Low-fat</cat>
+        <cat>Cyberealm</cat>
+        <cat>Kooknet</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Ripe Avocado; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Skim Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lime Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove Garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Hot Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Light Soy Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon Rind; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dijon Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Bass Fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Fine Dry Bread Crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable Cooking Spray</item></ing></ingredients>
+    <directions>
+      <step>  Combine the first 5 ingredients in a blender; cover and process until
+  smooth. Set mixture aside. Combine lemon juice and next 3 ingredients in a
+  shallow dish; dip fillets in lemon juice mixture, and dredge in bread
+  crumbs. Place on a baking sheet coated with cooking spray. Bake at 450øF
+  for 7 minutes; turn fillets over, and bake an additional 7 minutes or until
+  fish flakes easily when tested with a fork. Transfer fillets to a serving
+  platter, and top with avocado sauce.
+  
+  Alternate Fish: Jumbo Cod, Orange Roughy, Grouper.
+  
+  Per Serving: Calories: 193, Protein: 23.6 g, Carbohydrate: 10 g, Fat: 6 g,
+  Cholesterol: 63 mg, Sodium: 332 mg.
+  
+  Source: Safeway's Nutritional Awareness Program Typed by Katherine Smith
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

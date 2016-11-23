@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cream of Vegetable Soup</title>
+      <categories>
+        <cat>Soup</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Potato; peeled and diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water or chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Steamed vegetables, i.e. carrots, broccoli;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinach,    r peas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing></ingredients>
+    <directions>
+      <step>  In a large saucepan, melt butter over medium heat. Add the chopped onion
+  and cook until tender without browning. Stir in diced potato and liquid.
+  Bring to a boil and simmer until potato is tender. Stir in your steamed
+  vegetable of choice and return to a simmer. Puree the soup in batches in a
+  blender and return to saucepan. Leave 1 cup of vegetables not pureed if a
+  chunkier soup is preferred. Season soup with salt and pepper and finish
+  with heavy cream. Serve warm with french bread and a salad.
+  
+  Recipe By     : TVFN How To Boil Water
+  
+  Posted to MC-Recipe Digest V1 #224
+  
+  Date: Wed, 25 Sep 1996 22:46:27 -0500
+  
+  From: "Jon and Angele Freeman" &lt;jfreeman@netusa1.net&gt;
+  
+  NOTES : Show #BW8303
+ 
+</step></directions></recipe></recipeml>

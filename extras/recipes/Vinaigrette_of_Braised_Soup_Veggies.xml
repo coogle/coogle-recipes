@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinaigrette of Braised Soup Veggies</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Vegetables</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Carrot; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Head celery</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>small</unit></amt>
+        <item>Leeks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Turnip; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Parsley roots * peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>:water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped fresh dill</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Extra virgin olive oil</item></ing></ingredients>
+    <directions>
+      <step>  * Note: Honest, the recipe was like this when I formatted it! I think it's
+  supposed to be "PARSNIP roots". (K.M.)
+  
+  QUARTER CARROT LENGTHWISE, trim and discard top 2 inches of celery and
+  quarter remaining head. Remove green part of leeks. Slice turnip into
+  3/8-inch slabs. Place vegetables, garlic and coriander in a saucepan large
+  enough to handle them comfortably and add water and salt. Cover, place over
+  high heat. Cook until vegetables are soft and remove each from the water as
+  they are done. Place vegetables to drain on towels and place in the
+  refrigerator to chill. Add vinegar to the liquid in the saucepan and boil
+  the liquid until reduced by 2/3. Remove from the heat and pour the liquid
+  into a mixing bowl. When the liquid is cool, add the dill and vigorously
+  beat in the oil. Arrange the vegetables on a platter, pour the sauce over
+  them and serve.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

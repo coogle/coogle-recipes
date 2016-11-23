@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Croque Monsieur Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Red wine vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit/></amt>
+          <item>Lemon; juice of</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dijon mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped fresh basil OR</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Crumbled dried</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Grinding of black pepper</item></ing></ing-div>
+      <ing-div>
+        <title>THE SALAD</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Cloves garlic; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Julienne strips cooked ham</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Freshly grated Parmesan cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Mixed greens (spinach; red leaf lettuce; arugula, etc)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Nasturtium flowers for garnish (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Croutons</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  The Lemon-Basil Vinaigrette:
+  
+  1.  Prepare the vinaigrette:  In a small bowl, whisk together all the
+  ingredients until smooth.  Set aside.
+  
+  2.  Prepare the salad:  In a small skillet, heat the oil and butter over
+  low heat. Add the garlic and saute 10 seconds. Add the ham and saute for
+  another 10 seconds. Off the heat, add the grated cheese.
+  
+  3.  Place the mixed greens in a salad bowl or plate and top with the ham
+  mixture.  Garnish with the nasturtium flowers and drizzle the vinaigrette
+  on top. Top with croutons. Serve this with a good crusty load of French
+  bread and a bottle of dry white French wine.
+  
+  From:  LEFTOVERS by Kathy Gunst, Harper Perennial, New York. 1991. ISBN
+  0-06-096863-X Shared by: Karin Brewer, Cooking Echo, 9/93
+  
+  Date: Sat, 1 Jun 1996 18:56:52 -0400
+  
+  From: BobbieB1@aol.com
+  
+  MM-Recipes Digest V3 #160
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

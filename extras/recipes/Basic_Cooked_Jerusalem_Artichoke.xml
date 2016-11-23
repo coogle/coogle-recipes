@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cooked Jerusalem Artichoke</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Jerusalem artichokes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lightly salted water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Jerusalem artichoke, also known as sunchoke, is a
+  seasonal vegetable that looks a bit like fresh ginger,
+  and tastes like a cross between potatoes and
+  artichokes.  We enjoy it very much in Israel. To
+  prepare jerusalem artichokes as a side dish, peel and
+  cook in boiling lightly-salted water for 1/2 to 1
+  hour, covered, until soft. Add salt and pepper to
+  taste, and sprinkle with lemon juice.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

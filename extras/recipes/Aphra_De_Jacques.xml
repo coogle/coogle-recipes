@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aphra De Jacques</title>
+      <categories>
+        <cat>Garlic</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Monterey Jack cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>30</qty>
+          <unit/></amt>
+        <item>Cloves fresh garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Peanut oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Italian seasoning</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>French bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped fresh parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Jar Marinara Sauce</item></ing></ingredients>
+    <directions>
+      <step>  Slice cheese into 30 slices about 1/4 inch thick.  Peel garlic and slice
+  each clove lengthwise into about 6 ovals.  Heat oil in deep, heavy
+  saucepan over medium-low heat.  Add garlic ovals and simmer 5 to 7
+  minutes, being careful not to burn or brown cloves.  Remove slices as they
+  float to the surface and are light brown in color.  Drain on paper towel.
+  Reserve oil for cheese.  Mince garlic and mix with Italian seasoning.
+  Spread half the cheese slices evenly with garlic mixture.  Press remaining
+  cheese slices on each of make 15 bars.  Dip flour-coated pieces into egg
+  again, then into bread crumbs mixed with parsley.  Be sure to cover sides.
+   Reheat oil to medium-high and fry cheese in oil a few pieces at a time
+  until lightly browned (takes about 2 minutes).  Skim particles from oil as
+  they accumulate.  Drain cheese on paper towels and keep warm until all are
+  fried.  Serve with toothpicks and Marinara Sauce for dipping.  Makes about
+       30    pieces.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/garlic.zip
+ 
+</step></directions></recipe></recipeml>

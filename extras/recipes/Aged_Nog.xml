@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aged Nog</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>See below</item></ing></ingredients>
+    <directions>
+      <step>  There are many recipes for egg nog.. and a good one, whether made in
+  advance or on the day it is to be druink is:
+  
+  20 eggs well beaten together and stirred togethere with 2 lbs of
+  sugar. Into this mixture pour 1 1/2 pints of Jamaica rum and 2 quarts
+  of brandy. When the whole has been well mixed 5-6 quarts of cream[or
+  of cream and milk of half and half] are slowly added and carefully
+  stsirred to bring the mixture to velvet smoothness.
+  
+  Once mixed, it is poured insto a large open crock, covered with a
+  cloth, and left untouched in a cool place until the proper day
+  arrives !
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

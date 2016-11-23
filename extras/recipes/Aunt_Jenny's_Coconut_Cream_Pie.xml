@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Jenny's Coconut Cream Pie</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Light (coffee) cream</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs, seperated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flaked coconut, divided</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Baked pie shell, 9 inch</item></ing></ing-div>
+      <ing-div>
+        <title>MERINGUE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Egg White (reserved from Filling list</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Scald milk and cream (heat until bubbles form at edges in the top of a
+  double boiler, over simmering water. In a small bowl, combine flour,
+  cornstarch, sugar and salt; mix thoroughly. Add to milk and cook 15
+  minutes, stirring constantly.  Mixture should be thick and smooth. Lightly
+  whisk egg yolks in a small bowl. Continue whisking while pouring 1/4 cup
+  hot milk mixture over yolks; return yolk mixture to double boiler and cook
+  one minute longer. Cool and add vanilla and 1/2 cup coconut. Pour filling
+  into pre-baked pie shell. Top with meringue and and sprinkle remaining 1/2
+  cup coconut over top. Bake in preheated 325-degree oven 15 or until firm
+  and delicately browned. Cool and store in refrigerator. MERINGUE
+  DIRECTIONS: In a large mixing bowl, beat whites until stiff but not dry.
+  Add sugar gradually, 1 tablespoon at a time, beating constantly. Add
+  vanilla. Pile lightly onto hot filling in baked pie shell and spread to
+  edges so pie is completely sealed. Bake as directed above.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

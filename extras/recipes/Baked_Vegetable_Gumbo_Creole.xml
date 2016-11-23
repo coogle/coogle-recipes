@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Vegetable Gumbo Creole</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Cajun</cat>
+        <cat>Stews</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Okra, sliced diagonally</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen okra, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Boiling salted water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Celery rib, sliced diagonal</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bell peppers, cut in strips</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen lima beans</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Ears fresh corn kernels</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen corn, thawed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Ripe tomatoes, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Serrano chiles,thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chopped fresh basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried basil,crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Cook fresh okra briefly in boiling salted water; drain. Blanch celery in
+  boiling salted water. Add bell peppers and lima beans and cook until just
+  tender; during last 30 seconds, add corn (do not overcook), then drain
+  vegetables. Oil a large baking dish and sprinkle with bread crumbs; add a
+  layer of corn-bean mixture and okra. Combine onion, tomatoes and basil;
+  spoon layer of onion-tomato mixture over bottom layer in dish. Sprinkle
+  with chiles and season with salt and pepper. Dot with margarine and
+  sprinkle with bread crumbs. Repeat layering until casserole is filled. Top
+  with a layer of okra that has been dipped in crumbs and lightly sauteed.
+  Bake uncovered in preheated 300F for 1 hour. NOTE: This can be baked in the
+  morning and reheated slowly before serving. It tastes even better the
+  second day.
+ 
+</step></directions></recipe></recipeml>

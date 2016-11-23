@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pilaf (Emeril)</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>6 ounce raw chicken breast half, chopped fine; (about 3/4 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Raw rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil in a small saucepan. Add onion and cook until translucent. Add
+  chicken and cook for 4 minutes. Add rice and bay leaf, stir to coat and add
+  stock. Bring to a boil, reduce heat to a simmer and cover. Cook for 15
+  minutes or until tender. Season with salt and pepper, fluff rice with a
+  fork and serve.
+  
+  Yield: 3 to 4 servings
+  Recipe By     :ESSENCE OF EMERIL SHOW #EE122
+  
+  Posted to MC-Recipe Digest V1 #319
+  
+  Date: Wed, 27 Nov 1996 09:16:25 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

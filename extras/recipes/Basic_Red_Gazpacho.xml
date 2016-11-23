@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Red Gazpacho</title>
+      <categories>
+        <cat>Spanish</cat>
+        <cat>Main dish</cat>
+        <cat>Vegan</cat>
+        <cat>Soups</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Ripe tomatoes, roughly chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red or yellow bell pepper, seeded, stemmed, and roughly chopped. DO NOT USE GREEN BELL PEPPER!</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Pickling (Kirby) cucumbers, peeled and roughly chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slices good stale white bread, crusts removed</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Or 2 sm cloves garlic, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sherry or good wine vinegar, or to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and freshly ground black pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic croutons, if desired for garnish</item></ing></ingredients>
+    <directions>
+      <step>  Mince a bit of the tomato, pepper, and cucumber for garnish, and set aside.
+  Soak bread in a cup of the water for 5 minutes, then squeeze out excess
+  water.
+  
+  Place bread in a blender or food processor with the remaining tomato,
+  pepper, cucumber and water, garlic and vinegar; process until smooth, then
+  add olive oil slowly with machine running.
+  
+  Season to taste with salt and pepper and refrigerate until ready to serve.
+  Before serving, check seasoning again, and garnish with reserved tomato,
+  pepper, cucumber, and garlic croutons.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

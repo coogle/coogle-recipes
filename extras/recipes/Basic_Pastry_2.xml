@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pastry</title>
+      <categories>
+        <cat>Pastry</cat>
+        <cat>Desserts</cat>
+        <cat>Pie</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>(500g) cold shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>White vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ice Water</item></ing></ingredients>
+    <directions>
+      <step>  1.  Measure flour and place in a large bowl.  Cut cold shortening into 1"
+  cubes and add to flour.  Using a pastry blender or 2 knives, cut shortening
+  into flour until it is the consistency of coarse meal. Make a well in
+  centre.
+  
+  2.  Place egg and vinegar in a measuring cup.  Add ice water to bring it up
+  to 1 cup.  Whisk to break up egg and blend with water. Add liquid to flour
+  mixture all at once. Then, using a fork, work until all dry ingredients are
+  moist.  Using your hands, gather dough into a firm ball. Do not over- mix
+  or knead dough. Cut dough into 4 equal pieces.
+  
+  3.  Wrap each piece of dough individually and refrigerate until well
+  chilled, at least 30 minutes but preferably overnight. Well-wrapped pastry
+  will keep well inthe refrigerator for a least a week or in the freezer for
+  several months.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

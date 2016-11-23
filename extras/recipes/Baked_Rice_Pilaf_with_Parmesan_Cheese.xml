@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Rice Pilaf with Parmesan Cheese</title>
+      <categories>
+        <cat>Rice</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Long-grain white rice --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>UNCOOKED</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic -- minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Broth -- chicken or beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh parmesan cheese --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated</item></ing></ingredients>
+    <directions>
+      <step>  Saute the garlic and rice in the butter until golden.  Pour into a
+  casserole dish, add broth and salt.  Cover and bake at 350 degrees for 25
+  minutes (or until the liquid is absorbed.) Add cheese and stir until cheese
+  mixed in and rice is fluffy.
+  
+  Posted to MC-Recipe Digest V1 #150
+  
+  Date: Sat, 13 Jul 1996 19:37:49 -0400
+  
+  From: ADAMSFMLE@aol.com
+  
+  Recipe By     : Will and Lois Copping: The Country Innkeepers Bookbook
+ 
+</step></directions></recipe></recipeml>

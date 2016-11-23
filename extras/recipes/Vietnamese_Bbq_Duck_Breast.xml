@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Bbq Duck Breast</title>
+      <categories>
+        <cat>Vietnamese</cat>
+        <cat>Duck</cat>
+        <cat>Game</cat>
+        <cat>Bbq</cat>
+        <cat>Spicy</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Duck breasts, deboned and skinned</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Inch chunk ginger root, crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried chile peppers or more</item></ing></ingredients>
+    <directions>
+      <step>  This recipe is equally good with wild duck, partridge or ptarmigan.
+  
+  Cut the breasts away from the bird and marinade at least two days in the
+  other ingredients. The peppers can be increased up to 2 tsp according to
+  taste. Drain breasts and grill over charcoal/gas, brushing on extra
+  marinade as required. Serve with rice.
+  
+  Recipe by: Jim Weller
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

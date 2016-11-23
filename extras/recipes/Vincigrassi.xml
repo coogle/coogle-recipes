@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vincigrassi</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Semolina Vin Santo Pasta:</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Semolina flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Virgin olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Vin santo</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Virgin olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Onion, finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Pancetta, in 1/4" dice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Chicken livers, roughly chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Chicken gizzards, roughly chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Chanterelles, Porcini or Oyster, sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Basic tomato sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chicken stock</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Dry white wine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Recipe bechamel sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Easpoon freshly grated nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>5 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Freshly grated Parmigiano</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  To Prepare Pasta:
+  
+  Make like basic pasta dough with flour, oil, vino santo and eggs in a well
+  on a work surface. Roll on second thinnest setting of pasta machine and cut
+  into lengths to match your lasagna pan. Boil in salted water for 1 minute
+  and refresh in ice bath . Lay out on towels to dry.
+  
+  To Prepare Filling:
+  
+  In a 12 inch to 14 inch saute pan, heat olive oil over medium heat until
+  smoking. Add onion and pancetta and cook until soft and golden, about 8 to
+  10 minutes. Add chicken livers, gizzards and mushrooms and cook 8 to 10
+  minutes until light gray. Add tomato sauce, chicken stock and wine and cook
+  over low heat for 1 hour until quite thick. Allow to cool.
+  
+  To Prepare Lasagna:
+  
+  Preheat oven to 375 degrees F.
+  
+  Brush a 14 inch by 9 inch lasagna pan and layer in the following order from
+  the bottom: chicken liver sauce, pasta, bechamel sauce, with nutmeg added,
+  and grated cheese (saving at least 1 cup bechamel sauce for last topping).
+  Place Vincigrassi in oven and bake 35 to 40 minutes until bubbly and hot.
+  Let stand 10 minutes and serve with grated cheese on top.
+  
+  Yield: 4 servings
+  
+  Recipe by: Molto Mario
+  
+  Posted to MC-Recipe Digest V1 #461 by "suechef@sover.net"
+  &lt;suechef@sover.net&gt; on Jan 31, 1997.
+ 
+</step></directions></recipe></recipeml>

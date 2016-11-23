@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anise Rolls</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; beaten until frothy</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Anise flavoring</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Anise seed as needed</item></ing></ingredients>
+    <directions>
+      <step>  Sift together flour and baking powder. Mix eggs, sugar and anise flavoring.
+  Fold in dry ingredients.
+  Drop by tablespoon onto greased cookie sheet about 2 inches apart. Sprinkle
+  with anise seed. Bake at 350 degrees until brown around the edges, about 4
+  minutes. Remove quickly from sheet and roll while hot. Sprinkle with icing
+  sugar before serving. These will be thin and about the circumference of
+  pancakes when they come out of the oven.
+  
+  http://www.iowafarmer.com/cooks/schmink1.htm
+  
+  Posted to recipelu-digest by LSHW &lt;shusky@erols.com&gt; on Feb 15, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Danish</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PASTRY</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose Gold Medal flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg yolk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Sliced peeled apples</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter or margarine; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>All-purpose Gold Medal flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing></ing-div>
+      <ing-div>
+        <title>GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg white; lightly beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Water; up to  3</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a mixing bowl, combine flour and salt; cut in shortening until mixture
+  resembles coarse crumbs. Combine egg yolk and milk; add to flour mixture.
+  Stir just until dough clings together. Divide dough in half. On a lightly
+  floured surface, foll half of dough into a 15" X 10" rectangle; transfer to
+  a greased 15 X 10" baking pan. Set aside. In another bowl, toss together
+  the filling ingredients; spoon over pastry in pan. Roll out remaining dough
+  to another 15" X 10" rectangle. Place over filling. Brush with egg white.
+  Bake at 375 degrees F for 40 minutes or until golden brown. Cool on wire
+  rack. Combine the powdered sugar and enough water to achieve a drizzling
+  consistency. Drizzle over warm pastry. Cut into squares. Serve warm or
+  cold. Delicious! Serves: 20-26 servings, depending on size of cut squares.
+  
+  Posted to brand-name-recipes by Geo &amp; Donna &lt;gstratio@computerpro.com&gt; on
+  Mar 29, 1998
+ 
+</step></directions></recipe></recipeml>

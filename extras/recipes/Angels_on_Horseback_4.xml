@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angels on Horseback</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Wieners</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Strips Cheese; 2 1/2 X 1/4 "</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Strips Bacon; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Wiener Buns</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Toothpicks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cooking forks</item></ing></ingredients>
+    <directions>
+      <step>  Slit lengthwise pockets in 8 wieners, long enough to hold one strip of
+  cheese. Tuck in a strip of cheese into each pocket. Wind a strip of bacon
+  around each wiener so the pocket and cheese are completely covered. Fasten
+  each end of bacon to the wiener with a toothpick. Put each wiener on a
+  cooking fork and bake over hot coals until bacon is cooked. When angel is
+  done remove it from the fork and put in a wiener bun. Take out toothpicks
+  before eating.
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 16, 1998
+ 
+</step></directions></recipe></recipeml>

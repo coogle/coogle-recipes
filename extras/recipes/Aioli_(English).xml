@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aioli (English)</title>
+      <categories>
+        <cat>Saucesand</cat>
+        <cat>Dressings</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon juice.</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil; (up to 2)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Cayenne</item></ing></ingredients>
+    <directions>
+      <step>  Mash garlic until it becomes a puree, add egg yolks, cayenne, salt and
+  pepper and then start adding oil very slowly as for a mayonnaise. Stir in
+  lemon.. If aiolli becomes too thick add a little warm water. -- Miriam
+  Podcameni Posvolsky Rio de Janeiro, Brasil
+  
+  Recipe by: ELLE, fiches, t: By Miriam P Posvolsky
+  
+  Posted to MC-Recipe Digest by Leon &amp; Miriam Posvolsky &lt;miriamp@pobox.com&gt;
+  on May 17, 1998
+ 
+</step></directions></recipe></recipeml>

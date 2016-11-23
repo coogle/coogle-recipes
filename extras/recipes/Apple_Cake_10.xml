@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Apples;peeled and grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar; up to 2 cups</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Powdered cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs;beaten well</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts;coarsely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Mix grated apples with sugar and allow to sit for 1/2 hour. Mix all dry
+  ingredients together. Set aside.
+   After apple and sugar mixture has sat for 1/2 hour, add eggs, oil and
+  vanilla. Mix well. Add dry ingredients and then walnuts. Pour mixture into
+  a greased (I use non-stick spray) 13" x 9" pan, and bake for 50 at 350
+  degrees.
+  
+  Recipe and format in Meal-Master by Karen Adler, SPXB77A@Prodigy.com.
+  ~ To Unsubscribe from the MM-RECIPES list send mail to
+  majordomo@idiscover.net saying unsubscribe mm-recipes Meal-Master is
+  available from all simtel mirrors in the msdos/food directory THE RULES
+  Recipes in Meal-Master Format and ASCII only Every message to contain a
+  recipe in meal-master format (unless a request)
+ 
+</step></directions></recipe></recipeml>

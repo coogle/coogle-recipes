@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Marinade for Barbecued Spareribs</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>slices</unit></amt>
+        <item>Fresh ginger root</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sherry</item></ing></ingredients>
+    <directions>
+      <step>   1. Crush garlic and ginger root; then combine with remaining ingredients.
+  
+   2. Add to spareribs and marinate.
+  
+   VARIATIONS:
+  
+   1. Rub the spareribs first with 1 teaspoon salt and 1 teaspoon sugar. Let
+  stand 1 hour; then marinate.
+  
+   2. Reduce the soy sauce to 3/4 cup; increase the sherry to 1/4 cup.
+  
+   3. Reduce the sugar to 1 teaspoon and add 1/2 teaspoon Five Spices. For
+  the sherry, substitute brandy.
+  
+   4. Add 2 tablespoons honey and 2 tablespoons of either hoisin sauce or
+  applesauce.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

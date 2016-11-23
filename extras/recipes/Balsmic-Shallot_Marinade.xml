@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsmic-Shallot Marinade</title>
+      <categories>
+        <cat>Marinade</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Coarsely chopped shallots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Coarsely chopped fresh sage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Coarsely chop fresh rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Freshly ground pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  In a blender or food processor, combine the vinegar, shallots, sage,
+  rosemary and pepper.  With the machine on, add the olive oil in a slow,
+  steady stream and blend until emulsified.
+  
+  Good on any kind of beefsteak, pork, lamb, chicken:  marinate 2-4 hours
+  
+  Reprinted from Food and Wine Magazine - June 1996
+  Posted to MM-Recipes Digest V3 #190
+  
+  Date: Wed, 3 Jul 1996 23:47:30 -0700
+  
+  From: Julie Bertholf &lt;jewel1@ix.netcom.com&gt;
+ 
+</step></directions></recipe></recipeml>

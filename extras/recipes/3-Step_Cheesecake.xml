@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>3-Step Cheesecake</title>
+      <categories>
+        <cat>Cheesecakes</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Cheam cheese,softened (8oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Graham-cracker crust,9"</item></ing></ingredients>
+    <directions>
+      <step>  Mix cream cheese, sugar and vanilla at medium speed with electric
+  mixer until well-blended. Pour into crust. Bake at 350'F. for 40
+  minutes, or until center is almost set. Cool. Refrigerate 3 hours or
+  overnight, Makes 8 servings.
+  
+  NOTE: You can also use lighter Neufchatel-type cheese.
+  
+  Variations: For chocolate, melt four squares of semi-sweet baking
+  chocolate; add after eggs and mix until blended. For candy version,
+  sprinkle 1 cup of chopped candy bars on top of cake before baking. For
+  pumpkin, add 1/2 cup canned pumpkin, 1/2 teaspoons ground cinnamon
+  and a dash each of nutmeg and cloves in the first step. Then add eggs
+  and proceed as directed.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

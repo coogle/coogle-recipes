@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Black Bean Beef</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Beef</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Beef, sliced, marinated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Asparagus</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda, dissolved in</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>2 teaspoons water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chinese fermented black</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Beans, minced with:</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Garlic cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Rice wine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Peanut oil</item></ing></ing-div>
+      <ing-div>
+        <title>MARINADE FOR BEEF</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Rice wine</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>MSG (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div>
+      <ing-div>
+        <title>GRAVY MIXTURE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cut the beef when it is partially frozen, and cut it across the grain into
+  thin slices.
+  
+  Stir baking soda solution into the beef (to help tenderize it). Stir in the
+  marinade.  Then stir in 1 tsp peanut oil and marinate the beef for one hour
+  or more in the refrigerator.
+  
+  Heat 1 tablespoon peanut oil over high heat, add 1/2 teaspoon salt. Stir in
+  asparagus.  Add 1/4 cup water. Cover pan for 2 minutes, and do not lift
+  lid.  When done, remove to a platter.
+  
+  Over high heat, add 1 tablespoon of oil.  Stir-fry the RINSED black beans
+  and garlic mixture.  Stir for a few seconds. Add the beef. Stir-fry quickly
+  until barely. Do not overcook or the beef will become tough. Sizzle in 1
+  tablespoon of rice wine and 2 teaspoons of soy sauce. Stir in asparagus.
+  
+  Add gravy mixture.  Stir until thickened.  Serve hot.
+  
+  SOURCE: Stella Chan's Secrets in the Art of Chinese Cooking.
+  
+  Posted by Cate Vanicek
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

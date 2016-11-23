@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baba Ghannouj</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Medium-size eggplant</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Lemon ; juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tahini; (sesame paste)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Roast a medium-size eggplant in a 450-degree oven for 30 to 40 minutes,
+  turning once, or until flesh is very tender and a sharp knife pierces
+  without resistance. When cool enough to handle, remove peel. In a food
+  processor, mince 1 clove garlic. Add the eggplant flesh, juice of 1 small
+  lemon, 1 tablespoon tahini (sesame paste) and 1 tablespoon olive oil.
+  Process to blend (may be smooth or a little chunky). Add salt and freshly
+  ground pepper to taste. Serve with fresh or toasted pita bread.
+  
+  Posted to CHILE-HEADS DIGEST V4 #279 by Jim Tidwell
+  &lt;snd1jlt@snd10.med.navy.mil&gt; on Jan 22, 1998
+ 
+</step></directions></recipe></recipeml>

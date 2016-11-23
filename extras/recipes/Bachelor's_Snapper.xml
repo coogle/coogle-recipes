@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bachelor's Snapper</title>
+      <categories>
+        <cat>Fish</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Snapper fillet</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Hot sauce (Mautauk's works well or Melinda's)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>  Date: Sun, 17 Mar 1996 18:11:10 -0800
+  
+  From: smurman@best.com
+  In thanks for everyone's help with my spider infestation problem, I'm
+  paying off with a recipe from the bachelor's recipe file (mine). If you
+  aren't single, don't even attempt this at home.
+  
+  Pat fish dry with a paper towel, and then flour both sides.  Heat oil in a
+  skillet and add the snapper fillet.  Lightly coat the top side with the hot
+  sauce.  Cook around 10-15 minutes per side at medium-low heat.  Eat.
+  
+  CHILE-HEADS DIGEST V2 #270
+  
+  From the Chile-Heads recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

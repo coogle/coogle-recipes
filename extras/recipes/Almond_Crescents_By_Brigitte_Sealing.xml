@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Crescents By Brigitte Sealing</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Cyberealm</cat></categories>
+      <yield>40</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Powdered Sugar,sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oats,uncooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds,finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Powdered Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 325 degress F. Beat butter and almond extract till
+  fluffy;gradually beat in sugar. Add combined flour and salt;mix well.
+  Stir in oats and almonds. Shape to form crescents. Place on ungreased
+  cookie sheet. Bake 15-18 minutes or until light golden brown. Sift
+  powdered sugar over warm crescents.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber3.zip
+ 
+</step></directions></recipe></recipeml>

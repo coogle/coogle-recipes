@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andrea Cassoni's Ting-A-Lings</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Christmas</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>6 oz chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>8 oz butterscotch chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>4 oz chow mein noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cashews or peanuts</item></ing></ingredients>
+    <directions>
+      <step>  Melt the bits in a double boiler or in a microwave oven. Add the chow mein
+  noodles and nuts. Drop on wax paper by teaspoonfulls and let cool.
+ 
+</step></directions></recipe></recipeml>

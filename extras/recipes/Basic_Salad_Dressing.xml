@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Salad Dressing</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Dressings</cat>
+        <cat>Low-fat/cal</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Red wine vinegar;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Acceptable vegetable oil;</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly ground black pepper;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh lemon juice;</item></ing></ingredients>
+    <directions>
+      <step>  In  jar with a tight-fitting lid, combine all ingredients.  Shake
+  well and refrigerate.  Makes 1/2 cup.  (Half of published recipe.) My
+  note: I frequently use bottled lemon juice which has sodium listed,
+  but there can't be much sodium in 1/2 tsp. divided among 8 servings.
+  If you use fresh lemon juice, extra can be frozen in an ice cube tray
+  or small container.
+  
+  1 tbsp - 31 cal 3 grams total fat, 5 mg potassium
+  
+  Source:  Am. Heart Assoc. Low-Salt Cookbook 1990 Shared but not
+  tested by Elizabeth Rodier Dec 93
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

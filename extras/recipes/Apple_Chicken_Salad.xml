@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Chicken Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Granny Smith apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Swanson's white meat chicken, OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Split fryer breast  plus</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Fryer thighs; * see note</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Napoleon Capers; plus 1/2 the brine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Celery; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Green onions; including tops</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Best Foods mayonnaise; or to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded parmesan cheese; for garnish</item></ing></ingredients>
+    <directions>
+      <step>  *if using fresh chicken, place breast and thighs in water with 1 stalk
+  celery, 1/2 onion, salt and pepper.  Simmer 30 minutes.  Cool; strip meat
+  off and dice. Leaving skins on apples, wash, core and cut into bite-sized
+  pieces.  Place apple pieces in water with a little lemon juice while
+  completing recipe, if necessary. Combine all ingredients and mix well.
+  Place in glass serving bowl, garnish with parmesan cheese, and chill.
+  Recipe By     : Carolyn Glover (Rooby's Mom)
+  
+  Posted to MC-Recipe Digest V1 #287
+  
+  Date: Fri, 8 Nov 1996 23:15:21 -0800
+  
+  From: Rooby &lt;rooby@shell.masterpiece.com&gt;
+ 
+</step></directions></recipe></recipeml>

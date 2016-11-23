@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley Water (18th Century Recipe)</title>
+      <categories>
+        <cat>Barry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Pearl Barley</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pints</unit></amt>
+        <item>Boiling Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated rind and juice of 1 lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Caster Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Rinse the pearl barley, put into a jug and pour in the boiling water. Add
+  the lemon rind and lemon juice and sugar and stir thoroughly. Leave to cool
+  then strain into a clean jug or bottle before serving. This drink will keep
+  for up to 5 days in the fridge, but do cover it as barley water easily
+  picks up other flavours.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

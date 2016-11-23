@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon on Toast with Cream Sauce</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bacon; pan-fried or microwaved</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Toast</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cream sauce (use recipe for "Creamed Chipped Beef")</item></ing></ingredients>
+    <directions>
+      <step>    This one is from New Hampshire. My lady friends there told me that they
+  had this for breakfast often as little girls. While I don't want you eating
+  bacon every morning, there is something to be said for a few slices of
+  old-fashioned cured New England bacon. A lot can be said!
+  
+    The cream sauce can be made a day or two ahead and then warmed in the
+  microwave in no time.
+  
+    Place the bacon on the toast and top with cream sauce. Then pour black
+  coffee and open the windows so that you can smell the fresh New Hampshire
+  air. (This works best if you are in New Hampshire!)
+  
+  From &lt;The Frugal Gourmet Cooks American&gt;.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

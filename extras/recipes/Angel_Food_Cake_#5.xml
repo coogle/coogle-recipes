@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Cake #5</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cream of tartar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Almond extract; optional</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cake flour</item></ing></ingredients>
+    <directions>
+      <step>  Date: Mon, 18 Mar 1996 18:03:34 -0500
+  
+  From: kmeade@ids2.idsonline.com (The Meades)
+  
+  Recipe By: The Fannie Farmer Cookbook
+  
+  Preheat oven to 325F. Beat the egg whites until foamy, add the salt and
+  cream of tarter, and beat until soft peaks form. Add the almond extract and
+  the vanila, then gradually add the sugar, beating until stiff. Sift the
+  flour over the whites gently fold it in. Bake in an ungreased tube pan for
+  50-60 minutes, until a straw comes out clean. Invert the pan on a rack and
+  let the cake cool completely before removing from the pan.
+  
+  MC-RECIPE@MASTERCOOK.COM
+  
+  MASTERCOOK RECIPES LIST SERVER
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

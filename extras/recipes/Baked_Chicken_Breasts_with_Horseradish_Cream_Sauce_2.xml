@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken Breasts with Horseradish Cream Sauce</title>
+      <categories>
+        <cat>Main</cat>
+        <cat>Dishes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Horseradish -- (prepared</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>White)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dijon Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>White Wine Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt And Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Chicken Breast Halves --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>With bone</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350.
+  
+  In a medium-size saucepan, melt butter over medium heat.  Stir in flour and
+  cook, stirring, for 1 minute without browning.  Whisk in milk, bring to a
+  boil, and cook, stirring, until sauce is thick and smooth, about 3 minutes.
+  Stir in horseradish, sour cream, sugar, mustard, and vinegar. Season with
+  salt and pepper to taste.
+  
+  Arrange chicken breasts, skin side up, in a baking dish.  Spoon half the
+  horseradish sauce over chicken.  Bake 45 minutes until chicken is tender.
+  Broil chicken for 5 minutes to brown.  Reheat remaining sauce and serve
+  over chicken.
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

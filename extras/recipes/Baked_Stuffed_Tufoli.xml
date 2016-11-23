@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Stuffed Tufoli</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>MEAT BALLS</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Ground beef chuck</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Ground pork</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped onion</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Minced parsey</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Grated Parmesan cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Bread crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Olive oil</item></ing></ing-div>
+      <ing-div>
+        <title>TOMATO SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped onion</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped green pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(6-oz) broiled mushrooms</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cans</unit></amt>
+          <item>(6-oz) tomato paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(#2-1/2) Italian plum tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Pepper</item></ing></ing-div>
+      <ing-div>
+        <title>MAKING THE CASSEROLE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Tufoli (large tube macaroni)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Meat balls from step #1 (up to)</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>packages</unit></amt>
+          <item>Frozen chopped spinach</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Parmesan cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Tomato sauce recipe</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Mix all ingredients for meat balls together thoroughly, except the last,
+  olive oil.  Form into medium sized balls: brown in oil.  Set aside and cook
+  in tomato sauce later.
+  
+   To make tomato sauce: Heat the oil: add onion, green pepper, garlic,
+  mushrooms (drained and halved) and saut‚ until golden. Stir in tomato
+  paste; cook for 4 minutes. Press plum tomatoes through a strainer; add an
+  equal amount of water. Combine with tomato paste mixture. Add sugar, salt
+  and pepper. Bring to a boil; add meatballs and cook over low heat 1-1/2
+  hours or until sauce thickens slightly. Remove meatballs and put aside.
+  
+   Cook tufoli in 6 quarts boiling, salted water for 12 to 15 minutes or
+  until almost tender. Mash meat balls in a bowl. Add spinach (drained and
+  finely chopped), salt, 2 tablespoons cheese and the egg, mixing well. Stuff
+  this mixture into cooked tufoli. Cover bottom of a large casserole with
+  half of sauce and arrange alternate layers of stufted tufoli and sauce,
+  sprinkling each layer with cheese; finish with sauce. Cover dish and bake
+  in a moderate oven (350 degrees) for 30 minutes. Serve with extra sauce and
+  cheese. Serves 6 very generously.
+  
+  From &lt;A Taste of Louisiana&gt;.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apio</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Kooknet</cat>
+        <cat>Jewish</cat></categories>
+      <yield>4 -6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FOR THE MAIN DISH</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Olive or vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Fresh squeezed lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar or to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>medium</unit></amt>
+          <item>Carrots, cut into 1/4" thick</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>.slices, about 1 1/2 cups</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Celeriac, peeled, cut</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>.cross-wise into 3/8" slices</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>.and each slice cut into</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>.quarters</item></ing></ing-div>
+      <ing-div>
+        <title>THICKENER FOR THE SAUCE</title></ing-div>
+      <ing-div>
+        <title>OPTIONAL</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Potato starch 2 Tb cold water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a medium saucepan, combine the 3/4 cup water, oil, lemon juice, sugar
+  and salt. Bring to a boil over high heat. Stir in the carrots. Cover the
+  pan and lower the heat. Simmer the carrots for 3 minutes. Then gently stir
+  in the celeriac so that all the pieces are coated with the sauce. Cover the
+  pan and simmer the vegetables together for about 10-12 minutes longer, or
+  until they are just tender. If a thicker sauce is desired, combine the
+  potato starch and cold water until well combined and stir the paste into
+  the hot sauce. Continue to heat and stir the vegetables until the sauce
+  thickens and simmers. Remove from the heat, serve hot, at room temperature
+  or chilled.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

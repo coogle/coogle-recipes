@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Yeast Dough</title>
+      <categories>
+        <cat>Yeast</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Warm water --105° to 115°</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  3 1/2 c c  all-purpose flour; up to 3
+  
+  Dissolve yeast in warm water in a large mixing bowl; let stand 5 minutes.
+  Add sugar, shortening, egg, salt, and half of flour; beat at low speed of
+  an electric mixer until smooth. Gradually stir in enough remaining flour to
+  make a soft dough.
+  
+  Place dough in a well-greased bowl, turning to grease top. Cover and let
+  rise in a warm place (85°F), free from drafts, 1 hour or until doubled in
+  bulk, or cover and refrigerate up to 5 days. (If refrigerated, let return
+  to room temperature before proceeding.)
+  
+  Punch dough down; turn out onto a lightly floured surface, and knead 4 or 5
+  times. Shape and bake as directed.
+  
+  Busted by Gail Shermeyer &lt;4paws@netrax.net&gt;
+  
+  Recipe by: The Southern Living Cookbook, 1987, 8487-0709-5
+  
+  Posted to MC-Recipe Digest by Gail Shermeyer &lt;4paws@netrax.net&gt; on Apr 13,
+  1998
+ 
+</step></directions></recipe></recipeml>

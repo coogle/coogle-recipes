@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applebee's Quesadillas</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Posted</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Flour Tortilla; 10" Size</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; Softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Monterey Jack Cheese; Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar Cheese; Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>medium</unit></amt>
+        <item>Tomato; Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Onion; Diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Jalapeno; Diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Bacon; Cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh Cilantro; Finely Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Guacamole</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salsa</item></ing></ingredients>
+    <directions>
+      <step>  Heat a large frying pan over medium heat. Spread half of the butter on one
+  side of each tortilla. Put tortilla, butter side down, in the hot pan.
+  Spread the cheeses evenly onto the center of the tortilla in the pan.
+  Sprinkle the tomato, onion and jalapeno over the cheese. Crumble the bacon
+  and sprinkle it over the other ingredients. Sprinkle the cilantro and dash
+  of salt over the other ingredients. Top with the remaining tortilla,
+  buttered side up. When the bottom tortilla has browned, flip the quesadilla
+  over and grill the other side. Remove from pan and cut into 6 slices, using
+  pizza cutter.
+  
+  Recipe by: Top Secret Restaurant Recipes by Todd WIlbur
+  
+  Posted to MC-Recipe Digest by Meg Antczak &lt;meginny@frontiernet.net&gt; on May
+  11, 1998
+ 
+</step></directions></recipe></recipeml>

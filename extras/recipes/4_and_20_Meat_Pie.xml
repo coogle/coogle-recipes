@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>4 and 20 Meat Pie</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Pies</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BASE</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pints</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Beef drippings</item></ing></ing-div>
+      <ing-div>
+        <title>TOP</title>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit>ounces</unit></amt>
+          <item>Puff pastry</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Beaten egg for glaze</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Minced beef</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>"cube" beef stock</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pepper to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pints</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Brown food coloring</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix all base ingredients thoroughly.  Roll out to about 1/8" thickness.
+  
+  Roll out puff pastry to 1/4" thickness.
+  
+  Saute the beef.  Dissolve the stock cube in the water, add to beef. Season
+  to taste.  Sprinkle with flour and cook till flour is browned and
+  incorporated well. Adjust seasoning and coloring to taste.
+  
+  Make pies by putting scoops of about 1/4 cup on the base crust. Egg glaze
+  around the filling and top with the puff pastry, using the egg glaze as a
+  "glue" (try not to leave large air pockets). Cut around the filling,
+  creating individual pies.  Brush the top with more egg glaze for color and
+  bake at 350 degrees till puffed and browned.
+  
+  Fm: Dan Perlman 71370,1423
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

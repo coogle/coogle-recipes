@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Bars</title>
+      <categories>
+        <cat>Bakery</cat>
+        <cat>Desserts</cat>
+        <cat>Cookies</cat>
+        <cat>Low-fat</cat></categories>
+      <yield>18</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>White flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Dried apricots</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Walnuts, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cashews, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Maple syrup</item></ing></ing-div>
+      <ing-div>
+        <title>ICING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Icing sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Apple juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Sift together flour, sugar, cinnamon, baking powder &amp; salt. Stir in the
+  apricots &amp; nuts.  Add the syrup. Stir until the mixture forms a thick
+  batter.
+  
+  Spread the batter into a lightly oiled 8" X 8" baking pan (it is hard work,
+  but it will cover -- trust me!). Bake at 350F for 30 to 35 minutes or until
+  the bars test done. Allow to cool slightly, cut into bars. When completely
+  cool, spread with icing &amp; drizzle some melted chocolate over the top if
+  desired.
+  
+  ICING: Cream together sugar &amp; shortening.  Add remaining ingredients &amp; beat
+  until smooth.  Makes 1/2 cup.
+  
+  Recipe by Mark Satterly
+ 
+</step></directions></recipe></recipeml>

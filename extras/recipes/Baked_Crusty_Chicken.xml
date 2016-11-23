@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Crusty Chicken</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dried bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh parsley, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chicken, cut into pieces</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 350. Combine bread crumbs, flour, parsley, basil, salt,
+  paprika and pepper in small brown paper bag; seal and shake to mix. Combine
+  lemon juice, butter and oil in large bowl. Add the chicken, turning the
+  pieces to coat. Working with a few pieces at a time, shake the chicken in
+  crumb mixture in the bag to coat evenly; place the pieces on 15x10x1"
+  baking pan. Bake in 350 oven for 45 minutes or until the chicken meat is no
+  longer pink near the bone. Increase the oven heat to broil. Adjust the oven
+  rack 4-6 inches from the source of heat. Broil chicken until lightly
+  golden, 5-8 minutes.
+  
+  NOTES : For a quick sauce, combine equal parts mustard and horseradish;
+  serve chicken with buttered noodles tossed with pepper and zucchini strips.
+  Recipe by: Family Circle, 5/97 Posted to MC-Recipe Digest V1 #604 by
+  "terily@tenet.edu" &lt;terily@tenet.edu&gt; on May 11, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Chicken and Penne Pasta</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Extra virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grey Poupon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Pinches cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves garlic; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Boneless chicken breasts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Penne pasta</item></ing></ingredients>
+    <directions>
+      <step>  Combine the first seven ingredients to make the marinade (mix them well).
+  Marinate the chicken breasts for 1 - 2 hours (marinate longer if you want
+  the chicken to be more flavorful).
+  
+  Broil chicken breast until cooked through, then shred or cut into
+  bite-sized pieces. Combine cooked chicken with leftover marinade and cooked
+  penne. Heat everything through thoroughly (the remaining marinade must be
+  cooked because there was raw chicken sitting in it). Serve with grated
+  Parmesan cheese.
+  
+  Recipe by: Heather Anderson from The Busy Parent's Cookbook
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 14, 1998
+ 
+</step></directions></recipe></recipeml>

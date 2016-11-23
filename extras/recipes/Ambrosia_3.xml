@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ambrosia</title>
+      <categories>
+        <cat>Brunch</cat>
+        <cat>Fruit</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Oranges; seeded</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unsweetened coconut meat; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Papaya; peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Blackberries</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Starfruit; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Blueberry or clover honey</item></ing></ingredients>
+    <directions>
+      <step>  Remove the skin and membranes from the oranges and slice them in 1/4-inch
+  slices. Place a layer of orange slices in the bottom of a large glass bowl,
+  add a layer of coconut, then a layer of papaya, then blackberries, then
+  starfruit, and then pecans . Repeat the process until all the fruit has
+  been used. If the oranges are not especially sweet, a light layer of
+  blueberry or clover honey will help.
+  
+  Cover the bowl tightly and refrigerate for an hour or more before serving.
+  
+  Recipe by: Michael Lomonaco
+  
+  Posted to recipelu-digest by Karen Sonnessa &lt;ksonness@suffolk.lib.ny.us&gt; on
+  Feb 2, 1998
+ 
+</step></directions></recipe></recipeml>

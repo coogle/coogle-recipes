@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Eel Salonika</title>
+      <categories>
+        <cat>Greek</cat>
+        <cat>Seafood</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Eel (boned, skinned)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Onions; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; pressed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Red wine,(Mavrodaphne, Port)</item></ing></ingredients>
+    <directions>
+      <step>  Rinse eel with cold water.  Oil baking pan with half of the oil.  Place
+  slices of eel on pan. Sauce: Heat remaining oil in frying pan, and fry
+  onions and garlic on medium heat for 5 minutes. Add remaining ingredients
+  and cover.  Cook 10 minutes. Pour sauce over eel. Bake 45 minutes at 375
+  degrees.  Serve with crusty bread and a crisp salad.
+  
+  From: "The Complete Greek Cookbook" by Theresa Karas Yianilos, Avenel
+  Books, New York.
+  
+  Typed for you by Karen Mintzias
+  Sent to me by Bill &lt;wight@odc.net&gt;
+ 
+</step></directions></recipe></recipeml>

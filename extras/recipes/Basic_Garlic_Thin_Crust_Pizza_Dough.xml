@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Garlic Thin Crust Pizza Dough</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Pizza</cat>
+        <cat>Two thumbs</cat>
+        <cat>Bread machi</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves fresh garlic --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Minced or pressed</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Lukewarm water -- plus 1</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tablespoon</item></ing></ingredients>
+    <directions>
+      <step>  [The original author's general directions for pizza dough-making are quite
+  lengthy and explicit; I include here only a portion of the general
+  
+  directions for bread machines and for making dough by hand. Her directions
+  
+  are more detailed, and include specific instructions for using dough
+  makers, food processors, and heavy-duty mixers with dough hooks. I highly
+  recommend the cookbook for any pizza-lover!]
+  
+  If using a bread machine, add the ingredients in the order specified for
+  your particular machine. If your machine has a double kneading cycle,
+  remove the dough after an hour of rising and turn off your machine;
+  allowing the dough to knead a second time causes bubbles which are
+  difficult to roll.
+  
+  If making by hand, proof the yeast in 1/4 to 1/3 of the water with a pinch
+  of sugar. Then add the remaining liquid ingredients, mix well, then add the
+  dry ingredients and stir until you can no longer work the dough with a
+  spoon. Turn the dough out onto a well-floured counter, knead for 5 to 10
+  minutes, and allow to rise covered in a warm place for 50 to 60 minutes.
+  
+  =46or a thin-crust pizza, roll the dough out 1/8 inch thick; slightly
+  thicke= r at the edges. Turn the edges up slightly to prevent run-off in
+  the oven, and place toppings no closer than 1/4 inch to the edge of the
+  dough, preferably no closer than 1/2 inch.
+  
+  Recipe By     : Donna Rathmell German in "The Best Pizza is made at home"
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

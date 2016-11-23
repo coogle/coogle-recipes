@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Red Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Chili</cat>
+        <cat>Stew &amp; cass</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Slivered Almonds; Toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion; Finely Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove Garlic; Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato Sauce; 1 can</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Red Chiles; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red Pepper; Ground</item></ing></ingredients>
+    <directions>
+      <step>  Place almonds in food processor work bowl fitted with steel blade or in
+  blender container; cover and process until finely ground. Cook onion and
+  garlic in oil over medium heat, stirring frequently, until onion is tender.
+  Stir in remaining ingredients except almonds. Heat to boiling; reduce heat.
+  Simmer 1 minute stirring constantly; stir in almonds. Serve hot.
+  
+  Makes about 1 3/4 cups of sauce.
+  Posted to recipelu-digest by "Christopher E. Eaves" &lt;cea260@airmail.net&gt; on
+  Feb 6, 98
+ 
+</step></directions></recipe></recipeml>

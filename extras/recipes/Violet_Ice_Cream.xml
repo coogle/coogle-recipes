@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Violet Ice Cream</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Fine, fresh whole wheat bread crumbs (abt. 4 medium slices)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Crystallized raw sugar (turbinado sugar)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crystallized violets</item></ing></ingredients>
+    <directions>
+      <step>  Whip cream until stiff.  Fold in bread crumbs and sugar. Chill in the
+  freezer until stiff but not hard.
+  
+  Before serving, mix in a few crystallized violets, and garnish each serving
+  with more of the same.
+  
+  From Kathleen S. Van Horn's "Sweet Violets" article in "The Herb
+  Companion."  April/May 1993, Vol. 5, No. 4. Pg. 29. Posted by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

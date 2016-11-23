@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Relish</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Red Kidney Beans; cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Canned Corn</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cider Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Yellow Onions; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard Seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Black Peppercorns; cracked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cornstarch</item></ing></ingredients>
+    <directions>
+      <step>  Mix beans with corn. Heat vinegar, sugar, onions, salt, mustard seed and
+  pepper to boiling. Cover and cook five minutes. Combine water and
+  cornstarch. Add gradually to vinegar mixture and bring to boil, stirring
+  constantly. Boil one minute and remove from heat. Pour over bean mixture
+  and stir well. Refrigerate at least four hours, stirring occasionally.
+  
+  NOTES : This is a nice alternative to three bean salad.
+  
+  Recipe by: The Good Housekeeping Illustrated Cookbook
+  
+  Posted to TNT Recipes Digest by "Barbara Zack" &lt;bzack@leading.net&gt; on May
+  8, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potato Crisps</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Potato peelings, with flesh</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unsalted butter</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 450 degrees F. Place skins on lightly oiled or buttered
+  baking sheet. Dot with butter. Bake until skins are quite golden and crisp
+  (about 20 minutes). Drain on paper towels and serve immediately.
+  
+  Makes about 6 dozen potato "crisps."
+  
+  Recipe By     : The California Culinary Academy
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

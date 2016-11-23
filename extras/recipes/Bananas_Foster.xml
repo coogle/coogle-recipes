@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas Foster</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>dashes</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Banana-flavored liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vanilla ice cream</item></ing></ingredients>
+    <directions>
+      <step>  Sprinkle banana slices with cinnamon and saute in butter over low heat
+  until butter melts. Add liqueur and and carefully ignite (being sure to
+  keep face, hands and clothing away from flame). When flames die out, add
+  brown sugar and stir until sauce is of caramel consistency. Spoon over two
+  scoops ice cream.
+  
+  Makes 1 serving.
+  
+  Source:  Los Angeles Times, December 7, 1995
+    Posted to MM-Recipes Digest V3 #261
+  
+    Date: Tue, 24 Sep 1996 00:16:20 +0000
+  
+    From: Linda Place &lt;placel@worldnet.att.net&gt;
+ 
+</step></directions></recipe></recipeml>

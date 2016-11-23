@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Pork Lo Mein</title>
+      <categories>
+        <cat>Pork</cat>
+        <cat>Chinese</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ginger; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bok choy; cut into 1/2-inch pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bean sprout</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Chinese bbq pork</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oyster sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy;dark</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper;dash</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Lo Mein noodles</item></ing></ingredients>
+    <directions>
+      <step>  Cook noodles in plenty of boiling water; when al dente, drain and toss with
+  sesame oil, set aside. Combine sauce ingredients, set aside. Heat wok, add
+  oil.  Add ginger stir fry until fragrant (about 10 sec). Add bok choy, bean
+  sprouts and pork, stir fry 2 minutes. Then add broth. When broth is hot,
+  add noodles, cover and cook 2 minutes. Add sauce, stir well and serve.
+  
+  Variations, instead of pork, use left over cooked, roast beef, lamb, shrimp
+  or chicken. Other fresh vegetables in season can be used in place of the
+  sprouts and bok choy.  From "Dim Sum" by Ruth Laws. JANE HARRIS,(DXDG05A)
+  Prodigy.
+  
+  From the MM database of Judi M. Phelps. jphelps@shell.portal.com,
+  juphelps@delphi.com, or jphelps@best.com
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

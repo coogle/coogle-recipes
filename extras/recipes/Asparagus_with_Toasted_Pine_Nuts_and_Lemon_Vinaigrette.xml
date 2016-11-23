@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Toasted Pine Nuts and Lemon Vinaigrette</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Low-cal</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Asparagus, fresh spears</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Basil, dried whole</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper, freshly ground</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pine nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano, dried whole</item></ing></ingredients>
+    <directions>
+      <step>  Snap off tough ends of asparagus. Remove scales from stalks with knife or
+  vegetable peeler, if desired. Place spears in a steaming rack over boiling
+  water; cover and steam 4-5 minutes or until spears are crisp-tender.
+  Transfer to a serving platter.
+  
+  Sautee pine nuts in a small skillet over medium heat 2-3 minutes, until
+  browned. Set aside.
+  
+  Combine olive oil and remaining ingredients in a medium saucepan; stir with
+  a wire whisk to blend. Cook over medium heat 2-3 minutes or until
+  thoroughly heated, stirring constantly. Pour over asparagus. Sprinkle with
+  pine nuts. Let stand to room temperature before serving.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

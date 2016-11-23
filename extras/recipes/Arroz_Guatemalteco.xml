@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Guatemalteco</title>
+      <categories>
+        <cat>Guatamala</cat>
+        <cat>Side dish</cat>
+        <cat>Rice</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Peanut oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mixed vegetables (carrots; celery, sweet red peppers and peas)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken or beef stock</item></ing></ingredients>
+    <directions>
+      <step>  Saute rice in oil, until rice has absorbed the oil but has not changed
+  color. Add vegetable, salt and pepper, and 4 cups of stock. Bring to a
+  boil, cover, reduce heat and simmer until liquid has been absorbed about
+  twenty minutes.
+  
+  From: The book of Latin American Cooking.
+  
+  Busted and entered for you by: Bill Webster
+  Posted to MC-Recipe Digest V1 #888 by Bill Webster &lt;thelma@pipeline.com&gt; on
+  Nov 07, 1997
+ 
+</step></directions></recipe></recipeml>

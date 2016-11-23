@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Vinegar</title>
+      <categories>
+        <cat/></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Handful? basil, fresh; shredded</item></ing></ingredients>
+    <directions>
+      <step>  Heat vinegar until just before boiling.  Combine basil and vingegar in a
+  glass bottle, and let cool.  Seal tightly, and infuse for two weeks. Strain
+  the vinegar into a fresh bottle, and add a sprig of basil.
+  Posted to MC-Recipe Digest V1 #189
+  
+  Date: 08 Aug 1996 17:25:22 GMT
+  
+  From: Richardson@digitalpopcorn.com (Richardson)
+ 
+</step></directions></recipe></recipeml>

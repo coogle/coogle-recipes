@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arni Tis Katsarolas Me Patates (Potted Lamb W/potatoes)</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat>
+        <cat>Greek</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Leg of lamb, boned</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Hot water (more as needed)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Tiny potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter for frying</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>     Wash lamb, wipe dry, and sprinkle with salt &amp; pepper.  Put 4 tb. butter
+  in pot, add lamb; brown on all sides.  Add lemon juice and allow this to
+  boil.  Add 1 c. water, and simmer (add more water as needed) 45 min. to 1
+  hr. or until meat is tender and 1 cup liquid remains.  Remove from heat.
+  Cool meat and slice it.
+  
+     Meanwhile clean potaotes--small round ones, or cut rounds with a melon
+  baller from large ones.  Put potatoes into frying pan and brown in butter
+  on all sides, then add to pot containing the sauce from the meat.  Add salt
+  &amp; pepper and 1/2 c. water; simmer until all liquid is absorbed and only the
+  butter remains.  Before serving, careully place meat on potatoes to heat.
+  Serve hot.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

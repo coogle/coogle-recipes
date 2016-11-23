@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vodka Slush 2</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(12-oz) frozen orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(12-oz) frozen lemonade</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Vodka</item></ing></ingredients>
+    <directions>
+      <step>  Boil water and sugar and cool. Add remaining ingredients. Mix and freeze.
+  Stir every once and awhile as it freezes. Fill glass 3/4 full and add 7-up
+  to the top.
+  Posted to EAT-L Digest 24 November 96
+  
+  Date:    Sun, 24 Nov 1996 20:18:24 -0800
+  
+  From:    laura davis &lt;ldavis@LINKNET.KITSAP.LIB.WA.US&gt;
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basler Leckerli</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>German</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Add:</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Orange peel*</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Lemon peel*</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Grated lemon rind and juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Of baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brandy</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>Bring</qty>
+          <unit>To</unit></amt>
+        <item>A Boil: water</item></ing></ingredients>
+    <directions>
+      <step>  Bake at 375 degrees about 20 minutes.
+  
+  ((*Note:  The candied variety, I would think.  K.B.))
+  
+  Source:  Handwritten recipe obtained by Pat Stockett along with German
+  cookbook
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

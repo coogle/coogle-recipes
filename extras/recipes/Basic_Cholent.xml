@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cholent</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Medium barley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Small white beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Red kidney beans</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>small</unit></amt>
+        <item>Red potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Stew meat; cut into chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Beef marrow or neck bones (I consider this optional) (up to 6)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; chopped fine or put through a press</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Black pepper</item></ing></ingredients>
+    <directions>
+      <step>  Brown meat and onions in oil in saucepan, or place meat and onions beneath
+  oven broiler for a few minutes.
+  
+  Rinse barley in a sieve under cold running water. Pick over beans and rinse
+  thoroughly. Peel potatoes (I don't) and cut into rounds. Add barley, beans,
+  potatoes, bones and garlic to meat and onions in the saucepan.
+  
+  Add 6-7 cups of cold water, or enough to cover, and bring to a boil over
+  high heat. Season with salt and pepper and simmer for one hour. Skim froth
+  as it rises to the surface.
+  
+  Place the cholent in a preheated low oven (200-250 degrees F) and let it
+  heat until the following day. A few hours before lunch check the cholent.
+  If it is too moist, uncover it and leave it in the oven to dry.
+  
+  This also works great with a clay pot, or in a slow cooker.
+  
+  Posted to FOODWINE Digest  by Mirjam &amp; Howard Dorn &lt;howard@STAR.NET.IL&gt; on
+  Nov 20, 1997
+ 
+</step></directions></recipe></recipeml>

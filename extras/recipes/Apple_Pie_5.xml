@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PIE CRUST</title>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cold unsalted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Grated orange rind</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Very cold orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ice water</item></ing></ing-div>
+      <ing-div>
+        <title>CRUMB TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Packed dark brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>dashes</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>dashes</unit></amt>
+          <item>Ground ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cold, unsalted butter</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>medium</unit></amt>
+          <item>Granny Smith apples</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Orange rind</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>dashes</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Unsalted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg, beaten</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. For pie crust, sift flour and salt into large bowl. Cut in butter and
+  shortening until mixture resembles coarse crumbs. Add orange rind. Sprinkle
+  in juice and water,. 1 tablespoon at a time, mixing with fork until flour
+  is moistened and soft dough forms. Shape into ball. Refrigerate, covered, 1
+  hour.
+  
+  2. For crumb topping, mix flour, brown sugar, cinnamon, salt and ginger.
+  Work in butter with fingers until mixture is crumbly.
+  
+  3. For filling, peel core and cut apples into 1/2-inch slices. Put slices
+  in large bowl; toss with 1 to 1 1/2 tablespoons flour. Add sugar, cinnamon,
+  orange rind, vanilla extract, nutmeg and salt. Stir in honey; let stand 1
+  hour.
+  
+  4. Heat oven to 450 degrees. Roll half of dough into a circle; fit in
+  metal, 9-inch pie pan. Trim edge. Drain liquid from apples, reserve. Set
+  1/4 cup of the crumb topping aside. Layer apples with remaining crumbs in
+  dough-lined pan. Use crumbs like mortar to build fruit up. Dot apples with
+  1 1/2 tablespoons butter. Sprinkle with 5 tablespoons reserved apple
+  liquid.
+  
+  5. Roll out remaining dough; cut with knife or fluted pastry wheel into
+  1/2-inch-wide strips. Weave strips into lattice over fruit. Seal strips at
+  edge of pan, moistening with apple liquid. Flute edge. Sprinkle reserved
+  crumbs in holes of lattice. Brush only crust edge and strips with beaten
+  egg.
+  
+  6. Bake on foil-lined baking sheet at 450 degrees, 5 minutes. Reduce oven
+  temperature to 350 degrees; bake until apples are tender, 50 to 55 more
+  minutes (or only 40 minutes if you like crunchier apples). Cool on wire
+  rack to room temperature.
+  
+  NOTE: Serve with vanilla ice cream or whipped cream flavored with vanilla
+  sugar and orange-flavored liqueur.
+  
+  Posted By japlady@nwu.edu (Rebecca Radnor) On rec.food.recipes or
+  rec.food.cooking
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

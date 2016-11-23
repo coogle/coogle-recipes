@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bagna Lauda</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Extra virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Cloves garlic, sliced paper thin and boiled in milk 10 minutes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Anchovy fillets, rinsed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fennel, raw, into 1" strips</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Stalks Cardoons, Peeled, and blanched</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red Bell Pepper, In1" Strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Yellow bell pepper, in 1" strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Loaf Country Style Bread</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil and butter over medium heat until warm. Add garlic and 2
+  tablespoons cooking milk, anchovy and black pepper, and blend, using
+  submersion blender. Pour into fondue pot and serve vegetables on the side.
+  
+  Yield: 4 servings
+  
+  Recipe by: Molto Mario MB5743 Posted to MC-Recipe Digest V1 #605 by Sue
+  &lt;suechef@sover.net&gt; on May 11, 1997
+ 
+</step></directions></recipe></recipeml>

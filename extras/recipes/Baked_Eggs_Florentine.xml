@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Eggs Florentine</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen chopped spinach; thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Half and half</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Swiss cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Pumpernickel rye bread; toasted</item></ing></ingredients>
+    <directions>
+      <step>  Prep: 5 min, Cook: 15 min. Preheat oven to 325øF. Place spinach in a sieve
+  and press to squeeze out as much water as possible. Spread spinach in
+  bottom of 4 lightly buttered shallow ramekins or individual gratin dishes.
+  Drizzle each with 1 Tbs. half and half. Season with nutmeg and salt and
+  pepper to taste. Carefully break 2 eggs into each dish. Drizzle with
+  remaining milk and sprinkle with cheese. Bake 12-15 minutes, until whites
+  are just set and cheese is melted. Serve with toast.
+  
+  This recipe serves 4 people. Because this recipe is for a particular size
+  pan, it adjusts the number of servings only in multiples of 4.
+  
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 07, 1998
+ 
+</step></directions></recipe></recipeml>

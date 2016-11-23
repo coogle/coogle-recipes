@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Chocolate Mousse</title>
+      <categories>
+        <cat>Chocolate</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Semisweet chocolate; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Almond extract</item></ing></ingredients>
+    <directions>
+      <step>  1. Scald 1/2 cup of the heavy cream with the sugar, stirring to dissolve
+  the sugar. Pour the hot sweetened cream over the chopped chocolate in a
+  large bowl and stir until the chocolate is melted and the mixture is
+  smooth. Set aside to cool completely.
+  
+  2. When the chocolate mixture is cool, whip the remaining 1 1/4 cups of
+  heavy cream with the almond extract just until stiff; do not overbeat. Fold
+  the whipped cream into the chocolate mixture. Use as soon as possible.
+  Posted to EAT-L Digest  by Chef K K &lt;chef-kk@JUNO.COM&gt; on Nov 19, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Argentinian Cheeseburger Sandwich</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Charcoal grilled or fried hamburger pattie</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Cooked ham</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Hard-fried egg (yolk is not soft)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Mozzarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bakery-style sandwich bun</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  (The following is for one sandwich, adjust according to your needs)
+  
+  Lightly toast the bun and spread with butter. Place the hamburger pattie on
+  the bottom section of bun, add the ham, then the egg and finally the
+  cheese. Broil only until cheese has melted. Top with remaining bun. Serve
+  immediately with preferred condiments.
+  
+  Though we didn't think of it at the time, this would be great with slices
+  of garden fresh tomatoes.
+  
+  Source: Jeffrey W. Elliott, FMC Corporation
+  
+  Posted to Bakery-Shoppe Digest V1 #252 by "Peggy L. Makolondra"
+  &lt;pmakolon@mail.wiscnet.net&gt; on Sep 19, 1997
+ 
+</step></directions></recipe></recipeml>

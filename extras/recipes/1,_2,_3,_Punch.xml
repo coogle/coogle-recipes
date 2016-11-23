@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1, 2, 3, Punch</title>
+      <categories>
+        <cat>Gin</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>26</qty>
+          <unit>ounces</unit></amt>
+        <item>Rye --</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bottles sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bottles ginger ale</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Whole oranges -- sliced</item></ing></ingredients>
+    <directions>
+      <step>  Pour 2 bottles of the ginger ale into a bundt pan and add some of the
+  orange slices. Freeze and use as ice ring as it doesn't dilute the punch
+  when it melts.  Punch does become smoother as the ring melts. Put orange
+  slices in the punch bowl and add other ingredients. (You may wish to have
+  one more bottle of ginger ale to make the ice ring.)
+  
+  Greg. I am the emperor, and I want dumplings. - Ferdinand I
+  
+  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

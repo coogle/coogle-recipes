@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Catchall Casserole</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Microwave</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked chicken; diced (or turkey, ham, pork or roast beef)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cooked mixed vegetables</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of chicken soup; (10 3/4 ounce)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Poultry Seasoning (For Chicken Or Turkey, Only)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Celery salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated Cheddar cheese</item></ing></ingredients>
+    <directions>
+      <step>  Place onion and butter in a 2 quart casserole. Cover with wax paper.
+  Microwave at high (100%) until tender, 2 to 3 minutes. Combine all
+  ingredients except cheese, with onions. Cover with wax paper. Microwave at
+  medium high (70%) until heated through, 12 to 14 minutes. Sprinkle with
+  cheese. Microwave at medium high (70%) until cheese is melted, 3 to 4
+  minutes. Makes 6 servings.
+  
+  NOTE: If using ham, use cream of asparagus soup. If using leftover roast
+  pork, use cream of celery soup. If using leftover roast beef, use cream of
+  mushroom soup.
+  
+  Recipe by: diane@keyway.net
+  
+  Posted to recipelu-digest Volume 01 Number 208 by "Diane Geary"
+  &lt;diane@keyway.net&gt; on Nov 6, 1997
+ 
+</step></directions></recipe></recipeml>

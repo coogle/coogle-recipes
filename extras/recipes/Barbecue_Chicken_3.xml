@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Chicken</title>
+      <categories>
+        <cat>Dean</cat>
+        <cat>Fearing</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>4-pound chickens; quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Crushed red pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and freshly ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>True texas barbecue sauce (recipe follows)</item></ing></ingredients>
+    <directions>
+      <step>  Light a grill, preferably charcoal. Rub the chicken with the oil and season
+  with the thyme, red pepper, salt and black pepper. When the fire is medium
+  hot, arrange the chicken, skin side down, on the grill. Cover and cook,
+  rotating from time to time, so the fat is rendered, about 10 minutes. Turn
+  the chicken, cover and continue cooking until almost cooked through, about
+  15 minutes longer. Uncover and generously spoon the True Texas Barbecue
+  Sauce all over the skin. Turn the chicken skin side down and grill, basting
+  and turning so it doesn't burn, until the pieces are nicely glazed and
+  slightly charred, about 10 minutes. Serve hot off the grill.
+  
+  Formatted by suechef@sover.net
+  
+  Recipe by: DEAN FEARING SHOW #HE1A02
+  
+  Posted to MC-Recipe Digest V1 #789 by Sue &lt;suechef@sover.net&gt; on Sep 18,
+  1997
+ 
+</step></directions></recipe></recipeml>

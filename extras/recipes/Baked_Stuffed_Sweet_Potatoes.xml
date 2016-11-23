@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Stuffed Sweet Potatoes</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>medium</unit></amt>
+        <item>Sized sweet potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Diced orange sections</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flaked coconut</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter or margarine</item></ing></ingredients>
+    <directions>
+      <step>  Scrub sweet potatoes and bake at 350 degrees for one hour or until tender.
+  Remove from oven and cut a thin slice from each side of potato, scoop out
+  all pulp, being careful not to break skin. Mash pulp; add melted margarine
+  or butter, sugar, oranges, coconut and salt, mix well. Spoon into shells,
+  dot each with approximately 1 teaspoon of margarine or butter. Bake at 450
+  degrees for 15 minutes or until tops are lightly browned. Serves 8. Good
+  with pork roast or pork chops.
+  
+  From &lt;A Taste of Louisiana&gt;.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

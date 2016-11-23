@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Spice Drink</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Christmas</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated orange peel</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cinnamon sticks, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Whole cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole nutmeg, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Cinnamon sticks</item></ing></ingredients>
+    <directions>
+      <step>  Combine orange peel, 3 crushed cinnamon sticks, cloves and nutmeg in a
+  small bowl.  Tie dry ingredients in a double thickness of cheesecloth to
+  make a sachet, or secure in a large tea-straining ball. In a medium pan,
+  simmer apple juice with spices for at least 20 minutes. Ladle into mugs and
+  garnish each with a cinnamon stick. Source: Quick &amp; Easy Cooking ch. Serves
+  6.
+  Posted to MM-Recipes Digest V3 #303
+  
+  Date: Tue, 05 Nov 1996 00:17:37 -0500
+  
+  From: Cindy J Hartlin &lt;chartlin@total.net&gt;
+ 
+</step></directions></recipe></recipeml>

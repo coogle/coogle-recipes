@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Vinaigrette #1</title>
+      <categories>
+        <cat>Dressing</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Seasoned rice vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; crushed</item></ing></ingredients>
+    <directions>
+      <step>  Date: Fri, 3 May 96 18:28:00 UT
+  
+  From: "Annette Fishman" &lt;ybigfish@msn.com&gt;
+  from Dr. Neal Barnard's Food for Life. Most, though not all, of the recipes
+  are fat free, and all those that I've tried have been delicious!!!
+  
+  Whisk all ingredients together.
+  
+  FATFREE DIGEST V96 #123
+  
+  From the Fatfree Vegetarian recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

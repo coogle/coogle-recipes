@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Preserves</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Peeled-cored-sliced apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Pectin</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  This is NOT jam.  I like to use these warmed as a side dish (like
+  
+  escalloped apples). This is from the Ball Blue Book.
+  
+  Mix apples, water, lemon juice in large pot. Simmer covered 10 min. Stir in
+  pectin and bring to full rolling boil, stir frequently. Add lemon
+  slices/sugar and bring to full rolling boil again and boil for 1 min, stir
+  frequently.  Remove from heat and add nutmeg. Pour into hot jars or cool
+  and put into freezer containers. If canning, process 10 min in boiling
+  water bath. Yield 6 half pints.   IF FREEZING, MAKE SURE YOU COOL FIRST, IT
+  WILL BE HOT ENOUGH TO MELT PLASTIC !!!! (I speak from experience !)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

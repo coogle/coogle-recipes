@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avgolemono (Greek Egg and Lemon Soup)</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken Stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Uncooked Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg Yolk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Lemon, Juice Only</item></ing></ingredients>
+    <directions>
+      <step>  Bring the chicken stock to a boil in a stockpot. Add the rice. Reduce heat.
+  Simmer until the rice is tender (about 20 minutes). Beat the egg yolk and
+  lemon juice together in a separate bowl. Stir in 1/2 cup of the stock.
+  Whisk the mixture back into the stockpot. Reheat but do not allow to boil.
+  Serve.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

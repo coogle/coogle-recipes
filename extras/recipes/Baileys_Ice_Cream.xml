@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baileys Ice Cream</title>
+      <categories>
+        <cat>Ice cream</cat>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Double cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Full fat milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Castor sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Baileys</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pinch salt</item></ing></ingredients>
+    <directions>
+      <step>  Whisk all of this stuff together until all the sugar has been dissolved.
+  
+  Then freeze as you would normally freeze ice cream, either in an ice cream
+  maker or in a tub in the freezer whisking every half hour or so.
+  
+  Because of the alcohol content of this ice cream it will usually take
+  around 12 hours to become hard.  It does freeze hard so taking it out the
+  freezer 10 minutes before serving is advised.  It does melt quickly so you
+  have to eat it fast.
+  
+  Don't put any more Baileys into the mix.  1/2 a cup may not seem much but
+  the flavour comes through very strongly.
+  
+  I prefer this with a little Baileys poured over it.
+  
+  Make it and enjoy it.  That is an order!
+  Posted to MM-Recipes Digest V4 #256 by Matt &lt;recipes@cableinet.co.uk&gt; on
+  Sep 17, 1997
+ 
+</step></directions></recipe></recipeml>

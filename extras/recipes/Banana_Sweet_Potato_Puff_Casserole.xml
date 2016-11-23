@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Sweet Potato Puff Casserole</title>
+      <categories>
+        <cat>Casseroles</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Mashed sweet potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mashed ripe bananas (3 medium)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Curry powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing></ingredients>
+    <directions>
+      <step>  In a large bowl, combine all ingredients. Beat with electric mixer until
+  light and very fluffy. Turn into 1 quart casserole dish. Bake at
+  350-degrees F. in the oven for 20 minutes or until puffed and lightly
+  browned.
+  Posted to recipelu-digest Volume 01 Number 262 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Nov 16, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Rolled Biscuits</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt; (up to 3/4)</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cold; unsalted butter, cut into pieces, up to 6</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Buttermilk powder; (optional)</item></ing></ingredients>
+    <directions>
+      <step>  (from New Joy of Cooking)
+  
+  The recipe calls for 3/4 c. milk when making rolled biscuits, but you
+  wouldn't add it when you're simply making the biscuit mix.
+  
+  NOTE: keep mix refrigerated until use
+  
+  Posted to Bread-bakers Digest by "J. Mathew" &lt;joanm@bigfoot.com&gt; on Apr 13,
+  1998
+ 
+</step></directions></recipe></recipeml>

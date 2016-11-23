@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Pork Curry</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Boneless Pork Chops, trimmed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small onion, sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove of Garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tart Cooking Apple</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small Sweet Red Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken Stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Curry Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly Ground Black Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped Parsley or Coriander</item></ing></ingredients>
+    <directions>
+      <step>  * The cooking apple should be peeled and sliced, the pepper should be
+  seeded and cut into thin strips. In a heavy frypan, heat oil over
+  medium-high heat. Cook pork chops until browned on both sides and almost
+  cooked through; remove from pan and set aside. Over medium heat, cook the
+  onion, garlic, apple and red pepper strips for 2 minutes or until softened.
+  Blend chicken stock with cornstarch; add to pan along with curry powder,
+  cumin and cinnamon; cook for 1 or 2 minutes until slightly reduced and
+  thickened. Return pork chops to frypan; adjust seasoning with salt and
+  pepper. Cook for 1 or 2 minutes or until heated through. Serve pork chops
+  with sauce and sprinkle with fresh chopped parsley or coriander. Serve with
+  quick-cooking couscous flavoured with chopped green onions and raisins.
+  Serves 4. From The Gazette, 91/02/20.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

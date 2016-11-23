@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>(Machine) Dog Cookies</title>
+      <categories>
+        <cat>Dog biscuit</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beef, chicken, or vegetable stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bread or all-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whole wheat or rye (or other dark) flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bulgar wheat</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Non-fat dry milk powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast</item></ing></ingredients>
+    <directions>
+      <step>  Use dough cycle. Roll dough to 1/4" thickness. Cut with cookie cutters or
+  knife. Place on baking sheets sprinkled with cornmeal. Cover with clean
+  kitchen towels and let rise in warm place about 45 minutes. Bake at
+  325-degrees for 45 minutes. When all are baked, turn off oven and return
+  all cookies to cooling oven overnight to harden. Store in airtight
+  container.
+  
+  (Using a 3.5" bone shaped cutter, I get about 30-35 cookies from this
+  recipe. Sam the Wonder Dog adores them.)
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdog.zip
+ 
+</step></directions></recipe></recipeml>

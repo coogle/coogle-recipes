@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Appetizer: Bacon-Wrapped Shrimp with Creamy H</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Seafood</cat>
+        <cat>Cheese</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>24</qty>
+            <unit/></amt>
+          <item>Uncooked large shrimp,</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Peeled and deveined</item></ing>
+        <ing>
+          <amt>
+            <qty>24</qty>
+            <unit/></amt>
+          <item>Canned whole water chestnuts</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Drained</item></ing>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Bacon slices, cut crosswise</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>In half</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>(3/4 stick) unsalted butter</item></ing></ing-div>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>8-oz. package cream cheese,</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mayonaise</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Prepared horseradish</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Fresh lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Hot pepper sauce (Tobasco)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>White Pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Wrap 1 shrimp around 1 water chestnut.  Wrap in 1 bacon piece and secure
+  with toothpick.  Repeat with remaining shrimp, water chestnuts and bacon.
+  Melt 3 tablespoons butter in heavy large skillet over high heat. Add half
+  of shrimp and cook until bacon browns, anbout 2-1/2 minutes per side.
+  Transfer to large gratin dish. Repeat with remaining butter and shrimp.
+  
+  Preheat broiler.  Beat cream cheese in medium bowl until smooth. Add
+  remaining ingredients and beau until blended. Season with salt. Spoon sauce
+  over shrimp. Broil until top is golden brown. Divide shrimp among plates
+  and serve.
+  
+  From the KELLY HOTEL, a restored stagecoach house in Ripley, New York.
+  
+  SOURCE: Bon Appetit Favorite Restaurant Recipes Volume II
+  
+  Shared by Cate Vanicek
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

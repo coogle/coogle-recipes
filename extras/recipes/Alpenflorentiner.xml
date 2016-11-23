@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alpenflorentiner</title>
+      <categories>
+        <cat>Kuchen</cat>
+        <cat>Gebaeck</cat>
+        <cat>Pralinen</cat></categories>
+      <yield>999</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>VERSION 1</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 El Butter</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>100 g Zucker</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 P Vanillezucker</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>75 g Orangeat</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>160 g Mandelblaettchen</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Backoblaten</item></ing></ing-div>
+      <ing-div>
+        <title>VERSION 2</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 1/2 El Butter</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>125 g Zucker</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 P Vanillezucker</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 Flaeschchen Alpensahne</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>100 g Orangeat oder</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1/2 Zitronat oder</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1 Zitroback</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>200 g Mandelblaettchen</item></ing></ing-div></ingredients>
+    <directions>
+      <step>    Butter, Zucker und Vanillezucker unter Ruehren leicht in der Pfanne
+  braeunen. Alpensahne gut unterruehren. Orangeat und Mandelblaettchen
+  untermengen, bis die Masse fest wird. Auf Backoblaten verteilen und bei
+  200GradC etwa 10 Minuten backen.
+  
+  Zubereitungszeit     10 Minuten Backzeit 10 Minuten
+  
+  Erfasser: Lothar Datum: 13.01.1993 Stichworte: Kuchen, Gebaeck
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

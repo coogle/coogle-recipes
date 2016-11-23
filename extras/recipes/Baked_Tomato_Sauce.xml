@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Tomato Sauce</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Italian plum tomatoes sliced lengthwise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Grated Romano cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dry bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Penne</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 425 F.
+  
+  Cover bottom of baking dish with oil.  Dip the cut sides of tomatoes in
+  oil, then place cut side up. Tomatoes should fit closely together in one
+  layer. Combine the cheese, bread crumbs, garlic, oregano, pepper and salt
+  and sprinkle evenly over tomatoes.
+  
+  Bake for 40 minutes.  If drippings start to burn, turn oven down to 375 F.
+  or 400 F.  Combine baked tomatoes with penne pasta, toss, and serve
+  immediately.
+  
+  The editors wrote: "Elegantly easy, that's what this sauce is. It's one of
+  several we received that rely on baking, roasting or grilling tomatoes and
+  other vegetables for deep, rich flavor."
+  
+  Recipe from Andrea Giunta of Denver, CO in "Great Spaghetti Sauce Cookoff"
+  article in "The Herb Companion." Dec. 1992/Jan. 1993, Vol. 5, No. 2. Pg.
+  79.  Posted by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

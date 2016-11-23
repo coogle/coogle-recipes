@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Apple Torte</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Fruits</cat>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PASTRY</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit/></amt>
+          <item>Apples; winesap, golden delicious, Granny Smith</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream cheese; room temp</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Grated lemon peel</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cinnamon sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sliced almonds</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Pastry:  cream sugar, butter, shortening and vanilla. Blend in flour and
+  pat into bottom and 1 1/2 inches up sides of greased 9 inch spring form
+  pan.  Place in 400F oven for 15 minutes.
+  
+  Pare and slice apples to make 1 quart (4 cups).
+  
+  Filling:  Beat cream cheese, sugar, egg, lemon peel, vanilla and salt until
+  smooth.  Pour over pastry.  Top with apple slices, cinnamon sugar and nuts.
+  Bake at 400F for 40 minutes.
+  
+  From "A Flock of Good Recipes," Shepherd of the Bay Lutheran Church,
+  Ellison Bay and Sister Bay (Door County), Wisconsin
+  
+  Good Tastes column, Green Bay Press Gazette, 10/1/1995
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

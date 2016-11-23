@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ham and Cheese Sandwich</title>
+      <categories>
+        <cat>Pork &amp; ham</cat>
+        <cat>Sandwiches</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>16</qty>
+            <unit>slices</unit></amt>
+          <item>Bread</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Ham; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs; beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Cream of mushroom soup</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cans</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mushrooms</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Hard boiled eggs</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Remove crust from bread. Place 8 in the bottom of a greased 9x13 pan. Put 1
+  slice of ham, 1 slice of cheese on each piece of bread. Put other slice of
+  bread on top.
+  
+  Beat eggs and milk together. Pour over the sandwiches. Refrigerate
+  overnight. Remove in the morning for several hours before baking. Bake at
+  350 degrees for 1 hour. Pour sauce over sandwiches when serving.
+  
+  busted by sooz
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by sooz &lt;kirkland@gj.net&gt; on Mar 29, 1998
+ 
+</step></directions></recipe></recipeml>

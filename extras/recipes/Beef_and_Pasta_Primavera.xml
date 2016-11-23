@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Pasta Primavera</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Main dishes</cat>
+        <cat>Pasta/noodl</cat>
+        <cat>Tomatoes</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Boneless beef top sirloin steak; cut 1" thick</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Uncooked farfalle; (bowtie pasta)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Garlic cloves; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Frozen vegetable mixture; defrosted, (8 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ready-to-serve beef broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Crushed red pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cherry tomatoes; cut in half</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lightly pakced fresh basil leaves; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly rated Parmesan cheese</item></ing></ingredients>
+    <directions>
+      <step>  Cook pasta according to package directions. Keep warm. Meanwhile trim fat
+  from beef steak. Cut steak lengthwise in half and then crosswise into 1/8
+  inch thick strips. In large nonstick skillet, heat oil over medium-high
+  heat until hot. Add beef and garlic (1/2 at a time) and stir-fry 1-2
+  minutes or until outside surface is no longer pink. (Do not overcook).
+  Season with salt. Remove to a large bowl; keep warm. In same skillet,
+  combine vegetable mixture, beef broth and red pepper; cook 3-4 minutes or
+  until vegetables are crsip-tender. Add vegetable mixture, pasta, tomatoes
+  and basil to beef; toss to combine. Sprinkle with cheese; serve
+  immediately. Makes 4 servings.
+  
+  Recipe by: North Carolina Cattlemen's Beef Council
+  
+  Posted to MC-Recipe Digest by Roberta Banghart &lt;bobbi744@sojourn.com&gt; on
+  Feb 25, 1998
+ 
+</step></directions></recipe></recipeml>

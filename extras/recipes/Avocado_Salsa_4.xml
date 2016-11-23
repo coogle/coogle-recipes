@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Salsa</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Avocado,, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Lime, Juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced cilantro</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sea salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Cayenne pepper</item></ing></ingredients>
+    <directions>
+      <step>  In a small bowl, mix the avocado, lime juice, onion, cilantro, salt, and
+  pepper. Store in a covered container in the refrigerator no more than 1
+  hour.
+  
+  Yield: about 1 cup
+  Posted to MC-Recipe Digest V1 #331
+  
+  Recipe by: TOO HOT TAMALES SHOW #TH6274
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+  
+  Date: Fri, 6 Dec 1996 08:08:48 -0500
+ 
+</step></directions></recipe></recipeml>

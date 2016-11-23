@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Sticks</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; chopped fine</item></ing></ingredients>
+    <directions>
+      <step>  &gt;From the Recipe of The Month Club 10th Anniversary Cookbook, sent in by
+  Debbie Davis.
+  
+  Beat eggs and brown sugar well together. Add flour, salt, and walnuts. Beat
+  well. Bake in well buttered sheet (11 x 15 1/2-inch) at 350 degrees for
+  about 12 minutes. As soon as done, cut in finger-length strips. Posted to
+  TNT - Prodigy's Recipe Exchange Newsletter  by vergie1@juno.com (Vergie A
+  Ewing) on Jul 21, 1997
+ 
+</step></directions></recipe></recipeml>

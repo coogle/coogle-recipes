@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Verde</title>
+      <categories>
+        <cat>Mexican</cat>
+        <cat>Rice</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Jim Vorheis</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unconverted long-grain rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Safflower oil, melted chicken fat, or melted lard</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely chopped white onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Chilies poblanos, charred, peeled, and cut in strips</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove, peeled and roughly chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Firmly packed, roughly chopped flat-leaf parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Firmly packed, roughly chopped epazote or cilantro</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sea salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Green Rice</item></ing></ingredients>
+    <directions>
+      <step>  Put the rice into a bowl and pour very hot water over to cover; stir and
+  set aside for 10 minutes.  Drain in a strainer and rinse in cold water;
+  drain again and set aside.
+  
+  Heat the oil in a heavy pan, stir the rice into it, and fry over fairly
+  high heat, stirring and scraping the bottom of the pan, for about 5
+  minutes.  Add the onion and chile strips and continue frying for 4 minutes
+  or until the onion is translucent.
+  
+  Meanwhile, put 1 cup of the broth into a blender jar; add the garlic,
+  parsley, and epazote and blend until smooth. Add this to the frying rice
+  and continue frying and reducing the puree over quite high heat, stirring
+  and scraping the bottom of the pan, until the rice is dry. Stir in the rest
+  of the broth, add salt to taste, and cook over fairly high heat, uncovered,
+  until the liquid has been absorbed and there are air holes in the rice.
+  Cover with a towel and lid and continue cooking over low heat for 5
+  minutes.  Remove from the heat and set aside, still covered, in a warm
+  place for the rice to swell up.  Before serving, turn the rice over with a
+  fork from the bottom where a lot of the flavor and oil will have settled.
+  
+  The Art of Mexican Cooking From the collection of Jim Vorheis
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

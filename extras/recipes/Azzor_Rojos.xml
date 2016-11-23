@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Azzor Rojos</title>
+      <categories>
+        <cat>Side dish</cat>
+        <cat>Mexican</cat>
+        <cat>Rice</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>White rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chili powder, to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Tomatoes, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Peas, thawed if frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pimiento, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Red peppers, to garnish</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil in a wok over medium heat till hot.  Add rice.  Cook &amp; stir
+  for 2 minutes or until the rice turns opaque.  Add onion, cook &amp; stir
+  for 1 minute.  Stir in garlic, salt, cumin &amp; chili powder.  Add
+  tomatoes &amp; cook, stirring for 2 minutes.  Stir in broth, bring to a
+  boil over high heat. Reduce the heat to low.  Cover &amp; simmer 15
+  minutes or until the rice is almost tender.
+  
+  Stir in peas and chopped pimiento.  Cover and cook 2-4 minutes until
+  rice is tender and all liquid has been absorbed.  Garnish with the
+  red peppers if desired.
+  
+  Posted by Joell Abbott, Adapted Recipe
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/vegan4.zip
+ 
+</step></directions></recipe></recipeml>

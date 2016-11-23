@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Beans for Two</title>
+      <categories>
+        <cat>Beans</cat>
+        <cat>Taste of ho</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Pork and beans</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped onions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Brown sugar or as much as 3 teaspoons</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Honey or as much as 3 teaspoons</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Prepared horseradish</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in an ungreased 1-qt. baking dish. Bake, uncovered,
+  at 350 degrees for 30-40 minutes. Yield: 2 servings.
+  
+  Recipe by: Taste of Home, June/July, 1997 Posted to MC-Recipe Digest V1
+  #648 by NGavlak@aol.com on Jun 23, 1997
+ 
+</step></directions></recipe></recipeml>

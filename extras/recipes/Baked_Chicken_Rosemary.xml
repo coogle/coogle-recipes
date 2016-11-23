@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken Rosemary</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Dpiinc</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chicken, whole, broiler/ fryer, cut into parts, skinned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oil, vegetable</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Rosemary</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Wine, white, dry</item></ing></ingredients>
+    <directions>
+      <step>      Preheat oven to 350 F.
+  
+      Place the chicken, skinned side up, in a baking dish.  Brush oil
+  over the chicken.  In a small dish, mix together the rosemary,
+  paprika, salt and pepper.  Sprinkle this mixture over the chicken.
+  Pour the wine around the chicken in the baking dish.
+  
+      Bake, uncovered, basting frequently with pan juices, for 50
+  minutes or until the chicken is brown and fork tender.
+  
+       Per serving:
+       :    232.0    calories
+       :     35.0  g protein
+       :      6.1  g total fat
+       :      1.3  g saturated fat
+       :      1.2  g carbohydrate
+       :    115.0 mg cholesterol
+       :    262.0 mg sodium
+  
+       Source: "Chicken Cookery"  - 1994 Delmarva Chicken Cooking Contest
+       :       Delmarva Poultry Industries, Inc.
+       :       Georgetown, Delaware, 19947-9622
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/dpi.zip
+ 
+</step></directions></recipe></recipeml>

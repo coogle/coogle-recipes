@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Easy Cure" Meat Jerky</title>
+      <categories>
+        <cat>Smoked</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Meat; any cut</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Non-iodized salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Trim all fat from meat. Slice meat with the grain as thin as possible. The
+  meat slices nicely when semi-frozen, or your butcher will do the slicing
+  for you. Place the meat in cool brine and refrigerate overnight.
+  
+  After no less than 12 hours, take the meat from the brine, rinse lightly
+  and allow to dry on paper towels for 1 hour.
+  
+  Place meat strips on the smoker racks and dry for 12 hours, using your
+  favorite fuel. When strips are the dryness you like, allow to cool and
+  transfer into a ziplock bag for taking on trips, hiking, camping, etc.
+  Posted to recipelu-digest by "Christopher E. Eaves" &lt;cea260@airmail.net&gt; on
+  Mar 06, 1998
+ 
+</step></directions></recipe></recipeml>

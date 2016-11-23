@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Flo's Ever-Ready Muffins</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Raisin Bran -- Post, whole</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Box</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, All-Purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Pumpkin Pie Spice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Whole Eggs -- beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shortening -- melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Buttermilk</item></ing></ingredients>
+    <directions>
+      <step>  Mix dry ingredients.  Add eggs, shortening, vanilla, and buttermilk.  Mix
+  well.
+  
+  [This batter will keep up to 6 weeks.  Store in covered container
+  (Tupperware), put in refrigerator.  Use as desired.]
+  
+  Fill greased or paper lined muffin pans 2/3 full.  Bake in 375 degree oven
+  for about 20 minutes or until done.
+  
+  Recipe By     : Florence Conrad
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

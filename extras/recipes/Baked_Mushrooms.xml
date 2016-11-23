@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Mushrooms</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>x</unit></amt>
+        <item>Large field mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Chopped onions</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Whole wheat breadcrumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Sausage meat</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chopped sage</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Wash and peel mushrooms. Remove stalks and discard.
+   Brush mushrooms with melted butter.  Fry onions in remaining butter. When
+  tender, mix onion and butter with breadcrumbs, sausagemeat, herbs and
+  seasonings.
+   Divide among the mushrooms.  Place mushrooms in a shallow ovenproof dish,
+  pour 4 tablespoons of water into the bottom of the dish, and bake for 15-20
+  minutes in a moderate oven.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

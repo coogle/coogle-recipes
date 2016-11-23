@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-American Snack</title>
+      <categories>
+        <cat>Crockpot</cat>
+        <cat>Snacks</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Thin pretzel sticks</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Wheat chex®</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Cheerios®</item></ing>
+      <ing>
+        <amt>
+          <qty>13</qty>
+          <unit>ounces</unit></amt>
+        <item>Can salted peanuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garlic salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Celery salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Seasoned salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Melted butter</item></ing></ingredients>
+    <directions>
+      <step>  In large mixing bowl or slow-cooking pot, mix together pretzels, cereals,
+  and peanuts. Sprinkle with garlic salt, celery salt, seasoned salt, and
+  cheese. Pour melted butter over all; toss until well mixed. Cover and cook
+  in slow-cooking pot on low 3 to 4 hours. Uncover the last 30 to 40 minutes.
+  Serve as appetizer or snack.
+  Posted to recipelu-digest Volume 01 Number 264 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Nov 17, 1997
+ 
+</step></directions></recipe></recipeml>

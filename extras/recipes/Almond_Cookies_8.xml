@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Cookies</title>
+      <categories>
+        <cat>Grains</cat>
+        <cat>Chinese</cat>
+        <cat>Desserts</cat></categories>
+      <yield>60</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Lard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>drops</unit></amt>
+        <item>Yellow food coloring</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>60</qty>
+          <unit/></amt>
+        <item>Whole blanced almonds</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 F.  Lightly grease two baking sheets. In mixing bowl,
+  beat the lard with the sugar unitl fluffy. Beat in 1 of the eggs. Add the
+  flour and baking soda, stirring just until blended. Add the food coloring
+  and extract, stirring until blended. Cover tightly with plastic wrap and
+  chill for 1/2 hour. Preheat oven to 375 F. On work surface, form dough into
+  one 1 or 2 rolls 1 IN. in diameter. Slice into 60 1/2-IN. rounds and
+  arrange on baking sheets.  Slightly beat the remaining egg and brush over
+  the rounds. Press 1 almond in the center of each round. Bake in preheated
+  oven for 15 minute until golden.
+  
+  Sweets are not often a part of a Chinese dinner, but Americans like to eat
+  dessert with Chinese food.
+  
+  Temperature(s): ROOM Effort: AVERAGE Time: 00:30 Source: LEEANN CHIN
+  Comments: MINNEAPOLIS, MINNETONICA Comments: WINE: WAN FU
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

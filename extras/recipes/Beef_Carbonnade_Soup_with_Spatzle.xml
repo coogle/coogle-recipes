@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Carbonnade Soup with Spatzle</title>
+      <categories>
+        <cat>Soups/stews</cat>
+        <cat>Main dish</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SOUP</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>pounds</unit></amt>
+          <item>Beef</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>cups</unit></amt>
+          <item>Beef broth</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Tomato juice</item></ing>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit>ounces</unit></amt>
+          <item>Beer</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Onions, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Celery, sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Basil</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Garlic cloves, crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Bay leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Carrots</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Green beans</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mushrooms</item></ing></ing-div>
+      <ing-div>
+        <title>SPATZLE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Brown meat in oil in soup pot. Add broth, juice, beer, onion, celery, chili
+  powder, basil, garlic, and bay leaves. Bring to boil, reduce heat and
+  simmer covered 2-3 hours. Add carrots and green beans and simmer until
+  tender. Add mushrooms and spatzle and cook 10 minutes more. Noodles can be
+  used in place of spatzle. SPATZLE: Beat eggs slightly. Combine flour, salt,
+  and nutmeg. Beat eggs into flour mixture. Gradually add 1/2 c. milk, then
+  add more milk a tablespoon at a time until the mixture is smooth, soft, and
+  quite moist. Pour some of the batter into a colander and press it through
+  the holes with a spatula into boiling salted water. Cook 5 minutes or until
+  tender, stirring occasionally. Remove with a slotted spoon and add to soup.
+ 
+</step></directions></recipe></recipeml>

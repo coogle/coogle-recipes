@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cabbage Soup</title>
+      <categories>
+        <cat>Soups/stews</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cabbage, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrots, chunked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onions, chunked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Potatoes, chunked</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>With salt, lots of pepper,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Maybe some dill and garlic.</item></ing></ingredients>
+    <directions>
+      <step>  Simmer or nuke til it is done to your liking.
+  Posted to MM-Recipes Digest V5 #015 by Roy &lt;roy@indy.net&gt; on Jan 15, 1998
+ 
+</step></directions></recipe></recipeml>

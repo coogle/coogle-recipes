@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Rub, Dry Rib Seasoning</title>
+      <categories>
+        <cat>Bbq</cat>
+        <cat>Rub</cat>
+        <cat>Cookoff</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>teaspoons</unit></amt>
+        <item>SALT</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>LEMON POWDER</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>BLACK PEPPER</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>teaspoons</unit></amt>
+        <item>SUGAR</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>MSG</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>PAPRIKA</item></ing></ingredients>
+    <directions>
+      <step>  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

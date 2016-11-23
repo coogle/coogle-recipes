@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichokes Truffle Style</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Artichokes; medium</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Lemons; juice &amp; rind</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil salt freshly ground black pepper</item></ing></ingredients>
+    <directions>
+      <step>  The description "Truffle style" means they are cooked as truffles would be
+  (sliced paper thin and quickly fried with a little oil, salt and pepper).
+  
+  Prepare artichokes as directed in "Cleaning artichokes ~ Jewish Style". Cut
+  in half lengthwise and keep in lemon water. "Heat 1/4 cup of oil in a large
+  skillet. Drain 6 artichokes very well. Cut into very thin slivers directly
+  into the hot oil and fry, stirring frequently, for 10 minutes. Add salt and
+  pepper to taste and continue to fry until slices are golden brown and
+  crisp. Transfer to a hot serving dish and keep warm. Repeat with the
+  remaining oil and artichokes.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

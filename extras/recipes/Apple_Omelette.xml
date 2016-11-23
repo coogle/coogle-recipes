@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Omelette</title>
+      <categories>
+        <cat>Eggs</cat>
+        <cat>Fruit</cat>
+        <cat>Breakfast</cat>
+        <cat>Cheese</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Rum or lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fine granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cold water</item></ing></ingredients>
+    <directions>
+      <step>  Peel and core apples and slice paper-thin (the thinness of the apples is
+  important as they barely cook). Add the rum or lemon juice and sugar. Mix
+  well and let stand until ready to use.
+  
+  Beat eggs with the sugar and cold water, then add the apple mixture. Cook
+  according to directions, fold and serve.
+  
+  To flame the omelette, sprinkle top with 2 tablespoons of sugar and pour
+  3-4 tablespoons of hot rum over it. Set the rum afire and keep pouring it
+  over the flaming omelette until the fire dies out.
+  
+  NOTES : The apples may be replaced by peaches, pears or other seasonal
+  Ontario fruits and prepared in the same manner. The recipe is easily
+  doubled.
+  Recipe by: The Canadiana Cookbook/Mme Jehane Benoit/1970 Posted to TNT -
+  Prodigy's Recipe Exchange Newsletter  by Bill &amp; Leilani Devries
+  &lt;devriesb@cyberbeach.net&gt; on Aug 25, 1997
+ 
+</step></directions></recipe></recipeml>

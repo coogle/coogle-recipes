@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lasagne</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Italian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Of lean ground beef, or Italian sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion, chopped (to make 1 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Red or green bell pepper (finely chopped)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Garlic cloves, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>28</qty>
+          <unit>ounces</unit></amt>
+        <item>Italian plum tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Can tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly ground pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf, broken in half</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Fresh ricotta</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Grated mozzarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Freshly grated Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Lasagne noodles (about 6 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Freshly grated Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Freshly grated mozzarella cheese</item></ing></ingredients>
+    <directions>
+      <step>  Remove  sausage  casings and crumble sausage.   Brown meat in large pot,
+  stirring occasionally to break up the meat. Drain off fat.
+  
+  Remove meat and set aside.  Heat 3 tablespoons oil in the same pot, add
+  onion, garlic and bell pepper and cook over medium heat, stirring
+  occasionally, about 5 to 8 minutes or until onion is tender.
+  
+  Stir  in the reserved meat, tomato puree, tomato paste, water, basil,
+  oregano, sugar, 3/4 teaspoon salt, 1/4 teaspoon pepper and bay leaf and
+  bring to boil. Cover and simmer, stirring occasionally, about 2 hours, or
+  until  flavors  mingle  and mixture thickens slightly (there will be about
+  4 1/2 to 5 cups of sauce).
+  
+  Combine ricotta, 1/4 cup Parmesan, egg, 1/4 teaspoon salt, and 1/4 teaspoon
+  pepper in a medium bowl; set aside.
+  
+  Bring  3  quarts  of  water to boil in  a  large  pot.
+   Add  1 tablespoon salt,  then gradually add lasagne noodles so that water
+  continues to boil.  Cook noodles until barely tender, about 5 minutes,
+  stirring once or twice;  do  not  overcook. Drain noodles; rinse in cold
+  water and drain well.   Return noodles to pot and toss them gently with 1
+  tablespoon oil to prevent them sticking.
+  
+  Line  the  bottom of a a buttered 9 x 13 x 2-inch  pan with 4 lasagne
+  noodles, cutting one as necessary to completely cover the bottom. Spread
+  evenly with half of ricotta mixture (1 generous cup). Sprinkle evenly with
+  half of mozarella (about 2 cups). Spread with half of the tomato/meat
+  sauce.
+  
+  Top  with remaining 4 noodles, cutting one noodle as above so that the
+  sauce mixture is completely covered. Evenly layer on remaining ingredients
+  in the same order as above. Sprinkle the top of the lasagne evenly with 1/4
+  cup Parmesan and  1/4  cup mozzarella.
+  
+  Bake  in a preheated oven at 375 for about 45 or 50 minutes or until
+  lasagne is hot in center.  Remove from oven; let stand for 15 minutes. Cut
+  in squares and serve on heated plates with garlic bread.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

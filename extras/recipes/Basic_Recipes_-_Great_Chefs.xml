@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Recipes - Great Chefs</title>
+      <categories>
+        <cat>Information</cat>
+        <cat>Basics</cat>
+        <cat>Masterchefs</cat>
+        <cat>Frisco</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>No ingredients</item></ing></ingredients>
+    <directions>
+      <step>       In my attempt to type out the recipes of the Great Chefs books
+  series, I've run across some "basic" recipes that run through all of
+  the books.  They are the "stock" recipes that are common to all
+  cooking, and I'm sure you have these.  But just in case (and for my
+  own files) I typed them out anyway.
+  
+        Here (and in subsequent messages) are the recipes for:
+  
+  01  Almond Cookie Shells - Great Chefs
+  02  Asparagus Sauce - Great Chefs
+       03    Aspic Jelly - Great Chefs
+       04    Basil Puree - Great Chefs
+       05    Buttercream - Great Chefs
+  06  Cream Truffle Sauce - Great Chefs
+  07  Cream of Shallots Sauce - Great Chefs
+       08    Creme Anglaise - Great Chefs
+       09    Curry Butter - Great Chefs
+       10    Garlic Puree - Great Chefs
+       11    Genoise - Great Chefs
+       12    Nantua Sauce - Great Chefs
+  13  Parmesan-Basil Cream Sauce - Great Chefs
+       14    Red Wine Sauce - Gret Chefs
+       15    Salmon Mousse - Great Chefs
+       16    Shallot Puree - Great Chefs
+  17  Vanilla Ice Cream - Great Chefs
+  18  White Chocolate Mousse - Great Chefs
+  19  Wine Butter Sauce - Great Chefs
+       20    Apricot Glaze - Great Chefs
+       21    Brioche - Great Chefs
+       22    Fish Fume - Great Chefs
+  23
+  24
+  25
+  26
+  27
+  28
+  29
+  30
+  
+       I hope some of you will be able to get SOMEthing out of these
+  recipes.
+  
+         -= Rob Stewart =-
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-sf.zip
+ 
+</step></directions></recipe></recipeml>

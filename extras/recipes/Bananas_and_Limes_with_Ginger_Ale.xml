@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas and Limes with Ginger Ale</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Desserts</cat>
+        <cat>Vegan</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Banana; (to 3)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Limes; juiced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Zest of 2 limes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ginger ale; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed ice</item></ing></ingredients>
+    <directions>
+      <step>  Puree the bananas in a blender with the lime zest and juice and a little
+  ginger ale. Taste and add sugar, if desired. place crushed ice in the
+  bottom of each glass, pour the mixture over and top up with more ginger
+  ale.
+  
+  Printed in the Atlanta Journal/Constitution, 7/10/97
+  
+  &gt;From: Ellen C. Rakes &lt;ellen@brakes.elekta.com&gt;
+  
+  Per serving: 129 Calories; 1g Fat (4% calories from fat); 2g Protein; 35g
+  Carbohydrate; 0mg Cholesterol; 3mg Sodium Food Exchanges: 2 1/2 Fruit
+  
+  NOTES : This smoothie has a distinctive Asian flair.
+  
+  Recipe by: Smoothies &amp; Other Blended Drinks, Elsa Peterson-Schepelern
+  Posted to Digest eat-lf.v097.n183 by "Ellen C." &lt;ellen@elekta.com&gt; on Jul
+  20, 97
+ 
+</step></directions></recipe></recipeml>

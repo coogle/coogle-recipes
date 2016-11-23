@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Mac'n'cheese</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Campbell's Condensed Cheddar Cheese Soup; (10.75 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cans</unit></amt>
+        <item>Milk; (use soup can)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Hot cooked elbow or medium shell macaroni; (~1.5 c dry)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Margarine or butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dry bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>  1. In 1 quart casserole, combine soup, milk, mustard and pepper. Stir in
+  macaroni.
+  
+  2. In cup, combine margarine and bread crumbs. Sprinkle over casserole.
+  
+  3. Bake at 400'F. 20 minutes or until hot and bubbling.
+  
+  Makes 2 1/2 cups, 2 main dish or 4 side dish servings.
+  Posted to recipelu-digest by "bunny" &lt;layla696@ix.netcom.com&gt; on Feb 28,
+  1998
+ 
+</step></directions></recipe></recipeml>

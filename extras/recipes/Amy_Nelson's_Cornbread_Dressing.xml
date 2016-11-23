@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amy Nelson's Cornbread Dressing</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>pounds</unit></amt>
+        <item>Turkey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Cornbread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>slices</unit></amt>
+        <item>Day-old white bread; cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ground sage</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Broth from turkey (up to 4-1/2)</item></ing></ingredients>
+    <directions>
+      <step>  Roast turkey at 325 degrees for 3 1/2 to 4 1/2 hours to internal
+  temperature of 180 degrees, adding 1 gallon of water to pan to encourage
+  broth. Remove turkey and set aside, straining all broth and reserving.
+  
+  Saute onion and celery in the butter and add to cornbread, white bread,
+  sage, eggs, salt and pepper. Pour broth over the mixture until it is no
+  longer dry but holds when pressed together. Pour into greased 9x13 inch
+  baking pan and bake at 350 degrees for 45 minutes. Serves 12-16.
+  
+  Recipe by: Green Pastures Restaurant
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Sherry Zeiss
+  &lt;zeiss@eden.com&gt; on Nov 20, 1997
+ 
+</step></directions></recipe></recipeml>

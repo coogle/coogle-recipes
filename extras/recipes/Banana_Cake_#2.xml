@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cake #2</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter; softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Banana; mashed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Confectioners' sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon juice</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From: a4gy@jupiter.sun.csd.unb.ca ("N. Webber")
+  
+  Date: Sun, 9 Apr 1995 06:20:48 +0000
+  Preheat oven to 350F. Grease 9-inch loaf pan; dust with flour. Combine sour
+  cream and baking soda in large bowl; let stand for 5 minutes. Mix butter,
+  sugar, and eggs together in separate bowl; stir into sour cream mixture.
+  Add mashed banana; mix well. Gradually add vanilla and flour; mix well
+  after each addition. Pour batter into prepared loaf pan; bake for 1 hour.
+  Cool in pan on wire rack for 10 minutes, then turn out onto rack; cool
+  completely before frosting.
+  
+  To make frosting, cream butter and sugar together well in mixing bowl. Stir
+  in milk and lemon juice, beating well until frosting is of spreading
+  consistency. Frost sides and top of cooled cake.
+  
+  Source: Creative Cooking: Desserts, page 5
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /CAKES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

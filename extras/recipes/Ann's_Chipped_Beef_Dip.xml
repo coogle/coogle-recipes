@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ann's Chipped Beef Dip</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dried onions; or a little less</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Green pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Dried chipped beef; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Put all ingredients in small casserole and bake @ 350 degrees for 1/2 hour.
+  Serve with Onion melba crackers.
+  
+  Recipe by: Ann Bolin
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  "tstak@starnetinc.com" &lt;tstak@starnetinc.com&gt; on Dec 3, 1997
+ 
+</step></directions></recipe></recipeml>

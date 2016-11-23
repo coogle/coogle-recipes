@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Tart</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat>
+        <cat>Cyberealm</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PASTRY</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>All-Purpose Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Unsalted Butter, cut up</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg Yolk</item></ing></ing-div>
+      <ing-div>
+        <title>APPLE FILING</title>
+        <ing>
+          <amt>
+            <qty>28</qty>
+            <unit>ounces</unit></amt>
+          <item>Golden Delicous Apples,</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Peeled, cored, and sliced</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>1/4" thick (6 cups)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon Juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar</item></ing></ing-div>
+      <ing-div>
+        <title>APRICOT GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Apricot Jam</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Apricot Brandy</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Pastry: In a food processor combine flour, 2 ts sugar and salt. Add butter
+  and pulse with on/off turns until mixture resembles fine cornmeal. Ib a 1
+  cup measure, whisk milk and egg yolk until blended. With processor running,
+  pour in egg mixture, processing until dough pulls away from sides of bowl
+  and forms a ball. Form dough into a flat rectangular shape. Wrap in plastic
+  wrap. Refrigerate for 20 minutes.
+  
+  Apple Filling: In a large bowl, toss sliced apples with lemon juice. Set
+  aside.
+  
+  Assembly: Preheat oven to 425øF. On a heavily floured surface, roll out
+  pastry to 16x12" rectangle. Arrange pastry flat on a large baking sheet.
+  Overlap apple slices in 3 lengthwise rows atop pastry, leaving a 1" border
+  of pastry on all sides. Fold edge of pastry up to, and slightly overlapping
+  apples. Press together seams of pastry at corners to seal. Pinch together
+  and cracks in pastry along edges to hold in juices. Sprinkle apples with 2
+  tb sugar. Bake at 425øF for 25-30 minutes until apples are tender and crust
+  is browned. Remove from oven and dust with 1 tb sugar, then brush with warm
+  glaze. Cool tart on baking sheet set on rack.
+  
+  Apricot Glaze: While tart is baking, in a small saucepan stir apricot jam
+  and apricot brandy over medium heat until melted. Press through a sieve.
+  
+  Source: Victoria Magazine, January 1994 Typed by Katherine Smith Cyberealm
+  BBS and home of Kook-Net, Watertown, NY 315-786-1120
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

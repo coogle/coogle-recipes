@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aromatic Yellow Rice</title>
+      <categories>
+        <cat>Grains</cat>
+        <cat>Indian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Long-grain rice; (or basmati)</item></ing>
+      <ing>
+        <amt>
+          <qty>2 2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Turmeric</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Whole cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>1-inch cinnamon stick</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing></ingredients>
+    <directions>
+      <step>  Put the rice in a bowl and wash in several changes of water, until the
+  water is no longer cloudy.  Drain.  Pour 5 cups fresh water over the rice
+  and let it soak for half an hour.  Drain the rice in a sieve.
+  
+  Combine the drained rice, 2-2/3 cups water, salt, and spices in a heavy pot
+  and bring to a boil.  Cover with a tight-fitting lid, turn heat to very
+  low, and let simmer for 25 minutes.  Remove from heat and let the pot rest,
+  covered, for 10 minutes.
+  
+  Remove the whole spices and fluff the rice with a fork before serving.
+  
+  Per serving: 187.7 calories, 1.1 g. fat, CFF 5.1% Recipe By
+  : Madhur Jaffrey's Indian Cooking (adapted)
+  
+  Posted to Digest eat-lf.v096.n162
+  
+  Date: Sun, 22 Sep 1996 03:56:54 GMT
+  
+  From: harper@tribeca.ios.com (Robin Carroll-Mann)
+ 
+</step></directions></recipe></recipeml>

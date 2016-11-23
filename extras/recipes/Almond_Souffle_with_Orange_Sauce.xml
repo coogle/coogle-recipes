@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Souffle with Orange Sauce</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ground almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Melted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Cream of tartar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flaked almonds</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sauce:</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated orange rind</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brandy</item></ing></ingredients>
+    <directions>
+      <step>  Souffle: In a saucepan heat milk. When warm stir in sugar &amp; almonds.
+  Simmer very gently for 15 minutes. Do not allow to boil. Remove from
+  heat. Cool slightly &amp; beat in egg yolk, flour &amp; butter. Beat well by
+  hand or in a blender until the mixture is very smooth. In a separate
+  bowl beat egg whites with salt &amp; cream of tartar until they form
+  stiff peaks. Spoon about 1/4 of the egg whites into the custard &amp;
+  stir well. Fold in the rest of the whites. Butter 6 souffle cups or
+  glass bowls &amp; spoon the souffle mixture into them. Sprinkle with
+  flaked almonds &amp; bake for 15 minutes in 400 oven, until tops are
+  golden. **Note** Unbaked souffle mixture may be kept at room
+  temperature for 1 hour before baking. It may be frozen for later use.
+  In the case of the latter, souffle must be thawed for 1 hour before
+  baking.
+  
+  Sauce: In a saucepan combine butter, orange rind, orange juice &amp;
+  cornstarch, mix well. Simmer, stirring constantly, until sauce begins
+  to thicken. Remove from heat &amp; stir in brandy. Spoon sauce over hot
+  souffle &amp; serve at once.
+  
+  Souffle:
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

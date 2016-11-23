@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Fruit Sauce Recipe</title>
+      <categories>
+        <cat>Dessert top</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fruit; fresh or frozen</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cornstarch if needed; (slurry)</item></ing></ingredients>
+    <directions>
+      <step>  1. Cook fruit over moderate heat.
+  
+  2. Puree in a blender.
+  
+  3. Strain through a fine mesh strainer or cheesecloth to remove seeds &amp;
+  such..
+  
+  4. If sauce is too loose thicken over a medium heat with a light cornstarch
+  slurry (cornstarch + water)
+  
+  NOTES : YIELDS 1 Pint Great for desserts or ice cream... It's just that
+  Easy!
+  Recipe by: Jamie, Az.
+  
+  Posted to recipelu-digest Volume 01 Number 513 by CuisineArt
+  &lt;CuisineArt@aol.com&gt; on Jan 13, 1998
+ 
+</step></directions></recipe></recipeml>

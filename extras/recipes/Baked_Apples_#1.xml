@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apples #1</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Sized apples</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon or nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Boiling water</item></ing></ingredients>
+    <directions>
+      <step>  Select firm, medium-sized apples. Wipe &amp; core. Put in a baking dish &amp; fill
+  each cavity with sugar &amp; cinnamon or nutmeg. (A great flavor is to add 1
+  teaspoon red-hots candy to each apple.) Cover bottom of dish with boiling
+  water &amp; bake at 400 until apples are soft, basting often with syrup in
+  dish. Serve hot or cold with whipped cream. (This dish may be served with
+  any menu.)
+  
+  DEBRA MAULDIN
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

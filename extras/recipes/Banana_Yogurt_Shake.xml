@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Yogurt Shake</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>2% lowfat milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe bananas; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Plain yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Ice cubes</item></ing></ingredients>
+    <directions>
+      <step>  Preparation :15 Cook :00 Stand :00 Total :15
+  
+  Combine all ingredients except ice cubes in blender and blend until thick
+  and creamy. Add ice cubes one at a time and blend until smooth.
+  
+  Note: Vanilla yogurt can be substituted for plain yogurt and vanilla.
+  
+  Nutrition (per serving): 212 calories Posted to Bakery-Shoppe Digest V1
+  #207 by ~patsy~ &lt;patsy@sat.net&gt; on Aug 29, 1997
+ 
+</step></directions></recipe></recipeml>

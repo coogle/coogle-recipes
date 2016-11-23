@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Stock</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork spareribs</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>(to 4) pieces fresh ginger,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Unpeeled and crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>(to 4) scallions, each tied</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Into a knot</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>(to 4T) Chinese rice wine or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dry sherry</item></ing></ingredients>
+    <directions>
+      <step>  Trim off any excess fat from the chicken and spareribs. With a sharp knife,
+  chop them into large pieces.
+  
+  Place the chicken and spareribs in a large pot or pan with the water. Add
+  the ginger and scallion knots.
+  
+  Bring to a boil and, using a strainer, skim off the froth. Reduce the heat
+  and simmer, uncovered, for 2-3 hours.
+  
+  Strain the stock, discarding the chicken, pork, ginger, and scallions; add
+  the wine or sherry and return to a boil. Simmer for 2-3 minutes.
+  Refrigerate the stock when cool. It will keep for up to 4-5 days.
+  Alternatively, it can be frozen in small containers and defrosted when
+  required.
+  
+  Source: A Taste Of The East by Deh-Ta Hsiung, Rafi Fernandez and Steven
+  :          Wheeler, page 22 Submitted By A4GY@JUPITER.SUN.CSD.UNB.CA ("N.
+  WEBBER")  On   SAT, 29 APR 1995 165830 +0000
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

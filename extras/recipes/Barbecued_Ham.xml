@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Ham</title>
+      <categories>
+        <cat>Barbecue</cat>
+        <cat>Meats</cat>
+        <cat>Pork</cat>
+        <cat>Camping</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Unsweetened pineapple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Plus 1 T firmly packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Onion salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>1/2-inch thick smoked ham</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>8 1/4 oz can sliced pine- apple, drained</item></ing></ingredients>
+    <directions>
+      <step>  Combine first 6 ingredients in a medium saucepan, stirring well; bring to a
+  boil.  Reduce heat, and simmer, uncovered, 5 minutes; stir frequently.
+  Remove sauce from heat, and set aside.
+  
+  Trim excess fat from ham slices.  Grill over medium coals 20 to 25 minutes
+  or until desired degree of doneness. Turn ham slices and baste every 5
+  minutes with reserved sauce.
+  
+  Grill pineapple slices over medium coals 1 minute on each side. Garnish ham
+  with pineapple, and serve with remaining sauce.
+  Posted to MM-Recipes Digest  by "Robert Ellis" &lt;rpearson@snowcrest.net&gt; on
+  Apr 23, 1998
+ 
+</step></directions></recipe></recipeml>

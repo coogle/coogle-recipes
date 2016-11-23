@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pudding Cheesecake</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Puddings</cat>
+        <cat>Cheesecakes</cat>
+        <cat>Cheese/eggs</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream Cheese (softened)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk (cold)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Small, instant banana jello pudding mix (dry)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>9" Graham Cracker Crust</item></ing></ingredients>
+    <directions>
+      <step>  This is recipe that won first place in 1962, as a 4-H project for the Great
+  Western Dairy Show in Inglewood, CA
+  
+  Using a blender or mixer - Stir cream cheese until very soft, gradually
+  blending in 1/2 cup of milk until smooth and creamy. Add remaining milk and
+  the pudding mix. Beat slowly on low for 1 minute (DO NOT OVER BEAT). Pour
+  into cool Graham Cracker Crust. Sprinkle extra graham cracker crust crumbs
+  on top (if you have some). This makes it extra crunchy and looks nice. Then
+  chill.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cheese Sauce (Sauce Mornay)</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Basic cream sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Parmigiano reggiano; finely grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Swiss or french gruyere; finely grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fine sea salt and freshly ground pepper; to taste</item></ing></ingredients>
+    <directions>
+      <step>  In a saucepan over low heat, warm the Basic Cream Sauce. Add the grated
+  cheeses and the mustard. Stir over low heat until the cheeses melt and the
+  sauce is smooth. Taste and add the salt and pepper as needed.
+  
+  MAKE IT LIGHT: Use the Light Version of the Basic Cream Sauce and reduce
+  the cheese to 2 ounces total.
+  
+  MAKE IT AHEAD: Basic Cheese Sauce may be stored in the refrigerator for 5
+  days or in the freezer for 1 month.
+  
+  SERVING SUGGESTION: Cheese Sauce can be served over toast or with fish or
+  cooked vegetables or can be used to make a gratin (The Home Chef p.128).
+  
+  Recipe by: HomeChef School
+  
+  Posted to MC-Recipe Digest by louiseh &lt;louiseh@earthlink.net&gt; on Apr 16,
+  1998
+ 
+</step></directions></recipe></recipeml>

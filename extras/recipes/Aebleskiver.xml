@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aebleskiver</title>
+      <categories>
+        <cat>Ethnic</cat>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing></ingredients>
+    <directions>
+      <step>  Applesauce
+  
+  Beat egg yolks. Add sugar, salt and buttermilk; then flour, soda and baking
+  powder which have been sifted together. Last, fold in stiffly beaten egg
+  whites. Place small amount of fat in each cup of the aebleskiver pan and
+  fill 2/3 full of dough. Place a small teaspoon of apple sauce on top of
+  dough, then barely cover apple sauce with a few drops of dough. Cook until
+  bubbly, turn carefully with fork and finish baking on other side. Serve
+  with butter and maple syrup or jam. NOTE: AVOID spilling apple sauce in
+  cups, as this will cause the aebleskiver to stick.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>3-Bean Casserole</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Ground meat</cat>
+        <cat>Bacon</cat>
+        <cat>Legumes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Kidney beans</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Lima beans; canned</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Pork &amp; beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Bacon; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Mustard, prepared</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Worcestershire sauce</item></ing></ingredients>
+    <directions>
+      <step>         Brown bacon and beef.  Add all other ingredients. Mix well and bake
+  at 325 for 35 minutes.
+    Posted to MM-Recipes Digest V3 #267
+  
+    Date: Mon, 30 Sep 96 05:38:59 -0300
+  
+    From: "Patricia Lange" &lt;patlange@eznet.net&gt;
+ 
+</step></directions></recipe></recipeml>

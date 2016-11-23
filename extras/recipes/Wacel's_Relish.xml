@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wacel's Relish</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Whole-style cranberry sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Texas Ruby Red or Rio Star; (red!) grapefruit (do not substitute)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jalapeno pepper</item></ing></ingredients>
+    <directions>
+      <step>  Segment the Ruby Red grapefruit. Peel the segments to remove the fibrous
+  parts and the skin of the individual segments. Cut the remaining flesh into
+  "chunks".
+  
+  Remove the seeds from the jalapeno pepper and mince it finely.
+  
+  Mix all three prepared ingredients together and serve chilled as a relish.
+  Posted to MM-Recipes Digest V5 #014 by gep2@computek.net on Jan 14, 1998
+ 
+</step></directions></recipe></recipeml>

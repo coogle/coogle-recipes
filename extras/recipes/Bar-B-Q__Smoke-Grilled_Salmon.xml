@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bar-B-Q: Smoke-Grilled Salmon</title>
+      <categories>
+        <cat>Fish*shell</cat>
+        <cat>Bar-b-q</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Grated lime rind</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lime juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Salmon steaks, 1-inch thick [1-1/2 lb]</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Toasted sesame seed [optl]</item></ing></ingredients>
+    <directions>
+      <step>  In shallow dish, combine lime rind and juice, oil, mustard and pepper; add
+  fish, turning to coat. Cover and marinate at room temperature for 30
+  minutes, turning occasionally.
+  
+  Reserving marinade, remove fish; sprinkle with sesame seed. Place on
+  greased grill directly over medium heat. Add soaked wood chips. Cover and
+  cook, turning and basting with marinade halfway through, for 16-20 minutes
+  or until fish flakes easily when tested with fork.
+  
+  Per serving: about 225 calories, 30 g protein, 10 g fat, trace
+  carbohydrate.
+  
+  Source: Canadian Living magazine [Jul 95] Presented in an article by
+  Margaret Fraser "More From Your Barbecue: Smoky Grilling"
+      [-=PAM=-]   PA_Meadows@msn.com
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

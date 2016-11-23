@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waldorf Salad</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Red apples</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Sticks of celery thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Seedless raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce leaves</item></ing></ingredients>
+    <directions>
+      <step>  Put mayonnaise in a large bowl and stir in the lemon juice. Set aside.
+  Halve and core the apples, but do not peel them; chop into bite-size cubes.
+  
+  Add the apples to mayonnaise dressing and stir until the pieces are well
+  coated. Add celery, walnuts and raisins into the bowl and mix gently.
+  
+  Arrange the lettuce leaves on a large serving plate and spoon the salad
+  onto the center.
+  
+  Posted to EAT-L Digest  by Yolanda de Ortega &lt;yillingw@GYE.SATNET.NET&gt; on
+  Sep 13, 1997
+ 
+</step></directions></recipe></recipeml>

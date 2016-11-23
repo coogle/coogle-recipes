@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Very Tasty Chili</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Dried red New Mex chiles</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Chipotles</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Habanero</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried origano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Minced beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(15-oz) tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(15-oz) kidney beans</item></ing></ingredients>
+    <directions>
+      <step>  Cut the tops off the dried chiles.  Toast them in a hot frying pan for a
+  few minutes until fragrant and then soak them in hot water for 20 minutes.
+  Liquidise them with some of the soaking water.  Roughly chop the habanero
+  and the garlic and add them to the liquidiser along with the cumin and
+  origano. Puree some more.
+  
+  Heat the oil in a saucepan and fry the onion until softened.  Add the meat
+  and cook until browned.  Add the chile puree, tomatoes and beans.  Cover
+  and simmer for at least half an hour. Uncover, raise the heat a little and
+  allow the excess liquid to evaporate (about 10 minutes). Serve it any way
+  you fancy.
+  
+  Piers &lt;pjt1@scigen.co.uk&gt;
+  
+  CHILE-HEADS ARCHIVES
+  
+  From the Chile-Heads recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

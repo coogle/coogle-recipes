@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Beef Brisket</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Prepared horseradish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Coarse cracked black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef brisket</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Carrots, peeled, cut in 1-inch chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>medium</unit></amt>
+        <item>Red potatoes, unpeeled, quartered</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  1. Combine ketchup, water, onion, vinegar, horseradish, mustard and pepper.
+  Place brisket in a shallow glass baking dish. Pour marinade over; cover and
+  refrigerate overnight.
+  
+  2. Heat oven to 350 degrees. Scatter onions on top of meat. Cover and bake
+  2 1/2 hours. Add carrots and potatoes; cover and continue baking until meat
+  and vegetables are tender, about 1 hour. Add salt and pepper to taste. Cut
+  meat into thin slices. Use the pan juices as sauce.
+  
+  Posted By japlady@nwu.edu (Rebecca Radnor) On rec.food.recipes or
+  rec.food.cooking
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

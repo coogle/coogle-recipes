@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Garbage"</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Citrus</cat>
+        <cat>Snacks</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Apples, unpeeled, diced, 1/2"</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oranges, unpeeled, diced, 1/2"</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemons, unpeeled, diced, 1/2"</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dill pickles, diced, 1/2"</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Saladitos (salted dried plums), whole</item></ing></ingredients>
+    <directions>
+      <step>  Place all ingredients in a bowl or jar. Proportions of ingredients are
+  approximately equal amounts; more or less will not hurt. Let sit for a day,
+  stirring occasionally until the juices are mixed and plums are rehydrated
+  and soft. Makes a sweet, salty,sour, goopy mess that is usually served in a
+  baggy for kids to eat with their fingers.
+  
+  NOTES : This  looks disgusting, but kids seem to like it.BTW "saladitos"
+  are sold in Hispanic markets.
+  Recipe by: ehgf@primenet.com (Ellen) Posted to MM-Recipes Digest V4 #132 by
+  Simps &lt;c.simpson@worldnet.att.net&gt; on May 12, 1997
+ 
+</step></directions></recipe></recipeml>

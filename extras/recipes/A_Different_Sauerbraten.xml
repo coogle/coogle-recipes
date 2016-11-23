@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Different Sauerbraten</title>
+      <categories>
+        <cat>Beef/veal</cat>
+        <cat>Germany</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bacon, 4-6 slices</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Beef roast</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Celery stalks</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Cook bacon in a large dutch oven and add cleaned veggies (carrots and
+  celery cut into two to three pieces per stick and onions cut in half and
+  torn apart). Brown veggies thoroughly. Roll roast in flour,salt, and pepper
+  mixture.  Add roast to pot and brown.  (remove veggies)  Return veggies to
+  pot and add water to cover.  Add bay leaves and simmer 3 to 5 hours. Remove
+  roast and bay leaves.  Mix remainder (liquid and veggies) in blender with
+  sour cream to desired taste.  Pour gravy over roast and serve with knodel
+  and rotkohl. Panni brand Knodel (potato dumplings) mix can be found in the
+  specialty food aisle and is easy to prepare. Enjoy! I'm sure you'll be a
+  great success!!! Subj:  A Different Sauerbraten
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

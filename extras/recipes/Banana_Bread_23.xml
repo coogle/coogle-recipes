@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Barry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Self-Raising Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sunflower Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Dried Mixed Fruit</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Soft Bananas</item></ing></ingredients>
+    <directions>
+      <step>  Mix all the ingredients, except the dried fruit, together in a food
+  processor. When the bananas are completely mashed, add the dried fruit. Mix
+  well and pour into a buttered non-stick 2 pound loaf tin, leaving an inch
+  from the top. Bake for 90 minutes at gas mark 4, 350F, 180C. Cover the top
+  with foil if you think it might burn. Leave in the tin for a minute or two
+  then turn on to a rack.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

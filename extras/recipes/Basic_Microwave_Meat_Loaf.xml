@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Microwave Meat Loaf</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meats</cat>
+        <cat>Microwave</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground chuck</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Quick-cooking oats</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomato sauce (8-ounce)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried Marjoram</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Celery salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Prepared mustard</item></ing></ingredients>
+    <directions>
+      <step>  In a medium bowl, thouroughly combine meat, eggs, oats, onion, half the
+  toamto sauce, thyme, marjoram and celery salt. Shape into a loaf to fit a
+  9x5 loaf pan. Shape the loaf so meat does not touch sides of the dish.
+  Cover with waxed paper.  Microwave at full for 5 minutes. Pour off juices.
+  Stir brown sugar, worcestershire sauce and mustard into remaining toamto
+  sauce.  Spoon tomato glaze over the loaf coating the entire top and sides.
+  Give the dish a half turn. Cover with waxed paper. Microwave at 30% for 17
+  to 20 minutes or until a microwave meat thermometer inserted in the center
+  of the loaf registers 170F.  Cover with foil and let stand 5 minutes.
+  temperatures will rise about 10F during stand time
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

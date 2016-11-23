@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anglo-Indian Curry Sauce</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Sauce</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Mild vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Coarsely chopped onion inch piece fresh ginger, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Red-ripe tomatoes, cored, quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped cilantro</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garam masala or curry powder</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil in a heavy, medium-sized skillet over medium heat. Add onions and
+  stir-fry until onions turn caramel brown, about 12 to 15 minutes. Remove
+  from heat. Place in a blender with the ginger, tomatoes, cilantro, cayenne
+  and salt; puree until smooth. Transfer to a medium-size saucepan. Stir in
+  garam masala or curry powder, cover, and cook over medium heat until
+  tomatoes loose their raw aroma, 15 to 18 minutes.
+  
+  Makes about 2 cups.
+  
+  PER TABLESPOON: 15 calories, 0 g protein, 1 g carbohydrate, 1 g fat (0 g
+  saturated), 0 mg cholesterol, 69 mg sodium, 0 g fiber.
+  
+  Laxmi Hiremath writing in the San Francisco Chronicle, 6/24/92. Converted
+  by MMCONV vers. 1.50
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

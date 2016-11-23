@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef in Wine on Skewers</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Good beef</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Yellow onions, peeled and quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green peppers, seeded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Zinfandel</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Here are the recipes for my menu: (All Courtesie of Frugal Gourmet Cooks
+  with Wine)
+  
+  Cut the beef into 1 1/4 inch cubes. Cut the vegetables into 1 inch squares.
+  Put all the ingredients in a large stainless steel bowl and marinate for
+  about 2 hours, tossing occasionally.
+  
+  Alternate the vegetables and meat on skewers. Broil until lightly browned,
+  about 15 minutes, turning once during the process.
+  
+  Serve this with Pasta Bagna Cuada (p. ref), along with Pan-Fried Broccoli
+  (p. ref).
+  
+  Wine Suggestion: Zinfandel
+  
+  Serves 4-6
+  
+  Posted to FOODWINE Digest 12 Dec 96
+  
+  From:    "J. Meade" &lt;meade@AURACOM.COM&gt;
+  
+  Date:    Thu, 12 Dec 1996 23:17:45 -0400
+ 
+</step></directions></recipe></recipeml>

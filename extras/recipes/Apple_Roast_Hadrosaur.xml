@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Roast Hadrosaur</title>
+      <categories>
+        <cat>Critters</cat>
+        <cat>Crockpot</cat>
+        <cat>Dinos</cat>
+        <cat>Extinct</cat>
+        <cat>Weird</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Hadrosaur meat (Maiasaurus)*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cooking oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; small chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Celery; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Quick-cooking tapioca</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>White wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Beef bouillon granules</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Frzn apple juice concentrate; thawed, undiluted</item></ing></ingredients>
+    <directions>
+      <step>  If Maiasaurus meat is not available, lean pork will do.
+  
+  Trim any fat from hadrosaur meat. Cut in half, if necessary, to fit into
+  crockpot. Put carrots and celery into bottom of crockpot. Sprinkle in
+  tapioca and add apple juice concentrate combined with other ingredients.
+  Cover, cook on Low for 10-12 hours or on high for 5 to 6 hours.
+  Contributor:  Roy Olsen (roy@indy.net) (http;//www.indy.net/~roy/) Posted
+  to MM-Recipes Digest V4 #148 by roy@indy.net (Roy) on May 28, 1997
+ 
+</step></directions></recipe></recipeml>

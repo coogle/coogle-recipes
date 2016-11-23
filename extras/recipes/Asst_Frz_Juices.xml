@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asst Frz Juices</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>JUICE GRAPE 32 OZ</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>JUICE GRAPEFRUIT 32 OZ</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cans</unit></amt>
+        <item>JUICE ORANGE 32 OZ FZ</item></ing></ingredients>
+    <directions>
+      <step>  REMOVE CANS FROM FREEZER THE NIGHT PRIOR AND PLACE IN REFRIGERATOR TO
+  THAW.  RECONSTITUTE JUICE IAW DIRECTIONS ON THE CONTAINER.  IN THE ABSENCE
+  OF INSTRUCTIONS
+  UNDER NO CIRCUMSTANCES WILL JUICES BE SERVED FROM OPEN CONTAINERS.  JUICE
+  WILL BE SERVED FROM REFRIGERATED BEVERAGE DISPENSERS OR INSULLATED BEVERAGE
+  CONTAINERS.  WHENEVER CHILLED JUICES OR COLD DRINKS ARE SERVED IN GARRISON
+  ICE WILL BE PROVIDED.  REPLENISH AS NEEDED.  POST THE AMOUNTS USED TO THE
+  KITCHEN REQUISITION AND RETURN WORKSHEET.
+  
+  Recipe Number: S00200
+  
+  SERVING SIZE: 8 OZ
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

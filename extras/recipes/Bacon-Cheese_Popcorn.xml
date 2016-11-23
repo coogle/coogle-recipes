@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon-Cheese Popcorn</title>
+      <categories>
+        <cat>Snacks</cat>
+        <cat>Popcorn</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PATTI - VDRJ67A</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>quarts</unit></amt>
+          <item>Popped popcorn</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Seasoned salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Hickory-smoked salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>American cheese; grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Bacon bits</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Pour freshly popped corn in large bowl. Combine margarine with
+  hickory-smoked salt. Pour over popcorn; toss well to coat. Sprinkle with
+  cheese and bacon bits. Toss again and serve while warm.
+  Posted to recipelu-digest Volume 01 Number 652 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 31, 1998
+ 
+</step></directions></recipe></recipeml>

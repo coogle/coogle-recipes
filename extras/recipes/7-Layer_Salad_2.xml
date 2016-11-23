@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Layer Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Head lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Celery -- diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>To 1 c. onion -- diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Peas -- well drained</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>To 5 tbsp. sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise (Hellmann's)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated Parmesan cheese (or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Canned)</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>To 6 slices crisp bacon --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crumbled</item></ing></ingredients>
+    <directions>
+      <step>  Mix sugar and mayonnaise together.  Make layer of each ingredient in
+  order listed. Top with sprinkles of crumbled bacon. Let set in
+  refrigerator 3 to 4 hours. Do not let sit overnight.
+  Posted to MM-Recipes Digest V3 #210
+  
+  Date: Sat, 3 Aug 1996 15:15:39 -0500 (CDT)
+  
+  From: "Mr. &amp; Mrs. Pro &amp; crew" &lt;D.Pro@coretech.com&gt;
+ 
+</step></directions></recipe></recipeml>

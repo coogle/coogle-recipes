@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bar-B-Q Spare Ribs</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Country style spare ribs; (meaty)</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Ketchup</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Molasses</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Onion; dried or fresh</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Soy sauce</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Bake ribs in pan on a rack at 350 degrees for 15 minutes. Coat generously
+  with sauce on top and sides of ribs and bake another 15 minutes. Turn ribs;
+  coat top and pour rest of sauce over ribs and bake approximately 15 minutes
+  more. Extra sauce in roasting pan makes a delicious sauce over rice. Sauce:
+  Mix well; do not cook.
+  
+  Posted to Bakery-Shoppe Digest by Kat &lt;scizwiz@lazerlink.com&gt; on Apr 11,
+  1998
+ 
+</step></directions></recipe></recipeml>

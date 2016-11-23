@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Appetizer Cheese Ball</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream Cheese; Room Temp.</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Blue Cheese, Crumbled</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Cheddar Cheese; Shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Mustard; Dijon-style</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Worcestershire Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Garlic Powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Pecans; Finely Chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Currants</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Parsley; Chopped</item></ing></ing-div>
+      <ing-div>
+        <title>DIPPERS</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Assorted Crackers</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Apple Wedges</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place the cream cheese, blue cheese, cheddar cheese, mustard,
+  Worcestershire, garlic powder, and salt in a mixer bowl and beat at low
+  speed just until well mixed. Stir in the pecans and currants. Taste and
+  adjust seasoning.  Refrigerate the cheese mixture for 30 minutes or until
+  slightly firm, then shape into a ball. Roll in the chopped parsley to coat
+  well. Cover with plastic wrap and refrigerate until ready to serve. Let
+  stand at room temperature for about 30 minutes before serving. Place on a
+  platter surrounded with crackers and apple wedges.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

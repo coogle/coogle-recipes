@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Tomatoes with Egg</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs; lightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Scallions; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Basil; or 2 Tbs. fresh, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Monterey Jack cheese; cut into 2=D71/4 inch thick slices</item></ing>
+      <ing>
+        <amt>
+          <qty>Prep:</qty>
+          <unit>15</unit></amt>
+        <item>min, Cook: 15 min.</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400øF. Using a sharp knife, cut 1/2 inch off the stem end
+  of each tomato. Discard top end and scoop out pulp from tomato, leaving a
+  thick shell. Sprinkle inside of tomatoes with salt. Invert on a rack to
+  drain 15 minutes. Whisk together next 4 ingredients with salt and pepper to
+  taste in a bowl. Arrange tomatoes in a shallow baking pan. Place in oven
+  and bake 5 minutes. Pour 1 Tbs. melted butter in each tomato. Fill tomato
+  cavities with egg mixture. Top with strips of cheese and bake about 10
+  minutes or until eggs are just set.
+  
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Mar 02, 1998
+ 
+</step></directions></recipe></recipeml>

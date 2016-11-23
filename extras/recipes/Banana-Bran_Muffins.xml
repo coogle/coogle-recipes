@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Bran Muffins</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whole wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Wheat bran</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>4 VERY ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg equivalent</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar or honey if bananas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Are not sweet enough</item></ing></ingredients>
+    <directions>
+      <step>  Mix dry ingredients.  Mash bananas and add enough milk to make 1.5 cups
+  total.  Add egg to bananas.  Pour wet over dry ingredients and stir just
+  until mixed.  Spoon into 12 lightly greased/pammed muffin cups. Bake at 400
+  degrees for 20 minutes.  Remove from cups while still hot.
+  
+  From:    diane_durbeck@tmai.com (Diane Durbeck). Fatfree Digest [Volume 8
+  Issue 56] June 17, 1994 Formatted by Sue Smith, S.Smith34,
+  TXFT40A@Prodigy.com using MMCONV.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

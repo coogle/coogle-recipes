@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A White Sauce (The Bechamel of Some)</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>small</unit></amt>
+        <item>Amount of sliced onon (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and white pepper as desired</item></ing></ingredients>
+    <directions>
+      <step>  Saute onion in melted butter until transparent.  Remove and discard onion.
+  Mix flour with butter with a fork over low heat until a smooth mix is made.
+  Remove from heat and let cool to just warm.  Add warm milk or even out of
+  the refrig. Return to medium-low heat and stir with fork to mix. Then whisk
+  smooth, and continue to watch and whisk as needed until flour is cooked
+  (ca. 15 minutes). Thyme or nutmeg are sometimes added with the alt and
+  white pepper.
+  Posted to JEWISH-FOOD digest V96 #54
+  
+  Date: Thu, 17 Oct 1996 18:03:41 -0600
+  
+  From: rbparker@henning.cfa.org (Ron Parker)
+ 
+</step></directions></recipe></recipeml>

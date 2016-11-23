@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aros Con Pollo</title>
+      <categories>
+        <cat>Tex-</cat>
+        <cat>Mex</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fryer</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic chopped</item></ing></ingredients>
+    <directions>
+      <step>  Cut up fryer, brown in shortening. Remove chicken, brown rice in same
+  shortening. Mix together, add 3 cups water. Stir in other ingredients,
+  cover and simmer till rice is tender.
+  
+  &gt;From Wimberley Hill Country Cook Book
+  
+  Recipe by: Odelia Nevarez
+  
+  Posted to MC-Recipe Digest by c4@groupz.net on Feb 12, 1998
+ 
+</step></directions></recipe></recipeml>

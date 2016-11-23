@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Pies &amp; past</cat>
+        <cat>Fruit</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Batch pie pastry; see recipe</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>large</unit></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon zest</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter; cut into bits</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>   Peel, core, and thinly slice apples. Toss with lemon juice and zest. Mix
+  sugar, flour, and spices. Toss with apples to coat.
+   Roll half of dough into a round and fit into a 9" pie pan. Fill shell with
+  apple mixture. Dot top with butter. Roll remaining dough into a round large
+  enough to cover top of apples. Place carefully over apple filling and crimp
+  edges of crusts together. Make slits in top crust to vent. Mix teaspoon of
+  sugar with dash of cinnamon. Brush top of crust with milk and sprinkle
+  lightly with cinnamon sugar.
+   Bake at 450 degrees for 10 minutes. Reduce heat to 375 degrees and bake an
+  additional 20-30 minutes.
+  Recipe By     : Elizabeth Powell
+  
+  Posted to MC-Recipe Digest V1 #285
+  
+  Date: Fri, 8 Nov 1996 08:22:19 -0600 (CST)
+  
+  From: zeiss@maxvax.ci.austin.tx.us (Sherry Zeiss)
+  
+  Serving Ideas : Serve hot with sharp cheese, ice cream, or clotted cream.
+ 
+</step></directions></recipe></recipeml>

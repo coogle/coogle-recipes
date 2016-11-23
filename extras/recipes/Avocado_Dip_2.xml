@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Dip</title>
+      <categories>
+        <cat>Dips</cat>
+        <cat>Ethnic</cat>
+        <cat>Misc</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Avocado</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Crushed garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Mayonnaise Lurie</item></ing></ingredients>
+    <directions>
+      <step>  mash the avocado, then blend in garlic, salt and pepper to taste. Then stir
+  in mayo until the mixture is of the desired consistency. chill to serve.
+  source My Aunt
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  SELN80B@prodigy.com (MS TERRI ROWE) on Oct 16, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Virgin Pina Colada</title>
+      <categories>
+        <cat>Non-</cat>
+        <cat>Alcohol</cat>
+        <cat>Mixed</cat>
+        <cat>Drinks</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Coconut cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Crushed pineapple</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Pineapple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Crushed ice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Orange slice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Maraschino cherry</item></ing></ingredients>
+    <directions>
+      <step>  Place all ingredients in a blender and blend at high setting until smooth
+  ~- about 30 seconds. Strain into highball or collins glass and garnish with
+  orange slice and cherry.
+  
+  NOTE: Crushed pineapple juice canned in its own juice is preferable for a
+  less-sweet drink; use pineapple canned in syrup for a sweeter concoction.
+  
+  Recipe By     : Joe Robertson
+  
+  From:                                 Date:
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

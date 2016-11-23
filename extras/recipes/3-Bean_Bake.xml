@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>3-Bean Bake</title>
+      <categories>
+        <cat>Butter</cat>
+        <cat>Beans</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>(Medium) baked beans; (2 to 3)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Kidney beans; (1 to 2)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Butter beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cooking oil</item></ing></ingredients>
+    <directions>
+      <step>  In large skillet, brown bacon until crisp; drain. Cool and crumble. Set
+  aside. Brown ground beef with medium onion; drain. Add together the ground
+  beef and bacon. Mix together baked beans, kidney beans, butter beans,
+  ketchup and brown sugar. Bake in casserole or Dutch oven at 375 degrees for
+  45 to 60 minutes. Let sit for 15 to 20 minutes before serving. Medium to
+  large casserole: Add 2 medium cans baked beans, 1 can kidney beans and 1
+  can butter beans. "Crowd size" casserole: Add extra can each type of beans,
+  then extra brown sugar and ketchup to taste.
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Feb 27,
+  1998
+ 
+</step></directions></recipe></recipeml>

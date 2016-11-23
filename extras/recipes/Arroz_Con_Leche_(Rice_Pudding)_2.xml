@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Con Leche (Rice Pudding)</title>
+      <categories>
+        <cat>Tex mex</cat>
+        <cat>Desserts</cat>
+        <cat>Grains</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs; separated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Rice; uncooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon or orange skin*</item></ing></ingredients>
+    <directions>
+      <step>  Soak rice covered in water about 10 minutes. Drain; and mix rice; milk; egg
+  yolks; sugar; cinnamon stick and orange zest in sauce pan and cook;
+  constantly stirring; at very low heat (to prevent burning). When it begins
+  to thicken (about 20 minutes); remove from fire. While it is cooling; beat
+  egg whites to stiff peaks. Strain rice mixture to remove cinnamon; lemon
+  peel. Gently fold rice mixture in to beaten egg whites. Pour into a shallow
+  bowl; cool. Serve sprinkled with cinnamon.
+  Posted to MM-Recipes Digest V3 #337
+  
+  From: BobbieB1@aol.com
+  
+  Date: Mon, 9 Dec 1996 10:53:34 -0500
+ 
+</step></directions></recipe></recipeml>

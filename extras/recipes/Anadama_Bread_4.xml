@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anadama Bread</title>
+      <categories>
+        <cat>Breadmaker</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 1/2 lb loaf:; (1 lb loaf)</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Active dry yeast; (1 1/2 tsp</item></ing>
+      <ing>
+        <amt>
+          <qty>1 2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour; (1 c+ 2 t)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole-wheat flour; (1 c)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Yellow cornmeal; (1/4 c)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses; unsulfured, (1/4 c</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt; (1 t)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water; (1c)</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: EAT-L,The Best Bread Machine Cookbook Ever-Madge Rosenberg Note:
+  The original recipe called for 1 1/2 T vegetable oil for the lg loaf and
+  (1T) for the smaller loaf. I omitted it. Could use Wonderslim or possibly
+  applesauce instead.
+  
+  Add all ingredients in the order suggested by your bread machine manual and
+  process on the basic bread cycle according to the manufacturer's directions
+  
+  Let the loaf cool before slicing.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

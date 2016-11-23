@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Walnut Cake with Apple Cider Glaze</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached all-purpose flour, sifted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground mace</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Whole-wheat flour, sifted</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Shelled walnuts, coarsely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Coarse chunks of peeled and cored apples</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Applejack</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Apple Cider Glaze (see recipe)</item></ing></ing-div>
+      <ing-div>
+        <title>APPLE CIDER GLAZE</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sweet butter</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Applejack or apple brandy</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sweet cider</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Fresh orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Heavy cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Preheat oven to 325F.</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a large bowl, beat vegetable oil and sugar until thick and opaque.
+  Add eggs, one at a time, beating well after each addition. Sift
+  together flour, cloves, cinnamon, mace, baking soda and salt, then
+  stir in whole-wheat flour.  Add to oil and egg mixture and mix until
+  well blended. Add walnuts, apple chunks and applejack all at once and
+  stir batter until pieces are evenly distributed.
+  
+  Pour batter into a greased 10-inch round cake pan.  Bake for 1 hour
+  and 15 minutes or until cake tester inserted in center comes out
+  clean.
+  
+  APPLE CIDER GLAZE:
+  
+  Melt butter in a small saucepan and stir in both sugars.  Add
+  remaining ingredients, stir, and bring to a boil.  Reduce heat
+  slightly and cook for 4 minutes.  Remove from heat and cool slightly.
+  Pour while still warm over warm cake.
+  
+  Makes 1 1/2 cups glaze.
+  
+  From the San Francisco Chronicle, 11/16/88.
+  
+  Posted by Stephen Ceideburg
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cider Stew in Crock Pot</title>
+      <categories>
+        <cat>Crockpot</cat>
+        <cat>Stews</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef or venison stew meat; (up to 2)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Carrots; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Potatoes; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Apples; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple cider</item></ing></ingredients>
+    <directions>
+      <step>  Place carrots, potatoes, and apples in crock pot. Add meat and sprinkle
+  with salt, thyme, and onion. Pour cider over meat and cover. Cook on low
+  heat 10-12 hours. Thicken gravy.
+  Posted to recipelu-digest Volume 01 Number 406 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Dec 27, 1997
+ 
+</step></directions></recipe></recipeml>

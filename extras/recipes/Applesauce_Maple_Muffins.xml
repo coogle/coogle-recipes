@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce Maple Muffins</title>
+      <categories>
+        <cat>Low</cat>
+        <cat>Fat</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole Wheat hour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unsweetened applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Maple syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dark raisins or chopped walnuts</item></ing></ingredients>
+    <directions>
+      <step>  Combine the flour and baking powder, and stir to mix well. Add the
+  applesauce, maple syrup, and egg whites, and stir just until the dry
+  ingredients are moistened. Fold in the raisins or walnuts.
+  
+  Coat muffin cups with nonstick cooking spray, and fill 3/4 full with the
+  batter. Bake at 350F for 16 to 18 minutes, or just until a wooden toothpick
+  inserted in the center of a muffin comes out clean.
+  
+  Remove the muffin tin from the oven, and allow it to sit for 5 minutes
+  before removing the muffins. Serve warm or at room temperature. Typos by
+  Brenda Adams &lt;adamsfmle@aol.com&gt; Source: Secret of Fat Free Baking (1994),
+  by Sandra Woodruff, RD
+  Posted to MC-Recipe Digest V1 #207
+  
+  Date: Mon, 19 Aug 1996 15:02:38 -0400
+  
+  From: ADAMSFMLE@aol.com
+ 
+</step></directions></recipe></recipeml>

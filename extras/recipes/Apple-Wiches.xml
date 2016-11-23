@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Wiches</title>
+      <categories>
+        <cat>Appetizer</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cheese slices</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Orange juice or lemonade</item></ing>
+      <ing>
+        <amt>
+          <qty>Wash</qty>
+          <unit>an</unit></amt>
+        <item>apple for each person; slice each apple into six slices. Dip apple</item></ing></ingredients>
+    <directions>
+      <step>  slices in orange juice or lemonade and drain on paper towel. Place a slice
+  of aged cheese between two apple slices to make a sandwich; serve with hot
+  tea or coffee as a snack.
+  
+   Variation: Spread one side of each apple slice with peanut butter and fit
+  two slices together.
+  
+  MAKES 1 RECIPE
+  
+  From &lt;The Progressive Farmer's Southern Country Cookbook&gt;, by the editors
+  of the 'Progressive Farmer Magazine'.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

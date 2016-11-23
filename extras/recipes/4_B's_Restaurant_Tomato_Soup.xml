@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>4 B's Restaurant Tomato Soup</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Copycat</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>28 0z diced tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  In a saucepan, combine the first 6 ingredients.  Cover and simmer for 1
+  hour.  Heat milk, add to tomato mixture just before serving.  makes about
+    1 1/2    quarts.
+  Posted to MM-Recipes Digest V3 #222
+  
+  Date: Fri, 16 Aug 1996 10:33:56 PST
+  
+  From: l.and-e.smith@juno.com (E H Smith)
+ 
+</step></directions></recipe></recipeml>

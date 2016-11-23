@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waikiki Appetizers</title>
+      <categories>
+        <cat>Pork</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Bulk Pork Sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Pineapple Chinks In Syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Packed Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped Green Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Drained Maraschino Cherries</item></ing></ingredients>
+    <directions>
+      <step>  Shape sausage into 1/2 to 3/4 inch balls.  Place in single layer in baking
+  pan.  Bake in 400øF oven 25 minutes, or until cooked; drain on paper
+  towels. Meanwhile, drain pineapple, reserve syrup. Add enough water to
+  syrup to measure 1 cup; combine with brown sugar, lemon juice, cornstarch
+  and soy sauce in large saucepan. Cook and stir until sauce boils and
+  thickens.  Fold in green pepper, cherries, pineapple chunks and drained
+  cooked sausage.  To serve, turn into chafing dish. Typed by Syd Bigger.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

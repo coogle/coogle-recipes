@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walt Disney's Own Chili and Beans</title>
+      <categories>
+        <cat>Chili</cat>
+        <cat>Legumes</cat>
+        <cat>Ground beef</cat>
+        <cat>Restaurants</cat></categories>
+      <yield>6 -8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>MICKEY'S GOURMET CKBK</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pounds</unit></amt>
+          <item>Dried pinto beans</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>medium</unit></amt>
+          <item>Onions, sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Veg oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cloves</unit></amt>
+          <item>Garlic, diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Celery, chpd</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pounds</unit></amt>
+          <item>Ground beef</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Chili powder, or more</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Paprika</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Dried thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>28</qty>
+            <unit>ounces</unit></amt>
+          <item>Cn tomatoes, about 3c</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper</item></ing></ing-div>
+      <ing-div>
+        <title>SPICIER VARIATION</title>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Coriander</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Turmeric</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Chili seeds</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Fennel</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Mexican chili pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Walt Disney's personal recipe. Wash, sort and soak beans in cold water
+  overnight. Drain; place in 2 qt saucepan. Add water to cover 2" over beans.
+  Add onions and simmer in covered pot until tender, 2 hrs. Meanwhile, heat
+  oil in lg sauce pot; saute garlic until lightly browned. Add celery and
+  beef; cook. Add chili powder, paprika, and thyme. Break up tomatoes with
+  spoon and mix with meat mixture; cover, simmer 1 hr. When beans are tender,
+  combine with meat, stirring gently. Salt and pepper and add additional
+  spices if desired, cook 30 mins.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

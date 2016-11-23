@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Praline Cookies</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(2 1/4 oz) sliced almonds (1/2 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>All purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Grind almonds in food processor until fine. In a medium skillet melt butter
+  over low heat. Stir in sugar and flour. Add almonds and milk. Cook and stir
+  over low heat until bubbly. Remove from heat. Drop batter by slightly
+  rounded tsp 4 inches apart onto ungreased baking sheet. Bake in 350 oven
+  6-7 minutes or until edges are golden brown. Remove from oven; let stand on
+  cookie sheet 1 minute. Carefully loosen and remove cookies with a wide
+  metal spatula. Cool completely. Store in an airtight container.
+  
+  Posted to EAT-L Digest 19 Sep 96
+  
+  From: laura davis &lt;ldavis@linknet.kitsap.lib.wa.us&gt;
+  
+  Date: Wed, 18 Sep 1996 14:02:20 -0700 (PDT)
+ 
+</step></directions></recipe></recipeml>

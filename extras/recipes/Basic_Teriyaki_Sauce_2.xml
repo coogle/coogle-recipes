@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Teriyaki Sauce</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mirin wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sake</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Japanese soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dashi</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  WARM THE MIRIN and sake in a saucepan over moderate heat. Remove the pan
+  from the burner. Carefully, ignite the mixture and shake back and forth
+  until the flame dies. Return pan to the burner and add the soy sauce, dashi
+  and sugar; bring to a boil. Cool to room temperature. Set aside in a
+  saucepan 1/2 cup of the teriyaki sauce. Dip pieces of meat (chicken, sliced
+  beef, etc.) into remaining sauce to marinate. Grill meats. Reduce the sauce
+  in the saucepan over high heat into a thickened glaze. Makes 1 Quart
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

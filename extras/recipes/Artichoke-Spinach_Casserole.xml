@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke-Spinach Casserole</title>
+      <categories>
+        <cat>Entrees</cat>
+        <cat>Vegetables</cat>
+        <cat>Usenet</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Marinated artichoke hearts, drained (2 small jars); save marinade for dressing</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>ounces</unit></amt>
+        <item>Spinach, cooked, drained and squeezed dry (use 2 packages of thawed frozen spinach, or about 1 1/2 lb cooked, fresh spinach)</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees F.  Spread artichoke hearts in the bottom of a
+  buttered casserole dish, in roughly one layer. Top with spinach.
+  
+  Cream together the cream cheese, butter and cheese and spread evenly on
+  top. Bake covered for 30 minutes, then uncovered for 10 minutes.
+  
+  NOTES:
+  
+  *  Vegetable casserole with artichokes and spinach -- This is a fattening,
+  but good, vegetable dish.
+  
+  : Difficulty:  easy.
+  : Time:  5 minutes preparation, 40 minutes baking.
+  : Precision:  no need to measure.
+  
+  : Vicki O'Day
+  : Hewlett-Packard Laboratories, Palo Alto CA
+  : hplabs!oday
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

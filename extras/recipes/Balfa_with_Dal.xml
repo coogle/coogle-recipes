@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balfa with Dal</title>
+      <categories>
+        <cat>Indian</cat>
+        <cat>Breads</cat>
+        <cat>Main dish</cat>
+        <cat>Vegan</cat>
+        <cat>Anne's</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FOR BAFLA</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour, whole wheat; 225 g</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Ghee; or oil Salt Water for kneading Extra ghee or oil</item></ing></ing-div>
+      <ing-div>
+        <title>FOR DAL</title>
+        <ing>
+          <amt>
+            <qty>225</qty>
+            <unit>grams</unit></amt>
+          <item>Mung beans, split; moong dal Water; 1.25 l</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Tumeric powder Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>medium</unit></amt>
+          <item>Onions; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Green chilies</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Bay leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Cinnamon sticks; 2 inches</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Coriander, fresh; cilantro chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Rajasthani bread
+  
+  Put split mung beans (moong dal) with water in a heavy pan over high heat.
+  Add half of the chopped onion, salt, sugar, green chilies, bay leaves,
+  cinnamon sticks. Sift flour with salt; rub in ghee or oil. Knead to a
+  smooth dough. Divide the dough into 10 parts and shape them into round
+  balls. Drop these balls in the boiling dal, reduce heat. Cook for 25
+  minutes then remove the cooked flour balls one by one from the dal. Place
+  the cooked flour flour balls in a greased baking dish. Bake in a preheat
+  oven 375F (190 C/ gas mark 5) until the skin of the balls begins to crack
+  and the colour turns light brown. Place them in a dish and press each of
+  them in the centre with your thumb. Break lightly and put 1 or 2 tsp ghee
+  in each bafla. Can be eaten without ghee too.
+  
+  Heat 3 Tbsp oil in a pan. Fry remaining half of onions until lightly
+  broened. Pour cooked dal. Stir well. Let it boil 2-3 times. Remove from
+  heat and sprinkle with chopped coriander. Serve baflas with dal.
+  
+  Note: Dal (beans) should be poured over the baflas, breaking them
+  completely. Other vegetable dishes or chutney can be served with it also.
+  
+  SERVES: 10 SOURCE: _Rotis and Naans of India_ by Purobi Babbar, published
+  in Bombay posted, not tested by Anne MacLellan
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

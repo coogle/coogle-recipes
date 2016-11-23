@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abby's Famous Cheesecake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Graham cracker crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Powdered sugar</item></ing></ing-div>
+      <ing-div>
+        <title>CHEESECAKE</title>
+        <ing>
+          <amt>
+            <qty>24</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream cheese; softened</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Whole eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pint</unit></amt>
+          <item>Sour cream; room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>21</qty>
+            <unit>ounces</unit></amt>
+          <item>Canned pie filling; cherry, blueberry or strawberry</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat oven to 350F. Combine graham cracker crumbs, powdered sugar and
+  butter. Press into bottom of an 8-inch springform pan. In a large bowl,
+  beat cream cheese, eggs, sugar and vanilla until smooth. Pour mixture over
+  prepared crust. Bake at 350F for 50 minutes (until center is set). Remove
+  from oven and spread sour cream on top of cake. Return to oven and bake an
+  additional 5 minutes. Remove from oven and allow to cool. Spread desired
+  topping on cheesecake. Chill overnight. Before serving, carefully remove
+  sides from pan. Source: The Birmingham News, 11/9/97. MC formatted by
+  Ramona Cooper.
+  
+  NOTES : To minimize cracking, place a shallow pan half full of hot water on
+  lower rack of oven during baking.  Be sure sour cream is room temperature
+  when you spread it on.
+  Recipe by: Dear Abby's Favorite Recipes
+  
+  Posted to recipelu-digest Volume 01 Number 230 by Sewgoode@aol.com on Nov
+  9, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cinnamon Muffins</title>
+      <categories>
+        <cat>Muffins</cat>
+        <cat>Easy</cat>
+        <cat>Kids</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bisquick baking mix</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple; peeled &amp; finely chop</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil; vegetable</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon; ground</item></ing></ingredients>
+    <directions>
+      <step>  Fat grams    per serving:              Approx. Cook Time: :15
+     Preheat oven to 400F. Grease bottom only of 12 medium muffin cups. Beat
+  egg slightly, stir in remaining ingredients just till moistened. Divide
+  batter evenly among cups. Bake till golden brown, 15 to 17 minutes.
+  
+  MAKES: 12 muffins
+  posted by Anne MacLellan
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcorr.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bay Head Cream Cheese Spread</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Londontowne</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chinese duck sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic and curry powders</item></ing></ingredients>
+    <directions>
+      <step>  Soften cheese and add flavorings to taste. Mound in a serving dish and
+  cover generously with duck sauce. Serve with crackers.
+  
+  Mrs. Donald K. Dement
+  
+  From a book of recipes compiled by members and friends of the LONDONTOWN
+  PUBLIK HOUSE ASSEMBLY, EDGEWATER, MD 21037. Funds from sale of book used in
+  restoration and maintenance of the 17th century inn (hint, hint).
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/london13.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Adult Lemonade</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Frozen lemonade</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Vodka</item></ing></ingredients>
+    <directions>
+      <step>  Mix and voila you have "Adult lemonade".  No liquor taste but very potent.
+  Posted to FOODWINE Digest 26 November 96
+  
+  Date:    Tue, 26 Nov 1996 17:50:51 -0800
+  
+  From:    jutta rogalski &lt;jutta@FEIST.COM&gt;
+ 
+</step></directions></recipe></recipeml>

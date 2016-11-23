@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Marinara Sauce</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>small</unit></amt>
+        <item>Cloves garlic, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Crushed tomatoes 28 oz.</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh oregano (Italian),</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Parsley, chopped fine</item></ing></ingredients>
+    <directions>
+      <step>  Place the oil and garlic into a 2 quart saucepan and heat just until
+  the aroma of the garlic releases - DON'T overcook the garlic (it
+  shouldn't even turn brown)!  Pour in the crushed tomatoes and set
+  heat to simmer Stir in the sugar until disolved Stir in the oregano
+  and parsley Simmer for fifteen minutes
+  
+  NOTES : Dried oregano can be used if you don't have fresh, but it
+  definitely affects the flavor.  This sauce can be used as a base for a
+  variety of recipes - its great as a pizza sauce; loves to have things
+  added to it like pepperoni, sausage, mushrooms etc. and is even
+  better after it has set for a day.
+  
+  Cooking Tip: When removing the cover from a simmering pot of tomato
+  sauce, don't let the condensation from the lid drip back into the
+  sauce. Its acidity will effect the flavor.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

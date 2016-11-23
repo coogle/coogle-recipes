@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Annie Mae Jones' Buttermilk Biscuits</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Biscuits</cat></categories>
+      <yield>18</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour,all-purpose,sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter (opt)</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 450'F.
+  
+  2. Sift flour, salt, soda, and baking powder into mixing bowl. Cut in
+  shortening, using 2 knives, a pastry cutteror your hands dusted with flour.
+  Add sufficient buttermilk to make a soft dough. Knead lightly and turn out
+  onto a lightly floured board. Roll out to 1/2" thickness and cut with
+  biscuit cutter into rounds. Place rounds not touching - for crisper
+  biscuits - or close together - for softer biscuits - on ungreased baking
+  sheet. Brush with melted butter if desired and bake in preheated oven 12-15
+  minutes, or until firm and lightly browned.
+ 
+</step></directions></recipe></recipeml>

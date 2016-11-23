@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus and Crunchy Orange Top</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Side dish</cat>
+        <cat>Fruits</cat>
+        <cat>Low-cal</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>GROSZ VGFF60A</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Fresh asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Almonds -- chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Low-sugar orange marmalade</item></ing></ingredients>
+    <directions>
+      <step>  Snap off tough ends of the asparagus. Remove scales if desired. Arrange
+  asparagus in a vegetable steamer over boiling water. Cover and steam
+  4-minutes until crisp tender. Drain; arrange on a serving platter and keep
+  warm. Melt margarine in a small saucepan over low heat; add almonds, and
+  saute' until lightly toasted. Stir in marmalade; cook until heated. Spoon
+  over asparagus. FROM: MICHAEL GROSZ (VBFF60A)
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Walnut Strudel</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>x</unit></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts (chopped)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Phyllo leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>  Peel, core and chop apples.  Combine apples, walnuts and lemon juice in
+  mixing bowl;  fold to mix.  Melt margarine. Place 2 phyllo leaves on a
+  lightly dampened, lightly bread-crumbed cloth. Brush leaves lightly with
+  melted margarine.  Lay a second leaf on top of each leaf. Brush each layer
+  lightly with melted margarine. Repeat using all the leaves. Place apple
+  filling 2 inch in from long edges.  Fold long edges in over the filling.
+  Fold over the ends.  Roll up dough, jelly-roll fashion. Score top into 10
+  pieces with a sharp knife or scissors and place on greased cookie sheet.
+  Bake at 350F for 25 minutes, or until lightly browned. 1 piece = 1/2 bread,
+        1    fat
+    calories = 108
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

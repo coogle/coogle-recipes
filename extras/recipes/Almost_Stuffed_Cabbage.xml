@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almost Stuffed Cabbage</title>
+      <categories>
+        <cat>Rice</cat>
+        <cat>Ground beef</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded cabbage</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Uncooked white rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Bell pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Can whole tomatoes; drained and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Lean ground beef; (uncooked)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Sausage; uncooked/sliced thin</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in an electric rice cooker.  Set on "cook" setting.
+  When cooker switches to "warm" setting, stir and allow to sit covered for
+       10    minutes.
+  
+  Recipe By     : SSpahn
+  
+  Posted to MC-Recipe Digest V1 #228
+  
+  Date: Sat, 28 Sep 1996 11:01:29 -0400
+  
+  From: Luke Murden &lt;lmurden@visi.net&gt;
+  
+  NOTES : Contributed by Lou Brown of the Louisiana Extension Service. It was
+  suggested by LHRoberts that 1 tsp. salt and 1/3 cup golden raisins= be
+  added to this recipe.
+ 
+</step></directions></recipe></recipeml>

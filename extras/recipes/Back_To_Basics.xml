@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Back To Basics</title>
+      <categories>
+        <cat>Instruction</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Basic kitchen hints</item></ing></ingredients>
+    <directions>
+      <step>     Room temperature is what most of your ingredients should be at before
+  you use them.  This can help considerably when you're trying to beat egg
+  whites, or make a cake or bake bread.
+  
+     Milks and other liquids added to batters, soups or sauces should be
+  brought to room temperature before you begin the recipe, or they can be
+  heated briefly at a low setting in the microwave or in a pan of warm water.
+  (Heating them directly takes longer and may scorch them.)
+  
+     Meats that are at room temperature cook faster and some meats can be
+  more tender if the fat has had time to de-solidify.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

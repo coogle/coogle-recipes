@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot-Glazed Chicken</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Possum king</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar Apricot Preserves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove Garlic; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dijon Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit/></amt>
+        <item>Pieces Fried Chicken</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients except chicken in blender. Blend until smooth.
+  
+  Place chicken in a single layer in 8"x12" baking pan. Cover chicken with
+  sauce. Bake, uncovered in a preheated 350 degree oven for 1 hour.
+  Posted to MC-Recipe Digest V1 #924 by "abprice@wf.net" &lt;abprice@wf.net&gt; on
+  Nov 25, 1997
+ 
+</step></directions></recipe></recipeml>

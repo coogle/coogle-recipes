@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Maplenut Candy</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Boiled and mashed Great Northern or Navy beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Powdered sugar or amount necessary to make stiff enough to handle</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Maple syrup or Mapleine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peanuts</item></ing></ingredients>
+    <directions>
+      <step>  Flavor with maple syrup or Mapleine, add a few chopped peanuts. Mold with
+  hands or between 2 spoons; drop on wax paper to harden.
+  
+  This recipe came from: America Cooks, copyright 1917
+  
+  Posted to recipelu-digest Volume 01 Number 187 by "Bonnie"
+  &lt;solomon1@kcsnet.com&gt; on Nov 1, 1997
+ 
+</step></directions></recipe></recipeml>

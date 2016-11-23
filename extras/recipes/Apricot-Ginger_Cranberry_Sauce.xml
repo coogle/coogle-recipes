@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot-Ginger Cranberry Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Fruits</cat>
+        <cat>Side dish</cat>
+        <cat>Holiday</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>INGREDIENTS:</item></ing>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit/></amt>
+        <item>Dried apricots, each cut into 3 strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cranberry juice</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Fresh (or thawed frozen) cranberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Plus 1 tbsp. sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Minced, pared, fresh ginger</item></ing></ingredients>
+    <directions>
+      <step>  Soak  the  dried  apricots  in the cranberry  juice
+  in  a  medium saucepan for  ten minutes.   Add the
+  remaining ingredients and  stir them well. Cook,
+  stirring occasionally, over medium heat until the
+  cranberries have popped and the syrup has thickened
+  slightly - that should take about 5 minutes.    Let
+  the sauce cool to room temperature,  then  refrigerate
+  it (covered) until it's *cold*.  It can be stored in
+  the fridgipater for up to a week. Transfer the sauce
+  to a serving dish and serve while it's still cold.
+  The colder the better, so long as it isn't frozen.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

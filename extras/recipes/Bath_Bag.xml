@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bath Bag</title>
+      <categories>
+        <cat>Herbs</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>7 inch square piece ofmuslin</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or other light fabric</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Inch lenght of ribbon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Potpourri</item></ing></ingredients>
+    <directions>
+      <step>  make a potpourri of equal amounts of comfrey and chamomile.
+  
+  Place the potpourri in the center of the fabric square. Gather all edges of
+  fabric over the potpourri and tie with ribbon or string.
+  
+  From the book of  country herbal crafts. by Dawn Cusick.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

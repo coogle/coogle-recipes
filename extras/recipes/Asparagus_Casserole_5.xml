@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Casserole</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cracker Crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mushroom Soup</item></ing></ingredients>
+    <directions>
+      <step>  Grate cheese and mix with cracker crumbs. Drain asparagus. Add milk to the
+  mushroom soup. Put layer of cheese and cracker mix, then asparagus.
+  Alternate layers with cheese and crackers on top. Bake at 350 degrees F.
+  for 30 minutes.
+  
+  Source: MSN cooking forum
+  Posted to MC-Recipe Digest V1 #1052 by Roberta Banghart
+  &lt;bobbi744@sojourn.com&gt; on Januday,, ary 29, 199
+ 
+</step></directions></recipe></recipeml>

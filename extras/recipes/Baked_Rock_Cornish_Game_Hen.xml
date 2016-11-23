@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Rock Cornish Game Hen</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Main dish</cat>
+        <cat>Londontowne</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Rock Cornish game hens</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Canned beef consomme</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Light corn syrup</item></ing></ingredients>
+    <directions>
+      <step>  If thawed, may be stuffed with 1/4 c stuffing each. Season hens to taste
+  with salt and pepper. Place breast side up on rack in shallow roasting
+  pan and brush well with butter. Roast uncovered at 400 degrees about 45
+  minutes or until tender. During last 15 mins of baking, baste several
+  times with mixture of consomme and syrup.
+  
+  From a book of recipes compiled by members and friends of the LONDONTOWN
+  PUBLIK HOUSE ASSEMBLY, EDGEWATER, MD 21037. Funds from sale of book used in
+  restoration and maintenance of the 17th century inn (hint, hint).
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/london13.zip
+ 
+</step></directions></recipe></recipeml>

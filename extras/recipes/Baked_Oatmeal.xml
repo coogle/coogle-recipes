@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Oatmeal</title>
+      <categories>
+        <cat>Grain</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Oatmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Banana; mashed</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Hot water</item></ing></ing-div>
+      <ing-div>
+        <title>VARIATION</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Coconut</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>Date:</qty>
+            <unit>27</unit></amt>
+          <item>Apr 96 22:27:51 EDT</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From: "Lisabeth Crawford (Pooh)" &lt;104105.1416@CompuServe.COM&gt;
+  Preheat over to 350 degrees: In a small casserole dish, mix ingredients in
+  order listed. Bake 20 minutes.
+  
+  Variation: Replace the banana with raisins and coconut. Sprinkle with
+  cinnamon.
+  
+  Food Exchange per serving: (Baked Oatmeal) 2 STARCH/BREAD EXCHANGES + 1
+  MILK EXCHANGES + 1 FAT EXCHANGES + 1 FRUIT EXCHANGES; CAL: 418; PRO: 14gm;
+  FAT: 16gm,; CAR: 61gm;
+  
+  Food Exchanges per serving: (Variation) 2 STRACH/BREADS EXCHANGES + 1 MILK
+  EXCHANGE + 1 FRUIT EXCHANGE + 1 FAT EXCHANGE.
+  
+  Source: Vegetarian Cooking for Diabetics by Patricia Mozzer Brought to you
+  and yours via Nancy O'Brion and her Meal-Master
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LISTSERVER
+  
+  MM-RECIPES DIGEST V3 #119
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

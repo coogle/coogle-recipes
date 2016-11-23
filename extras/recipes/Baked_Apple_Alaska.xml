@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apple Alaska</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Apples, cored and thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cream of tartar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Confectioners sugar (10x)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs (whites)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Vanilla ice milk or ice cream</item></ing></ingredients>
+    <directions>
+      <step>  Arrange sliced apples in a 9" pie plate.  Combine sugar, cornstarch,
+  cinnamon and salt.  Sprinkle evenly over apples. Cover with aluminum foil.
+  Bake in a 425 degree oven 30 minutes or until apples are just tender.
+  Remove from oven, cool and refrigerate.  This may be done ahead.
+  
+  At serving time, cover chilled apples with an even layer of ice milk or ice
+  cream and place in freezer. Beat egg whites and cream of tartar until
+  frothy. Gradulaly add 10x confectioners sugar, a Tablespoon at a time.
+  Continue beating until mixture stands in peaks. Spread meringue over ice
+  milk being sure to bring it to the edge of the pie plate. Place pie plate
+  in a roasting pan surrounded with ice cubes to keep cool. Bake in a very
+  hot oven, 500 degrees for 3 minutes or until meringue is lightly browned.
+  Serve immediately.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

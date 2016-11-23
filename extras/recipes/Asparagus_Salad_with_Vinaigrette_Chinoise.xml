@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Salad with Vinaigrette Chinoise</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Thin asparagus, end trimmed and stalks peeled to the tip, if thick</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Head red-leaf lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rice wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried red pepper flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sesame seed oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Coarse salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raw sunflower seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Diagonally sliced green onion, green part only</item></ing></ingredients>
+    <directions>
+      <step>  (From "Pacific Northwest Palate," by Susan Bradley.)
+  
+  Slice the asparagus in a long diagonal at 2" intervals. Blanch in a
+  large pot of boiling water for about 4 minutes, until just
+  tender-crunchy. Drain, refresh under cold running water, then dry
+  carefully with paper towels.
+  
+  Whisk together the rice wine vinegar, soy sauce, sugar, red pepper,
+  corn oil, sesame seed oil and salt, to taste. Toss with the
+  asparagus. Cool, cover and refrigerate for several hours or
+  overnight, if desired.
+  
+  Melt the butter in a small saute pan and stir-fry the sunflower seeds
+  until golden brown. Remove and reserve.
+  
+  When ready to serve, toss the asparagus and vinaigrette again,
+  arrange on red lettuce leaves on individual salad plates and top with
+  toasted sunflower seeds and sliced green onions.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>30 Minute Chili</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Chili</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground chuck or lean ground; beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; large, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Kidney beans; (12 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomato soup; undiluted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chili powder; (or to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Hot pepper sauce; to taste</item></ing></ingredients>
+    <directions>
+      <step>  Brown the meat in a little butter and cook until the meat is brown -- about
+  10 minutes. Add all other ingredients and let simmer for 30 minutes. Your
+  choice of hot sauce may be added to taste.
+  
+  Recipe by: MasterCook Archives
+  
+  Posted to recipelu-digest Volume 01 Number 577 by Rodeo46898
+  &lt;Rodeo46898@aol.com&gt; on Jan 22, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Cream" of Corn Soup</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Frozen corn -or-</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ears fresh corn</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Corn meal (the more you put in the thicker it gets)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt/tamari to taste</item></ing></ingredients>
+    <directions>
+      <step>  Date: Tue, 28 May 1996 11:00:03 -0400 (EDT)
+  
+  From: Patricia Thorp &lt;thorp@sas.upenn.edu&gt;
+  If I were having my teeth out again, I'd have soup. I think it's
+  comforting, and it's definitely easy to eat! My favorite is Jackie Manni's
+  recipe for "cream" of corn soup:
+  
+  Saute onion and corn in a few tspns of water, adding more if it gets dry.
+  Add cornmeal, stirring to avoid lumps, and so all veggies are covered.
+  Slowly add water and stir to once again avoid lumps. Bring to a boil, then
+  simmer for 40 min. Add salt/tamari at end.
+  
+  I am not a big soup fan, but I had 2 bowls of this stuff. The best part is,
+  you can make a ton and not have to cook for a while.
+  
+  FATFREE DIGEST V96 #148
+  
+  From the Fatfree Vegetarian recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

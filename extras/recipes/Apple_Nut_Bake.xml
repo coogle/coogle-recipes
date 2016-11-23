@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Nut Bake</title>
+      <categories>
+        <cat>Baby food</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Cooking apples</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg yolk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ground almonds</item></ing></ingredients>
+    <directions>
+      <step>  1.  Peel, core and slice the apple, and cook with the orange juice until
+  soft.
+  
+  2.  Mash or puree, stir in the egg yolk and almonds, and bake at 350F for
+  15 min or until set.  Serve hot  or cold.
+  
+  To vary: Use other fruit in season.
+  
+  From "The Best Healthy Baby Cookbook" By Carol Hunter. Posted by Theresa
+  Merkling
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/kids.zip
+ 
+</step></directions></recipe></recipeml>

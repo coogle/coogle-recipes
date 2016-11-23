@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baron of Roast Beef</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Each of thyme leaves; chervil, salt</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Baron of beef</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Chopped carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Chopped celery stalks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Red wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Beef broth or water</item></ing></ingredients>
+    <directions>
+      <step>  The following is a recipe for roast beef taken from my Simply Delicious
+  Cooking 2 cookbook, just exchange the baron of beef for an equal weight rib
+  roast. Try to get a rib roast that is at least "aged" for 21-28 days, Never
+  buy any red meat from a local supermarket chain. they simply do not age it
+  long enough. You may begin your roast in the high oven for 10 minutes which
+  sears the meat and locks in the juices, then turn the oven down and
+  continue to cook as per instructions.
+  
+  Preheat the oven to 325 F (160 C). Mix the flour, mustard and seasonings
+  together. Rub into the roast. Place roast into a roasting pan. Pour
+  Worcestershire over. Surround roast with the vegetables and bay leaf. Pour
+  in the red wine and water. Bake to desired doneness see chart below,
+  basting often. Use the pan juices to make gravy.
+  
+  SERVES 8
+  
+  Roasting Chart:
+  
+  Rare medium well done 27 34 44 minutes per lb (454 gr)
+  
+  Posted to EAT-L Digest  by Ron Kalenuik &lt;RKalenuik@AOL.COM&gt; on Nov 24, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Strips</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Cakes</cat>
+        <cat>Fruits</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Unsalted Butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sour Cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Grated Lemon Rind</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Egg yolk for wash</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Confectioners Sugar (opt)</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>x</unit></amt>
+          <item>Med Apples, peeled   *</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  * 4-5 medium Macintosh apples, peeled and thinly sliced Work butter into
+  flour with a fork and add sugar, sour cream, and lemon rind, kneading to
+  form a dough. Form into a roll, wrap in waxed paper, and let rest for 1/2
+  hour.
+   Cut roll in half. Roll out 1 part to fit a 9"x9" pan. Line with apple
+  slices and sprinkle with raisins and sugar. Roll out remaining dough and
+  cut into strips to form a lattice pattern on top of the apples. Brush with
+  egg yolk, to which a little cold water has been added.
+   Bake at 325 deg F. for about 20 minutes, until golden brown. Dust with
+  confectioners' sugar while still warm, if desired, and cut into 1" x 2"
+  strips.  Makes about 30. Serve warm or cold.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

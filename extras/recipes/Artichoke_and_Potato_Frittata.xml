@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke and Potato Frittata</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Eggs</cat>
+        <cat>Italian</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Potatoes -- peeled and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Thinly sl</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil -- divided 3+1 T.</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Cooked artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and thyme -- to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Beaten</item></ing></ingredients>
+    <directions>
+      <step>  Rinse potatoes in water and pat dry. Mix with the onion. Fry slowly in the
+  oil, turning often, until very reduced and tender -- about 30 minutes. Let
+  the potato mixture cool a little, then toss with the artichokes, eggs and
+  seasonings. Heat 1 tablespoon olive oil in a skillet, add the mixture and
+  cook slowly for 5 minutes. Slide out onto a plate, reverse back into the
+  pan and let brown for another 5 minutes. Serve lukewarm or cold, cut in
+  wedges. Serves 2 to 4
+  
+  Recipe By     : JACQUELINE MALLORCA
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

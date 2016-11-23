@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Strawberry Jelly</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Jams</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Unsweetened bottled apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Fully ripe strawberries</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pouch liquid fruit pectin</item></ing></ingredients>
+    <directions>
+      <step>  Pour apple juice into a preserving kettle or large saucepan. Thoroughly
+  crush the barries, using a potato masher, one layer at a time; measure 1/2
+  cup prepared berries; add to apple juice; add sugar. Place pan over high
+  heat; bring to boil, stirring continuously; at once, stir in liquid fruit
+  pectin; bring to a full rolling boil; boil hard for 1 minutes,stirring
+  continuously; remove kettle from heat. Skim off foam with a metal spoon;
+  pour quickly into hot sterilized jars, leaving 1/2 inch head space; seal
+  with melted paraffin wax; cover with clean lids. Stor in a cool, dark, dry
+  place.
+  
+  **NOTE**  Bottled Strawberry cocktail can be substituted for the fresh
+  strawberry juice, giving a slightly sweeter product. Makes 3-1/2 cups.
+  
+  Origin:  Appeal (quarterly publication by Overwaitea Foods) Shared by:
+  Sharon Stevens.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

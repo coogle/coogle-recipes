@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Tomato Sauce</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ripe Plum tomatoes; peeled and seeded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit>18</unit></amt>
+        <item>Mar 96 13:06:45 EST</item></ing></ingredients>
+    <directions>
+      <step>  From: "Lisabeth Crawford (Pooh)" &lt;104105.1416@compuserve.com&gt;
+  Heat the oil in a large saucepan over medium heat.  SAute the onion and
+  garlic until soft, about 5 minutes.  Add the tomatoes, sugar, salt, and
+  pepper to taste. Simmer for 30 minutes, until thickened, stirring often to
+  break up the tomatoes.
+  
+  Nutritional info per serving: 128 cal; 3g pro, 22g cab, 4g fat (28%)
+  Exchanges: 3.4 veg, .1 bread, .7 fat
+  
+  Source: Miami Herald 2/29/96 formatted by Lisa Crawford 3/12/96
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LIST SERVER
+  
+  MM-RECIPES DIGEST V3 #79
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

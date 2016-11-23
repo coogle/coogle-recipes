@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Salsa</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe bananas, diced (1 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Prepared salsa verde</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh lime juice, or to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped fresh cilantro</item></ing></ingredients>
+    <directions>
+      <step>  Makes about 1 1/2 cups
+  
+  Combine all ingredients
+  
+  The Sun September 18, 1996
+  
+  Posted to EAT-L Digest 18 Sep 96
+  
+  From:    "Anita M. Cousar" &lt;Aaliyah618@AOL.COM&gt;
+  
+  Date:    Thu, 19 Sep 1996 19:15:38 -0400
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana on a Stick</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Craft sticks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vanilla yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cookie crumbs or graham cracker crumbs--crushed</item></ing></ingredients>
+    <directions>
+      <step>  Break the banana in half.
+  
+  Push a craft stick into the flat end of each banana half.
+  
+  Spread the banana halves with yogurt. Then roll them in crumbs.
+  
+  Posted to EAT-L Digest 02 Sep 96
+  
+  From:    Lisa M Hall &lt;Lisa_M_Hall@ENA-EAST.ERICSSON.SE&gt;
+  
+  Date:    Tue, 3 Sep 1996 16:46:31 -0400
+ 
+</step></directions></recipe></recipeml>

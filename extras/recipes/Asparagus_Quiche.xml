@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Quiche</title>
+      <categories>
+        <cat>Asparagus</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Swiss cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Light cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt and dash of pepper</item></ing></ingredients>
+    <directions>
+      <step>  Wash asparagus, discard tough portion, set aside some spears for
+  decoration. Cut up rest into 1/2-inch pieces. Put in saucepan with water
+  and boil; simmer for 5 minutes. Drain and rinse under cold water. Prepare
+  pie crust, refrigerate. Preheat oven to 375 degrees. Saute bacon; drain.
+  Sprinkle bottom of pie shell with bacon, cheese and cut up asparagus. In a
+  medium bowl, beat eggs, cream, nutmeg, salt and pepper just until combined.
+  Pour cream mix into pie shell. Arrange asparagus spears on top. Bake 40
+  minutes or just until puffy and golden. Serve warm.
+  Posted to recipelu-digest by "Diane Geary." &lt;diane@keyway.net&gt; on Feb 4,
+  1998
+ 
+</step></directions></recipe></recipeml>

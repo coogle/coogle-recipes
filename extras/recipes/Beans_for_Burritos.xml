@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beans for Burritos</title>
+      <categories>
+        <cat>Beans</cat>
+        <cat>Mexican</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Pink beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Can Ortega green chiles, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves garlic, minced/pressed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salsa or to taste</item></ing></ingredients>
+    <directions>
+      <step>  Soak the beans overnight, changing water several times. Put beans in
+  crock-pot and cover with an inch or so of water. Add salt, onion, garlic,
+  and chili powder. Cook on low until beans are soft (about 18 hours? I
+  forget).
+  
+  When beans are cooked, ladle off and reserve some of the liquid from the
+  top.  Mash the beans well.  (I never do this as well as I'd like; I've
+  tried a potato masher and an empty iced-tea jar.) Add reserved liquid as
+  necessary for consistency.  (I never have to add any, myself.) Stir in the
+  chopped chiles and the salsa; heat through.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

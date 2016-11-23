@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Beer Onion Soup</title>
+      <categories>
+        <cat>Soups-</cat>
+        <cat>Onion</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SACHET BAG</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Bay leaf</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried basil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried oregano</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Fennel seed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Black peppercorns</item></ing></ing-div>
+      <ing-div>
+        <title>SOUP</title>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit/></amt>
+          <item>Onions; sliced 1/4" thick</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Garlic; crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Beer; use Pilsner Beer</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Maggi seasoning</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Beef base; See Note</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  To make the sachet bag, combine the bay leaf, basil, thyme, oregano, fennel
+  seed, nutmeg and peppercorns in a piece of cheesecloth and tie it with a
+  string. If you don't have cheesecloth, use a coffee filter.
+  
+  Meanwhile, saute onions and garlic in butter until deep brown. Transfer to
+  a saucepan and add the water and beer. Bring to a boil. Add the sachet bag
+  of spices, the maggi Seasoning and the beef base. Simmer slowly for 30
+  mintues.
+  
+  Note: all-natural paste beef base is available at Albertsons.
+  
+  Source: Executive Chef Robin Flower, Der Rheinlander Restaurant, Portland,
+  Oregon. Taken from article by Linda Nygaard Danielson, Oregonian FoodDay,
+  Jan. 21, 1997. Mastercook adapted by Brenda Adams,
+  &lt;adamsfmle@sprintmail.com&gt;
+  
+  Recipe by: Der Rheinlander Restaurant, Portland, Oregon / badams
+  
+  Posted to recipelu-digest Volume 01 Number 480 by Jan Crow
+  &lt;jccrow@hypercon.com&gt; on Jan 08, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cider Salad</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Salads</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>LORELI AGUDA WSKD49A</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Package orange flavored gelatin</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Apple cider</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Apples, coarsely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Celery, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Juice and grated rind of one lemon</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lettuce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Apple, unpeeled and sliced</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Dissolve gelatin in 2 cups hot cider; stir in raisins. Let cool. Add
+  remaining 2 cups cider; chill until consistency of unbeaten egg whites.
+  Stir in chopped apples, celery, lemon juice and rind. Pour into a lightly
+  oiled 6 cup mold. Chill until set. Unmold onto lettuce leaves and garnish
+  with apple slices, if desired.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

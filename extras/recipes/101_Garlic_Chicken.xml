@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>101 Garlic Chicken</title>
+      <categories>
+        <cat>Garlic</cat>
+        <cat>Poultry</cat>
+        <cat>Main dish</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Whole chicken breasts</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Split, boned and skinned</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Champange</item></ing>
+      <ing>
+        <amt>
+          <qty>101</qty>
+          <unit/></amt>
+        <item>Unpeeled cloves fresh garlic</item></ing></ingredients>
+    <directions>
+      <step>  Place chicken in ungreased baking pan, 12 x 16 or 18 inches.  Sprinkle
+  with salt and pepper and pour champagne over.  Place garlic cloves around
+  and between chicken pieces.  Cover pan with foil.  Bake at 350 degrees for
+  1 1/2 hours.  Remove chicken to large seving platter and place garlic
+  around chicken.  Tell guests to such the garlic out of its skin, that it
+  is deliciously sweet.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/garlic.zip
+ 
+</step></directions></recipe></recipeml>

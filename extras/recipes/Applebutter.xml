@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applebutter</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Jelly/jam</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Apples (or 8 if small)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>+2 TB concentrated frozen apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cornstarch</item></ing></ingredients>
+    <directions>
+      <step>  1. Peel, core, and thinly slice apples. Put them in a saucepan with
+  1/4 cup of the water and 1/4 cup of the applejuice. Bring to a boil,
+  then reduce heat and simmer uncovered for 1 hour. Mix cornstarch
+  with the 2 Tb of applejuice. Stir into the mix, and stir until it
+  thickens.
+  
+  2. Put all ingredients in a blender and puree until smooth. Refriger-
+  ate. Makes about 4 cups.
+  
+  From: Brigitte Sealing, Cyberealm BBS, Watertown NY
+  Typed for you by: Linda Fields, Sysop, Cyberealm BBS Watertown, NY
+  1993
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber3.zip
+ 
+</step></directions></recipe></recipeml>

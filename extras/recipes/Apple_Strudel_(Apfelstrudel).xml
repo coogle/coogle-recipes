@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Strudel (Apfelstrudel)</title>
+      <categories>
+        <cat>Penndutch</cat>
+        <cat>Breads</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg, slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water, warm</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Apple, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Nuts, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon, grated rind of</item></ing></ingredients>
+    <directions>
+      <step>  Sift the flour and salt together. Cut in the 2 Tbsp shortening and add the
+  eggs and water. Knead well, then throw or beat dough against board until it
+  blisters. Stand it in a warm place under a cloth for 20 minutes. Cover the
+  kitchen table with a small white cloth and flour it. Put dough on it. Pull
+  out with hands very carefully to thickness of tissue paper. Spread with
+  mixture made of the sliced apples, melted butter, raisins, nuts, brown
+  sugar, cinnamon and grated lemon rind. Fold in outer edges and roll about 4
+  inches wide. Bake at 450-F for 10 minutes, reduce heat to 400-F and
+  continue to bake about 20 minutes. Let cool. Cut in slices about 2 inches
+  wide. Source: Pennsylvania Dutch Cook Book - Fine Old Recipes, Culinary
+  Arts Press, 1936.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

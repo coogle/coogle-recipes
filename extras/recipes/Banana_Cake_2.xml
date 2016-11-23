@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cake</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit/></amt>
+        <item>BANANAS FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>CAKE MIX YELLOW #10</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>SALAD OIL; 1 GAL</item></ing></ingredients>
+    <directions>
+      <step>  1.  USE 10 LB OR 2- 5 LB PG BANANA CAKE MIX.  PREPARE ACCORDING TO
+  INSTRUCTIONS ON CONTAINER.
+  
+  2.  SEE RECIPE CARD G-G-3 GUIDLINES FOR USING CAKE MIXES, FOR MORE DETAILED
+  INSTRUCTIONS.
+  
+  3.  COOL;  FROST IF DESIRED. CUT 6 BY 9.
+  
+  Recipe Number: G00601
+  
+  SERVING SIZE: 1 PIECE
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

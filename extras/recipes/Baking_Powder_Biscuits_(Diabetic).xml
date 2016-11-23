@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baking Powder Biscuits (Diabetic)</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Cakes</cat>
+        <cat>Breadmaker</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk, SKIM</item></ing></ingredients>
+    <directions>
+      <step>  Mix flour, baking powder, and salt together. Cut in the shortening until it
+  is evenly mixed with the dry ingredients. Then ADD, Milk, mixing well.
+  
+  Then Knead for a a 1/2 minute and roll out to about 1-1/2 inch in
+  thickness. Cut with a Biscuit cutter. Place the biscuits 1-1/2 inches apart
+  on a greased baking sheet. The BRUSH with the Milk and BAKE at 450F oven
+  degrees 10-12 minutes
+  
+  One biscuit may be Exchanged for:  1 bread exchange or 1 fat exchange.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

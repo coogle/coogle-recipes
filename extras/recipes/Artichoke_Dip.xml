@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Dip</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Cheese</cat>
+        <cat>Dips</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>14</qty>
+            <unit>ounces</unit></amt>
+          <item>Artichoke Hearts; 1 Cn, *</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Parmesan Cheese; Grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Romano Cheese; Grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Mozzarella Cheese; Shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Garlic Clove; Small, Minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mayonnaise</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Paprika</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  *    The artichoke hearts should not be marinated Artichoke Hearts. Just
+       the plain ones.
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++++++
+  Rinse and rain the artichoke hearts, then remove and discard the fuzzy
+  chokes. Chop the artichoke hearts. Mix all of the ingredients, blending
+  well and place in a greased 1 1/2 quart casserole. Dust the top of the
+  mixture lightly with paprika. Bake at 325 degrees F. for 25 minutes and
+  serve hot in a chafing dish. Makes about 3 cups of dip. SUGGESTED DIPPERS:
+  French Or Italian Bread, Water Crackers, Snow Peas, Carrots, Salami Slices,
+  Seafood Chunks
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baklava</title>
+      <categories>
+        <cat>Baked goods</cat>
+        <cat>Turkish</cat>
+        <cat>Desert</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Filo dough</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Unsalted butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Walnuts and/or pistachios; coarsely ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 1 lemon</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 350F.
+  
+  To prevent the filo drying out, cover it first with a sheet of greaseproof
+  paper then with a tea-towel wrung out in cold water. Brush a 13x10 inch
+  baking dish with a little of the butter. Brush half the sheets of filo
+  pastry with butter and lay in the bking dish, one on top of the other.
+  Spread over the filling ingredients, then cover with the remaining pastry
+  sheets, again buttering each one before laying it down.
+  
+  Using a sharp knife, tuck the edges down neatly round the sides. Brush with
+  the remaining butter. Using a sharp knife, cut into diamonds. Bake in the
+  over for 25 minutes, then reduce the heat to 300F and bake for a further 30
+  minutes.
+  
+  While the Baklava is cooking, put the sugar for the syrup into a pan with
+  10 fluid ounces water and the lemon juice. Stir over a medium heat until
+  the sugar has dissolved. Bring to the boil and simmer for 5 minutes. Cool.
+  As soon as the Baklava comes ut of the oven, pour over the syrup, then
+  leave to cool completely.
+  
+  Recipe by: Sophie Grigson's Travels a la Carte
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Jenny
+  &lt;jlstac@mail.tqci.com&gt; on Nov 26, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Push-Ups</title>
+      <categories>
+        <cat>Kids</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Bananas, Cut Up</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Instant Nonfat Dry Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Plain Yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen Orange Juice Concentrate (1 Can)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Combine all of the ingredients in a blender and whirl until foamy. pour
+  into paper cups and freeze.  Push up from the bottom of the cup.
+  
+  From Super Snacks For Kids by Penny Warner Copyright 1985
+  Posted to recipelu-digest Volume 01 Number 670 by GramWag@aol.com on Feb 1,
+  1998
+ 
+</step></directions></recipe></recipeml>

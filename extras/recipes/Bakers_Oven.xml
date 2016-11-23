@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bakers Oven</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Lamb Shoulder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bayleaf</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Juniper Berries</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Black Pepper Corns</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/8</qty>
+          <unit>cups</unit></amt>
+        <item>White Wine</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Onions, medium size</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Potatoes, medium,cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Wine, white,dry and cold</item></ing></ingredients>
+    <directions>
+      <step>  Fot this recipe you need a "Roemertopf" an earther
+  ware pot, special made. 1.Put the roemertopf in water
+  for 6 hours, according to directions for pot. 2.Cut
+  the biggest fat of the lamb shoulder and cut the meat
+  into 4 cm cubes 3.Put the meat into a bowl and add the
+  bayleaf, juniperberries, peppercorns, smashed, and
+  about 1/4 l of the white wine. Put into a cool place,
+  for about 6 hours as the pot. 4.Cut the onions and
+  potatoes into not to thin slices. 5.Cut half of the
+  butter into cubes and put all over the bottom of the
+  Roemertopf.Add in layers, a quarter of
+  thepotatoes,onions and meat. Finishing with potatoes
+  on top. Season with salt and pepper. 6.Add the
+  marinade with another 1/4 l wine over the mixture in
+  the pot. 7.Add the last of the butter in globs all
+  over the top, put on lid and bake in very hot oven for
+  90 minutes. Serve with the cold white wine.Recipe by
+  Wolfgang Kaempf translated by Brigitte Sealing
+  Cyberealm BBS 315-786-1120
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

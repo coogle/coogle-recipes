@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>After Dinner Mint Cookies</title>
+      <categories>
+        <cat>Ghirardelli</cat>
+        <cat>Cookies</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Ghirardelli Mint Chocolate Wafers</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Unsifted flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped walnuts</item></ing></ingredients>
+    <directions>
+      <step>  DIRECTIONS: Melt 5 oz of the Mint Wafers in a double boiler, stirring
+  constantly or microwave on medium for about 3 minutes. Set aside. Cream
+  butter with sugar, egg and salt. Mix in melted chocolate. Gradually add
+  flour. Chill dough at least 1 hour. Shape dough into balls, using 1 level
+  Tbsp for each cookie. Roll balls into nuts. Place on greased baking sheets.
+  Flatten slightly with the palm of hand. Bake at 350-F for only 8 minutes.
+  Remove from oven and place Mint Wafer on top of each cookie, pressing
+  slightly. Continue baking 3 5 minutes longer or until cookie is firm.
+  
+  Source: Recipes from Ghirardelli Chocolate Company of San Francisco
+  
+  From: Sallie Austin
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

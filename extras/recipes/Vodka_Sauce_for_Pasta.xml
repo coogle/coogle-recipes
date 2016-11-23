@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vodka Sauce for Pasta</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vodka; (1/4 to 1/2)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>8 Oz )Can     tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Few drops of Tabasco sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pints</unit></amt>
+        <item>Heavy cream</item></ing></ingredients>
+    <directions>
+      <step>  Saute onion in butter until clear.  Add vodka and cook over medium heat 2
+  to 3 minutes.  Add tomato sauce and Tabasco sauce and cook 2 to 3 minutes.
+  Add heavy cream and heat through but do not boil.  Enough for 1 pound of
+  pasta. Pour over cooked pasta (preferably short) and enjoy
+ 
+</step></directions></recipe></recipeml>

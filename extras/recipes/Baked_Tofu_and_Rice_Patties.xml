@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Tofu and Rice Patties</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Tofu</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tofu; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown rice; cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Nutritional yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shoyu or tamari</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sesame oil; toasted (opt)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Whole wheat pastry flour; as needed</item></ing></ingredients>
+    <directions>
+      <step>  Place all ingredients, except for the flour, in a medium-sized bowl and mix
+  well. Using your hands, shape the mixture into 6 patties. Press firmly so
+  that the patties hold together well.
+  
+  Dredge both sides of each patty in the flour and palce them on a well-oiled
+  cookie sheet.
+  
+  Bake the patties at 400 deg for 25-30 minutes, or until they are golden
+  brown. Turn the patties over halfway through the baking.
+  
+  Serve them with the sauce of your choice, acompanied by a steamed vegetable
+  and a salad.
+  
+  From the files of DEEANNE
+  Posted to EAT-L Digest 05 Sep 96
+  
+  Date:    Thu, 5 Sep 1996 19:06:49 -0700
+  
+  From:    Stacy Hansen &lt;schansen@PACIFICRIM.NET&gt;
+ 
+</step></directions></recipe></recipeml>

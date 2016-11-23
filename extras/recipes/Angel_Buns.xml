@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Buns</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pack yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water (105-115)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bisquick baking mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve yeast &amp; sugar in warm water in medium bowl. Mix in baking
+  mix &amp; milk until dough forms. Gently smooth into a ball on surface
+  dusted with baking mix.  Knead 10 times. Roll 1/2" thick. Cut with 2"
+  biscuit cutter dipped in baking mix. Place on ungreased cookie sheet.
+  Let rise in warm place about 30 minutes or until soft &amp; puffed. Heat
+  oven to 425. Bake 6-8 minutes or until golden brown.  For high
+  altitude: Let rise for 20 minutes. Heat oven to 450. Bake 5 minutes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

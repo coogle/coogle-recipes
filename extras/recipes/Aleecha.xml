@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aleecha</title>
+      <categories>
+        <cat>Vegetarian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>cloves</unit></amt>
+        <item>Garlic; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Carrots; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Tumeric; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fresh hot green peppers halved, to 3 peppers</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cabbage; coarsely sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Queman; see note</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Potatoes; cut like french fries</item></ing></ingredients>
+    <directions>
+      <step>  Aleecha is a mixed vegetable stew.
+  Quemam contains an ingredient not found in the US.  I'd substitute dry
+  berebere.
+  In dry pan over moderate low heat, stir fry onion, garlic, and
+  carrots for 2 mins.  Add 1/2c of the water and cook  5 mins longer.
+  Add the oil and continue to simmer.
+  
+  Add the tumeric, chilies, and cabbage.  Cover the pan and steam to
+  reduce the bulk for 2 mins.  Stir well and add the quemam, tomato
+  paste, salt and the potatoes.
+  
+  Cover the pan and cook for 5 mins.  Add the remaining water and
+  simmer for 5 minutes more to soften the potatoes and thicken the
+  sauce somewhat.
+  
+  Serve at room temperature with Injeera.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/ethiopia.zip
+ 
+</step></directions></recipe></recipeml>

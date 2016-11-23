@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Savoy Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Rice wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tabasco sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves Garlic; peeled, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oyster sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Savoy cabbage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Carrot strips; julienned</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Jacques Pepin, Today's Gourmet II
+  
+  Combine the dressing ingredients in a plastic bag large enough to hold the
+  cabbage. Shred the cabbage finely.  Add cabbage, toss it with the dressing
+  and allow the mixture to macerate for at least 2 hours. Transfer the salad
+  and dressing to a serving bowl, sprinkle with the carrot and serve.
+  
+  Date: Thu, 6 Jun 1996 14:43:43 +1000
+  
+  From: sherae@zeta.org.au (Sheri McRae)
+  
+  MC-Recipe Digest V1 #110
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

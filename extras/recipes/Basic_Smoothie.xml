@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Smoothie</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe bananas (frozen; if desired)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fruit juice; (apple or orange)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Oranges or apples (chopped; peeled and seeded), or, similar amount of peaches, strawberries, etc.</item></ing></ingredients>
+    <directions>
+      <step>  Blend well, then fill rest of blender with ice. Puree! (2-3 servings)
+  
+  Posted to KitMailbox Digest  by brightl@kitmailbox.com on
+ 
+</step></directions></recipe></recipeml>

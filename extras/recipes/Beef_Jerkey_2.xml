@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Jerkey</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>40</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>MAKES 40-50 STRIPS</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>pounds</unit></amt>
+          <item>Flank steak</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Worcestershire sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Onion, diced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Bay leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Cloves garlic, crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Whole cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Dry red wine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Soy sauce</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Trim fat and gristle from flank steak. Cut meat with grain into very thin
+  slices (partially freezing first makes slicing easier). Combine onion,
+  thyme, bay leaves, salt, garlic, pepper, cloves, vinegar, wine,
+  Worcestershire sauce &amp; soy sauce. Pour marinade over steak strips to cover
+  and let stand in refrigerator about 15 hours. Squeeze marinade from strips
+  by rolling meat with rolling pin. Place meat on baking sheets or directly
+  on oven rack and dry in 175F over 9 hours, turning once. If using rack,
+  place over foil to catch drippings.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/meats.zip
+ 
+</step></directions></recipe></recipeml>

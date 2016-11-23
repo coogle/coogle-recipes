@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abm Sourdough Beer Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Tested</cat>
+        <cat>Breadmaker</cat></categories>
+      <yield>14</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>King Arthur allpurpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lecithin granules</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rye sourdough starter*</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flat beer</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>Place</qty>
+          <unit>in</unit></amt>
+        <item>pan in the order given. Bake on basic bread cycle. This can</item></ing></ingredients>
+    <directions>
+      <step>  probably be timed. With only 2 cups of flour, this makes a small (14 oz)
+  loaf with a crunchy crust and a light interior.  Not a dense bread. It's a
+  rustic looking loaf that ought to be just the thing with stews or hearty
+  soups. *Rye sarter: 2 c Rye flour, 2 c warm water, 1 pkg yeast in a glass
+  container.  Leave at roomtemp for about 3 days stirring when you think of
+  it.  When it starts to smell like a brewery, you can refrigerate it. Just
+  bring it back to room temp before you use it. Adapted from BREAD MACHINE
+  BAKING, Brody &amp; Apter
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

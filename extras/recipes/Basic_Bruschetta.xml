@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Bruschetta</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Round loaf country bread, not too dense</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Cloves of garlic, peeled and cut in half</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Extra virgin olive oil</item></ing></ingredients>
+    <directions>
+      <step>  Prepare a medium-hot charcoal fire.
+  
+  Cut the middle portion of the round loaf into 6 long slices, each one
+  almost an inch thick. Cut these slices in half, making half-slices that are
+  roughly 3x3x1 inches.
+  
+  When fire is ready, place the 12 slices over it in a single layer. Cook,
+  turning once, until the outsides of the bread are golden brown (with grill
+  marks, if possible). This should take about 2 minutes per side-but check
+  frequently to make sure the bread isn't burning.
+  
+  When the bread slices are done, rub the edges of each one, on both sides,
+  with a cut clove of garlic-lightly or heavily, depending on your garlic
+  preference. Place the slices on a large platter in a single layer. Sprinkle
+  each slice with 2 teaspoons of olive oil, breaking the surface of the bread
+  lightly with a spoon to let the oil soak in. Season with salt and pepper.
+  Turn the slices over and repeat the procedure. Let the slices sit in the
+  olive oil for 10-15 minutes. Serve as is for simple bruschetta.
+  Recipe By     :TASTE SHOW #TS0003
+  
+  Posted to MC-Recipe Digest V1 #257
+  
+  Date: Fri, 25 Oct 1996 08:34:21 -0400
+  
+  From: Meg Antczak &lt;meginny@node1.frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

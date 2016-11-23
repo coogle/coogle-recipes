@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Curd with Pineapple</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Beans</cat>
+        <cat>Oriental</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bean curd</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Can of pineapple chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cornflour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dry sherry</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bean sprouts</item></ing></ingredients>
+    <directions>
+      <step>  Cut drained bean curd into small cubes.  Drain syrup from the pineapple,
+  retaining 1 tb of it.  Dissolve cornflour in this. Stir in sherry &amp; soy
+  sauce.  Add bean curd &amp; let stand for 15 minutes.
+  
+  Heat oil in a wok &amp; stir fry the marinated bean curd till the liquid has
+  been absorbed.  Remove &amp; drain. Add a little more oil &amp; stir-fry the green
+  onion, bean sprouts &amp; pineapple for 1 minute. Add bean curd, cook for 2
+  minutes.  Serve with boiled rice.
+  
+  Jack Santa Maria, "Chinese Vegetarian Cookery"
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

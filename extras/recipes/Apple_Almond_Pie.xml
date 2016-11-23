@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Almond Pie</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pie crust, single crust</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Corn starch</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Corn syrup, light or dark</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apples, peeled and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Almonds, toasted and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple, peeled &amp; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Almonds, toasted and sliced</item></ing></ingredients>
+    <directions>
+      <step>  =------------------------------- GARNISH ~--------------------------------
+  Prepare pie crust for filled one-crust pie using 9-inch pan. Flute edge.
+  Heat oven to 375F.  Reserve 2 T sugar.  In medium bowl, combine remaining
+  sugar and corn starch.
+   Add eggs, beating well to combine.  Stir in butter, corn syrup and almond
+  extract.  Mix in apples and almonds. Pour into pie crust-lined pan. If
+  desired, garnish with apple slices overlapped in a circle around edge of
+  pie.  Sprinkle center with almonds. Sprinkle reserved sugar over top. Bake
+  at 375F for 50 minutes or until center of pie is set. Cool completely on
+  wire rack.  Store in refrigerator.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

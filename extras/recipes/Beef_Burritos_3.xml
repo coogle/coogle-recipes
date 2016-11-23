@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Burritos</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Vegetables</cat>
+        <cat>Mexican</cat>
+        <cat>Cheese</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Beef; Cooked, Shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit/></amt>
+          <item>Flour Tortillas; *</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Tomatoes; Chopped, 2 Medium</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Refried Beans; Below</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Lettuce; Shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cheddar Cheese; Shredded</item></ing></ing-div>
+      <ing-div>
+        <title>REFRIED BEANS</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Lard Or Vegetable Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chile Powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Pinto Beans; Cooked</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cumin; Ground</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  *  Tortillas should be 10-inches in Diameter and warmed.
+  
+  Heat beef and refried beans separately.  Place about 1/4 cup of the beef
+  on the center of each tortilla.  Spoon about 2 T of the beans onto the
+  beef.  Top with 1/4 cup of the lettuce and about 2 T each of tomatoes and
+  cheese.  Fold one end of the tortilla up about 1 inch over filling; fold
+  right and left sides over folded end, overlapping.  Fold down remaining
+  end, and serve.
+  REFRIED BEANS:
+  Heat lard in 10-inch skillet over medium heat until hot.  Add pinto beans;
+  cook for 5 minutes, stirring occasionally.  Mash beans; stir in remaining
+  ingredients.  Add oil to skillet if necessary; cook and stir until smooth
+  paste forms, about 5 minutes.  Garnish with shredded cheese, if desired.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/meats.zip
+ 
+</step></directions></recipe></recipeml>

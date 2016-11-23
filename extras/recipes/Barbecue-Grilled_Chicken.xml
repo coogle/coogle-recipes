@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue-Grilled Chicken</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Grilling</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chicken; cut into 8 pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Firmly packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Instant minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Worcestershire or steak sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry or 2 tablespoons prepared mustard</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 350F. Place the chicken in a 9" x 13" baking dish that
+  has been coated with nonstick cooking spray and bake for 25 minutes.
+  Meanwhile, in a medium-sized bowl, mix together the remaining ingredients.
+  Preheat the grill to medium heat. Coat the chicken with the sauce mixture
+  and place on the grill. Grill for 15 to 20 minutes, or until the juices run
+  clear and no pink remains, turning halfway through the grilling.
+  
+  Recipe by: MR FOOD
+  
+  Posted to MC-Recipe Digest V1 #1038 by Meg Antczak
+  &lt;meginny@frontiernet.net&gt; on Jan 23, 1998
+ 
+</step></directions></recipe></recipeml>

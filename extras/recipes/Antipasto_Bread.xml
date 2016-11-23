@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antipasto Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Loaves frozen bread dough thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar mixed colored peppers in oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Provolone sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Salami</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Pepperoni</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oregano</item></ing></ingredients>
+    <directions>
+      <step>  On a lightly floured surface, roll bread dough out, 1 at a time, to 14x8
+  inch rectanges.  Brush rolled dough with beaten egg. Use half of the
+  ingredients per loaf. Arrange ingredients on bread doutyh. Stretch dough
+  and bring down top; bring up bottom of dough and roll in jelly-roll
+  fashion.  Seal edges and ends with egg wash. Place on bakin gsheet. Repeat
+  second loaf. Cool loaves loosely with towel and let rise about 30 minutes.
+  Brush and seal with egg wash.  Bake 30 minutes at 350F.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Soup</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Mar95</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dill</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Rice milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Salt to taste</item></ing></ingredients>
+    <directions>
+      <step>  Cut potatoes into small pieces.  In an approximately 3 qt. saucepan, boil
+  potatoes until extremely tender.  While this is happening, wash asparagus.
+  Remove woody ends.  Cut into 1" sections, setting aside tips.  Add non-tip
+  sections to potato pot and cook until asparagus has gone beyond bright
+  green to olive green (but not brown
+  :)).  Add dill.  Asparagus should be soft enough to mash along with
+  potatoes, in the cooking water.  Don't throw out any of the cooking water.
+  
+  lightly brown flour in a small saucepan and allow to cool somewhat before
+  adding rice milk.  Add liquid gradually to make a smooth pseudo-roux and
+  add the roux to the soup. Add the asparagus tips and continue cooking the
+  soup just until they are tender and bright green. Salt to taste. Yum.
+  
+  Source: Apparent Original
+  
+  Posted by cgibas@cysteine.ncsa.uiuc.edu (Cynthia Gibas) to the Fatfree
+  Digest [Volume 16 Issue 12] Mar. 16, 1995.
+  
+  Individual recipes copyrighted by originator. FATFREE Recipe collections
+  copyrighted by Michelle Dick 1995. Formatted by Sue Smith,
+  SueSmith9@aol.com using MMCONV. Archived through kindness of Karen
+  Mintzias, km@salata.com.
+  
+  1.80á
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

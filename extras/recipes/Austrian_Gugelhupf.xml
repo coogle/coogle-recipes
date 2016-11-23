@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Austrian Gugelhupf</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk, warm (110 F to 115F)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Yeast, active dry packages</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, all-purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter or margerine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Light raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Currants</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Orange peel, finely shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds, whole blanched</item></ing></ingredients>
+    <directions>
+      <step>  Place warm milk in a medium mixing bowl.  Sprinkle yeast over milk. Add 1/2
+  cup flour.  Beat with a large spoon about 1 minute. Cover and let rise in a
+  warm place until almost double (40 minutes). In a large mixer bowl beat
+  butter and sugar until light and fluffy. Add the eggs, one at a time,
+  mixing well after adding each. Stir in yeast mixture, raisins, currants,
+  orange peel and salt.  Gradually stir in the remaining 3-1/2 cups flour.
+  Lightly grease and flour a 9-cup gugelhupf mold or 12-cup fluted tube pan.
+  Arange whole almonds in a design in the bottom of the pan. Carefully spoon
+  batter over almonds.  Cover and let rise in a warm place until almost
+  double (about 1 hour).  Bake in a 350 F oven about 40 minutes. If necessary
+  cover top with foil the last 15 minutes of baking time to prevent over
+  browning.  Remove from pan.  Cool on wire rack. Before serving, sift
+  powdered sugar over cake.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

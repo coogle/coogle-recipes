@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balkan Cornmeal Mush (Polenta)</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Stone ground corn meal</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped fresh dill</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Crumbled feta cheese</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Tomato sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Lemon; juice of</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh ground black pepper.</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Boil water and salt.  add stone ground corn meal, cook several minutes.
+  Stir in chopped fresh dill and feta cheese.
+  
+   Serve topped with tomato sauce, adjusted as follows: To 1 cup tomato sauce
+  add the juice of 1/2 lemon plus fresh ground black pepper.
+  
+   This recipe comes from "Blue Corn and Chocolate," a great cook book
+  featuring New World ingredients (corn, pumpkin, tomatoes, peanuts,
+  chocolate, vanilla) as used around the world.
+  
+  ROSY@ALUMNI.CALTECH.EDU
+  
+  (ROSEMARY MACEDO)
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

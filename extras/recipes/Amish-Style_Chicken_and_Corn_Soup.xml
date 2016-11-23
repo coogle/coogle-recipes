@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amish-Style Chicken and Corn Soup</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Poultry</cat>
+        <cat>Vegetables</cat>
+        <cat>Casseroles</cat>
+        <cat>Soups</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Stewing hen or fowl;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>quarts</unit></amt>
+        <item>Chicken stock or broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Carrots; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery; coarsely chopped;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Saffron threads; (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Corn kernels; (fresh/frozen)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley; fresh chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Egg noddles; cooked</item></ing></ingredients>
+    <directions>
+      <step>  Combine stewing hen with chicken stock, coarsely chopped onions, carrots,
+  celery, and saffron threads. Bring the stock to a simmer. Simmer for about
+  1 hour, skimming the surface as necessary.Remove and reserve the stewing
+  hen until cool enough to handle; then pick the meat from the bones. Cut
+  into neat little pieces. Strain the saffron broth through a fine sieve.
+  (Note: The soup can be made through this step in advance. Simply
+  frefrigerate broth and diced chicken meat for 2 to 3 days, or freeze the
+  broth and the chicken meat in separate convenienly sized containers. Be
+  sure to label and date them. To use, defrost, remove congealed fat, return
+  the broth full boil, and add the diced meat. Continue with recipe.) Add the
+  corn, celery, parsley, and cooked noodles to the broth. Return the soup to
+  a simmer and serve immediately.
+  
+  Food Exchanges per serving:  1 LEAN-MEAT EXCHANGE + 2 VEGETABLE EXCHANGES
+  CAL: 11O; CAR: 10g; PRO: 13g; CHO: 25mg; SOD: 65mg; FAT: 2g;
+  
+  Source: Diabetes Forecast Dec 1993
+  
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

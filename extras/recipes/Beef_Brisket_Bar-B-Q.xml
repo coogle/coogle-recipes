@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Brisket Bar-B-Q</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Boneless beef brisket; well-trimmed; 4 to 5 lb</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Liquid smoke</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf; crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Rub meat with salt. Place in ungreased baking dish (13x9x2). Stir together
+  remaining ingredients and pour over meat. Cover tightly with foil and bake
+  in slow oven (325 degrees) for 3 hours or until tender. Open foil during
+  the last 45 minutes to allow it to brown a bit.
+  
+  Mary Ann's note: I think the liquid smoke adds that Texan authenticity that
+  distinguishes this from the ordinary - and the long slow cooking.
+  
+  Date: Wed, 26 Jun 1996 19:54:43 -0400 (EDT)
+  
+  From: Mary Ann Young &lt;maryann4@prolog.net&gt;
+  
+  MM-Recipes Digest V3 #179
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

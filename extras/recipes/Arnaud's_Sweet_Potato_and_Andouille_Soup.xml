@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arnaud's Sweet Potato and Andouille Soup</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Whole butter; divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Andouille sausage; medium dice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Sweet potatoes; medium dice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Onions; medium dice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried whole thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Praline liqueur</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>ounces</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream</item></ing></ingredients>
+    <directions>
+      <step>  1. Render Andouille sausage in 1 oz. butter.
+  
+  2. Add onions, saute until translucent.
+  
+  3. Add dried thyme and sweet potatoes, saute for 5 minutes.
+  
+  4. Deglaze pan with praline liqueur.
+  
+  5. Add chicken stock and brown sugar.
+  
+  6. Bring to a boil, reduce heat and simmer for 45 minutes.
+  
+  7. Puree in a blender, finishing with heavy cream, 1 oz. whole butter and
+  salt. Serve hot.
+  
+  Notes: Yield:6 servings (6 cups)
+  
+  Posted to recipelu-digest Volume 01 Number 179 by jecraig@lan-inc.com on
+  Oct 29, 97
+ 
+</step></directions></recipe></recipeml>

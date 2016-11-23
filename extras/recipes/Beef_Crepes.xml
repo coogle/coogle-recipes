@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Crepes</title>
+      <categories>
+        <cat>Main course</cat>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Crepes</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Ground beef</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Onion; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Tomatoes; peeled, seeded and chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic; crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chopped parsley</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chopped green olives</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chopped green bell pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Mushrooms; coarsely chopped and sprinkled with lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Nutmeg</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Tomato sauce and bechamel</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Parmesan cheese</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Brown beef in oil. Stir in the onions and cook until they start to change
+  color. Add mushrooms and garlic and cook until liquid has evaporated.
+  Season with salt, pepper and a pinch nutmeg Add the tomatoes and the bell
+  peppers and cook stirring 3 minutes. Turn down heat, cover pan and simmer45
+  minutes to 1 hour, adding a little water if it starts to dry out. Add the
+  olives and the parsley , bring to a boil and turn off heat. Place about 1
+  tbs of the filling into each crepe, roll them up and place them into a
+  buttered baking dish. Cover with tomatosauce and bechamel. Sprinkle
+  Parmesan cheese Bake at 350 for 25 minutes or until heated through.
+  
+  Recipe by: : Miriam Podcameni Posvolsky
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Leon &amp; Miriam
+  Posvolsky &lt;miriamp@pobox.com&gt; on Nov 04, 1997
+ 
+</step></directions></recipe></recipeml>

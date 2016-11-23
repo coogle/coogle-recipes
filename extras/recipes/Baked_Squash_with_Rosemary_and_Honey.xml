@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Squash with Rosemary and Honey</title>
+      <categories>
+        <cat>Seasonings</cat>
+        <cat>Side dish</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Butternut squash, cleaned cut in 6 serving pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Softened butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Fresh rosemary finely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375 F.
+  
+  Place squash pieces cut side down in a greased baking pan. Bake 35 minutes
+  until softened.  Turn squash over.
+  
+  Combine butter, honey and rosemary and spread a spoonful of the mixture
+  over each squash piece.  Bake for 20 minutes longer, until bubbly and
+  tender.
+  
+  Shepherd writes:  "Rosemary, honey and butter make the squash both sweet
+  and savory, a delicious flavor combination."
+  
+  Recipe developed by Renee Shepherd and Fran Raboff. From 1992 "Shepherd's
+  Garden Seeds" catalog.  Pg. 40. Posted by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

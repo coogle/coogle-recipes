@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Recipes - Master Chefs</title>
+      <categories>
+        <cat>Information</cat>
+        <cat>Masterchefs</cat>
+        <cat>Newyork</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>In</qty>
+          <unit>my</unit></amt>
+        <item>attempt to type out the recipes of the Master Chefs books</item></ing></ingredients>
+    <directions>
+      <step>  series, I've run across some "basic" recipes that run through all of the
+  books.  They are the "stock" recipes that are common to all cooking, and
+  I'm sure you have these.  But just in case (and for my own files) I
+  typed them out anyway.
+  
+   Here (and in subsequent messages) are the recipes for:
+  
+    Recipe #  01     Almond Meringue - Master Chefs
+    Recipe #  02     Apple Puree - Master Chefs
+    Recipe #  03     Beef Stock - Master Chefs
+    Recipe #  04     Bordelaise Sauce - Master Chefs
+    Recipe #  05     Brown Chicken Stock - Master Chefs
+    Recipe #  06     Champagne Cabbage - Master Chefs
+    Recipe #  07     Chicken Stock - Master Chefs
+    Recipe #  08     Chili-Corn Sauce - Master Chefs
+    Recipe #  09     Chocolate Cake - Master Chefs
+    Recipe #  10     Chocolate Leaves - Master Chefs
+    Recipe #  11     Chocolate Mousse - Master Chefs
+    Recipe #  12     Chocolate Rum Cream - Master Chefs
+    Recipe #  13     Clarified Butter - Master Chefs
+    Recipe #  14     Court Bouillon - Master Chefs
+    Recipe #  15     Cranberry Relish - Master Chefs
+    Recipe #  16     Crepe Batter - Master Chefs
+    Recipe #  17     Creme Anglaise - Master Chefs
+    Recipe #  18     Duck Stock - Master Chefs
+    Recipe #  19     Duxelles Stuffing - Master Chefs
+    Recipe #  20     Fritter Batter - Master Chefs
+    Recipe #  21     Gorgonzola Polenta - Master Chefs
+    Recipe #  22     Hazelnut Praline Buttercream - Master Chefs
+    Recipe #  23     Lamb Stock - Master Chefs
+    Recipe #  24     Lobster Butter - Master Chefs
+    Recipe #  25     Pheasant Stock - Master Chefs
+    Recipe #  26     Puff Pastry - Master Chefs
+    Recipe #  27     Quick Puff Pastry - Master Chefs
+    Recipe #  28     Raspberry Sauce - Master Chefs
+    Recipe #  29     Roast Beet Puree - Master Chefs
+    Recipe #  30     Rum Cream - Master Chefs
+    Recipe #  31     Salsa Verde - Master Chefs
+    Recipe #  32     Spicy Sesame Sauce - Master Chefs
+    Recipe #  33     Sweet Onion Sauce - Master Chefs
+    Recipe #  34     Veal Glaze - Master Chefs
+    Recipe #  35     Veal Stock - Master Chefs
+  
+        I hope some of you will be able to get SOMEthing out of these
+  recipes.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-ny.zip
+ 
+</step></directions></recipe></recipeml>

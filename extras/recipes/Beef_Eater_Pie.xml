@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Eater Pie</title>
+      <categories>
+        <cat>Main dish</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Onion &amp; garlic croutons 6 oz</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Hot water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cheddar cheese, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Barbq sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Onion, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Croutons</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Thick tomato slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese, shredded</item></ing></ingredients>
+    <directions>
+      <step>  From a 6 ounce package of onion and garlic croutons, set aside 1 cup. In a
+  small bowl, add hot water and 1 egg to remainder of package. Stir to
+  combine.  Press crouton mixture into greased 9 inch pie pan. Combine ground
+  beef, cheese, barbq sauce, egg, onion and croutons. Press into croutons
+  crust.  Place tomato slices on top and bake at 400 degrees for 25 to 30
+  minutes.  Top with cheese and bake 2 minutes longer. Serve with a salad.
+  Randy Rigg
+ 
+</step></directions></recipe></recipeml>

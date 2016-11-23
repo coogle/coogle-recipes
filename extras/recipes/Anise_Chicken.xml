@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anise Chicken</title>
+      <categories>
+        <cat>Polkadot</cat>
+        <cat>Lisa</cat>
+        <cat>Chicken</cat>
+        <cat>Rice/pasta</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Anise seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chinese 5 spice powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Uncooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken tenders</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sesame oil</item></ing></ingredients>
+    <directions>
+      <step>  Cut chicken into 1-inch chunks, and fry in sesame oil over high heat, until
+  no longer transparent. Add chicken broth, Worcestershire sauce, anise,
+  Chinese 5 spice, and rice. Bring to a boil, and then lower heat. Cook over
+  medium heat until liquid is all absorbed.
+  
+  Makes 2 servings.
+  
+  Source: Lisa Rodriguez
+  
+  * The Polka Dot Palace BBS 1-201-822-3627. Posted by LISA
+  
+  Posted to MC-Recipe Digest V1 #705 by Lisa Clarke &lt;lisa@gaf.com&gt; on Aug 1,
+  9
+ 
+</step></directions></recipe></recipeml>

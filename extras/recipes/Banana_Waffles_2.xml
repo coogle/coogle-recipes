@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Waffles</title>
+      <categories>
+        <cat/></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bisquick® baking mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Very ripe medium bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans; finely ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk, more or less</item></ing></ingredients>
+    <directions>
+      <step>  Mix together and cook in hot waffle iron.
+  Posted to EAT-L Digest 29 Aug 96
+  
+  Date:    Fri, 30 Aug 1996 08:59:02 -0700
+  
+  From:    Jennifer Wendel &lt;jwendel@REDSHIFT.COM&gt;
+ 
+</step></directions></recipe></recipeml>

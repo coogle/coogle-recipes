@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beauty Spa Express</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Handful parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Carrots; (up to 5)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Handful spinach</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Apple</item></ing></ingredients>
+    <directions>
+      <step>  Funny you should ask about juicing. I just got my juicer out last week and
+  decided to use it. I went to the library and checked out a book named
+  "Juicing for Life" by Cherie Calbom and Maureen Keane. It is a guide to the
+  health benefits of fresh fruits and vegetable juicing. It has alot of
+  recipes for juice combinations. I have been using it for about a week. I
+  think I'm going to like it. Here are a couple of recipes to get you started
+  but you should go check it out.
+  Posted to recipelu-digest Volume 01 Number 490 by mike@comnett.net on Jan
+  10, 1998
+ 
+</step></directions></recipe></recipeml>

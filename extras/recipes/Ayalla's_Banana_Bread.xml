@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ayalla's Banana Bread</title>
+      <categories>
+        <cat>Quick bread</cat>
+        <cat>Usenet</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas, very ripe</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening (butter)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Yoghurt or sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Walnuts, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rum, vanilla, or amaretto (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 350 degrees F.  Cream the shortening and sugar. Mix in
+  the bananas.  Mix in the remaining ingredients. Pour into a greased loaf
+  pan. Bake 1 hour 15-20 minutes at 350 degrees F.
+  
+  NOTES:
+  
+  *  This recipe is from my friend Ayalla -- It makes a heavy, but moist,
+  loaf of banana bread.
+  
+  *  If you use more than 3 normal-size bananas, I suggest that you lower the
+  oven temperature and cook for a while longer. Otherwise, the crust comes
+  out almost overcooked while the middle remains moist and almost
+  undercooked.
+  
+  : Difficulty:  easy.
+  : Time:  Preparation:  10 minutes; baking:  at least 95 minutes. Allow some
+  time for cooling.
+  : Precision:  Approximate measurement OK.
+  
+  : Aviva Garrett
+  : Santa Cruz, California, USA
+  : (Excelan, Inc., San Jose)
+  : ucbvax!mtxinu!excelan!aviva
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

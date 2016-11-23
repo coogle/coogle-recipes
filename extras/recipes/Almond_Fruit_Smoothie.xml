@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Fruit Smoothie</title>
+      <categories>
+        <cat>Almonds</cat>
+        <cat>Lowfat</cat>
+        <cat>Meatless</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Frozen peaches</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Peeled banana; cut into 1" chunks and frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Slivered almonds; toasted *</item></ing></ingredients>
+    <directions>
+      <step>  Add juice to electric blender, then add remaining ingredients. Blend until
+  smooth.
+  
+  Servings: 1 (2-cup) or 2 (1 cup)
+  
+  * To toast almonds, spread in an ungreased baking pan. Place in 350 degree
+  oven for 5 to 10 minutes or until almonds are light brown; stir once or
+  twice to ensure even browning. Note that almonds will continue to brown
+  slightly after removing from oven.
+  
+  (PER SERVING: 354 Calories; 10 g Fat; 0 mg Cholesterol; 5 mg Sodium; 66 g
+  Carbohydrate; 7 g Fiber; 7 g Protein.)
+  
+  See http://www.almondsarein.com/ &gt;Hanneman/Buster/MasterCook 1998/Ap
+  
+  Recipe by: Almond Board of California
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Apr 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

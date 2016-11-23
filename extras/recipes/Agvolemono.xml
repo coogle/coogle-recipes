@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Agvolemono</title>
+      <categories>
+        <cat>Ethnic</cat>
+        <cat>Soups</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Chicken</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Long grain rice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon; juice of</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped parsley</item></ing></ingredients>
+    <directions>
+      <step>  1.Cook chicken in broth 2. Drain chicken and dice pieces. 3. Return chicken
+  to broth, add rice and simmer until rice is cooked. Check salt and pepper
+  4.Beat eggs and lemon well . 5. Pour a ladle of the soup onto the egg/lemon
+  mixture 6. Return to pot 7. Bring almost o a boil 8. Serve sprinkled with
+  chopped parsley
+  
+  Recipe by: Miriam Podcameni Posvolsky
+  
+  Posted to TNT Recipes Digest by Leon &amp; Miriam Posvolsky &lt;miriamp@pobox.com&gt;
+  on May 02, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Bulgur Breakfast</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Nuts/grains</cat>
+        <cat>Fruits</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Dried apple rings;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Heaped bulgur;</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cup natural yogurt =OR=-</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Fromage frais;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>A little artifical sweetener (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Mix the apple and bulgur in a bowl, then stir in the yogurt or formage
+  frais and half the milk.  Cover and set aside for 30 minutes, or
+  until the bulgur is softened and swollen.  The grain should stillhave
+  some bite, although it can be left covered in the refrigerator
+  overnight.  Stir well and add extra milk necessary to make the
+  mixture creamy.  The mixture can be sweetened with artificial
+  sweetener if liked.
+  
+  Very the fruit, if you like, or add fresh fruit to the plain soaked
+  bulgar.
+  
+  Food Exchanges were not listed.
+  Source:  The Diabetic Cookbook by Bridget Jones.
+  
+  Brought to you and yours via Nancy O'Brion and Her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

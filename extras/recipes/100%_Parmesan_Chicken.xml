@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>100% Parmesan Chicken</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Chicken</cat>
+        <cat>Cheese</cat>
+        <cat>Breads</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Boneless, chicken breast</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Halves (about 2 pounds)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parkay Margarine, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>(2 oz) Kraft 100% Grated</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parmesan Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dry bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Each dried oregano leaves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>And parsley flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Each paprika, salt and black</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 400-degrees F.  spray 15X10X1-inch baking
+  pan with no stick cooking spray.
+  
+  Dip chicken in margarine; coat with combined remaining
+  ingredients. Place in prepared pan.
+  
+  Bake 20 to 25 minutes or until tender.
+  
+  Makes 6 servings.
+  
+  SPICY: sutstitute 1/8 to 1/4 teaspoon gorund red
+  pepper fro black pepper.
+  
+  Prep time 5 minutes
+  
+  Cooking time 25 minutes
+ 
+</step></directions></recipe></recipeml>

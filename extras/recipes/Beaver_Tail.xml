@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beaver Tail</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Beaver tail</item></ing></ingredients>
+    <directions>
+      <step>  Roast beaver tail over campfire, cut it open and pull the skin off. (This
+  makes a very rich meat.)
+  
+  :source: Yukon Cookbook by Leona Kananen
+  
+  Posted to MealMaster Recipes List, Digest #155
+  
+  Date: Mon, 3 Jun 1996 19:32:20 -0700
+  
+  From: Joyce Verkerk &lt;joycverk@mars.ark.com&gt;
+ 
+</step></directions></recipe></recipeml>

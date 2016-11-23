@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana and Blueberry Bread (Corrected)</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cup brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Equal; (sugar substitute)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins; (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Self raising; wholemeal flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(425g) of blueberries; drained</item></ing></ingredients>
+    <directions>
+      <step>  Mash bananas, sugars and vanilla together. Add remaining ingredients
+  (blueberries last). Pour into sprayed loaf tin and bake for at least one
+  hour at 160 degrees C or 320 degrees F. Or use muffin tins and bake for
+  less time. Remove from pan and let cool before cutting.
+  Posted to fatfree digest by cctlg@cc.newcastle.edu.au (Terri Nowak) on Apr
+  23, 1998
+ 
+</step></directions></recipe></recipeml>

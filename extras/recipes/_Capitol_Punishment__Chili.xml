@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Capitol Punishment" Chili</title>
+      <categories>
+        <cat>Chili</cat>
+        <cat>Wp</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>MSG (monosodium glutamate)</item></ing>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chili powder, light</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Beef bouillon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(instant, crushed)</item></ing>
+      <ing>
+        <amt>
+          <qty>24</qty>
+          <unit>ounces</unit></amt>
+        <item>Old Milwaukee beer</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Extra lean chuck,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chili grind</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Extra lean pork,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chili grind</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Extra lean chuck,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cut into 1/4" cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Large onions, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Cloves garlic,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Wesson oil or kidney suet</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mole (powdered),</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Also called mole poblano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Coriander seed (from Chinese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley, cilantro)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Louisiana Red Hot Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(Durkee's)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Masa Harina flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing></ingredients>
+    <directions>
+      <step>   In a large pot, add paprika, oregano, MSG, chili powder, cumin, beef
+  bouillon, beer and 2 cups water.  Let simmer.
+  
+   In a separate skillet, brown meat in 1 lb. or 1 1/2 lb. batches with
+  Wesson oil or suet.  Drain and add to simmering spices.  Continue
+  until all meat is done.
+  
+   Saute chopped onion and garlic in 1 T. oil or suet.  Add to spices
+  and meat mixture.  Add water as needed.  Simmer 2 hours.  Add mole,
+  sugar, coriander seed, hot sauce and tomato sauce.  Simmer 45 min.
+  
+   Dissolve masa harina flour in warm water to form a paste.  Add to
+  chili.  Add salt to taste.  Simmer for 30 minutes.  Add additional
+  Louisiana Hot Sauce for hotter taste.
+  
+   Makes 1 pot.
+  
+  These recipes were posted to the fidonet COOKING echo by Wesley Pitts
+  in August 1993, and edited for Meal-master import by David Harmon.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/chili15.zip
+ 
+</step></directions></recipe></recipeml>

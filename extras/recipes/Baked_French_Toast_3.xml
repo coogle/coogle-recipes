@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked French Toast</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Breakfast</cat>
+        <cat>Healthy and</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cottage Cheese; Lowfat</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Skim Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Egg White</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Bread Slices; whole grain</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 425 degrees. In a food processor or blender, whirl the
+  cottage cheese, milk, sugar, egg, egg white and vanilla for about 1 minute
+  or until smooth. Transfer the mixture to a shallow dish, place the bread in
+  it, and let stand for 10 minutes. Turn the bread over and let stand another
+  10 minutes. Meanwhile, grease a baking dish and place it in a preheated
+  oven for 7 minutes.
+  
+  2.Remove the baking sheet from the oven, place the bread on it and bake for
+  6 minutes. Turn the bread over and bake 5-6 minutes more or until golden
+  brown. Makes 4 servings
+  Posted to MC-Recipe Digest V1 #831 by slhire@juno.com (Sandra L Hire) on
+  Oct 8, 1997
+ 
+</step></directions></recipe></recipeml>

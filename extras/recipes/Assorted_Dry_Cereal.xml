@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Assorted Dry Cereal</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>100</qty>
+          <unit>packages</unit></amt>
+        <item>CEREAL DRY ASSOR 70 PG</item></ing></ingredients>
+    <directions>
+      <step>  Recipe Number: X20010
+  
+  SERVING SIZE: 1 PACKAGE
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

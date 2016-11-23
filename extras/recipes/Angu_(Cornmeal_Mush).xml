@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angu (Cornmeal Mush)</title>
+      <categories>
+        <cat>Cereal</cat>
+        <cat>Brazil</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>INGREDIENTS:</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Clove garlic, minced (2 tsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion, finely chopped (about 1/4 cup)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water (to 3 cups)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; fresh ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fine (stone ground) cornmeal</item></ing></ingredients>
+    <directions>
+      <step>  Servings: 6 to 8 Notes: Angu (pronounced "aing goo") is a sort of polenta,
+  one of the many cooked starch pastes one finds in Brazil. For best results,
+  use a fine, stone ground cornmeal.
+  
+  DIRECTIONS: Heat the oil in a large saucepan. Cook the garlic and onion
+  over medium heat for 2 to 3 minutes or until soft but not brown. Add 2 cups
+  water and bring to a rapid boil.
+  
+  Add the cornmeal in a thin stream through your fingers, stirring vigorously
+  to prevent lumps. The mixture should be the consistency of choux pastry or
+  soft ice cream. If too thick, make a hole in the angu with a wooden spoon
+  and stir in a little cold water. Reduce the heat to low and gently simmer
+  for 3 to 4 minutes. Correct the seasoning and serve at once.
+  
+  Note: For a prettier presentation, the angu can be spooned into a thickly
+  buttered tube pan and unmolded onto a platter. (Picture in magazine shows
+  that a fluted tube pan was used, and the center of the unmolded angu was
+  filled with flat leaf parsley- or cilantro?
+  
+  Source: Yankee magazine, April 1991, recipe from Belita de Castro-
+  Brazilian cook, cookbook author.
+  
+  From: Sallie Austin
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/kids.zip
+ 
+</step></directions></recipe></recipeml>

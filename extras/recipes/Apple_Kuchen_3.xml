@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Kuchen</title>
+      <categories>
+        <cat>All newly t</cat>
+        <cat>Desserts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>large</unit></amt>
+          <item>Baking apples; pared and sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar; divided</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>All pupose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Baking powder</item></ing></ing-div>
+      <ing-div>
+        <title>VANILLA SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Cold water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Arrange apples in a 13x9x2 inch baking pan. Combine cinnamon and 1/2 cup
+  sugar. Reserve 1 tablespoon; sprinkle remaining mixture over apples. In a
+  mixing bowl, combine butter, milk, remaining sugar, flour and baking
+  powder. Drop by tablespoonfuls over apples; sprinkle reserved
+  cinnamon/sugar on top. Bake at 350 for 35-40 minutes or until golden brown.
+  Meanwhile, for sauce, combine sugar, cornstarch, salt and water in a
+  saucepan. Cook, stirring constantly, over medium heat until thick. Remove
+  from heat; add butter and vanilla. Serve sauce and kuchen warm. Yield 10-12
+  servings.
+  
+  Recipe by: Taste of Home
+  
+  Posted to MC-Recipe Digest V1 #838 by L979@aol.com on Oct 12, 1997
+ 
+</step></directions></recipe></recipeml>

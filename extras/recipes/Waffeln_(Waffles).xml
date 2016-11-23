@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waffeln (Waffles)</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vanilla flavor; (to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>13</qty>
+          <unit>ounces</unit></amt>
+        <item>Sifted flour</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioners sugar</item></ing></ingredients>
+    <directions>
+      <step>  Cream the butter and add the sugar, vanilla flavor, cinnamon, and egg
+  yolks. Stir until the sugar is melted. Add the sifted flour and milk. Mix
+  well. Fold in the stiffened egg whites. Bake in a waffle iron until golden
+  brown. Sprinkle with confectioners sugar.
+  
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 24, 1998
+ 
+</step></directions></recipe></recipeml>

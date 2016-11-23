@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Green Tomatoes</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Harned 1994</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>large</unit></amt>
+        <item>Green tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Coarse butter-cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sticks butter</item></ing></ingredients>
+    <directions>
+      <step>  Cut tomatoes in half and arrange in an oiled shallow casserole. Season with
+  salt and pepper and spread each with a tablespoon of sugar. Cover with
+  crumbs and dot with butter.  Bake at 350 F until tender but still firm -
+  the time will depend on the size and greenness of the tomatoes - but will
+  probably range from 30 to 40 minutes.
+  
+  Note: 1/2" slices may be baked in this same manner.  Bake 25 minutes.
+  
+  From "The Farmington Cookbook."  Louisville, KY: Farmington, 1968. Pg. 167.
+  Posted by Cathy Harned.
+  Posted to EAT-L Digest 18 Sep 96
+  
+  Date:    Thu, 19 Sep 1996 09:40:38 -0500
+  
+  From:    LD Goss &lt;ldgoss@METRONET.COM&gt;
+ 
+</step></directions></recipe></recipeml>

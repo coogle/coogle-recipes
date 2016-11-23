@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apple Slices</title>
+      <categories>
+        <cat>Apples</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Baking apples; peeled, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple cider</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; -or-</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vanilla ice cream</item></ing></ingredients>
+    <directions>
+      <step>  Place apples in a greased 1 quart baking dish.  Combine sugar, cinnamon,
+  nutmeg, ginger and apple cider; pour over apples.  Dot with butter.
+  Sprinkle with nuts or raisins. Bake, uncovered, at 350 for 45 - 60 minutes
+  or until apples are tender.  Serve warm over ice cream.  Source:  Taste of
+  Home Magazine.
+  Recipe By     : Sue Klapper
+  
+  Posted to MC-Recipe Digest V1 #298
+  
+  Date: Tue, 12 Nov 1996 08:31:46 -0600 (CST)
+  
+  From: zeiss@maxvax.ci.austin.tx.us (Sherry Zeiss)
+ 
+</step></directions></recipe></recipeml>

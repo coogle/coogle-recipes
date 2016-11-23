@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ail Ou Echalotes Confits (Garlic or Shallots in Duck Fat)</title>
+      <categories>
+        <cat>France</cat>
+        <cat>Sauce/gravy</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Shallots</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Graisse de canard (rendered duck fat)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Quatre epices (5 spices)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper, Black, ground</item></ing></ingredients>
+    <directions>
+      <step>  1. Peel the garlic and cut off any green sprouts within. If using shallots,
+  cut off both ends before peeling. Heat the duck fat in a small saucepan
+  over medium flame.
+  
+  2. When the fat is warm, add the garlic or shallots, the quatre epices, and
+  the ground pepper. Cook until they are soft, about 20 minutes for the
+  garlic and 30 minutes for the shallots.
+  
+  3. Remove them from the fat with a slotted spoon and cool on paper towels.
+  If they are not used immediately, they can be refrigerated in a small
+  container for several days.  Do not cover them with fat. Yield - 6 servings
+  as a garnish.
+  
+  [ Per serving: 30 calories, 0 g. protein, 2 g. carbohydrate, 2 g. fat, 2
+  mg. cholesterol, o mg. sodium. Calories from fat: 57% ]
+  
+  [ Original recipe from "Foie Gras, Magret And Other Good Food From
+  Gascony." Authors: Andre Daguin and Anne de Ravel. Downloaded from Food &amp;
+  Wine Round Table of GEnie. ]
+  
+  [ CompuChef conversion and nutritional analysis by Rick Weissgerber. ]
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

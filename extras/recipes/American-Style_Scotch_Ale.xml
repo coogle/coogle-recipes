@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>American-Style Scotch Ale</title>
+      <categories>
+        <cat>Beer</cat>
+        <cat>Brewing</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>British 2-row grain --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Superbrau plain light malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Crystal malt grain</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Chocolate malt grain</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Northern brewer (45 min)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Northern brewer (15 min)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Fuggles (5 min)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Doric acid yeast</item></ing></ingredients>
+    <directions>
+      <step>  Bring 1 1/2 gal water to 160 degrees and stir in crushed grains. Keep the
+  mash temp between 148-152 for 1 hr.  Best way is to place covered brewing
+  kettle in 140 degree oven.  Stir twice while mashing.
+  
+  Test the mash conversion by placing drop of mash onto white plate, then
+  place a drop of iodine into the solution.  If solution turns purple/black
+  you must continue the mash until the solution is clear when the iodine is
+  added.
+  
+  Pour mash thru a strainer, allowing the wort to flow thru into your brew
+  pot. Bring 1-2 gal water to 135-150 degrees. Slowly sparge the grains with
+  sparge water until it runs clear. The sparge water will become part of the
+  boil. At this point you will continue as usual.
+  
+  Dissolve malt extract and brown sugar into wort, add 1 oz northern brewer
+  hops and boil for 45 min.  Add 1/2 oz plug and boil for 15 min more.  For
+  the last 5 min of the boil, add the fuggles pellets. Cool the wort and
+  bring volume up to 5 gal. Pitching temp: 80 or less
+  
+  O.G. 1045-1055 F.G. 1010-1014
+  
+  Recipe By     : Jaspers
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

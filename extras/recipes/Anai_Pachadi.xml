@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anai Pachadi</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Vegetarian</cat>
+        <cat>Indian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Butternut squash</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Green chillies</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Coconut</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Tamarind paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Mustard seeds</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Jaggery/sugar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Turmeric; to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt; to taste</item></ing></ing-div>
+      <ing-div>
+        <title>SEASONING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Mustard seeds</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fenugreek</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Red chilli</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Curry leaves</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Oil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cut squash into inch square and 1/4 inch thick slices. Wash and in about a
+  cup and a half of water, add tamarind paste and sliced squash.
+  
+  Add turmeric, salt and cook on low heat till done.
+  
+  Grind coconut, green chillies, 1/2 teaspoon mustard seeds and stir into
+  cooked squash. Can wash out blender and add this water too.
+  
+  Let mustard seeds splutter in oil, add fenugreek, red chilli, curry leaves
+  and in a couple of minutes pour onto pachadi.
+  
+  Variations:
+  
+  Instead of tamarind paste can use yogurt at the end. Can use cut okra or,
+  okra and eggplant pieces, instead of squash.
+  
+    U15297@uicvm.bitnet (Shyamala Parameswaran)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Sauce, Adapted From Whole Chile Pepper Book</title>
+      <categories>
+        <cat>Bbq</cat>
+        <cat>Sauces</cat>
+        <cat>Loo</cat>
+        <cat>Spices</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Dried red New Mexican chiles, stemmed, seeded crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Dried tepins, pequins, or cayennes, stemmed and crushed (remove seeds if you don't like too much heat)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Pickle relish, optional</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chili powder OR</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika and</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin, and</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Bacon fat or veg. oil</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>White vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Wright's hickory smoke seasoning</item></ing></ingredients>
+    <directions>
+      <step>  Cover the chiles with hot water and let soften for 15 min. Put them
+  in a blender and whirl until smooth with 1 c of the hot water.
+  
+  In a saucepan, saute the onion and garlic in the fat. Add the blended
+  chiles and all the rest of the ingredients. Bring to a boil and lower
+  the heat to low. Simmer 1/2 hour. Cool and then whirl in a blender
+  until smooth.
+  
+  From:    Michael Loo
+  
+  Recipes posted to FIDO COOKING echo by Mike Loo, an excellent cook, between
+  Dec 1, 1944 and Jul 31, 1995. Many are authentic Chinese recipes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mikeloo.zip
+ 
+</step></directions></recipe></recipeml>

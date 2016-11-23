@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Milk</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Fruits</cat>
+        <cat>Mcdougall</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana; peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla extract; optional</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: The New McDougall Cookbook Preparation Time: 0:05 Place all of
+  the ingredients in a blender and process until smooth.
+  From the collection of Sue Smith, S.Smith34, Uploaded June 16, 1994
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mcdougal.zip
+ 
+</step></directions></recipe></recipeml>

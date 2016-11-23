@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Kids</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>To 6 bananas</item></ing></ingredients>
+    <directions>
+      <step>  Split bananas in half lengthwise. Arrange on a bed of lettuce greens.
+  Spread mayonnaise down centers of banana halves; sprinkle with cinnamon;
+  dot with raisins. Quicker than quick!
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/kids.zip
+ 
+</step></directions></recipe></recipeml>

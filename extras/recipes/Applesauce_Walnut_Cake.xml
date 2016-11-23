@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce Walnut Cake</title>
+      <categories>
+        <cat>Box cakes</cat>
+        <cat>Fruits</cat>
+        <cat>Layer cakes</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Butter recipe golden cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine; soften</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Black walnuts; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375~. Grease and flour 2, 9x1 1/2" round cake pans. Put dry
+  cake mix, butter, applesauce, eggs and cinnamon into large mixer bowl. Beat
+  for 4 minutes at medium speed. Stir in black walnuts. Turn batter into pans
+  and spread evenly. Bake for 30-35 minutes. Frost with Mocha Frosting. (see
+  recipe)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

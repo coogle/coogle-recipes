@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Salad</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>White vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper; to taste</item></ing></ing-div>
+      <ing-div>
+        <title>SALAD</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(16 oz) green beans; drained</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(16 oz) yellow wax beans; drained</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(16 oz) kidney beans; rinsed and drained</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(16 oz) garbanzo beans; rinsed and drained</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(4 oz) sliced mushrooms; drained</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Onion; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Rib celery; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit/></amt>
+          <item>Green pepper; seeded and chopped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  DRESSING: Mix together and set aside
+  
+  Salad: Combine all ingredients for the salad. (The garbanzo beans are
+  optional.) Pour dressing over, and mix well. Place in a container with a
+  cover, and let chill in refrigerator for 12 hours or longer. To serve,
+  drain dressing from the salad. Serve on a lettuce leaf with a wedge of
+  hard-boiled egg for garnish.
+  
+  This keeps about 2 weeks in the fridge.
+  
+  Notes: This was my late mother-in-law's recipe. She never added the
+  garbanzo beans, but I do because Kenny loves the nutty flavor they add to
+  this salad. You can add more or less pepper and celery, if desired.
+  
+  One time I drained a can of canneloni (is that right? those white Italian
+  beans that look like kidney beans?)...and that was really good as well.
+  
+  Also note that I usually buy the store brand of veggies...I can't tell the
+  difference between them and their many cents higher name brands with lots
+  of advertising. Posted to EAT-L Digest by "Sharon H. Frye"
+  &lt;shfrye@PEN.K12.VA.US&gt; on Aug 4, 1997
+ 
+</step></directions></recipe></recipeml>

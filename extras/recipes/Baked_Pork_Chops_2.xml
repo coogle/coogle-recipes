@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pork Chops</title>
+      <categories>
+        <cat>Pork</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Pork Chops</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic Clove; Minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Caraway Seeds; Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Hungarian Paprika; Mild *</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper; As Desired</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>White Wine; Dry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour Cream (Optional)</item></ing></ingredients>
+    <directions>
+      <step>  *  Use only Hungarian mild Paprika.  It is available at most larger stores
+  and at specialty shops.
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++
+  Place the pork chops in an ovenproof casserole.  Mix the remaining
+  ingredients, except sour cream, and pour over the chops.  Marinate the
+  chops 2 to 3 hours in the refrigerator.  Bake the chops, uncovered, in the
+  marinade in a preheated 325 degree F. oven for 1 hour or until tender. Add
+  more wine if necessary.  Stir sour cream into pan juices and heat through
+  but DO NOT boil.  Serve chops with sour-cream gravy and buttered noodles or
+  dumplings.
+ 
+</step></directions></recipe></recipeml>

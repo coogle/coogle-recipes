@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Spinach and Cheese</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cottage cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs -- beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter -- melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Swiss cheese -- grated</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen spinach -- thaw,drain</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chop</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing></ingredients>
+    <directions>
+      <step>  A crustless quiche of spinach, with Swiss and cottage cheeses. This is
+  always a favorite, and is so versatile it can be used in a number of
+  different settings - as a vegetable, for luncheon, as an entree, or even as
+  a first course. When teamed up with a tomato salad and crusty peasant
+  bread, it makes a light, yet filling repast.
+  
+  1. Preheat the oven to 350F degrees. Butter a 1-1/2 quart casserole.
+  
+  2. Combine the cottage cheese, eggs, butter and Swiss cheese in a large
+  mixing bowl.
+  
+  3. Add the spinach and flour and blend thoroughly.
+  
+  4. Transfer the quiche mixture to the prepared casserole. (The pudding may
+  be prepared 6 to 8 hours in advance up to this point and refrigerated.
+  Return to room temperature before baking.) 5. Bake for 60 minutes until the
+  custard sets. Let cool for 10 minutes before cutting into portions and
+  serving
+  
+  6 to 8 side-dish portions; 4 to 6 luncheon portions
+  
+  Recipe By     : The Uncommon Gourmet by Ellen Helman
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

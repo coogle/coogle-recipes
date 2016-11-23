@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Curried Tomatoes</title>
+      <categories>
+        <cat>Side</cat>
+        <cat>Tomato</cat>
+        <cat>Vegetable</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>large</unit></amt>
+        <item>Ripe tomatoes; skinned and stem ends removed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Curry powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Currant jelly</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sharp Cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crisp-cooked bacon bits (optional)</item></ing></ingredients>
+    <directions>
+      <step>     Preheat oven to 400 degrees F.
+     Cut deep, narrow holes in the tomatoes (be careful not to go all the way
+  through). Place the tomatoes in a buttered baking dish.
+     Combine the tomato sauce, curry powder and currant jelly in saucepan.
+  Heat 5 minutes, pour over tomatoes (particularly inside the hollows) and
+  bake 15 minutes.
+     Remove tomatoes from oven. Then turn on broiler.
+     Sprinkle cheese, bread crumbs and bacon (if used) over tomatoes and
+  place under broiler to brown.
+  
+  _Classic American Cooking_  Pearl Byrd Foster, 1983 Simon &amp; Schuster ISBN
+  0-671-44303-8   Typos by Jeff Pruett
+  Posted to recipelu-digest by GramWag &lt;GramWag@aol.com&gt; on Mar 18, 1998
+ 
+</step></directions></recipe></recipeml>

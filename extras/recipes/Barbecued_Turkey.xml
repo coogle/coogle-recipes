@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Turkey</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>pounds</unit></amt>
+        <item>Hen turkey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rosemary and oregano sprigs for garnish</item></ing></ingredients>
+    <directions>
+      <step>  Here's one -- I don't know the name of where it came from, but here's the
+  URL http://bpe.com/food/recipes/ferrary/index.html
+  
+  Low-Fat, High-Flavor Dining (This must be a winter menu.) An All-American
+  Lowfat Feast by Lou Seibert Pappas
+  
+  Wash the turkey inside and out and pat dry. Rub the entire surface as well
+  as the cavity with lemon juice and sprinkle with salt and pepper. Place the
+  turkey breast side up on the grill of a barbecue over medium hot coals,
+  cover with a kettle lid, and barbecue until a meat thermometer registers
+  170 degrees F, about 3 to 3 1/2 hours. Transfer to a board. Let the turkey
+  rest for 15 to 20 minutes before carving. Garnish the platter with a wreath
+  of rosemary and oregano.
+  
+  Makes about 12 servings.
+  
+  Posted to recipelu-digest by SuzyWert@aol.com on Feb 19, 1998
+ 
+</step></directions></recipe></recipeml>

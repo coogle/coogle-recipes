@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Pepper Jelly</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen apple juice; thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Powdered fruit pectin; 1 pk</item></ing>
+      <ing>
+        <amt>
+          <qty>3 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Red pepper; crushed,to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red food coloring</item></ing></ingredients>
+    <directions>
+      <step>  Stir the water, apple juice concentrate and pectin in a 3-quart saucepan,
+  until the pectin is dissolved. Heat to boiling, stirring constantly. Add
+  the sugar and red pepper then heat to a rolling boil, stirring constantly.
+  Remove from the heat and strain.  Add the red food color. Immediately pour
+  into hot sterilized jars or glasses or freezer containers. Cover tightly
+  and cool.  Refrigerate no longer than 4 weeks or freeze no longer than 2
+  months.  Serve with meat. Makes 4 half pints of jelly. GRAPE JELLY:
+  Substitute 1 can (6 oz) of frozen grape juice concentrate for the apple
+  juice concentrate.  Omit the red pepper and food color. TANGERINE JELLY:
+  Substitute 1 can (6 oz) frozen tangerine juice concentrate for the apple
+  juice concentrate. Omit red pepper and food color.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

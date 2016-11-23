@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Auntie Yuan Duck Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>ROAST DUCK</title>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>pounds</unit></amt>
+          <item>Duckling; excess fat removed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Soy Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Peppercorns; Szechwan, coarsely ground</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Vinegar; Chinese, rice</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Mustard; dry</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pepper; white, ground</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Garlic; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Soy Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Stock; chicken **</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Vinegar; Chinese, rice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Oil; vegetable</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Oil; vegetable (for deep fat frying)</item></ing>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>ounces</unit></amt>
+          <item>Mai fun; (rice sticks)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Lettuce; iceberg, shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Scallions; slivered (garnish)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cilantro (coriander) (garnish)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sesame seeds; lightly toasted</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  ** See recipes for Chicken Stock.
+  
+  For Roast Duck: Preheat the oven to 400 F. Rub some soy sauce, salt and
+  pepper into the cavity of the duck and place the duck on a rack in the
+  roasting pan. Stir together the honey and the vinegar and brush some over
+  the duck. Roast the duck until crisp and golden, about 1 hour, occasionally
+  brushing with honey-vinegar mixture. Cool.
+  
+  With a sharp knife, remove the skin from each side of the breast and cut
+  into thin slivers.  Remove the meat from each side of the breast and cut it
+  into thin slivers.  Combine the slivers of skin and the slivers of duck,
+  reserve 1 cup.  The remainder of the duck can be saved for another use.
+  
+  For Dressing: In a small bowl, blend together the dressing ingredients and
+  set aside.
+  
+  In a wok or wide casserole, heat 2 inches of vegetable oil over high heat
+  to 450 F. Carefully, add mai fun noodles, in a few seconds they will puff.
+  Turn carefully with a skimmer and cook the other side. Remove the noodles
+  and drain on paper towels.
+  
+  Break up the noodles and arrange them on 4 chilled serving plates.  Scatter
+  shredded lettuce over the noodles and top with the reserved duck.  Garnish
+  with scallions and cilantro.  Stir dressing and drizzle a small amount over
+  each salad.  Sprinkle with sesame seeds and serve, passing remaining
+  dressing separately.
+  
+  Source:  New York's Master Chefs, Bon Appetit Magazine, Written by Richard
+  Sax, Photographs by Nancy McFarland, The Knapp Press, Los Angeles, 1985
+  
+  Chef: Simon Teng, Auntie Yuan Restaurant, New York Co-Owner: Ed Schonfeld
+  Co-Owner: David Keh
+  
+  Date:    6/28/96 7:27 AM
+  
+  From: dlassiter@atsva.com
+  
+  MC-Recipe Digest V1 #133
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

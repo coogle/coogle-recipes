@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baba Gannouj</title>
+      <categories>
+        <cat>Side dish</cat>
+        <cat>Snacks</cat>
+        <cat>Breakfast</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Eggplants</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 1 1/2 lemons</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Finely chopped parsley, green peppers &amp; green onions</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pita bread</item></ing></ingredients>
+    <directions>
+      <step>  Wash eggplant &amp; pierce at intervals with a fork.  Set on a baking dish &amp;
+  broil close to heat for 20 minutes. Peel &amp; sprinkle quickly with half the
+  lemon juice. Cool &amp; chop finely. Using a small bowl, combine the remaining
+  ingredients.  Stir into eggplant &amp; refrigerate. Can be frozen at this
+  point.  Serve trimmed with parsley, green peppers &amp; green onion with pita.
+  
+  "The Hamilton Spectator", July 1993
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

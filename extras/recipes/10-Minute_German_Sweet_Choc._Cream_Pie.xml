@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>10-Minute German Sweet Choc. Cream Pie</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Chocolate</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Package German sweet</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chocolate,</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk,</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar,</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Package cream cheese,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Softened,</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipped topping, thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>8-inch graham cracker pie</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crust.</item></ing></ingredients>
+    <directions>
+      <step>  Originally from: "Austin American-Stateman, May 24, 1990 Heat chocolate and
+  2 TBSP of the milk in saucepan in saucepan over low heat, stirring until
+  chocolate is melted. Beat sugar into cream cheese; add remaining milk and
+  chocolate mixture and beat until smooth. Fold in whipped topping, blending
+  until smooth. Spoon into crust. Freeze until firm, about 4 hours. Garnish
+  with chocolate curls, if desired.
+  
+  Recipe submitted by Abagail Willis.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

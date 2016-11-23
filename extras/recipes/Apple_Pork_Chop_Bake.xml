@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pork Chop Bake</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Pork</cat>
+        <cat>Fruits</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>1" pork chops</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion; slice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Instant flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice; cider or beer</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Seedless raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Apples; core; slice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing></ingredients>
+    <directions>
+      <step>  Salt and sage chops. Brown chops in hot skillet in oil or butter. Place
+  chops in casserole. Add onions to skillet and saute until tender. Place
+  onions on top of chops. In skillet put juice and flour and stir to mix. Add
+  vinegar, molasses and raisins to skillet. Blend well. Pour over chops. Put
+  apple slices on top. Cover tightly with foil and bake in 375~ oven for 45
+  to 60 minutes or 170~ internal temp.
+  Posted to MC-Recipe Digest V1 #813 by Nancy Berry &lt;nlberry@prodigy.net&gt; on
+  Sep 28, 1997
+ 
+</step></directions></recipe></recipeml>

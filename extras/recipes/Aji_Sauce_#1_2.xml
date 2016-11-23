@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aji Sauce #1</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Whole Aji peppers, seeded and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Queso fresco, Or Muenster Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing></ingredients>
+    <directions>
+      <step>  Combine chiles, 1 cup queso blanco or Muenster cheese, and heavy cream in a
+  blender and puree until smooth. Heat olive oil and slowly add the cheese
+  mixture, stirring constantly. Simmer the sauce for 5 minutes or until it
+  thickens.
+  
+  NOTES : Well, I'm just taking a wild stab here, but =D2The Whole Chile
+  Pepper Book" has a recipe for Papas a la Huancaina that is a dis= h of
+  boiled potatoes topped with cheese and a sauce that is probably=
+  
+  light green and creamy. Here's the sauce part:
+  Recipe by: cjackson@mv.us.adobe.com Posted to CHILE-HEADS DIGEST V3 #334 by
+  Walt Gray &lt;waltgray@mnsinc.com&gt; on May 24, 1997
+ 
+</step></directions></recipe></recipeml>

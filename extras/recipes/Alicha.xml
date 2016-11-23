@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alicha</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onions; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Meat with bone; beef, lamb or goat, cut in 3 inch pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cloves</unit></amt>
+        <item>Garlic; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fresh hot green chili; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Gingerroot; crushed, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard seeds; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Caraway; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tumeric; ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Alicha is a curry-like meal.
+  In dry pan over medium heat, stir fry onions for 2 mins.  Add the oil
+  and stir fry 1 minute longer.  Add the meat and brown 5 mins, stirring
+  frequently.
+  
+  Add all of the spices and seasonings at one time and stir well.  Add
+  the water and bring to a boil.  Cover the pan and cook over moderate
+  heat for about 45 mins, or until the meat is tender.  Should the
+  curry dry out too quickly, add another 1/2c water.  At the end of the
+  45 mins, there should be very little sauce.
+  
+  Serve warm or at room temperature.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/ethiopia.zip
+ 
+</step></directions></recipe></recipeml>

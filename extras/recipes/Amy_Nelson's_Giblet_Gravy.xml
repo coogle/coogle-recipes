@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amy Nelson's Giblet Gravy</title>
+      <categories>
+        <cat>Holiday</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Broth</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Roux (8 tbsp. flour and 8 tbsp. butter, mixed) (up to 8)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Neck; liver and gizzard (cooked), chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Hard-boiled egg; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pimento; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Bring broth to a boil and thicken with roux. (Add more roux to desired
+  gravy thickness) Remove meat from cooked neck and liver and gizzard. Chop
+  meat and add to broth. Add eggs, parsley and pimento and season to taste.
+  Makes about 2 quarts gravy.
+  
+  Recipe by: Green Pastures Restaurant
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Sherry Zeiss
+  &lt;zeiss@eden.com&gt; on Nov 20, 1997
+ 
+</step></directions></recipe></recipeml>

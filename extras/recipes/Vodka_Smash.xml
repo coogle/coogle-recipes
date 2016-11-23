@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vodka Smash</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Imports</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>quarts</unit></amt>
+        <item>Orange juice; [1.75L]</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Vodka; [500mL]</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grapefruit juice; [375mL]</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Lime juice; [175mL]</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice; [175mL]</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar; [75mL]</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Orange; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon; thinly sliced</item></ing></ingredients>
+    <directions>
+      <step>  Combine the first 6 ingredients in a punch bowl. Stir until the sugar is
+  dissolved. Chill 1 hour to blend flavours.
+  
+  Float orange and lemon slices on top of the punch.
+  
+  To serve : ladle into ice-filled glasses.
+  
+  Yield : approx. 1 1/2 quarts (3 liters).
+  
+  Recipe source : Christmas Book, Northwestern Utilities Limited, 10035 - 105
+  Street, Edmonton, Alberta, Canada T5J 2V6. These recipes have all been
+  tested by the Blue Flame Kitchen staff.
+  
+  Formatted for MasterCook by Hallie du Preez.
+  
+  Contributed to #kitmailbox by allium.
+  
+  Recipe by: Northwestern Utilities, Edmonton, Alberta.
+  
+  Posted to KitMailbox Digest  by Buddy &lt;buddy@connect.ab.ca&gt; on Dec 13, 1997
+ 
+</step></directions></recipe></recipeml>

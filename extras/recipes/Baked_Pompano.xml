@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pompano</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Main dishes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Whole shallots; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Pompano fillets; 4 fillets</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>cups</unit></amt>
+        <item>Hazelnuts; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brandy</item></ing></ingredients>
+    <directions>
+      <step>  Saut‚ shallots in butter. Place pompano fillets in a shallow buttered
+  baking pan. Sprinkle generously with the hazelnuts. Pour melted butter and
+  shallots over pompano and hazelnuts. Bake 20 minutes at 450ø, basting every
+  5 minutes to prevent dryness. Remove from oven. Add the brandy and flame.
+  When flames die down, broil 2-3 minutes.
+  
+  Serving Ideas : Serve with lemon wedges.
+  
+  Recipe by: Elizabeth Powell
+  
+  Posted to recipelu-digest by "Valerie Whittle" &lt;catspaw@inetnow.net&gt; on Feb
+  19, 1998
+ 
+</step></directions></recipe></recipeml>

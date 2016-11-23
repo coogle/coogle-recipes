@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Rigatoni and Cheese</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Pasta</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Part skim ricotta</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Diced part-skim mozzarella</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parmesan cheese -- grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh ground pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Rigatoni</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Meatless spaghetti sauce</item></ing></ingredients>
+    <directions>
+      <step>  Combine the ricotta, mozzarella and Parmesan cheese. Add the pepper and set
+  aside. Gradually add the rigatoni to about two quarts of rapidly boiling
+  water so that the water continues to boil. Cook, uncovered,stirring
+  occasionally, until tender. Drain. Spoon half a cup of sauce into a small
+  flat baking dish. Top with half the cooked rigatoni. Spread the cheese
+  mixture over the rigatoni. Make a layer of the remaining rigatoni and top
+  it with the remaining sauce. Bake in 350~F oven for 20 minutes. Nutrition
+  Analysis per serving: 321 cal; 19gm pro; 237gm carb; 12gm fat; 634mg sod;
+       47 mg chol.
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

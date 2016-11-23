@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bamieh or Okra Stew</title>
+      <categories>
+        <cat>Lamb</cat>
+        <cat>Stew</cat>
+        <cat>Arabic</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Okra, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions, lg, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lamb, beef or veal, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Tomatoes, ripe, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon (juice only)</item></ing></ingredients>
+    <directions>
+      <step>  Wash fresh okra and cut off stems.  Fry the chopped onions and whole garlic
+  cloves in butter or oil until both are golden and the garlic is aromatic.
+  Add the cubed meat and brown all over. THen add the prepared okra and fry
+  gently for a little while longer.  Add the tomatoes, continue to cook for a
+  few more minutes, and cover with water in which you have diluted the tomato
+  paste.  Season with salt and pepper, and stir well. Bring to a boil and
+  simmer over low heat 1 1/2 hours or more, until the meat and vegetables are
+  very tender and the sauce is reduced, adding a little more water if
+  necessary. Remove from heat, and add juice of one lemon. Stir and serve.
+  
+  &gt;From "A Book of Middle Eastern Food" by Claudia Roden
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

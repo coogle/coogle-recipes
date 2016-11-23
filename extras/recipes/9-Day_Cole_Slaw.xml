@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>9-Day Cole Slaw</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PART A</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>pounds</unit></amt>
+          <item>Cabbage (shredded)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Onion (finely chopped)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Green pepper (finely chopped)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing></ing-div>
+      <ing-div>
+        <title>PART B</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Salad oi</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Celery seed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine all part "A" ingredients and let stand a few minutes until sugar is
+  dissolved.
+  
+  Combine part "B" ingredients and bring to a boil. Let cool; then pour over
+  the cabbage mixture and refrigerate. Will keep indefinitely Even freezes
+  well.
+  Recipe By : WASHINGTON COUNTY FAIR KITCHEN (OKLAHOMA) Posted to MC-Recipe
+  Digest V1 #759 by C4 &lt;c4@groupz.net&gt; on Aug 24, 1997
+ 
+</step></directions></recipe></recipeml>

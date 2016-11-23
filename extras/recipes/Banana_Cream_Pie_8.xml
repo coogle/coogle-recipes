@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cream Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Coconut; Flaked Or Shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Stick Butter; 2 Oz.</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sliced Bananas</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Coconut</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Ice Cream; Softened Slightly</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Lemon Juice</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Whipped Cream; Optional</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Rum; Optional</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sugar; Optional</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Melt the butter and mix with coconut and sugar, like a crumb crust.
+  
+  2. Line pie pan with mixture and bake in a 375 degree oven until toasted
+  and brown 5 to 7 minutes.
+  
+  Filling:
+  
+  1. Ist layer: Sliced bananas (Which have been dipped in lemon juice first
+  so they won't darken).
+  
+  2. 2nd layer: Sprinkling of coconut.
+  
+  3. 3rd layer: Ice cream (softened slightly).
+  
+  4. Repeat layers and sprinkle top with coconut. Chill in freezer.
+  
+  Topping:
+  
+  1. If desired, remove from freezer and top with 1/2 cup of whipped cream
+  that has been whipped and flavored with 1 tablespoon rum an 1 tablespoon
+  sugar.
+  
+  Recipe by: diane@keyway.net
+  
+  Posted to recipelu-digest Volume 01 Number 220 by "Diane Geary"
+  &lt;diane@keyway.net&gt; on Nov 8, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Soup</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Appetizers</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Large avocados</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cognac</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Frozen avocado shell cups</item></ing></ingredients>
+    <directions>
+      <step>  Peel avocados and dice pulp. Puree pulp in blender container with chicken
+  broth. Season to taste with salt and pepper. Gradually stir in whipping
+  cream. Chill. Add cognac and sherry just before serving. Note: To make
+  frozen avocado-shell cups for soup, cut a slice from stem end of avocado.
+  Scoop out pulp and discard seed. Reserve cap. Use pulp for soup or puree
+  with small amount of lemon juice and freeze for future use. Place shell
+  upright in cup or egg carton. freeze until firm. To serve, embed avocado
+  shell in crushed ice in a dessert dish or soup icer. Carefully spoon in
+  soup and lean cap against side of avocado. Makes about 4 cups.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

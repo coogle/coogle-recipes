@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Baked with Yogurt</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Yogurt</cat>
+        <cat>From cook4u</cat>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Boneless sirloin steak</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Cloves,garlic minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Plain yogurt</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat the oven to 350. 2. Remove any fat from the meat. Cut the meat
+  into 1-in. cubes. 3. Heat the oil in a deep, flameproof baking dish, which
+  has a lid, over medium heat. When the oil is hot, add as many meat cubes as
+  will fit into the dish in one layer. Cook, turning the meat cubes, until
+  browned on all sides. Set the browned meat aside on a plate and cook the
+  remaining meat in the same way. 4. Add the onion and garlic to the dish and
+  cook, stirring, for about 10 min. or until the onion is browned. 5. Return
+  the browned meat to the dish, with any juices that have drained onto the
+  plate. Add the ginger, cayenne and paprika. Stir for 1 min. 6. Add the
+  yogurt and bring to simmering point. 7. Cover the dish first with foil and
+  then with a lid. Place in the oven and bake 15-20 min. or until the meat is
+  tender. Stir the meat gently before serving.
+  
+  This dish: Dum gosht
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

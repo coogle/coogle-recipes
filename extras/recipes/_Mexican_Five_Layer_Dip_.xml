@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Mexican Five Layer Dip"</title>
+      <categories>
+        <cat>Dip</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Avocado; mushy (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Taco seasoning mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pitted black olives</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Shredded cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>From:</qty>
+          <unit/></amt>
+        <item>Diane Dowiot &lt;dowiot19@MAIL.IDT.NET&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>Date:</qty>
+          <unit/></amt>
+        <item>Sun, 7 Jul 1996 00:55:26 -0700</item></ing></ingredients>
+    <directions>
+      <step>  Peel avocado and cut up - layer in the bottom of a 10" pie plate or quiche
+  pan.  Cut tomatoes and layer on top of avocado.  Mix 1 cup of mayo with the
+  2 taco seasoning mixes and layer on top of tomatoes. Slice olives and layer
+  on top of mayo mixture. Spread cheddar cheese over the top. Chill for 2
+  hours. Serve with nacho chips ( I use "Grandaddy's" unsalted tortilla
+  chips)
+  
+  EAT-L Digest 11 July 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

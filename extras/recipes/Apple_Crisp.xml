@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>Mcdougall</cat>
+        <cat>Desserts</cat>
+        <cat>Vegan</cat>
+        <cat>Low fat</cat>
+        <cat>Not tried</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Tapioca</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Pineapple juice</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>cups</unit></amt>
+          <item>Apples;peeled and sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon;Watkins of coarse!</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Quick-cooking rolled oats</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Regular rolled oats</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Whole-wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Scant  oat flour*</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Orange juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla;1/4 tsp if Watkins</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Filling:  Preheat oven to 375 .  Add tapioca to pineapple juice and let
+  soften for 5 minutes.  Combine with remaining ingredients in a 8-inch
+  square baking dish. Toss lightly to combine. Bake 20 minutes.
+  
+   Topping:  Combine both types of oats, wheat flouur and oat flour in a
+  large mixing bowl.  Combine remaining ingredients in a separate bowl and
+  pour over dry ingredients. Toss lightly to mix.
+  
+   After 20 minutes, remove filling from oven.  Crumble topping over filling
+  and return to oven.  Bake  20 more minutes, until topping is golden. Serves
+  9
+     *NOTE:  If you can't find oat flour in the store, make your own by
+  processing regular or quick-cooking rolled oats in a food processor until
+  you have a flour-like consistency.
+  
+   Per serving:  159 cal; 2g prot; 1g fat; 37g carb; 0 chol; 1mg sod.
+  
+   From May 1990 Vegetarian Times magazine  page 38 Article by Mary McDougall
+  Formatted to MM by J.Duckett1  (Kat)
+  From the collection of Sue Smith, S.Smith34, Uploaded June 16, 1994
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mcdougal.zip
+ 
+</step></directions></recipe></recipeml>

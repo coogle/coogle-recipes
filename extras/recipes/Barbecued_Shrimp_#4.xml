@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Shrimp #4</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Shrimp (1/2 lb per person)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Loads of black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Plenty of garlic salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Liquid crab boil per pound of shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Liquid smoke per pound of shrimp</item></ing></ingredients>
+    <directions>
+      <step>    Wash and drain shrimp one hour before cooking; do not peel. Line pan with
+  shrimp 1-1/2 to 2 inches deep. On top of stove, bring to a boil butter and
+  spices. Pour sauce over shrimp and immediately put in a 400 degree oven and
+  cook 30 minutes. Stir often to keep shrimp covered with butter mixture.
+  Very good, but very rich.
+  
+  From &lt;A Taste of Louisiana&gt;.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

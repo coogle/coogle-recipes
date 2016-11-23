@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Frances' Lemonade</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Lemons</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Limes</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Oranges</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>quarts</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>To 2 cups sugar</item></ing></ingredients>
+    <directions>
+      <step>  Squeeze the juice from 4 of the lemons, limes and oranges; pour into a
+  gallon container. Thinly slice the remaining fruit and set aside for
+  garnish. Add water and sugar to juices; mix well. Store in the
+  refrigerator. Serve on ice with fruit slices.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

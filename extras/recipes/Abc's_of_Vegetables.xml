@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abc's of Vegetables</title>
+      <categories>
+        <cat>Ca</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Asparapus pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Broccoli flowerets</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Spinach</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable cooking spray</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(11-oz) can cream of mushroom soup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onions; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper; ground fresh</item></ing></ingredients>
+    <directions>
+      <step>  Date: Sat, 27 Apr 1996 16:36:43 -0500 (CDT)
+  
+  From: "Mr. &amp; Mrs. Pro and the crew" &lt;D.Pro@coretech.com&gt;
+  Layer asparagus, brocoli, carrots, and spinach in a baking dish covered
+  with vegetable cooking spray. Blend remaining ingredients. Pour over
+  vetables. Cover. Bake at 350F for 30 to 40 minutes, or until vegetables are
+  tender.
+  
+  Food Exchange per serving: 1 VEGETABLE EXCHANGE + 1/2 STARCH/BREAD EXCHANGE
+  + 1/2 FAT EXCHANGE; CAL: 42
+  
+  Source: The Complete Diabetic Cookbook by Mary Jane Finsand
+  
+  MM-RECIPES@IDISCOVER.NET
+  
+  MEAL-MASTER RECIPES LISTSERVER
+  
+  MM-RECIPES DIGEST V3 #119
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

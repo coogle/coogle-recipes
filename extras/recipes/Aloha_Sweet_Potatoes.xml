@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aloha Sweet Potatoes</title>
+      <categories>
+        <cat>American</cat>
+        <cat>Potatoes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>To 5 Medium Sweet Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pineapple Preserves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Boil sweet potatoes in their jackets until tender, about 25 minutes. Let
+  cool, then peel and cut into 1/2 inch thick slices.  In a large skillet
+  melt pineapple preserves and butter; add sweet potatoes to skillet. Cook
+  gently; tossing lightly until sweet potatoes are glazed.
+  Posted to MC-Recipe Digest V1 #176
+  
+  Date: Tue, 30 Jul 1996 19:52:15 -0700
+  
+  From: "Keri, J. (Mike)" &lt;mkeri@img.net&gt;
+ 
+</step></directions></recipe></recipeml>

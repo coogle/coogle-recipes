@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple, Sausage Omelet</title>
+      <categories>
+        <cat>Sausage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Bulk pork sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sausage drippings</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>French or plain omelet</item></ing></ingredients>
+    <directions>
+      <step>  Cook sausage in 10-inch omelet pan or skillet until thoroughly cooked and
+  browned. Drain reserving 1 tablespoon drippings. Crumble sausage. Reserve
+  1/4 cup. Combine remain- ing sausage with applesauce, set aside. Prepare
+  French omelet using reserved sausage drippings in place of butter. While
+  top is still moist and creamy looking, spread sausage-applesauce mixture
+  over half of omelet. With pancake turner fold omelet in half or roll
+  turning out onto platter with a quick flip of the wrist. Sprinkle remaining
+  sausage over top. Makes 2 servings.
+  
+  Recipe by: diane@keyway.net
+  
+  Posted to recipelu-digest by "Diane Geary." &lt;diane@keyway.net&gt; on Feb 4,
+  1998
+ 
+</step></directions></recipe></recipeml>

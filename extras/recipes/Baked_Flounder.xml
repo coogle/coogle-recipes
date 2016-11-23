@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Flounder</title>
+      <categories>
+        <cat>Fish/sea</cat>
+        <cat>English</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Flounders</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely chopped chives</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Finely chopped tarragon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Glass white wine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Fresh white breadcrumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley sprigs to garnish</item></ing></ingredients>
+    <directions>
+      <step>  If necessary, 4 small plaice can be substituted for the flounders. Set oven
+  to 450/F or Mark 8. Wash and dry the flounders. Mix the herbs and nutmeg
+  together. Butter an ovenproof dish and coat with the herb mixture. Arrange
+  the fish in the dish and pour the wine over. Season to taste. Melt 1 oz. of
+  butter, pour on to the fish and cover with the breadcrumbs. Dot with the
+  remaining butter and bake for 10 to 15 minutes, near the top of the oven,
+  so that the breadcrumbs brown, adding a little extra butter if they look
+  dry. Serve, garnished with parsley sprigs.
+    Posted to MM-Recipes Digest V3 #264
+  
+    Date: Fri, 27 Sep 1996 18:07:10 +0000
+  
+    From: "ray.watson" &lt;ray.watson@ukonline.co.uk&gt;
+ 
+</step></directions></recipe></recipeml>

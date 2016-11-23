@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arugula - Tomato Topping</title>
+      <categories>
+        <cat>Pizza</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Arugula; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Plum tomatoes cored and diced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon juice, fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Kosher salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: NYT 6/25/95 From: jfcoombs@avana.net
+  
+  Date: Fri, 24 May 96 09:29:17 PDT
+  
+  Toss the arugula, tomatoes, lemon juice and olive oil together.  Season
+  with salt and pepper.
+  
+  Posted to Master Cook Recipes List, Digest #96
+ 
+</step></directions></recipe></recipeml>

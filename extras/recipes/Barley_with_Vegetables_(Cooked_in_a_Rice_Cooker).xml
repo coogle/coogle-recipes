@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley with Vegetables (Cooked in a Rice Cooker)</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>July</cat>
+        <cat>Rice cooker</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Barley</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Broth of your choice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe tomatoes, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Can mushrooms, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegan worstershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried parsley</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>x</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Put all in rice cooker and stir.  Put on cover and turn to COOK.  Will be
+  ready in about 45 minutes.  Can probably do this on the stove as well. Just
+  bring to a boil, turn down to low and simmer for 45 minutes.
+  
+  From: Lucinda Rasmussen &lt;lrasmuss@PICA.ARMY.MIL&gt;. Fatfree Digest [Volume 9
+  Issue 29] July 20, 1994. Formatted by Sue Smith, S.Smith34,
+  TXFT40A@Prodigy.com using MMCONV
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

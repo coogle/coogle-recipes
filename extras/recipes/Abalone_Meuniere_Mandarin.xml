@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abalone Meuniere Mandarin</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Seafood</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>(7 1/2-ounce) cans Mexican abalone</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Fat pork</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Water chestnuts, minced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Chives</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ginger water, to taste (see note)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and MSG</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Maize (corn) flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Chive and ginger oil (see note)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>5/8</qty>
+          <unit>ounces</unit></amt>
+        <item>Shaoxing wine</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Chicken stock</item></ing></ingredients>
+    <directions>
+      <step>  The following four recipes are from a Chron article called "Foreign
+  Intrigue" by Alice Cuneo that featured recipes from various
+  consulates in the City.  This first one is from the Consulate of the
+  People's Republic of China.  It's a sophisticated (but uncomplicated)
+  banquet dish featuring abalone, shrimp and porkfat.
+  
+  Abalone stuffed with minced shrimp, from Shen Xuliang of the Chinese
+  consulate.
+  
+  Trim the abalone, removing rough parts, and cut into flat rounds. Chop
+  shrimp and fat pork to a paste consistency; stir in the water
+  chestnuts, chives and ginger water.  Season with salt and MSG.
+  
+  Create the abalone "sandwiches" by spreading an abalone round with
+  shrimp paste, then topping with another round.  Dredge "sandwiches"
+  in maize flour and set aside.
+  
+  Heat chive and ginger oil in a wok over medium heat, swirling the oil
+  to coat all sides of the wok.
+  
+  Dip the abalone "sandwiches" in the flour, then in eggs.  Fry in the
+  hot oil until abalone is tender and golden.  Add Shaoxing wine,
+  chicken stock, salt and MSG.  Bring to a simmer, adjust the
+  seasonings and simmer for 3 to 4 minutes.  Serve immediately.
+  
+  NOTE:  Chive and ginger oil is oil in which chives and ginger have
+  been cooked.  To make at home, heat 4 ounces oil in a wok set over
+  medium heat. Toss in 1 or 2 tablespoons fresh snipped chives and 3
+  slices fresh ginger. Stir-fry until fragrant, then proceed with
+  recipe.  (Remove ginger slices before serving.)
+  
+  Ginger water is available in Chinese markets.
+  
+  From the San Francisco Chronicle, 6/15/88.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

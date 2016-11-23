@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>APPLE SAUCE #10</item></ing></ingredients>
+    <directions>
+      <step>  CHILL APPLESAUCE PRIOR TO SERVING.  START WITH 3 #10 CAN  AND REPLENISH
+  ONE CAN AT A TIME AS NEEDED.  PLACE IN A SUITABLE CONTAINER AND GARNISH
+  BEFORE PLACING ON THE COLD SERVING LINE.  POST THE AMOUNT USED TO THE
+  KITCHEN REQUISITION AND RETURN WORKSHEET.
+  
+  Recipe Number: S00107
+  
+  SERVING SIZE: 1 SERV
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

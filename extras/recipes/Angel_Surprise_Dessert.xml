@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Surprise Dessert</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(3 oz.) cream cheese; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(3-3/4 Oz.) Instant Vanilla Pudding Mix</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Angel cake cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(13-14 Oz.) Crushed Pineapple; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(2 oz.) dessert topping mix</item></ing></ingredients>
+    <directions>
+      <step>  In a small mixer bowl, gradually blend milk into cream cheese, beating
+  until smooth. Add pudding mix and beat at low speed of electric mixer until
+  smooth and slightly thickened, about 2 minutes. Pour pudding mixture over
+  angel cake cubes, stirring to coat. Turn into a 8x8x2 inch baking dish.
+  Spread drained pineapple over top. Prepare dessert topping mix according to
+  package directions. Spread over all. Chill several hours or overnight.
+  Serves 6.
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 22, 1998
+ 
+</step></directions></recipe></recipeml>

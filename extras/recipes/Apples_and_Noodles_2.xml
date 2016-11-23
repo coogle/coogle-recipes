@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apples and Noodles</title>
+      <categories>
+        <cat>Casserole</cat>
+        <cat>Pasta</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Fruits</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Egg noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Stick Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Mace</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Longhorn cheese; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pie sliced apples</item></ing></ingredients>
+    <directions>
+      <step>  1. Cook and drain noodles and coat with margarine. 2. Mix brown sugar,
+  mace, and salt. Add to noodles and toss. 3. Add cheese and apples and mix
+  well. 4. Bake at 350 degrees for 30 minutes in covered dish.
+  
+  Sometimes I use a jar of escalloped apples or apple pie filling and omit
+  the mace, but the apples come out softer that way.
+  
+  Recipe by: Church CookBook
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  terryw@ix.netcom.com on Sep 20, 1997
+ 
+</step></directions></recipe></recipeml>

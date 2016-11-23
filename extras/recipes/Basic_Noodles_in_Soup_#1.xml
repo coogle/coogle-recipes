@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Noodles in Soup #1</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Egg noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Scallion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sherry</item></ing></ingredients>
+    <directions>
+      <step>  1. Parboil noodles as in "Parboiled Noodles #1/#2".
+  
+  2. Bring stock to a boil. Stir in noodles, then bring to a boil again.
+  Simmer to heat through (about 2 minutes). Meanwhile mince scallion.
+  
+  3. Stir salt, pepper, soy sauce and sherry into stock. Sprinkle with
+  scallion and serve at once.
+  
+  NOTE: Never add noodles to soup until just about ready to serve. If added
+  too far in advance, noodles tend to get mushy. VARIATIONS:
+  
+  1. In step 2, before adding the noodles, add 1 cup raw chicken.  shredded;
+  and/or 1/2 cup bamboo shoots, cut in strips. Simmer, covered, 10 minutes.
+  
+  2. In step 2, after adding the noodles, add 1 cup cooked chicken or pork,
+  diced; or 1 cup cooked vegetables, diced. Simmer only to heat through.
+  
+  3. For the parboiled egg noodles, substitute 1/2 pound peastarch noodles
+  (soaked); and 1 cup spinach, shredded. In step 2, simmer both only to heat
+  through.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

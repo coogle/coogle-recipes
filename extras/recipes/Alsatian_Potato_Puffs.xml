@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alsatian Potato Puffs</title>
+      <categories>
+        <cat>Potatoes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; Beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove Garlic; Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter; Melted</item></ing></ingredients>
+    <directions>
+      <step>  Peel, boil, and mash the potatoes.  Blend the flour, eggs, garlic, parsley,
+  and melted butter into the potatoes.  Add salt, pepper and nutmeg to taste.
+  Mix well and place large tablespoons of the mixture (not quite touching) in
+  a buttered baking dish.  Bake in a 325 oven for about 12 minutes. Sprinkle
+  with paprika.  Run under broiler to brown. From:  Country Inn &amp; Bread &amp;
+  Breakfast Cookbook
+  Posted to MC-Recipe Digest V1 #176
+  
+  Date: Tue, 30 Jul 1996 19:52:15 -0700
+  
+  From: "Keri, J. (Mike)" &lt;mkeri@img.net&gt;
+ 
+</step></directions></recipe></recipeml>

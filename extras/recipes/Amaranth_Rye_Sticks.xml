@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaranth Rye Sticks</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Nonfat dry milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sea salt (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>AM Rye Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>AM Amaranth Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Caraway seed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>AM Sesame Seeds (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve yeast in warm water; stir in milk, molasses, and salt.  Stir in
+  flour and caraway seeds.  Knead dough about five minutes.  Cut into 36
+  pieces and roll into sticks approximately five inches long.  Roll in
+  sesame seeds.  Place on an oiled baking sheet, spray with water, then bake
+  at 425 F. for 18-20 minutes, or until lightly browned.
+  
+  Source: Arrowhead Mills "Amaranth Flour" tri-fold
+  Reprinted by permission of Arrowhead Mills, Inc.
+  Electronic format courtesy of: Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/am.zip
+ 
+</step></directions></recipe></recipeml>

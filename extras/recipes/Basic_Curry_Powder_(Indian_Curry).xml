@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Curry Powder (Indian Curry)</title>
+      <categories>
+        <cat>Mixes and s</cat>
+        <cat>Indian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Dried red chilies</item></ing>
+      <ing>
+        <amt>
+          <qty>25</qty>
+          <unit>grams</unit></amt>
+        <item>(1 oz) coriander seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Black peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Fenugreek seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Fresh curry leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ground turmeric</item></ing></ingredients>
+    <directions>
+      <step>  This medium-hot curry blend can be used in any dish that calls for curry
+  powder.
+  
+  Remove the seeds from the chilies. Dry roast the whole spices over a medium
+  heat until they darken, stirring or shaking the pan frequently to prevent
+  burning. Leave to cool, then grind to a powder. Dry roast the curry leaves
+  in the pan for a few minutes, then grind and add them to the mixture with
+  the ginger and turmeric, blending well.
+  
+  * To make Aromatic Curry Powder, add 1 tsp ground cinnamon and 1/4 tsp
+  ground cloves with the ginger and turmeric, and use only 2 or 3 chilies.
+  
+  Source: Jill Norman "The Complete Book of Spices" Viking Studio Books, 1991
+  ISBN 0-670-83437-8 The book is lavishly illustrated with full color
+  photographs of the herbs and spices- whole, mixed, ground.
+  
+  Recipe by: Jill Norman * Web File 4/97 Posted to MC-Recipe Digest V1 #615
+  by "Mary Spyridakis" &lt;MSpork@msn.com&gt; on May 16, 97
+ 
+</step></directions></recipe></recipeml>

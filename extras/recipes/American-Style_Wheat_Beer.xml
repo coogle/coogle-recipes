@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>American-Style Wheat Beer</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Briess dried wheat malt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Briess bulk malt extract</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Hallertauer hops -- (30-45</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Min)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Priming sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Wyeast 3056 bavarian wheat</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Liquid yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Muslin bag</item></ing></ingredients>
+    <directions>
+      <step>  Bring 1 gal water to boil.  Remove pot from heat and stir in syrup and
+  dried wheat extract until dissolved.  Return pot to heat and add
+  hallertauer hops and boil for 30-45 min.  Add wort to 4 gallons of cold
+  water in fermenter.  When cooled to below 80 degrees, pitch yeast. O.G.
+  1036-1040 F.G. 1006-1008
+  
+  Recipe By     : Jasper's
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

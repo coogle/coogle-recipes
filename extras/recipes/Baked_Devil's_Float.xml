@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Devil's Float</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Puddings</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>packages</unit></amt>
+        <item>Marshmallows; quartered (small size packages)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed pecans</item></ing></ingredients>
+    <directions>
+      <step>  Place marshmallows in square baking pan.  Bring 1/2 cup sugar and water to
+  a rolling boil; pour over marshmallows. Melt chocolate and margarine in
+  saucepan; add remaining sugar, vanilla, flour, salt, baking powder and
+  milk.  Drop batter by spoonfulls over marshmallow mixture. Sprinkle pecans
+  over top. Bake at 350 degrees for 40 minutes. Serve with whipped cream.
+  
+  SOURCE: 1979 New Orleans Times-Picayune Recipe Contest Cookbook Typed for
+  you by Nancy Coleman
+ 
+</step></directions></recipe></recipeml>

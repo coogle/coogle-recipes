@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fish with Spices</title>
+      <categories>
+        <cat>Indonesian</cat>
+        <cat>Seafood</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Whitefish, whole (about 300 g each)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Fresh ginger, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>teaspoons</unit></amt>
+        <item>Lemon rind, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Tamarind sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Light soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Peanut oil</item></ing></ingredients>
+    <directions>
+      <step>  1. Place fish onto large pieces of foil.  Make three deep incissions with
+  sharp knife on each side of fish.
+  
+  2. In a food processor, combine onion, garlic, ginger, lemon rind, tamarind
+  sauce, light soy sauce and peanut oil, blend until the mixture is smooth.
+  
+  3. Spread mixture on both sides and inside the fish.
+  
+  4. Wrap foil around fish, secure firmly. Place fish in a baking dish, bake
+  at 180 degrees C for 30 minutes, or until fish is just cooked.
+  
+  Source: Indonesian Cooking
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

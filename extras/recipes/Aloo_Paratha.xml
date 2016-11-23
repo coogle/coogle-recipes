@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aloo Paratha</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>500</qty>
+            <unit>grams</unit></amt>
+          <item>Wheat Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Water to knead the dough</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>500</qty>
+            <unit>grams</unit></amt>
+          <item>Potatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped Coriander Leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Ground Garlic flakes (up to 3)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground Ginger and Green Chillies</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Lemon ; Juice of</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Oil for frying</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Note: I use a scale to get these measurements exactly.
+  
+  For the Dough: Add the oil and salt to the flour. Knead the flour with
+  water to make a soft dough.
+  
+  For the filling: Boil the potatoes, remove skins and grate or mash. Add all
+  the masalas and mix well.
+  
+  For the parathas: Divide dough into 20 round portions. Take each portion of
+  the dough; press to flatten it on the palm. Now put one portion of filling
+  on each and roll into 20 round shaped balls. With a rolling pin, flatten
+  the balls into 1/2" thick Parathas. Grease a cast iron skillet with a
+  little oil, and place on a medium fire. Cook the parathas on the skillet
+  till both sides are light brown.
+  
+  Posted to EAT-L Digest  by Tania Hewes &lt;taniah@NSERV1.CLSI.US.GEAC.COM&gt; on
+ 
+</step></directions></recipe></recipeml>

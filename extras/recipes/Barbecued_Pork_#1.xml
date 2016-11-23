@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Pork #1</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Pork loin; boned &amp; trimmed</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Barbecued pork marinade</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sesame seeds; toasted</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Coleman's mustard; prepared</item></ing></ing-div>
+      <ing-div>
+        <title>MARINADE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>White vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Hoisin sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Dry sherry</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Minced fresh garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chicken stock</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Split pork loin in half lengthwise. Place in Barbecued Pork Marinade to
+  cover &amp; marinate overnight in refrigerator. Preheat oven to 400. Place wire
+  rack above roasting pan. Place meat on rack &amp; bake 40 min. in oven. Remove
+  &amp; let cool well. Slice pork thinly &amp; arrange on platter. Top w/ toasted
+  sesame seeds &amp; serve w/ prepared Colman's Mustard. MARINADE: Mix all
+  ingredients together.
+  
+  ORIENT EXPRESS
+  
+  KETCHUM, SUN VALLEY (TIME INCL.
+  
+  MARINATING) BEV: TSINGTAO BEER
+  
+  From the &lt;Micro Cookbook Collection of Chinese Recipes&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

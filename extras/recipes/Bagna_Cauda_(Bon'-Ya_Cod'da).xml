@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bagna Cauda (Bon'-Ya Cod'da)</title>
+      <categories>
+        <cat>Dips</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick (1/4 lb) butter</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Chopped fine garlic cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Anchovy fillets chopped,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mashed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Heat the oil and butter together in an earthenware pot over hot water or in
+  a double boiler. In another pan cook the garlic in a bit of the oil until
+  it is soft. Add the anchovy fillets, and cook until the fish dissolves into
+  a paste, about 5 minutes. Add all to the pan of hot oil and butter. The hot
+  dip is kept in the middle of the table. Celery, endive, cucumbers, green
+  onions, Italian bread and cooked and cooled artichokes are dipped into it.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

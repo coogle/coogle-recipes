@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Compote</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Golden delicious apples</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon, (optional) (up to 1/2)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar (up to 3)</item></ing></ingredients>
+    <directions>
+      <step>  from &lt;&lt;Faye Levy's International Jewish Cookbook&gt;&gt;
+  
+  Instead of applesauce with latkes, this can be served as a chunky topping
+  or pureed into a flavorful fresh applesauce. When the apples are left in
+  pieces, the compote can be served as a dessert on its own; its especially
+  good served hot with ice cream, sour cream, or yogurt.
+  
+  Peel &amp; halve the apples. Core &amp; cut into thin wedges or slices.
+  
+  Melt butter in large skillet over medium heat. Add apples &amp; saute, turning
+  pieces over from time to time, for about 2 minutes or until they are coated
+  with butter. Add lemon juice and cinnamon, cover &amp; cook over low heat for 5
+  minutes, or until liquid begins to come out of the apples. Uncover &amp;
+  continue cooking over low heat, gently stirring occasionally, for 15-20
+  minutes or until apples are tender and begin to fall apart.
+  
+  Add 2 tbsp sugar &amp; saute over medium-high heat, turning apples over, about
+  2 minutes or just until sugar dissolves. Remove from heat. Taste &amp; add more
+  sugar if necessary; heat, tossing apples gently, until sugar dissolves.
+  Serve warm or at room temperature to accompany latkes.
+  
+  Can be kept covered in refrigerator for 2 days.
+  
+  Posted to JEWISH-FOOD digest V96 #79
+  
+  Date: Sun, 17 Nov 96 10:31:24 CST
+  
+  From: bgl@leass.PCC.COM (Barbara Leass)
+ 
+</step></directions></recipe></recipeml>

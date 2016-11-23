@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Crecents</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; unbleached</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Almonds; ground</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioners' sugar</item></ing></ingredients>
+    <directions>
+      <step>  Beat together butter and sugar until very light and fluffy.  Blend in
+  extracts.  Mix in flour and almonds.  Using about 1 T of dough for each,
+  shape into logs and bend into crecents.  Place on greased cookie sheet.
+  Bake 12 to 15 minutes at 350 degrees F until light brown. While warm, roll
+  crecents in confectioners' sugar.  Cool on racks and store in a tightly
+  sealed container. Makes 3 dozen cookies.
+  Posted to EAT-L Digest 12 Sep 96
+  
+  Date:    Fri, 13 Sep 1996 08:39:12 -0400
+  
+  From:    Eileen &amp; Bob Holze &lt;beck4@ASAN.COM&gt;
+ 
+</step></directions></recipe></recipeml>

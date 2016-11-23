@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Sundaes ( Mw )</title>
+      <categories>
+        <cat>Microwave</cat>
+        <cat>Desserts</cat>
+        <cat>Peanuts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Square Semisweet Chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Light Corn Syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sweetened Condensed Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ice Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unsalted, Roasted Peanuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Small Banana, Quartered</item></ing></ingredients>
+    <directions>
+      <step>  Place chocolate in a 2 cup measure.  Micro-cook,
+  uncovered, on 100% power for 1 1/2 to 2 minutes or
+  till melted, stirring once.  Stir in corn syrup and
+  sweetened condensed milk.  Micro-cook, uncovered, on
+  100% power for 30 to 45 seconds or till heated
+  through.  Stir in vanilla.  Serve warm atop ice cream.
+  Sprinkle with peanuts.  Arrange quartered banana
+  around ice cream.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

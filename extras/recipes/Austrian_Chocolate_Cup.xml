@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Austrian Chocolate Cup</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>30</qty>
+          <unit>ounces</unit></amt>
+        <item>Semisweet chocolate, broken in pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>small</unit></amt>
+        <item>Finely grated orange peel</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>30</qty>
+          <unit/></amt>
+        <item>Cinnamon sticks (3")</item></ing></ingredients>
+    <directions>
+      <step>  Combine chocolate, orange peel, cinnamon and 3 tablespoons of milk in a
+  saucepan and heat very gently until chocolate melts, stirring frequently.
+  
+  Add remaining milk and heat through gently until piping hot, stirring
+  frequently. Whisk whipping cream until soft peaks form.
+  
+  Pour hot chocolate into mugs or heatproof glasses. Top with whipped cream.
+  Sprinkle with grated chocolate and add a cinnamon stick to each one for
+  stirring.
+  
+  NOTE: Wind a curly strip of orange peel around cinnamon sticks for a pretty
+  effect, if desired.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

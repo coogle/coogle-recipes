@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana and Pomegranate Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Stephen Ceideburg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Palm Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Pomegranates</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Juice of 2 limes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lime Dressing</item></ing></ingredients>
+    <directions>
+      <step>  This is a side-dish from the north of India. It makes a refreshing and
+  pretty contrast to a highly spiced dish and couldn't be simpler. Try it
+  next time you are having a curry meal, or use it as one of several salads
+  for entertaining.
+  
+  Mix together the juice of 2 limes and a tablespoon of palm sugar (or
+  substitute brown sugar). Taste and adjust for sweet- sour balance if
+  necessary. Cut 2 pomegranates which have been chilling in the fridge into
+  quarters and twist each wedge to help free the seeds. Coax them out and
+  mound them in the centre of a serving dish. Slice 3 bananas and arrange
+  them around the peri- meter of the pomegranate seeds. Sprinkle with the
+  lime dressing and serve.
+  
+  Posted by Stephen Ceideburg
+  
+  From an article by Meryl Constance in The Sydney Morning Herald, 5/11/93.
+  Courtesy Mark Herron.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

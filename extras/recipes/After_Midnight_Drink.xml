@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>After Midnight Drink</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>See below</item></ing></ingredients>
+    <directions>
+      <step>  Put 2 spoonfull of instant coffee &amp; 2 spoonfull of instant cacoa in a
+  glass with fresh cold milk. Add some cream. It also tastes fine with
+  a spot of brown rum (I prefer jamaican!) This really pushs you up.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

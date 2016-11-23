@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apples with Lemon Juice and Cinnamon</title>
+      <categories>
+        <cat>Polkadot</cat>
+        <cat>Lisa</cat>
+        <cat>Snacks</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon Juice</item></ing></ingredients>
+    <directions>
+      <step>  Core and slice apple into 8 wedges, and arrange in a small bowl.  Pour
+  lemon juice over the apple wedges, and sprinkle cinnamon on top.
+  
+  Source: Irene Rodriguez / Lisa Clarke
+  
+  My mother suggested this snack to me many years ago, because I was a junk
+  food piggy, and I found good things like apples to be really boring. It's
+  really yummy, though, especially if you like things a bit tart.
+  
+  * The Polka Dot Palace - The BBS for Homemakers!  1-201-822-3627 * Posted
+  by LISA on 08-03-95
+  
+  Posted to MC-Recipe Digest V1 #708 by Lisa Clarke &lt;lisa@gaf.com&gt; on Aug 1,
+  9
+ 
+</step></directions></recipe></recipeml>

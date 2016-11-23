@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Macaroni and Cheese</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Macaroni; l package (8 to 9 ozs.)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Thin sauce (below)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Grated cheese (up to 1/2)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tbsp.onion; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Buttered crumbs</item></ing></ingredients>
+    <directions>
+      <step>  Cook macaroni; drain and rinse. Combine hot white sauce, grated cheese,
+  onion, mustard and Worcestershire sauce reserving a little of the grated
+  cheese for topping. Add macaroni. Place in a greased casserole. Top with
+  buttered crumbs, remaining cheese and a dash of paprika. Bake in a moderate
+  oven (375 degrees) about 25 minutes or until browned. Makes 6 to 8
+  servings.
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by russ@epix.net on
+  Oct 24, 1997
+ 
+</step></directions></recipe></recipeml>

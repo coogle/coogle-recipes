@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana White Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Breads</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>1 1/2 Lb Loaf:</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water; 80 to 90 degrees</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Banana; finely mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Bread flour; PLUS</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast; Instant</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts; coarse chop</item></ing></ingredients>
+    <directions>
+      <step>  Follow manufacturer instructions for ingredient placement. Use regular
+  white bread cycle. Initially dough may be too wet so add more flour
+  gradually to achieve a soft pliable dough ball. Add nuts during the last
+  kneading cycle.
+  
+  Note: you could add a bit of cinnamon or a tsp of banana extract. I havent
+  tried brown sugar to replace white sugar, could be possibility.
+  
+  Make sure bananas are ripe for best flavor.
+  
+  Let bread cool completely for best slicing.
+  
+  Joan,"Flour Power" &gt;FROM: &lt;LIR119@delphi.com&gt;
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  NOTES : Light fluffy, high riser in my toastmaster bread machine.It more
+       of a white bread with suble banana flavor. Its a large bread,
+       should rise to top of pan, so don't try this in a small capacity
+       machine or it could overflow.
+ 
+</step></directions></recipe></recipeml>

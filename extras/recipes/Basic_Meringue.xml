@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Meringue</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Pies</cat>
+        <cat>Syd's book</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cold Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cream Of Tartar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Boiling Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg Whites</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Baking Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Blend cornstarch and cold water in saucepan. Add boiling water. Cook,
+  stirring until clear and thickened. Let stand until cold. With electric
+  beater on high speed, beat egg whites until foamy. Add cream of tartar.
+  Continue to beat until they start to turn white. Gradually, add sugar; beat
+  until stiff but not dry. Turn mixer to low speed; add soda and vanilla.
+  Gradually, beat in cold cornstarch mixture. Raise mixer again to high
+  speed; beat well. Spread meringue over cooled pie filling. Bake @ 350
+  degrees for at least 10 minutes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

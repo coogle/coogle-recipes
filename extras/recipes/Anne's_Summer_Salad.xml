@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anne's Summer Salad</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>small</unit></amt>
+          <item>Eggplants; -OR- Eggplant</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Green pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Tomato</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>large</unit></amt>
+          <item>Celery stalks</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>small</unit></amt>
+          <item>Potatoes, new</item></ing>
+        <ing>
+          <amt>
+            <qty>12</qty>
+            <unit/></amt>
+          <item>Black olives</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Red wine vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Garlic cloves; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Basil, dried</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  I used vegetables on hand. Other in-season vegetables (ie. beans) could be
+  used. As well, feta cheese or mozzarella cheese could be added. EGGPLANT &amp;
+  PEPPERS: Peel, slice eggplants. Place in colander and salt lightly. Let
+  stand 1/2 hour. Preheat grill*. Grill eggplant slices and green pepper.
+  (Eggplant should be lightly browned and outer green pepper skin charred).
+  Place green pepper in paper bag, let stand 1/2 hour. peel green pepper
+  under running water. Dice eggplant slices and green pepper. Place in large
+  bowl. POTATO: Boil potatoes until tender (about 10 minutes). Cool. peel,
+  dice and place in bowl with other vegetables. OTHER VEGETABLES: Peel, seed
+  and chop tomato. Chop celery. Slice pitted black olives. Put tomatoes,
+  celery and olives in bowl. Mix well. DRESSING: Mix olive oil, vinegar,
+  garlic, pepper and basil. Pour over vegetables in bowl. Toss well. Let
+  marinate at room temperature at least 1/2 hour and then put in fridge. Toss
+  and stir occasionally.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

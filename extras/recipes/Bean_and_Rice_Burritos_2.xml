@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Rice Burritos</title>
+      <categories>
+        <cat>Veg-cook</cat>
+        <cat>Sept.</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(28-oz) water-packed pinto beans, drained, rinsed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cooked brown rice; or up to double this amount</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Garlic powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Tortillas</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPINGS</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Head iceberg lettuce; chopped and dried</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>bunch</unit></amt>
+          <item>Scallions; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Ripe tomato; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Mexican salsa</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place the beans in a saucepan and mash with a potato masher.  Add the
+  cooked rice, spices, and water.  Heat 5 to 10 minutes.  Meanwhile, prepare
+  the vegetables.  Heat the tortillas quickly (just to soften) in a preheated
+  skillet, toaster oven, or microwave.  Place a line of bean mixture down the
+  middle of each tortilla.  Top with lettuce, scallions, tomato, and salsa.
+  Tuck in the top and bottom edges, roll into a burrito, and serve
+  immediately, topped with additional salsa if desired.
+  
+  From: ucismas@issc.unocal.com (Melyssa S.).  rfvc Digest V94 Issue #206,
+  Sept. 24, 1994. Formatted by Sue Smith, S.Smith34, TXFT40A@Prodigy.com
+  using MMCONV.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/vegcook2.zip
+ 
+</step></directions></recipe></recipeml>

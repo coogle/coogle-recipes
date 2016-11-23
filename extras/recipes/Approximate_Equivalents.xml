@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Approximate Equivalents</title>
+      <categories>
+        <cat>Info/tips</cat></categories>
+      <yield>60</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>MEASURE EQUIVALENTS</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>1 tb</item></ing>
+        <ing>
+          <amt>
+            <qty>16</qty>
+            <unit>tablespoons</unit></amt>
+          <item>1 c</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>4 tb</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>5-1/3 tb</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>1 pt</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>1 qt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pints</unit></amt>
+          <item>1 qt</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>fluid ounces</unit></amt>
+          <item>1 jigger</item></ing></ing-div>
+      <ing-div>
+        <title>WEIGHT EQUIVALENTS</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>25 gm</item></ing>
+        <ing>
+          <amt>
+            <qty>1/16</qty>
+            <unit>ounces</unit></amt>
+          <item>1 gm; 0.035 oz</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>28.35 gm</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>453.6 grams</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>1 kg</item></ing></ing-div>
+      <ing-div>
+        <title>PRODUCT EQUIVALENTS</title>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3 3/4</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb butter</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>4 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb cheese; grated</item></ing>
+        <ing>
+          <amt>
+            <qty>3 3/4</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb whole wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb corn meal</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb raisins, seeded</item></ing>
+        <ing>
+          <amt>
+            <qty>2 2/3</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb dates, pitted</item></ing>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>1 lb dates, unpitted</item></ing></ing-div>
+      <ing-div>
+        <title>CAN EQUIVALENTS</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>#1 can</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>#2 can</item></ing>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>#2-1/2 can</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>#3 can</item></ing>
+        <ing>
+          <amt>
+            <qty>13</qty>
+            <unit>cups</unit></amt>
+          <item>#10 can</item></ing></ing-div>
+      <ing-div>
+        <title>OTHER EQUIVALENTS</title>
+        <ing>
+          <amt>
+            <qty>4 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>3 lb chicken, cooked/diced (1-1/2 lb)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cocoa = 1 chocolate square</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Uncooked macaroni = 2-2/3 c cooked</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Uncooked meat = 2-2/3 cooked</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Uncooked rice = 4 c cooked</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Uncooked spaghetti=2c cooked</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

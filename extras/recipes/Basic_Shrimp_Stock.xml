@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Shrimp Stock</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Seafood</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion, peeled &amp; quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Clove garlic, peeled and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Rib celery</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Rinsed shrimp detritus</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(heads, shells, etc)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(of course, include similar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>"waste parts" from any</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Other seafood, if desired.)</item></ing></ingredients>
+    <directions>
+      <step>  Cover ingredients with 2 Quarts *cold* water in a large stock pot or
+  saucepan.  Bring to boiling over high heat, then lower heat and *gently*
+  simmer for 4 - 8 hours, replenishing liquid as required to keep about 1
+  quart of liquid in the pan.  The pot may be left wholly or partially
+  uncovered.  Strain, cool and refrigerate until ready to use.
+ 
+</step></directions></recipe></recipeml>

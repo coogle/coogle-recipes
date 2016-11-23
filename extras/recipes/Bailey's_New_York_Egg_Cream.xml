@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bailey's New York Egg Cream</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Bailey's Irish Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Chocolate or vanilla syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Bottle seltzer water or club soda</item></ing></ingredients>
+    <directions>
+      <step>  In a soda glass, stir together the Bailey's, milk, and syrup until well
+  blended. Add the seltzer water all at once, which will produce 2-inch foamy
+  head. Serve immediately. Makes 1 serving. MasterCook formatted by Ethel
+  Snyder
+  
+  NOTES : This recipe is a modern version of the 1930's New York soda
+  fountain classic.
+  Recipe by: HOME MAGAZINE -- JULY/AUGUST 1997 Posted to MC-Recipe Digest V1
+  #641 by essie49@juno.com (Ethel R Snyder) on Jun 08, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Babysitter's Spaghetti Casserole</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Pasta</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Hamburger</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Celery stalks; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green pepper; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tomatoes; 28 oz</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Spaghetti or other pasta 500</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cheese; blue, crumbled (opt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cheese; grated</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350F. In frypan,  brown meat, stirring till light brown &amp;
+  crumbly. Add onions, celery &amp; green pepper. Cook for 3 min.
+   Add tomatoes &amp; simmer a few minutes.  Add salt &amp; pepper. Cook pasta;
+  drain. In buttered  2 qt casserole, combine pasta, sauce &amp; blue cheese.
+  Sprinkle grated cheese on top. Bake in a 350F oven for 20 min.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

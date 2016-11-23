@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amy Scherber's Dough Rolls</title>
+      <categories>
+        <cat>Amy</cat>
+        <cat>Scherber</cat>
+        <cat>Bread</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>&lt;&lt;--NONE--&gt;&gt;</item></ing></ingredients>
+    <directions>
+      <step>  This recipe can be divided into 2 dozen pieces and shaped into rolls.
+  
+  Place in a square pan with rolls touching and sprinkle with oats. Let rise
+  for 1 1/2 to 2 hours and bake in a preheated 425 degree oven for 10
+  minutes. Reduce temperature to 375 degrees and bake for 15 to 20 minutes.
+  
+  BAKERS' DOZEN AMY SCHERBER SHOW #BD1A53
+  
+  Copyright, 1996, TV FOOD NETWORK, G.P., All Rights Reserved
+  Posted to Bakery-Shoppe Digest V1 #230 by Bill &lt;thelma@pipeline.com&gt; on Sep
+  11, 1997
+ 
+</step></directions></recipe></recipeml>

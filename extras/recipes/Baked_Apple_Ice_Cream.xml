@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apple Ice Cream</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>APPLE PUREE</title>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Tart baking apples</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Boiling water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cinnamon</item></ing></ing-div>
+      <ing-div>
+        <title>ICE CREAM</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>packages</unit></amt>
+          <item>Unflavored gelatin</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Light cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Instant vanilla pudding</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground nutmeg</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Halve &amp; core apples. Place in 13x9x2-inch baking pan. Dissolve sugar in
+  boiling water &amp; pour over apples. Sprinkle with cinnamon. Bake at 350 for
+  45 minutes or until tender. Drain, cool &amp; scrape pulp from skins. Process
+  until smooth. Measure about 2-3/4 cups pureed apples. (For a short cut, use
+  applesauce.) Soften gelatin in 1-1/2 cups apple puree. Heat until gelatin
+  dissolves &amp; remove from heat. Stir in remaining puree, milk, sugar &amp; salt.
+  In a large mixer bowl, mix 4 eggs. Add cream, pudding mix, lemon juice,
+  cinnamon &amp; nutmeg. Stir in puree mixture. Freeze in ice cream freezer
+  according to directions.
+  
+  KATHERINE HILL
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

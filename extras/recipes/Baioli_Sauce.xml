@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baioli Sauce</title>
+      <categories>
+        <cat>Garlic</cat>
+        <cat>Dressings</cat>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Cloves fresh garlic, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dijon-style mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh basil leaves</item></ing></ingredients>
+    <directions>
+      <step>  In blender jar, place 4 to 6 cloves fresh garlic, peeled, 2 egg yolks, 3
+  tablespoons lemon juice, 1 tablespoon mustard and 1/2 teaspoon salt.
+  Cover and blend smooth.  With blender running, remove cover and very
+  slowly pour in 1 cup olive oil in a very thin stream.  Cover blender, turn
+  off and scrape down sides.  Adjust seasoning.  Add 1/2 cup fresh sweet
+  basil leaves, and blend briefly, until coarsely chopped.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/garlic.zip
+ 
+</step></directions></recipe></recipeml>

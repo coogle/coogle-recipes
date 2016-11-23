@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Stedda" Ricotta</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Soft tofu</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Spoon of ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Spoon of salt; (or less)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Some water</item></ing></ingredients>
+    <directions>
+      <step>  I use this very simple recipe from the The American vegetarian cookbook:
+  from the fit for life kitchen. You can use this recipe instead of the
+  ricotta in this way or you can mix it through your (home made) tomato
+  sauce.
+  
+  Blend 3/4 of the tofu with the nutmeg and salt. Add some water to smooth.
+  Mash the rest of the tofu through with a fork.
+  Posted to fatfree digest by "Boxel" &lt;boxel@sr.net&gt; on May 21, 1998
+ 
+</step></directions></recipe></recipeml>

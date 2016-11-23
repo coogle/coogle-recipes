@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beans/potato Curry</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Indian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Urad dal</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetarian</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Turmeric</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil, mustard seeds, and urad dal.  Roast for a few seconds. Add
+  vegetables.  Sprinkle salt and turmeric. Cook on high heat for a couple of
+  minutes. Add coriander powder, chili powder, and cumin powder, (and ginger
+  and garlic if you wish) cover and cook on low until done. For making the
+  potatoes more crisp, add rice powder (arshi maav) and stir it in.
+  
+    Rajeev Krishnamoorthy, rajeev@twain.EE.CORNELL.EDU
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

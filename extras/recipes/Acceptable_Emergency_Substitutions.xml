@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acceptable Emergency Substitutions</title>
+      <categories>
+        <cat>Hints/info</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>ALLSPICE, 1 TSP GROUND</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cloves</item></ing></ing-div>
+      <ing-div>
+        <title>FINES HERBES, 4 TSP</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Chervil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Chives</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Tarragon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Parsley</item></ing></ing-div>
+      <ing-div>
+        <title>ASIAN FISH SAUCE, 1 TBSP</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Mashed anchovies</item></ing></ing-div>
+      <ing-div>
+        <title>FIVE SPICE POWDER, 5 TSP</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Fennel seed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Star anise</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Szechwan peppercorns</item></ing></ing-div>
+      <ing-div>
+        <title>ITALIAN HERB SEASONING, 2 TB</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Oregano</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Marjoram</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Basil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Rosemary</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sage</item></ing></ing-div>
+      <ing-div>
+        <title>PUMPKIN PIE SPICE, 1 TSP</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground mace</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cloves</item></ing></ing-div>
+      <ing-div>
+        <title>CINNAMON SUGAR, 1 CUP</title>
+        <ing>
+          <amt>
+            <qty>7/8</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar or superfine sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Ground cinnamon</item></ing></ing-div>
+      <ing-div>
+        <title>TAMARIND PASTE, 1 TBSP</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Dates</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Prunes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Dried apricots</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Lemon juice</item></ing></ing-div>
+      <ing-div>
+        <title>TOMATO SAUCE, 1 CUP</title>
+        <ing>
+          <amt>
+            <qty>3/8</qty>
+            <unit>cups</unit></amt>
+          <item>Tomato paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing></ing-div>
+      <ing-div>
+        <title>SEASONED RICE VINEGAR, 1 TB</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Rice vinegar OR</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>White wine vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  CHILI SAUCE: Ketchup with prepared horseradish and lemon juice to
+  taste.
+  
+  FRESH CHIVES: Green onions, including the tops.
+  
+  CHORIZO SAUSAGE: Hot Italian sausage, seasoned with garlic and ground
+  red pepper.
+  
+  FISH STOCK: Equal parts clam juice and water.
+  
+  DRIED CURRANTS: Chopped dark raisins.
+  
+  GRAHAM CRACKER CRUMBS, 1 CUP: 15 graham crackers, ground in a blender.
+  :     OR 1 cup vanilla wafer crumbs.
+  
+  FRESH HERBS, 1 TABLESPOON MINCED: 1 teaspoon dried, of the same kind.
+  
+  FRESH HORSERADISH, 1 TABLESPOON GRATED: 2 tablespoons prepared,
+  well-drained.
+  
+  HOT SAUCE (TABASCO): use red pepper flakes or ground red pepper.
+  
+  LEMON GRASS, 1 TABLESPOON MINCED: 1 teaspoon grated lemon rind.
+  
+  PREPARED MUSTARD, 1 TABLESPOON: 1 teaspoon dry mustard mixed with 2
+  teaspoons wine vinegar, white wine or water.
+  
+  PANCETTA: Cooked, lean bacon.
+  
+  PINE NUTS: Walnuts or Almonds.
+  
+  PROSCUITTO: Country ham.
+  
+  SAKE OR RICE WINE: Dry sherry or dry vermouth.
+  
+  SHALLOTS: Minced onion with half a small clove of minced garlic.
+  
+  CHINESE BLACK VINEGAR: Balsamic vinegar.
+  
+  WHITE WINE FOR COOKING: Dry vermouth.
+  
+  CAKE YEAST, 5/8-OUNCE CAKE: 1 Packet active dry yeast.
+  
+  Source: Oregonian FoodDay Food Tip column; typos by Dorothy Flatman
+  1996 From: Dorothy Flatman                 Date: 04-19-96
+  Posted to MM-Recipes Digest V3 #251
+  
+  Date: Fri, 13 Sep 1996 21:49:13 -0400
+  
+  From: BobbieB1@aol.com
+ 
+</step></directions></recipe></recipeml>

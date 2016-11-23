@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waffle Turtle Cookies</title>
+      <categories>
+        <cat>4/9 chat</cat>
+        <cat>Cookies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CREAM TOGETHER</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Sq unsweetened chocolate, melted</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs, slightly beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Oleo, soft</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing></ing-div>
+      <ing-div>
+        <title>ADD AND MIX WELL</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>ICING (OPTIONAL</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Sq chocolate, melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Oleo</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat waffle iron. Drop batter by tablespoons on waffle iron. Close and bake
+  1 minute or little less. Open lid and wait 1 minute; remove lightly with
+  fork. Cool and frost if desired with icing.
+  
+  Recipe by: CBUSA, Art Guyer Posted to Kitmailbox Digest by "Art Guyer"
+  &lt;Beach_Bum@usa.net&gt; on Apr 10, 1997
+ 
+</step></directions></recipe></recipeml>

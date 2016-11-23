@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anna Cutlets</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bone-free cuts of pork; e.g. cutlets, 150 grammes apiece</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit>grams</unit></amt>
+        <item>Sliced mushrooms; (canned or deep-frozen mushrooms can be used)</item></ing>
+      <ing>
+        <amt>
+          <qty>400</qty>
+          <unit>grams</unit></amt>
+        <item>Peeled potatoes; in thin slices</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter for frying</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper as desired</item></ing></ingredients>
+    <directions>
+      <step>  http://www.santesson.com/recept/favlist.htm
+  
+  "Allt om Mat" is a leading Swedish food magazine. We were immensely proud
+  when it published our recipe for Anna cutlets in the early 1970s. (We also
+  appreciated when the magazine, 25 years later, included a link to our
+  recipe collection - see AoM #17, 1997.) It is a very convenient dish, can
+  be prepared long in advance with everything contained in one pot.
+  
+  1.Fry the mushroom slices briefly in a hot frying-pan.
+  
+  2.Place the pork cuts in a buttered gratin dish and cover them with the
+  mushrooms, then put the potato slices on top in a even layer.
+  
+  3.Use salt and pepper as desired, then top with very thin slices of butter.
+  
+  4.Cook in the oven at 200 - 225 oC for 45 minutes.
+  Serve together with a tomato-lettuce-cucumber salad.
+  Posted to recipelu-digest by LSHW &lt;shusky@erols.com&gt; on Feb 17, 1998
+ 
+</step></directions></recipe></recipeml>

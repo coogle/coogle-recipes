@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pesto Recipe</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Basil leaves; packed tightly</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pine nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parmigiano reggiano; freshly grated</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pecorino; freshly grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ligurian olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper; to taste</item></ing></ingredients>
+    <directions>
+      <step>  In a food processor pulse basil leaves, garlic, pine nuts and cheeses until
+  blended. With motor running, pour olive oil in a thin stream until
+  incorporated. Season with salt and pepper.
+  
+  Recipe by: MEDITERRANEAN MARIO #ME1A05
+  
+  Posted to MC-Recipe Digest V1 #1000 by Sue &lt;suechef@sover.net&gt; on Jan 10,
+  1998
+ 
+</step></directions></recipe></recipeml>

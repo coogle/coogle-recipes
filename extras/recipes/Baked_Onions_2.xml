@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Onions</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Side dish</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Red onions, halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Rind of lemon,cut in strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Port wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  In large saucepan, cover onions and lemon rind with water; bring to boil
+  and boil for 5 minutes. Drain; refresh under cold running water and drain
+  again. Discard rind. Peel onions and arrange in 13 x 9 inch casserole dish;
+  pour olive oil over.
+  
+  Bake, uncovered in 375=F8F oven, basting occasionally, for 40 minutes. Add
+  port, vinegar, raisins, sugar, and pepper to taste. Bake for 30 minutes
+  longer or until juices are syrupy. Makes 12 servings. Source: Canadian
+  Living Magazine ch.
+  Posted to MM-Recipes Digest V3 #279
+  
+  Date: Fri, 11 Oct 1996 13:40:10 -0400
+  
+  From: Cindy J Hartlin &lt;chartlin@total.net&gt;
+ 
+</step></directions></recipe></recipeml>

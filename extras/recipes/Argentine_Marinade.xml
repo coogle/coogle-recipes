@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Argentine Marinade</title>
+      <categories>
+        <cat>Argentina</cat>
+        <cat>Condiment</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Saffron threads</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Virgin olive oil (1 20ml)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>White wine vinegar (1 20 ml)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Spanish onion, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves, pressed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parsley, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper</item></ing></ingredients>
+    <directions>
+      <step>  An Argentine asado or barbecue is not authentic without this delicious
+  marinade called chimichuri. it is similar to a multi spiced
+  vinaigrette and is given an earthier tone with the addition of
+  saffron.
+  
+  I serve this with poultry or shellfish and brush it on top of garlic
+  bread before toasting.
+  
+  Powder threads and steep in lemon juice for 20 minutes.  Combine all
+  ingredients with whisk and store in covered jar.
+  
+  From "Wild About Saffron++A Contemporary Guide to an Ancient Spice",
+  by Ellen Szita.  Published by Saffron Rose, 28 John Glenn Circle,
+  Daly City, Ca., 94105.  1987.
+  
+  Posted by Stephen Ceideberg; March 30 1993.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

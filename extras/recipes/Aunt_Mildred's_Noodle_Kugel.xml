@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Mildred's Noodle Kugel</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Usenet</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Noodles, uncooked</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Cottage cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Pineapple, crushed, with juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cornflake crumbs, to top</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in a 9x13 pan.  Add noodles.
+  
+  Combine remaining ingredients, except crumbs, spread evenly over noodles.
+  Top with crumbs. Bake at 350 degrees F. for about an hour.
+  
+  NOTES:
+  
+  *  Noodle kugel using uncooked noodles -- This recipe is interesting
+  because you don't cook the noodles first. Yield: Serves 6.
+  
+  *  This recipe is very simple, but it does taste a little pastier than
+  recipes that require the noodles to be cooked first. It also comes out very
+  flat -- most of the kugel recipes I've made in the past use twice as many
+  noodles in the same size pan. I found that some of the things can be
+  increased, i.e., add more noodles, more pineapple, more cottage cheese.
+  
+  : Difficulty:  easy.
+  : Time:  5 minutes preparation, 1 hour cooking.
+  : Precision:  no need to measure.
+  
+  : susan@sftig.UUCP (S.Eisen)
+  
+  : Copyright (C) 1986 USENET Community Trust
+  : AT&amp;T Bell Laboratories, Summit, NJ
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

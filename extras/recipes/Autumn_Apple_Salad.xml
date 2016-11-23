@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Autumn Apple Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(20 ounces) crushed pineapple, undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(3 ounces) lemon-flavored gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(8 ounces) cream cheese, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Diced unpeeled apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>To 1 cup chopped nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Whipped topping Lettuce leaves</item></ing></ingredients>
+    <directions>
+      <step>  In a saucepan, combine pineapple and sugar; bring to a boil and boil for 3
+  minutes. Add gelatin; stir until dissolved. Add cream cheese; stir until
+  mixture is thoroughly combined. Cool. Fold in apples, nuts, celery and
+  whipped topping. Pour into a 9-in. square baking pan. Chill until firm. Cut
+  into squares and serve on lettuce leaves.
+  
+  Yield: 9-12 servings. From the files of Al Rice, North Pole Alaska. Feb
+  1994
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

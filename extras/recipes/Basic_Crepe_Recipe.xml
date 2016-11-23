@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Crepe Recipe</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or oil; melted/cooled</item></ing></ingredients>
+    <directions>
+      <step>  Mixing crepes by hand.
+  
+  Sift the dry ingredients into a bowl.  Break the eggs into another bowl and
+  mix until yolks and whites are blended. Make a hole in the middle of the
+  dry ingredients and pour in beaten eggs. (French chefs often break the eggs
+  right into the dry ingredients but this makes mixing more difficult.
+  
+  Stir the flour mixture into the eggs little by little. The dough will be
+  difficult to work and it may be necessary to add a little milk (or whatever
+  liquid is used in the particular recipe) to incorporate all the flour. Add
+  the liquid a spoonful at a time and mix it in thoroughly before adding more
+  liquid.  When the mixture becomes easy to work (when about half of the
+  liquid has been used) the remainder can be added in two portions.
+  
+  Add melted butter (and flavorings if indicated).
+  
+  Mix again, cover and set aside for at least an hour but not more than 6
+  hours at room temperature.  Crepe batter can be held overnight in the
+  refrigerater.  If necessary, the crepe batter can be cooked immediately,
+  but the "resting" time allows the flour to absorb more liquids, makes the
+  mabber easier to handle, and gives the crepes more flavor. Since flours
+  vary in their ability to absorb liquid, if the crepe batter seems too thick
+  when you are ready to cook it, a small amount of extra liquid can be added
+  at this time.  The consistency could be at least as thin as heavy cream.
+  
+  From:  You can do anything with crepes.  1993 Cooking Echo Picnic Cookbook
+  exchange. Happy Charring
+  
+  ~-- EZPoint V2.2 * Origin: "LaRK's" Place (1:343/26.3)
+  ======================================================= ===================
+  BBS: High Country East Date: 07-31-93 (23:19) Number: 1775 From: LAWRENCE
+  KELLIE
+  :           Refer#: NONE To: ALL Recvd: NO Subj: recipe Conf: (52) Cooking
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aceite O Manteca De Achiote (Annato Oil or Lara)</title>
+      <categories>
+        <cat>Caribbean</cat>
+        <cat>Condiments</cat>
+        <cat>Upload</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Oil, vegetable</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Annatto seeds</item></ing></ingredients>
+    <directions>
+      <step>    Heat the oil in a small saucepan, add the seeds and cook over low heat
+  for about 5 minutes, stirring from time to time, until a rich orange color
+  is obtained. Cool, strain and store in a covered jar in the refrigerator.
+  It will keep for several months.
+    If the seeds are cooked too long, the orange color will change to a
+  golden color and much of the flavor is lost. Very stale seeds will give off
+  all their color in one minute of cooking. Watch the saucepan carefully and
+  remove it from the heat immediately the color begins to lighten.
+    MM and upload by DonW1948@aol.com / CBCC
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bakers' Cream - {creme Patissiere}</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing></ingredients>
+    <directions>
+      <step>  Scald milk with vanilla. In heavy saucepan, combine sugar, flour, salt, and
+  egg yolks. Stir until well blended. Add milk gradually. Cook over low
+  flame, stirring constantly, being careful to scrape bottom of pan. Bring to
+  boil and continue boiling for 3 minutes. Pour cream into a bowl and let
+  cool. Stir occasionally until cold.
+  
+  From: The Art of French Cooking
+  
+  Recipe by: Fernande Garvin
+  
+  Posted to TNT Recipes Digest by Carriej999 &lt;Carriej999@aol.com&gt; on Apr 28,
+  1998
+ 
+</step></directions></recipe></recipeml>

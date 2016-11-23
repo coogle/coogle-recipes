@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alora's Rhubarb Pie</title>
+      <categories>
+        <cat>Recipelu se</cat>
+        <cat>Rhubarb</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs; beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>5 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Coarsely chopped rhubarb</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>8" unbaked pie shells</item></ing></ing-div>
+      <ing-div>
+        <title>CRUMBS</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  To prepare filling combine sugar, flour and eggs. Stir to form a thick
+  paste. Fold in rhubarb pieces.
+  
+  Spoon into 2 unbaked pie shells (cut recipe by half if you only want to
+  make one pie)
+  
+  To prepare crumbs combine all ingredients and mix well. Sprinkle evenly
+  over rhubarb mixture.
+  
+  Bake at 400 degrees for 10 minutes, reduce heat to 350 degrees and bake
+  40-50 minutes more. Sent recipeLu 3/98
+  Posted to recipelu-digest by ncanty@juno.com (Nadia I Canty) on Mar 13,
+  1998
+ 
+</step></directions></recipe></recipeml>

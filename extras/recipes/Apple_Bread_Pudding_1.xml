@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Bread Pudding 1</title>
+      <categories>
+        <cat>Puddings</cat>
+        <cat>Desserts</cat>
+        <cat>Low-fat</cat>
+        <cat>Bread</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apples; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Bread; cubed, small pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Skim Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Maple syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing></ingredients>
+    <directions>
+      <step>  Mix lemon juice with grated apple. Blend the soymilk, egg replacer, maple
+  syrup and cinnamon (and vanilla, if you use it) together. Put one third of
+  the bread in the bottom of a greased 8" by 8" baking dish and cover with 1
+  cup of the apples and half the raisins. Pour one cup of the liquid mixture
+  over these ingredients. Repeat the layers of bread, apple and raisins,
+  ending with a top layer of bread.
+  
+  Pour the rest of the liquid ingredients over it. Sprinkle with cinnamon.
+  Let pudding sit for about 20 minutes. Bake, covered, at 350 degrees F (325
+  if you use a glass dish) for 45 minutes. Let stand for 10 to 20 minutes at
+  room temperature before serving.
+  
+  Recipe by: Net
+  
+  Posted to JEWISH-FOOD digest Volume 98 #004 by Annice Grinberg
+  &lt;VSANNICE@WEIZMANN.WEIZMANN.AC.IL&gt; on Jan 04, 98
+ 
+</step></directions></recipe></recipeml>

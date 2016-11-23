@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baby Garbanzo Dip</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chana dal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Plum tomatoes; (fresh or whole canned)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne; (or to taste)</item></ing></ingredients>
+    <directions>
+      <step>  This recipe uses chana dal aka bengal gram dal aka baby garbanzos. The
+  seasoning is based on Gabe Mirkin's hummus recipe. This was a little too
+  much work, but the dip is good.
+  
+  Soak chana dal in water overnight. Drain dal and boil in new water for
+  about an hour till soft. Strain the dal. Puree all ingredients in a
+  blender. Serve with pita bread or chopped veggies.
+  
+  Posted to fatfree digest V97 #295 by Michelle Dick &lt;artemis@rahul.net&gt; on
+  Dec 14, 97
+ 
+</step></directions></recipe></recipeml>

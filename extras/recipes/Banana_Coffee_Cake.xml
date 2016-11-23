@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Coffee Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BATTER</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick margarine; at room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>large</unit></amt>
+          <item>Bananas; mashed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg white; whipped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon peel; grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Skim milk; at room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Baking powder</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar; packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Unbleached flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven at 375.  Prepare a 8 1/2 springform pan with cooking spray and
+  flour.  To prepare batter, in a mixing bowl, combine margarine, bananas,
+  egg white, lemon peel, vanilla, and milk.  In another mixing bowl, combine
+  flour, sugar, salt, and baking powder.  Mix wet ingredients with dry
+  ingredients just until moistened.  Pour batter into prepared pan.
+  Meanwhile, to prepare topping, combine brown sugar, flour, and cinnamon.
+  Sprinkle topping over batter.  Bake for 45 to 50 minutes.
+  Recipe By     : Anita A. Matejka
+  
+  Posted to MC-Recipe Digest V1 #249
+  
+  Date: Thu, 17 Oct 1996 11:14:42 -0700
+  
+  From: Gerald Edgerton &lt;jerrye@wizard.com&gt;
+ 
+</step></directions></recipe></recipeml>

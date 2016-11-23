@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Date Breakfast Shake</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Dates; pits removed, up to 3</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>1% Milk; (up to 1-1/2)</item></ing></ingredients>
+    <directions>
+      <step>  Put banana and dates in blender. Add a small amount of milk and blend for 1
+  minute. Add remainder of milk and blend for 1 more minute. Drink up! This
+  liquid breakfast is healthy and delicious.
+  
+  Posted to TNT Recipes Digest by hrh-wysiwyg@aol.com (HRH Wysiwyg) on Apr
+  22, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Double Cheese Quiche</title>
+      <categories>
+        <cat>Eggs</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick chilled butter; cut into small pieces (up to)</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cold water</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>slices</unit></amt>
+          <item>Lean bacon</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>large</unit></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Light cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>White pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Shredded Gruyere cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Shredded white Cheddar cheese</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. To prepare the crust, in a large bowl, mix together the flour and salt.
+  Using a pastry blender or 2 knives, cut in the butter until coarse crumbs
+  form.
+  
+  2. Add water, 1 tablespoon at a time, tossing with a fork, until a dough
+  forms. Shape into a disk, wrap in plastic wrap, and chill in refrigerator
+  for
+       30    minutes.
+  
+  3. Preheat oven to 375 degrees. On a lightly floured surface, using a
+  lightly floured surface, using a lightly floured rolling pin, roll the
+  dough into 11-inch circle. Fit into a 9-inch pie pan. Trim edge, leaving
+  1/4-inch overhang. Fold under to form standup edge. Prick dough with a
+  fork. Line with foil and fill with pie weights or dried beans.
+  
+  4. Bake for 10 minutes. Remove the foil and weights. Bake until lightly
+  golden, about 5 minutes. Transfer to a wire rack to cool.
+  
+  5. Meanwhile, prepare filling. In a medium skillet, cook the bacon over
+  medium heat until crisp, 8-10 minutes. Transfer to a paper towel to drain.
+  
+  6. In a small bowl, whisk together the eggs, cream, thyme, and pepper. Pour
+  into crust. Crumble bacon. Sprinkle the egg mixture with the bacon, Gruyere
+  cheese and Cheddar cheese. Bake until golden and custard is set, about 30
+  minutes. Serve warm.
+  
+  FROM "GREAT AMERICAN HOME
+  
+  BAKING" CARDS
+  
+  From a collection of my mother's (Judy Hosey) recipe box which contained
+  lots of her favorite recipes, clippings, etc.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

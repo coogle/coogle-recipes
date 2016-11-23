@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A 3-Day Marmalade</title>
+      <categories>
+        <cat>Condiments</cat>
+        <cat>Jams</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Sour oranges</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Grapefruit</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>St day:</item></ing></ingredients>
+    <directions>
+      <step>  From: Arizona Cookbook
+  
+  Cut sour oranges and grapefruit in half and remove the seeds. Cut the pulp
+  and rind in slices. Measure. Add 3 times as much water as fruit. Let the
+  mixture stand.
+  
+  2 nd day:
+  
+  Boil the mixture for 20 minutes at a hard boil. Set aside for the next day.
+  
+  3 rd day:
+  
+  Measure the mixture and measure an equal amount of sugar. Boil the fruit
+  for 20 minutes, and add sugar all at once. Stir. Boil 35 min. or until a
+  little jells on a cold saucer. Seal with paraffin while hot.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

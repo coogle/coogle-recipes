@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pot Pie</title>
+      <categories>
+        <cat>Penndutch</cat>
+        <cat>Pies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Apple, baking</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Lard</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>pounds</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Make a dough of the lard, flour and salt, adding enough water to moisten
+  and hold together. Roll out like pie dough and cut into 2 inch squares.
+  Wash and peel apples and cut into eighths. Put alternate layers of apples
+  and dough into kettle, sprinkling each layer of apples generously with
+  sugar and adding a little cinnamon. Have top layer of dough, dot with
+  butter and fill kettle half full of water, cover and cook over a low flame
+  until apples are soft. Serve with milk or cream. Source: Pennsylvania Dutch
+  Cook Book - Fine Old Recipes, Culinary Arts Press, 1936.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

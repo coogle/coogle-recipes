@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Mint Jelly</title>
+      <categories>
+        <cat>Jelly/jam</cat>
+        <cat>Misc</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh mint leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Powdered fruit pectin</item></ing>
+      <ing>
+        <amt>
+          <qty>5 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Green food coloring</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Sue Klapper In a Dutch oven, combine apple juice, mint leaves,
+  lemon juice, and pectin over medium-high heat. Bring to a rolling boil. Add
+  sugar. Stirring constantly, bring to a rolling boil again and boil 1
+  minute. Remove from heat; skim off foam. Strain mixture; discard mint
+  leaves. Tint jelly green. Pour into heat-resistant jars with lids. Store in
+  refrigerator. Yield: about 3 pints jelly. Source: Leisure Arts: Quick &amp;
+  Tasty Christmas Gifts.
+  Posted to MC-Recipe Digest by Nancy Berry &lt;nlberry@prodigy.net&gt; on May 16,
+  1998
+ 
+</step></directions></recipe></recipeml>

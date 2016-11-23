@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Armenian Rice</title>
+      <categories>
+        <cat>Grains</cat>
+        <cat>Usenet</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Rice, uncooked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Egg noodles, small</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Basil (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in large saucepan, add egg noodles and cook until browned. Add
+  rice, stir to coat with butter. Cook on medium-high heat for 1 minute. Add
+  chicken stock and optional basil, and stir to mix.
+  
+  Reduce heat, cover and cook for 25-30 minutes until rice is done. Remove
+  from heat and let stand, covered, for 5 minutes before serving.
+  
+  NOTES:
+  
+  *  Rice with noodles in chicken broth.  Yield:  Serves 2-3.
+  
+  : Difficulty:  very easy.
+  : Time:  5 minutes preparation, 30 minutes cooking.
+  : Precision:  Approximate measurement OK.
+  
+  : Andrew L.  Duane
+  : Compugraphic Corp., Wilmington, Mass., USA
+  : {ima,ism780c,ulowell}!cg-atla!duane
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

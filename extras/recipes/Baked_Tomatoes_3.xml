@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Tomatoes</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Good sized plum tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Grated parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fine bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Dried thyme</item></ing></ingredients>
+    <directions>
+      <step>  Cut each tomato in half and arrange cut side up on a baking dish.
+  Sprinkle each half lightly with bread crumbs, parmesan cheese and thyme.
+  Bake for 15 to 20 min.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmealnew.zip
+ 
+</step></directions></recipe></recipeml>

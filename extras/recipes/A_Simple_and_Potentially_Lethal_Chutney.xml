@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Simple and Potentially Lethal Chutney</title>
+      <categories>
+        <cat>Condiment</cat>
+        <cat>Chutney</cat>
+        <cat>Relish</cat>
+        <cat>Pepper</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>mililiters</unit></amt>
+        <item>Garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>3-4" piece of ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Some tiny very hot chili peppers (I buy these grocery)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne; - more or less, to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper (up To 1)</item></ing></ingredients>
+    <directions>
+      <step>  Cut the onion into matchsticks. Mince the garlic or cut into tiny
+  matchsticks as well. Peel the ginger and cut into thin matchsticks (1/2"
+  long, give or take). Add lemon juice, salt and pepper. Now add heat:
+  cayenne powder to taste and finely chopped hot chilis. Mix well and
+  refrigerate.
+  
+  Drennen wrote: "This is best if made the night before and allowed to rest.
+  I try to remember to stir it once or twice. Wonderful with curries,
+  wonderful with Indian breads. Even wonderful thrown into a green salad."
+  From: dorothy@individual.com (Dorothy Drennen) in rec.food.veg.cooking.
+  Formatted by Cathy Harned. Submitted By CATHY HARNED On 10-1794
+  
+  Posted to KitMailbox Digest  by brightl@kitmailbox.com on 19771,,
+ 
+</step></directions></recipe></recipeml>

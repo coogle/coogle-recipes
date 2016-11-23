@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Up Angel Food Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Angel food cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>ounces</unit></amt>
+        <item>7-Up</item></ing></ingredients>
+    <directions>
+      <step>  Follow the directions on the package of angel food cake mix. Moisten the
+  egg whites with the same quantity of 7-Up as your recipe calls for water.
+  Do not chill the 7-Up; use it at room temperature.
+  
+  You're Really Cooking with You're Cooking with 7-Up!, 1957 from *Cakes Men
+  Like* by Benjamin Darling
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

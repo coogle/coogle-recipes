@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Atole</title>
+      <categories>
+        <cat>Cornmeal</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Atole blue cornmeal (See NOTE)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing></ingredients>
+    <directions>
+      <step>  Mix together cornmeal, cinnamon, salt and water in 3-quart saucepan. Heat
+  to boiling, stirring constantly. Reduce heat to low. Stir in milk and
+  honey. Heat to simmering, stirring constantly (do not boil). NOTE: Regular
+  blue cornmeal can be substituted for the atole blue cornmeal. Spread
+  cornmeal in ungreased shallow baking pan. Bake, at 400F, stirring
+  occasionally, until light brown, about 10 minutes.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

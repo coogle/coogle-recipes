@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley Stuffed Peppers</title>
+      <categories>
+        <cat>Veggie</cat>
+        <cat>Main dish</cat>
+        <cat>Meat sub</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Pepper green</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onion chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Garlic clove minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme, ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Barley, dry</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato Sauce, canned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Cheddar Cheese</item></ing></ingredients>
+    <directions>
+      <step>  cut top and stem off the peppers. clean out seeds and inside ribs. chop
+  onion into course cubes. cook the barley per box instructions. pre-heat an
+  oven to 350 degrees. bring water to a boil in a pot big enough to hold the
+  four peppers. add peppers to boiling water for about 2 or 3 minutes or
+  until crisp-tender (not soft). stir fry the onions, garlic, and spices over
+  medium heat for about 7 minutes. grate the cheddar cheese. stir in the
+  barley, grated cheddar cheese and tomato sauce and mix well then remove
+  from heat. Place peppers in an 8 inch glass pie dish. fill peppers with
+  mixture, cover them with foil and bake in the oven for 25 to 30 minutes
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

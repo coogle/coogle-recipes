@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic "Chicken" Broth</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water, boiling</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Nutritional yeast (or more)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Poultry seasoning  (or more)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mushrooms; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onions; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable broth powder or bouillon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Onion salt to taste</item></ing></ingredients>
+    <directions>
+      <step>  Stir ingredients together for an instant broth. Use in recipes calling for
+  chicken stock, and as a basis for chickenless noodle or rice soup.
+  
+  For a basic "chicken" gravy, use the above recipe, stirring in flour at
+  medium to low heat until desired thickness is reached. Delicious over
+  mashed potatoes, stuffing and rice.
+  
+  Source:  _Instead of Chicken, Instead of Turkey_,
+  :         United Poultry Concerns, PO Box
+  :         59367, Potomac, MD 20859 (301)948-2406 Posted and MM by: Dianne
+  Smith/DEEANNE [GEnie] Posted by: Unknown [AOL] Hawk's Kitchen Kollection -
+  1994
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

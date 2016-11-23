@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Gold Room" Scones</title>
+      <categories>
+        <cat>Kooknet</cat>
+        <cat>Cyberealm</cat>
+        <cat>Breads</cat>
+        <cat>Muffins</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3 2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Whole milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 425F. Combine the flour, sugar, baking powder, and salt
+  in a large bowl. Mix well. Cut the butter into the flour mixture with a
+  pastry blender until the mixture resembles coarse cornmeal. Add the eggs,
+  milk and raisings. Stir quickly with a fork until the dough leaves the
+  sides of the bowl and forms a ball. Spoon onto an ungreased cookie sheet to
+  form the desired number of scones. Leave at least 1" between the scones.
+  Bake until golden (about 12-15 minutes). Remove to a wire rack, and brush
+  immediately with honey. Serve at once with butter, jam and whipped cream.
+  
+  Posted by Joel Erlich, Kooknet Recipe Network, Cyberealm BBS Watertown, NY
+  315-786-1120
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Mousse</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Unflavored gelatin</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Cup; water, cold</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Tofu; mashed</item></ing></ing-div>
+      <ing-div>
+        <title>VARIATIONS</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Frozen fruit; up to 1</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Fruit preserves; up to 1</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Spices; raisins, and nuts</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Soften the gelatin in the cold water. Stir together the milk and honey and
+  bring to a boil. Add the gelatin mixture and stir until the gelatin is
+  dissolved. Cool. Add vanilla to the cooled mixture. Combine the above
+  mixture and the tofu in a blender and process at high speed until very
+  smooth. Cool the mixture in the refrigerator until almost set. Remove, and
+  beat by hand or with an electric mixer until until light and fluffy. Freeze
+  the mixture in a mold or in a refrigerator tray for about 1-2 hours,
+  depending on size of the mold. Serve before it becomes too hard. Serves 6-8
+  
+  Posted to MC-Recipe Digest by "M. Hicks" &lt;nitro_ii@email.msn.com&gt; on Feb 6,
+  1998
+ 
+</step></directions></recipe></recipeml>

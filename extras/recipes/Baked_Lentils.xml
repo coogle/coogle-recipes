@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lentils</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Beans</cat>
+        <cat>Crowd pleas</cat>
+        <cat>Gluten free</cat></categories>
+      <yield>50</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>7 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lentils; sorted and rinsed</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>quarts</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Golden corn syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garlic powder</item></ing></ingredients>
+    <directions>
+      <step>  Combine lentils and water in a large kettle and bring to a boil. Cover and
+  simmer 30 minutes. Add rest of ingredients; combine well and pour into 5
+  greased 9"x13" baking pans (4 qt capacity]. Cover and bake for 1 1/4 hours.
+  Uncover and bake another 45 minutes. Add water if necessary.
+  
+  Optional: top with bacon that has been cut into small pieces, sauteed
+  slightly and well-drained.
+  
+  Recipe by: Living More With Less by Doris Janzen Longacre
+  
+  Posted to Digest eat-lf.v097.n011 by Jenny Herl &lt;jlherl@uiuc.edu&gt; on Jan
+  12, 1998
+ 
+</step></directions></recipe></recipeml>

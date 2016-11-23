@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Cobbler</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Apricots -- Pitted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg -- Beaten</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fluffy Biscuit Dough</item></ing></ingredients>
+    <directions>
+      <step>  NOTE: THIS DISH MAY BE PREPARED WITH VIRTUALLY ANY OTHER FRUIT OTHER THAN
+  APRICOTS: APPLES, PEACHES, PLUMS, BLACKBERRIES, BLUEBERRIES, CHERRIES, ETC.
+  
+  Preheat the oven to 425 degrees. Combine the apricots, sugar and beaten egg
+  in a saucepan. Heat, stirring, until the mixture begins to thicken - do not
+  let it boil. Prepare half the recipe for Fluffy Biscuit Dough. Place the
+  dough in the bottom of the greased (8" x 8") pan. Cover it completely with
+  the hot fruit mixture. Dot with the butter and sprinkle with the cinnamon.
+  Bake about 30 minutes. Serve with heavy cream.
+  
+  Recipe By     : Joel Ehrlich &lt;Joel.Ehrlich@SALATA.COM&gt;
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Fajitas</title>
+      <categories>
+        <cat>Beef</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Flank steak</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lime juice; fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Canola oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Hot red chili peppers; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Flour tortillas; 7 inch</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Guacamole</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salsa</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Shredded lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sour cream</item></ing></ingredients>
+    <directions>
+      <step>  Trim all fat and membrane from steak. In a large bowl, combine garlic, lime
+  juice, Worcestershire sauce, oil, oregano, cumin, salt, and hot pepper. Add
+  meat and turn to coat. Cover and marinate about 3 hours at room
+  temperature, turning occasionally, or overnight, refrigerated.
+  
+  Prepare a hot fire in a barbecue grill. Place steak on an oiled grill rack
+  4 to 6 inches fromcoals and cook, turning once, until browned outside and
+  pink and juicey inside, 12 to 15 minutes for medium-rare. Remove from grill
+  and let stand while heating tortillas.
+  
+  Place tortillas directly on grill. Heat 10 to 20 second, turning with
+  tongs, until hot and pliable. Wrap in a cloth napkin and place in a basket.
+  
+  Cut meat against grain on a diagonal into thin slices. Place on a large
+  platter. Serve with tortillas, guacamole, salsa, lettuce and sour cream for
+  each person to fill, roll and eat.
+  Posted to recipelu-digest Volume 01 Number 491 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Jan 10, 1998
+ 
+</step></directions></recipe></recipeml>

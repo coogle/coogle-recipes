@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinegar Pudding</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BATTER</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour (all-purpose)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ginger or mixed spice</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>9</qty>
+            <unit>ounces</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Jam or marmalade</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Bicarbonate of soda</item></ing></ing-div>
+      <ing-div>
+        <title>SYRUP</title>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Boiling water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Do try this, even though the idea of vinegar in pud might sound odd. It's
+  very good. It was taken from a collection of Round Table recipes submitted
+  by Table members and tried by a panel of judges before publication.
+  
+  Mix dry ingredients. Mix jam and melted butter and add to dry ingredients.
+  Melt sugar in boiling water and add vinegar. Place spoonfuls of mixture
+  into syrup (in large pyrex dish) and bake at 350F for about 45 minutes.
+  Serve hot with custard.
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by "ANN DAWSON"
+  &lt;dawsona@csurf.co.za&gt; on Mar 2, 1997.
+ 
+</step></directions></recipe></recipeml>

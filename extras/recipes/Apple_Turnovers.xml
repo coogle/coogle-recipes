@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Turnovers</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Fruits</cat>
+        <cat>Pies</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Cheddar; Sharp, Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown Sugar; Firmly Packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Apples; Pared And Cored</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Heat the oven to 425 degrees F.  Combine the flour and salt, mixing well,
+  then cut in the shortening until the mixture resembles coarse crumbs.  Sir
+  in the cheese and sprinkle with water while mixing lightly with a fork,
+  (From 6 to 8 Tbls of water maybe required), continue mixing until dough
+  makes a ball.  Divide the dough into three equal portions and roll each
+  portion, on a lightly flour surface, into a 14 X 7-inch rectangle.  Cut
+  each rectangle into 2 7-inch squares.  Combine the brown sugar and
+  cinnamon, then fill the centers of the apples topping each apple with
+  butter.  Sprinkle the remaining brown sugar mixture over the pastry.
+  Place an apple in each square and fold the corners to the center, pinching
+  the dough at the top of the apple to seal.  Bake in the preheated oven for
+  30 to 35 minutes.  Top with whipped cream.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcheese.zip
+ 
+</step></directions></recipe></recipeml>

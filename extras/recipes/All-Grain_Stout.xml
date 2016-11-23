@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-Grain Stout</title>
+      <categories>
+        <cat>Beer</cat>
+        <cat>Brewing</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Klages</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Pale malt (darker)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Pale malt (very light)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Vienna malt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Barley flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Untyped malted barley</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Roasted barley</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Black patent</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>24</qty>
+          <unit>grams</unit></amt>
+        <item>Buillion hops</item></ing>
+      <ing>
+        <amt>
+          <qty>30</qty>
+          <unit>grams</unit></amt>
+        <item>Cascade hops</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>grams</unit></amt>
+        <item>Hallertauer hops</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Wyeast German ale</item></ing></ingredients>
+    <directions>
+      <step>  The  flaked  barley  has no husk, so I saw no reason  not  to  grind  it
+  finely.  Mash in at 130 degrees. Let rest 20 minutes or so. Mash at  150
+  degrees  for 115 minutes. Sparge. Let the spargings settle. What  seemed to
+  be 3 or 4" of hot break settled out of the initial  spargings!  Boil for 2
+  hours. Add hops as follows: 14 grams bullion and 16 grams  cascade (very
+  fresh) for 1:45. 10 g bullion and 14 g cascade for 1:05. 4  grams
+  hallertauer finish. Chill with an immersion chiller, and strain the wort
+  through the hops. Makes about 5.5 gallons of 1.068 wort. I had 374 out of
+  450 pt * gals of possible extraction, so an  efficiency of about 85%.
+  Original Gravity: 1.068 Primary Ferment at 65 degrees
+  
+  Recipe By     : Serving Size:
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

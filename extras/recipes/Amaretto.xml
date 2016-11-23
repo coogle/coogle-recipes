@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Pure almond extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Vodka</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar syrup (below)</item></ing></ing-div>
+      <ing-div>
+        <title>SUGAR SYRUP</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>White granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Make sugar syrup, cool it, add all the ingredients together, shake well.
+  Mature a few days and it is ready to drink. Yield: 2 cups
+  Sugar Syrup: Bring to a boil, and stir until all the sugar is dissolved and
+  the mixtue is clear. Always cool before adding to alcohol mixture; heat
+  caused alcohol to evaporate. If tap water is heavily cholorinated or bad
+  tasting, (use bottled water or) heat thesyrup a few minutes to drive off
+  chlorination.
+  
+  Posted to FOODWINE Digest 12 Dec 96
+  
+  From:    Kathy Dell &lt;kdell@FLUTE.AIX.CALPOLY.EDU&gt;
+  
+  Date:    Thu, 12 Dec 1996 15:19:09 -0800
+ 
+</step></directions></recipe></recipeml>

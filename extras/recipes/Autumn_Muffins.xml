@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Autumn Muffins</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>WET MIX</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Treacle (or molasses; not blackstrap)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Pumpkin puree (see note)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Orange puree (1 orange pulped in a whiz; skin &amp; all)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Pecan nuts</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Dried apricots</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sunflower seeds</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chopped raisins</item></ing></ing-div>
+      <ing-div>
+        <title>DRY MIX</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Rolled rye or rolled oats</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Self-raising flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Powdered ginger</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   Preheat oven to 350øF, prepare pans. Blend the margarine, sugar &amp; treacle.
+  Beat in eggs, pumpkin &amp; orange. Mix in the remaining wet mix ingredients.
+  Add the dry mix &amp; mix well. Spoon into pans &amp; bake for 30-35 mins. Makes
+  15-18.
+  
+   NOTE: To make 1-1/2 cups pumpkin puree, cook 1 lb pumpkin in 1/3 cup of
+  water.
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

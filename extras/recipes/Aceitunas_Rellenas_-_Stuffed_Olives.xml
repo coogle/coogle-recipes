@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aceitunas Rellenas - Stuffed Olives</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Mexican</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>7 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Can Pitted Olives</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Can Anchovy Fillets, Cut In Small Pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Can Chopped Pimentos</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove Garlic, Mashed Or Pressed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Wine Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil From Anchovies</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Minced Parsley</item></ing></ingredients>
+    <directions>
+      <step>  Drain olives and stuff with the anchovy fillets. Combine the other
+  ingredients, except parsley; pour over the olives and marinate over-night.
+  Mix in parsley half an hour before serving. If the idea of stuffing the
+  olives throws you, don't do it.  Simply add the anchovies to the marinade
+  and pour over the olives. These will keep for a week or more if parsley is
+  added just before serving.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banquet Nut Wafers</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Flavoring</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cream of tartar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Banquet wafers</item></ing></ingredients>
+    <directions>
+      <step>  Boil sugar and water without stirring until syrup spins a thread. Pour very
+  slowly over stiffly beaten egg whites and beat until smooth. Add little
+  cream tarter, amount that will lie on end of knife blade. Allow to stand a
+  few minutes, then spread on banquet wafers and sprinkle with ground nuts.
+  Put in hot oven to brown.
+  
+  Note: Hot oven is 400 - 450 F.
+  
+  Source: Mrs. Mabel Rife, Good Hope Grange, Fayette County, OH
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

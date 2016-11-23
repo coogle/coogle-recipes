@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Kiwi Pudding</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Skim milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Low-calorie sugar substitute to equal 2 TBL sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ripe banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping cream; whipped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Kiwi fruit; sliced, for garnish</item></ing></ingredients>
+    <directions>
+      <step>  Cook rice and milk in 2-quart saucepan over medium heat until thick and
+  creamy, 5 to 8 minutes, stirring frequently. Remove from heat; cool. Stir
+  in vanilla and sugar substitute. Just before serving, mash banana; fold
+  banana and whipped cream into pudding. Garnish with kiwi fruit slices.
+  Makes 4 servings.
+  
+  Each serving provides 207 calories, 5 grams protein, 6 grams fat, 32 grams
+  carbohydrate, 2 grams dietary fiber, 22 milligrams cholesterol and 49
+  milligrams sodium.
+  Posted to recipelu-digest Volume 01 Number 495 by "Sarah Navarro"
+  &lt;sarahn@lightspeed.net&gt; on Jan 11, 1998
+ 
+</step></directions></recipe></recipeml>

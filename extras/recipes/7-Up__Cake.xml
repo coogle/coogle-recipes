@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Up  Cake</title>
+      <categories>
+        <cat>Cake</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Box yellow cake mix</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Box instant pudding; vanilla or pineapple</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(10 oz) or 1 1/4 c. 7-Up</item></ing></ing-div>
+      <ing-div>
+        <title>PINEAPPLE ICING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick melted margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Crushed pineapple including juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Coconut</item></ing>
+        <ing>
+          <amt>
+            <qty>From:</qty>
+            <unit/></amt>
+          <item>rayna knighton &lt;rayna@ICONZ.CO.NZ&gt;</item></ing>
+        <ing>
+          <amt>
+            <qty>Date:</qty>
+            <unit/></amt>
+          <item>Wed, 10 Jul 1996 07:16:22 +1200</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Beat first four ingredients until light and fluffy.  Add 7-Up and beat
+  well. Pour into greased and floured 9"x13" pan. Bake 40 minutes at 350
+  degrees. While cake is baking, make Pineapple icing: Blend first five
+  ingredients and cook until thick, then add coconut. Frost cake while it is
+  still warm.
+  
+  EAT-L Digest  8 July 96
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

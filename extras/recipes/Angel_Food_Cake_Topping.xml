@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Cake Topping</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg white</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(10-oz) frozen strawberries, *, half thawed</item></ing></ingredients>
+    <directions>
+      <step>  *(you may use red raspberries) Combine all ingredients. Beat in electric
+  mixer for at least 30 minutes. Makes a delicious topping for a white cake.
+  But 30 minutes? Thank goodness for stand mixers. :-))
+  
+  Recipe by: Martha Dixon's Copper Kettle cookbook Posted to MC-Recipe Digest
+  V1 #658 by essie49@juno.com (Ethel R Snyder) on Jul 05, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Sloppy Joe</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground meat</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Barbecue sauce to moisten</item></ing></ingredients>
+    <directions>
+      <step>  Follow the same procedure used above to brown the meat and onion. Add any
+  favorite barbecue sauce to moisten. Serve on toasted hamburger buns.
+  
+  Serve with favorite rabbit foods: carrot sticks, celery sticks, raw tiny
+  okra, jicama, whatever you prefer.
+  
+  Posted to recipelu-digest by Eeyore &lt;efalt@zianet.com&gt; on Feb 04, 1998
+ 
+</step></directions></recipe></recipeml>

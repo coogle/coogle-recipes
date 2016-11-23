@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunty Fay's Coffee Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Bisquick® baking mix</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/8</qty>
+            <unit>cups</unit></amt>
+          <item>Cream, * see note</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Wesson Oil</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Nuts, I used walnuts</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cinnamon (up to 2)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven 350 degrees. Grease and flour 13x8 inch pan. Mix all
+  ingredients together. Pour into pan. Mix topping ingredients together.
+  Sprinkle topping over the top. Bake about 25-30 minutes until toothpicck
+  inserted comes out clean
+  
+  NOTES : evaporated or half n half okay
+  
+  Recipe by: Aunty Fay Posted to MC-Recipe Digest V1 #633 by Steve &amp;
+  Elizabeth Key &lt;drkey@maui.net&gt; on Jun 02, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waadtland Cheese Fritters</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slices toast, each 1 3/8 inches thick</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>White wine</item></ing>
+      <ing>
+        <amt>
+          <qty>5 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Gruyere cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Moisten the slices of toast with a little of the wine and arrange on a
+  baking sheet.  Mix the rest of the wine with the cheese, egg and spices to
+  a fairly thick paste and spread on the toast. Sprinkle with more paprika
+  and pepper.  Bake briefly in a very hot oven (445 degrees F/Gas mark 8)
+  until cheese begins to melt, serve at once.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

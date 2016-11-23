@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antipasto Skewers</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Seasonal melon, peeled --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cut into 36 cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Prosciutto -- sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Paper-thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Italian fontina cheese --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cut into 36 cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>36</qty>
+          <unit/></amt>
+        <item>Black olives -- (best</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Quality)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Olive oil -- for drizzling</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground pepper -- for</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garnish</item></ing></ingredients>
+    <directions>
+      <step>  1. Wrap each cube of melon in a piece of prosciutto.
+  
+  2. On each of 36 skewers, thread a cube of cheese, an olive, and a
+  prosciutto-melon cube. Place skewers in a tightly sealed container.
+  
+  3. At serving time, drizzle with olive oil and dust with pepper.
+  
+  Makes 3 dozen skewers.
+  
+  Recipe By     : The California Culinary Academy
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

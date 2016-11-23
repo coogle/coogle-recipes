@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Hot" Artichoke Dip</title>
+      <categories>
+        <cat>Dips</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Artichoke hearts, drained and chopped (13 1/2 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>RO*TEL Diced Tomatoes and Green Chilies (10 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire sauce</item></ing></ingredients>
+    <directions>
+      <step>  Thoroughly combine all ingredients. Place in a 1-quart casserole.
+  Bake in a 375'F. oven for 30 minutes or until hot and bubbly. Let
+  cool 10 minutes before serving. Makes 2 1/2 cups dip.
+  
+  From "Southwestern Sensations Starring RO*TEL", courtesy Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sw-sense.zip
+ 
+</step></directions></recipe></recipeml>

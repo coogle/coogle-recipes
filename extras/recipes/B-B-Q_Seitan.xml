@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>B-B-Q Seitan</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Vegan</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Raw Seitan (1 box Seitan Quick Mix)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oil for frying</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Strips kombu sea vegetable (2 to 3 strips, about 12 inches)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>B-B-Q sauce of choice</item></ing></ingredients>
+    <directions>
+      <step>  Prep time: 1-1/2 to 2 hours (most of time is in cooking)
+  
+  Heat oil in a pan over medium heat and fry Seitan pieces for a few minutes
+  on each side until lightly browned.  Soak kombu until soft, then cut into
+  sixteen pieces.  Line bottom of 9-inch baking dish with half the kombu.
+  Place a piece of fried Seitan on each piece of kombu, overlapping if
+  necessary, to make an even layer.  Place remaining pieces of kombu on top
+  of each piece of Seitan.  Pour B-B-Q sauce on top, then spread with a
+  spoon to cover surfaces.  Gently add enough water so that the Seitan
+  pieces are almost floating.  Cover and bake at 350 F. for one hour.  Add
+  more water if necessary to keep Seitan very moist.
+  
+  This recipe has been developed by Bro. Ron Pickarski as part of his work
+  toward being a participant and finalist in the Culinary Olympics held in
+  Frankfurt, Germany.
+  
+  Source: Arrowhead Mills "Seitan Quick Mix" tri-fold
+  Reprinted by permission of Arrowhead Mills, Inc.
+  Electronic format courtesy of: Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/am.zip
+ 
+</step></directions></recipe></recipeml>

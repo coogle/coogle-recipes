@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vinaigrettes and Variations</title>
+      <categories>
+        <cat>Salad dres</cat></categories>
+      <yield>1 /2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SMALL FEASTS</title></ing-div>
+      <ing-div>
+        <title>BASIC VINAIGRETTE, 1/2C</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Red OR white wine vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil, to 8T</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dijon</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Shallots, minced, opt</item></ing></ing-div>
+      <ing-div>
+        <title>VARIATION: CHIVES</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chives, minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Shallots</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>VINAIGRETTE</item></ing></ing-div>
+      <ing-div>
+        <title>VARIATION: CUCUMBER</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cucumber, grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chives, chpd</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>VINAIGRETTE</item></ing></ing-div>
+      <ing-div>
+        <title>VARIATION: GARLIC</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>clove</unit></amt>
+          <item>Garlic, processed into</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>VINAIGRETTE</item></ing></ing-div>
+      <ing-div>
+        <title>VARIATION: HERBS</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Sprigs parsley, minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Dried tarragon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Fresh basil OR 1/2t dried</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>VINAIGRETTE</item></ing></ing-div>
+      <ing-div>
+        <title>VARIATION: TARRAGON</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Substitute tarragon vinegar for red or white in master recipe</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Date: Tue, 21 May 1996 18:13:31 -0700
+  
+  From: Dan Schamber &lt;dansch@haven.ios.com&gt;
+  
+  Blend all until well combined.
+  
+  Posted to MealMaster Recipes List, Digest #143
+ 
+</step></directions></recipe></recipeml>

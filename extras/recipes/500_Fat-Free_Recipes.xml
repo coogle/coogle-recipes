@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>500 Fat-Free Recipes</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Dec.</cat>
+        <cat>Text</cat>
+        <cat>Reference</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>None</item></ing></ingredients>
+    <directions>
+      <step>  On Thu, 15 Dec 1994 15:06:08 -0500 tkreider@census.gov wrote: &gt; Several
+  people have asked for Author/Publisher/ISBN info for the &gt; "500 fatfree
+  recipes" book.  I will check tonight and post.
+  
+  Schlesinger, Sarah. 500 Fat-Free Recipes, A Complete Guide to Reducing the
+  Fat in Your Diet: 500 recipes from soup to dessert containing one gram of
+  fat or less. 1994. Villard Books. ISBN: 0-679-41589. (OVO-LACTO)
+  
+  Ornish-based cookbook.  All recipes have less than one gram of fat per
+  serving.  No high-fat ingredients whatsoever. Heavy on egg whites and
+  skimmed milk products. Almost vegetarian, does call for defatted chicken
+  stock in many recipes. Very comprehensive, includes breakfast, lunch,
+  snacks, and drinks. 500 recipes.
+  
+  * full list available via ftp as
+  ftp.rahul.net:/pub/artemis/fatfree/FAQ/book.list.veg
+  
+  or via email-server, send following message:
+  
+  To: ba-fatfree-request@hustle.rahul.net Sujbect: archive Body of message:
+  get FAQ/book.list.veg
+  
+  Posted by Michelle Dick &lt;artemis&gt; to Fatfree Digest [Volume 13 Issue 16]
+  Dec. 16, 1994.
+  
+  FATFREE Recipe collections copyrighted by Michelle Dick 1994. Used with
+  permission. Formatted by Sue Smith, S.Smith34, TXFT40A@Prodigy.com using
+  MMCONV.
+  
+  1.80á
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

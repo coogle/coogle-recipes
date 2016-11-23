@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pancakes</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mashed ripe bananas; (up to 1)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs; separated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter; melted</item></ing></ingredients>
+    <directions>
+      <step>  http://www.mabuhay.com/phil_reporter/columns/Aling_Choleng/
+  
+  Sift together flour, baking powder and sugar into medium mixing bowl. Mix
+  milk melted butter and egg yolks and pour into dry ingredients, stirring
+  just enough to blend. Add the mashed bananas and stir to blend. Beat egg
+  whites until stiff, then fold into first mixture. Cook by spoonfuls in
+  lightly greased pan over medium heat. When puffed and cooked around edges,
+  turn pancakes and brown under sides.
+  Serve while hot with butter and syrup.
+  
+  Posted to recipelu-digest by LSHW &lt;shusky@erols.com&gt; on Feb 17, 1998
+ 
+</step></directions></recipe></recipeml>

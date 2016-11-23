@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Bark Candy</title>
+      <categories>
+        <cat>Candy</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Almond bark</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry roasted peanuts</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Rice krispies®</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Miniature marshmallows</item></ing></ingredients>
+    <directions>
+      <step>  Melt almond bark in MICROWAVE. Stir in peanut butter, then rest of
+  ingredients. Spoon on wax paper and let cool.
+  
+  Recipe by: Joanne
+  
+  Posted to EAT-L Digest  by "Iris E. Dunaway" &lt;hister@JUNO.COM&gt; on Sep 16,
+  1997
+ 
+</step></directions></recipe></recipeml>

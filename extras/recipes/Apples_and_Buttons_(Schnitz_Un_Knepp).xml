@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apples and Buttons (Schnitz Un Knepp)</title>
+      <categories>
+        <cat>Penndutch</cat>
+        <cat>Ham</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Ham</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Apple, dried</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg, well beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  *** My notes: I think the recipes in this cookbook all assume using a
+  whole, uncooked ham. I would omit the step of boiling ham for 3 hours if
+  using a cooked ham. Pick over and wash dried apples. Cover with water and
+  let soak over night or for a number of hours. In the morning, cover ham
+  with cold water and let boil for 3 hours. Add the apples and water in which
+  they have been soaked and continue to boil for another hour. Add brown
+  sugar. Make dumplings by sifting together the flour, salt, pepper and
+  baking powder. Stir in the beaten egg, milk (enough to make fairly moist,
+  stiff batter), and melted butter. Drop the batter by spoonfuls into the hot
+  liquid with the ham and apples. Cover kettle tight and cook dumplings for
+  15 minutes. Serve piping hot on large platter. Source: Pennsylvania Dutch
+  Cook Book - Fine Old Recipes, Culinary Arts Press, 1936.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

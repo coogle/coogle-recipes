@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Chicken</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>China</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken, frying; cut up</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chinese-style barbecue sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sesame oil</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in plastic bag. Press air out; seal bag securely.
+  Rotate gently to coat chicken. Refrigerate 4 to 6 hours. Grill or broil 4
+  to 5" from heat, 12-16 minutes on each side, or until done.
+  
+  Origin: Oriental Classics Cookbook - GEnie D.WEISSGERBE
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

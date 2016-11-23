@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crumble</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Apples</cat>
+        <cat>To/from eat</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Peeled and sliced tart apples; (4 to 6)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Dark brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing></ing-div>
+      <ing-div>
+        <title>CRUMBLE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dark brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Uncooked oatmeal (either regular or minute)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter or margarine</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Peel core and slice desired amount of apples.  Sprinkle with lemon juice to
+  avoid apples turning brown.  Mix next four ingredients, pour over slices
+  and mix well. Pour mixture into deep, oven-proof dish or pan.
+  
+  Mix flour, sugar and oatmeal for crumble and cut in butter or margarine
+  until crumbly. Sprinkle on top of apples.
+  
+  Bake at 400 degrees 40 to 50 minutes, or until done and brown on top. Serve
+  hot or cold as desired.
+  Posted to MC-Recipe Digest V1 #278
+  
+  Date: Mon, 4 Nov 1996 20:47:52 -0500
+  
+  From: "Bill Hatcher" &lt;bhatcher@gc.net&gt;
+ 
+</step></directions></recipe></recipeml>

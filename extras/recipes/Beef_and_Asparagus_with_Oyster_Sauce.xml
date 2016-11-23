@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Asparagus with Oyster Sauce</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Steak (flank or sirloin)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Peanut oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Peanut oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>slices</unit></amt>
+          <item>Fresh ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Cloves garlic</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh asparagus; washed, with tough parts removed; cut diagonally into 2 inch lengths (up to)</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit/></amt>
+          <item>Large; dried oriental mushrooms; reconstituted and cut into strips</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Green onions; sliced</item></ing></ing-div>
+      <ing-div>
+        <title>OYSTER SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Bottled oyster sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chicken broth</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Cornstarch</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Slice 1/2 pound steak across the grain into strips. Marinate for 1/2 hour
+  in 2 Tablespoons soy sauce, 1 teaspoon peanut oil and 1 teaspoon
+  cornstarch. In wok, heat 2 Tablespoons peanut oil. Add ginger and garlic.
+  Saut‚ until brown. Remove and discard ginger and garlic. Stir-fry meat for
+  about 2 minutes. Add asparagus, mushrooms and onions. Stir-fry until
+  asparagus turns bright jade green. Stir sauce ingredients together until
+  well blended. Pour over vegetable-meat mixture. Reduce heat. Cook 1 to 2
+  minutes until sauce is thickened. Yield: 4 servings.
+  
+  ROBERT HENDERSON
+  
+  From &lt;Traditions: A Taste of the Good Life&gt;, by the Little Rock (AR) Junior
+  League.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

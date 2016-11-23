@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abalone Chowder</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Sliced abalone; pounded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Log chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Chopped celery sticks</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Cubed potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Cube butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cornstarch</item></ing></ingredients>
+    <directions>
+      <step>  Dice abalone, add to potatoes and let simmer in pot with water. Fry bacon
+  until crisp, drain and set aside. In the bacon fat, cook onion, celery
+  until nearly done. Pieces should be slightly crunchy. Drain and add
+  vegetable and butter to abalone. Simmer very slowly, adding a cup of milk
+  every 5 minutes. Salt and pepper to taste. Add cornstarch if thicker
+  chowder is desired. Allow pot to simmer for an additional 15 minutes. Add
+  corn if desired.
+  
+  Posted to KitMailbox Digest  by ehgf@primenet.com (Ellen) on Jan 4, 1998
+ 
+</step></directions></recipe></recipeml>

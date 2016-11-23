@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Vinaigrette</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Sauces</cat>
+        <cat>Seafood</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>clove</unit></amt>
+        <item>Garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dijon-style mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Basil or tarragon vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Basil olive oil OR olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Loosely packed fresh basil,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rinsed and spun dry</item></ing></ingredients>
+    <directions>
+      <step>  In a blender blend the garlic, the mustard, the vinegar, and salt to taste;
+  add the oil and basil, and blend the mixture until it is emulsified. Serve
+  the vinaigrette over sliced tomatoes or with grilled scallops or other
+  seafood.  Makes about 1 cup.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

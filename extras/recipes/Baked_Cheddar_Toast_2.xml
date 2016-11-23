@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Cheddar Toast</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Cheese</cat>
+        <cat>Eggs</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy Or Whipping Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cheddar Cheese; Md, Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; Lg, Well Beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Bread Slices; White</item></ing></ingredients>
+    <directions>
+      <step>  In the top of a double boiler, combine the cream, cheddar, white pepper,
+  and nutmeg.  Stir over hot water until the cheese melts and the mixture is
+  well blended.  Remove from the heat and cool to lukewarm.  Generously
+  butter a large baking sheet and set aside.  Cut the bread slices
+  diagonally and dip each triangle into the cheddar mixture.  Place 1/2-inch
+  apart on the baking sheet and bake until browned and bubbly, about 15
+  minutes.  Serve hot.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcheese.zip
+ 
+</step></directions></recipe></recipeml>

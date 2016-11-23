@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana</title>
+      <categories>
+        <cat>Baby food</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>To 2 tablespoons ripe banana</item></ing></ingredients>
+    <directions>
+      <step>  From "Baby's First Helpings" by Chris Casson Madden ISBN: 0-385-19143-X
+  
+  This is another wonderful first food.  Remember: the riper the banana the
+  easier on baby's digestive tract.
+  
+  A little mother's milk or formula
+  
+  Mash thoroughly and slowly mix in the milk.
+  
+  As baby gets older you might want to try: milk, oatmeal, wheat germ, cooked
+  egg yolk or yogurt mixed in with the banana.
+  
+  Serves 1
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/kids.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Boiled Rice #1</title>
+      <categories>
+        <cat>Rice</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Rice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(see "The Basics: Rice" for amounts)</item></ing></ingredients>
+    <directions>
+      <step>  1. Wash rice thoroughly, then spread evenly along the bottom of a saucepan.
+  
+  2. Add the desired quantity of cold water for each cup of rice. (Let rice
+  and water sit covered in pan for 30 minutes before cooking. This softens
+  the rice, but can be omitted.)
+  
+  3. Bring rice to a boil over 3/4 flame. Boil covered 3 minutes. Reduce
+  flame to 1/2. Boil 2 minutes more, or until most of the liquid is absorbed.
+  (At this point, before the water is completely absorbed, some cooks stir
+  the rice gently from the bottom up so that it will cook more evenly and
+  have less tendency to burn on the bottom. If some rice sticks to the sides
+  of the pot during this stirring, just scrape it down.)
+  
+  4. Lower flame to a minimum. Let rice cook covered 18 to 20 minutes more.
+  Do not lift lid or stir rice during this time. (If you lift lid, valuable
+  steam will escape; if you stir the rice, it will stick to the bottom of the
+  pan. When cooking is done, some cooks lift the lid and stir the rice once,
+  loosening it gently with a lifting motion of chopsticks, then replace the
+  lid and let the rice stand for 10 minutes.)
+  
+  5. Turn off heat. Let rice sit covered in pan 10 to 15 minutes. Then, with
+  fork or chopsticks, fluff rice to separate each grain. The rice will then
+  be soft, flaky and ready to serve.
+  
+  NOTE: Cooking time for rice varies from stove to stove and from pan to pan.
+  Only actual experience can determine the precise cooking time.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

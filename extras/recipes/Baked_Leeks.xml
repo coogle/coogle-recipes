@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Leeks</title>
+      <categories>
+        <cat>Eat-lf mail</cat>
+        <cat>Low fat</cat>
+        <cat>Side dish</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Leeks; Trim, Split, Wash Well</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Nonfat Vegetarian Broth; Chicken Flavor</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt And Pepper; To Taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Lowfat Margarine; *Note</item></ing></ingredients>
+    <directions>
+      <step>  *NOTE:  Can delete the margarine completely.
+  
+  Preheat the oven to 350 deg F.
+  
+  Put the leeks in the baking dish with the cut side down.  Add the broth,
+  salt and pepper and margarine (if you are using it).  Cover with foil. Bake
+  for about 1 hr.
+  
+  Entered into MasterCook and tested for you by Reggie and Jeff Dwork and
+  Sally and Lou Eisenberg.  &lt;reggie@reggie.com&gt;
+  Posted to Digest eat-lf.v096.n214
+  
+  Date: Sat, 09 Nov 1996 21:01:06 -0800
+  
+  From: Reggie Dwork &lt;reggie@reggie.com&gt;
+  
+  NOTES : Cal 47.2,
+  
+  Fat  1.3g,
+  
+  Carb  8.1g,
+  
+  Fib  1g,
+  
+  Pro 1g,
+  
+  Sod  192mg,
+  
+  CFF  24.7%.
+ 
+</step></directions></recipe></recipeml>

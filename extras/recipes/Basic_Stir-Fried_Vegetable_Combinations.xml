@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Stir-Fried Vegetable Combinations</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>COMBO #1</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Fresh mushrooms; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Bamboo shoots; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Spinach leaves; left whole</item></ing></ing-div>
+      <ing-div>
+        <title>COMBO #2</title>
+        <ing>
+          <amt>
+            <qty>16</qty>
+            <unit/></amt>
+          <item>Dried black mushrooms (soaked) and either:</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Water chestnuts -or-</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Bamboo shoots; sliced</item></ing></ing-div>
+      <ing-div>
+        <title>COMBO #3</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Bean sprouts; blanched</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Asparagus; cut in 1-inch sections</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Celery stalk; cut in strips</item></ing></ing-div>
+      <ing-div>
+        <title>COMBO #4</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Bean sprouts; blanched</item></ing></ing-div>
+      <ing-div>
+        <title>WITH ANY OF THE FOLLOWING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Tomatoes; peeled and cubed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Green peppers; seeded and cut in strips</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Preserved cabbage; cut in 2-inch sections</item></ing></ing-div>
+      <ing-div>
+        <title>COMBO #5</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Chinese cabbage stems; cut in 2-inch sections</item></ing></ing-div>
+      <ing-div>
+        <title>WITH ANY OF THE FOLLOWING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>slices</unit></amt>
+          <item>Of bacon; cut in 1-inch sections</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh mushrooms; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Bamboo shoots; sliced (up to)</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit/></amt>
+          <item>Lily buds (soaked)</item></ing></ing-div>
+      <ing-div>
+        <title>COMBO #6</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Each Chinese white turnips and carrots; cut in strips and parboiled</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Each; celery and leeks, cut in strips</item></ing></ing-div></ingredients>
+    <directions>
+      <step>   These are only suggested combinations.
+  
+   NOTE: The individual vegetables are added to the pot, according to their
+  specific cooking times. (See details in "Cooking Instructions for Specific
+  Vegetables".) Remember: the toughest vegetables are added first; the most
+  tender ones last.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

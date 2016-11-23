@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Fondue</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>pounds</unit></amt>
+          <item>Beef bones with marrow; cleaned and soaked overnight</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>pounds</unit></amt>
+          <item>Oxtails; cut into small pieces</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Water to cover</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Onions; unpeeled, halved and studded with cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Shallots unpeeled</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Whole fresh ginger; unpeeled</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit/></amt>
+          <item>Star anise</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Garlic cloves; (up to 5)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Cinnamon stick</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>medium</unit></amt>
+          <item>Parsnips cut into 2-inch chunks</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Tripe and tendons</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Flank steak</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Beef brisket</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISHES</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Green onions; sliced thinly on the bias</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chiffonade of cilantro</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>medium</unit></amt>
+          <item>Onions; julienned</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Fish sauce; (nuoc mam)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>1/4-inch wide dried rice noodles; soaked in warm water for 30 minutes and drained</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Beef sirloin; sliced paper-thin</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh ground black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh bean sprouts</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Fresh jalapenos pepper; julienned</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Limes; cut into wedges</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>bunch</unit></amt>
+          <item>Chinese basil; chiffonade</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Pairs chopsticks; (up to 8)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  EMERIL LIVE SHOW #EMIA33
+  
+  Place the beef bones and oxtails in a large stockpot, cover with water.
+  Bring the liquid up to a boil and cook for 10 minutes. Remove from the heat
+  and drain. Rinse the pot and bones. Return the bones to the pot and cover
+  with 6 quarts of water. Bring the liquid up to a boil and skim often to
+  remove the foam. When the foam stops rising to the surface, add 3 quarts of
+  water and return to a boil. Char the onions, shallots, and ginger, directly
+  over a gas burner or under the broiler, about 5 to 6 minutes. Tie the
+  charred vegetables, star anise, garlic cloves, and cinnamon stick in a
+  damped cheesecloth. Add the spice bag and parsnips to the simmering broth.
+  Season the broth with salt and pepper. Simmer the liquid for 1 hour. Add
+  the tripe and tendons to the broth and simmer uncovered for 5 hours. Two
+  hours after adding the tripe, add the flank steak and brisket.
+  
+  GARNISHES FOR ASIAN FONDUE: In a small bowl, combine the green onions,
+  cilantro and onions together. Season the vegetables with salt and pepper.
+  When the broth is ready, remove and discard the oxtails and bones. Reserve
+  the tripe, flank steak, and brisket. Strain the broth into a clean pot
+  through a strainer with a double layer of dampened cheesecloth. Add the
+  fish sauce to the broth. Bring to a boil and reduce to a simmer. Slice the
+  tripe, flank steak, and brisket, into small pieces. In a pot of boiling
+  water, drop in the drained noodles and remove immediately and drain. Mound
+  the noodles in the center of an oversized bowl. Bring the broth to a
+  rolling boil and ladle the broth over the noodles Arrange the remaining
+  ingredients on small plates around the bowl of broth.
+  
+  Yield: 8 to 10 servings
+  
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Mar 13, 1998
+ 
+</step></directions></recipe></recipeml>

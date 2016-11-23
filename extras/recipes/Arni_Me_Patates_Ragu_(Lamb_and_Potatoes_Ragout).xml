@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arni Me Patates Ragu (Lamb and Potatoes Ragout)</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat>
+        <cat>Greek</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Leg of lamb</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Med. onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Parsley, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Tomatoes, peeled, strained</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water as needed</item></ing></ingredients>
+    <directions>
+      <step>     Wash and dry meat; cut into 1 1/2" chunks; lightly salt &amp; pepper. Brown
+  the butter in lge. pot.  Add meat and brown well on all sides. Remove and
+  place in deep dish.  Add onion to the pot with the butter and let it brown.
+  Add carrot and parsley, and cook until they wilt.  Add tomatoes; bring to
+  aboil.  Add meat and 1 c. of hot water.  Partially cook over low heat for
+  abt. 30 min.  Menwhile, peel potatoes, cut into 2 or 3 pcs. Add to pot. Add
+  a little salt &amp; pepper, and cook until potatoes are tender and most of the
+  liquid has been absorbed (30 to 45 min.).
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Chicken Appetizers</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Chicken</cat>
+        <cat>Posted</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Skinless Boneless Chicken Breast</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green Pepper; Cut In Strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion; Cut Into Thick Strip</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Heinz Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>drops</unit></amt>
+        <item>Hot Pepper Sauce</item></ing></ingredients>
+    <directions>
+      <step>  Cut chicken breast into 16 chunks and place in a microwave-safe dish.
+  Scatter pepper and onion strips on top of chicken. Combine remaining
+  ingredients in a small bowl and pour over the chicken and vegetables. Cover
+  and microwave on 70% power for 7 minutes or until chicken is white and
+  tender. Serve with toothpicks.
+  
+  Recipe by: 366 Low-Fat Brand-Name Recipes
+  
+  Posted to brand-name-recipes by Meg Antczak &lt;meginny@frontiernet.net&gt; on
+  Apr 06, 1998
+ 
+</step></directions></recipe></recipeml>

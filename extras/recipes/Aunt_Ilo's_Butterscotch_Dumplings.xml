@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Ilo's Butterscotch Dumplings</title>
+      <categories>
+        <cat>=20</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Boiling water</item></ing></ing-div>
+      <ing-div>
+        <title>DUMPLINGS</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Baking powder</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Simmer brown sugar, butter and water in a 9 x 13 pan while you mix up
+  dumplings.
+  
+  Mix dumplings and drop by spoonfuls into boiling syrup. Bake 20 minuter at
+  350 degress F or until golden brown.
+  
+  Serve hot with whipped cream or ice cream.
+  
+  NOTES : Aunt Ilo is the oldest sister of my grandmother Leah Petersen.
+  Typed= for you by Lorna Hudson.
+  Recipe by: Ilo Husted Posted to Bakery-Shoppe Digest V1 #214 by Lorna
+  Hudson &lt;lkhudson@sound.net&gt; on Sep 02, 1997
+ 
+</step></directions></recipe></recipeml>

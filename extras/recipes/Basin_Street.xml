@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basin Street</title>
+      <categories>
+        <cat>Bourbon</cat>
+        <cat>Glass - coc</cat>
+        <cat>Lemon juice</cat>
+        <cat>Orange juic</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Bourbon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Triple Sec</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Lemon Juice</item></ing></ingredients>
+    <directions>
+      <step>  Shake well with ice and strain into cocktail glass.
+  
+  Recipe by: Mr. Boston Posted to MC-Recipe Digest V1 #715 by John Setzler
+  &lt;jms@twave.net&gt; on Aug 2, 1997
+ 
+</step></directions></recipe></recipeml>

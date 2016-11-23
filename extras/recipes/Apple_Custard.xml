@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Custard</title>
+      <categories>
+        <cat>Try</cat>
+        <cat>It</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice; or apple-berry blend</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Arrowroot; or cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Tahini</item></ing></ingredients>
+    <directions>
+      <step>  Combine juice and honey, and bring to a boil.  Make a paste of arrowroot or
+  cornstarch and water.  Stir paste into hot juice and cook over low heat,
+  stirring constantly, until thick.
+  
+  Maximum thickening occurs just at the boiling point. If using arrowroot,
+  remove from heat because boiling has a thinning effect; if using
+  cornstarch, boil gently for 1 minute to remove the raw starch taste.
+  
+  Stir in tahini.  Reduce heat to low and mix until smooth. Pour mixture into
+  a large bowl or 4 individual dishes. Let cool, then chill.
+  
+  Tahini is a thick, smooth paste made of raw, ground sesame seeds.
+  
+  A custard made without eggs?  Yes, and look, no cholesterol! This healthy
+  refinement has just the right texture and flavor.
+  
+  Ingredients to serve 4:
+  
+  Posted 06-23-93 by JAY STEVENS on GT Vegetarian Cuisine
+  
+  Nutritional Information per serving: 189 Calories, 3 gm protein, 28 gm
+  carbohydrate, 8 grams Fat,  x% Calories from fat, 0 mg Cholesterol, 11 mg
+  Sodium, x g Dietary fiber
+  
+  MM by MMCONV and Sylvia Steiger, GEnie THE.STEIGERS, CI$ 71511,2253, GT
+  Cookbook echo moderator at net/node 004/005 Converted by MMCONV vers. 1.40
+  ~--
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

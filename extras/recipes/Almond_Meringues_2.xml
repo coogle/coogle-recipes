@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Meringues</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ground almonds</item></ing></ingredients>
+    <directions>
+      <step>  Beat egg whites very well.
+  Add sugar gradually; beat thoroughly to form stiff meringue.
+  Add ground almonds.
+  Place teaspoonfulls on greased pan. Bake at 250 deg. F (120 deg. C), till
+  set.
+  Posted to JEWISH-FOOD digest by Sally Wallace &lt;scav@avsia.com&gt; on Apr 05,
+  1998
+ 
+</step></directions></recipe></recipeml>

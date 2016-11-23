@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Cheese Dressing</title>
+      <categories>
+        <cat>Dressings</cat>
+        <cat>Carnation</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Chef-Mate Bacon 'n Cheddar Cheese Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Bacon,cooked crisp, crumbled</item></ing></ingredients>
+    <directions>
+      <step>  1.  Mix ingredients throughly. Chill. 2. Serve over salad greens.
+  
+  Makes 2 quarts 1 1/2 cups.
+  
+  Source: Carnation Company
+  
+   -- ------- Recipe via Meal-Master (tm) v7.01
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

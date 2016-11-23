@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Milk Shake</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  Mash ripe bananas with a fork in a big bowl. When soft, beat them with a
+  rotary beater. Add cold milk and vanilla and beat until drink is very
+  frothy. Dust with nutmeg. Yield: 6 servings.
+  
+  From &lt;The Progressive Farmer's Southern Country Cookbook&gt;, by the editors
+  of the 'Progressive Farmer Magazine'.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

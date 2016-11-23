@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beaten Batter Rolls</title>
+      <categories>
+        <cat>Master mix</cat>
+        <cat>Rolls</cat>
+        <cat>Jewel</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bake it all mix*</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>packages</unit></amt>
+        <item>Dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  *Do not pack
+       Sift dry yeast into 1 cup Mix.  Bring milk to boiling point. Cool to
+  lukewarm and add sugar and water. Add to Mix-yeast mixture and beat well.
+  Add egg and vanilla. Beat well. Add remaining Mix to make a stiff batter.
+  Beat thoroughly until smooth. Cover and let rise in a warm place until
+  bubbly, about 1 hour. When batter is light, stir down. Drop by spoonfuls
+  into muffin cups, rubbed with shortening. Let rise until double in size, 30
+  to 40 minutes.  Bake in a 375 F. oven 15 to 18 minutes. Remove rolls from
+  pan while hot. Serve warm. Yield: 12 large rolls
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

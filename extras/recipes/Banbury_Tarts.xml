@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banbury Tarts</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>1941</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Currants</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced candied orange peel</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced candied lemon peel</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Egg, slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cookie or biscuit crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced candied citron</item></ing></ingredients>
+    <directions>
+      <step>  Cream shortening and sugar.  Add candied peel, citron, currants, crumbs,
+  nutmeg, cinnamon, and egg.  Mix thoroughly. Cut plain pastry in rounds 6
+  inches in diameter. Place 1 tablespoon of fruit mixture on 1/2 of each
+  round.  Moisten edges.  Fold like a turnover. Press edges together. Crimp.
+  Brush with slightly beaten egg, or water. Sprinkle with sugar. Bake in hot
+  oven (450 F) 10 minutes, or until brown.
+  
+  Florence Taft Eaton, Concord, MA.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

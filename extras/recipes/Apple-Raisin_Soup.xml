@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Raisin Soup</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice or cider</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Lg. cooking apples, peeled and cubed (2 cups)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Inches stick cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brandy</item></ing></ingredients>
+    <directions>
+      <step>  In 2-quart saucepan combine first 4 ingredients.
+  Cover, simmer 15 minutes or till apples are tender.
+  Stir in sugar and brandy. Cover; chill. Remove stick
+  cinnamon before serving. Makes 3 to 4 servings.
+  
+  Recipe from: Better Homes and Gardens, Soups &amp; Stews
+  Cookbook copyright 1978 by Meredith Corporation, Des
+  Moines, Iowa
+  Posted to MM-Recipes Digest V3 #224
+  
+  Date: Sat, 17 Aug 1996 16:29:53 -0700
+  
+  From: Tonya &lt;imbri@oz.net&gt;
+ 
+</step></directions></recipe></recipeml>

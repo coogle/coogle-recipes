@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barb's Corn Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Muffins</cat>
+        <cat>Side dishes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box Jiffy corn muffin mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Creamed corn; 15 ounces</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients.  Bake in greased 9 X 13 pan or 18 muffin cups for 20
+  to 25 minutes at 350.
+  Recipe By     : Barb
+  
+  Posted to MC-Recipe Digest V1 #267
+  
+  Date: Tue, 29 Oct 1996 14:36:27 +0000
+  
+  From: Barb &lt;domestic-goddess@worldnet.att.net&gt;
+  
+  NOTES : This recipe is a close duplication of Chi-Chi's cornbread.
+ 
+</step></directions></recipe></recipeml>

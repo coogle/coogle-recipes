@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon/peanut Butter Corn Bread</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Bacon slices</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cornmeal,self-rising</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs,beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing></ingredients>
+    <directions>
+      <step>  1. In a heavy 10" skillet cook bacon until golden and crisp. Drain on paper
+  toweling; set aside. Pour off all but about 1 teaspoon bacon fat from pan.
+  Place pan in oven, then set oven temperature to 425'F.
+  
+  2. Stir together cornmeal and sugar. Cut in peanut butter until crumbly.
+  Blend together eggs, milk, oil, and crumbled bacon. Add al at once to
+  cornmeal mixture, stirring just until blended, and pour mixture into hot
+  skillet. Return to oven and bake 15-20 minutes.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

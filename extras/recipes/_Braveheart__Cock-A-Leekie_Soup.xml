@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Braveheart" Cock-A-Leekie Soup</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Scottish</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>3.5lb frying chicken; cut into 8 pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef shanks; cut into 1-inch pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>slices</unit></amt>
+        <item>Thick cut bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dreid leaf thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pearl barley</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped leek; white only</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped parsley</item></ing></ingredients>
+    <directions>
+      <step>  Put the chicken, beef, stock, bacon, thyme, and bay leaf in a large, heavy
+  pot and bring to a boil. Reduce the heat and simmer, covered, for 30
+  minutes. Meanwhile boil barley in 1 1/2 cups water for 10 minutes. Drain
+  and set aside. Remove chicken for pot. When cool enoguh to handle, debone
+  and set aside. Add leeks and barley to the pot, and simmer 15 minutes.
+  Remove beef shanks and debone. Chop meat coarsely, and return to the pot,
+  along with the chicken. Simmer covered, for 5 minutes more. Season with
+  salt and pepper to taste and garnish with parsley.
+  
+  Nutritional info per serving: 626 cal; 65g pro, 32g carb, 25g fat (37%)
+  
+  Source: Miami Herald 3/21/96 adapted from THe Frugal Gourmet on Our
+  Immigrant Ancestors by Jeff Smith
+  
+  formatted 3/24/96 by Lisa Crawford
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

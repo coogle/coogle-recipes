@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aztec Stuffed Mushrooms</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Game</cat></categories>
+      <yield>42</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>42</qty>
+          <unit/></amt>
+        <item>Large mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground venison</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Wheat tortilla bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Minced coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Remove stems form mushrooms and chop finely; reserve caps. Combine chopped
+  stems and remaining ingredients in bowl; mix well. Stuff mixture into
+  reserved mushromm caps. Place on baking sheet. Bake at 350 degrees for 25
+  to 35 minutes or until heated through.
+  
+  Source: Great Recipes form Great Gardeners
+  Posted to MM-Recipes Digest  by dandelion@edeneast.com on Mar 2, 1998
+ 
+</step></directions></recipe></recipeml>

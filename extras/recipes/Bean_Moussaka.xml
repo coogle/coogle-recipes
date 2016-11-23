@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Moussaka</title>
+      <categories>
+        <cat>Ethnic</cat>
+        <cat>Vegetarian</cat>
+        <cat>Beans</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked legumes</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Tomatoes, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Garlic cloves, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water or stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Eggplant</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ghee</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Soya Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Allspice</item></ing></ingredients>
+    <directions>
+      <step>  Put beans in a pot with the tomatoes, garlic, onion, 1 ts salt, pepper &amp;
+  sage.  Add 2 c stock &amp; allow to simmer for 10 minutes.
+  
+  Meanwhile, cut eggplant &amp; potatoes into rounds.  Deep fry the eggplant in
+  olive oil until they begin to turn golden. Do the same with the potatoes.
+  Set aside.
+  
+  Now make the white sauce.  In a small pot, gently heat the ghee. Gradually
+  stir in the flour followed by the milk. Add a pinch of salt, pepper &amp;
+  nutmeg.  Simmer gently for 1 minute.
+  
+  Grease the base &amp; sides of a casserole.  Put in a layer of potatoes, then
+  eggplant, then the beans. Space out the allspice berries here. Cover with
+  sauce.
+  
+  Bake at 375F for about 30 minutes, or until the crust is golden.
+  
+  Adapted from Jack Santa Maria, "Greek Vegetarian Cookery"
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

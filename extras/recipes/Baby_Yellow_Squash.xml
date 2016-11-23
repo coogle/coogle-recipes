@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baby Yellow Squash</title>
+      <categories>
+        <cat>*calvert's</cat>
+        <cat>Tvfn</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Baby yellow squash</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon; juiced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing></ingredients>
+    <directions>
+      <step>  Steam squash until al dente Glaze with butter, lemon juice and salt. Yield:
+  6 servings Copyright, 1996, TV FOOD NETWORK, G.P., All Rights Reserved
+  
+  Recipe by: THE SURREAL GOURMET SHOW #SGSP02 PLAYING WITH FOOD
+  
+  Posted to MC-Recipe Digest V1 #928 by Emily Griffin
+  &lt;emgriffi@ix.netcom.com&gt; on Nov 28, 1997
+ 
+</step></directions></recipe></recipeml>

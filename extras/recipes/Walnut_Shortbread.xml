@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Shortbread</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Softened butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Icing sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Large walnut pieces</item></ing></ingredients>
+    <directions>
+      <step>  Cream butter, icing sugar and vanilla until light. Stir in flour and
+  chopped walnuts. Pat dough into 9-inch pan with removable bottom. Score
+  with fork into 12 pie-shaped wedges. Place one walnut piece on each wedge.
+  Set pan on cookie sheet. Bake in oven heated to 325 degrees for 40 minutes
+  or until lightly brown. Cool. Cut into wedges. Makes 12 servings. Store in
+  tightly covered tin container. From The Gazette 90/12/12.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

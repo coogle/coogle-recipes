@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barmbrack</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>375</qty>
+          <unit>grams</unit></amt>
+        <item>Mixed fruit</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Warm black tea</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar; firmly packed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>S.r. flour</item></ing></ingredients>
+    <directions>
+      <step>  From: ynnuf@yetti.amigans.gen.nz (Doreen Randal)
+  
+  Date: Tue, 23 Nov 93 16:27:19 PST
+  
+  Place mixed fruit in the warm tea with the sugar, stir until dissolved. Let
+  cool. Add the well beaten egg to the cooled mixture, then fold in the
+  sifted flour, mix well. Place mixture into greased and lined 9"x5" loaf
+  tin. Bake in mod./slow oven approx. 2 hrs. or until cooked when tested.
+  Serve sliced buttered or plain.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /MISC
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

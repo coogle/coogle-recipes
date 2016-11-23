@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barb's Special Sweet Breads Part 7</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BARB DAY</title></ing-div>
+      <ing-div>
+        <title>ALMOND BUTTER INGREDIENTS</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Blanched almonds; minced</item></ing></ing-div>
+      <ing-div>
+        <title>ICING INGREDIENTS</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Confectioners' sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Water Garnish icing with:</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Candied cherries</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Slivered almonds</item></ing></ing-div>
+      <ing-div>
+        <title>VANILLA CREAM INGREDIENTS</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>PLUMPED RAISINS</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Rum or Cognac</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Currants or raisins</item></ing></ing-div>
+      <ing-div>
+        <title>EGG WASH</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  ALMOND BUTTER:  Cream together the sugar and butter,
+  then blend in the almonds, making sure to mix well.
+  
+  ICING: Beat the sugar and water together until
+  completely blended. Drizzle over the pastry and
+  garnish with cherries and almonds if desired.
+  
+  VANILLA CREAM:  Combile all the ingredients except the
+  vanilla in a saucepan.  Blend and cook for 3 minutes,
+  stirring constantly.  Remove from heat and stir in the
+  vanilla.  Whip mixture occasionally to keep it from
+  forming a film, if not using immediately.
+  
+  PLUMP CURRANTS:  Sprinkle the rum or cognac over the
+  currants (or raisins) and set aside until they have
+  been plumped.
+  
+  EGG WASH:  Beat together the egg and water, mixing
+  well.  Reserve for use as needed.
+  
+  Source: Vera Stevens, my mother
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

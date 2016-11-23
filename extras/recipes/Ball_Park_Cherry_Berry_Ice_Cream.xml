@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ball Park Cherry Berry Ice Cream</title>
+      <categories>
+        <cat>Ice cream</cat>
+        <cat>Fruits</cat>
+        <cat>Dairy</cat>
+        <cat>Desserts</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Env unflavored gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen sliced strawberries</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Dark sweet cherries</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Light cream or half &amp; half</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>    In a small saucepan combine unflavored gelatin and sugar. Add water and
+  strawberries.  Cook over medium heat, stirring constantly, until mixture
+  just comes to a boil. Remove from heat and cool to room temperature.
+  Meanwhile, chop cherries.
+  
+    In a 3 quart or larger ice cream freezer combine half and half, whipping
+  cream, vanilla, strawberry mixture and cherries. Freeze according to
+  manufacturer's direction or place in freezer containers and freeze at least
+        4    hours.
+  
+    Makes about 3 quarts.
+  
+    From Tops Grocery store circular.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic White Bread</title>
+      <categories>
+        <cat>Bread maili</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>325</qty>
+          <unit>grams</unit></amt>
+        <item>Bakers Flour; (can use 100% whole</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Meal OK)</item></ing>
+      <ing>
+        <amt>
+          <qty>220</qty>
+          <unit>grams</unit></amt>
+        <item>Water; (plus/minus 5g)</item></ing>
+      <ing>
+        <amt>
+          <qty>40</qty>
+          <unit>grams</unit></amt>
+        <item>Olive Oil; (can vary between 10g and 80g)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>grams</unit></amt>
+        <item>Improver</item></ing>
+      <ing>
+        <amt>
+          <qty>40</qty>
+          <unit>grams</unit></amt>
+        <item>Sugar; (can vary between</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>15g and 80g)</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>grams</unit></amt>
+        <item>Milk powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>5g and 30g)</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>grams</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>grams</unit></amt>
+        <item>Yeast</item></ing></ingredients>
+    <directions>
+      <step>  Additives for variety requiring no change to basic list
+  
+  Allspice up to        7g OK Cinnamon up to 7g OK Dried Currents up to 60g
+  OK Chile to taste Orange and Lemon Zest to taste (grated fresh outer peel)
+  Cake and Bun improver  5 drops
+  
+        Additives which require corrections to basic recipe
+  
+  Eggs - reduce water by the weight of the egg(s) Fruit - reduce water by
+  estimating water content of fruit Fruit Juice - reduce water by weight of
+  juice
+  
+        Additives which failed (too little rise)
+  
+  Nutmeg - did it kill the yeast or destroy the natural gluten? Rye flour -
+  OK up to about 20% of flour but height lost
+  
+        Care of Yeast
+  
+  I purchase 500g of Instant Dried Yeast at a time. Fill 2 small coffee jars
+  and store one sealed with glad wrap in the freezer. The other one is stored
+  in the frig with a sealed plastic lid. When the first jar is finished,
+  allow the second, frozen jar to reach frig temperature in the frig before
+  use (to reduce the condensation). There is some small deterioration of the
+  second jar towards the end of the batch. I increase the yeast used by up to
+  10% to counter this. The adjustment is made as a result of the previous
+  loaf not being quite as high as usual.
+  
+  &gt;From: Jack Jordan &lt;jjord@adam.com.au&gt;
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+ 
+</step></directions></recipe></recipeml>

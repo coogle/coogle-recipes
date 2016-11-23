@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Fritters in Tempura Batter (With Honey Sauce)</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit/></amt>
+          <item>Bananas</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Flour for dredging bananas</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Veg oil for deep frying</item></ing></ing-div>
+      <ing-div>
+        <title>BATTER</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>mililiters</unit></amt>
+          <item>Ice cold water</item></ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>mililiters</unit></amt>
+          <item>Flour sifted with 1/2 tsp. baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Honey</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Method:
+  
+  ~ Heat the oil in your deep fat fryer, frying pan, or wok to 375 degrees F,
+  190 degrees celsius. - Mix up the batter ingredients with a whip until
+  somewhat frothy. - Cut the bananas into 1 inch / 2 1/2 cm chunks. Roll them
+  around in the flour until lightly coated. - Dip a few banana pieces into
+  the batter and fry them until golden coloured. Drain on paper towels. Do in
+  small batches until they're all done.
+  
+  Heat honey in saucepan or microwave until liquid and hot; pour this over
+  the bananas (a few pieces per person). Extremely good with vanilla ice
+  cream.
+  
+  stimpy@marimba.wimsey.bc.ca
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

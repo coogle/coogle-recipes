@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anchovy-Grilled Salmon Steaks</title>
+      <categories>
+        <cat>Condiments</cat>
+        <cat>Main dishes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Salmon Steaks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley Sprigs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon Wedges</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Anchovy Butter-----</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Anchovy Fillets</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>drop</unit></amt>
+        <item>Tabasco Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Pre-heat the grill to high heat.  Oil the grill rack and place each steak
+  to ensure an even heat.  Place a small knob of Anchovy Butter (divide a
+  quarter of the mixture in four) on each steak.  Grill for 4 minutes.
+  
+  Turn the steaks with a fish slice and place another quarter of the butter
+  among the steaks.  Grill on the second side 4 minutes.  Reduce the heat and
+  allow to cook for a further 3 minutes, less if the steaks are thin.
+  
+  Serve with a neatly arranged pat of anchovy butter on top of each steak.
+  Garnish with parsley sprigs and lemon wedges.
+  
+  Anchovy Butter: Soak all the anchovy fillets in milk. Mash in a bowl with a
+  wooden spoon until creamy.  Cream all ingredients together and chill.
+  
+  Serves 4.
+  
+  (Adapted from a recipe in "Classic Fish Dishes," by Myra Street)
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

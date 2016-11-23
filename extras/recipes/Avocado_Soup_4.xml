@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Soup</title>
+      <categories>
+        <cat>Soups/</cat>
+        <cat>Stews</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Ripe avocado</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Chicken stock</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Fresh lime juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Chopped fresh cilantro</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sherry</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt; to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Freshly-ground black pepper; to taste</item></ing></ing-div>
+      <ing-div>
+        <title>FOR THE SALSA</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Cooked corn kernels</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cooked black beans</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Finely-diced red bell pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Chopped garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Juice of 1 lime</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh cilantro; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt; to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Freshly-ground black pepper; to taste</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Peel and mash the avocado. Place the avocado, chicken stock, lime juice,
+  cilantro, and sherry into a food processor. Puree until smooth, season with
+  salt and pepper. Refrigerate for 1 hour.
+  
+  Meanwhile prepare the salsa. In a bowl combine the corn, black beans,
+  peppers, garlic, olive oil, and lime juice. Season to taste with salt and
+  pepper.
+  
+  Serve the soup in chilled cups topped with the salsa and fresh cilantro.
+  
+  Recipe Source: ESSENCE OF EMERIL with Emeril Lagasse From the TV FOOD
+  NETWORK - (Show # EE-2224 broadcast 10-16-1997) Downloaded from their
+  Web-Site - http://www.foodtv.com
+  
+  Formatted for MasterCook by Joe Comiskey, aka MR MAD - jpmd44a@prodigy.com
+  ~or- MAD-SQUAD@prodigy.net
+  
+  11-12-1997
+  
+  Recipe by: Emeril Lagasse
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Chicken Pizza</title>
+      <categories>
+        <cat>Maindish</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>BBQ sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Pizza sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Chicken breast -- roasted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Gouda cheese -- smoked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Mozzarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Red onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Green onion</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 500F with pizza stone.  Blend BBQ and pizza sauce.  Spread
+  sauce over pizza dough.  Cover with shredded chicken.  Cover with cheese
+  and
+  onions.  Place on pizza stone in oven and bake until golden brown.
+  
+  Posted to MC-Recipe Digest V1 #152
+  
+  Date: Sun, 14 Jul 1996 19:37:11 -0700
+  
+  From: Edith Russo &lt;edith@accessone.com&gt;
+  
+  Recipe By     : Cucina! Cucina!
+ 
+</step></directions></recipe></recipeml>

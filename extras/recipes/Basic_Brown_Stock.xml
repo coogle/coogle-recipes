@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Brown Stock</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef bones; sawed into 2-inch pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(6-ounce) tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped celery</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Claret wine</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit/></amt>
+        <item>Peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Garlic cloves; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried leaf thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>gallons</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  EMERIL LIVE SHOW #EMlA36
+  
+  Preheat the oven to 400 degrees F. Place the bones on a roasting pan and
+  roast for 1 hour. Remove from the oven and brush with the tomato paste. Lay
+  the vegetables over the bones. Return to the oven and roast for 30 minutes.
+  Place the pan on the stove and deglaze with the wine, scraping the bottom
+  of the pan for browned particles. Put this mixture in a large stock pot.
+  Add the peppercorns, garlic, and herbs. Season with salt. Bring the liquid
+  up to a boil and reduce to a simmer. Cook for 4 hours. Remove from the heat
+  and skim off any fat that has risen to the surface. Strain the liquid and
+  discard the bones.
+  
+  Yield: 1/2 gallon
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 19, 1998
+ 
+</step></directions></recipe></recipeml>

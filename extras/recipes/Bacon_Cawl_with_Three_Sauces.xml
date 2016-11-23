@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Cawl with Three Sauces</title>
+      <categories>
+        <cat>Soups/stews</cat>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>THE CAWL</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Collar bacon with rind</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>pints</unit></amt>
+          <item>Water</item></ing></ing-div>
+      <ing-div>
+        <title>VEGETABLES</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Potatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Swede (rutabaga)</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Mature carrots</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Leeks (or spring onions)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped parsley</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCES FOR THE MEAT</title></ing-div>
+      <ing-div>
+        <title>MUSTARD AND EGG SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>ounces</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Dry mustard powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Powdered tumeric</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pints</unit></amt>
+          <item>Cawl stock &amp; milk mixed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Hard-boiled egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Vinegar</item></ing></ing-div>
+      <ing-div>
+        <title>SPICED TOMATO KETCHUP</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Ripe tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Onion</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Ground ginger</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Powdered cloves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Malt vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Green chili (optional)</item></ing></ing-div>
+      <ing-div>
+        <title>PARSLEY-AND-CHIVE SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>ounce</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pints</unit></amt>
+          <item>Cawl stock and milk mixed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>(heaped) chopped parsley</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>(heaped) chopped chives</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Wash the joint to remove surface blood.  Put the meat into a large clean
+  pan and cover well with water. Bring to the boil, then turn the heat down,
+  cover with lid and simmer for 2 hours. Top up if the water sinks below the
+  level of the meat - at the end of the cooking you should have 2 pints of
+  liquor.  Leave it to cool, meat and all, and lift off the white hat of
+  grease (it makes good dripping after heating gently to drive off the
+  water).  Some families like the fat left in.
+  
+  Prepare the vegetables - scrub, peel and cut them into bite-sized chunks as
+  appropriate.  Wash and slice the leeks into 1/2-inch rings. Then make the
+  sauces.
+  
+  For the MUSTARD AND EGG SAUCE: Melt 1 oz butter in a small pan. When it
+  froths, sprinkle in the flour and fry for a moment until mixture is sandy.
+  Stir in the mustard powder and tumeric and immediately whisk in the broth
+  and milk.  Whisk till the mixture thickens. Chop the egg and stir in.
+  Finish with the vinegar and beat in the extra ounce of butter. Taste and
+  add salt and pepper.
+  
+  For the SPICED TOMATO KETCHUP: Chop the tomatoes, skin and chop the onion.
+  Put all the ingredients except the optional chili into a lidded saucepan.
+  Bring to the boil, turn down the heat, leave to simmer gently for 30
+  minutes.  Push the contents of the pan and boil it fiercely for a few
+  minutes.  Taste and adjust the seasoning. Serve either hot or cold. Finish
+  with a few slices of deseeded chili if you like it hot.
+  
+  For the PARSLEY-AND-CHIVE SAUCE: Melt the butter in a small pan, stir in
+  the flour and let it cool for a moment. Whisk in the liquid gradually and
+  stir over the heat until the mixture thickens. Mix in the herbs, taste and
+  add salt and pepper.  Reheat the meat in its broth (the cawl). Remove the
+  meat and keep it warm while you cook the root vegetables in the broth. Five
+  minutes before you are ready to serve, add the leeks. While the vegetables
+  simmer, plain-boil the potatoes separately. Stir the chopped parsley into
+  the soup just before you bring it to table.
+  
+  As a second course, serve the meat with the potatoes, and the three sauces.
+  
+  Source: Elisabeth Luard in "Country Living" (British), April 1989. Typed
+  for you by Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

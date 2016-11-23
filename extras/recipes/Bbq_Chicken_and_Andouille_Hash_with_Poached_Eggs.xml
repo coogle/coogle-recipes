@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Chicken and Andouille Hash with Poached Eggs</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Chicken breast</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Prepared BBQ Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Diced cooked potatoes; 1/2-inch dice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Small diced onions</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Minced shallots</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chopped Andouille sausage;, (8 ounces)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Minced garlic</item></ing></ing-div>
+      <ing-div>
+        <title>POACHED EGGS</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sliced green onions</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE PIQUANTE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped onions</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped green onions</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped celery</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped green bell peppers</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Minced shallots</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Minced jalapeno peppers; seeded</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Minced garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chopped fresh basil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Chopped fresh thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Chopped fresh oregano</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Bay leaves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Peeled; seeded and chopped Italian plum tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chicken stock</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cayenne pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Turns fresh black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Unsalted butter</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  ESSENCE OF EMERIL SHOW#EE2280
+  
+  Heat the grill or broiler. Season the chicken with salt and pepper. Brush
+  the BBQ Sauce on the chicken, coating the breast completely. Place the
+  chicken on the hot grill or broiler and cook for 5-6 minutes on each side.
+  Set aside and cool.
+  
+  For hash: In a saute pan, heat the oil. Add the potatoes and saute, shaking
+  the pan occasionally, for 2 minutes. Add the onions, shallots, and
+  andouille and stir-fry for 1 minute. Small dice the BBQ chicken and add to
+  the andouille mixture and saute for 1 minute. Add the garlic and season
+  with salt and pepper, stir occasionally for 4 minutes.
+  
+  For poached egg: Bring 3 cups of water to a boil with 1/2 teaspoon white
+  vinegar and 1/2 teaspoon salt in a small saucepan over high heat. Crack an
+  egg into a cup and slide the egg gently into the water. Crack another egg
+  into the cup and when the water returns to a boil slide this egg into the
+  water as well. When the water returns to a boil, reduce the heat to low and
+  simmer until the eggs are set, about 2-2 1/2 minutes. Drain on paper
+  towels.
+  
+  Yield: 4 servings
+  
+  SAUCE PIQUANTE: In a sauce pot, heat the oil. Add the onions, green onions,
+  celery, bell peppers, jalapenos, shallots, and garlic over high heat. Add
+  the basil, thyme, oregano, and bay leaves. Saute for 2 minutes. Stir in the
+  tomatoes, stock, salt, cayenne, and black pepper and bring to a boil. Cook
+  over high heat for 2 minutes, reduce the heat and simmer, stirring
+  occasionally, for about 5 minutes. Stir in the butter and remove from the
+  heat. To assemble, spoon a small amount of the sauce in the center of the
+  plate. Place 3/4 cup of the hash on the sauce. Top with the poached egg and
+  garnish with shaved green onions.
+  
+  Yield: 2 cups
+  
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 21, 1998
+ 
+</step></directions></recipe></recipeml>

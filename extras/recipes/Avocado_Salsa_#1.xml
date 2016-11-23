@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Salsa #1</title>
+      <categories>
+        <cat>Dip</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>VEGETABLES</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Ripe avocado; peeled and diced</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>small</unit></amt>
+          <item>Tomatoes; diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Red onion; diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Green pepper; seeded and diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Jalapeno pepper; fresh or canned; finely diced -or-</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Green chili; finely diced, (wear rubber gloves) (optional)</item></ing></ing-div>
+      <ing-div>
+        <title>DRESSING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic; minced</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt; to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Red wine vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Olive oil; or</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Salad oil</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>drops</unit></amt>
+          <item>Tabasco sauce</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Joel Ehrlich &lt;Joel.Ehrlich@salata.com&gt; Combine the vegetables in a medium
+  bowl.  Mash the garlic with salt in a cup or small bowl. Add the vinegar,
+  oil and Tabasco sauce.  Pour the dressing over the vegetables and toss to
+  combine the ingredients.  Serve chilled or at room temperature.
+  
+  CHILE-HEADS ARCHIVES
+  
+  From the Chile-Heads recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

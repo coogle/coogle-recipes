@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ice cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whipped cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cherries</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nuts Caramel Sauce----</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Warm Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Evaporated Milk</item></ing></ingredients>
+    <directions>
+      <step>  Cut a banana in half lengthwise. Cut each half into two. Arrange the banana
+  pieces in a shallow pudding bowl (preferably a boat shape bowl). Top with
+  two or three scoops of ice cream. Spoon sauce* over. On each mound of ice
+  cream, place a dollop of whipped cream. Decorate with a cherry or a nut.
+  CARAMEL SAUCE: Melt sugar and butter over low heat. Keep on stirring until
+  golden brown. Add warm water and keep on stirring until smooth. Add the
+  evaporated milk, and keep on stirring until smooth. Serve hot or cold.
+  
+  busted by sooz
+  Posted to recipelu-digest Volume 01 Number 250 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Nov 12, 1997
+ 
+</step></directions></recipe></recipeml>

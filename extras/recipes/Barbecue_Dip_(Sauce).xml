@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Dip (Sauce)</title>
+      <categories>
+        <cat>Bar-b-que</cat>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Apple cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried red pepper flakes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt And Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients except the salt and pepper in a small saucepan.
+  Bring to a simmer. Remove from heat, season with salt and pepper. May be
+  served hot or cool. May be refrigerated up to 4 days.
+  
+  NOTES : This is quick to make and is great with minced or sliced BBQ.
+  
+  Recipe by: Craig Claiborne Cook's Mag. Jul/Aug 1988 P-30
+  
+  Posted to MasterCook Digest V1 #339 by "Max H. Mitchell"
+  &lt;mmitch-fay@worldnet.att.net&gt; on Nov 12, 1997
+ 
+</step></directions></recipe></recipeml>

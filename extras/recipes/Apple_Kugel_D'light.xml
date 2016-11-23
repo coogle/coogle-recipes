@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Kugel D'light</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Low-fat</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Medium QUAKER Barley*</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Plain low-fat yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>2% low-fat cottage cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Egg substitute; OR... Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Light corn syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Finely chopped apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Cook barley as package directs; set aside.  Heat oven to 350 F.  Spray
+  11x7-inch glass baking dish with no-stick cooking spray or grease lightly.
+  In large bowl, combine yogurt, cottage cheese, egg substitute, corn syrup,
+  vanilla and 1/2 teaspoon cinnamon; mix well.  Stir in cooked barley,
+  apples and raisins; mix well.  Spread into prepared dish.  Sprinkle evenly
+  with combined sugar and remaining 1/2 teaspoon cinnamon.  Bake 32 to 38
+  minutes or until edges are set and knife inserted in center comes out
+  clean.  Let stand 30 minutes.  Serve warm or cold.  Store tightly covered
+  in refrigerator.
+  
+  *NOTE: To use Quick QUAKER Barley, substitute 1 cup quick barley for
+  medium barley and decrease water to 2 cups.  Cook barley as package
+  directs; set aside.  Proceed as directed above.
+  
+  Nutrition Information: 1/12 recipe
+  * Calories 150
+  * Protein 7g
+  * Carbohydrate 30g
+  * Fat 1g
+  * Cholesterol 5mg
+  * Dietary Fiber 2g
+  * Sodium 120mg
+  * Percent of Calories from Fat: 6%
+  
+  Exchanges: Starch/Bread 1/2, Meat 1/2, Fruit 1-1/2
+  
+  Source: Quaker's Best Barley Recipes
+  Copyright 1992 The Quaker Oats Company
+  Reprinted with permission from The Quaker Oats Company
+  Electronic format courtesy of Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/barley.zip
+ 
+</step></directions></recipe></recipeml>

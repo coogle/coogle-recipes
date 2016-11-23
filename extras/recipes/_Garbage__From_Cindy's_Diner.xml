@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Garbage" From Cindy's Diner</title>
+      <categories>
+        <cat>Cheese/eggs</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Beaten eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded cheddar cheese or processed American cheese (3 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Loose-pack frozen hash brown potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped, fully-cooked ham or sausage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onions</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cooking oil</item></ing></ingredients>
+    <directions>
+      <step>  Combine eggs and 1/2 cup of the cheese; set aside.  In a medium hot
+  skillet, cook potatoes, ham and onion in hot oil over medium-low heat for 8
+  minutes or till potatoes and onions are tender.  Add the egg mixture to
+  vegetables and ham in skillet.  Cook, stirring occasionally, till egg is
+  cooked but still glossy and moist.  Transfer to serving plate.  Top with
+  remaining cheese.  Makes 1 serving.
+  
+  From Cindy's Diner in Fort Wayne, IN Recipe printed in Midwest Living,
+  April 1993
+  Posted to MM-Recipes Digest V3 #199
+  
+  Date: Tue,  9 Jul 1996 12:45:11, -0500
+  
+  From: TJFM10C@prodigy.com (MRS ROSANNE E TROXEL)
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Glazed Roast Pork- Crockpot</title>
+      <categories>
+        <cat>Crockpot</cat>
+        <cat>Pork</cat>
+        <cat>Roast</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork loin roast -- trimmed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Apples -- quartered</item></ing></ingredients>
+    <directions>
+      <step>  From: Gerald Edgerton &lt;jerrye@wizard.com&gt;
+  
+  Date: Wed, 22 May 1996 08:37:49 -0700 Procedures: 1. Rub roast with salt
+  and pepper. Brown port roast under broiler to remove excess fat; drain
+  well. 2. Place apple quarters in bottom of crockpot. Place roast on top of
+  Apples. 3. Combine apple juice, brown sugar, and ginger. Spoon over top
+  surface of roast, moistening well. 4. Cover and cook on Low setting for 10
+  to 12 hours or until done.
+  
+  Posted to Master Cook Recipes List, Digest #94
+ 
+</step></directions></recipe></recipeml>

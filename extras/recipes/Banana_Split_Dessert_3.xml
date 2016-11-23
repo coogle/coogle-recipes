@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Dessert</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit/></amt>
+        <item>Sticks margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Graham cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Confectioner's sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>large</unit></amt>
+        <item>Can crushed pineapple</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Jar maraschino cherries</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Ctn Cool Whip</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed nuts</item></ing></ingredients>
+    <directions>
+      <step>  Melt half stick margarine; combine with graham cracker crumbs. Spread
+  mixture on bottom of 9"x13" Pyrex baking dish. Beat confectioner's
+  sugar, margarine, and eggs for fifteen minutes in mixer. Spread layer
+  of mixture in dish. Drain pineapple; layer in dish. Halve cherries;
+  layer over pineapple.  Slice bananas; layer over cherries. Spread
+  Cool Whip in layer over bananas. Top with chopped nuts. Chill several
+  hours; serve.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

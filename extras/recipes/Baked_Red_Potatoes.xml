@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Red Potatoes</title>
+      <categories>
+        <cat>Eat-lf mail</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Red Potatoes</item></ing></ingredients>
+    <directions>
+      <step>  Bake 2 (or however many you want) in a toaster or conventional oven. They
+  come out very creamy tasting and quite different thenwhen you microwaved or
+  boil them.
+  
+  Entered into MasterCook and tested for you by Reggie Dwork
+  &lt;reggie@reggie.com&gt;
+  Posted to Digest eat-lf.v096.n148
+  
+  Date: Tue, 10 Sep 1996 18:53:21 PST
+  
+  From: loraelln@juno.com (Laura E Shears)
+  NOTES : Cal  66.4
+       Fat  0.1g
+       Carbs  15.1g
+       Fiber  1.3g
+       Pro  1.7g
+       Sodium  5mg
+       CFF  1.1%
+ 
+</step></directions></recipe></recipeml>

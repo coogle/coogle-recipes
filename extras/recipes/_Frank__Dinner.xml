@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Frank" Dinner</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bunch carrots, cleaned,cut</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Small potatoes,pared,halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Head cabbage, quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Frankfurters</item></ing></ingredients>
+    <directions>
+      <step>      Parboil potatoes and carrots for 10 minutes.  In large skillet, put the
+  broth, bay leaf and parboiled vegetables. Cover and cook over medium heat 5
+  minutes.  Arrange the cabbage in the skillet, cover and cook another 5 min.
+  Sprinkle vegs. with salt. Add franks and simmer 5-1- min. longer or untill
+  vegetables are tender.  Serve from skillet, spooning broth over vegetables.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

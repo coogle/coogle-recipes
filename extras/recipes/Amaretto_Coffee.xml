@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Coffee</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Warm Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Instant Coffee Crystals</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Amaretto</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dessert Topping *</item></ing></ingredients>
+    <directions>
+      <step>  *    Dessert topping should be in a pressurized can.
+  
+  In a 2-cup measure stir together water and instant coffee crystals.
+  Micro-cook, uncovered, on 100% power for about 4 minutes or just till
+  steaming hot.  Stir in Amaretto.  Serve in mugs.  Top each mug of coffee
+  mixture with some dessert topping.
+  
+  From Better Homes &amp; Gardens "Microwave Cooking for One or Two".
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mwc-4-2.zip
+ 
+</step></directions></recipe></recipeml>

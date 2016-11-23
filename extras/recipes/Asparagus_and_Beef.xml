@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus and Beef</title>
+      <categories>
+        <cat>Main dishes</cat>
+        <cat>Chinese</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fermented black beans; (Chinese)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus; sliced diagonally</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>In 1/2-in. pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Flank steak; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Soak black beans in warm water a few minutes. Drain and mash beans with
+  garlic. Drop asparagus in boiling water and boil 2 minutes. Drain
+  immediately. Heat 2 tablespoons oil in skillet or wok until very hot. Add
+  beef, stir quickly, then remove from pan. Add remaining oil to skillet and
+  heat. Add bean mixture and stir over high heat for a few seconds. Add salt
+  and asparagus. Stir-fry 1 minute. Add chicken stock, cover and cook 2
+  minutes. Mix cornstarch, sugar and water and stir into meat mixture. Stir
+  until sauce is thick and smooth. Add beef and blend quickly.
+  
+  Created by: General Lee's, Los Angeles (C) 1992 The Los Angeles Times
+  
+  Posted to EAT-L Digest 29 Sep 96
+  
+  Date:    Mon, 30 Sep 1996 16:46:07 -0500
+  
+  From:    LD Goss &lt;ldgoss@METRONET.COM&gt;
+ 
+</step></directions></recipe></recipeml>

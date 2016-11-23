@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Inez's Monkey Bread</title>
+      <categories>
+        <cat>Polkadot</cat>
+        <cat>Lisa</cat>
+        <cat>Cakes</cat>
+        <cat>Quick/easy</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cans</unit></amt>
+        <item>Refrigerated biscuits (10 per can) cut in quarters</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Stick margarine</item></ing></ingredients>
+    <directions>
+      <step>  Roll cut up biscuits in sugar and cinnamon and arrange in greased tube pan
+  with sealed bottom.  Sprinkle on leftover cinnamon mixture and pour on
+  melted margarine.
+  
+  Bake at 375 for 30-40 minutes.
+  
+  Source: Inez Walling
+  
+  * The Polka Dot Palace BBS  1-201-822-3627  Posted by LISA on 05-11-95
+  
+  Posted to MC-Recipe Digest V1 #707 by Lisa Clarke &lt;lisa@gaf.com&gt; on Aug 1,
+  9
+ 
+</step></directions></recipe></recipeml>

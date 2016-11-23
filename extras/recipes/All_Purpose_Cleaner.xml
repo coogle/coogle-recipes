@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All Purpose Cleaner</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Borax</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>gallon</unit></amt>
+          <item>Warm water</item></ing></ing-div>
+      <ing-div>
+        <title>OR</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Ammonia</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Baking soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>gallon</unit></amt>
+          <item>Warm water</item></ing></ing-div>
+      <ing-div>
+        <title>OR</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Ammonia</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Laundry detergent</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>gallon</unit></amt>
+          <item>Warm water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Blend well...for all purpose cleaning..good on floors too.
+  
+  Recipe by: Lisa Lepsy Posted to TNT - Prodigy's Recipe Exchange Newsletter
+  by NotABNRML@aol.com on Aug 20, 1997
+ 
+</step></directions></recipe></recipeml>

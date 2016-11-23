@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acorn Squash</title>
+      <categories>
+        <cat>Kaz</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Acorn</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Sausage</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Squash</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 350 degrees. Cut squash in half; scoop out seeds. Place on a
+  muffin pan (cut side up). Place 1/4 cup brown sugar in each half of squash
+  and then place a patty of sausage on top of the brown sugar. Cook for 30-45
+  minutes, or until tender. Scoop out the shells and mix with melted brown
+  sugar, serve with sausage.
+  
+  Recipe By     :
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

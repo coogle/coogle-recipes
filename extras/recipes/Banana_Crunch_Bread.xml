@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Crunch Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Quick/muffi</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bananas; very ripe, mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped nuts; optional</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 deg.
+  
+  Beat bananas, sugar and eggs together until light.  Stir in milk.  Add
+  sifted dry ingredients and mix thoroughly. Stir in melted butter, vanilla
+  and nuts.
+  
+  Pour into 1 standard or 2 smaller bake pans and bake one hour or until
+  done. Baking time may need to be reduced for smaller pans. Done when tooth
+  pick tests dry.
+  
+  Cool thoroughly before slicing.
+  
+  [I generally double this recipe, and it freezes very well.]
+  
+  &gt;From: Billy Hatcher &lt;0002040826@mcimail.com&gt;
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  NOTES : The following is the best (and most forgiving) banana bread recipe
+       I've come
+       across.  Don't recall where I got the original, but have modified
+       it quite a
+       bit, so it is pretty much my own.  I use it if I happen to have
+       some grossly
+       over ripe bananas on hand, and if not, try to go to a grocery
+       which has a mark
+       down produce section for them.  The key to really good banana
+       flavor is using
+       very, very ripe bananas.  If it is almost black, mushy and oozing
+       juice, it is
+       perfect for the bread.  Enjoy!
+ 
+</step></directions></recipe></recipeml>

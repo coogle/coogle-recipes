@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acetaria</title>
+      <categories>
+        <cat>Salads</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>ROMULAN LEGUME SALAD</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Green beans, (16 oz)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Navy beans, (16 oz)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Kidney beans, (16 oz)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Chick peas, (20 oz)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Knockwurst, about total weight</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Green onions, sliced salt and pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Wine vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Cloves of garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Fresh chopped parsley</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Put the canned beans and chick-peas with their liquid into a saucepan and
+  boil about a minute over medium heat. Strain the liquid from the beans and
+  chick-peas. Put the beans and peas into a salad bowl. Cut the knockwurst
+  into 1/4" slices and then quarter the slices. Add to the salad, then add
+  the onions and salt. Pour the olive oil into the blender, add the wine
+  vinegar, garlic and parsley. Run the blender until the parsley is finely
+  chopped, perhaps half a minute. Pour this dressing over the salad. Mix it
+  all together gently but thoroughly. Chill the salad in the refrigerator for
+  several hours before serving.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

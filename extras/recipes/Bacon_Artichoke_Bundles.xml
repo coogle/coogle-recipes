@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Artichoke Bundles</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Entertain</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Jars marinated artichoke hearts; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar spicy brown mustard</item></ing></ingredients>
+    <directions>
+      <step>  Slice strips of bacon in half crosswise. Spread one side of bacon with a
+  thin layer of mustard. Drain artichoke hearts thoroughly and place one
+  piece of articoke at one end of bacon. (If artichoke hearts are too large,
+  they may be sliced in half before wrapping in bacon.) Roll and secure with
+  a wooden toothpick. Place rolled bacon strips on a broiler pan, making sure
+  they do not touch each other. Bake in a 375 degree oven for 30-45 minutes,
+  turning once, until bacon is cooked. (This may be done early in the day.)
+  Drain on paper towels and refrigerate until serving time. Reheat on baking
+  sheet at 350 degrees for 10 minutes or until hot. Source: "Teasers and
+  Appeasers", an Hors d'Oeuvre cookbook. Reformatted by: CYGNUS, HCPM52C
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

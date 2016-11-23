@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bankruptcy Stew</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Soups/stews</cat>
+        <cat>Main dish</cat>
+        <cat>Meats</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean beef round stk; boneless</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato sauce;</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Potatoes; peeled, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Green bell pepper; slice thinly</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Rib celery; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Yellow onion; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Carrots; peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Sprig fresh parsley =OR=-</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dry parsley;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing></ingredients>
+    <directions>
+      <step>  Cut round steak into 1-inch cubes.  Brown beef cubes over high heat
+  in a nonstick skillet.  Add the rest of the ingredients to the
+  skillet. Cover and simmer for 1 hour over medium heat until the meat
+  is tender. 8 servings
+  
+  One serving = 345 calories, 3 low-fat protein + 1 starch + 1 vegetable
+  exchange 23 grams protein, 22 grams carbohydrate, 12 grams fat, 482 mg
+  sodium
+  
+  Adapted from Quick &amp; Easy Diabetic Menus, Betty Wedman 1993 Shared
+  but not tested by Elizabeth Rodier Feb 94
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

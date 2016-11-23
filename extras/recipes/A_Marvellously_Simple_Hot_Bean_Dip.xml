@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Marvellously Simple Hot Bean Dip</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Dips</cat>
+        <cat>Hot</cat>
+        <cat>Tex-mex</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(28 oz) refried beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>7-oz jar green chile salsa</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Monterey jack or cheddar cheese;, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Red onion;, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tortilla chips</item></ing></ingredients>
+    <directions>
+      <step>  Combine the refried beans, salsa and half the grated cheese and heat until
+  very hot. Place in a chafing dish and surround with bowls of the chopped
+  red onion, the remaining cheese, and the tortilla chips.
+  
+  This can be assembled 1 or 2 days ahead and refrigerated. Heat and stir
+  over lowest heat, then transfer to chafing dish to serve.
+  
+  Recipe by: Ruth Mellinkoff
+  
+  Posted to MC-Recipe Digest by "Crane C. Walden" &lt;cranew@foothill.net&gt; on
+  Mar 8, 1998
+ 
+</step></directions></recipe></recipeml>

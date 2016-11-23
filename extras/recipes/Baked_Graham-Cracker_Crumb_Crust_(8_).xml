@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Graham-Cracker Crumb Crust (8")</title>
+      <categories>
+        <cat>Pie crusts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Graham-cracker crusts</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine,melted</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 375'F. If you would like to make your own graham-cracker
+  crumbs, pulverize crackers in blender or in food processor with knife blade
+  attached as manufacturer directs; or place them in sturdy plastic bag and
+  roll into fine crumbs with rolling pin.
+  2. In pie plate or bowl, mix crumbs with remaining ingredients. If you
+  like, set aside 3 tablespoons mixture for topping. With hand, press mixture
+  onto bottom and up side of pie plate.
+  3. Bake crust 8 minutes; cool on wire rack. Fill as recipe directs or with
+  chilled pie filling; top with reserved crumb mixture or garnish as recipe
+  directs.
+  
+  Miscellaneous recipes from the collection of Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mo-misc.zip
+ 
+</step></directions></recipe></recipeml>

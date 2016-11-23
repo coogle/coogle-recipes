@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"No Bake" Cookie Crumble Cheesecake</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Cakes</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Envelope plain gelatine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cold milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk, heated to boiling</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Cream cheese, 8 oz. ea.</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract or flavor</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mini-chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Deep dish graham cracker&gt;&gt;&gt;&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crust (9oz. size).</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Your favorite cookies,&gt;&gt;&gt;&gt;&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Coarsely crushed.</item></ing></ingredients>
+    <directions>
+      <step>     In blender, sprinkle gelatine over cold milk; let stand 2 min. Add hot
+  milk and process at low until dissolved, about 2 min. Add cream cheese,
+  sugar and vanilla and process until blended. Arrange chocolate in bottom of
+  crust.  Pour in gelatine mixture; sprinkle with crushed cookies. Chill
+  until firm, about 2 hrs.
+  
+     Yield: 8 to 10 servings
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

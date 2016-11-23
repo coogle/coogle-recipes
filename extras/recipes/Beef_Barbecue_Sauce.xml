@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Barbecue Sauce</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter Or Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; Large, Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chili Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Beer; Any Brand</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Stuffed Olives; Sliced</item></ing></ingredients>
+    <directions>
+      <step>  Combine all the ingredients in a saucepan and simmer for 5 minutes or
+  until the flavors are blended.
+  
+  Makes about 1 1/2 cups of the sauce
+  
+  "More Recipes from the Backs of Boxes, Bottles, Cans &amp; Jars", by Ceil Dyer.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sauces1.zip
+ 
+</step></directions></recipe></recipeml>

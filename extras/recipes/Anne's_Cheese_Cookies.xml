@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anne's Cheese Cookies</title>
+      <categories>
+        <cat>Appetizer</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Sharp cheddar cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour; sifted</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic salt and paprika to taste</item></ing></ingredients>
+    <directions>
+      <step>  Combine cheese and butter.  Add remaining ingredients slowly.  Roll into
+  log. Wrap and chill. (Do not freeze!) Slice and bake at 350 degrees about
+  10 minutes. This will keep in refrigerator for 3 months!
+  
+  MRS HARRY WOOD (TOOBY)
+  
+  GREERS FERRY, AR
+  
+  From the book &lt;High Cotton Cookin'&gt;, Marvell Academy Mothers Assn, Marvell,
+  AR  72366, ISBN 0-918544-14-9, downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

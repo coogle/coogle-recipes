@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Iced Coffee</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Whole rich coffee beans; ground fine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sweetened condensed (not evaporated) milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ice</item></ing></ingredients>
+    <directions>
+      <step>   (This is for "Thai Iced Coffee: Make *very* strong coffee (50-100% more
+  coffee to water than usual), use something like Cafe Du Monde which has
+  chicory in it. Pour 6-8 oz into cup and add about 1 Tbs sweetened condensed
+  milk.  Stir, then pour over ice.)
+  
+   Make even stronger coffee, preferably in a Vietnamese coffee maker.  (This
+  is a metal cylinder with tiny holes in the bottom and a perforated disc
+  that fits into it; you put coffee in the bottom of the cylinder, place the
+  disc atop it, then fill with boiling water and a very rich infusion of
+  coffee drips slowly from the bottom.)
+  
+   If you are using a Vietnamese coffee maker, put two tablespoons of
+  sweetened condensed milk in the bottom of a cup and put the coffee maker on
+  top of the cup.  If you are making espresso or cafe filtre (the infusion
+  method where you press the plunger down through the grounds after several
+  minutes of infusion), mix the sweetened condensed milk and the coffee any
+  way you like.
+  
+   When the milk is dissolved in the coffee (yes, dissolved *is* the right
+  word here!), pour the combination over ice and sip.
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

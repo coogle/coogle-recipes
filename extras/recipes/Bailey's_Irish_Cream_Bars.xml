@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bailey's Irish Cream Bars</title>
+      <categories>
+        <cat>Cookie</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CAKE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Duncan Hines yellow moist deluxe cake mix</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Bailey's Irish Cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Oil</item></ing></ing-div>
+      <ing-div>
+        <title>SWIRL</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Duncan Hines creamy cream cheese frosting - vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Hershey's vanilla milk chips</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Bailey's Irish Cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Reserved cake batter</item></ing>
+        <ing>
+          <amt>
+            <qty>Date:</qty>
+            <unit/></amt>
+          <item>Fri, 14 Jun 1996 11:20:21 -0500</item></ing>
+        <ing>
+          <amt>
+            <qty>From:</qty>
+            <unit/></amt>
+          <item>Suzanne O'Dowd &lt;suzanne@DALLAS.NET&gt;</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Cake: Preheat oven to 350 degrees.  Prepare a jelly roll pan (about 15" x
+  10" x 1").  Mix cake mix with eggs, Irish Cream and oil.  Set aside 1/2 cup
+  of prepared cake batter for swirl. Pour cake batter into prepared pan.
+  
+  Swirl: In a small bowl, blend all swirl ingredients.  Drop large spoonfuls
+  of this mixture over the cake batter.  Swirl with a fork to make a marble
+  effect.  Bake 25 - 30 minutes.  Cool and cut into squares.
+  
+  EAT-L DIGEST 13 JUNE 1996
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

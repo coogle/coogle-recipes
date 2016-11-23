@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbequed Beef Short Ribs</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Barbeque</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef chuck ribs, cut into 1 rib pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Dry sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Packed dark brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Cloves garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ground red pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh grated ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chinese five spice powder</item></ing></ingredients>
+    <directions>
+      <step>  Trim excess fat from ribs.  In large roasting pan, arrange ribs in single
+  layer.  For marinade, in medium saucepan combine remaining ingredients.
+  Cook over medium heat on range top until sugar is dissolved. Remove from
+  heat; cool slightly. Pour marinade over ribs. Cover and marinate in
+  refrigerator for at least 1 hour, turning ribs once.
+  
+  Cover roasting pan with foil.  Arrange medium hot briquettes around drip
+  pan.  Place roasting pan on grill, cover grill and cook ribs 45 minutes.
+  Remove ribs from roasting pan and place directly on grid; reserve marinade.
+  Continue cooking in covered grill, 45 to 60 minutes longer or until ribs
+  are tender, turning occasionally. Brush ribs again with reserved marinade
+  during last 10 minutes of grilling.
+  
+    Posted to bbq-digest V3 #058
+  
+    Date: Tue, 24 Sep 1996 07:50:53 -0700
+  
+    From: Carey Starzinger &lt;cstarz@teleport.com&gt;
+ 
+</step></directions></recipe></recipeml>

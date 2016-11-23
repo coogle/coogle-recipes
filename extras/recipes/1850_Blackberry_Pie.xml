@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1850 Blackberry Pie</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Pies &amp; past</cat>
+        <cat>To post</cat>
+        <cat>Post to bak</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>10" Unbaked Pie Shell</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Blackberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  Fill shell with berries. Mix flour, sugar, and milk. Pour mixture over
+  berries. Bake at 350° for 45 to 50 minutes until center is set. If desired,
+  brown under broiler.
+  
+  Serves 6 to 8
+  
+  Source: "Mountain Measures" -- Junior League of Charleston, WV ed. 1974
+  
+  billspa@icanect.net
+  
+  Recipe by: Mrs. Charles G. Moyers, Jr. Posted to MC-Recipe Digest V1 #700
+  by Bill Spalding &lt;billspa@icanect.net&gt; on Jul 31, 1997
+ 
+</step></directions></recipe></recipeml>

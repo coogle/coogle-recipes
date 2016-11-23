@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana and Bacon Sandwich</title>
+      <categories>
+        <cat>Snacks</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Crushed bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bacon slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Salt and lettuce</item></ing></ingredients>
+    <directions>
+      <step>  Crush banana, chop crisped bacon and mince apple.  Mix, add salt, spread
+  between buttered slices of bread and add lettuce leaf.
+  
+  For You From:  Jon Judd {Cooking Echo}
+  Posted to recipelu-digest Volume 01 Number 670 by GramWag@aol.com on Feb 1,
+  1998
+ 
+</step></directions></recipe></recipeml>

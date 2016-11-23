@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Rice Casserole</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Main dish</cat>
+        <cat>Meats</cat>
+        <cat>Rice</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Ground beef;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Celery; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Condensed chicken gumbo soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Rice(uncooked)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Condensed cream of mushroom;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Soup;</item></ing></ingredients>
+    <directions>
+      <step>  Combine ground beef, onion, and celery with a small amount of water
+  in a saucepan.  Boil until all moisture is absorbed.  Mix beef
+  mixture, rice, andmushroom soup; pour into a small greased casserole
+  dish. Add salt and pepper.  Bake at 350F for 25 minutes;
+  Microwave: Cook on Medium for 8 to 10 minutes;
+  
+  Food Exchange per serving: 3 MEAT EXCHANGE + 2 STARCH/BREAD EXCHANGE
+  CAL: 380
+  
+  Source: The Complete Diabetic Cookbook by Mary Jane Finsand
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

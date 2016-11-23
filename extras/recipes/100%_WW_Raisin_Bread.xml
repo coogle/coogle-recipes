@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>100% WW Raisin Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Fruits</cat>
+        <cat>Grains/puls</cat>
+        <cat>Breads</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Whole Wheat Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Nonfat Dry Milk Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Applesauce; Or Low Fat Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing></ingredients>
+    <directions>
+      <step>  Directions: Put ingredients into kettle in the order recommended by your
+  Breadmaking Machine. For Panasonic, drop raisins in after first kneading
+  while dough is resting. May be baked Timed or Rapid Bake.
+  
+  NOTES : Cal  102.6, Fat 0.5g, Carb 22.5g, Fib 3.3g, Pro 3.8g, Sod 205mg,
+  CFF  4.1%.
+  Posted to Digest eat-lf.v097.n232 by Reggie Dwork &lt;reggie@reggie.com&gt; on
+  Sep 15, 1997
+ 
+</step></directions></recipe></recipeml>

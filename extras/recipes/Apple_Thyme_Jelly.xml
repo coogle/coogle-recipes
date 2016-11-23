@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Thyme Jelly</title>
+      <categories>
+        <cat>Condiments</cat>
+        <cat>Jams</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple cider</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh thyme leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Liquid fruit pectin; 3 ounc es</item></ing></ingredients>
+    <directions>
+      <step>  1.  Combine the cider, sugar and thyme in a 4-quart microwave-safe bowl,
+  and stir well. 2. Cook, uncovered, at full power (650 to 700 watts) for 10
+  minutes. Stir, return to the microwave, and cook until the sugar has
+  dissolved and the mixture has reached a full rolling boil, about 5 more
+  minutes. 3. Stir the pectin into the mixture, return it to the microwave,
+  and cook for 1-1/2 minutes. 4. Skim any foam off the surface, ahd pack the
+  jelly into sterilized jars according to the manufacturer's directions.
+  Makes 1 quart. Authors' note: A delicate flavor -- just perfect for glazing
+  a simple lamb or pork roast. Source: The New Basics Cookbook
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

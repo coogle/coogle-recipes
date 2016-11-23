@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wacky Chocolate Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cocoa</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cold water</item></ing></ingredients>
+    <directions>
+      <step>  Sift dry ingredients into a 9 inch square ungreased pan. Make 3 holes in
+  dry mixture. Measure oil in one, vinegar in second, vanilla in third. Pour
+  cold water over all. Mix with rubber spatula until blended. Do not beat.
+  Bake at 350 degrees for 20 to 30 minutes, cool. Frost if desired. Note: My
+  son's favourite icing is to add chocolate chips to the top of the cake when
+  it first comes out of the oven. He lets the chips melt and spreads the
+  chocolate over the cake.
+  
+  Recipe by: Carole Walberg
+  
+  Posted to Bakery-Shoppe Digest V1 #525 by  on
+ 
+</step></directions></recipe></recipeml>

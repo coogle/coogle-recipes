@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beacon Hill Cookies</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts or pecans</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees. Beat egg whites until foamy. Slowly add sugar,
+  one tablespoonful at a time, beating after each addition until the
+  meringues stand in stiff peaks. Stir in vinegar and vanilla. Fold in
+  chocolate chips and chopped nuts. Drop by teaspoonfuls on prepared baking
+  sheets. Bake for 10 minutes. With a spatula, remove meringues immediately
+  and place on a wire rack to cool. Makes 3 dozen. From The Gazette 90/12/19.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

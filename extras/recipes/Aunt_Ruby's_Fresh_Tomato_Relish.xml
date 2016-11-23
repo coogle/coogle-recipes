@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Ruby's Fresh Tomato Relish</title>
+      <categories>
+        <cat>Condiment</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Tomatoes, peeled, seeded, and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Green pepper, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Celery seed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  1.  In a medium bowl, combine tomatoes, onion, and green pepper.
+  
+  2.  In a small bowl, combine sugar, vinegar, celery seed, salt, and
+      pepper.  Stir to dissolve the sugar.  Pour over tomato mixture; toss.
+      Cover and chill till serving time.
+  
+      Makes 4 cups.
+  
+  Posted to MC-Recipe Digest V1 #780 by Bill &lt;thelma@pipeline.com&gt; on Sep 13,
+  1997
+ 
+</step></directions></recipe></recipeml>

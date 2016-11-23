@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Autumn Dump Cake</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box spice cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Sliced apples, undrained (not pie filling)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick margarine or butter, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped pecans</item></ing></ingredients>
+    <directions>
+      <step>  by Shelley Sparks
+  
+  In a 9x13 inch cake pan, dump in apples and spread evenly. Sprinkle with
+  dry spice cake mix. Pour melted margarine all over dry mix. Top with
+  chopped pecans. Bake at 375 for about 40 minutes or untill bubbly. Serve
+  warm with vanilla ice cream.
+  
+  Posted to EAT-L Digest 10 November 96
+  
+  Date:    Mon, 11 Nov 1996 09:43:54 -0800
+  
+  From:    Pamela Ramsey &lt;risha@EROLS.COM&gt;
+ 
+</step></directions></recipe></recipeml>

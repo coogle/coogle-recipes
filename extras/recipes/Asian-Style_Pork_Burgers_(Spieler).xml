@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian-Style Pork Burgers (Spieler)</title>
+      <categories>
+        <cat>Grilling</cat>
+        <cat>Meats</cat>
+        <cat>Pork</cat>
+        <cat>Recipes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Ground pork</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Chopped green onion</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Garlic</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Soy sauce; additional</item></ing></ing-div>
+      <ing-div>
+        <title>TO SERVE</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Hoisin</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cucumber spears</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Rice noodles</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Soy sauce; mixed with</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sesame oil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Make ground pork patties seasoned with chopped green onion, garlic and soy
+  sauce with a pinch of sugar and just enough cornstarch to hold it together.
+  Brush with soy sauce; grill over white-ash-covered coals; turn once. Serve
+  with hoisin, cucumber spears, cold rice noodles tossed with soy sauce and
+  sesame oil.
+  
+  Notes: SF Chronicle 5/13/98
+  
+  Recipe by: Grilling by Marlena Spieler
+  
+  Posted to MC-Recipe Digest by Kitpath &lt;phannema@wizard.ucr.edu&gt; on May 14,
+  1998
+ 
+</step></directions></recipe></recipeml>

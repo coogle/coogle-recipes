@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Bloomin' Onion Sauce and Dip</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Dips</cat>
+        <cat>Favorites</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Picante sauce (pace medium or hot)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lowry's seasoned salt; to taste</item></ing></ingredients>
+    <directions>
+      <step>  Mix and put in refrigerator to thicken for a day.  Enjoy!
+  
+  Posted to MM-Recipes Digest V4 #134 by Connie Robertson &lt;clonnie@eaze.net&gt;
+  on May 15, 1997
+ 
+</step></directions></recipe></recipeml>

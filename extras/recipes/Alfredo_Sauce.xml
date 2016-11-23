@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alfredo Sauce</title>
+      <categories>
+        <cat>Sauces-alfr</cat>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Nonfat Cottage Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Grated Parmesan Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>* Butter-flavored Granules</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Evaporated Skimmed Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chicken-flavored Bouillon Granules</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried Basil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground Black Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>D Ground Red Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Serving Size : 6-8
+  
+  Combine all ingredients in container of an electric blender; process until
+  smooth, stopping once to scrape down sides.
+  
+  Pour into a small saucepan; cook sauce over low heat, stirring constantly,
+  until thoroughly heated. Makes 2 3/4 cups.
+  
+  Per serving (3 1/2 ounces): Calories 86 (8% from fat), Fat 0.8g )0.5g
+  saturated), Cholesterol 6mg, Sodium 495mg, Carbohydrate 6.8g, Fiber 0g,
+  Protein 13.1g.
+  
+  * I used 2 Tbsp margarine instead since we don't have butter-flavored
+  granules.
+  
+  From: Debra Antes Date: 05-31-94
+  Posted to recipelu-digest Volume 01 Number 480 by Jan Crow
+  &lt;jccrow@hypercon.com&gt; on Jan 08, 1998
+ 
+</step></directions></recipe></recipeml>

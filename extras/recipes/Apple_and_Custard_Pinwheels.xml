@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Custard Pinwheels</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Recipe quark pastry</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Milk to glaze</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING 1- APPLE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Apple puree; sweetened</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING 2 - CUSTARD</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg yolk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>mililiters</unit></amt>
+          <item>Milk; 5/8 cup</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From: MarkandSue@highland.cix.co.uk (Mark and Sue Thomas)
+  
+  These are a bit like Danish Pastries but without the yeast dough. You can
+  use either filling or both together. Cut pastry into 16 squares, 3" by 3".
+  On each square, cut in diagonally from each corner, leaving an area in the
+  centre that is uncut, about 1 inch across. Put a teaspoonful of either or
+  both fillings in the centre. Take one corner and fold it to the middle.
+  Move to the next triangle, and fold in one corner. Do this for each of the
+  4 triangles, so you have a pinwheel shape. Four corners meet in the middle
+  on top of the apple, and 4 are left flat. This is easier to do than to
+  explain! Use a fish slice to lift onto a greased or lined tray, and paint
+  with milk or egg and milk if you have any. Bake at 190 C, 375 F for 20
+  minutes until the points are golden brown. To make custard: Mix all
+  together and either microwave for 2 minutes, stirring occasionally, or cook
+  over a low heat in a saucepan until thickened. It will taste a bit raw at
+  this stage, but will be fine after baking.
+  
+  Recipe by: Sue Thomas
+  
+  Posted to recipelu-digest by jeryder@juno.com on Mar 17, 1998
+ 
+</step></directions></recipe></recipeml>

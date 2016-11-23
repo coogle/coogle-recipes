@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Atole De Leche (Milk with Masa Drink)</title>
+      <categories>
+        <cat>Mexico</cat>
+        <cat>Beverage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>ounces</unit></amt>
+        <item>Masa harina</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>quarts</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Piloncillo / brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>4" canela / cinnamon stick</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve the masa harina in 1 quart of water, then strain the water into a
+  saucepan (throw away the masa). Boil until it is thick, stirring with a
+  wooden spoon, about 15 minutes.
+  
+  Add the milk, piloncillo, vanilla, and canela. Bring the liquid back to a
+  simmer, stirring often to thicken. This will take about 45 minutes, keeping
+  the heat at a minimum so the milk doesn't curdle.
+  
+  Remove the canela stick before serving.
+  
+  [ SOURCE 1998-Ap http://www.melissas.com/ ] &gt;&gt;Hanneman/Buster
+  
+  Notes: Tamales and Atole have been a classic combination since pre-Hispanic
+  times. There are Atole counters in the markets throughout Mexico.
+  
+  Recipe by: A Cook's Tour of Mexico by Nancy Zaslavsky
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Apr 17,
+  1998
+ 
+</step></directions></recipe></recipeml>

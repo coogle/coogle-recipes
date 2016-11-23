@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Scones</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Scones</cat>
+        <cat>Mc</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cold butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Shredded apple</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Milk for brushing tops</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar for sprinkling</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon for sprinkling</item></ing></ingredients>
+    <directions>
+      <step>  Measure flour, sugar, baking powder, soda and salt into large bowl. Cut in
+  butter until crumbly.
+  
+  Add shredded apple and milk.  Stir to form stiff dough.  Turn out on
+  lightly floured surface. Knead gently 8-10 times. Pat into two six inch
+  circles. Place on greased baking sheet. Brush tops with milk. Sprinkle with
+  sugar and cinnamon. Score each top into 6 pie shaped wedges. Bake in 425 F
+  oven for 15 minutes until browned and risen. Serve warm with butter.
+  
+  Variation:
+  
+  Currant Apple Scones - Add 1/2 cup currants to batter.
+  Recipe By     : vigil@esca.com (Sandra)
+  
+  Posted to MC-Recipe Digest V1 #249
+  
+  Date: Thu, 17 Oct 1996 16:25:49 -0400
+  
+  From: kmeade@IDS2.IDSONLINE.COM (The Meades)
+ 
+</step></directions></recipe></recipeml>

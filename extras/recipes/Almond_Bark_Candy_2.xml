@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Bark Candy</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>White chocolate</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Melt chocolate until smooth. Add raisins and almonds. Pour onto wax paper ~
+  this will be a thin candy. Let cool then break into pieces.
+  
+  Recipe By :
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by louiseh@juno.com
+  on Jul 29, 1997
+ 
+</step></directions></recipe></recipeml>

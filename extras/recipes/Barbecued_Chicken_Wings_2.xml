@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Chicken Wings</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Wings</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit/></amt>
+        <item>Chicken wings (about 3 pounds)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Lemon, cut into 14 thin slices Zesty Barbecue Sauce</item></ing></ingredients>
+    <directions>
+      <step>  Cut off and discard chicken wing tips. Arrange chicken
+  and lemon alternately in rectangular microwavable
+  dish, 11 X 7 X 1 1/2 inches. Cover tightly and
+  microwave on high 12 to 15 minutes, rotating dish 1/2
+  turn after 6 minutes until done; drain. Cover to keep
+  warm. Prepare Zesty Barbecue Sauce; pour evenly over
+  chicken. Microwave uncovered 3 to 4 minutes or until
+  sauce is hot. 16 chicken wings.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

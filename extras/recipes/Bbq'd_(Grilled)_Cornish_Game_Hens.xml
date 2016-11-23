@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq'd (Grilled) Cornish Game Hens</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cornish game hens (1 to 1 1/2 pounds each)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Coarsely crushed black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Sprig fresh rosemary (Optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit/></amt>
+        <item>Briquets charcoal (about 3 pounds)</item></ing></ingredients>
+    <directions>
+      <step>  Split the hens lengthwise, rinse and pat dry.  In a small bowl,
+  combine olive oil, lemon juice, crushed pepper and salt.  Place the
+  hen halves in a plastic bag.  Set the bag in a bowl.  Pour the
+  marinade over the hens. Cover and refrigerate for several hours or
+  overnight, turning the hens occasionally.  When the charcoal briquets
+  are medium hot, arrange them around a drip pan in a covered grill.
+  Just before grilling, add the rosemary sprig to the coals.  Remove
+  the hens from the marinade and place them, skin side up, on the grill
+  over the drip pan.  Cover the grill and cook the hen halves for 45
+  minutes or until done, basting occasionally with the marinade.
+  
+  Makes 4 servings.
+  
+  Posted by Stephen Ceideberg; August 6 1992.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

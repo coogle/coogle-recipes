@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bagels (Breadmaker)</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Breadmaker</cat>
+        <cat>Jewish</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SMALL (8</title>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Whole wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Bread flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Yeast</item></ing></ing-div>
+      <ing-div>
+        <title>MEDIUM (12</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Whole wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Bread flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Yeast</item></ing></ing-div>
+      <ing-div>
+        <title>LARGE (16</title>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Whole wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2 2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Bread flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Yeast</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Set for dough cycle.Let the machine knead the dough once, and then let the
+  dough rise for only 20 minutes in the machine. Even if your cycle runs
+  longer, simply remove dough after 20 minutes and turn off the machine.
+  Divide the dough into the appropriate number of pieces. Each piece should
+  be rolled into a rope and made into a circle, pressing the ends together.
+  You may find it necessary to wet one end slightly to help seal the ends
+  together.
+  
+  Place these on a well greased baking sheet, cover and let rise only 15 to
+  20 minutes. Meanwhile, bring to a slight boil in a "nonaluminum pan",
+  (Donna German uses a cast iron frying pan) about 2 inches of water.
+  Carefully lower about 3 or 4 bagels at a time into the water, cooking for
+  about 30 seconds on each side. Remove bagels, drain on a towel, sprinkle
+  with poppy seeds, sesame seeds or dried onion bits if desired and place on
+  the greased baking sheet. Bake in a preheated 550 degree oven for 8
+  minutes.
+  
+  This recipe is from Donna German's first Breadmachine Cookbook, pages 160-
+  161.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

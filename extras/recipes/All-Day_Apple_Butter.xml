@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-Day Apple Butter</title>
+      <categories>
+        <cat>Not</cat>
+        <cat>Sent</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Apples; peeled and finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Place apples in a crock pot. Combine sugar, cinnamon, cloves and salt; pour
+  over apples and mix well. Cover and cook on high for 1 hour. Reduce heat to
+  low; cover and cook for 9-11 hours or until thickened and dark brown,
+  stirring occasionally (stir more frequently as it thickens to prevent
+  sticking). Uncover and cook on low 1 hour longer. If desired, stir with a
+  wire whisk until smooth. Spoon into freezer containers, leaving 1/2-inch
+  headspace. Cover and refrigerate or freeze.
+  
+  Recipe by: Taste of Home Oct/Nov '96
+  
+  Posted to Bakery-Shoppe Digest V1 #223 by Shelley Sparks
+  &lt;ssparks@mailbox.arn.net&gt; on Sep 07, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Cheese Ball</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese, (yogurt cheese would be just fine) 2 tsp. horseradish, 1</item></ing></ingredients>
+    <directions>
+      <step>  BEEF CHEESE BALL
+  
+  Shred 2 jars chipped beef, saute in 2 Tbls. butter. Combine half of this
+  with tsp. prepared mustard. Roll into ball, then roll in remaining chipped
+  beef.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Shrimp #1</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Thawed shrimp in shell</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bottle (large) Italian salad dressing</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Lemons; juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Onion (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Melt butter in large pan. Add shrimp, salad dressing, lemon juice &amp; pepper.
+  Bake at 350 for 45 minutes. Stir frequently to bring shrimp on bottom to
+  top. Serve with chunks of French bread to dip in sauce. Serves 6-8.
+  
+  RITA FINCHER
+  
+  SALLY MC CARTY
+  
+  MARY JANE BELL
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

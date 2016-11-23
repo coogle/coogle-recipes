@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Jam</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh apricots - a kilo</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar - 750 grms</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Squeeze of fresh lemon juice</item></ing></ingredients>
+    <directions>
+      <step>  Cut the apricots in half, remove stones and place in a large saucepan. Heat
+  gently and when the fruit is hot add the sugar slowly. Squeeze the lemon
+  juice over the fruit. Keep stirring and slowly boil for 10-20 minutes as
+  the jam thickens.
+  
+  Test a small spoonful on a saucer for setting. Pour into hot sterilized
+  jar. Seal.
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 961 by Rayna Knighton
+  &lt;rayna@iconz.co.nz&gt; on Jan 25, 1998
+ 
+</step></directions></recipe></recipeml>

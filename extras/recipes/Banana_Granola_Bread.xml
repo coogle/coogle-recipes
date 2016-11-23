@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Granola Bread</title>
+      <categories>
+        <cat>Breads/abm</cat>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>1 POUND LOAF</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Marie Frainier *DGCP02C*</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>White bread flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Wheat flour</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dry milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Mashed bananas</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Granola</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Molasses</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped walnuts</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dried banana chips</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Yeast (active dry)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Follow manufacturer's directions.
+  Posted to MM-Recipes Digest V3 #305
+  
+  Date: Wed, 6 Nov 1996 14:18:31 -0800 (PST)
+  
+  From: Corky Courtright &lt;corky@discover.net&gt;
+ 
+</step></directions></recipe></recipeml>

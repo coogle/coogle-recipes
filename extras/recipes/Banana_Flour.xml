@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Flour</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Ripe Bananas</item></ing></ingredients>
+    <directions>
+      <step>  Slice and dry full grown bananas. Use only the fruit that is full grown as
+  green bananas contain too much starch. After drying, grind or pound in a
+  mortar, then pass the powder through a sieve. This flour can be used in
+  equal parts with regular flour in making desserts where a starchy substance
+  is used.
+  
+  From: Real Guamanian Recipes By Way Of Dorothy's Kitchen By: Dorothy Horn
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

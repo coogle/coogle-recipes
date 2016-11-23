@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Beans Espanol</title>
+      <categories>
+        <cat>Bean</cat>
+        <cat>Side dish</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>64</qty>
+          <unit>ounces</unit></amt>
+        <item>Seasoned baked beans, undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onions, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Bell peppers, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Fat-free cheddar cheese, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>White bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350. Prepare a 2-quart casserole dish with cooking spray;
+  set aside. In a mixing bowl, combine beans, onions, bell peppers, garlic,
+  ketchup, and honey. Mix well. Spread into prepared dish. In a small bowl,
+  combine cheese, crumbs, salt, and black pepper. Mix well. Spoon over bean
+  mixture. Bake, uncovered, for 45 minutes, or until top is browned.
+  
+  Per serving: 347 Calories; 2g Fat (5% calories from fat); 16g Protein; 72g
+  Carbohydrate; 0mg Cholesterol; 1348mg Sodium
+  
+  Serving Ideas : Serve with hot dogs or hamburgers.
+  
+  NOTES : Freezes well.
+  
+  Recipe by: SueBee Honey Collector's Edition Cookbook Posted to MC-Recipe
+  Digest V1 #620 by matejka@bga.com (Anita A. Matejka) on May 26, 1997
+ 
+</step></directions></recipe></recipeml>

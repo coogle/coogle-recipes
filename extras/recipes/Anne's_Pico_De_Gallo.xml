@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anne's Pico De Gallo</title>
+      <categories>
+        <cat>Mexican</cat>
+        <cat>Sauces</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Green onions, chopped coarse</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Med. whole tomatoes, chopped medium</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cilantro leaf, chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice from concentrate</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients and refrigerate at least an hour. Best if served
+  over fajitas with sour cream and freshly grated cheddar. Use the cilantro
+  judiciously! It is easy to overpower the remaining ingredients.
+ 
+</step></directions></recipe></recipeml>

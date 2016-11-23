@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Republic</title>
+      <categories>
+        <cat>Boat</cat>
+        <cat>Drinks</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Whole banana -- peeled and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pineapple rings in juice</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Mango juice</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Rum -- to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ginger ale</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Maraschino cherry</item></ing></ingredients>
+    <directions>
+      <step>  Throw all the ingredients except the ginger ale/soda &amp; cherry in a blender
+  and liquefy. Toss a couple ice cubes in a collins glass and fill it half
+  way with banana republic. Add ale/soda to the top and stir slowly. Toss in
+  your Cherry,  Now, put on a safari jacket, kick back in the lawn chair,
+  crank up the stereo and sip away.
+  
+  Recipe By     : The Net
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

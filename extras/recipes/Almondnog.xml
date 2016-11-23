@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almondnog</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Almond milk (See SOYNOG recipe)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas (not over-ripe)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground nutmeg more if desired</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla extract</item></ing></ingredients>
+    <directions>
+      <step>  Blend the above until smooth, then sprinkle a little nutmeg on top. Serve
+  immediately as banana changes flavour when it sits after blending, so don't
+  try to keep in the refrigerator.
+  
+  This comes from Maryln Diamond's book. posted by Ted Wayn Altar in
+  REC.FOOD.VEG
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>100% Wheat Bread</title>
+      <categories>
+        <cat>Bread machi</cat>
+        <cat>Low fat</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water; (1 C)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt; (1 Tsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Canola Oil; (1 1/2 Tsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey; (1 1/4 T)</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/8</qty>
+          <unit>cups</unit></amt>
+        <item>Whole-Wheat Flour; (1 1/2 C)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour; Unbleached, (2/3 C)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Gluten Flour, 100%; (2 T)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Wheat Germ; (1 1/2 T)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Whey; Powdered, (1 1/4 T)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Active Dry Yeast; (2 Tsp)</item></ing></ingredients>
+    <directions>
+      <step>  "The Complete Book of Bread Machine Baking", edited by Lara Pizzorno
+  
+  I don't know where they get the title since this is not 100% WW.  However,
+  I have been told that this is the best bread that I have made so far by two
+  different sources.  The crust has a nice crunch and the bread is light with
+  a delicious flavor. This book emphasizes healthy breads, that is why they
+  suggest canola instead of vegetable oil, unbleached flour instead of all
+  purpose flour, and why they add wheat germ. I don't doubt that you can
+  easily substitute.
+  
+  "Therese Klodnicki" &lt;Terry_Klodnicki@msn.com&gt;
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+ 
+</step></directions></recipe></recipeml>

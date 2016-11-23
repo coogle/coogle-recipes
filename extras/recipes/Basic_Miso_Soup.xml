@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Miso Soup</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Vegan</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>2-3" piece EDEN Wakame</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>small</unit></amt>
+        <item>Onion; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>medium</unit></amt>
+        <item>Carrot; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>EDEN Miso (any variety), dissolved in...</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green onions finely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Rinse Wakame. Cover with water and soak
+  for 5 minutes. Remove rib and dice. Meanwhile, bring 4 cups water to a
+  boil. Add onions, simmer for 3 minutes. Add carrots and Wakame, simmer
+  for 5 more minutes. Remove from heat and add dissolved miso, stirring in
+  well. Do not boil once miso is added. Garnish with green onions and
+  serve.
+  
+  Prep Time: 10 minutes
+  Cooking Time: 10 minutes
+  Yield: 5-6 servings
+  
+  Copyright 1994 Eden Foods, Inc.
+  &lt;Electronic Format courtesy of Karen Mintzias&gt;
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/eden.zip
+ 
+</step></directions></recipe></recipeml>

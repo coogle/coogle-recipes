@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Bowl of Red</title>
+      <categories>
+        <cat>Soups/stews</cat>
+        <cat>Vegan</cat>
+        <cat>Vegetarian</cat>
+        <cat>Chili</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>To 12 chilies</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Soy or textured vegetable protein (12oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>clove</unit></amt>
+        <item>Garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Wash, stem and remoeve seeds from the chilies.  Put chiliesin 3 cups cold
+  water and bring to a boil. After about 45 minutes to an hour the skins
+  should slip off easily. Mash the pulp into a paste. If this seems too
+  difficult, you can substitute chili powder at the ratio of 1 tablespoon
+  chili powder to a pod of chili. Read the instructions on the soy or TVP
+  package to see if the product was soaked beforehand. If not, use some of
+  the water to prepare this ingredient. Saute the onions in the olive oil
+  until translucent. Add the garlic and spices , then the 12 cups of water.
+  Bring to a boil, then add the nuggets.  Reduce to a simmer, cook for 30
+  minutes to an hour.  If this seems too runny, you can thicken with masa,
+  the cornmeal flour used in tortillas. When made in bulk, this chili can
+  readily be frozen.
+  
+  Total calories per serving: 163  Fat 4 grams
+  
+  Source: Vegetarian Journal, Jan/Feb 1995 Pooh's Recipe dbase
+  (lisa_pooh@delphi.com) 2/4/96
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

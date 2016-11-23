@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Garam Masala (Indian Spice)</title>
+      <categories>
+        <cat>Mixes and s</cat>
+        <cat>Indian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cinnamon sticks</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>40</qty>
+          <unit>grams</unit></amt>
+        <item>(1 1/2 oz) cumin seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>25</qty>
+          <unit>grams</unit></amt>
+        <item>(1 oz) coriander seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>grams</unit></amt>
+        <item>(3/4 oz) green or black cardamom seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>grams</unit></amt>
+        <item>(3/4 oz) black peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>grams</unit></amt>
+        <item>(1/2 oz) cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>grams</unit></amt>
+        <item>(1/2 oz) ground mace</item></ing></ingredients>
+    <directions>
+      <step>  This is a version of the most common type of garam masala used throughout
+  Uttar Pradesh and the Punjab, which goes well with onion-based sauces for
+  meats and poultry. It is a spicy, pungent blend. Change the proportions to
+  suit your taste and the dish.
+  
+  Break the cinnamon sticks into pieces. Crumble the bay leaves. Heat a heavy
+  frying pan and after 2-3 minutes put in the whole spices. Dry roast over a
+  medium heat until the color darkens, stirring or shaking the pan frequently
+  to prevent burning. Leave to cool, then grind and blend with the mace. In
+  an airtight container, the mixture will keep for 3-4 months.
+  
+  * To make a mild and subtle Moghul Masala, use only green cardamoms,
+  cinnamon, black peppercorns, mace and a few cloves.
+  
+  * For a hot Gujerati Masala, add sesame seeds, fennel seeds, ajowan seeds
+  and chilies.
+  
+  * For a mildish Kashmiri Masala, use black cumin seeds, green cardamoms,
+  black peppercorns, cloves, cinnamon, mace, and add a little grated nutmeg.
+  
+  * For a hot Parsi Dhansak Masala, add fenugreek seeds, mustard seeds,
+  chilies and ground turmeric, and double the amount of coriander seeds.
+  
+  Source: Jill Norman "The Complete Book of Spices" Viking Studio Books, 1991
+  ISBN 0-670-83437-8 The book is lavishly illustrated with full color
+  photographs of the herbs and spices- whole, mixed, ground.
+  
+  Recipe by: Jill Norman * Web File 4/97 Posted to MC-Recipe Digest V1 #615
+  by "Mary Spyridakis" &lt;MSpork@msn.com&gt; on May 16, 97
+ 
+</step></directions></recipe></recipeml>

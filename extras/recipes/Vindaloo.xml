@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vindaloo</title>
+      <categories>
+        <cat>Indian</cat>
+        <cat>Meats</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Coriander seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Poppy seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Red mustard seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cumin seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Corn or peanut oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dried hot red chili flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ginger, fresh; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Garlic cloves; ground to a paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Pork, boneless; cut in 2" cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Beef, boneless; cut in 2 " cubes salt, to taste Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing></ingredients>
+    <directions>
+      <step>  "Vinegar is a preservative &amp; therefore the vindaloo may be kept in the
+  refrigerator for several days before using. In fact, the flavour are
+  intensified if the vindaloo is eaten one or two days before cooking, warm
+  slightly. ... The vindaloo requires that a substantial amount of oil be
+  used in the preparation. For our purpose &amp; without compromising the flavor,
+  I have suggested that the excess oil be poured off before dining. Toasting
+  &amp; grinding the whole spice seeds is the old-time method &amp; very effective in
+  deriving the most flavor. However, I have also lightly toasted ground
+  spices, which is an improvement over using them directly from the
+  container. The recipe is one prepared by the Bhatia Christians of Calcutta,
+  a group of Anglo-Indians who have intermarried with Bengali Indians."
+  
+  Lightly toast the coriander, poppy, mustard seeds, &amp; cumin seeds in a dry
+  skillet for 2 or 3 minutes until the aroma is released. Grind the seeds in
+  a processor to a fine powder. Set aside. Heat the oil in a pan &amp; add all
+  the toasted dry spices, the chili flakes ginger and garlic. Stir fry over
+  moderately low heat for 2 min. Add the meat &amp; stir continuously for 10
+  minutes as the meat browns. Add the water, cover the pan &amp; cook until the
+  meats are tender, about 1 hour. When the meats have been fully tenderized,
+  add the vinegar &amp; continue to cook until the vinegar evaporates &amp; the oil
+  has risen. This is an indication that the vindaloo is ready. At this stage,
+  all the oil may be poured off before serving. Serve warm with plain white
+  rice &amp; masoor dal.
+  
+  SERVES:6 Source: The Anglo-Indian chapter in _The Varied Cuisines of India_
+  by Copeland Marks posted by Anne MacLellan
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

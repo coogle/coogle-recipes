@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arroz Dulce ('sweet Rice' From Buena Vista Morelos)</title>
+      <categories>
+        <cat>Grains</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rice, plain long-grain white</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>liter</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>397</qty>
+          <unit>grams</unit></amt>
+        <item>Sweetened, condensed milk</item></ing></ingredients>
+    <directions>
+      <step>  Cook rice in the water as usual, but do not allow to cook completely; when
+  almost all the water is absorbed add the cinnamon.  After 3-5 more minutes
+  ad both the milks. Cook on very low another 15 minutes or until all the
+  milk is absorbed.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

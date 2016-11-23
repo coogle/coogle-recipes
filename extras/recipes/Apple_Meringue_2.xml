@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Meringue</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Apples</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>LORELI AGUDA WSKD49A</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>medium</unit></amt>
+          <item>Tart apples,peeled and cored</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter, melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>White seedless raisins, plumped</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Fresh lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Egg whites</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Slice apples about 1/4 inch thick. Place in a well buttered baking dish.
+  Pour melted butter over apples. Sprinkle with raisins, lemon juice and 1/2
+  of the sugar. Cover with aluminum foil and bake at 350 for about 20
+  minutes, or until apples are tender. Beat egg whites with salt until stiff.
+  Gradually add the remaining sugar to make a stiff meringue. Spread meringue
+  over apples to the edge of dish. Bake an additional 10 minutes, or until
+  meringue is brown. Serve warm. Cream may be added if desired.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

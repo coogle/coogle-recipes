@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aspargus Spears with Sesame Mayonaise</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Posted</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Asparagus Spears</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sesame Oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated Zest Of 1 Orange</item></ing></ingredients>
+    <directions>
+      <step>  Pour about 1 inch of water into a large frying pan and bring it to a boil
+  over high heat. Meanwhile, cut off the tough bottom ends from the aspargus.
+  Generously salt the water. Add the aspargus, return the water to a boil and
+  cook until the aspargus is just tender, about 3 minutes. Drain the aspargus
+  and rinse under cold running water. Drain well and pat dry. In a small
+  bowl, combine the mayonaise, soy sauce, sesame oil and grated orange zest.
+  Blend well. Spoon the dipping sauce into a small bowl. Place the bowl in
+  the middle of a round platter and fan the asparagus spears on the platter
+  around it.
+  
+  Recipe by: 5 in 10 Appetizer Cookbook
+  
+  Posted to MC-Recipe Digest by Meg Antczak &lt;meginny@frontiernet.net&gt; on Mar
+  17, 1998
+ 
+</step></directions></recipe></recipeml>

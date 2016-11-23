@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bbq Ribs 1991 World Bbq Contest Winner "Memphis in May"</title>
+      <categories>
+        <cat/></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DRY RUB</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Paprika</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Onion powder</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cayenne</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Ketchup</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>White vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Yellow onion; diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sorghum molasses</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  DRY RUB DIRECTIONS: Mix in jar, cover and shake well to mix. Sprinkle rub
+  liberally on ribs. Allow to stand 20 to 30 minutes at room temperature
+  until rub appears wet.
+  
+  RIB SMOKING DIRECTIONS: Prepare smoker for long, slow cooking using hickory
+  chips for flavor. Cook ribs, bone side down at 230 degrees for 2 hours
+  using indirect heat. Turn and cook 1 more hour. During last 15 minutes,
+  baste with BBQ sauce diluted by 1/2 with water. Serve ribs with warm
+  undiluted sauce on the side.
+  
+  BBQ SAUCE DIRECTIONS: Combine all ingredients in a large saucepan. Bring to
+  a rolling boil, reduce heat and simmer for 1-1/2 hours, stirring every 10
+  minutes or so. Pour into sterilized jars, seal and let stand for 2 to 6
+  weeks before using.
+ 
+</step></directions></recipe></recipeml>

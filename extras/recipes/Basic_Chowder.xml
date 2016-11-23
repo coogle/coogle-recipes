@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Chowder</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Bacon bits</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sticks celery, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves of garlic (or 3)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Fry the bacon in a large pot and remove.  Add the carrot and celery and
+  cook over medium heat for 2 minutes. Add the onion, bay leaf and whole
+  cloves of garlic. Stir and add the pepper.
+  
+  "All you really need is a big pot and some bacon bits. After that, you
+  improvise....  (Otherwise) we are stuck with the tyranny of the formal
+  recipe which defines The Only Way To Do It in a form as exact, and
+  frequently as exciting, as a prescription from the doctor."
+  
+  Source:  Urban Peasant by James Barber Shared by Elizabeth Rodier 6/93
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

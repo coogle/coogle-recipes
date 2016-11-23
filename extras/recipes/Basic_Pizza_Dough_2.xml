@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pizza Dough</title>
+      <categories>
+        <cat>Hand made</cat>
+        <cat>Low fat</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Active Dry Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Hot Water; 110 - 115 Deg F</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All-Purpose Flour; Unsifted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  In a large bowl, sprinkle yeast over warm water. Let sit for 5 minutes. Add
+  honey &amp; olive oil.  Stir. Add flour and salt. Stir until dough forms. Turn
+  out onto floured surface, knead dough adding small quantities of flour if
+  necessary, until very elastic (10-15 minutes). Dough should be soft, don't
+  add too much flour.
+  
+  Wash &amp; dry &amp; oil mixing bowl.  Place the dough in oiled bowl, turning to
+  bring oiled side up.  Cover with clean cloth, let dough rise in warm place,
+  away from drafts, until doubled in size. (50-60 minutes).
+  
+  Heat oven to 450 degrees F.  Lightly dust large pizza pan with cornmeal.
+  Shape into 14" round and roll edge to make a thin border. Cover with
+  favorite sauce and toppings.
+  
+  Bake 12-15 minutes on lower rack until crust is lightly browned and the
+  cheese is bubbly.
+  
+  Dough Variations: ================Whole Wheat - reduce all-purpose flour to
+  1 cup and add 1 cup Whole Wheat flour.
+ 
+</step></directions></recipe></recipeml>

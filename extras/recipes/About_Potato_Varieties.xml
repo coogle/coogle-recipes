@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>About Potato Varieties</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Mar95</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Text reference</item></ing></ingredients>
+    <directions>
+      <step>  Check the state of origin on the bag to see if you have Michigan boilers or
+  an off brand Idaho baker. For boiling, I like Michigan (plain old brown
+  potatoes), red (thin skinned), and Yukon Golds - and those lovely new red
+  potatoes in the spring!  For baking, Idaho or russets.  For mashing,
+  russets. I know there are lots of neat varieties out there that I haven't
+  seen, please let us all know about them!
+  
+  Posted by "Anne.Cox" &lt;20676AC@msu.edu&gt; to the Fatfree Digest [Volume 16
+  Issue 12] Mar. 16, 1995.
+  
+  Individual recipes copyrighted by originator. FATFREE Recipe collections
+  copyrighted by Michelle Dick 1995. Formatted by Sue Smith,
+  SueSmith9@aol.com using MMCONV. Archived through kindness of Karen
+  Mintzias, km@salata.com.
+  
+  1.80á
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

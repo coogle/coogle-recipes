@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anti-Cholesterol Drink</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Eat-lf mail</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Grape juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing></ingredients>
+    <directions>
+      <step>  I have people who swear that their cholesterol has been dramatically
+  lowered after drinking one-quarter cup of this every morning (day) for a
+  few weeks (probably a longer time). Supposedly they sell this on the
+  streets in Florida people love it. We have made some and have decided that
+  even though it doesn't taste so great, we'll get by that and see if
+  anything does happen.
+  
+  Recipe by: (Mary Curtis) Posted to Digest eat-lf.v097.n177 by Simps
+  &lt;c.simpson@worldnet.att.net&gt; on Jul 13, 1997
+ 
+</step></directions></recipe></recipeml>

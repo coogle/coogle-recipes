@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potato Soup</title>
+      <categories>
+        <cat>Potato</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Baking potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Scallion; chopped &amp; divided</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon, Cooked, crumbled, divided</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese; shredded &amp; divided</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Sour cream</item></ing></ingredients>
+    <directions>
+      <step>  Bake potatoes. Cool. Scoop out pulp and set aside. Discard skins. Melt
+  butter over low heat and add flour. Add milk, until thick. Add potato pulp,
+  salt, pepper, 2 tablespoons of green onion, 1/2 cup of crumbled bacon and
+  cup cheese. Cook until throughly heated; stir in sour cream and heat
+  through. Serve with remaining green onions, bacon and 1/4 cup greese as
+  garnish.
+  Recipe By     : jonrob19@idir.net
+  
+  Posted to MC-Recipe Digest V1 #221
+  
+  Date: Thu, 19 Sep 1996 18:44:11 -465800
+  
+  From: Terry Pogue &lt;tpogue@IDS2.IDSONLINE.COM&gt;
+ 
+</step></directions></recipe></recipeml>

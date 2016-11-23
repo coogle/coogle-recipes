@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Sweet-And-Pungent Vegetables</title>
+      <categories>
+        <cat>Vegetable</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Vegetables (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing></ingredients>
+    <directions>
+      <step>  1. Prepare vegetables as in "Basic Stir-fried Vegetables".
+  
+  2. In one cup, combine sugar, vinegar, soy sauce and salt. In another,
+  blend cornstarch and cold water to a paste.
+  
+  3. Heat oil. Add vegetable and stir-fry until half done.
+  
+  4. Add sugar-vinegar mixture; stir-fry 2 minutes more.
+  
+  5. Then stir in cornstarch paste to thicken and serve at once.
+  
+  NOTE: Any of the following vegetables are suitable for this recipe:
+  asparagus, cabbage, carrots, celery or zucchini. VARIATION: In step 2, add
+  a drop or two of Tabasco Sauce to the sugar-vinegar mixture.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Applesauce (Low-Fat)</title>
+      <categories>
+        <cat>Apples</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Tart apples; peeled, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Place apples in a 1-quart dish coated with nonstick cooking spray. In a
+  small bowl, combine sugar, cinnamon and vanilla; mix well. Sprinkle over
+  the apples. Cover and bake at 350* for 40-45 minutes or until apples are
+  tender. Uncover and mash with a fork. Serve warm. Yield
+  : 2 servings.
+  Posted to TNT Recipes Digest by Alice Poe &lt;afpoe@swbell.net&gt; on Apr 22,
+  1998
+ 
+</step></directions></recipe></recipeml>

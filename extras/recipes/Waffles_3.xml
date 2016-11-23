@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waffles</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bisquick Original baking mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing></ingredients>
+    <directions>
+      <step>  Stir ingredients until blended. Pour onto hot waffle iron. Bake until
+  steaming stops.
+  
+  Makes 12 4" waffles. Posted to Bakery-Shoppe Digest V1 #207 by Lea
+  &lt;lhoover@ptialaska.net&gt; on Aug 30, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Artichoke Hearts</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>13-oz can whole artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese -OR- Boursin cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Garlic butter, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pine nuts, toasted</item></ing></ingredients>
+    <directions>
+      <step>  Open artichoke heart centers gently. Stuff with cream cheese. Dip into
+  butter, then mixture of Parmesan cheese and crumbs. Press pine nuts into
+  cheese. Place on foil-lined baking sheet. Bake at 350 degrees for 30
+  minutes. May flavor cream cheese with any favorite herbs.
+  
+  Approx per serving:  Cal 251; Prot 6 g; Carbo 11 g; Fiber &lt;1 g; Fat 20g;
+                       72% Calories from Fat; Chol 49 mg; Sod 457 mg.
+  Source: Great Recipes from Great Gardeners
+  Posted to MM-Recipes Digest  by dandelion@edeneast.com on Mar 2, 1998
+ 
+</step></directions></recipe></recipeml>

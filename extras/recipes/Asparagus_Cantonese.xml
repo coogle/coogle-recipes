@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Cantonese</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>China</cat>
+        <cat>Archived</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus sliced diagonally</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, pepper</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil in skillet over high heat almost to smoking point. Stir in garlic,
+  then add asparagus. Cover and shake pan vigorously 3 to 5 minutes.
+  Asparagus should be crisp-tender. Season to taste with salt and pepper.
+  
+  (C) 1992 The Los Angeles Times Recipe courtesy of: Karen Mintzias, 03 Mar
+  93  18:29:46
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

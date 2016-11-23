@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Autumn Punch</title>
+      <categories>
+        <cat>Beverage</cat>
+        <cat>Punch</cat>
+        <cat>Non-alcohol</cat>
+        <cat>Autumn</cat>
+        <cat>Sthrn/livng</cat></categories>
+      <yield>7</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Whole cardamom seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>3-inch sticks cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Whole allspice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Whole cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>quarts</unit></amt>
+        <item>Cranberry juice</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Apple cider</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Apricot nectar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>quarts</unit></amt>
+        <item>Ginger ale</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed ice</item></ing></ingredients>
+    <directions>
+      <step>     Combine first 6 ingredients in a saucepan; bring to a boil, reduce heat,
+  and simmer 10 minutes.  Strain and discard spices.  Chill. Combine chilled
+  mixture with remaining juices and ginger ale.  Serve over crushed ice.
+  Yield: 7-1/2 quarts.
+  
+  Mrs. Carl Smith of Florida  in September, 1988 "Southern Living" Typos by
+  Jeff Pruett
+  
+  Posted to MM-Recipes Digest V3 #271
+  
+  Date: Thu, 3 Oct 1996 13:53:54 -0600
+  
+  From: netdir@cyberspc.mb.ca (S.Pickell)
+ 
+</step></directions></recipe></recipeml>

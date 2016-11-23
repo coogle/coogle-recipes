@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Pizza</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>12" Pizza Crust</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Pizza sauce or meatless spaghetti sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded mozzarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Barbecue sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Cooked &amp; chopped barbecue meat (pork, chicken, turkey, beef)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Sliced rings of red onion (up to 8)</item></ing></ingredients>
+    <directions>
+      <step>  Recipe from: Michael Attias/Corky's Barbecue
+  
+  Preheat oven to 400 degrees. Place pizza crust on a baking sheet. Evenly
+  spread pizza sauce on crust. Top with cheese. In a separate bowl mix
+  barbecue meat and sauce. Spread barbecue mixture on toip of cheese. Top
+  with onion rings, as desired. Bake in oven for 10-12 minutes until cheese
+  bubbles.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  katiescarlett1@juno.com (L J G) on Jul 28, 1997
+ 
+</step></directions></recipe></recipeml>

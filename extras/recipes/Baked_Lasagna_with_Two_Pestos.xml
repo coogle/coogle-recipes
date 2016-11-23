@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lasagna with Two Pestos</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PESTO ONE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Basil leaves; packed tightly</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Cloves garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Pine nuts</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Parmigiano Reggiano; freshly grated</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Pecorino; freshly grated</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Ligurian olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt and pepper; to taste</item></ing></ing-div>
+      <ing-div>
+        <title>PESTO TWO</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Black Ligurian olives; pitted, to yield 1 cup</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh basil leaves; tightly packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Pine nuts</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Ligurian extra virgin olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Pecorino Sardo; freshly grated</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Bechamel sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Recipe basic pasta dough</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees F.
+  
+  Roll out pasta to thinnest setting, cut into 3 inch squares, blanch 1
+  minute in boiling water and shock in ice water.
+  
+  Divide bechamel sauce into two mixing bowls. Add Pesto One into one mixing
+  bowl and Pesto Two into the other. On the bottom of 4 (6-inch) gratin
+  dishes, place 2 tablespoons basilbechamel mixture. On top of that, lay one
+  piece of pasta (in each dish). On top of the pasta, place 2 tablespoons of
+  Pesto Two. Place a piece of pasta on top of the short stack. Continue until
+  all pasta and bechamel mixtures are used up (about 7 or 8 pieces high,
+  topping with a dollop of basil bechamel). Place in oven and bake 15 to 20
+  minutes, or until bubbly and slightly golden brown on top. Serve
+  immediately.
+  
+  Recipe by: MEDITERRANEAN MARIO #ME1A01
+  
+  Posted to MC-Recipe Digest V1 #989 by Sue &lt;suechef@sover.net&gt; on Jan 07,
+  1998
+ 
+</step></directions></recipe></recipeml>

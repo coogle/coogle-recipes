@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applegate Island Hummer</title>
+      <categories>
+        <cat>Beverages</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Creme de menthe</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Brandy</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Scoops vanilla ice cream</item></ing></ingredients>
+    <directions>
+      <step>  Preparation : Each "Hummer" recipe yields 2 servings. Soften the ice cream
+  a little before adding to other ingredients. Blend until creamy and enjoy.
+  Mix all ingredients together and have a wonderful afternoon!
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

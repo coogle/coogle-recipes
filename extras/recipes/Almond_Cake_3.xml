@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Fruits/nuts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PASTRY</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Butter</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Chopped almonds</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Ground almonds</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Potato starch or cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Salt</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  FOR THE PASTRY: Combine pastry ingredients by hand or in a food processor
+  to form a soft dough. Do not overmix. Chill for 30 minutes. Roll out and
+  line an 11-or-12-inch pie or tart pan. Prick the base and chill for
+  15-to-20 minutes. Preheat oven to 375F. FOR THE FILLING: Heat 1/3 of the
+  butter in a saute pan, add the chopped almonds and saute over medium heat
+  until browned. Cool. Melt the remaining butter in a small saucepan. Cool.
+  Mix the ground almonds and sugar in a bowl and add the eggs one by one,
+  beating after each addition until the mixture is light and thick. Sift the
+  potato or corn starch with the baking powder and salt and fold into the
+  almond mixture. Fold in the melted butter. Do not overmix. Pour the mixture
+  into the tart shell and bake for 10-12 minutes or until the batter begins
+  to set. Quickly scatter the chopped almonds over the top in one even layer.
+  Return the tart to the oven and continue baking for 17-to-20 minutes or
+  until the pastry is brown and the filling is firm.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alsatian Cheese Tart</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Desserts</cat>
+        <cat>Cheese</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SWEET PIE DOUGH</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Cake flour</item></ing>
+        <ing>
+          <amt>
+            <qty>5/8</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit/></amt>
+          <item>Skicks sweet butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Whole egg</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>dashes</unit></amt>
+          <item>Fresh lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>pinches</unit></amt>
+          <item>Fresh vanilla bean seeds OR</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>drops</unit></amt>
+          <item>To 3 drops vanilla extract</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>16</qty>
+            <unit>ounces</unit></amt>
+          <item>Fromage blanc OR Farmer's cheese OR Ricotta cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Heavy cream</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>large</unit></amt>
+          <item>Eggs, separated</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Kirsch</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>To 1 cup sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Grated rind of 1/2 lemon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  DOUGH:  Mix all ingredients well, without overworking dough. Allow dough to
+  rest 30 minutes before use.
+  
+  Preheat oven to 375F.  Roll out dough on floured surface and line the
+  bottom and sides of a 9-inch to 10-inch tart/pie pan with the dough. Beat
+  fromage blanc and cream together in a bowl; add egg yolks, sugar, cinnamon,
+  vanilla, kirsch, and lemon rind.  Mix thoroughly until very smooth. Beat
+  egg whites until stiff and gently fold into the batter. Pour the batter
+  into the pastry-lined pan.  Bake for 40 to 45 minutes, or until slightly
+  puffed and very brown.  Cool tart completely, then chill for several hours
+  before cutting.
+  
+  Per serving (10): 625 calories, 9 g protein, 35 g fat, 70 g carbohydrate,
+      231 mg cholesterol, 306 mg sodium
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

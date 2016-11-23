@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole wheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced bananas (2 large)</item></ing></ingredients>
+    <directions>
+      <step>  Combine the flour, baking powder, baking soda, and nutmeg in a mixing bowl.
+  Stir to blend.  Put the eggs, oil, sugar and bananas in a blender. Puree
+  until smooth. Pour the banana mixture into the flour. Mix well.
+  
+  Pour into an oiled 9 x 5 inch loaf pan.  Bake at 350 F for 40 to 50
+  minutes.  Cool on a wire rack.  Let stand 10 minutes before removing from
+  pan.  Cool thoroughly before serving.
+  
+  1/15 recipe - 164 calories, 1 bread, 1/2 fruit, 1 1/2 fat exchanges 21
+  grams carbohydrate, 3 grams protein, 8 grams fat 70 mg sodium, 114 mg
+  potassium, 37 mg cholesterol
+  
+  Source:  Am. Diabetes Assoc. Holiday Cookbook by Betty Wedman, 1986 Shared
+  but not tested by Elizabeth Rodier, Nov 93
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

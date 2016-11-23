@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alpine Mushroom Salad</title>
+      <categories>
+        <cat>New america</cat>
+        <cat>Salads</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chanterelle mushrooms; quart</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Porcini mushrooms; cut into</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garlic; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tomatoes; peeled,seeded,dice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh basil; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sun-dried tomatoes; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Italian parsley; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Richard Chamberlain, Restaurant at the Little Nell, Aspen
+  Preparation Time: 0:20 Preheat oven to 400 degrees F. On a sheet pan, place
+  the mushrooms, garlic, and olive oil. Toss. Season. Bake in oven until
+  light brown. Remove. Toss with remaining ingredients. Keep at room
+  temperature.
+  Posted to MM-Recipes Digest V4 #338 by BobbieB1 &lt;BobbieB1@aol.com&gt; on Dec
+  29, 1997
+ 
+</step></directions></recipe></recipeml>

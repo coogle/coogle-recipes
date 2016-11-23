@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asado Con Pimienta Negra (Roast Beef and Blac</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Ethnic</cat>
+        <cat>Main dish</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>Top round, trimmed of fat</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Black peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cardamon</item></ing></ingredients>
+    <directions>
+      <step>    Wipe the meat on all sides and tie with kitchen string. Place peppercorns
+  between waxed paper, and with a rolling pin or meat mallet, crack the
+  peppercorns. Mix the cracked peppercorns with cardamon and press the
+  mixture into the meat, covering the entire surface. Place meat on a rack in
+  a roasting pan and let sit at room temperature for 30 minutes before
+  cooking.
+    Preheat oven to 500 deg F. Place the pan on the middle rack of the oven
+  and roast for 1-1/4 hr for rare; 1-2/3 hr for medium. Remove from oven and
+  let stand 20 minutes before carving.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

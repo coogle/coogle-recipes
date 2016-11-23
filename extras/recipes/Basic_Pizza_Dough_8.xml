@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pizza Dough</title>
+      <categories>
+        <cat>Pizza</cat>
+        <cat>Basics &amp; es</cat>
+        <cat>Low cholest</cat>
+        <cat>Low fat</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Light honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Lukewarm water; (98-100 degrees F)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole wheat or unbleached flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Herbal salt substitute</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Flour; for dusting board</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Safflower oil; for coating bowl</item></ing></ingredients>
+    <directions>
+      <step>  In a large mixing bowl, combine honey, the warm water, and yeast, and stir
+  until yeast dissolves. Let mixture stand, uncovered, at room temperature
+  for 5 minutes.
+  
+  Stir in 1 cup of the flour and mix well. Let batter rise for 20 minutes,
+  then stir down and add remaining flour, oil, and salt substitute.
+  
+  Lightly flour a counter or breadboard and turn dough onto it. Knead dough
+  for 5 minutes, flouring lightly as needed to prevent stickiness. Dough
+  should be smooth and elastic.
+  
+  Lightly oil a large bowl and place dough into it. Cover with a dish towel
+  and let rise for 30 minutes. Punch down, then divide into 4 balls and roll
+  into rounds. Dough is now ready to use for pizza.
+  
+  Makes 4 small pizza crusts.
+  
+  Per serving: 114 Calories; 1g Fat (9% calories from fat); 5g Protein; 23g
+  Carbohydrate; 0mg Cholesterol; 3mg Sodium
+  
+  NOTES : Use this easy recipe for all bread dough pizzas. Begin making it
+  about 2 hours before you want to serve the pizza, since the dough needs
+  time to rise.
+  
+  Recipe by: Ron West
+  
+  Posted to Bakery-Shoppe Digest by Ron West &lt;ronwest@centex.net&gt; on Feb 5,
+  1998
+ 
+</step></directions></recipe></recipeml>

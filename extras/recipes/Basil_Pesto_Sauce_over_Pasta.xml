@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Pesto Sauce over Pasta</title>
+      <categories>
+        <cat>Herbs</cat>
+        <cat>Pasta</cat>
+        <cat>Sauces</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Linguine</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh basil paacked</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock or water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Roasted pine nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parmesan chees</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Crushed garlic</item></ing></ingredients>
+    <directions>
+      <step>  1.  Cook pasta in boiling water according to package instructions or until
+  firm to the bite.  Drain and place in serving bowl. 2. In food processor,
+  puree basil, stock , pine nuts, cheese, oil and garlic until smooth. Pour
+  over pasta and toss.
+  
+  Tips:  refrigerate sauce up to 5 days aahead, or freeze up to 6 weeks.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

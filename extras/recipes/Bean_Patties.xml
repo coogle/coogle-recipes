@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Patties</title>
+      <categories>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>16</qty>
+            <unit>ounces</unit></amt>
+          <item>Pinto beans, rinsed, drained</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Shredded lowfat cheddar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dry bread crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped gr onions w/tops</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Worcestershire</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg white or 2T egg product</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Whole wheat hamb. buns</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Slices tomato</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Lettuce leaves</item></ing></ing-div>
+      <ing-div>
+        <title>HORSERADISH SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Plain nonfat yogurt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Prepared horseradish</item></ing>
+        <ing>
+          <amt>
+            <qty>Spray</qty>
+            <unit>10</unit></amt>
+          <item>inch nonstick skillet with nonstick cooking spray. Mash beans in</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  med bowl.  Mix in cheese, bread crumbs, onions, worcestershire, pepper,
+  salt and egg white. Shape into 4 patties. Cook in skillet over med heat
+  about 10 mins, turning once until light brown. Serve on buns with
+  horseradish sauce, tomato and lettuce. Per serving--280 calories, 14 gr
+  protein, 5 grams fat, 0 cholesterol, 790 milligrams sodium, 3 grams
+  saturated fat, 2 grams unsaturated.
+  
+  From Betty Crocker Low Fat Low Cholesterol Cooking Shared on Cooking Echo
+  by Lisa Greenwood
+ 
+</step></directions></recipe></recipeml>

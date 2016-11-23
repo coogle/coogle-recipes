@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almost Snickers</title>
+      <categories>
+        <cat>Copycat</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Low fat ice cream; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Low fat Cool Whip</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Crunchy peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Sugar free Chocolate pudding</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Grape Nut cereal</item></ing></ingredients>
+    <directions>
+      <step>  Mix together ice cream, Cool Whip, peanut butter and pudding. Fold in Grape
+  Nuts. Spread in 8x8 inch pan and freeze.
+  
+  Recipe By     : Mary Ann Housman (WW leader)
+  
+  Posted to EAT-L Digest 25 Sep 96
+  
+  Date:    Thu, 26 Sep 1996 18:20:24 -0400
+  
+  From:    Eileen &amp; Bob Holze &lt;beck4@ASAN.COM&gt;
+ 
+</step></directions></recipe></recipeml>

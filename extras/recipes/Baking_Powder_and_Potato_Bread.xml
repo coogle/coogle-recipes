@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baking Powder and Potato Bread</title>
+      <categories>
+        <cat>New zealand</cat>
+        <cat>Breads</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Cold boiled potato</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Milk to mix</item></ing></ingredients>
+    <directions>
+      <step>  Sift together flour, sugar, salt and baking powder. Rub in potato. Add
+  sufficient milk to make a soft smooth dough. (approx 1 pint) Mix quickly
+  and put into a greased loaf tin. (3/4 full). Smooth top with a knife dipped
+  in melted butter and bake immediately for 3/4 - 1 hour at 400 degrees. When
+  cooked take from tin and wrap in a bread cloth ( dish towel will do fine),
+  until cold.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

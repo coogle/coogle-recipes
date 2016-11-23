@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Beans</title>
+      <categories>
+        <cat>Diabetic</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>(16 oz.) French style beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dehydrated onion flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Tomato juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Artificial sweetener to equal 12 tsp. sugar</item></ing></ingredients>
+    <directions>
+      <step>  Drain beans and empty into bowl. Add remaining ingredients. Mix lightly and
+  turn into baking dish. Bake at 350 degrees for 45 minutes.
+  
+  Posted to MM-Recipes Digest V4 #187 by Julie Bertholf
+  &lt;jewel1@ix.netcom.com&gt; on Jul 19, 1997
+ 
+</step></directions></recipe></recipeml>

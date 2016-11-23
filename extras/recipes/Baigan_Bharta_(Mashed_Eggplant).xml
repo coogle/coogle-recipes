@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baigan Bharta (Mashed Eggplant)</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Indian</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Eggplants</item></ing></ingredients>
+    <directions>
+      <step>  Cooking the eggplant: Poke the eggplants (say 2, medium sized ones) with a
+  knife, and insert slivers of garlic in the slits. The eggplant can be
+  roasted either in a conv. oven, a microwave, or ideally, on a slow charcoal
+  grill.  When they are done (they become kinda' limp), peel, and mash up the
+  insides. Use a knife to cut up the long fibres. Seasoning: In a wok, heat
+  some oil, and add chopped onions, and chopped ginger. Fry till the onions
+  are semi-browned, and then add the mashed eggplant. Add salt, and pepper to
+  taste. Season with lots of chopped cilantro (coriander leaves). Since the
+  eggplant is already cooked, you need not cook for long in the wok... just
+  long enough to mix things up good. A tomato or two chopped fine, and added
+  with the eggplant also tastes good. Alternative sesoning: Chop onions,
+  ginger, tomatoes, and cilantro, and mix *cold* with the mashed eggplant,
+  and a few table spoons of mustard oil. The mustard oil gives a nice tangy
+  taste. Look for mustard oil in your nearest Indian grocery store. (Salt and
+  pepper too.)
+ 
+</step></directions></recipe></recipeml>

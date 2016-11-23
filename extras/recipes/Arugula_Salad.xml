@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arugula Salad</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Salads</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Mixed lettuce leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Arugula; stems removed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushrooms; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Sweet red pepper</item></ing></ingredients>
+    <directions>
+      <step>  In a wooden salad bowl, rub garlic and salt into the bowl to season it.
+  Combine vinegar, mustard and olive oil; stir. Tear lettuce into bite sized
+  pieces, along with arugula. Add mushrooms and slices of red pepper. Toss
+  well and serve.
+  
+  Ogden writes: "Italian restaurants often serve arugula on its own with a
+  strong garlic flavored oil and vinegar dressing. Mixed with milder greens
+  and a good dressing, arugula is less dominating."
+  
+  Recipe developed by Ellen Ogden.  In "The Cook's Garden" catalog,
+  Spring/Summer 1994, Vol. XI, No. 1. Pg. 41. Typed for you by Cathy Harned.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

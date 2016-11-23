@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ann's Ruby Chicken</title>
+      <categories>
+        <cat>Crockpot</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; medium, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Pumpkin pie spice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Orange juice; frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Orange rind; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Cranberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Brown chicken pieces and onion in oil and salt. Add remaining ingredients
+  and cook 30 minutes. Serve with hot cooked rice. Crockpot: Add browned
+  chicken and onions and other ingredients to crockpot. Cook till done. This
+  was one of Ann Sharpe's favorite recipes. Ann was Sylvia Steiger's mother.
+  
+  &gt;From the recipe files of Carole Walberg
+  Posted to MC-Recipe Digest V1 #1030 by "M. Hicks" &lt;nitro_ii@email.msn.com&gt;
+  on Jan 22, 1998
+ 
+</step></directions></recipe></recipeml>

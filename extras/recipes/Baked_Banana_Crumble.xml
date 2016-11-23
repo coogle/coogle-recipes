@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Banana Crumble</title>
+      <categories>
+        <cat>Dessert</cat>
+        <cat>Fruits</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Ripe bananas, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Quick-cooking oatmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cold butter, cut into 6 pieces</item></ing></ingredients>
+    <directions>
+      <step>  Combine orange juice and vanilla; set aside. Slice bananas lengthwise and
+  place cut side up in four buttered baking dishes. Combine flour, oatmeal,
+  brown sugar, nutmeg and salt. Add butter. Using a pastry blender or two
+  knives, blend until mixture resembles small peas. Drizzle bananas with
+  orange juice mixture. Spoon crumble mixture over fruit. Bake at 375F for
+  15-20 minutes. Serve warm with vanilla ice cream or whipped cream.
+  
+  Recipe by: Williams-Sonoma catalogue Posted to EAT-L Digest by Nancy
+  Pallotta &lt;nancee@NEO.LRUN.COM&gt; on Jul 7, 1997
+ 
+</step></directions></recipe></recipeml>

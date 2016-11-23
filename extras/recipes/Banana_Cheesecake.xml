@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cheesecake</title>
+      <categories>
+        <cat>Cheesecake</cat>
+        <cat>Biosphere 2</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>10" pie crust, pre-baked for 10 minutes</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Plain yogurt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Pureed bananas (4 medium bananas)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs (opt)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Honey (opt)</item></ing></ingredients>
+    <directions>
+      <step>  Blend all the ingredients in the blender until smooth and creamy. Pour
+  into the pre-baked pie crust and bake for 30 minutes or until set.
+  Allow to cool before serving. You can top with a layer of yogurt and
+  decorate with any fresh fruit (try a mixture of strawberry and banana
+  slices). Serve well chilled. Without the eggs and honey, each serving
+  will contain: 410 calories, 49 milligrams cholesterol, 18 grams fat,
+       11    grams protein.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

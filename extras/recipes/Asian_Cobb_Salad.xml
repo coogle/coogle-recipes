@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Cobb Salad</title>
+      <categories>
+        <cat>Deborah</cat>
+        <cat>Madison</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Spinach leaves cut in; narrow strips</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Nappa cabbage cut in; narrow strips</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced red cabbage; as thin as possible</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>large</unit></amt>
+        <item>Cucumber peeled; seeded and cut into small, even dice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slender scallions thinly sliced; on the diagonal</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Black radish or turnip; in fine matchsticks</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Block silken firm tofu; in small cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Black sesame seeds</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Peanut Dressing; recipe follows</item></ing></ingredients>
+    <directions>
+      <step>  Arrange all the vegetables and the tofu lightly in separate heaps in a
+  wide, shallow bowl. You might divide the greens into 2 piles each and place
+  like-kinds opposite each other, with smaller piles of cucumbers, radish,
+  tofu, and scallions in the middle. Heat the sesame seeds in a dry pan until
+  they begin to smell toasted, then let them cool. Just before serving,
+  sprinkle the seeds over the salad; then toss with the dressing.
+  
+  Yield: 2 to 4 servings
+  
+  Formatted by suechef@sover.net
+  
+  NOTES : All recipes courtesy of Deborah Madison,  "Vegetarian Cooking for
+  Everyone"
+  Recipe by: COOKING LIVE #CL9111
+  
+  Posted to MC-Recipe Digest by Nancy Berry &lt;nlberry@prodigy.net&gt; on May 15,
+  1998
+ 
+</step></directions></recipe></recipeml>

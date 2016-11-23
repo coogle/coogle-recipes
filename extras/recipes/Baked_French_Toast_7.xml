@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked French Toast</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Breakfast</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Slices white bread</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Evaporated skim milk (one 12-ounce can)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Whole eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Dark brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing></ingredients>
+    <directions>
+      <step>     Lightly coat 9- by 13- by 2-inch pan with a non-stick vegetable spray.
+  Arrange bread slices in the bottom of the pan.
+     Combine all remaining ingredients and mix well using a whisk or egg
+  beater.  Pour mixture evenly over bread. Cover tightly and refrigerate
+  several hours or overnight.
+     To bake, preheat oven to 350 degrees.  Remove bread from refrigerator
+  and spray lightly with non-stick vegetable spray. Bake in preheated oven
+  for 30-35 minutes or until lightly browned.
+     Serve with hot maple syrup, powdered sugar and cinnamon.
+     Yield: 10 servings.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

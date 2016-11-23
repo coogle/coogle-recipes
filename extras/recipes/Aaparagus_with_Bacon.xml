@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aaparagus with Bacon</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Vegetables</cat>
+        <cat>Side dish</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Asparagus;* cut diagonally into 1" pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>(2 pkg) frozen apaparagus;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh parsley; snipped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon; fried and chopped</item></ing></ingredients>
+    <directions>
+      <step>  * 2 PACKAGES (10 oz) frozen cut asparagus can be substitued for the fresh
+  asparagus.  Cook as directed on package; drain.
+  
+  Place steamer basket in 1/2" water in saucepan or skillet (water should not
+  touch the bottom of basket).  Place lower stalk pieces in basket. Cover
+  tightly and heat to boiling; reduce heat.  Steam 4 minutes. Add tips. Cover
+  tightly and steam until crisp-tender, 4 to 5 minutes longer. Toss asparagus
+  with parsley, lemon juice and salt. Sprinkle with bacon.
+  
+  MICROWAVE DIRECTIONS:  Place asparagus, 1/2 cup water and 1/4 teaspoon salt
+  in 1 1/2-quart microwable casserole.  Cover tightly and microwave on
+  high(100% depending how powerful the microwave is) 3 minutes, less if very
+  powerful( my microwave is an older one..in fact 20 years); stir. Cover and
+  microwave until crisp-tender, 2 to 3 minutes longer. Let stand 1 munites;
+  drain.  Continue as directed. Serving size 3/4 cup. Food Exchanges per
+  serving: 1 VEGETABLE EXCHANGES + MAYBE 1/2 HIGH-FAT MEAT EXCHANGE; CAL: 75;
+  (Bacon listed as Saturated Fat, but we wouldn't use it anyhow would we).
+  
+  Source: Betty's Crocker's New American Cooking by WHOM(1983) Brought to you
+  and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

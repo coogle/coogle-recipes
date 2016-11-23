@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Annabel's Rice Pudding</title>
+      <categories>
+        <cat>Low fat</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Pudding rice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Skimmed milk - that's an</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Imperial pint; 2 1/2 US</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cups</item></ing></ingredients>
+    <directions>
+      <step>  Bring the milk to the boil, then pour over the rice and sugar. Then EITHER
+  bake in a very low oven for about 2 hours, or, which I prefer, stir on a
+  low heat on the top of the stove until the rice is cooked. This will not
+  thicken all that much until it is cold, but when cold it is deliciously
+  creamy.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

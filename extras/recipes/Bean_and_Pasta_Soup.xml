@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Pasta Soup</title>
+      <categories>
+        <cat>Soups/stews</cat>
+        <cat>Pasta</cat>
+        <cat>Vegetables</cat>
+        <cat>Cheese/eggs</cat>
+        <cat>Beans</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Low-Sodium Instant Vegetable Broth And Seasoning Mix</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dissolved IN</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Hot Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Low-Sodium Canned Stewed Tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Uncooked Small Shell Macaroni</item></ing>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit>ounces</unit></amt>
+        <item>Rinsed, Drained, Canned Red Kidney Beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Thawed Frozen Spinach, Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano Leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Basil Leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Grated Parmesan Cheese</item></ing></ingredients>
+    <directions>
+      <step>  Yield: 4 Servings Of 3/4 Cup Each
+  
+  In a 2 1/2-quart saucepan, combine the dissolved broth mix and tomatoes;
+  cook over medium heat until the mixture comes to a boil. Add the macaroni
+  and cook for 7 minutes. Add the beans, spinach, oregano and basil and stir
+  to combine; cook until the macaroni is tender, 5 to 7 minutes. (If the soup
+  is too thick, add a small amount of water.)
+  
+  Divide the soup into 4 soup bowls and sprinkle each portion with 1/4 of the
+  Parmesan Cheese.
+  
+  Each serving provides: 2 Proteins; 1 Vegetable, 1 1/2 Breads, 5 Optional
+  Calories
+  
+  Per Serving: 350 Milligrams Sodium; 5 Milligrams Cholesterol
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

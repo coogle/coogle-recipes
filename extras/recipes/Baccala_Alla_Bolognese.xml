@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baccala Alla Bolognese</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Fish</cat>
+        <cat>Italian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Dried codfish</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Flour; for dredging</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh parsley; minced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon; juiced</item></ing></ingredients>
+    <directions>
+      <step>  Put the cod in a deep dish, add cold water to cover, and let it soak for 2
+  days in the refrigerator in order for it to "plump" up and change the water
+  several times. Rinse and dry the fish and cut it into 2-inch chunks. Dredge
+  the fish in the flour, shaking off the excess. In a large skillet, heat 2
+  Tbl of the butter and the olive oil. Add the fish pieces and brown them
+  well on all sides over medium-high heat. Sprinkle the fish with the minced
+  garlic and parsley and stir the mixture gently. Cut the remaining 2 Tbl
+  butter into bits and add it to the pan. Sprinkle the fish with salt and
+  pepper and pour over the lemon juice. Serve immediately.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

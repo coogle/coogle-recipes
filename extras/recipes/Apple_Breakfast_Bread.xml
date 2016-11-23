@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Breakfast Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Apples</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; well beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted butter or butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar substitute</item></ing></ingredients>
+    <directions>
+      <step>  Sift flour, measure, and sift with baking powder, salt, and sugar. Cut in
+  shortening and add raisins. Add sufficient milk to which egg has been added
+  to make a stiff dough. Mix thoroughly. Pour into well-oiled shallow pan.
+  Brush dough with melted butter. Pare, quarter, and core apples and cut in
+  thin slices. Arrange in rows in the dough, allowing edges to overlap. Brush
+  apples with more melted butter and sprinkle with cinnamon and brown sugar
+  which have been mixed together. Bake in moderate oven (400 F) 20 minutes or
+  until apples are tender.  9 servings. 1941 Pat Empson 05/24 11:11 am FOOD
+  AND WINE BB TOPIC: FOOD SOFTWARE TIME: 05/24 11:25 AM TO:
+     PAT EMPSON   (PFXX29A) FROM: PAT EMPSON (PFXX29A) SUBJECT: MM-MORE
+  APPLES
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Batter Bread</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>packages</unit></amt>
+          <item>Yeast; active dry</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Water; warm (110-115 degs)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Nonfat dry Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Garlic cloves; finely chop- ped... (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sesame seeds (or 4 tblspns)</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour; All-purpose</item></ing></ing-div>
+      <ing-div>
+        <title>EGG WASH</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg white lightly beaten in: 1 tbspn water</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  See recipe: Basic White Bread by James Beard, for instructions on kneading.
+  That is a "real" load of bread!
+  :-) * Instructions * Proof the yeast in the water in a large mixing bowl or
+  the bowl of an electric mixer. Add the dry milk, sugar, butter, salt,
+  optional garlic, and 2 cups flour. Beat the batter by hand or with an
+  electric mixer at medium speed for 2 minutes. Stir in the remaining flour
+  by hand and stir the mixture well to make a soft dough. Cover it with a
+  damp towel and let it rise in a warm, draft-free place for about 40 minutes
+  or until it is double in bulk. Preheat the oven to 375dF. Uncover the risen
+  dough and stir it vigorously for 1 minute. Butter a 1-1/2 quart
+  straight-sided casserole or souffle' dish and put in the batter. Brush the
+  top with the egg wash and sprinkle with sesame seeds. Bake the bread in the
+  center of the oven for about 1 hour, or until it is delicately browned and
+  sounds hollow when rapped with the knuckles. Remove from the casserole dish
+  and serve warm, cut into wedges.
+ 
+</step></directions></recipe></recipeml>

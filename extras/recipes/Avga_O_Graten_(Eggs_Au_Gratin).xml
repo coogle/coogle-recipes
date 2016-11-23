@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avga O Graten (Eggs Au Gratin)</title>
+      <categories>
+        <cat>Cheese/eggs</cat>
+        <cat>Greek</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Hard cooked eggs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Recipe of Bechamel sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Kefalotiri cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Bread crumbs, toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, melted</item></ing></ingredients>
+    <directions>
+      <step>     Cut ea. egg into 8 pcs.  Lightly salt &amp; pepper them. Prepare the
+  bechamel.  Mix together half of the sauce, the eggs, and 3/4 c. of the
+  cheese.  Butter a small pan. Spread a thin layer of bechamel over the
+  bottom and sprinkle this with a little cheese.  Add the egg mixture and
+  spread evenly.  Add remaining sauce and spread this carefully ofver the
+  eggs. Sprinkle with remaining cheese and then the bread crumbs. Drizzle
+  melted butter over the top.  Bake in preheated 350 F. oven for 15 to 20
+  min., or until golden brown. Let stand 10 min. before serving.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

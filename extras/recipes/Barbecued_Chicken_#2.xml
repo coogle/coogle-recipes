@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Chicken #2</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Skinless; boneless chicken breast halves (4 ounces each)</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Reduced-sodium ketchup</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cider vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Ready-made white horseradish</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Firmly packed dark brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Black pepper</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Preheat broiler, heat a charcoal grill until coals form white ash, or
+  preheat a gas grill to medium.
+  
+  2. To prepare sauce, in a small saucepan, combine ketchup, vinegar,
+  horseradish, brown sugar, garlic, and thyme. Mix well. Bring to a boil over
+  medium-low heat. Cook, stirring frequently, until thickened, about 5
+  minutes. Remove from heat; stir in pepper.
+  
+  3. Brush tops of chicken pieces lightly with sauce. Place chicken,
+  sauce-side down, on a foil-lined broiler pan or grill rack. Brush other
+  sides lightly with sauce.
+  
+  4. Broil or grill 3 inches from heat, basting with remaining sauce and
+  turning until no longer pink in center, about 5 to 7 minutes per side. Let
+  chicken stand for 5 minutes before serving.
+  
+  FROM "HEALTHY MEALS IN MINUTES"
+  
+  From a collection of my mother's (Judy Hosey) recipe box which contained
+  lots of her favorite recipes, clippings, etc.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Apple Casserole</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>(250ml) Great Northern or butter beans, soaked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Firm eating apples, peeled, cored and quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  From: Margaret Baechler, a/k/a mbaechle@lehman.com
+  
+  Cook the beans in unsalted water until tender, about 1 to 1 1/2 hours.
+  Drain, reserving the liquid. Preheat the oven to 350F (180C). Stir the
+  apples, sugar, cinnamon, vinegar, and salt into the beans. Transfer to an
+  ovenproof dish and just cover with some of the reserved liquid. Cover with
+  a lid or foil and bake for 35-40 minutes.
+  
+  Posted by Michelle Dick, FATFREE listowner, while list was down.
+  
+  From:    KimAllen@aol.com
+  
+  Date:    Thu, 10 Oct 96 04:32:43 PDT
+ 
+</step></directions></recipe></recipeml>

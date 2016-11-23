@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Bagels</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Oz. boiling milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Caster sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Fresh yeast or 2 tsp dries</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg, separated</item></ing>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit>ounces</unit></amt>
+        <item>Strong plain flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cold milk</item></ing></ingredients>
+    <directions>
+      <step>  Pour the boiling milk into a mixing bowl, stir in the butter and the
+  sugar and leave mixture until lukewarm. Sprinkle over the crumbled
+  yeast en let stand for 5 minutes (if using fresh yeast) or 15 minutes
+  (if using dried yeast). Stir in the salt en egg white, then gradually
+  beat in the flour to make a soft dough. Knead the dough on a lightly
+  floured surface for about 5 minutes, until smooth and elastic. Retorn
+  the dougn to mixing bowl, cover with cling wrap and leave to rise in
+  a warm place for about 1 hour. When doubled in size, knock out the
+  air and divide the dough in 16 even-sized pieces. oll each piece into
+  a sausage shape, then form a ring; pinch the join firmly together.
+  Place bagels on greased baking sheets, leaving enough space between
+  them to let them rise and swell without touching each other. Cover
+  loosely with a towel and leave them to rise for 10-15 minutes. Bring
+  water to the boil in a large saucepan, reduce the heat until waters
+  simmers, then gently drop in the bagels - only a few at a time to
+  prevent them from touching and sticking together. Simmer each bagel
+  for 10-15 seconds or until puffy and beginning to swell. Lift the
+  bagels out of the water with a slooted spoon and return them to the
+  baking sheets. Mix the egg yolks with the cold milk and brush the
+  bagels with this mixture. Bake bagels for about 20 minutes in
+  preheated (200 Centigrade/400 Fahrenheit) until golden and hollow
+  sounding when tapped. Leave them to cool on a wire rack.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

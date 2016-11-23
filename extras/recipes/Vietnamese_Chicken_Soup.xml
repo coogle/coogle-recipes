@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Vietnamese Chicken Soup</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Carrots, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Celery stalk, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken breast (about 1), coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>packages</unit></amt>
+        <item>(500g) twisted vermicelli</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Green onions, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Snow peas, cut, in bite size pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  In saucepan, bring broth to a boil. Add carrots, celery, chicken, garlic
+  and vermicelli. Simmer for 10 minutes, stirring occasionally. Add green
+  onions, snow peas and ginger. Simmer for 2 minutes. Add soy sauce. Season
+  to taste with salt and pepper. I usually double this recipe and use 2-4
+  garlic cloves and more ginger and soy sauce.
+  Posted to MC-Recipe Digest V1 #467 by sewin &lt;hammer@imag.net&gt; on Feb 02,
+  1997.
+ 
+</step></directions></recipe></recipeml>

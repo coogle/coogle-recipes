@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Stuffed Radicchio</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Heads radicchio</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Goat cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pistachio nuts,; lightly toasted and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced shallots</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped chervil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees. Halve radicchio heads down the middle. Cut out
+  hard core and remove several layers of inner leaves to hollow out a small
+  hole for stuffing. Chop up radicchio leaves and combine with goat cheese,
+  pistachios, shallots, chervil and olive oil; season to taste with salt and
+  black pepper. Fill radicchio halves with stuffing. Bake until hot and
+  golden, about 30 minutes.
+  
+  Yield: 4 servings
+  Recipe By     :ESSENCE OF EMERIL SHOW #EE104
+  
+  Posted to MC-Recipe Digest V1 #290
+  
+  Date: Sun, 10 Nov 1996 00:24:21 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

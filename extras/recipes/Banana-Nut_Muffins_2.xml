@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Nut Muffins</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Muffins</cat>
+        <cat>Breads</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Unbleached Flour, Sifted</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Large Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Mashed Ripe bananas (3 Med.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped Walnuts</item></ing></ingredients>
+    <directions>
+      <step>  Sift together flour, baking powder and salt; set aside. Cream together
+  shrtening and sugar in bowl until light and fluffy, using electric mixer at
+  medium speed.  Beat in eggs, one at a time, blending well after each
+  addition.  Stir in mashed bananas. Add dry ingredients all at once,
+  stirring just enough to moisten.  Gently mix in chopped nuts. Spoon batter
+  into greased 3-inch muffin-pan cups, filling 2/3rds full. Bake in 350
+  degree F. oven 20 minutes or until golden brown. Serve hot with homemade
+  jam or jelly.
+  
+  Posted to MM-Recipes Digest V4 #141 by "John Weber" &lt;hdbrer@ibm.net&gt; on May
+  20, 97
+ 
+</step></directions></recipe></recipeml>

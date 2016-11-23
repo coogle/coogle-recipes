@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Tea Loaf</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Breads/bm</cat></categories>
+      <yield>18</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas; ripe, mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Canola oil like Crisco;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Eggs;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Frozen orange/pineapp. conc.</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking soda;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Orange peel;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cooking spray;</item></ing></ingredients>
+    <directions>
+      <step>  Adapted from The Joslin Diabetes Gourmet Cookbook, 1993 which used 1
+  large egg white plus 6 tbsp. egg substitute, 1/8 tsp almond extract,
+  orange juice concentrate, 2 cups unbleached flour and no orange peel.
+  
+  Original nutritional info. 1/18 recipe = 1 bread, 1 fat Joslin
+  Exchanges 122 calories, 2 grams protein, 14 grams carbohydrate, 6
+  grams fat (44% of calories), trace cholesterol, 61 mg sodium, 105 mg
+  potassium.
+  
+  Preheat oven to 350 F.  Line a 9 by 5 inch loaf pan with waxed paper
+  and spray with cooking spray.
+  
+  In a large bowl, combine bananas, oil, beaten egg, juice concentrate
+  and orange peel.  Stir dry ingredients together and then stir them
+  into banana mixture until just blended.
+  
+  Spread the batter in the pan and bake for 45 minutes or until the top
+  is lightly browned.  Cool in a pan for 5 minutes, then transfer to a
+  wire rack.  Slice the first sample while the loaf is still warm.
+  Comment in the original recipe states that the well-wrapped loaf
+  keeps in the refrigerator and freezes well.  Slice is smaller than a
+  slice of regular bread (about half size).
+  
+  Tested with changes noted by Elizabeth Rodier, Jan 1994.  To cut down
+  on cholesterol use 1 whole egg and 2 whites, or home made egg
+  substitute.
+  
+  When comparing bread recipes, consider serving size as well as
+  calories. Does the serving taste good alone or would I add 1 tsp
+  margarine (1 fat)?
+  
+  1 tb peanut butter would add 1 fat exchange + 1 meat or 95 calories, 3
+  grams carb. 4 grams protein, 8.2 grams fat, 98 mg sodium
+  
+  1 tb regular strawberry jam made of equal parts fruit and sugar would
+  add 54 calories, 14 grams carbohydrate or 1 fruit exchange
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

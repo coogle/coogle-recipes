@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie (No Sugar)</title>
+      <categories>
+        <cat>Pies/pastry</cat>
+        <cat>Diabetic</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Frozen apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Concentrate, undiluted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tapioca or cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>To 1 tsp. cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Mix apples and all ingredients until well coated; pour into pastry shell
+  and top with pastry.  Bake at 425 degrees for 40 to 45 minutes.
+  
+  Recipe By     :
+    Posted to MM-Recipes Digest V3 #260
+  
+    Date: Sun, 22 Sep 1996 22:08:56 -0400
+  
+    From: BobbieB1@aol.com
+ 
+</step></directions></recipe></recipeml>

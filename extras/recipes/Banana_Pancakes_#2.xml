@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pancakes #2</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sifted flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Mashed banana (see note)</item></ing></ingredients>
+    <directions>
+      <step>   Alex requested a Banana Pancakes recipe. We have these all the time. Any
+  basic pancake recipe will do with "some mashed banana" added. I ususally
+  use Bisquick because we like it. For 2 cups of Bisquick I use 1 small
+  banana. But here is a basic (scratch) recipe:
+  
+   Combine flour, baking powder, sugar and salt. Set aside. Combine egg, milk
+  and oil. Add to dry ingredients. Add mashed banana.
+  
+   NOTE: The quantitly of banana can vary greatly. (A fork works nicely but I
+  use a manual baby food grinder for more even consistency.) When using very
+  ripe bananas, less banana can be used. Experiment with quantity to see what
+  you like !
+  
+  WEILER@NETAXS.COM
+  
+  (WARREN WEILER)
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

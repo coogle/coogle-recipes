@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Potato Cake (Bakestone Recipes)</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Cakes</cat>
+        <cat>Breakfast</cat>
+        <cat>Fruits</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Floury potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Self-raising flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Apples, peeled,cored,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Softened butter</item></ing></ingredients>
+    <directions>
+      <step>  The potatoes must be hot and floury, but either eating apples or cooking
+  apples can be used. (Best results with a cooking apple, though.) -- Boil
+  the peeled potatoes in well-salted water. Drain and cover with a cloth to
+  "dry in their steam". Sieve or rice into a warmed mixing bowl, and beat in
+  the fat. Work in sufficient flour to make the dough manageable, adding salt
+  to taste. Divide the dough in half and roll or pat into 2 rounds of equal
+  size just over 1/2 inch thick. Place one round on the warmed bakestone and
+  spread with the chopped apple. Cover with the other round of dough and
+  pinch the edges together. -- Bake on the bakestone over a moderate heat
+  until brown underneath. Turn using the broadest spatula you have, or two
+  spatulas and a friend.  Cook the other side. Remove the cake to a hot
+  serving dish.  Carefully peel up one side of the top of the cake, spread
+  the apples with the softened butter, and sprinkle them with sugar. Fold
+  that half down and do the same to the other side. Sprinkle sugar on top,
+  and serve immediately, with thick cool cream.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

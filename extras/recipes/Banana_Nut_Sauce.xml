@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Nut Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Fruits</cat></categories>
+      <yield>2 1/2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Packed brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pineapple juice or orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped pecans or raisins</item></ing></ingredients>
+    <directions>
+      <step>  In skillet, melt butter over medium heat; stir in sugar and pineapple
+  juice.  Bring to boil; cook, stirring, for 1 to 2 minutes or until clear
+  and slightly thickened.
+  
+  Meanwhile, slice bananas; add to skillet along with cinnamon. Cook for 1
+  minute or until bananas are heated through. Stir in pecans. Serve warm.
+  Makes 2 1/2 cups Note: Great over waffles and pancakes and also tasty over
+  ice cream or frozen yogurt.   Typed in MMFormat by cjhartlin@msn.com
+  Source: Canadian Living Best Easy Cooking
+  Posted to MM-Recipes Digest  by "Cindy Hartlin" &lt;cjhartlin@email.msn.com&gt;
+  on May 25, 1998
+ 
+</step></directions></recipe></recipeml>

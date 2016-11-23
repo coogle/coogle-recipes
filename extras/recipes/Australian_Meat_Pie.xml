@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Australian Meat Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>FILLING</item></ing>
+      <ing>
+        <amt>
+          <qty>750</qty>
+          <unit>grams</unit></amt>
+        <item>Minced steak (ground beef)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Beef stock cubes</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Plain flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit/></amt>
+        <item>Water extra</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pie Base</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Plain flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>60</qty>
+          <unit>grams</unit></amt>
+        <item>Beef dripping</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pie top</item></ing>
+      <ing>
+        <amt>
+          <qty>375</qty>
+          <unit>grams</unit></amt>
+        <item>Purchased puff pastry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg yolk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Filling: Place meat into pan and stir over low heat until well
+  browned. Pour off fat. Add crumbled stock cubes, water, salt, pepper
+  and nutmeg. Stir until boiling, reduce heat, cover and simmer 20
+  minutes. Remove from heat. Combine flour and extra water, add to meat
+  and stir until combined. Return to heat and stir until meat boils and
+  thickens. Add soy sauce (for colour) and simmer for 5 - 10 minutes.
+  Allow to cool.
+  
+  Pie Base: Sift flour and salt. Place water and dripping into
+  saucepan, stir until dripping melts. Remove from heat. Make a well in
+  centre of flour and add liquid. Stir until combined. Turn out onto a
+  lightly floured surface. Roll out pastry to line 8 greased pie tins.
+  Cut excess pastry from edges. (Hold pie tins upside down and trim
+  upside down). Fill centre with cold meat filling.
+  
+  Pie Top: Roll out puff pastry and cut rounds for top of pies. Wet
+  edges of base pastry and gently press tops in place. Trim around
+  edges with sharp knife. Pierce centre with a sharp knife. Brush tops
+  with combined egg yolk and water. Bake in hot oven for 5 minutes or
+  until golden brown. Reduce heat to moderate and cook for a further 10
+  minutes.
+  
+  Note: If you buy pie tins especially - never wash them, wipe them out
+  with paper towel.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

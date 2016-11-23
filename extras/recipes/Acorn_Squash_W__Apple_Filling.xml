@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acorn Squash W/ Apple Filling</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>x</unit></amt>
+          <item>Acorn Squash</item></ing></ing-div>
+      <ing-div>
+        <title>COMBINE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>x</unit></amt>
+          <item>Apples, chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped Walnuts</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Grated Orange Peel</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Margarine, melted</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 deg F. Cut squash in half lengthwise and scrape out
+  seeds. Place cut side down in baking dish and bake for 25 minutes. Mix the
+  other ingredients. Turn squash cut side up, fill with apple mix and
+  continue baking for 20 minutes, or until squash is tender.
+  Posted to recipelu-digest by jeryder@juno.com (Judy E Ryder) on Feb 04,
+  1998
+ 
+</step></directions></recipe></recipeml>

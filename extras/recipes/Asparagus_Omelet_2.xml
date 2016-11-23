@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Omelet</title>
+      <categories>
+        <cat>Egg</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Frozen asparagus spears</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Sharp cheddar cheese, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Soft bread crumbs (3 slices bread)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked ham or chicken, cubed</item></ing></ingredients>
+    <directions>
+      <step>  Cut asparagus spears in small pieces and cook until tender-crisp. Combine
+  remaining ingredients, mix with asparagus and pour into greased 2 quart
+  baking dish. Bake 1 1/4 hrs. in moderate oven (300ø to 325ø) or until firm.
+  Source: Mountain Measures---Junior League of Charleston, WV. ed. 1974 By
+  Bill Spalding &lt;billspa@icanect.net&gt; on May 13, 1997
+  
+  Recipe by: Mrs. Frederick H.  Belden, Jr. Posted to MM-Recipes Digest V4
+  #157 by Walt Gray &lt;waltgray@mnsinc.com&gt; on Jun 05, 1997
+ 
+</step></directions></recipe></recipeml>

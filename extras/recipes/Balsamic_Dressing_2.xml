@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Dressing</title>
+      <categories>
+        <cat>Dressings</cat>
+        <cat>Marinades</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Shallot, finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Freshly ground pepper</item></ing></ingredients>
+    <directions>
+      <step>  Date: Wed, 22 May 1996 10:55:37 -0500
+  
+  From: pickell@cyberspc.mb.ca (S.Pickell)
+  
+  Combine all ingredients in a jar. Close tightly, and shake vigorously.
+  
+  Source: Southern Living, November, 1995
+  
+  Posted to MealMaster Recipes List, Digest #143
+ 
+</step></directions></recipe></recipeml>

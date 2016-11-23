@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Meringue - Master Chefs</title>
+      <categories>
+        <cat>Basics</cat>
+        <cat>Meringues</cat>
+        <cat>Masterchefs</cat>
+        <cat>New york</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Egg whites, at room temp.</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar, powdered, sifted, plus more as needed</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds, ground, blanched</item></ing></ingredients>
+    <directions>
+      <step>       Preheat the oven to 325 F. Cut out three 10-inch parchment paper
+  circles and one 10-inch cardboard circle.  Set the parchment circles on
+  baking sheets.
+  
+       Beat egg whites to soft peaks and gradually add 2 1/2 tablespoons
+  of sugar and continue beating until stiff.  Combine 2 1/2 cups of
+  powdered sugar and ground almonds; fold into egg whites.
+  
+       This mixture can now be used to form layers, or designs or
+  whatever your choose.  Simply spoon mixture into a pastry bag fitted
+  with the tip of your choice, and pipe your designs onto parchment paper
+  covered baking sheets.
+  
+       Dust lightly with powdered sugar (optional.) Then bake the your
+  meringue until crisp and very lightly golden (for designs about a half
+  inch thick, it takes 25 to 30 minutes.)
+  
+       Cool on the finished baked meringue on racks.
+  
+       Source:  New York's Master Chefs, Bon Appetit Magazine
+       :  Written by Richard Sax, Photographs by Nancy McFarland
+       :  The Knapp Press, Los Angeles, 1985
+  
+       Chef:   Jean-Jacques Rachou, La Cote Basque Restaurant, New York
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-ny.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A 2-Minute Fudge</title>
+      <categories>
+        <cat>Candy</cat></categories>
+      <yield>32</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cocoa</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Nuts; chopped</item></ing></ingredients>
+    <directions>
+      <step>  From: Wendy Lockman &lt;wlockman@ra1.randomc.com&gt;
+  
+  Date: Sun, 31 Mar 1996 13:59:43 -0500
+  
+  In a 1 1/2 qt. casserole, stir sugar, cocoa, salt, milk and vanilla
+  together until partially blended (it will be too stiff to blend
+  thoroughly). Put butter over top in center of dish. Microwave at high for 2
+  minutes, or until smooth. If all butter has not melted in cooking, it will
+  as mixture is stirred. Blend in nuts. Pour into lightly-buttered 8x4x3"
+  dish. Chill 1 hour in refrigerator or 20 to 30 minutes in freezer. Cut into
+  squares. Makes about 36 squares.
+  
+  MC-RECIPE@MASTERCOOK.COM
+  
+  MASTERCOOK RECIPES LIST SERVER
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

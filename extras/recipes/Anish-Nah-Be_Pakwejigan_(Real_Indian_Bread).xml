@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anish-Nah-Be Pakwejigan (Real Indian Bread)</title>
+      <categories>
+        <cat>Bakery</cat>
+        <cat>Native</cat>
+        <cat>Ojibway</cat>
+        <cat>Breads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Recipe soft bread</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sunflower oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Blueberries -=OR=- raisins</item></ing></ingredients>
+    <directions>
+      <step>  Let the soft bread dough cool to room temperature.
+  Mix in the blueberries &amp; put the dough into a bowl.
+  Chill until it thickens. When the dough is firm, cut
+  it into 1/2" slices &amp; fry until it is a golden colour.
+  Serve hot with maple syrup.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Another Gyros</title>
+      <categories>
+        <cat>Lamb</cat>
+        <cat>Greek</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean ground lamb</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Homemade bread, toasted and crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Allspice, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Coriander seed, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic, pressed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Fresh savory, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground pepper, to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bacon slices (optional)</item></ing></ingredients>
+    <directions>
+      <step>  In large bowl, combined all ingredients.  Mix well, kneading until mixture
+  is stiff.  Make fingers of meat (about 5-inches longer and not over
+  2-inches in diameter). Place fingers on skewer spacing about 1-inch apart.
+  Cook over hot coals for 10 to 15 minutes, turning frequently until cooked
+  through.
+  
+  You may wrap the "fingers" on the skewer with sliced bacon. If anyone tries
+  this, let me know how it works out.
+  
+  NOTE:  I have this frequently in Greece and here in the U.S., but as I have
+  said, I view it as a "deli" item. Krinos Foods has a "gyros kit" that is
+  sold in the frozen food section of some supermarkets.
+  
+  Recipe:  C. Tenery Deriman on Prodigy -- ID:  KJNX92A
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

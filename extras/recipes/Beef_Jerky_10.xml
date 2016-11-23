@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Jerky</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Jerky</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Flank steak</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pinch pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Pinch salt</item></ing></ingredients>
+    <directions>
+      <step>  Put steak in freezer for about half an hour, just until firm.  Slice steak
+  across grain, about 1/4-inch thick.  Combine remaining ingredients and
+  marinate steak strips in this for at least 2 hours. Place slices on rack in
+  pan and dry in oven at 150 degrees, 12 hours.
+  Posted to MM-Recipes Digest  by "John Weber" &lt;hdbrer@ibm.net&gt; on Feb 12, 98
+ 
+</step></directions></recipe></recipeml>

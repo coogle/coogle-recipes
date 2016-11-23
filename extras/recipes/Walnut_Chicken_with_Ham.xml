@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Chicken with Ham</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>Oriental</cat>
+        <cat>Poultry</cat>
+        <cat>Meats</cat>
+        <cat>Wok</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken, diagonally sliced OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole breast chicken, diagonally sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soya sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Wine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion sliced or diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Frozen peas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced water chestnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Luncheon ham, sliced in 2x1" pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnut meats, toasted</item></ing></ingredients>
+    <directions>
+      <step>  1. Slice and prepare ingredients. Toast walnuts. Marinate meat in
+  wine, soya sauce, and salt about 5 minutes.
+  
+  2. Heat oil in wok to smoking point. Stir fry chicken and onions
+  together 3 minutes, add peas and water chestnuts, stir, cover wok and
+  cook ingredients 3 more minutes, lifting cover twice to stir
+  ingredients. Mix in ham and walnuts.
+  
+  NOTE: If desired, almonds or cashews could be substituted for
+  walnuts, or nuts may be omitted altogether.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cc-wok.zip
+ 
+</step></directions></recipe></recipeml>

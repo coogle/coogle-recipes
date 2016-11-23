@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Artichoke Hearts</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>E</unit></amt>
+        <item>*****</item></ing></ingredients>
+    <directions>
+      <step>  Artichoke hearts are good with a sprinkling of olive oil, dried basil to
+  taste crumbled over, salt and freshly ground pepper to taste, and a tiny
+  bit of balsamic vinegar -- all micro-waved for about 2 minutes (just to
+  marry the flavours) or heated in a regular oven for maybe 8 minutes at
+  about 325F.
+  
+  This is good for antipasto or appetizers, great with chunks of feta and
+  chopped sun-dried tomatoes.
+  
+  Recipe By     : Nicole_Okun@mindlink.bc.ca (Nicole Okun)
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

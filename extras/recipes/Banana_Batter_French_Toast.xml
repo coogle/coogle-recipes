@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Batter French Toast</title>
+      <categories>
+        <cat>Eggs</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ripe banana; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg white</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Whole grain bread</item></ing></ingredients>
+    <directions>
+      <step>  From: Joel.Ehrlich@salata.com (Joel Ehrlich)
+  
+  Date: Mon, 5 Jun 1995 06:45:25 GMT
+  
+  Beat the banana, egg, egg white, milk and vanilla together in a small bowl.
+  Warm the oil in a large non-stick skillet over medium high heat.  Dip each
+  piece of bread into the batter, turning them to coat both sides.  Fry until
+  brown on both sides.  Serve with yogurt and fresh fruit, fruit syrup, etc.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /EGGS
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

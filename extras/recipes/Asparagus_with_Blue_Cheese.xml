@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus with Blue Cheese</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Asparagus; cleaned</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chives; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Blue cheese; crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>White pepper; freshly ground</item></ing></ingredients>
+    <directions>
+      <step>  Snap ends off asparagus spears.  Fill medium skillet with 1-inch water and
+  bring to a boil.  Add asparagus in single layer and cook 8 to 10 minutes or
+  until tender. Drain well and arrange on a serving plate. Stir together
+  vinegar and oil in sm bowl.  Add blue cheese and chives and mix well. Pour
+  over hot asparagus. Season to taste with plenty of white pepper. Set aside
+  until tepid, then serve.
+  
+  Hint on cleaning asparagus:  Hold the bottom end of the stem in one hand
+  and gently bend the stalk with the other. The stalk will break where it is
+  tender, thus giving you a piece of asparagus that is entirely edible. With
+  a little practice you will know exactly where to break the vegetable. Save
+  the broken-off ends for soups. Slice and add to soup stock, then drain and
+  discard the coarse stalks before serving.
+  
+  By Jeff Smith   The Frugal Gourmet From the 10/02/1991 issue - The
+  Springfield Union-News Recipe posted by: Dan Ceppa
+  
+  Collection of recipes from "Great Sysops of the World" from COOKFDN ops.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmgsotw1.zip
+ 
+</step></directions></recipe></recipeml>

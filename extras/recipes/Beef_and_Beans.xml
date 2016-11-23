@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Beans</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Pork and beans in tomato sauce; (16 ounces each)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>+ 1 teaspoon instant minced onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Chili sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Cook and stir ground beef in 10" skillet over medium heat on grill or camp
+  stove until light brown; drain. Stir in remaining ingredients. Heat until
+  bubbly, about 10 minutes.
+  
+  Recipe by: Betty Crocker's Step-by-Step Recipes
+  
+  Posted to MC-Recipe Digest V1 #1016 by chussey@synapse.net
+  &lt;chussey@synapse.net&gt; on Januday,, ary 15, 199
+ 
+</step></directions></recipe></recipeml>

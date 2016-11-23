@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cider</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>TEXT ONLY</title></ing-div></ingredients>
+    <directions>
+      <step>  Wash and core wind-fall apples or crabapples. Grind through cider press.
+  Strain juice and boil for five minutes and seal. &gt;From Favorite recipes of
+  Colfax Country Club Women, 1946 by Mrs. Zenas Curtis, Cimarron Typed by
+  Ethel Snyder &lt;essie49@juno.com&gt; Date August 12, 1997
+  
+  Recipe by: Southwestern Cookery cookbook Posted to Bakery-Shoppe Digest V1
+  #194 by essie49@juno.com (Ethel R Snyder) on Aug 17, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aylesworth Cheese</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Longhorn cheddar; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>small</unit></amt>
+        <item>Onions; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Or less stale beer</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Worchestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Shakes hot pepper sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Black pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cayenne to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Some chopped parsley; up to 1/2 C</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients, adding beer at the last. Let chill overnight. My
+  mother used to put it in little crocks and serve it with crackers and
+  crusty french bread.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Melissa Tarleton
+  &lt;mhtarlet@unity.ncsu.edu&gt; on Dec 18, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amhari - Shero Wat (Ethiopian Dry Peas Bowl)</title>
+      <categories>
+        <cat>African</cat>
+        <cat>Vegetables</cat>
+        <cat>Ethiopian</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Kilogram dry green peas</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Head garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Gad S. Sheaffer (gss@iil.intel.com) Soak the peas in tap water
+  for 20 minutes.
+  
+  Peel the onions and cut into small cubes. Peel and mash the garlic.
+  
+  Heat the oil in a pan and saute the onion and garlic until golden.
+  
+  Add the ginger, pepper and salt and 2 cups water. Stir well, cover and
+  bring to boil.
+  
+  When the water boil, add the peas and the rest of the water and cook 40
+  minutes on a medium-low flame. Serve hot
+  
+  Gad S. Sheaffer (gss@iil.intel.com) -  Intel design center - Haifa ,Israel.
+ 
+</step></directions></recipe></recipeml>

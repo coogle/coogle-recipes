@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Black Bean-Asparagus Salad</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cooked black beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>small</unit></amt>
+        <item>Red onion -- diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Minced cilantro</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Rice wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Asian hot oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Asian sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Asparagus</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Lettuce leaves</item></ing></ingredients>
+    <directions>
+      <step>  1. Place cooked beans in a small bowl. Stir red onion, cilantro, vinegar,
+  soy sauce, hot oil, and sesame oil into beans. Marinate 20 to 30 minutes at
+  room temperature.
+  
+  2. Bring 2 quarts of water to a boil. Trim dried, tough ends from asparagus
+  stalks. Slice asparagus on the diagonal. Blanch in boiling water for 3
+  minutes. Remove from water, drain, and toss with marinated beans.
+  
+  3. To serve, place each lettuce leaf on a chilled salad plate. Divide salad
+  evenly among lettuce leaves.
+  
+  Serves 4.
+  
+  Recipe By     : the California Culinary Academy
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Liqueur</title>
+      <categories>
+        <cat>Alcohol</cat>
+        <cat>Beverages</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Smashed apricot pits</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Vodka 100 proof</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar syrup (see recipe)</item></ing></ingredients>
+    <directions>
+      <step>  Partly fill a cloth bag with the apricot pits (available at most health
+  food stores). Smash with a hammer, keeping shells and meaty centers. Place
+  smashed pits in a 1-quart container. Add cinnamon, corriander, and vodka.
+  Store for 2 months in a cool dark place. Then filter through a cheesecloth
+  lined strainer and discard fruit pits. Strain a few times until clear. Add
+  sugar syrup and age for an additional 2 weeks. Recipe may require some
+  finetuning and apricot extract can be added to offer additional flavoring.
+  Yield: 3 cups                  Containe: Wide mouth liter jar
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Fondue</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Sauces</cat>
+        <cat>From cook4u</cat>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Filet mignon or sirloin</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cut about 1-in. thick</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce leaves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Watercress</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Selection of sauces</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tomato sauce,green sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Remoulade sauce,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Scallion mayo, bernaise or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Hollandaise sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable oil for frying</item></ing></ingredients>
+    <directions>
+      <step>  1. Trim any gristle from the steak, then cut into 1-in. cubes. Arrange the
+  steak cubes on a platter or individaule plates. Garnish with lettuce leaves
+  and watercress, if desired. 2. Spoon the mustard into a very small serving
+  dish. 3. Spoon the sauces into individual serving dishes. 4. Half fill the
+  metal - not pottery - fondue pot. Heat the oil in the pot ( or in a
+  saucepan on top of the stove) until it is very hot and beginning to bubble.
+  5. Place the pot of oil on it's stand over the burner in the center of the
+  table. Each diner cooks his own cube of meat on a long-handled fork. The
+  meat is dipped into mustard or a sauce before eating.
+  
+  This dish: Fondue bourguignonne
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

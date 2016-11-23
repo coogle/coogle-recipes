@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Basil Coated Chicken</title>
+      <categories>
+        <cat>Chicken</cat>
+        <cat>On the gril</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh basil leaves, tightly packed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Cloves garlic, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Walnut pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese, grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Red wine vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Boneless skinless chicken breast halves</item></ing></ingredients>
+    <directions>
+      <step>  Place basil in food processor. With motor running, drop in garlic and
+  process until basil and garlic are finely chopped, about 15 seconds. Add
+  walnuts, cheese, vinegar and oil. Process to make a rough paste, about 20
+  seconds. Smear evenly onto chicken breasts. Grill.
+  
+  Recipe by: Bon Appetit 5/97 Posted to MC-Recipe Digest V1 #612 by
+  "terily@tenet.edu" &lt;terily@tenet.edu&gt; on May 14, 1997
+ 
+</step></directions></recipe></recipeml>

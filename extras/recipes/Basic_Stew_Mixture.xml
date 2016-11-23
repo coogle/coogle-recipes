@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Stew Mixture</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Meat</cat>
+        <cat>Stew</cat></categories>
+      <yield>18</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Round roast, trimmed, cut in 1 1/2" cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Spray Dutch oven with cooking spray. Add 1 teaspoon olive oil. Brown a
+  portion of the meat on all sides in the hot oil. Remove browned meat from
+  Dutch oven; set aside. Repeat browning till all meat is cooked, adding the
+  remaining olive oil a teaspoon at a time, as needed. Return all of the meat
+  to the Dutch oven. Add water, chopped onion, minced garlic, and salt. Bring
+  to boiling. Simmer, covered, till meat is tender, about 1 1/2-2 hours.
+  Cover and refrigerate. When cold, skim fat from surface. Pour stew mixture
+  into three 1-quart freezer containers. Seal, label, and freeze. Makes 3
+  quarts.
+  
+  NOTES : Prepare this stew mixture in quantity and freeze.  Then, use it to
+  prepare any of the recipes provided (Beef Pie, Old-Fashioned Stew, German
+  Stew or Shortcut Stew.)
+  
+  Posted to MC-Recipe Digest V1 #339
+  
+  Recipe by: Better Homes and Gardens Make Ahead Cookbook, c 1971
+  
+  From: "Sharon L. Nardo" &lt;snardo@onramp.net&gt;
+  
+  Date: Thu, 12 Dec 1996 08:22:32 -0500
+ 
+</step></directions></recipe></recipeml>

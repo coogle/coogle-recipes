@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anasazi-Tofu Enchiladas</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Ovo-lacto</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>AM Anasazi Beans (slightly pureed)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked AM Medium Brown Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Tofu (with excess water removed)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped bell pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated cheddar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated monterey jack cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Enchilada sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Corn tortillas</item></ing></ingredients>
+    <directions>
+      <step>  Mix first five ingredients together.  Add 2 tablespoons enchilada sauce.
+  Moisten tortillas in warmed enchilada sauce.  Fill tortilla with mixture
+  and roll.  Place in greased pan with the opening of the roll down.  Any
+  remaining sauce should be poured on top of the enchiladas once the pan is
+  filled.  Place cheeses on top and bake at 300 F. for 35-40 minutes.
+  
+  Source: Arrowhead Mills "The Native Americans" tri-fold
+  Reprinted by permission of Arrowhead Mills, Inc.
+  Electronic format courtesy of: Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/am.zip
+ 
+</step></directions></recipe></recipeml>

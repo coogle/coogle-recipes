@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ziti with Three Cheeses</title>
+      <categories>
+        <cat>Dairy</cat>
+        <cat>Italian</cat>
+        <cat>Main dishes</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Ziti</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Ricotta cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Mozzarella cheese --</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg -- lightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic -- minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Parmesan cheese</item></ing></ingredients>
+    <directions>
+      <step>  Cook pasta following package directions; drain. Preheat oven to 350F.
+  Grease 2-quart casserole.  In lg bowl, blend ricotta, 1 cup mozzarella,
+  egg, parsley, garlic, pepper &amp; nutmeg; stir in ziti. Spoon into prepared
+  casserole &amp; sprinkle with remaining mozzarella &amp; Parmesan. Bake until top
+  is golden, about 30 min. Makes 8 servings. (The way my family eats it does
+  not make 8 servings!!) Hope this works for you.Jamie in Fl FROM: JAMIE
+  WOOSTER (DRWN11A)
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

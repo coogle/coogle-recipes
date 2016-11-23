@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barm Brack (Traditional Irish Bread)</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mixed dry fruit--currants&gt;&gt;&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dark &amp; golden raisins.</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Boiling black tea</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mixed spice (see note*)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Marmalade</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>(heaping)superfine sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Self-rising flour</item></ing></ingredients>
+    <directions>
+      <step>     Place dried fruit in a bowl, cover with the hot tea and let soak
+  overnight.  The next day, add the remaining ingreds. and mix well. Preheat
+  oven to 375 F. Pour batten into greased 7" square pan and bake in the
+  center of oven for 1 1/2 hrs.  Let cool in the pan on awire rack. Slice and
+  serve buttered with tea.
+  
+     NOTE* (Mixed spices:  equal parts of cinnamon, clove, nutmeg, allspice,
+  and mace.
+  
+     1.  In Northern Ireland and in the Republic, BRACK is the Celtic word
+  for salt and is used to mean "bread". Barm brack is leavened bread, the
+  word BARM meaning yeast.
+  
+     2.  The term "barmbrack" for an Irish fruit loaf or cake does not derive
+  from barm or leaven.  It is a corruption of the Irish word "aran breac"
+  (Speckled Bread).
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aztec Punch</title>
+      <categories>
+        <cat>Alcohol</cat>
+        <cat>Punch</cat>
+        <cat>Beverages</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PATTI - VDRJ67A</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>quarts</unit></amt>
+          <item>Tequila</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>quarts</unit></amt>
+          <item>Grapefruit juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>quart</unit></amt>
+          <item>Dark tea</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  When making strong tea for punch, it is better to use more tea bags than to
+  let the tea steep longer. When tea steeps for a long time, it acquires a
+  tannic acidity that may conflict with the other ingredients. Mix all the
+  ingredients together. Serve over ice.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

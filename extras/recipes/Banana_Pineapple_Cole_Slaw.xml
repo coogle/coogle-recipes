@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pineapple Cole Slaw</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Syd's book</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cabbage, Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Carrots, Shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Pineapple, Tidbits Drained *</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Miracle Whip</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans, Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Banana, Sliced</item></ing></ingredients>
+    <directions>
+      <step>  * Reserve drained liquid.
+  ~-------------------------------------------------------------------------
+  In a medium bowl, layer cabbage, carrots and pineapple.  In a small bowl,
+  combine Miracle Whip, sour cream, honey and 1 T of the reserved pineapple
+  juice. Blend well.  Spoon and spread the dressing over the salad. Sprinkle
+  with pecans.  Refrigerate until serving time. Just prior to serving time
+  add sliced banana, toss and serve.  From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

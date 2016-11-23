@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Fishball Soup</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>18</qty>
+          <unit/></amt>
+        <item>Fishballs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Scallion</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>     1. Prepare fishballs according to recipe "BASIC FISHBALLS". Mince
+  scallion.
+  
+     2. Bring stock to a boil. Add salt. Lower fishballs in one at a time so
+  they won't splash. Simmer, uncovered, 3 minutes. Add minced scallion.
+  Simmer 1 minute more.
+  
+     NOTE: Shrimpball soup is prepared the same way.
+  
+     VARIATIONS: Before step 2, add to cold stock 4 dried black mushrooms
+  (soaked), 1 or 2 Cakes bean curd and 1/2 cup bamboo shoots, all slivered;
+  bring to a boil and simmer 1 minute before adding salt and fishballs.
+  
+     In step 2, add to boiling stock 1 Cup Chinese cabbage stems and 1/2 cup
+  celery, both slivered. Simmer, uncovered, 5 minutes before adding salt and
+  fishballs.
+  
+     Add, with fishballs, 1/4 pound peastarch noodles (soaked).
+  
+     Add, with scallion, 1/2 cup spinach or water cress, chopped.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

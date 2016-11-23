@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Stuffed French Toast</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Eggs</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Slices sourdough bread, crusts removed,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese, cut into cubes (1 package)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Granny Smith apple, peeled and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>To 3 Tbl powdered sugar</item></ing></ingredients>
+    <directions>
+      <step>  Maple, apricot, blueberry, or raspberry syrup
+  
+  Preheat the oven to 375F.  Place half of the bread cubes in an ungreased 11
+  x 7-inch baking dish.  Cover with the cream cheese cubes, distributing
+  evenly. Sprinkle with the chopped apple. Top evenly with the remaining
+  bread cubes.
+  
+  Beat together the eggs, milk, and cinnamon until well blended. Pour over
+  the bread mixture in the dish. Bake for about 35 minutes or until set.
+  Sprinkle with the powdered sugar. Serve with maple or fruit syrup.
+  
+  Serves four.
+  
+  [THE EVENING SUN; October 31, 1990]
+  
+  Posted by Fred Peters.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Cookie Ice Cream</title>
+      <categories>
+        <cat>Ice cream</cat>
+        <cat>Fruits</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas, ripe; peel, mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Chocolate sandwich cookies; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Vanilla ice cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chocolate syrup</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Additional chocolate syrup</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Banana slices</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Maraschino cherries</item></ing></ingredients>
+    <directions>
+      <step>  Fold bananas and cookies into ice cream in large bowl. Pour into an 8"
+  square pan. Drizzle with chocolate syrup. Run knife through mix to make
+  swirls. Cover; freeze until firm. To serve, scoop into sundae glasses. Top
+  with additional chocolate sauce, banana slices and maraschino cherries.
+  
+  Courtesy of:
+  
+  Kathleen's Recipe Swap Page   recipes@ilos.net
+  http://www.ilos.net/~q591b4/recipe
+  Posted to MM-Recipes Digest  by q591b4@ilos.net on Apr 11, 1998
+ 
+</step></directions></recipe></recipeml>

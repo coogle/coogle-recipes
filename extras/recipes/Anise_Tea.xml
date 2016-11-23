@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anise Tea</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Christmas</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried anise leaves or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>2 tsp. fresh leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon slice (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Place anise leaves in cup and pour boiling water over them. Let steep 5 - 8
+  minutes.  Stir in honey and serve with lemon slice. Source: Quick &amp; Easy
+  Cooking.ch
+  Posted to MM-Recipes Digest V3 #303
+  
+  Date: Tue, 05 Nov 1996 00:17:37 -0500
+  
+  From: Cindy J Hartlin &lt;chartlin@total.net&gt;
+ 
+</step></directions></recipe></recipeml>

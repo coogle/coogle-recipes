@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Apples W/ Maple Yogurt Sauce</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Apples *</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Brown Sugar, packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Maple Syrup</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Yogurt, low-fat</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Maple Syrup</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  * A large, firm, tart apple is best. Use Ida Red or Northern Spy. A
+  Cortland can be used. However, if you use a McIntosh, you must shorten the
+  cooking time.
+  
+  Core apples and remove top inch of peel. Make a shallow out through skin
+  around centre of each apple to prevent skin from bursting. Place apples
+  upright in baking dish or pie plate. In a small bowl, combine brown sugar,
+  raisins, cinnamon, nutmeg and syrup. Spoon into centres of each apple. Add
+  water to cover bottom of dish. Bake, uncovered in 375 F for 25 to 30
+  minutes for less firm apples and up to 50 minutes for firm varieties or
+  until apples are tender when pierced with a toothpick.
+  
+  SAUCE: Combine the yogurt and maple syrup to make the sauce. Pour over the
+  baked apples.
+  Posted to recipelu-digest by jeryder@juno.com (Judy E Ryder) on Mar 03,
+  1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Potato Salad</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Potatoes,Idaho,medium-size</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salad oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion,chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard,prepard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Celery seed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Green pepper,diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Carrot,shredded</item></ing></ingredients>
+    <directions>
+      <step>  1. Put potatoes in a large saucepan with 1 inch cold water and 1 teaspoon
+  salt; bring to a boil.
+  
+  2. Cover, reduce heat and simmer 25 minutes, until potatoes are tender;
+  drain and cool.
+  
+  3. Peel potatoes and slice 1/4-inch thick; set aside.
+  
+  4. Heat oil in a medium-size skillet; saute onion until soft.
+  
+  5. Stir in flour, mustard, celery seed and remaining 1/3 teaspoon salt.
+  
+  6. Gradually add 1/2 cup water and vinegar; cook over low heat, stirring
+  constantly, until mixture boils and thickens.
+  
+  7. Combine potatoes, green pepper and carrots in a bowl; add sauce, mixing
+  well.
+  
+  8. Spoon half the mixture into a shallow 8x8-inch baking dish; sprinkle
+  with 1/2 cup cheese.
+  
+  9. Cover with remaining potato mixture and cheese.
+  
+  10. Bake, uncovered, in preheated 350'F. oven 15 to 20 minutes, or until
+  cheese is melted and vegetables are hot.
+ 
+</step></directions></recipe></recipeml>

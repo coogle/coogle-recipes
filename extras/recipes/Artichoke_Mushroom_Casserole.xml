@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Mushroom Casserole</title>
+      <categories>
+        <cat>Casserole</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar plain artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar marinated artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(6-oz) sliced mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter as needed</item></ing></ingredients>
+    <directions>
+      <step>   Cut up artichokes and mushrooms and marinate overnight in combined liquids
+  from artichokes and mushrooms. When ready to prepare, place a layer of
+  mixture in buttered casserole alternating with bread crumbs, ending with
+  bread crumbs topped with pats of butter. Bake in 350 degree oven for 40
+  minutes. Serves 4.
+  
+  OVERNIGHT MARINATE
+  
+  From &lt;A Taste of Louisiana&gt;.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Egg Bread</title>
+      <categories>
+        <cat>Brdmachine</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>1 POUND LOAF</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Butter or margarine, cut up</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Bread flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Fleischmann's bread machine yeast</item></ing></ing-div>
+      <ing-div>
+        <title>1 1/2 POUND LOAF</title>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter or margarine, cut up</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Bread flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Fleischmann's bread machine yeast</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  This bread makes wonderful toast. For a refreshing hint of citrus, add 1
+  teaspoon finely shredded lemon or orange peel with the flour. Use the
+  1-pound recipe if your machine pan holds 10 cups or less of water. Add
+  ingredients to bread machine pan in the order suggested by manufacturer.
+  Recommended cycle: Basic/white bread cycle; medium/normal color setting.
+  
+  Nutrition information per serving (1/12 of 1 1/2-lb. recipe): calories 170;
+  total fat 4 g; saturated fat 2 g; cholesterol 42 mg; sodium 233 mg; total
+  carbohydrate 28 g; dietary fiber 1 g; protein 6 g.
+  
+  From: Fleischmann's Yeast Web Site
+  Posted to MM-Recipes Digest  by "Chat Cat" &lt;maintech@ne.infi.net&gt; on Mar
+  20, 98
+ 
+</step></directions></recipe></recipeml>

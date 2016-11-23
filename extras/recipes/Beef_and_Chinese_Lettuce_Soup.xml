@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Chinese Lettuce Soup</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Peanut oil</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Stock (see recipe)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chinese lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>     1. Slice beef thin. Combine soy sauce and oil. Add to beef and toss. Let
+  stand 30 minutes, turning meat occasionally.
+  
+     2. Bring stock to a boil. Meanwhile cut lettuce in 2-inch sections.
+  
+     3. Add lettuce to stock with salt and sugar and simmer, uncovered, until
+  nearly done (about 10 minutes).
+  
+     4. Add beef and simmer, uncovered, 3 to 4 minutes more.
+  
+     VARIATION: For the Chinese lettuce, substitute either alone or in
+  combination: celery, shredded; Swiss chard or spinach leaves, cut in half;
+  or water cress, cut in 2-inch sections. Reduce cooking time in step 3 to
+  about 2 or 3 minutes.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

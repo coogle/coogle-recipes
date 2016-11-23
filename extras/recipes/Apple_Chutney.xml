@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Chutney</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Pickles</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>quart</unit></amt>
+        <item>Cider Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Seedless Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>pounds</unit></amt>
+        <item>Very Tart Apples (Sour)*</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Garlic Peeled and Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Gingerroot, Peeled &amp; Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Red Or Green Chili Peppers**</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Pickling Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar To Taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cayenne To Taste</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>pounds</unit></amt>
+        <item>Hard Green Pears ***</item></ing></ingredients>
+    <directions>
+      <step>  *      Apples are to be peeled, quartered and cored. ** Chili peppers are
+  to be seeded and chopped. *** Pears should be peeled, cored and cut into
+  strips. ~------------------------------------------------------
+  ~----------------- In large preserving kettle mix the vinegar, sugar,
+  raisins, apples, garlic cloves, gingerroot, peppers, and salt. Bring to a
+  boil and simmer until the apples are mushy and transparent. If neccessary,
+  add a little more vinegar.  Taste and add sugar and cayenne as desired.
+  Then add the pears and simmer until the pears are tranparent but not
+  overcooked.  Spoon into hot jars and seal. Makes 8 - 10 Pints.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

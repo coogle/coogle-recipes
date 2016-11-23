@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ambrosia</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Halved orange sections; seeds &amp; membranes removed</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh pineapple; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh coconut; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Maraschino cherries; halved, drained &amp; rinsed</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Pecan; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Powdered sugar to tast</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in large bowl. Cover and refrigerate. Serves 12.
+  
+  SOURCE: Vicksburg Junior Auxiliary's new cookbook, Ambrosia
+  
+  Posted to EAT-L Digest  by Shawn Zehnder Lea &lt;slea@HIGHTOWERSERVICES.COM&gt;
+  on Dec 22, 1997
+ 
+</step></directions></recipe></recipeml>

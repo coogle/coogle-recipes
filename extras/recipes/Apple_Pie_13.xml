@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Pies</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pastry for a 9-inch double-crust pie</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Tart apples; firm</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar; firmly packed, depending on the tartness of the apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unsalted butter; cut into small piece</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Milk; cream or 1 egg, lightly beaten</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 400F. Roll out half the pastry on a floured board and
+  fit it into a 9-inch pie plate. Trim the edge and chill well.
+  
+  Peel, quarter, core, and slice the apples. Toss them in a large bowl with
+  the lemon juice. Add the sugar and spices and toss again. Pile the apples
+  into the pie shell, dot the top with butter, and wet the pastry lip. Roll
+  out the other half of the pastry, carefully fit it over the pie, and trim
+  the edge, allowing a half-inch overhang. Tuck the extra pastry under the
+  lower lip and crimp it to seal the crust. Cut vents into the top crust.
+  Decorate the top of the pie with extra pastry cutouts or whatever design
+  you may choose, plain or fancy. Brush the surface with a little milk or
+  cream or with an egg thinned with water.
+  
+  Bake the pie for 20 minutes, then lower the heat to 35OF and bake until the
+  crust is golden brown and the apples are tender, 20 to 30 minutes longer.
+  If the edge of the crust browns too much, cover it with aluminum foil.
+  Serve the pie warm or at room temperature with a slice of cheddar cheese, a
+  scoop of vanilla ice cream, or a dollop of whipped cream.
+  
+  NOTES : This American standard has countless variations.  To name a few,
+  add chopped nuts or cranberries to the filling; substitute whiskey for the
+  lemon juice; add more apples and use a top crust only for a deep-dish pie.
+  Recipe by: A Feast Of Fruits
+  
+  Posted to recipelu-digest Volume 01 Number 590 by "Marie Smith"
+  &lt;craftee@sprynet.com&gt; on Jan 24, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Crispy Potato Skins</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Medium potatos (about 2 lbs)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter/margarine, melted</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper, to taste</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees. Scrub potatoes and pierce each one several
+  times with a fork. Bake 45 minutes to 1 hour, or until tender. 
+  Cut each potato lengthwise into 4 quarters. Scoop potato pulp from skins
+  leaving a 1/8" thick shell. (Save pulp for another recipe or see below.)
+  Brush skins inside and out with melted butter. Sprinkle with salt and
+  pepper.
+  Place skins, skin-side down, on a baking sheet. Bake about 15 minutes or
+  until crisp. Serve hot. Makes 2 skins per serving.
+  FOR LEFTOVER POTATO INSIDES:
+  * Mashed potatoes. Add your choice of salt, pepper, sliced green onion,
+  crubmled bacon, shredded cheese and/or fresh herbs. Top with bread crumbs,
+  dot with butter and bake until heated through.
+  * Saute' chopped onion in butter until tender. Stir in potatoes and
+  continue to cook and stir until heated through.
+  * Make a potato salad using warm potato insides. Toss with bottled
+  vinegerette dressing or mayonaise, sliced green onion, chopped olives and
+  crumbled bacon. Chill.
+  * Add to soups to thicken them.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

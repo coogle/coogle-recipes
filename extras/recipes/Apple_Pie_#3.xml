@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pie #3</title>
+      <categories>
+        <cat>Pie</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>2 crust pie shell</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Sliced apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine</item></ing></ingredients>
+    <directions>
+      <step>  Thaw pastry according to directions. Mix sugar, flour,and spices. Combine
+  sugar mixture with apples and lemon juice. Fill pastry shell with apple
+  mixture. Dot with butter. Place top pastry over top Seal and flute. Slash
+  top for steam to escape. Bake on lower oven rack at 450 for 10 minutes.
+  Lower to 350 and bake for 40-50 minutes more. Until crust is golden brown.
+  
+  Date: Wed, 05 Jun 1996 08:06:49 -0600
+  
+  From: Blackhawk &lt;tracy@agt.net&gt;
+  
+  MM-Recipes Digest V3 #156
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

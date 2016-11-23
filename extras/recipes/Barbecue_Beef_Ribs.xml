@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Beef Ribs</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Beef</cat>
+        <cat>Bar-b-q</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef short ribs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Black Jack BBQ Sauce</item></ing></ingredients>
+    <directions>
+      <step>  Place ribs in a flat pan or dish. Pour sauce over ribs, turning so as to
+  coat both sides; pierce meat with a large fork. Marinate 8 hrs. turning
+  once. Remove ribs from marinade and brush off excess sauce to avoid burning
+  Broil or cook over coals for 10 mins. Brush with marinade and cook 4-5
+  mins. more. Heat remaining sauce and serve with ribs.(Ribs may be cooked in
+  a covered pan in a 350 deg. oven for 1 1/2 hours, if desired.)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

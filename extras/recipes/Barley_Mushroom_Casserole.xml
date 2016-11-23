@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barley Mushroom Casserole</title>
+      <categories>
+        <cat>Side</cat>
+        <cat>Dishes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Barley</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh mushrooms; * see note</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Slivered almonds</item></ing></ingredients>
+    <directions>
+      <step>  * or use 4 ounces of canned mushrooms
+  
+  Saute onion in 6 tablespoons butter. Add barley and brown lightly. Pour in
+  casserole with 1 1/2 cups chicken broth. Bake 350 deg. F. for 30 minutes.
+  Add the mushrooms which have been sauted in the remaining butter and the
+  rest of the chicken broth. Top with almonds and continue baking until the
+  liquid is absorbed, approximately 45 to 60 minutes. Cook uncovered all the
+  time. Posted to EAT-L Digest by JoAnn &lt;joannr@PCLINK.COM&gt; on Dec 20, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Pineapple Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(8 ounce) crushed pineapple packed in juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe medium bananas; chopped (not squished)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour (preferably white lily)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350.ø Grease and flour a 9 inch tube pan or bundt pan. In a
+  large mixing bowl, beat eggs slightly with a whisk. Beat in oil, pineapple
+  (with juice) and bananas until well blended. Sift flour, sugar, salt,
+  baking soda and cinnamon together. Stir into wet ingredients with a wooden
+  spoon. Mix only until dry ingredients are moistened. Pour into pan and bake
+  for 1 hour and 10 to 15 minutes, until browned and cake shrinks from sides
+  of pan. Cool completely on wire rack before turning out.
+  
+  Recipe by: From Gottlieb's Bakery 100 Years of Recipes Cookbook
+  
+  Posted to Bakery-Shoppe Digest V1 #190 by C4 &lt;c4@groupz.net&gt; on Aug 15,
+  1997
+ 
+</step></directions></recipe></recipeml>

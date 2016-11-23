@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Cream Cheese Salad</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Fruit</cat>
+        <cat>Salads</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(6-oz) apricot gelatin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(large) crushed pineapple; undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>small</unit></amt>
+        <item>Jars strained apricot baby food</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(8-oz) cream cheese; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(large) evaporated milk; chilled</item></ing></ingredients>
+    <directions>
+      <step>  In saucepan combine gelatin and pineapple. Heat until mixture simmers. Add
+  sugar, apricots and softened cream cheese. Continue heating, stirring
+  occasionally, until cream cheese melts. Remove from heat and cool. Chill in
+  refrigerator until mixture mounds when dropped from a spoon. In a chilled
+  bowl, whip chilled evaporated milk until stiff peaks form. Fold in apricot
+  mixture. Pour into 9 x 13-inch pan. Chill until firm. Cut into squares to
+  serve. Serves 12.
+  Posted to TNT Recipes Digest by Alice Poe &lt;afpoe@swbell.net&gt; on Apr 14,
+  1998
+ 
+</step></directions></recipe></recipeml>

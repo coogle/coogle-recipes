@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bailey's Corn Wafers</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Biscuits</cat>
+        <cat>Baileys.mcf</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>White cornmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Boiling water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Unsalted butter</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 425F degrees. Grease 2 cookie sheets or coat with vegetable
+  cooking spray.
+  
+  Mix cornmeal and salt in a bowl and pour in boiling water, stirring all the
+  while to keep lumps from forming. Stir in margarine.
+  
+  Drop 1 tablespoon at the time onto the cookie sheets. This batter should be
+  liquid enough to spread out into a 3-inch circle. If it doesn't spread, add
+  a bit more water. Bake until golden brown around the edges and crispy,
+  about 20 minutes. Serve with sweet butter.
+  
+  Makes approximately 36 wafers.
+  
+  SOURCE: Lee Bailey's Soup Meals (1989:isbn0517573040)
+  
+  Notes: Look like a cornmeal cookie. Lee's Intro: These wonderful, crisp
+  little wafers are so easy to prepare you will want to make them every time
+  you serve soup. You might vary them by adding a bit of prepared Cajun
+  seasoning to the batter.
+  
+  Kitpath 98Jan
+  
+  Recipe by: Lee Bailey's Soup Meals: Warm-Weather
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Feb 12,
+  1998
+ 
+</step></directions></recipe></recipeml>

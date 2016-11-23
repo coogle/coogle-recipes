@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Blitzen</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Colored sprinkles</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chocolate chips</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas</item></ing></ingredients>
+    <directions>
+      <step>  Put sprinkles on plate. Heat chocolate chips in skillet, stir until melted.
+  Cut peeled bananas in half. Poke popsicle sticks into cut ends of bananas.
+  Spread chocolate onto bananas. Roll in sprinkles. Place on plate lined with
+  wax paper and freeze.
+  
+  Posted to recipelu-digest Volume 01 Number 171 by KJAlbums@aol.com on Oct
+  27, 1997
+ 
+</step></directions></recipe></recipeml>

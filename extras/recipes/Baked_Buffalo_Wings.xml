@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Buffalo Wings</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Melted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Hot pepper sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Rice vinegar</item></ing>
+        <ing>
+          <amt>
+            <qty>30</qty>
+            <unit/></amt>
+          <item>Chicken drummettes</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Paprika; for sprinkling</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Celery sticks; for Accompaniment</item></ing></ing-div>
+      <ing-div>
+        <title>ROQUEFORT DRESSING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Roquefort cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Mayonnaise</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Freshly ground pepper; to Taste</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 350 degrees F. Lightly oil a baking sheet. Mix together
+  butter, hot-pepper sauce, and vinegar. Dip chicken into mixture, then place
+  on prepared baking sheet. Sprinkle lightly with paprika.
+  
+  2. Bake until crisp and brown (about 30 minutes). Serve with celery sticks
+  and Roquefort Dressing.
+  
+  Makes 30 drummettes.
+  
+  Roquefort Dressing: Mix Roquefort, sour cream, and mayonnaise together.
+  Season with pepper.
+  
+  Makes about 1-1/4 cups.
+  
+  Recipe by: California Culinary Academy
+  
+  Posted to EAT-L Digest  by P&amp;S Gruenwald &lt;sitm@NE.INFI.NET&gt; on Apr 9, 1998
+ 
+</step></directions></recipe></recipeml>

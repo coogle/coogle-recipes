@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas Fritas</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Firm bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Beer batter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for deep-frying</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Lemon; juice of</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pint</unit></amt>
+        <item>Vanilla ice cream -or-</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flavored whipped cream</item></ing></ingredients>
+    <directions>
+      <step>  1. Peel the bananas &amp; split each into 3 sections lengthwise. Dip the
+  sections into the Beer Batter, shake off excess batter, &amp; slip the bananas
+  into 350F cooking oil. Cook on all sides, turning carefully, until batter
+  is crisp &amp; golden brown.
+  
+  2. Arrange fried bananas on 4 dessert plates &amp; sprinkle w/ lemon juice &amp;
+  honey. Top w/ ice cream or flavored whipped cream &amp; serve immediately. If
+  you use whipped cream as a topping, flavor it w/ a little sugar &amp; almond
+  extract.
+  
+  SU CASA
+  
+  KETCHUM; SUN VALLEY
+  
+  From the &lt;Micro Cookbook Collection of Mexican Recipes&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

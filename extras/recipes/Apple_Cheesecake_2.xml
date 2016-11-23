@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cheesecake</title>
+      <categories>
+        <cat>Cheesecakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>large</unit></amt>
+          <item>Apples; sliced 3/8" thick</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cream 35%</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Brown sugar; packed</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Grated rind of a lemon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Lemon; juice of</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown sugar; packed</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  For the crust:: Preheat oven at 350 F. Beat together butter and sugar. Mix
+  in flour. Press dough on bottom and up sides of a 9" springform pan. Bake
+  for 15 minutes. For the filling: In a frying pan melt butter over medium
+  fire. Add sugar. Cook apple in it for 5 minutes. Add 2 tbsp cream and cook
+  for 5 more minutes, stirring occasionally. Do not overcook. Put aside. On a
+  medium speed beat cream cheese and brown sugar. When well mixed, add eggs,
+  one at a time. Do not overbeat. Reduce speed to low and add sour cream,
+  zest and juice. With slotted spoon place the apples on the crust, then pour
+  filling overtop. For the topping: Whip on fairly high spead beat until
+  mixture is in small lumps. Sprinkle over cream. Place pan over a cookie
+  sheet and bake at 350 F for 1 hour. When cooled, refrigerate for at least 4
+  hours or overnight. Sprinkle over the filling and serve
+  
+  formatted and busted by recipelu@recipelu.com
+  Posted to recipelu-digest Volume 01 Number 167 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Oct 26, 1997
+ 
+</step></directions></recipe></recipeml>

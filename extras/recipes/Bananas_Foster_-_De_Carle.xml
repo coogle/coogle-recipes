@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bananas Foster - De Carle</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dark rum</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Creme de Banana</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Bananas, split and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vanilla ice cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>dashes</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  In a wide skillet, melt butter and sugar over medium heat, stirring
+  constantly until mixture has blended to caramel.
+  
+  Add liquors and ignite.  (Use caution!)  Heat bananas in mixture for 2
+  minutes and serve over ice cream. Sprinkle w a dash of cinnamon.
+  
+  Russell deCarle's recipe, from an article in Modern Woman, Nov 1994.
+  
+  Typed by E.Marie Campbell
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

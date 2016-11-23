@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Wrapped Shrimp</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Bacon</cat>
+        <cat>Seafood</cat>
+        <cat>Shrimp</cat>
+        <cat>Mc</cat></categories>
+      <yield>40</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bacon slices, cut in half</item></ing>
+      <ing>
+        <amt>
+          <qty>40</qty>
+          <unit/></amt>
+        <item>Shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bottle teriyaki sauce, (10 oz.)</item></ing></ingredients>
+    <directions>
+      <step>  Cut bacon slices in half. Wrap bacon around shrimp. Secure each with wooden
+  toothpick. Placei n 9x13" baking pan. Pour on teriyaki sauce.Cover and
+  refrigerate for one hour. Bake at 400 F. uncovered for 20-25 minutes until
+  bacon is crisp.
+  NOTES : Can cut recipe in half or double, depending on the size of your
+  crowd.
+  
+  Posted to MC-Recipe Digest V1 #334
+  
+  Recipe by: bobbi744@sojourn.com
+  
+  From: kmeade@IDS2.IDSONLINE.COM (The Meades)
+  
+  Date: Mon, 9 Dec 1996 22:19:32 -0500
+ 
+</step></directions></recipe></recipeml>

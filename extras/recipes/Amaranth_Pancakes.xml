@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaranth Pancakes</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Breakfast</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Amaranth cereal</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Whole wheat pastry flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Egg replacer for 1 egg</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Soy, rice, or nut milk</item></ing></ingredients>
+    <directions>
+      <step>   In a medium-sized bowl, mix together the cereal, flour, egg replacerand
+  baking powder. Pour the milk over the mixture and beat with a spoon until
+  the ingredients are well combined. If the batter is too thick, you may add
+  a little more milk.
+  
+   Drop the batter by the 1/4 cup into a hot, oiled skillet and cook over
+  medium-high until bubbles begin to appear on the tops of the pancakes. Turn
+  them over and cook until done.
+  
+   From the files of DEEANNE
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

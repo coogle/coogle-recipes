@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bakaliaro Tiganito (Fried Salt-Cod)</title>
+      <categories>
+        <cat>Greek</cat>
+        <cat>Fish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Dried salt cod</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Cold water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable oil for frying</item></ing></ingredients>
+    <directions>
+      <step>  Cut the cod into 4-inch sections.  Place in a glass or earthenware bowl,
+  cover with cold water, and soak overnight.  The next day, drain and discard
+  the water.  Put the cod in a pot and cover with cold water.  Bring to a
+  boil, then remove from the heat and lift out the cod with a slotted spoon.
+  Remove the bones and the black skin.
+  
+  In a medium bowl, combine the flour, water, salt, and baking powder to make
+  a thin batter.  Dip the cod in batter and fry in hot oil (about 1/2 inch
+  deep) on both sides, then lower heat and cook until tender, turning once
+  again.  Serve hot, with skordalia, which is cold or room temperature.
+  
+  Note: If the cod is excessively salty, change water 2 or 3 times during the
+  soaking period.
+  
+  From: "The Food of Greece" by Vilma Liacouras Chantiles.  Avenel Books, New
+  York.
+  
+  Typed for you by Karen Mintzias
+  Sent to me by Bill &lt;wight@odc.net&gt;
+ 
+</step></directions></recipe></recipeml>

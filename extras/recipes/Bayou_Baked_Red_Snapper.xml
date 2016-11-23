@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bayou Baked Red Snapper</title>
+      <categories>
+        <cat>Kosher</cat>
+        <cat>Cajun</cat>
+        <cat>Fish</cat>
+        <cat>Main dish</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Whole Red Snapper (4 Lb.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick margarine, pareve</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Shallots, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Button mushrooms OR</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Large fresh mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste.</item></ing></ingredients>
+    <directions>
+      <step>  Clean fish and pat dry.  Rub cavity with salt, pepper and margarine. Place
+  in well-greased baking pan and set aside. Heat 3 or 4 tbs. margarine in
+  heavy skillet. Add shallots and saute until soft, but not brown. Add more
+  margarine and mushrooms and continue cooking, shaking pan until most of fat
+  is absorbed. Stir in oregano and pour mixture over fish. Measure fish at
+  its thickest point and bake exactly 10 min. per inch of thickness in
+  preheated 450 F. oven.  Baste several times with pan juices. Serves 8 to
+  10.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

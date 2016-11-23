@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Brown Rice</title>
+      <categories>
+        <cat>Rice</cat>
+        <cat>Chili</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown rice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Onion; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dehydrated parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Defatted beef broth; * see note</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mrs Dash</item></ing></ingredients>
+    <directions>
+      <step>  Brown the rice in a nonstick skillet. When golden brown, place in tightly
+  covered casserole. Pour over rice, hot defatted beef broth (mix as per
+  directions on can). Bake in a 350 degree oven for one hour. Garnish with
+  dehydrated parsley. Add more water if needed during cooking.
+  
+  NOTES : *To remove fat, chill can of beef froth in refrigerator; lift off
+  congealed fat with spoon.
+  Recipe by: 14 Days to New Vigor &amp; Health Mormon Diet
+  
+  Posted to EAT-LF Digest by "Dorothy Tapping" &lt;unicorn4@usit.net&gt; on Mar 16,
+  1998
+ 
+</step></directions></recipe></recipeml>

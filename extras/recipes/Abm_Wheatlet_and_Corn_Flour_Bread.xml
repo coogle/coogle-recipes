@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Abm Wheatlet and Corn Flour Bread</title>
+      <categories>
+        <cat>Abm</cat>
+        <cat>Breads</cat>
+        <cat>Corn</cat>
+        <cat>Jw</cat></categories>
+      <yield>1 1/2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Veg oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Wheat germ</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oat bran</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cream of wheat cereal</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Corn Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>All purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dried parsley [opt'l]</item></ing></ingredients>
+    <directions>
+      <step>  Add the liquid and solid ingredients and the yeast in order according to
+  the manufacturer's instructions. Run on regular/basic and medium crust.
+  
+  The cream of wheat is not as gritty as cornmeal and yet the corn flour
+  provides the corn taste.
+  
+  I made my first loaf with parsley but as for any cornmeal bread or muffin,
+  the addition of garlic, chiles, bacon bits and/or cheese should work.
+  
+  An original recipe by Jim Weller.
+  Posted to Bakery-Shoppe Digest V1 #453 by Jim Weller &lt;jweller@ssimicro.com&gt;
+  on Dec 14, 1997
+ 
+</step></directions></recipe></recipeml>

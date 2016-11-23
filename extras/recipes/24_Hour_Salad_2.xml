@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>24 Hour Salad</title>
+      <categories>
+        <cat>Cooper</cat>
+        <cat>Salads &amp; dr</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Head lettuce; torn into small piec</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh spinach; washed and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>large</unit></amt>
+        <item>Eggs; hardboiled/chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bacon; cooked and crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Frozen peas</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Green onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh cauliflower</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cheddar cheese; grated</item></ing></ingredients>
+    <directions>
+      <step>  Mix sour cream and mayonnaise. Layer in large glass or wooden salad bowl
+  lettuce, spinach, eggs, bacon, cauliflower, peas, onion and then spread
+  with sour cream mixture. Continue with layers. After the last layer, top
+  with grated cheese. Chill at least 12 hours, but better at 24 hours.
+  
+  Recipe by: Ramona Cooper
+  
+  Posted to MC-Recipe Digest V1 #1037 by Sewgoode@aol.com on Jan 23, 1998
+ 
+</step></directions></recipe></recipeml>

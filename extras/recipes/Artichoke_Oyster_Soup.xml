@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Oyster Soup</title>
+      <categories>
+        <cat>Soups</cat>
+        <cat>Usenet</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shallots (chopped fine)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit>ounces</unit></amt>
+        <item>Chicken broth (more or less won't hurt)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Oysters, drained; reserve liquid (less, to taste)</item></ing>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit>ounces</unit></amt>
+        <item>Artichoke hearts, cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tabasco</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping cream</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley (chopped, fresh)</item></ing></ingredients>
+    <directions>
+      <step>  In a 3-quart casserole, melt butter and saute shallots. When shallots are
+  translucent, add thyme, bay leaf and cayenne pepper. Add flour and whisk
+  well.  Add broth, oyster water, artichoke hearts, salt and tabasco. Bring
+  to a boil. Add oysters and parsley. Simmer on medium, partly covered, for
+  exactly 5 minutes. Add whipped cream and serve immediately.
+  
+  NOTES:
+  
+  *  Chicken broth with artichokes and poached oysters ~- This is a modern
+  cajun-style recipe that I adapted from a local convenience-food cookbook by
+  Jean Durkee. It's an intriguing combination of modern American ingredients
+  with traditional cajun flavorings.
+  
+  *  Fresh parsley tastes much better than dried parsley. If the oysters are
+  bigger than a small bite-size, cut them up before adding them to the soup.
+  Use the smallest oysters you can find.
+  
+  *  When I'm not making a double recipe, I usually dump the entire (about
+  1-cup) container of whipping cream into the soup, even though that's double
+  what the recipe calls form.
+  
+  *  The timing on cooking the oysters is fairly critical. If you overcook
+  them, they will be rubbery.
+  
+  : Difficulty:  easy.
+  : Time:  20 minutes.
+  : Precision:  measure the spices.
+  
+  : Deborah Pedersen
+  : Microelectronics Computer Corporation, Austin TX
+  : pedersen@mcchi2.ARPA
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

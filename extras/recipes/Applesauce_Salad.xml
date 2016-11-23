@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Usenet</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cinnamon imperials (candy)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Lemon jello mix (1 small package)</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Ice cubes (or less)</item></ing></ingredients>
+    <directions>
+      <step>  Place the candy and water in a pot.  Bring to a boil, stirring to dissolve
+  the candy. Add jello powder and stir until it is dissolved.
+  
+  Stir in applesauce and ice cubes until ice cubes are melted. Pour into a
+  bowl and refrigerate until set (1 hour or more).
+  
+  NOTES:
+  
+  *  Applesauce jello salad -- A delicious jello salad, taken from The
+  Monterey Coast Guard Officers' Wives Club Cookbook. My sister-in-law was
+  the president of the club which put that cookbook together.
+  
+  *  Substituting apple cider or apple juice for the water adds tremendous
+  taste.  We prefer homemade chunky style applesauce to processed commercial
+  brands.
+  
+  : Difficulty:  easy.
+  : Time:  10 minutes preparation, 1-3 hours to chill.
+  : Precision:  approximate measurement OK.
+  
+  : Sue LoVerso
+  : Encore Computer Corp.  Marlboro, MA   USA
+  : sue@multimax.arpa
+  : {decvax, allegra, ihnp4}!encore!sue
+  
+  : Copyright (C) 1986 USENET Community Trust
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

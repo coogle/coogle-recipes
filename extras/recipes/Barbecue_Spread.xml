@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Spread</title>
+      <categories>
+        <cat>Sandwiches</cat>
+        <cat>Spreads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>MIRACLE WHIP or MIRACLE WHIP LIGHT Dressing</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>KRAFT Original Barbecue Sauce</item></ing></ingredients>
+    <directions>
+      <step>  Mix dressing and barbecue sauce. Refrigerate.
+  
+  Makes 1 1/2 cups.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Formula for a One Pound Loaf</title>
+      <categories>
+        <cat>Abm</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Liquid</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sweetener</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour (combination of any 2 or more white, oat, rye, or whole wheat bread flour)</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Active dry yeast</item></ing></ingredients>
+    <directions>
+      <step>  Follow manufacturers instructions for macking bread.
+  
+  Total calories per serving: 107  Fat &lt;1 gram
+  
+  Source: Vegetarian Journal, Jan/Feb 1995 Pooh's Recipe dbase
+  (lisa_pooh@delphi.com) 2/4/96
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

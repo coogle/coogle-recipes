@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ala Carte Menu</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>BUTTER PRINT SURE</item></ing>
+      <ing>
+        <amt>
+          <qty>12 1/2</qty>
+          <unit/></amt>
+        <item>Dozen EGGS SHELL</item></ing>
+      <ing>
+        <amt>
+          <qty>12 1/2</qty>
+          <unit>gallons</unit></amt>
+        <item>WATERMELON FRESH(SEASONAL</item></ing>
+      <ing>
+        <amt>
+          <qty>50</qty>
+          <unit>packages</unit></amt>
+        <item>CEREAL DRY ASSOR 70 PG</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>CORN BREAD MIX YELLOW</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>SUGAR; GRANULATED 10 LB</item></ing>
+      <ing>
+        <amt>
+          <qty>3/8</qty>
+          <unit/></amt>
+        <item>Hundred CREAM NONDAIRY</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>COFFEE ROASTED 2 LB</item></ing></ingredients>
+    <directions>
+      <step>  Recipe Number: X20004
+  
+  SERVING SIZE:
+  
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

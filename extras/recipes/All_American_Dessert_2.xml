@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All American Dessert</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Jello</cat>
+        <cat>Holidays</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BILLS20086</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Berry blue jello</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Red jello, any flavor</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Water; boiling</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Water; cold</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Cool Whip; thawed</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Angel food cake -=OR=- pound cake, break in cubes</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Strawberries; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Blueberries; (opt)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Dissolve each flavor of jello completely in 2 cups of boing water in
+  separate bowls. Stir 1 cup of cold water into each bowl. Pour into separate
+  9x13" pans. Refrigerate at least 3 hours until firm. Cut into 1/2" cubes.
+  Place blue jello cubes in bottom of clear glass trifle bowl. Top with 1/3
+  of the Cool Whip. Add cake cubes, then sliced strawberries. Top with
+  another 1/3 Cool Whip. Add the red jello cubes and then the remaining Cool
+  Whip. Sprinkle blueberries over top if desired.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

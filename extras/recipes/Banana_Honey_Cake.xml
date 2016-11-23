@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Honey Cake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CAKE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Soda</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Quaker Oats, uncooked (quick or old-fashioned)</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Butter or margarine; soft</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Mashed bananas</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sifted all-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream cheese; soft</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sifted confectioners' sugar</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  For cake, bring honey to a boil in medium-sized saucepan; add 1/2 teaspoon
+  of the soda.  Pour over oats; stir to combine.  Cover and let stand 10
+  minutes.
+  
+  Beat butter until creamy; gradually add sugar, beating until fluffy.
+  Blend in eggs.  Add oats mixture and bananas; blend well.  Sift together
+  flour, remaining 1/2 teaspoon soda, baking powder and salt.  Add to
+  creamed mixture; blend well.
+  
+  Pour batter into 2 greased and waxed paper-lined 8-inch round cake pans.
+  Bake in preheated moderate oven (350 F.) 30 to 35 minutes.  Cool on wire
+  rack about 10 minutes.  Remove from pans; cool.
+  
+  For frosting, beat cream cheese until fluffy.  Gradually add sugar,
+  beating until frosting is smooth and of spreading consistency.  Spread
+  between layers and over top of cake; refrigerate.  Just before serving,
+  decorate with banana slices.  Makes one 2-layer cake.
+  
+  Source: Our Favorites for family and friends
+  Reprinted with permission from The Quaker Oats Company
+  Electronic format courtesy of Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/quaker01.zip
+ 
+</step></directions></recipe></recipeml>

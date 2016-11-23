@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Liverwurst Dip</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Dips</cat>
+        <cat>Meats</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Liverwurst</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>White Onion; Minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dill Pickle Relish</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dijon Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>White Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Blend the liverwurst and sour cream until smooth and creamy. Add all the
+  other ingredients, blending well. May be served at room temperature or
+  chilled. Makes about 1 3/4 cups of dip. SUGGESTED DIPPERS: Cucumbers,
+  Cherry Tomatoes, Radishes, Asparagus, Cocktail Rye Bread, Lavasch Crackers
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

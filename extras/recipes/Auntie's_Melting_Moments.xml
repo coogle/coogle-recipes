@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Auntie's Melting Moments</title>
+      <categories>
+        <cat>Cookies</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Butter; NOT margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>5 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Confectioner's sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Almond extract</item></ing></ing-div>
+      <ing-div>
+        <title>LEMON GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Powdered sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Butter; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Lemon zest</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  COOKIES Cream butter and sugar well. Sift in flour and cornstarch and mix
+  together. Add flavoring; chill overnight. Shape into balls about the size
+  of walnuts and place on a greased baking sheet. Flatten the balls with
+  bottom of a small glass which has been dampened. Bake at 350 degrees for 10
+  minutes. Do not brown cookies. Makes 24 cookies.
+  
+  LEMON GLAZE Beat all ingredients together. While the cookies are still
+  warm, gently remove from cookie sheet and spread with the glaze.
+  
+  Recipe by: Auntie Betty
+  
+  Posted to TNT Recipes Digest by MarySpero@prodigy.com (MS MARY E SPERO) on
+  Apr 25, 1998
+ 
+</step></directions></recipe></recipeml>

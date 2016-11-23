@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cider Mold</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Salads</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>LORELI AGUDA WSKD49A</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Apple cider</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Envelopes unflavored gelatin</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Frozen lemonade concentrate</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Apples, skinned and diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped celery</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Slivered almonds</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Whipped cream for topping</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix 1 cup cider with gelatin in small pan. Let stand for few minutes. Add
+  sugar and cook; stir until dissolved, remove from heat. Core and dice
+  apples and mix with thawed lemonade concentrate to prevent any darkening.
+  Lift out apples with slotted spoon and reserve. Stir lemonade and remaining
+  cider into gelatin mixture. Regrigerate until thick and syrupy, then add
+  apples and celery. Place almonds or other chopped nuts in bottom of 6 cup
+  mold. Spoon gelatin over nuts, cover and chill firm. Dip mold to the rim in
+  hot water for 5 seconds to invert onto serving plate. Surround with lettuce
+  leaves and serve with whipped cream. Sour cream goes good with this too.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

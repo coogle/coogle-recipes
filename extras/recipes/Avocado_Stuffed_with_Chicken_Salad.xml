@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Stuffed with Chicken Salad</title>
+      <categories>
+        <cat>Salads/</cat>
+        <cat>Dressings</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Diced cooked chicken breast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chopped orange zest</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped shallots</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Chopped fresh red pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chopped fresh chives</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground black pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ripe avocado; halved, pit removed, and peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Radicchio leaves</item></ing></ingredients>
+    <directions>
+      <step>  In a bowl combine; chicken, mayonnaise, orange zest, shallots, red pepper,
+  and chives. Season to taste with salt and pepper. Divide the salad between
+  the two avocado halves, filling the cavity.
+  
+  To serve, place 2 radicchio leaves on each serving plate and top with an
+  avocado half.
+  
+  Recipe Source: ESSENCE OF EMERIL with Emeril Lagasse From the TV FOOD
+  NETWORK - (Show # EE-2224 broadcast 10-16-1997) Downloaded from their
+  Web-Site - http://www.foodtv.com
+  
+  Formatted for MasterCook by Joe Comiskey, aka MR MAD - jpmd44a@prodigy.com
+  ~or- MAD-SQUAD@prodigy.net
+  
+  11-12-1997
+  
+  Recipe by: Emeril Lagasse
+ 
+</step></directions></recipe></recipeml>

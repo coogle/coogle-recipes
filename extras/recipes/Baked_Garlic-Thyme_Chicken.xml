@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Garlic-Thyme Chicken</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Unsalted butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Scallions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried thyme leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Whole chickens; rinsed and patted dry</item></ing>
+      <ing>
+        <amt>
+          <qty>Prep:</qty>
+          <unit>10</unit></amt>
+        <item>min, Cook: 1:00.</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350øF. Combine all ingredients, except chicken, in a bowl.
+  Season with salt and pepper to taste. Spread seasoned butter over outside
+  of chicken. Place chicken, breast side down, in a baking dish. Bake 35
+  minutes. Turn chicken breast side up and bake another 25-35 minutes or
+  until tender, basting occasionally with pan juices.
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Mar 02, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Layer Taco Dip</title>
+      <categories>
+        <cat>Dips</cat>
+        <cat>Mexican</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Jalapeno bean dip</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe avocados, mashed with lemon</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Sour cream with taco seasoning</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Each shredded jack and cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Tomatoes, chopped fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Green onion tops</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Chopped black olives</item></ing>
+      <ing>
+        <amt>
+          <qty>Layer</qty>
+          <unit>in</unit></amt>
+        <item>5 x 9 oblong casserole dish. Serve with tortilla chips.</item></ing></ingredients>
+    <directions>
+      <step>  Food &amp; Wine RT [*] Category 2, Topic 2 Message 203 Sun Jan 31, 1993
+  M.CARMAIN1 [Melinda]         at 03:10 EST
+  
+  MM by QBTOMM and Sylvia Steiger, GEnie THE.STEIGERS, CI$ 71511,2253, GT
+  Cookbook echo moderator at net/node 004/005
+ 
+</step></directions></recipe></recipeml>

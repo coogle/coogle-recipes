@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Corn Bread</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Self-rising white corn meal</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Buttermilk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Bacon drippings</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing></ingredients>
+    <directions>
+      <step>  Mix corn meal, buttermilk, sugar and egg. Melt bacon drippings in small,
+  cast iron skillet in 500 degree oven. Pour drippings in batter and stir
+  thoroughly. Pour batter into hot skillet; bake at 500 degrees for 10-15
+  minutes. Posted to Kitmailbox by Paula Thompson &lt;paulat@adaptsol.com&gt; on
+  Jul 07, 1997
+ 
+</step></directions></recipe></recipeml>

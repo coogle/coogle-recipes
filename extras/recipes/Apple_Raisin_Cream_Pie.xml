@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Raisin Cream Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Pastry for 2-crust pie</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>cups</unit></amt>
+          <item>Tart apple slices, 1/8"</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Thick</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Raisins</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Dash of salt, if desired</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Grated lemon rind</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>(rounded) butter</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Heavy cream</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Apple Raisin Cream Pie
+  
+  Make favorite pastry; line bottom of pie tin with one crust and set aside.
+  Combine apple slices, sugar, flour, spices, raisins, salt and lemon peel;
+  mix together well. Spoon filling into pastry-lined pan; dot with butter.
+  Cover with top crust decorated with steam vents; seal edges. Cut a 1-in
+  circle from dough in center of top crust. Bake at 400 ea 00 for 40-45
+  minutes. Remove pie from oven; slowly pour cream into center hole of top
+  crust. Return to oven; bake 5-10 minutes longer. Let stand 5 minutes before
+  cutting. (Refrigerate any leftovers.)
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Pork</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>China</cat>
+        <cat>Ham/pork</cat>
+        <cat>Archived</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Commercial hoisin sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Reduced-calorie catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Low-sodium soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Chinese five-spice powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Drops red food coloring (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>(3/4-pound) pork tenderloins</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Reduced-calorie catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sesame seeds</item></ing></ingredients>
+    <directions>
+      <step>   Combine first 6 ingredients; stir well, and set aside.
+   Trim fat from pork, and place in a large shallow dish.
+   Pour honey mixture over pork. Cover and marinate in refrigerator 8 hours,
+  turning pork occasionally.
+   Remove pork from marinade, reserving marinade. Place pork on a
+  microwave-safe roasting rack. Cover with wax paper, and microwave at MEDIUM
+  HIGH (70% power) 7 minutes. Brush pork with reserved marinade; rotate rack
+  a quarter-turn. Cover and microwave at MEDIUM HIGH 6 to 8 minutes or until
+  meat thermometer registers 160 degrees; set aside. Place remaining marinade
+  in a glass measure; microwave at HIGH until mixture boils. Brush over pork;
+  cut into 1/4-inch slices. Serve warm with catsup and sesame seeds.
+   Yield: 12 appetizer servings (serving size: 1-1/2 ounces pork, 1 teaspoon
+  catsup, and 1/2 teaspoon sesame seeds). 102 calories, 2.8 grams fat (0.8 g
+  sat, 1.2 g mono, 0.6 g poly), 40 mg cholesterol, 169 mg sodium. Source:
+  "Cooking Light" magazine - January/February, 1993 Reformatted by: CYGNUS,
+  HCPM52C
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

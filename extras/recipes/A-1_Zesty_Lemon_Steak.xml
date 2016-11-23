@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A-1 Zesty Lemon Steak</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Grill/outdo</cat>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>A-1® Steak Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated lemon peel</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Coarsley ground black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>4-6 oz. beef shell or strip steaks; about 1" thick</item></ing></ingredients>
+    <directions>
+      <step>  In samll bowl, combine steak sauce, lemon peel, garlic and pepper; brush on
+  both sides of steaks. Grill steaks over Medium heat for 15 minutes on each
+  side or until done, brushing with sauce occasionally. Serve immediately.
+  Serves 4.
+  
+  Recipe by: A-1 Steak Sauce recipe
+  
+  Posted to MC-Recipe Digest V1 #1050 by Roberta Banghart
+  &lt;bobbi744@sojourn.com&gt; on Jan 25, 1998
+ 
+</step></directions></recipe></recipeml>

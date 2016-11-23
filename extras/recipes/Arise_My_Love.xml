@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arise My Love</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Valentines</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Creme de menthe; (green)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chilled champagne</item></ing></ingredients>
+    <directions>
+      <step>  1. Pour Creme de Menthe into a champagne flute and then fill with
+  champagne.
+  
+  Recipe by: http://www.sugarplums.com/ezine/romanticfoods.html
+  
+  Posted to recipelu-digest Volume 01 Number 586 by RecipeLu
+  &lt;recipelu@geocities.com&gt; on Jan 23, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Steak and Lima Beans</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Vegetables</cat>
+        <cat>Main dish</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Dry Lima Beans</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Slices Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>18</qty>
+          <unit>ounces</unit></amt>
+        <item>(1 cn) Tomato Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt, Or To Taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Round Steak (cutin 1"strips)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Packed Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dry Mustard</item></ing></ingredients>
+    <directions>
+      <step>  Rinse beans; add 6 cups of water.  Bring to a boil; simmer 5 minutes.
+  Remove from heat; let stand, covered, 1 hour. Do not drain. After 1 hour
+  cover, simmer 30 minutes. In Dutch oven, cook bacon til crisp. Drain,
+  reserve drippings.  Crumble bacon; set aside. Coat beef with flour. Brown
+  beef in hot drippings, pour off excess fat. Stir in beans and onion.
+  Combine toamto juice, brown sugar, salt, peper and mustard. Pour over beans
+  and beef mizture.  Bake covered in 325 degree F. oven til tender, about 1
+  1/2 to 2 hours. Serve hot topped with crunbled bacon and grated cheese to
+  taste.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

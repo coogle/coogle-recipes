@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Wine</title>
+      <categories>
+        <cat>Penndutch</cat>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Apricot, dried</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>quarts</unit></amt>
+        <item>Water, warm</item></ing>
+      <ing>
+        <amt>
+          <qty>6 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Ginger</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Lemon, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Orange, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Yeast</item></ing></ingredients>
+    <directions>
+      <step>  Wash the apricots in several waters and then dry them and cut in halves.
+  Place in a large crock and pour on the warm water, reserving 1/2 cup of it
+  in which to dissolve the yeast cake. Stir in the sugars, fruit, raisins and
+  ginger. Then add the dissolved yeast and mix well. Cover with top of the
+  crock and let stand for thirty days, stirring the mixture every other day.
+  After thirty days strain the mixture and bottle. Source: Pennsylvania Dutch
+  Cook Book - Fine Old Recipes, Culinary Arts Press, 1936.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

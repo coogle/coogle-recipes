@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Trio of Pizzas Abm</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Main dish</cat>
+        <cat>Kooknet</cat>
+        <cat>Cyberealm</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PESTO DOUGH</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Pesto Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water; (or more if needed)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Olive Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cornmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Yeast</item></ing></ing-div>
+      <ing-div>
+        <title>SUN-DRIED TOMATO DOUGH</title>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit/></amt>
+          <item>Oil-Packed Sun-Dried Tomatoes with Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sun-Dried Tomato Paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water; (or more)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Olive Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cornmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Yeast</item></ing></ing-div>
+      <ing-div>
+        <title>GARLIC DOUGH</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Garlic Paste</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water; (or more)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Olive Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cornmeal</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Yeast</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPINGS</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pizza Sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Parmigiano-Reggiano Cheese; grated</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place desired dough ingredients in machine and program for knead and first
+  rise. Press start. Dough will be soft at first but become firmer. Preheat
+  the oven to 500øF with the rack in the center position. Turn 17 x 11" pan
+  upside down. Spray with vegetable cooking spray. Cut dough in half and
+  cover remaining half with a clean towel. Place the other half on the
+  prepared pan and use rolling pin to roll the dough evenly to the edge. Have
+  a friend hold the pan or place a wet towel underneath. Spread with sauce
+  and sprinkle with cheese. Bake for 8 to 10 minutes.
+  
+  Source: Pizza Etc. From Your Bread Machine Typed by Meg Antczak, Fido
+  Cooking Conference 07-19-95 Revised for Meal-Master Format by Katherine
+  Smith
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

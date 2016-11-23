@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon, Lettuce and Salsa Sandwich</title>
+      <categories>
+        <cat>Ew</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salsa</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Washed arugula leaves</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Wide slices of toasted good Italian bread, cut on bias</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Thinly sliced or grated White cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crisp cooked turkey bacon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Slices of avocado</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped cilantro</item></ing></ingredients>
+    <directions>
+      <step>  In a mixing bowl combine some mayonnaise with salsa and spread on toast.
+  Build up a layer of bacon, arugula, cheddar and top with avocado and
+  cilantro.
+  Recipe By     :COOKING MONDAY TO FRIDAY SHOW #MF6600
+  
+  Posted to MC-Recipe Digest V1 #247
+  
+  Date: Wed, 16 Oct 1996 14:43:36 -0400
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

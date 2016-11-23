@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Violet Souffle</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>9</qty>
+          <unit>ounces</unit></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>drops</unit></amt>
+        <item>Violet essence</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Candied violets; crushed or chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Granulated sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Confectioner's sugar</item></ing></ingredients>
+    <directions>
+      <step>  Beat sugar and yolks together until pale and thick. Add violet essence and
+  candied violets. Whip egg whites with salt to stiff peaks. Fold together.
+  
+  Butter the inside of a large souffle dish and coat with as much sugar as
+  will stick to the butter. Pour souffle mixture in. Bake 15 minutes at 400.
+  Sprinkle confectioner's sugar over the top and return to oven for 5 more
+  minutes. Serve hot.
+  
+  You may substitute 1/3 c of liquor (rum or bourbon, for example) or up to
+  1/2 c of liqueur (orange or apricot brandy or Grand Marnier, for example)
+  for the violet essence and candied violets. In most of these cases you
+  might want to add 1/2 t or so of vanilla as well.
+  
+  Posted by Michael Loo to the Fidonet Cooking echo
+  
+  Posted to MM-Recipes Digest  by "Rfm" &lt;Robert-Miles@usa.net&gt; on May 03, 98
+ 
+</step></directions></recipe></recipeml>

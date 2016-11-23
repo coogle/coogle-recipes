@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andrea Cassoni's Buckeyes</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>Christmas</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Smooth peanut butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Confectioners' sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Rice krispies</item></ing></ingredients>
+    <directions>
+      <step>  Mix the ingredients together. Make small balls, and coat with 1 package of
+  chocolate chips and 1/4 bar of paraffin wax melted together in a double
+  boiler. Dip each in the mixture, and put on wax paper to cool.
+ 
+</step></directions></recipe></recipeml>

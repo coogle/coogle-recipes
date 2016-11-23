@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cheddar Shortcake</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Cheese</cat>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SHORTCAKE</title>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Biscuit Mix; Bisquick</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Cheddar; Sharp, Shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Butter; Melted</item></ing></ing-div>
+      <ing-div>
+        <title>APPLE TOPPING</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Brown Sugar; Packed</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cornstarch</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon; Ground</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Apples; Peeled,Cored, Sliced</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Heavy Cream; Whipped</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Heat the oven to 425 degrees F.  Combine the biscuit mix and the cheddar
+  cheese then stir in the milk and butter.  Spread the dough into two
+  greased 8-inch layer pans and bake in the preheated oven for 20 minutes.
+  Combine the brown sugar, cornstarch, cinnamon and salt in a large
+  saucepan.  Stir in the water and cook until clear and thickened.  Att the
+  apples, cover and simmer until the apples are tender.  Spoon half of the
+  apple mixture over one layer.  Top with the second layer and remaining
+  apples.  Serve warm with whipped cream for a topping.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcheese.zip
+ 
+</step></directions></recipe></recipeml>

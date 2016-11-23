@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Potato Salad</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Potatoes</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Potatoes, new, small</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Celery stalks</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple, Delicious</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Dressing, No-Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dill (optional)</item></ing></ingredients>
+    <directions>
+      <step>  Slice the potatoes into bitesize pieces and boil until tender, but not
+  soft.  Peel the apple and slice into bitesize pieces (sprinkle with lemon
+  juice until ready to use). Chop the celery finely. Cool the potatoes by
+  draining and placing in pan of ice water. Combine all ingredients and mix
+  with dressing and dill if desired. I used Medford Farms (tm) Creamy Dill
+  No-Oil Dressing. Chill several hours. Quick and delicious.
+  
+  From the recipe file of Val Rowe MM 6/12/93
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

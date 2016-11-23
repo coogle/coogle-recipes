@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Cookie Shells</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Cookies</cat>
+        <cat>Masterchefs</cat>
+        <cat>Frisco</cat>
+        <cat>M</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds, sliced, toasted</item></ing></ingredients>
+    <directions>
+      <step>       Put the egg whites in a bowl and beat them briefly.
+  
+       Add the sugar and flour, then whisk.  Stir in the almonds.
+  
+       Butter a sheet pan and spoon tablespoons of mixture onto the pan.
+  Spread the spoonfuls on the sheet slightly with the back of a spoon to
+  form circles about 2 inches apart.
+  
+       Bake in a 350 F oven for 5 - 7 minutes.  Remove from oven and while
+  still hot, you can mold the cookies into small cups by placing them over
+  small cups, or shot glasses, or even the back of a muffin tin.   Set aside
+  to dry.
+  
+       When dry, the almond cookies can be eaten as is, or in my favorite
+  way which is to fill them with mousse of some kind - or even ice cream or
+  yogurt (if you eat hurriedly before they soften.)  ;-)
+  
+       Source:  Great Chefs of San Francisco, Avon Books, 1984
+  
+       Chef:   Masataka Kobayashi, Masa's, Vintage Court Hotel,
+       :       San Francisco, CA
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-sf.zip
+ 
+</step></directions></recipe></recipeml>

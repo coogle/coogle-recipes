@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Sausage Soup</title>
+      <categories>
+        <cat>Soups</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Dry small white beans (navy or great northern) soaked</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chicken bouillon granules</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Hot sausage sliced 1/2 inch thick</item></ing>
+      <ing>
+        <amt>
+          <qty>8 3/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned garbanzo beans drained</item></ing>
+      <ing>
+        <amt>
+          <qty>8 3/4</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned cream-style corn</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Chopped parsley</item></ing></ingredients>
+    <directions>
+      <step>  Drain and rinse soaked beans. Saute onion and garlic in oil until
+  tender. Add water, onion and seasonings. Simmer, covered, about 30
+  minutes or until beans are almost tender. Add sausage, garbanzo beans
+  and corn. Return mixture to boil; simmer 30 minutes or until beans are
+  tender.  Remove bay leaf. Garnish with parsley. Makes 4 or 5 servings.
+  
+  Copyright IDAHO BEAN COMMISSION  P.O.Box 9433...Boise, Idaho 83707
+  &lt;Electronic format by Karen Mintzias&gt;
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/id_beans.zip
+ 
+</step></directions></recipe></recipeml>

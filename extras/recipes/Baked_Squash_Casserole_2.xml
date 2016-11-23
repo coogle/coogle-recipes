@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Squash Casserole</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Casserole</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Yellow squash</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ener-G Egg Replacer</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onion, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Green pepper, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Light Whole Wheat Roll, crumb</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dash of pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Brown Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt, as desired</item></ing></ingredients>
+    <directions>
+      <step>  Directions: Cut off tips of squash, cut each squash into 3-4 pieces. Drop
+  squash into a large saucepan with enough boiling water to cover. Return to
+  a boil, reduce heat and cook until tender. Mash, reserving liquid. Combine
+  squash and liquid with egg replacer, bread crumbs, sugar, salt, onion and
+  pepper.  Turn into a 3 quart casserole that has been lightly greased or
+  sprayed with non-stick vegetable spray. Cover with a light layer of crumbs.
+  Bake at 350 degrees until lightly browned. Makes 10 servings. Files of
+  Alice in Houston, update old Family Recipe 5/11/93
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

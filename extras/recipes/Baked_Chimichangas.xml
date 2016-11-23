@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chimichangas</title>
+      <categories>
+        <cat>"sedona"</cat>
+        <cat>Mexican</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>12-inch flour tortillas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Lean ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(15-oz) black beans; drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(7-oz) diced green chilies; undrained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Green onions; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(4-oz) sliced black olives; drained</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lettuce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Shredded cheddar or jack cheese</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salsa (your favorite)</item></ing></ingredients>
+    <directions>
+      <step>  In a skillet thoroughly cook the meat, drain and set aside. In the same
+  skillet combine and saute lightly the beans, chiles, onions and olives. Add
+  the cooked meat to the mixture and stir. Evenly distribute the meat mixture
+  onto each tortilla, fold tortillas like an envelope and place folded side
+  down on baking sheet. Bake 30-35 minutes in a 400 degree oven. Serve
+  garnished with the lettuce, cheese and salsa.
+  
+  Recipe by: http://www.firstcyberkitchen.com/dot.htm Posted to MC-Recipe
+  Digest V1 #697 by Rooby &lt;MsRooby@sprintmail.com&gt; on Jul 29, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Pecan Pie</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Crisp round cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pecans (chopped)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Almond flavoring</item></ing></ingredients>
+    <directions>
+      <step>  Beat egg whites until foamy.  Add 1 cup sugar a little at a time, beating
+  after each addition.  Add 1 teaspoon vanilla. Continue beating until
+  mixture holds soft peaks. Mix cracker cumbs and 1 cup pecans. Fold into
+  meringue mixture a little at a time.  Spoon mixture into an 8" pie plate tp
+  form a shell.  Pull up mixture into peaks around edge of plate with mack of
+  spoon.  Spread evenly.  Bake in a moderate oven, 350 F, for 30 minutes.
+  Cool thoroughly on a wire cake rack. Mix cream, 2 tablespoons sugar, 1
+  teaspoon vanilla and almond flavoring. Whip until thick and shiny. Spoon
+  into cold pie shell. Sprinkle remaining 1/2 cup chopped pecans round edge
+  of cream.  Using a sharp knife, cut like a pie.
+  
+  Makes 6 - 8 servings
+  
+  SOURCE: Mama's Favorite Recipes (Frances Turfitt) Shared by Nancy Coleman
+ 
+</step></directions></recipe></recipeml>

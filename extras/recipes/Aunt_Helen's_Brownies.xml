@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aunt Helen's Brownies</title>
+      <categories>
+        <cat>Brownies</cat>
+        <cat>Chocolate</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Stick Oleo</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Hershey's Syrup</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing></ing-div>
+      <ing-div>
+        <title>FROSTING</title>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Oleo</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix in order given and bake at 350 degrees F about 30 minutes in 9 x 13
+  inch pan.
+  
+  Frosting: 1 1/3 c Sugar
+      1/3 c  Milk 6 Tb Oleo Boil for 2 minutes - remove from heat and add 6
+  oz bag of chocolate chips and stir until melted (you can add 1/2 cup of
+  chopped nuts to frosting) Spread while Brownies are warm.
+  
+  NOTES : Aunt Helen said that she starts the frosting after she takes
+  brownies from oven - frost right away while still warm.
+  Recipe by: Helen Patton (Jim's Aunt)
+  
+  Posted to recipelu-digest by Chtbaby &lt;Chtbaby@aol.com&gt; on Mar 10, 1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Carrot Cake</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Cakes</cat>
+        <cat>Snacks</cat>
+        <cat>Fruits</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole wheat flour; self-rising</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Walnuts; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Dessert apples; peeled cored grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Carrot; grated</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated peel of 1 orange</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Eggs;*</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh orange juice;</item></ing></ingredients>
+    <directions>
+      <step>  Line the base and grease of a loaf pan with 4 cup capcity. Preheat
+  the oven to 350 degrees. Place the flour in a bowl and mix well, then
+  cut in the margarine and stir in the cinnamon. Stir in the walnuts,
+  raisins, apples and carrot. Add the orange peel, eggs and juice, then
+  beat well until thoroughly combined. Spoon the mixture into the
+  prepared pan, smooth the top and bake for about 1 1/4 hours, or until
+  the cake is well risen and firm to touch.  Turn out on a wire rack.
+  
+  Food Exchanges are not listed with the recipes in this book.
+  
+  Source: The Diabetic Cookbook by Brigdet Jones.
+  
+  Brought to you and yours via Nancy O'brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

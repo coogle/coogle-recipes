@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Bread Dip</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Dips</cat>
+        <cat>Fruits</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ripe Bananas; Mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla Extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Quick Oatmeal; Uncooked, *</item></ing></ingredients>
+    <directions>
+      <step>  *   Do NOT use the instant packets for the oatmeal. Use the Quick Oats.
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++++++
+  Mix the bananas and lemon juice, blending well. Add all of the other
+  ingredients, blending well. Serve immediately. Makes about 2 cups of dip.
+  SUGGESTED DIPPERS:  Fresh Or Dried Fruit, Chocolate Wafers, Pound Cake
+  Cubes, Vanilla Wafers
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

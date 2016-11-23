@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acquasale (Sweet Pepper Sauce)</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Italian</cat>
+        <cat>Pasta</cat>
+        <cat>Appetizers</cat>
+        <cat>Sauces</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Red onion, finely sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Garlic clove, finely minced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Red bell peppers, roasted, ribs, membranes &amp; seeds removed &amp; cut into 1/2" slices</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>medium</unit></amt>
+        <item>Tomatoes, seeded &amp; cut into chunks</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Fresh breadcrumbs, optional</item></ing></ingredients>
+    <directions>
+      <step>  Warm the olive oil in a large heavy saute pot.  Add the red onion &amp; saute
+  over a low heat until the onion becomes limp &amp; translucent. Add the garlic
+  &amp; saute briefly. Stir in the pepper strips &amp; sweat them over low heat for
+  20 to 25 minutes.  Add the tomatoes &amp; salt &amp; cook another 2 to 3 minutes.
+  Cool to room temperature. Put the mixture in a food processor &amp; pulse about
+  30 times.  DO NOT PUREE. If it seems too moist, add the breadcrumbs. Serve
+  either as an antipasto, or as a main dish with pasta or polenta. Or, add
+  stock &amp; serve as a soup.
+  Posted to MM-Recipes Digest V5 #024 by "John Weber" &lt;hdbrer@ibm.net&gt; on Jan
+  24, 98
+ 
+</step></directions></recipe></recipeml>

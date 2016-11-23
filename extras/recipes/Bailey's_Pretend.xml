@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bailey's Pretend</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Creme de Cacao</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Kahlua</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Vodka</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Gin</item></ing></ingredients>
+    <directions>
+      <step>  Mix it all, and serve over ice.
+  
+  Posted on GEnie Food &amp; Wine RT Jan 09, 1992 by M.SOLINAS [Solinas]
+  
+  MM by QBTOMM and Sylvia Steiger, GEnie THE.STEIGERS, CI$ 71511,2253, GT
+  Cookbook echo moderator, net/node 004/005
+  
+  Date: Wed, 26 Jun 96 07:58:57
+  
+  From: dlassiter@atsva.com
+  
+  MC-Recipe Digest V1 #130
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

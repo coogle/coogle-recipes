@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baking Powder Biscuits</title>
+      <categories>
+        <cat>Master mix</cat>
+        <cat>Biscuits</cat>
+        <cat>Jewel</cat></categories>
+      <yield>18</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Bake-it-all mix*</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing></ingredients>
+    <directions>
+      <step>  *Do not pack
+       Make a well in the Mix.  Add milk and stir with a fork, about 25
+  strokes.  Turn onto a sheet of waxed paper. Knead well 6 times. Roll out or
+  pat to 1/2 inch thickness on a lightly floured pastry cloth or board. Cut
+  into 2-inch rounds with floured cutter. Place on a cooky sheet. Bake in a
+  450 F. oven 10 to 12 minutes. Yield: 18 biscuits, 2 inches in diameter
+  NOTE:  for 6 biscuits, use 1 cup Mix with 1/4 cup milk.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

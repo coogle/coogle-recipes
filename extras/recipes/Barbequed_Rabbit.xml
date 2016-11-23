@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbequed Rabbit</title>
+      <categories>
+        <cat>Game</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Rabbit</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  From: mariusj@best.com (Marius Johnston)
+  
+  Date: Fri, 26 Jul 1996 17:04:16 -0700
+  The short of it is is that BBQ has been with us since the dawn of man.  BBQ
+  as a conscious act, not just as the way to cook, is older than the 40's.
+  The book I mentioned earlier, Housekeeping in Old Virginia (1879)
+  specifically mentions Barbecue For example:
+  
+  Lay the rabbit in salt and water half an hour, scald with boiling water,
+  wipe dry, grease with butter, and sprinkle with pepper and a little salt.
+  Lay it on the gridiron, turning often so that it may cook through and
+  through, without becoming hard and dry. When brown, lay on a hot dish,
+  butter plentifully on both sides, and add a little salt and pepper. Set in
+  the oven, while preparing four teaspoonfuls of vinegar, one of made
+  mustard, and one of currant jelly or brown sugar. Pour this over the
+  rabbit, rubbing it in, then pour over the gravy and serve hot.
+  
+  7bq-digest V2 #050
+  
+  From the BBQ recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

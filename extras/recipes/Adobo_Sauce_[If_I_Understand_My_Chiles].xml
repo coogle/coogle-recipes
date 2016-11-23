@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Adobo Sauce [If I Understand My Chiles]</title>
+      <categories>
+        <cat>Sauce</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Dried ancho chiles; stems and seeds removed [really Pasilla chiles]</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Dried Pasilla; stem and seeds removed [really negro chiles]</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Veggie oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Distilled white vingegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  From: mariusj@best.com (Marius Johnston)
+  
+  Date: Wed, 31 Jul 1996 21:29:22 -0700
+  Cover chiles with hot water, let sit for 15 min. Combine chiles, and 1/4 to
+  1/2 cup of the water they were soaking in, onion, garlic, oregano and cumin
+  in a blender and puree. Saute the mixture in oil for 5 min add vinegar and
+  sugar and bring to a boil. Reduce heat, simmer until thick about 5-8 min.
+  
+  Notes: Erica Wissolik &lt;EWISSOLIK@crs.loc.gov&gt; From the Chile-Heads Recipe
+  Collection URL: http://chile.ucdmc.ucdavis.edu:8000/www/recipe.html
+  
+  bbq-digest V2 #060
+  
+  From the BBQ recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

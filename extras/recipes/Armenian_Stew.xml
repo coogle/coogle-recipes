@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Armenian Stew</title>
+      <categories>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dried Apricots Soaked in</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water for 1 Hour.</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dried Garbanzo Beans Soaked</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Overnight in Water</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Lentils</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Onions Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Malt Syrup or Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1.</qty>
+          <unit>in</unit></amt>
+        <item>a Large Pan, Bring Soaked Apricots and Their Water To a Boil. add</item></ing></ingredients>
+    <directions>
+      <step>  Soaked, Drained Garbanzo Beans and 1 C. Water. Bring To a Boil and Cook for
+       30    Minutes.
+    2.  add the Lentils, Onions and 4 C. Water To Pot. Bring To a Boil. Lower
+  Heat, Cover and Cook Ubout 2 Hours until Garbanzos Are Tneder. add 2 t.
+  Malt Syrup. Mix in Well. Serve Over Brown Rice.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

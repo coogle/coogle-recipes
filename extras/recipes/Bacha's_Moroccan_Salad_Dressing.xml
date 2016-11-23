@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacha's Moroccan Salad Dressing</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Moroccan</cat>
+        <cat>Salads</cat>
+        <cat>Dressings</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice*</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>small</unit></amt>
+        <item>Garlic cloves, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sweet red pepper**</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Hot red pepper***</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Italian parsley, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cilantro, chopped</item></ing></ingredients>
+    <directions>
+      <step>  Mix together all the ingredients &amp; let sit for a while to allow the
+  flavours to marry.  Then use. * Or replace with wine vinegar ** I use
+  Hungarian paprika, it's sweeter than Spanish *** I use cayenne. You need
+  the hot to contrast with the sweet.
+ 
+</step></directions></recipe></recipeml>

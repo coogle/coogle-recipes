@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Stuffed Eggs</title>
+      <categories>
+        <cat>Breakfasts</cat>
+        <cat>Casseroles</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>STUFFED EGGS</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit/></amt>
+          <item>Hard-boiled egg</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sour cream; 3-4 Tbls</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Prepared mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Onion; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>10 3/4</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream of mushroom soup; condensed</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cheddar cheese; shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Paprika</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Slice eggs in half lengthwise; remove yolks and set whites aside. In a
+  bowl, mash yolks with a fork. Add sour cream, mustard and salt; mix well.
+  Fill the egg whites, set aside. In a saucepan, saute onion in butter until
+  tender. Add soup and sour cream; mix well. Pour half into an ungreased
+  11x7x2" baking pan.
+  
+  Arrange stuffed eggs over the sauce. Spoon remaining sauce on top. Sprinkle
+  with cheese and paprika. Cover and refrigerate overnight. Remove from the
+  refrigerator 30 min. before baking. Bake, uncovered at 350F for 25-30 min.
+  or until heated through. Serve immediately.
+  
+  Per serving: 314 Calories; 26g Fat (76% calories from fat); 12g Protein; 7g
+  Carbohydrate; 281mg Cholesterol; 851mg Sodium
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by #ebburtis
+  &lt;ebburtis@ix.netcom.com&gt; on Dec 29, 97
+ 
+</step></directions></recipe></recipeml>

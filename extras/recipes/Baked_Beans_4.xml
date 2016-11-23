@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Beans</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Pork and beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(8 oz) tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion, chopped into small pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon, cut into small pieces</item></ing></ingredients>
+    <directions>
+      <step>  Mix all ingredients together. Place in 2 qt casserole dish with cover and
+  bake at
+      400    degrees for one hour.
+  
+  Recipe by: Norma Jamieson, Nashville, TN
+  
+  ( I also like to mix the ingredients and place in a crockpot on low temp
+  until done.) Posted to TNT - Prodigy's Recipe Exchange Newsletter by
+  katiescarlett1@juno.com (L J G) on Jul 7, 1997
+ 
+</step></directions></recipe></recipeml>

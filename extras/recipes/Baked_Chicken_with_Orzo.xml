@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken with Orzo</title>
+      <categories>
+        <cat>Greek</cat>
+        <cat>Poultry</cat>
+        <cat>Pasta</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Frying chicken, quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Orzo</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Plain yogurt</item></ing></ingredients>
+    <directions>
+      <step>  Place the chicken in a shallow roasting pan, skin side up.  Add 1/3 cup
+  water.  Dot with butter.  Salt and pepper to taste.  Bake in 350 F oven 1
+  hour.  Fifteen minutes before chicken is done, bring 2 quarts of water to
+  boil, stir in orzo, 1/2 teaspoon salt and oil.  Parboil 5 minutes.  Drain
+  orzo in colander.  Rinse in cold water.  Drain.  Remove baked chicken from
+  oven.  Place in dish.  Cover tightly with heavy-duty foil. Set aside. Turn
+  oven to 425 F.  Add 1 cup water and broth to roasting pan.  Stir to loosen
+  drippings.  Add tomato paste, 1 teaspoon salt, pepper and drained orzo.
+  Bake 30 minutes or until orzo has absorbed liquid and is tender. Adjust
+  salt.  Spinkle orzo with Parmesan cheese or dollops of yogurt. Serve with
+  baked chicken.
+  
+  From: "Classic Greek Cooking" by Daphne Metaxas.  ISBN: 0-911954-31-7 Typed
+  for you by Karen Mintzias
+  Sent to me by Bill &lt;wight@odc.net&gt;
+ 
+</step></directions></recipe></recipeml>

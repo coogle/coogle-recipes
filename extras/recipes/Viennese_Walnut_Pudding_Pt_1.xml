@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Viennese Walnut Pudding Pt 1</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>COFFEE-VANILLA CREAM</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Heavy cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Fresh roasted coffee beans</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Vanilla bean; split in half lengthwise</item></ing></ing-div>
+      <ing-div>
+        <title>VIENNESE WALNUT PUDDING</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Butter and sugar; for custard cups</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Semisweet chocolate; coarsely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Dark rum</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Instant coffee granules</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Plain dried bread crumbs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Walnuts</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>5</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Unsalted butter; softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Confectioners' sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>large</unit></amt>
+          <item>Egg yolks plus 4 large egg whites, at room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Granulated sugar</item></ing></ing-div>
+      <ing-div>
+        <title>CHOCOLATE GLAZE</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Semisweet chocolate; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Plus 3 tablespoons heavy cream</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Light corn syrup</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla extract</item></ing></ing-div>
+      <ing-div>
+        <title>HALF-DIPPED WALNUTS</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Walnut halves</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  YIELD: 6 servings DIFFICULTY: ** PREPARATION: 1 hour plus chilling and
+  baking times. Allow the coffee-vanilla cream to chill for at least 6 hours
+  or overnight.
+  
+  Make the coffee-vanilla cream:
+  
+  1.In a medium saucepan, combine the cream, coffee beans, sugar and vanilla
+  bean. Cook over medium heat, stirring constantly with a wooden spoon, until
+  the sugar is completely dissolved. Stop stirring and bring the mixture to a
+  gentle boil. Pour the hot cream mixture into a small noncorrosive bowl. Let
+  the mixture cool for 15 minutes.
+  
+  2.Cover the surface of the cream mixture with plastic wrap and refrigerate
+  for at least 6 hours or overnight.
+  
+  Make the Viennese walnut pudding:
+  
+  1.Position a rack in the center of the oven and preheat to 350 degrees F.
+  Lightly butter and sugar six 6-ounce custard cups. Put the cups in a
+  high-sided roasting pan large enough to hold them easily.
+  
+  2.Melt the chocolate with the rum, water and coffee according the melting
+  instructions given in the Chocolate Melting Tips. Whisk gently until smooth
+  and let the melted chocolate mixture cool for 5 to 10 minutes, until tepid.
+  
+  3.In a food processor fitted with the metal chopping blade, combine the
+  bread crumbs, walnuts and salt. Process for 10 to 20 seconds until the nuts
+  are finely ground. Scrape the mixture into a small bowl.
+  
+  4.In a large bowl, using a hand-held electric mixer set at medium speed,
+  beat the butter and confectioners' sugar for 1 to 2 minutes, until creamy.
+  Beat in the vanilla. One at a time, beat in the egg yolks, beating well
+  after each addition. Add the melted chocolate mixture and beat until
+  smooth.
+  
+  5.In a large grease-free bowl, using a hand-held electric mixer and clean
+  beaters, beat the egg whites at low speed until frothy. Gradually increase
+  the speed to high and beat the whites until soft peaks start to form. One
+  teaspoon at a time, gradually add the granulated sugar and continue beating
+  the whites until stiff, shiny peaks form.
+  
+  6.Using a rubber spatula, fold one third of the whites into the chocolate
+  mixture to lighten it. Fold in the remaining whites with the bread crumb/
+  walnut mixture.
+  
+  7.Divide the pudding equally among the prepared cups. Remove one of the
+  corner cups from the roasting pan. Hold a metal pancake spatula vertically
+  inside that corner of the roasting pan and slowly pour the water against
+  the spatula into the roasting pan. (The spatula will prevent the water from
+  splashing the other cups.) Pour in enough water to come one-half of the way
+  up the sides of the cups. Replace the cup in the roasting pan.
+  
+  8.Bake for 25 to 35 minutes, until a wooden toothpick inserted into the
+  center of each pudding comes out clean. Remove the roasting pan from the
+  oven and leave the puddings in the water bath to keep warm while preparing
+  the chocolate glaze.
+  
+  continued in part 2
+ 
+</step></directions></recipe></recipeml>

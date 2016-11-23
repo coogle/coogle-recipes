@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Cheese Waffles</title>
+      <categories>
+        <cat>Cheese/eggs</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>(8 oz.) sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Butter or margarine, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Pancake or biscuit/baking mix</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>To 8 bacon strips, cooked and crumbled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>(4 oz.) shredded cheddar cheese</item></ing></ingredients>
+    <directions>
+      <step>  In a medium bowl, beat egg; add milk, sour cream and butter. Stir in
+  pancake mix; mix well.  Fold in bacon and cheese. Bake in a preheated
+  waffle iron according to manufacturer's directions until golden brown.
+  Yield: 12 waffles (4 inch square)  Typed in MMFormat by cjhartlin@msn.com
+  Source: Taste of Home Quick Cooking
+  Posted to MM-Recipes Digest V5 #028 by "Cindy Hartlin"
+  &lt;cjhartlin@email.msn.com&gt; on Jan 28, 1998
+ 
+</step></directions></recipe></recipeml>

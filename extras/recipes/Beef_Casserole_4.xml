@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Casserole</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Casseroles</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Golden mushroom soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Onion soup (not creamed)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of celery soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cans</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Beef stew meat (cut in small</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pieces)</item></ing></ingredients>
+    <directions>
+      <step>  Put all 3 soups, can of water and stew meat in covered casserole. You do
+  not have to brown meat before baking. Cook 4 to 5 hours at 325 degrees.
+  This makes a delicious gravy without adding anything else.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

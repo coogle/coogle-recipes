@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banshee</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Mixed drink</cat>
+        <cat>Bartenders</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Creme de banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Creme de cacao</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Sweet cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed ice</item></ing></ingredients>
+    <directions>
+      <step>  Combine liquid ingredients with crushed ice in a mixing glass. Shake and
+  strain into cocktail glass.
+  
+  Recipe by: Joe Robertson
+  
+  Posted to recipelu-digest by Badams &lt;adamsfmle@sprintmail.com&gt; on Feb 22,
+  1998
+ 
+</step></directions></recipe></recipeml>

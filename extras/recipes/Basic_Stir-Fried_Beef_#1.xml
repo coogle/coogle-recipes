@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Stir-Fried Beef #1</title>
+      <categories>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Vegetables</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Or</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Fresh ginger root</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Stock</item></ing></ingredients>
+    <directions>
+      <step>  1. Slice beef thin against the grain. Combine cornstarch, soy sauce, sherry
+  and sugar. Add to beef and toss to coat. Let stand 15 minutes, turning
+  occasionally.
+  
+  2. Slice vegetables. Mince ginger root.
+  
+  3. Heat oil. Add beef and stir-fry until it loses its redness (about 2
+  minutes). Remove from pan.
+  
+  4. Heat remaining oil. Add salt, then ginger root and stir-fry a few times.
+  Add vegetables and stir-fry to heat and coat with oil.
+  
+  5. Stir in stock and heat quickly. Cook, covered, over medium heat, until
+  vegetables are nearly done.
+  
+  6. Return beef and stir-fry to reheat and blend flavors (about 1 minute
+  more). Serve at once.
+  
+  NOTE: Any vegetable can be used (see "Cooking Instructions for Vegetables"
+  for details on cooking time). For suggested combinations, see "Basic
+  Stir-Fried Vegetable Combinations". VARIATIONS:
+  
+   In step 1, add to the cornstarch mixture 1 egg, beaten.
+  
+   Omit the cornstarch, sherry and sugar, and double the soy sauce instead.
+  Toss beef in the soy, then dip in beaten egg.
+  
+   In step 3, before adding beef, add 1 garlic clove, crushed; and 1 scallion
+  stalk, in 1/2-inch sections, and stir-fry a few times.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

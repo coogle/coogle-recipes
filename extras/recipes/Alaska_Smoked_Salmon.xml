@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alaska Smoked Salmon</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Salmon; fresh</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Rock salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>packages</unit></amt>
+        <item>(2-pound) light brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>(5-pound) hickory chips; fine</item></ing></ingredients>
+    <directions>
+      <step>   Cut strips of salmon lengthwise, two-inches wide.  Score thickest parts.
+  Keep belly parts for last 20 minutes of marinating (belly section is
+  thinner, requiring less soaking).
+  
+   Add rock salt and brown sugar in plastic bucket, filled 2/3 with water.
+  Stir to dissolve.
+  
+   Soak all salmon pieces, except belly, in brine for one hour.  Stir
+  occasionally.  Add belly strips during last 20 minutes.
+  
+   Remove fish strips and smoke with hickory chips for eight hours, being
+  sure salmon strips are placed in highest position in smoker.
+  
+  From a book of my mother's (Judy Hosey) titled &lt;Senator Richard Matsuura's
+  Favorite Recipes&gt;, mostly Japanese and Hawaiian.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

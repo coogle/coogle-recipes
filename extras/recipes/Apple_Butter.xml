@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Butter</title>
+      <categories>
+        <cat>Breakfast</cat>
+        <cat>Fruits</cat>
+        <cat>Dressings</cat>
+        <cat>Low-fat</cat>
+        <cat>Mcdougall</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>32</qty>
+          <unit>ounces</unit></amt>
+        <item>Applesauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground allspice</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: McDougall Combine all ingredients. Place in saucepan. Cook
+  uncovered over low heat at least 1 hour to thicken and blend flavors. Pour
+  into covered container and refrigerate. Use as a spread on toast, muffins,
+  crackers.
+  
+  HELPFUL HINTS: Also makes a delicious fruit syrup for waffles and pancakes.
+  Just thin to desired consistency with a small amount of water.
+  From the collection of Sue Smith, S.Smith34, Uploaded June 16, 1994
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mcdougal.zip
+ 
+</step></directions></recipe></recipeml>

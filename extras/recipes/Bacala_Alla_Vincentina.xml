@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacala Alla Vincentina</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Bacala, soaked 48 hours</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>4 Changes Of Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Spanish onions, in 1/2" dice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Salted anchovies, fillets removed and soaked in milk for 4 hours</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Milk plus more, if necessary</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>bunches</unit></amt>
+        <item>Italian parsley, finely chopped</item></ing></ingredients>
+    <directions>
+      <step>  Cut soaked bacala into 2-inch squares and check for any bones.
+  
+  In a 12-inch frying pan, heat olive oil and butter over medium heat. Add
+  onions, anchovies and cinnamon and cook until onions are very soft but have
+  not browned, 10 to 12 minutes. Add bacala pieces, wine and milk and bring
+  to a boil. Lower heat to simmer and cook 1 hour, adding more milk if
+  mixture becomes dry. Add chopped parsley, check for seasoning and serve
+  with soft polenta.
+  
+  Yield: 4 servings
+  
+  Recipe by: Molto  Mario MB1D17 Posted to MC-Recipe Digest V1 #611 by Sue
+  &lt;suechef@sover.net&gt; on May 13, 1997
+ 
+</step></directions></recipe></recipeml>

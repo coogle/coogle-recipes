@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Sweet Dough #2</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Warm water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Active dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Beaten egg</item></ing></ingredients>
+    <directions>
+      <step>  From: Edward Tucker &lt;edwardt@SONIC.NET&gt;
+  
+  Date: Sun, 30 Jun 1996 07:43:08 -0700
+  In a small saucepan heat milk till bubbles start to form around edge of the
+  pan, add sugar and butter, stirring till butter and is melted, and sugar is
+  dissolved. Dissolve yeast in warm water in a large bowl. Cool milk mixture
+  till warm, then add it to the dissolved yeast mix. Add beaten egg and 1 1/2
+  cups of the flour, beat with spoon till smooth. Add the rest of the flour,
+  then turn out on a floured surface, and knead till dough is satiny and
+  elastic. Place in a greased bowl and let rise in a warm place till doubled
+  in bulk. Use for cinnamon swirls, sweet rolls etc.
+  
+  EAT-L Digest 29 June 1996
+  
+  From the EAT-L recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

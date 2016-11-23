@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Swiss Waffles</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Bisquick original baking mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded Swiss cheese (4 ounces)</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon; crisply cooked and crumbled (about 1/2 cup)</item></ing></ingredients>
+    <directions>
+      <step>   HEAT waffle iron; grease if necessary.  Beat baking mix, milk and eggs
+  with wire whisk or hand beater until smooth. Stir in cheese and bacon.
+  
+   POUR batter by scant 1 cupfuls onto center of hot waffle iron.
+  
+   BAKE until steaming stops and waffle is golden brown. Carefully remove
+  waffle. Twelve 4-inch squares.
+  
+  From &lt;Betty Crocker: Bisquick Classics and New Favorites&gt;.  Downloaded from
+  Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

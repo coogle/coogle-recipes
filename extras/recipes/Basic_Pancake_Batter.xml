@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Pancake Batter</title>
+      <categories>
+        <cat>Taste</cat>
+        <cat>Breads</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk, about</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, melted and cooled, plus extra for cooking</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Softened butter, for serving</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Maple syrup, room temperature, for serving</item></ing></ingredients>
+    <directions>
+      <step>  Recipe By : Taste Show # TS4754
+  
+  Heat a griddle or skillet until hot. Sift together flour, salt and baking
+  powder. Whisk together egg, milk and butter. Add egg mixture to the flour
+  and stir just to moisten -- the batter will be lumpy, do not overmix. If
+  too dry, add a few more spoonfuls of milk. Lower heat to medium-high and
+  lightly brush griddle with butter. Spoon in the batter, by 1/4 cupfuls,
+  spreading to 4-inch rounds. Cook until edges are dry and little bubbles
+  appear on the surface, about 2 minutes. Flip pancakes and cook second side
+  just until lightly browned. Transfer pancakes as they are made to warm
+  plates and serve immediately, with butter and syrup.
+  
+  Yield: 3 to 4 servings
+  
+  Copyright, 1997, TV FOOD NETWORK, G.P., All Rights Reserved Posted to
+  MC-Recipe Digest V1 #614 by Peggy Morgan &lt;75402.3465@compuserve.com&gt; on 97
+ 
+</step></directions></recipe></recipeml>

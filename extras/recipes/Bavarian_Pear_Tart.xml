@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Pear Tart</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>CRUST</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Butter;, softened</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Pecans;, chopped</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>packages</unit></amt>
+          <item>(8 oz) cream cheese;, softened</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cans</unit></amt>
+          <item>(29 oz) Bartlett pears;, sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 350 degrees. Mix the butter with the sugar and combine
+  well. Add the vanilla, flour, and nuts. Press in bottom of 9x13-inch baking
+  pan. Bake for 10 minutes. Remove from oven and set aside. Make filling by
+  combining the cream cheese with the eggs, blending well. Add the sugar and
+  vanilla and continue blending until smooth. Pour over the crust and smooth
+  over covering the crust. Place the pear slices over the filling and
+  completely cover; sprinkle with the sugar and cinnamon. Bake at 375 degrees
+  for about 25-30 minutes. Cool completely then refrigerate. Slice and serve.
+  
+  Recipe by: Rose Camacho
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 921 by Vince &amp; Rose Camacho
+  &lt;"vcamacho@gte.net"@gte.net&gt; on 8 Ja, n 1998
+ 
+</step></directions></recipe></recipeml>

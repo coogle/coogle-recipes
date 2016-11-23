@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arby's Horsey Sauce</title>
+      <categories>
+        <cat>Copycats</cat>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayo</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Bottled horseraddish cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar -- or</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Equal</item></ing></ingredients>
+    <directions>
+      <step>  Date: Mon, 20 May 1996 18:14:41 +0000
+  
+  From: "Wendy Lockman" &lt;wlockman@ra1.randomc.com&gt;
+  
+  Library system for More Top Secret Recipes and , 20 May 1996 18:14:41 +0000
+  
+  Mix all well. Keep refrigerated, tightly covered to use in 2 weeks. Do not
+  freeze. Source: Gloria Pitzer.
+  
+  Posted to MealMaster Recipes List, Digest #141
+ 
+</step></directions></recipe></recipeml>

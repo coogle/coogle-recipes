@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Bread</title>
+      <categories>
+        <cat>Ew</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Store bought pizza dough</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Pesto</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 400 degrees. On a greased baking sheet, roll pizza into a 9
+  x 13 rectangle. Brush pesto over entire surface. Roll the dough lengthwise
+  to form a log. Brush surface with olive oil and bake for 30 minutes. Slice
+  on the diagonal to show spiral pattern. Serve.
+  Recipe By     :FROM MY GARDEN SHOW #F5540
+  
+  Posted to MC-Recipe Digest V1 #249
+  
+  Date: Thu, 17 Oct 1996 14:52:47 -0400
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Oil Vinaigrette</title>
+      <categories>
+        <cat>New text im</cat>
+        <cat>Cooking rig</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Walnut oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rich chicken stock or shellfish stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>White-wine Worcestershire</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Dijon-style mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sherry vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh parsley; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh chives; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh dill; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Kosher salt and freshly ground black peppe</item></ing></ingredients>
+    <directions>
+      <step>  In a blender or food processor, combine the walnut oil, garlic, stock,
+  Worcestershire, mustard and vinegar. Blend until fully combined and creamy.
+  Transfer to a bowl. Whisk in the herbs and add salt and pepper to taste.
+  Store the vinaigrette, covered and refrigerated, for up to 3 days. Bring to
+  room temperature before using.
+  
+  Yield: 3/4 cup
+  
+  Recipe By     : COOKING RIGHT SHOW#CR9658
+  
+  Posted to MC-Recipe Digest V1 #230
+  
+  Date: Mon, 30 Sep 1996 05:11:40 -0400 (EDT)
+  
+  From: Bill Spalding &lt;billspa@icanect.net&gt;
+ 
+</step></directions></recipe></recipeml>

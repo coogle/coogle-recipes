@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Baked Bananas</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Firm ripe bananas; peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Light cream</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Unsalted butter; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Amaretto</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>Prep:</qty>
+          <unit>10</unit></amt>
+        <item>min, Cook: 15 min.</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350øF. Butter a shallow baking dish. Arrange whole bananas
+  in baking dish. Combine remaining ingredients in a mixing bowl. Pour sauce
+  over bananas and bake 15 minutes or until bananas are softened.
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Feb 05, 1998
+ 
+</step></directions></recipe></recipeml>

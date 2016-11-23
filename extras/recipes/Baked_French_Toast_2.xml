@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked French Toast</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Breakfast</cat>
+        <cat>Eggs</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Confectioner's sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Egg bread, 1" th</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 475 degrees.
+  
+  Drizzle melted butter onto 17 x 15-inch jelly roll pan.
+  
+  Whisk together milk, eggs, confectioners' sugar, vanilla, cinnamon and
+  nutmeg in large bowl. Dip both sides of bread into milk mixture; place on
+  prepared pan. Pour any remaining milk mixture over bread. Let stand 20
+  minutes, turning bread over a couple of times.
+  
+  Bake in 475 degree oven, turning once, until puffed and golden, for about
+       15    minutes.
+  Posted to EAT-L Digest 12 Dec 96
+  
+  Recipe by: Family Circle
+  
+  From:    Barbara Williams &lt;BarbEWill@AOL.COM&gt;
+  
+  Date:    Fri, 13 Dec 1996 07:20:40 -0500
+ 
+</step></directions></recipe></recipeml>

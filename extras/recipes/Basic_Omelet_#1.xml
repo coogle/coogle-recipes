@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Omelet #1</title>
+      <categories>
+        <cat>Eggs</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Seasoned salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Date: Sun, 10 Mar 1996 23:21:06 -0800
+  
+  From: "sharon@sols.com" &lt;sharon@sols.com&gt;
+  
+  Recipe By: Adapted from Dr. Atkins' New Diet Cookbook
+  Melt butter in non-stick omelet pan or skillet. Cover pan well with butter
+  as it melts. Beat eggs with remaining ingredients. Pour into pan and tilt
+  to spread eggs to edges. Cook over low heat. Loosen eggs from sides of pan
+  with spatula as they begin to set. Lift eggs with spatula and tilt pan to
+  allow uncooked eggs to run to sides and under eggs to continue cooking.
+  Carefully lift one side of outer edge of eggs with spatula and fold over
+  towards center making a half circle or flattened cone. Slide omelet out of
+  pan onto dish and serve. If filling omelet, spoon filling mixture on top of
+  and in the center of omelet prior to folding edges over to form half
+  circle.
+  
+  Per serving: 254 Calories; 23g Fat (81% calories from fat); 11g Protein; 1g
+  Carbohydrate; 402mg Cholesterol; 567mg Sodium
+  
+  NOTES : Use this Basic Omelet recipe cooking directions as a general rule
+  for cooking all omelets in this series. Total grams- 0.7; Grams/serving-
+  0.35
+  
+  MC-RECIPE@MASTERCOOK.COM
+  
+  MASTERCOOK RECIPES LIST SERVER
+  
+  From the MasterCook recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Aperitif</title>
+      <categories>
+        <cat>Crocker</cat>
+        <cat>Beverages</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>dashes</unit></amt>
+        <item>Angostura bitters</item></ing>
+      <ing>
+        <amt>
+          <qty>22</qty>
+          <unit>ounces</unit></amt>
+        <item>Apricot nectar, chilled</item></ing>
+      <ing>
+        <amt>
+          <qty>25 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Dry white wine, chilled</item></ing>
+      <ing>
+        <amt>
+          <qty>32</qty>
+          <unit>ounces</unit></amt>
+        <item>Mineral water or sparkling water, chilled</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit/></amt>
+        <item>Thin slices or wedges lime</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground nutmeg</item></ing></ingredients>
+    <directions>
+      <step>  Mix sugar and bitters in 3-quart pitcher. Stir in apricot nec- tar, wine
+  and mineral water. Pour over ice in each of 10 eight-ounce giasses. Garnish
+  each with lime slice sprinkled with nutmeg. 10 servings;110 calories per
+  serving.
+  
+  Source: Betty Crocker's Cookbook, 6th Edition
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cheddar Wontons</title>
+      <categories>
+        <cat>Cheese</cat>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Peanut Oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>Wonton Skins</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Apples; Md, *</item></ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>ounces</unit></amt>
+          <item>Cheddar; Sharp, Cubed</item></ing></ing-div>
+      <ing-div>
+        <title>GARNISHES</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Brown Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Cinnamon; Ground</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  *    Core the apples and cut into small pieces.
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
+  Mix the brown sugar and cinnamon together and set aside.  Preheat the
+  peanut or vegetable oil in a deep fryer or other pan used for deep frying.
+  Wrap a piece of apple and a cube of cheddar cheese in a wonton skin and
+  seal according to the directions on the package.  Deep fry until golden
+  brown.  Coat with the brown sugar - cinnamon mixture and serve.  This is
+  good served hot or cold.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcheese.zip
+ 
+</step></directions></recipe></recipeml>

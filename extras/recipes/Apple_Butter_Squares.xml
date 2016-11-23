@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Butter Squares</title>
+      <categories>
+        <cat>Cookies</cat>
+        <cat>And</cat>
+        <cat>Bars</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Quick cooking oats</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple butter</item></ing></ingredients>
+    <directions>
+      <step>  Mix flour and sugar, cut in butter until mixture resembles coarse crumbs.
+  Stir in oats until well blended. Press half the mixture (2 1/4 cups) firmly
+  into greased 8 inch square pan. Spread apple butter to within 2 inches of
+  edges. Sprinkle remaining oats mixture over apple butter. Press carefully
+  but firmly. Bake in preheated 350 degree oven for about 40 minutes or until
+  lightly browned. Cool in pan on rack.
+  
+  Recipe by: Key Gourmet
+  
+  Posted to recipelu-digest by James and Susan Kirkland &lt;kirkland@gj.net&gt; on
+  Feb 18, 1998
+ 
+</step></directions></recipe></recipeml>

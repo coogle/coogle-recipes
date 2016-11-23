@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Lentil and Vegetable Stew</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Stews</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Brussels sprouts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dried green lentils</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>;water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Onions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Celery; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Carrots; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Rutabaga; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh gingerroot; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Tamari, low-sodium</item></ing></ingredients>
+    <directions>
+      <step>   Preheat oven to 350 deg.
+  
+   Cut an "x" in the bottom of each Brussels sprout.
+   Combine Brussels sprouts and remaining ingredients (except tamari) in a
+  large baking dish.
+  
+   Bake, stirring occasionally, until lentils and vegetables are tender,
+  about 1 hour.Add more water to stew while baking if necessary.
+  
+   Stir in tamari and serve warm.
+  
+   Variation: Serve oer brown rice or your favorite grain.
+  
+   Per serving:  199 cal; 11 g prot; 609 mg sod; 41 g carb; 1 g fat; 0 mg
+  chol; 125 mg calcium
+  
+   Source: Vegetarian Gourmet, Winter 93/MM by DEEANNE
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

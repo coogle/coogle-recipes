@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pineapple</title>
+      <categories>
+        <cat>Fruit</cat>
+        <cat>Side dishes</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Crushed pineapple</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>slices</unit></amt>
+        <item>Bread; cubed (crust off)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Soft butter; (do not use margarine)</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients. Bake for 45 minutes at 350 °. Use a greased baking
+  dish with the lid on. Goes well with ham.
+  
+  Submitted to cookbook by Marsha Schreiber.
+  
+  Recipe by: Vista Suburban Women's Cookbook (published in 1982)
+  
+  Posted to recipelu-digest Volume 01 Number 550 by PLK1028 &lt;PLK1028@aol.com&gt;
+  on Jan 18, 1998
+ 
+</step></directions></recipe></recipeml>

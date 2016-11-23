@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Vinaigrette</title>
+      <categories>
+        <cat>Vinaigretts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Fresh parsley; minced</item></ing></ingredients>
+    <directions>
+      <step>  Whisk together vinegars, water, mustard, garlic, oil and parsley in small
+  bowl. Yield: About 1 cup.
+  
+  Per serving: 280 Calories; 28g Fat (84% calories from fat); 1g Protein; 11g
+  Carbohydrate; 0mg Cholesterol; 194mg Sodium
+  
+  NOTES : Mary Carroll makes this delicious vinaigrette with the vinegar,
+  which she uses to dress spinach, endive and fresh orange salads for fall
+  lunches.
+  
+  Recipe by: Mary Carroll - St. Louis Post Dispatch
+  
+  Posted to MC-Recipe Digest V1 #892 by Lisa Minor &lt;lisa@cybermill.com&gt; on
+  Nov 8, 1997
+ 
+</step></directions></recipe></recipeml>

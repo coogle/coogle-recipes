@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Tuna and Rice</title>
+      <categories>
+        <cat>Main</cat>
+        <cat>Dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>VEG-ALL Mixed Vegetables</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tuna (12.5 oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooked rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dill weed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Slivered almonds</item></ing></ingredients>
+    <directions>
+      <step>  1. Drain VEG-ALL; combine liquid with mayonnaise, blending until smooth. 2.
+  Stir in tuna, rice, green pepper, dill and vegetables. 3. Spoon into
+  greased 2-quart casserole dish. 4. In small skillet, melt butter; stir in
+  bread crumbs and almonds, coat well and spoon over mixture in casserole. 5.
+  Bake at 375'F. for 30 minutes or until bubbly and lightly browned.
+  Posted to EAT-L Digest 15 October 96
+  
+  Date:    Wed, 16 Oct 1996 20:40:17 -0500
+  
+  From:    Connie Anderson &lt;connie@USA.NET&gt;
+ 
+</step></directions></recipe></recipeml>

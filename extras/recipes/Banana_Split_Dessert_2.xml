@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Split Dessert</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Graham cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter or margarine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites; stiffly beated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Stick butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Box; powdered sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bananas; (2 or 3)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Crushed pineapple; large</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carton Cool Whip®; large or 2 small</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pecans</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Maraschino</item></ing></ingredients>
+    <directions>
+      <step>  This pie is made in layers. First layer: Mix cracker crumbs, sugar, butter
+  and spread in bottom of 11" x 14" casserole. Second Layer: Beat stiff egg
+  whites, butter, and sugar with mixer for 10 minutes and spread over crumbs.
+  Third Layer: Slice 2-3 bananas over sugar mixture. Fourth Layer: Spread
+  drained pineapple over bananas. Fifth Layer: Spread cool whip over
+  pineapple. Sixth Layer: Sprinkle chopped peacans and maraschino cherries
+  over all.
+  
+  Recipe by: Women's Circle Home Cooking, 1990
+  
+  Posted to MC-Recipe Digest V1 #1052 by Sandy &lt;delite@flash.net&gt; on Jan 29,
+  1998
+ 
+</step></directions></recipe></recipeml>

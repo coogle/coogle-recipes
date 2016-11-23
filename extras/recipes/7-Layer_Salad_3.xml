@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Layer Salad</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Bag lettuce</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Green peppers cut and diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Red onion cut and diced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Bacon; (fried)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Box frozen peas</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Shredded chedder cheese</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE RECIPE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Mayonnaise</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Hidden valley ranch dressing</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  I am not sure if these measurements on the dressing are correct. I will
+  send the correct amounts tomorrow. Sorry. In a 13" x 9" pan layer it with
+  the lettuce, then cut the green peppers and layer them next. Next is to cut
+  the onion and add it, then the box of frozen peas. Fry the bacon till it is
+  nice and crispy. Crumble it and layer it on the salad. Add the cheese. On
+  top of all of this you add the sauce. It tastes best when it is cold.
+  Posted to MC-Recipe Digest V1 #1037 by Dot McChesney &lt;jrjet@mtco.com&gt; on
+  Jan 23, 1998
+ 
+</step></directions></recipe></recipeml>

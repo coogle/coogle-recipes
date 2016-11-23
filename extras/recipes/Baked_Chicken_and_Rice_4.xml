@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chicken and Rice</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Grains</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chicken</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Dry Lipton Onion Soup Mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Chicken Broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream Of Mushroom Soup Water</item></ing></ingredients>
+    <directions>
+      <step>  Pour uncooked rice into a 10 inch Dutch Oven. Place cut-up chicken parts on
+  top of the rice. Sprinkle Lipton Onion Soup mix on top of chicken. Dilute
+  chicken broth with one can of water. Pour mixture over the chicken and bake
+  with coals on top and bottom for at least one hour.
+  
+  From the files of Al Rice, North Pole Alaska.    Feb 1994
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

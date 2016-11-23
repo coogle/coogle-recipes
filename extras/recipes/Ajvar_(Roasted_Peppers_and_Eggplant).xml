@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ajvar (Roasted Peppers and Eggplant)</title>
+      <categories>
+        <cat>Turkish</cat>
+        <cat>Vegetables</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Fresh red New Mexican chiles</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Meduim eggplants</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil or corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Large onion, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Large garlic cloves, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Red wine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt/pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley for garnish</item></ing></ingredients>
+    <directions>
+      <step>    Roast the peppers and eggplant over charcoal or gas flame, or bake in a
+  preheated oven at 475 deg. F until the skins are blistered and black. Place
+  the roasted vegetables in a paper bag and let them steam in their own heat
+  for 10 minutes. Peel off and discard the burnt skins along with the stems
+  and seeds. Mash the pepper and eggplant pulp together to form a homogeneous
+  mass, either smooth or slightly chunky, as desired.
+    Heat 3 tablespoons oil in a large skillet and saute the onion until very
+  soft. Add the garlic and cook 2 minutes lomger. Remove from heat and stir
+  in the pepper-eggplant pulp, mixing well. Slowly drizzle remaining oil into
+  the mixture, stirring constantly to incorporate all the oil. Add lemon
+  juice and vinegar, salt and pepper to taste. Transfer to a serving bowl and
+  garnish with parsley.
+    Serve as an appetizer spread on thick slices of country-style white
+  bread, or flat pita bread, or use as a side dish to accompany grilled or
+  roasted meats.
+  
+  Source: Chile Pepper
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-American Apple Pie</title>
+      <categories>
+        <cat>Pie</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Packed light brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Grated lemon peel</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Ground nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>medium</unit></amt>
+          <item>Baking apples; peeled, cored; and thinly sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Dark raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Unbaked; 9-inch piecrust</item></ing></ing-div>
+      <ing-div>
+        <title>GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>large</unit></amt>
+          <item>Egg; beaten (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Granulated sugar (optional)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 425 deg F. Spray a 9-inch deep-dish pie plate with
+  vegetable cooking spray.
+  
+  2. In a large bowl, combine brown sugar, granulated sugar, flour, lemon
+  peel, cinnamon, and nutmeg. Mix well.
+  
+  3. Add apples to sugar mixture; stir until coated. Stir in raisins.  Spoon
+  into prepared plate.
+  
+  4. Place pie crust on top of filling.  Trim edges, pressing against edge of
+  pan. Using a sharp knife, cut steam vents in piecrust. To glaze, lightly
+  brush pie crust with beaten egg. Sprinkle with sugar.
+  
+  5. Bake until pie crust is golden brown, about 35 to 40 minutes. Place on a
+  wire rack and cool for 30 minutes. Serve warm. VARIATION: For a subtle but
+  delicious change, replace the cinnamon with ground cardamom.
+  
+  FROM "HEALTHY MEALS IN MINUTES"
+  
+  From a collection of my mother's (Judy Hosey) recipe box which contained
+  lots of her favorite recipes, clippings, etc.  Downloaded from Glen's MM
+  Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

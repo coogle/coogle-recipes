@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond and Honey Cakes</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Candies</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>grams</unit></amt>
+          <item>Sweet flan pastry</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Butter; for the tart tin</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Flour; for the tart tin</item></ing>
+        <ing>
+          <amt>
+            <qty>20</qty>
+            <unit>grams</unit></amt>
+          <item>Apricot jelly; for glazing</item></ing></ing-div>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>grams</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>grams</unit></amt>
+          <item>Slivered almonds</item></ing>
+        <ing>
+          <amt>
+            <qty>90</qty>
+            <unit>grams</unit></amt>
+          <item>Unsalted butter</item></ing>
+        <ing>
+          <amt>
+            <qty>35</qty>
+            <unit>grams</unit></amt>
+          <item>Honey</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Double cream</item></ing>
+        <ing>
+          <amt>
+            <qty>50</qty>
+            <unit>grams</unit></amt>
+          <item>Crystallised fruits chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Kirsch</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  (Units: 100 g = 3 1/2 oz; 1 dl = 3 1/2 fl oz = 2/5 cup; 180 oC = 350 oF;
+  200 oC = 400 oF; 230 oC = 450 oF; 250 oC = 475 oF; 2.5 cm = 1 inch)
+  
+  Preparation:
+  
+  Pre-heat the oven to 200 oC. Butter and flour a tart tin with a removable
+  base 22 cm in diameter.
+  
+  Roll out the pastry to fit the tart tin. Line the tin with the pastry and
+  prick the bottom all over with a fork. Bake it for 10 minutes at the bottom
+  of the pre-heated oven. Leave the pastry shell in the tin.
+  
+  Cooking:
+  
+  Lightly brush a thin layer of apricot glaze over the bottom of the pastry
+  shell.
+  
+  Put all the remaining ingredients for the filling into a saucepan and heat
+  them gently, stirring to mix them well as they melt.
+  
+  Raise the oven to 210 oC. When the filling is melted, spread it in a thin
+  layer on the glazed pastry shell.
+  
+  Cook it for about 15 minutes: it is ready when the filling begins to
+  bubble.
+  
+  Leave the cake to cool in its tin, then take it out.
+  
+  Serving:
+  
+  Cut the cake into little triangles or rectangular pieces. Serve them with
+  coffee, like 'petits fours'.
+  
+  From: Fredy Girardet, Cuisine spontanee, M Papermac, 1986, ISBN
+  0-333-40957-4
+  
+  Typed for you by Rene Gagnaux
+ 
+</step></directions></recipe></recipeml>

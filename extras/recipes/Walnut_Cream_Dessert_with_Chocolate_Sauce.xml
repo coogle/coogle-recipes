@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Cream Dessert with Chocolate Sauce</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Arrowroot</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Whipping cream</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Kirsch</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Butter; room temperature</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Walnuts;toasted,chopped fine</item></ing></ing-div>
+      <ing-div>
+        <title>CHOCOLATE SAUCE</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Unsweetened cocoa</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Whipping cream</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Line 8-inch souffle dish with plastic wrap, letting excess extend over
+  edge; set aside. Combine yolks, 1/4 cup sugar, flour and arrowroot in
+  medium saucepan. Whisk in cream, milk and kirsch. Place over medium heat
+  and whisk constantly until completely cooled. Beat butter and remaining
+  sugar together in medium bowl until light and fluffy. Fold in walnuts and
+  cooled yolk mixture.  Turn into mold. Cover and refrigerate 6 hours or
+  overnight.  Remove from refrigerator and unmold. Serve immediately with
+  Chocolate Sauce. For Chocolate Sauce:  Melt butter in medium saucepan over
+  medium heat. Reduce heat and whisk in cocoa and sugar. Gradually add cream,
+  stirring constantly until mixture is smooth and heated through. Serve warm.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

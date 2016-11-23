@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean and Salsa Dip</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Beans</cat>
+        <cat>Mexican</cat>
+        <cat>Low-fat</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Pinto beans; 15 oz.</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Louisiana hot sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Fresh lime juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sweetened chinese chili sauc</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Green onions; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Sour cream, fat-free</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Salsa; chunky, hot</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh cilantro or parsley</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Corn tortilla chips</item></ing></ingredients>
+    <directions>
+      <step>  Drain the liquid from the beans and discard.  Place the beans in a food
+  processor and process until almost smooth. Add the hot sauce and lime
+  juice. Mix well. Spread the bean mixture over the bottom of a large
+  platter. Spoon and spread the sweetened chili sauce over the beans, then
+  sprinkle the green onions evenly over the top. Cover the beans mixture and
+  scallions with the sour cream and top it with the salsa. Garnish this with
+  sprigs of fresh cilantro and serve with tortilla chips.
+ 
+</step></directions></recipe></recipeml>

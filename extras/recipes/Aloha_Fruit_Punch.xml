@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aloha Fruit Punch</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ginger root; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Guava juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Pineapple; finely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to
+  the guava, lemon and pineapple juices. Make a syrup of sugar and remaining
+  water. Cool. Combine with juices and pineapple. Chill throroughly. [I just
+  noticed that the instructions call for pineapple juice, yet there's no
+  pineapple juice in the list of ingredients. If I had to wing it, I'd say
+  try 3 cups].
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /FRUIT
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

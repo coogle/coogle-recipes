@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Gingered Chicken Soup/stew</title>
+      <categories>
+        <cat>New</cat>
+        <cat>Text</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Each vegetable and sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground ginger; (or quarter piece fresh ginger)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Each chicken broth and water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Long grain rice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Frozen chicken, cut into strips</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen petite peas,; thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh parsley; or cilantro for garnish</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Scallions, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and freshly ground black pepper</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil in a medium saucepan. Add garlic and ginger and saute for a few
+  seconds to release the aroma. Add the broth and water and bring to a boil.
+  Add the rice and boil for 10 minutes or until tender. Add the frozen
+  chicken and simmer just until cooked through. Add the peas and simmer just
+  to heat through. Season to taste with salt, pepper and lemon juice. Remove
+  the soup from the heat and add parsley and scallions.
+  
+  Yield: 4 servings
+  Recipe By     :COOKING MONDAY TO FRIDAY SHOW #MF6730
+  
+  Posted to MC-Recipe Digest V1 #299
+  
+  Date: Tue, 12 Nov 1996 22:19:21 -0500
+  
+  From: Meg Antczak &lt;meginny@frontiernet.net&gt;
+ 
+</step></directions></recipe></recipeml>

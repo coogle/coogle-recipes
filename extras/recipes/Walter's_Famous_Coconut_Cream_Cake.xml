@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walter's Famous Coconut Cream Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cake flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Servings: 12
+  
+  Cream the butter and sugar well, and add the beaten eggs. Next add the milk
+  gradually.  Sift the flour before measuring, then sift again with the
+  baking powder. Grease and flour two 9" layer cake pans and line with
+  kitchen parchment.  Pour the batter into the pans and bake about 15 minutes
+  in a 350 F. oven.
+  Icing:  Cook sugar and water to the thread stage, then beat the egg whites
+  until very light.  Pour sugar over the egg whites slowly and beat until
+  creamy.  Add vanilla if desired. Spread over the cake. Sprinkle shredded
+  coconut thickly between the layers and over the top and sides.
+  
+  Baker's Coconut Kitchen Calendar; late 1920s From *Cakes Men Like* by
+  Benjamin Darling
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

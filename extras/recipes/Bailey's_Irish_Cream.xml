@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bailey's Irish Cream</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Eggs</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>225</qty>
+          <unit>mililiters</unit></amt>
+        <item>Whiskey</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Eagle brand condensed milk</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Hershey's</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  1. Blend and refrigerate.
+  
+  Difficulty : very easy. Precision
+  : measure ingredients.
+  Posted to FOODWINE Digest 09 Dec 96
+  
+  From:    Ellen Court &lt;CourtMoss@NOVA-NET.NET&gt;
+  
+  Date:    Tue, 10 Dec 1996 08:21:47 -0600
+ 
+</step></directions></recipe></recipeml>

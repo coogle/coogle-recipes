@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Italian Spaghetti</title>
+      <categories>
+        <cat>Pasta</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Hamburger</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Box elbow spaghetti</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Kraft Colby cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(small) tomatoes; drain and dice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic salt; pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Cook spaghetti until done, then mix with other ingredients.  Do not fry the
+  hamburger.  Add a little of the juice from the tomatoes to make slightly
+  moist.  Mix some butter with cracker crumbs and pour over the top. Bake 30
+  minutes after it has started to cook.
+  
+  Date: Sat, 22 Jun 1996 20:25:48 +0000
+  
+  From: "Wendy Lockman" &lt;wlockman@randomc.com&gt;
+  
+  MM-Recipes Digest V3 #175
+  
+  From the MealMaster recipe list.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

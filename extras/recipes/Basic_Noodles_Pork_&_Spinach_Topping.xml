@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Noodles Pork &amp; Spinach Topping</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Lean pork</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Leek stalk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Spinach</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing></ingredients>
+    <directions>
+      <step>  1. Shred pork and leek. Stem spinach and cut leaves in half.
+  
+  2. Heat oil. Add pork and stir-fry until it loses its pinkness (1 to 2
+  minutes).
+  
+  3. Add leek and spinach; stir-fry 1 minute more.
+  
+  4. Arrange mixture as a topping over noodles in soup and serve. VARIATION:
+  For the spinach, substitute 2 cups Chinese lettuce, cut in 2-inch sections
+  and stir-fry in step 3 until softened. (You may also add, with the Chinese
+  lettuce, 1/2 cup bamboo shoots, sliced, and 1/2 cup canned button
+  mushrooms.)
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

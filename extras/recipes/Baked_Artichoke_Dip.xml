@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Artichoke Dip</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>(8 oz) cream cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Mayonnaise</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Regular cans artichoke hearts; (non-marinated type)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Fresh grated parmesean cheese</item></ing></ing-div>
+      <ing-div>
+        <title>TO TASTE</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Pepper</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Garlic powder</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Onion powder</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix all ingredients in a bowl, transfer to cassarole dish. Heat thoroughly
+  through at 375 degrees for approximately 30 minutes - the top will look a
+  nice golden brown on the high spots.
+  
+  Serve with pita chips: brush pitas with butter, both sides. Cut into bite
+  size wedges, place on cookie sheet, toast in oven (375) until crispy.
+  Remove from oven and dust lightly with garlic powder. (If you put the
+  powder on before heating, it will turn bitter. The retained heat after
+  coming out of the oven will toast the powder just the right amount..)
+  
+  Posted to TNT Recipes Digest, Vol 01, Nr 930 by Sandra &lt;sandrac@gte.net&gt; on
+  Jan 11, 1998
+ 
+</step></directions></recipe></recipeml>

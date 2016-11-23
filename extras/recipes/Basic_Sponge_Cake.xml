@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Sponge Cake</title>
+      <categories>
+        <cat>Mom's best</cat>
+        <cat>Cyberealm</cat>
+        <cat>Low-cal</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sifted cake flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs, separated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar, divided</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing></ingredients>
+    <directions>
+      <step>  1. Combine cake flour, baking powder, and salt, stir well and set
+  aside.
+  
+  2. Beat 3 egg yolks in a large mixing bowl at high speed of an
+  electric mixer for 1 minute. Gradually add 3/4 cup sugar, beating
+  constantly until egg yolks are thick and pale, about 5 minutes. Add
+  vanilla and 1/4 cup water, beating at low speed until well blended.
+  Add flour mixture to egg yolk mixture beating at low speed until blend-
+  ed and set aside.
+  
+  3. Beat 5 egg whites at room temperature at high speed until foamy.
+  Gradually add remaining 1/4 cup sugar, 1 Tablespoon at a time, beating
+  until still peaks form. Gently stir one fourth of the egg white mixture
+  into the batter. Gently fold in the remaining egg white mixture.
+  
+  4. Pour batter into an ungreased 10 inch tube pan. Bake at 350F for
+  35 minutes or until cake springs back when touched lightly in center.
+  Invert pan; cool 45 minutes. Loosen cake from sides of pan, remove.
+  
+  =======================================================================
+  
+  Nutritional content:
+  141 calories (10% from fat); fat 1.6 gm; chol 64 mg; sodium 119 mg.
+  
+  Source: "Cooking Light" Magazine, March/April 1993
+  
+  Cyberealm Cookbook, Vol 1, 4/93, Cyberealm BBS, compiled by Linda Fields.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber1.zip
+ 
+</step></directions></recipe></recipeml>

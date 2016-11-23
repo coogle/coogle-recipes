@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Our Chicken Nuggets"</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Main dishes</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Boneless Chicken</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Parsley Flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Tarragon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg; Beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>30</qty>
+          <unit/></amt>
+        <item>Ritz Crackers; Finely Crushed (NOTE: you can use ANY cracker crumbs)</item></ing></ingredients>
+    <directions>
+      <step>  Rinse chicken and pat dry with paper towels. Cut into 1 inch pieces.
+  
+  Combine the flour, parsley and seasonings thoroughly and put in a small
+  ziploc bag. Add chicken pieces, a few at a time to flour mixture. Close bag
+  and shake pieces to coat them.
+  
+  Combine milk and egg in a small bowl. Put crushed crackers in another bowl.
+  Dip the flour coated pieces, 1/4 at a time, in the egg/milk mixture and
+  then roll them in the crackers. Place coated chicken pieces in a single
+  layer on a large ungreased baking sheet. Bake in a 400 degree oven for 10 -
+  12 minutes until pieces are no longer pink and the juice runs clear.
+  
+  Recipe by: Better Homes and Gardens (Deb Vaughn)
+  
+  Posted to recipelu-digest by Donna Tester &lt;tester@shentel.net&gt; on Mar 9,
+  1998
+ 
+</step></directions></recipe></recipeml>

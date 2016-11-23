@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Garlic</title>
+      <categories>
+        <cat>Garlic</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Heads Garlic</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Springs of Fresh Rosemary *</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  *  Fresh Oregano also may be used.
+  
+  Place whole heads of garlic, prepared as for Roasted Garlic, on a sheet of
+  heavy-duty foil.
+  Top with butter (4 T per 8 Heads) and a few sprigs of fresh rosemary or
+  oregano.  If fresh herbs are unavailable, substitute dried (2 t of dried
+  herbs for 8 heads of garlic).  Fold the foil over the garlic and seal the
+  package well.
+  Cook over hot coals for about 45 minutes, turning the package occasionally
+  with tongs.
+  
+  From the "Garlic" cookbook, by Sue Kreitzman, as posted to The Cook BBS.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmgarlic.zip
+ 
+</step></directions></recipe></recipeml>

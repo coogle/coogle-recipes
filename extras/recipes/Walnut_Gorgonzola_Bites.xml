@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Gorgonzola Bites</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Hors</cat>
+        <cat>D'oeuvres</cat></categories>
+      <yield>36</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>36</qty>
+          <unit/></amt>
+        <item>Perfect</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Ripe Gorgonzola cheese -- at</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Room temperature</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unsalted butter -- softened</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Walnuts -- halved</item></ing></ingredients>
+    <directions>
+      <step>  1. Preheat oven to 350 degrees F. Toast walnut halves on a cookie sheet
+  until they are fragrant and lightly browned (5 to 10 minutes). Cool
+  completely.
+  
+  2. In a small bowl work cheese and butter together with a wooden spoon.
+  Sandwich two nut halves with a dab of the cheese mixture. Refrigerate
+  briefly to firm the cheese. Serve cool but not cold.
+  
+  Makes 3 dozen "bites."
+  
+  Recipe By     : The California Culinary Academy
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

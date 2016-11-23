@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Jelly</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice (takes about 3 pounds apples and 3 cups water)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Strained lemon juice, if desired</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  To prepare juice:  Select about one-fourth firm-ripe and three-fourths
+  fully ripe tart apples.  Sort, wash, and remove stem and blossom ends; do
+  not pare or core. Cut apples into small pieces. Add water, cover and bring
+  to boil on high heat.  Reduce heat and simmer for 20 to 25 minutes, or
+  until apples are soft. Extract juice.
+  
+  To make jelly:  Measure apple juice into a kettle. Add lemon juice and
+  sugar nd stir well.  Boil over high heat to 8 degrees above the boiling
+  point of water, or until jelly mixture sheets from a spoon.
+  
+  Remove from heat, skim off foam quickly.  Pour jelly immediately into
+  sterilized hot containers and seal. Makes 3 to 4 eight ounce glasses.
+  
+  From: The Ball Blue Book Shared By: Pat Stockett
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

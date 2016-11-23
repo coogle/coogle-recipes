@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Chili (California Grill)</title>
+      <categories>
+        <cat>Disney</cat>
+        <cat>Eat-lf</cat>
+        <cat>Soups and s</cat>
+        <cat>Meat</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>SPICE RUB</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Chili powder</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Paprika</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Ground cumin</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt; or more to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Black pepper; or more to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Sirloin steak; trimmed, cut into 1/2" cubes</item></ing></ing-div>
+      <ing-div>
+        <title>A</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Canola oil</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Finely chopped onion</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Finely chopped celery</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Garlic cloves; minced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Jalapeno pepper; seeded and minced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Dried oregano</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Bay leaf</item></ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>cups</unit></amt>
+          <item>Beer; preferably dark</item></ing>
+        <ing>
+          <amt>
+            <qty>20</qty>
+            <unit>ounces</unit></amt>
+          <item>Chopped tomatoes; juice reserved</item></ing></ing-div>
+      <ing-div>
+        <title>B</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Red bell peppers; seeded and diced (may be doubled)</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Vegetable cooking spray</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cooked black beans; drained and rinsed</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped fresh cilantro</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped fresh parsley</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>tablespoons</unit></amt>
+          <item>Fresh lime juice</item></ing></ing-div>
+      <ing-div>
+        <title>OPTIONAL GARNISH</title>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Reduced-fat sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh cilantro sprigs</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh parsley sprigs</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  VENISON CHILI as served at the California Grill located at Disney's
+  Contemporary Resort in Lake Buena Vista, Florida. Eating Well magazine Nov
+  1997. Original recipe used more oil and trimmed venison from the leg or
+  shoulder. We tested with lean beef sirloin steak; nut brown ale; roasted
+  green chili peppers. VARIATIONs: Suitable for lean lamb, pork or turkey;
+  adjust the baking time. Served with cornbread and slaw.
+  
+  [1] In a shallow bowl, stir together chili powder, paprika, cumin, salt and
+  pepper. Dredge meat with spice mixture. Cover and marinate in the
+  refrigerator for 1 hour or overnight.
+  
+  Preheat oven to 325F. In a Dutch oven (stove top and oven proof casserole),
+  heat one-third of the oil over medium high heat. Add half the meat and sear
+  until browned on all sides, 5 to 6 minutes; transfer to a plate. Sear
+  remaining meat in another third of the oil. Set aside.
+  
+  Reduce heat to medium and add rest of the oil; add diced onion and celery
+  and cook, stirring, until softened, 3 to 5 minutes. Add garlic, jalapeno,
+  oregano and bay leaf; cook, stirring, for 1 minute. Add beer and bring to a
+  boil. Cook, stirring, until liquid is reduced by half, 3 to 5 minutes. Add
+  tomatoes and their juice and bring to a simmer. Add browned meat. Cover,
+  transfer to the oven and bake for 1-1/4 hours, or until meat is very tender
+  (up to 2 hrs).
+  
+  Meanwhile, spray a nonstick skillet, place over medium high heat. Add bell
+  peppers and saute until tender, 3 to 5 minutes. When the meat is tender add
+  the bell peppers, black beans and chopped cilantro and parsley to the
+  chili; cover-- or partially cover if the stew is too moist. Return pot to
+  oven and bake another 15 minutes.
+  
+  Remove chili from oven. Discard bay leaf. Stir in lime juice. Adjust
+  seasoning with salt and pepper. Serve in bowls, garnished with a dollop of
+  sour cream and cilantro and parsley sprigs.
+  
+  MAKES 5 CUPS or enough for 4 SERVINGS, EACH: 332.7 cals, 10.9 g fat (29.6%
+  cff) 8.2g fiber
+  
+  Recipe by: Chef Pleau, California Grill at Disney, Florida /path
+  
+  Posted to Digest eat-lf.v097.n317 by KitPATh &lt;phannema@wizard.ucr.edu&gt; on
+  Dec 15, 1997
+ 
+</step></directions></recipe></recipeml>

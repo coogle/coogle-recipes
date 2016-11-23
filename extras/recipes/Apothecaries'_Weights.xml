@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apothecaries' Weights</title>
+      <categories>
+        <cat>Info/tips</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>APOTHECARIES' WEIGHTS</title></ing-div></ingredients>
+    <directions>
+      <step>  NOTE: Use these if you plan to mix old time perscriptions.
+  
+  1 scruple                    20 grains 1 dram 3 scruples 1 ounce 8 drams 1
+  pound
+       12    ounces
+ 
+</step></directions></recipe></recipeml>

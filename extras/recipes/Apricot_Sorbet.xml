@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Sorbet</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned apricot halves; in heavy syrup;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Frozen for at least twelve hours</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Amaretto; optional</item></ing></ingredients>
+    <directions>
+      <step>  Place the can of apricots in hot water for about 1 minute. Remove the lid
+  and pour any liquid into a food processor. Remove the bottom of the can,
+  slide the fruit out, and chop into 1-inch pieces.
+  
+  Place in the food processor with the amaretto and process until smooth,
+  about 1 minute.
+  
+  Serve at once or transfer to a container and place in the freezer.
+  Posted to Digest eat-lf.v096.n128
+  
+  Date: Tue, 20 Aug 1996 16:21:39 -0400
+  
+  From: "Ellen C." &lt;ellen@brakes.elekta.com&gt;
+  NOTES : Printed in the Atlanta Journal/Constitution, August 15, 1996.
+       Bernard was commissioned by the Steel "Packaging Council, a trade
+       group, to
+       present new uses for canned foods at the April conference of the
+       International Association of Culinary Professionals in
+       Philadelphia.
+ 
+</step></directions></recipe></recipeml>

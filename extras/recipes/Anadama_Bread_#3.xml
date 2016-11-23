@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anadama Bread #3</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Corn meal</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dark molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Dry granular yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Lukewarm water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Warm melted butter</item></ing></ingredients>
+    <directions>
+      <step>  From: olson@calvin.cc.macalstr.edu
+  
+  Date: Thu, 13 Jan 1994 11:11:01 -0600
+  
+  Here's a recipe from _The Complete Bread Cookbook_ by Ted and Jean Kaufman:
+  Boil the 2 cups water and gradually add the corn meal in a slow stream,
+  stirring constantly until the mixture is smooth. Add 2 T. butter, the
+  molasses and salt; let stand until lukewarm. Add the yeast to the 1/2 cup
+  lukewarm water, sprinkle with sugar, cover and let stand until foaming and
+  doubled in volume. Add to corn meal mixture. Stir in the flour, gradually,
+  just enough to make a stiff dough. Knead well for 10 minutes. Place in a
+  warm greased bowl, cover and let rise until doubled in bulk. Cut through
+  dough several times with a knife. Cover and let rise again for 45 minutes
+  until doubled in bulk. Toss lightly on a floured board. Knead and mold into
+  two loaves. Place in greased and lightly floured bread pans. Cover and let
+  rise again until doubled in bulk. Bake in a 400 degree oven for 20 minutes;
+  reduce heat to 375 degrees and continue to bake until the loaves are golden
+  brown. Brush bread with warm melted butter and turn on sides on a cooling
+  rack to cool.
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

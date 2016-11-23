@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Balsamic Vinagrette Dip for Bread</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Balsamic vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>40</qty>
+          <unit/></amt>
+        <item>Basil leaves; cut chiffonade</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>large</unit></amt>
+        <item>Cloves garlic; chopped, not minced.</item></ing></ingredients>
+    <directions>
+      <step>  Mix and serve in large shallow bowel with a fresh, crusty peasant bread
+  torn into chunks for dipping.
+  
+  Posted to bbq-digest by Kit Anderson &lt;kitridge@bigfoot.com&gt; on Mar 30, 1998
+ 
+</step></directions></recipe></recipeml>

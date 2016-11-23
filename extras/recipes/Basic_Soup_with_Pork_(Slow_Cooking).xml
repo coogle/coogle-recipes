@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Soup with Pork (Slow Cooking)</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh pork shoulder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Stock (see recipe) (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>     1. Cut pork in 1-inch cubes and onion in quarters. Place in heavy pan
+  with cold stock and bring slowly to a boil.
+  
+     2. Reduce heat, and skim surface to clear. Then simmer, covered, about
+    1-1/2    hours.
+  
+     3. Stir in salt and pepper. Simmer 5 minutes more.
+  
+     VARIATIONS: For the onion, substitute 1/4 pound fresh mushrooms, sliced,
+  or 2 ounces dried cuttlefish (soaked).
+  
+     During the last half hour of cooking, add 1 Cup Chinese lettuce, cut in
+  1-1/2 inch sections; and 4 Water chestnuts, sliced.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

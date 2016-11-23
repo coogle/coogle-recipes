@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair W/shiitake Mushrooms/arugula/tomato</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Vegetables</cat>
+        <cat>Famous eate</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Cloves garlic; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Shiitake mushrooms; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Tomatoes; peeled, diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>bunches</unit></amt>
+        <item>Arugula; wash well</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Angel hair pasta; cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parmesan cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Sprig basil</item></ing></ingredients>
+    <directions>
+      <step>  Heat oil over high heat until hot. Add garlic and saute until golden brown.
+  Add mushrooms and saute for 30 seconds or until tender. Add tomato and
+  arugula and combine well. In a serving bowl toss with pasta and top with
+  Parmesan and basil. Source: Patrick Swayze's Mulholland Drive Cafe, NYC
+  
+  Recipe by: Mulholland Drive Cafe, NYC
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by
+  MarySpero@prodigy.com (MS MARY E SPERO) on Oct 31, 1997
+ 
+</step></directions></recipe></recipeml>

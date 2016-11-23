@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>"Blondie" Brownies</title>
+      <categories>
+        <cat>Brownies</cat>
+        <cat>Crisco.015</cat>
+        <cat>Walnuts</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Butter Flavor Crisco</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Brown Sugar, firmly packed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour, all purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts, chopped</item></ing></ingredients>
+    <directions>
+      <step>  Preparation Time: 15 minutes               Bake Time: 27 to 30 Minutes
+  
+  1. Heat oven to 350 F. Grease an 8x8x2 inch pan with Butter Flavor
+  Crisco. Set aside.
+  
+  2. Combine Butter Flavor Crisco and milk in large saucepan. Place on
+  low heat until Butter Flavor Crisco melts. Remove from heat. Stir in
+  brown sugar. Add egg. Stir until well Blended.
+  
+  3. Combine flour, baking powder and salt. Stir into sugar mixture.
+  Stir in vanilla and nuts. Spread evenly into baking pan.
+  
+  4. Bake at 350 for 27 to 30 minutes, or until a wooden pick inserted
+  into center comes out clean. Cool in pan. Cut into 2x2 inch squares.
+  
+  Makes 16 squares.
+  
+  Source: Butter Flavor Crisco Cookie Collection, page 18.
+  Shared by: David Knight
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcrisco.zip
+ 
+</step></directions></recipe></recipeml>

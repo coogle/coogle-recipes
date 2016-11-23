@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aussie Shrimp on the Barbie with Orange Ginger Sauce</title>
+      <categories>
+        <cat>Australian</cat>
+        <cat>Seafood</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Giant Prawns, shelled and deveined (heads and tails intact)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Orange juice (freshly squeezed)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Orange Zest (grated)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green onions, tops and white (minced)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ginger root (freshly grated)</item></ing></ingredients>
+    <directions>
+      <step>  Soak a dozen long wooden skewers in water for 30 minutes. Then push skewers
+  through prawns, lengthwise, from head to tail with only 1 to a skewer.
+  
+  Combine all ingredients in saucepan and cook over medium to low heat,
+  stirring, until butter is completely melted.
+  
+  Dip skewered prawns in the orange sauce and position on oiled grill rack
+  about 4 inches above the coals. Baste liberally with sauce and grill for 2
+  minutes. Turn the prawn over and baste again, cooking for another 2
+  minutes. Smaller prawn will be done at this point, but continue basting and
+  turning larger prawn until they are pink and cooked through. Remove from
+  heat immediately when done, as they will get tough of overcooked. Use any
+  remaining sauce for a dip for the prawns.
+  
+  From: The Register Guard, by Edythe Preet, a LA free lance writer.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

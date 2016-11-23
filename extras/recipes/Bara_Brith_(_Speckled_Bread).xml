@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bara Brith ( Speckled Bread)</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Ethnic</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Dried fruit</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Dark brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pints</unit></amt>
+        <item>Strong hot tea</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Self-raising flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing></ingredients>
+    <directions>
+      <step>  This is Wales' traditional rich fruit bread.  South Wales makes it with
+  baking powder; Northerners prefer yeast as the raising agent. Either way
+  it's delicious.
+  
+  Soak the dried fruit and sugar overnight in the tea. You can use either
+  fresh tea, or the cold dregs from the teapot (this gives a good strong
+  colour).  Next day, sieve the flour and fold it it into the fruit. Mix in
+  the lightly beaten egg.  Line a small loaf-tin with buttered paper then tip
+  in the mixture, smoothing it well into the corners.
+  
+  Bake in a gentle oven at 300 F (150 C) gas mark 2 for 1 1/2 hours. Cool and
+  store for at least 2 days in a tin so that it matures moist and rich.
+  Traditionalists say you should never butter the Bara Brith, but Dorothy
+  says do, as it's lovely that way.
+  
+  Source: Elisabeth Luard in "Country Living" (British), April 1989.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crunch Pie with Cinnamon Ice Cream</title>
+      <categories>
+        <cat>Pies</cat>
+        <cat>Ice cream</cat>
+        <cat>Desserts</cat>
+        <cat>Apples</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PIE</title>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit/></amt>
+          <item>Juicy sour apples</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Brown sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Margarine</item></ing></ing-div>
+      <ing-div>
+        <title>ICE CREAM</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>pints</unit></amt>
+          <item>Whipping cream</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Cinnamon (heaping)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>quart</unit></amt>
+          <item>Vanilla ice cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Red-hot cinnamon candy (opt)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  PIE: Pare, core and slice apples, and put in pie
+  plate. Mix flour and brown sugar, then add margarine
+  and mix until crumbly. Sprinkle this mixture over
+  apples and bake at 350 deg. for about 30 min. or until
+  apples are done. Serve warm with Cinnamon Ice Cream.
+  CINNAMON ICE CREAM: Whip the cream, add sugar and
+  cinnamon. Soften ice cream; add cinnamon mixture and
+  whip. If desired, add cinnamon candy. Freeze.
+  Gasparilla Cookbook
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

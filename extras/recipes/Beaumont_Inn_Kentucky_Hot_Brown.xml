@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beaumont Inn Kentucky Hot Brown</title>
+      <categories>
+        <cat>Sandwich</cat>
+        <cat>Turkey</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Turkey breast; roasted, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>slice</unit></amt>
+        <item>Toasted white bread</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Tomato</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon; cooked and drained</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>&lt;--Sauce--&gt;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Swiss cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and white pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Recipe by: Beaumont Inn
+  
+  Heat butter and add flour. Whisk and slowly cook for 5 minutes. Whisk in
+  cream and milk and heat. Whisk in cheese until melted. Season. Simmer for
+  30 minutes. Sauce should be very thick.
+  
+  Quarter toast and place in an oven safe dish. Top with turkey and tomatoes.
+  Cover well with sauce. Bake at 400 degrees for 10 minutes. Garnish with
+  bacon.
+  
+  Note: This is a regional favorite that originated at Louisville's Brown
+  Hotel earlier in this century. Many variations can be found, most commonly
+  country ham is added and a cheddar sauce is substituted. This is our
+  version which I feel is closer to the original recipe. It is offered on our
+  lunch menu.
+  
+  Entered for you by: Bill Webster
+  Posted to MC-Recipe Digest V1 #835 by Bill Webster &lt;thelma@pipeline.com&gt; on
+  Oct 10, 1997
+ 
+</step></directions></recipe></recipeml>

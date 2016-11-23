@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Muffins #1</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Self rising flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Mashed banana</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jar (4-oz) banana baby food juice</item></ing></ingredients>
+    <directions>
+      <step>  Date: Tue, 28 May 1996 09:38:14 +0100
+  
+  From: Brown Jeannie &lt;brown_jeannie@macmail.belmont.edu&gt;
+  This recipe was posted about a week ago.  They turned out great.  I really
+  like this recipe because it is easy and doesn't call for anything I
+  wouldn't normally have on hand, plus it's low in sugar. I have tried two
+  variations that turned out just as good. I'm sorry I don't remember who
+  posted this, but thanks!
+  
+  (Mix dry ingredients and fruit, add juice and stir just until blended.  Put
+  in muffin cups and bake at 305 degrees for about 25 min.)  I always double
+  the recipe.
+  
+  FATFREE DIGEST V96 #148
+  
+  From the Fatfree Vegetarian recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

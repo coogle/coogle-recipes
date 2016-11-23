@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>7-Up Dessert</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BASE</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>packages</unit></amt>
+          <item>(3-oz) lemon jello</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Boiling water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>7-up</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>(large) crushed pineapple (drain well and save juice)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Diced bananas</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Lemon; juice of</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Pineapple juice (if there isn't enough; add water)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg; slightly beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Cool whip or dream whip</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit></amt>
+          <item>Angel flake coconut</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Pecan pieces</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From: rubyd@wam.umd.edu (teresa marie Cannon)
+  
+  Date: Fri, 25 Nov 1994 16:04:07 +0000
+  Mix the jello and boiling water. Cool. Add the 7-UP. When mixture is about
+  to congeal, add the pineapple. Add the bananas which have been soaked in
+  lemon juice. Pour into a 9x13 inch container and let chill until firm.
+  
+  To Make Topping: Mix the suagr and flour. Add the beaten egg and butter.
+  Add the pineapple juice. Cook over low heat until thickened, stirring as it
+  cooks, until mixture is thick. Let cool Fold in whipped topping and
+  coconut. Spread this topping over the firm chilled base. Sprinkle with
+  pecan pieces.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /DESSERTS
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

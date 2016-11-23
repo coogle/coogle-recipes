@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anasazi and Pinto Beans with Hominy And Green Chiles</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Stews</cat>
+        <cat>Casseroles</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dried anasazi beans</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dried pinto beans</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Dried indian hominy</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Green anaheim chiles</item></ing></ingredients>
+    <directions>
+      <step>  Soak the beans overnight in water to cover.  In the morning rinse the beans
+  with cold water and place in a large pot with fresh water to cover. Stir in
+  the salt, cover and simmer slowly 2 to 2 1/2 hours, until the beans are
+  tender.  Add water when necessary and stir occasionally to prevent the
+  beans from burning. Add hominy and simmer, covered, 1 hour, stirring
+  occasionally.  The hominy and beans should be very soft and moist, but not
+  too watery. While the beans and hominy are cooking, roast, peel, seed and
+  dice the chiles. Sprinkle on top of the cooked beans for garnish.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

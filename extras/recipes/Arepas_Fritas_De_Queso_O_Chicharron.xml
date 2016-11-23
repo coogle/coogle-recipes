@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arepas Fritas De Queso O Chicharron</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Columbian</cat>
+        <cat>Venezuelan</cat>
+        <cat>Cheese</cat>
+        <cat>Pork</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Basic arepa dough recipe</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated Muenster cheese; OR</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Ground chicharrones</item></ing></ingredients>
+    <directions>
+      <step>  Fried Corn Cakes From Antioquia With Cheese Or Pork Rind
+  
+  Knead dough with cheese or chicharrones until smooth. Shape into 4-inch
+  discs and deep-fry in hot oil until crispy. Drain on paper towels and serve
+  hot. These arepas can also be cooked on a griddle and served with butter.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

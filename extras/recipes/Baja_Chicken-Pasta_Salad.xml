@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baja Chicken-Pasta Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Pasta</cat>
+        <cat>Poultry</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Uncooked Orzo or ring macaroni</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(6 ounces) diced dried mixed fruit (about 11/2 Cups)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cut-up cooked chicken</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cubed jicama</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green onions (with tops), sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Mayonnaise or salad dressing</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Yoplait Original plain yogurt or sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Ground red chilies</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Orzo is tiny pasta that resembles the shape of rice.
+  
+  Cook Orzo as directed on package except stir fruit into boiling water with
+  Orzo. Rinse Orzo and fruit with cold water; drain.
+  
+  Mix chicken, Orzo, fruit, jicama and onions. Mix remaining ingredients;
+  toss with chicken mixture. Cover and refrigerate about 2 hours or until
+  chilled.
+  
+        6    servings.
+  
+  From the files of Al Rice, North Pole Alaska.    Feb 1994
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

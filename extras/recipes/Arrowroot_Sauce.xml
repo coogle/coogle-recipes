@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arrowroot Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Arrowroot powder cool water</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Tamari soy sauce; up to 3 tb</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Vegetable bouillon cube up to 2 cubes or 1-2 tsp vegetable broth powder</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cayenne pepper; to taste</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sea kelp; to taste</item></ing></ing-div>
+      <ing-div>
+        <title>OPTIONAL</title></ing-div></ingredients>
+    <directions>
+      <step>  Mix the arrowroot thoroughly  with the water in the saucepan, using a wire
+  whisk. Add the remaining ingredients and mix well. Cook over medium heat,
+  stirring constantly until thickened. Keep warm over low heat. Serve over
+  hot vegetables, whole grains or stir frys. Keeps up to 7 days in
+  refrigerator or may be frozen.
+  
+  SERVES: 4-6 SOURCE: _Vegan Delights_ by Jeanne Marie Martin posted by Anne
+  MacLellan
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

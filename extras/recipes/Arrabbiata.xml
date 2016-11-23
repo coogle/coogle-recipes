@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arrabbiata</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced or peeled tomatoes; chopped (or "basic" sauce)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Extra virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Ground red hot pepper; or 1/2 red hot pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Oreganon</item></ing></ingredients>
+    <directions>
+      <step>  (in Italy it's usually served with penne)
+  
+  Place oil, garlic, and red pepper (if you're using the vegetable) in a
+  saucepan. Simmer until garlic is light brown (it takes only a few minutes)
+  and then, if you wish the sauce to be milder, remove the red pepper. Add
+  tomatoes, oreganon and salt, and simmer for another half hour. Then remove
+  the pan from the heat and add pepper. If you chose to use ground red hot
+  pepper, add it now.
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Lucretia B
+  &lt;lucretiab@geocities.com&gt; on Dec 10, 1997
+ 
+</step></directions></recipe></recipeml>

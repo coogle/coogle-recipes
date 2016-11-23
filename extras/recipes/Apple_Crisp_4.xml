@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Apples (preferably Granny Smith), peeled, cored and cut into eights</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Quince, quartered, cored and coarsely grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins, plumped in brandy or warm water and drained</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Finely ground walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>dashes</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cold butter, cut in tb</item></ing></ingredients>
+    <directions>
+      <step>  Combine apples, quince and raisins in stainless-steel mixing bowl.
+  There should be about 8 cups fruit. Add sugar to taste, 1/4-1/2 cup,
+  depending on sweetness of fruit. Do not over-sweeten.
+  
+  To make topping, combine in work bowl of food processor - or in
+  separate stainless-steel mixing bowl - 1/2 cup sugar, walnuts, flour
+  and salt. Stir to mix well. If using processor, add 2 tablespoons
+  butter and pulse briefly to mix. Add another tablespoon and pulse
+  again. If combination takes on consistency of moist sand, stop
+  processing. If not, add remaining tablespoon butter and pulse again.
+  If making by hand, follow same procedure, rubbing flour mixture and
+  butter between finger tips rather than in processor.
+  
+  Pour fruit into buttered 13x9" baking dish and spread evenly.
+  Distribute topping by hand over top, breaking up large clumps. Bake
+  at 350'F. 45-50 minutes or until fruit is tender and topping is
+  browned.
+  
+  Each serving contains about: 147 calories; 90 milligrams sodium; 16
+  milligrams cholesterol; 8 grams fat; 19 grams carbohydrates; 1 gram
+  protein; 0.79 gram fiber.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

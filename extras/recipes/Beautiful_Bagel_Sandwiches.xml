@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beautiful Bagel Sandwiches</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Bagels; sliced in half</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Alfalfa sprouts</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit></amt>
+          <item>Monterey Jack; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>ounces</unit></amt>
+          <item>Smoked salmon; thinly sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Kiwifruit; peeled, thinly sliced</item></ing></ing-div>
+      <ing-div>
+        <title>HORSERADISH SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Dairy sour cream</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Mayonnaise</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Freshly grated horseradish</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Prepare Horseradish Sauce by thoroughly mixing all three ingredients.
+  Spread layer of sauce on each bagel half. Sprinkle sprouts on each half,
+  then layer with cheese &amp; salmon. Top each half with kiwifruit slices,
+  arranged in an overlapping ring. If warmed bagels are desired, heat before
+  adding kiwifruit. Makes 4 to 8 servings.
+  
+  From the &lt;Hotter Than Hell!&gt;, by Jane Butel, ISBN 0-89586-646-3
+  (0-89586-542-4 paperback).  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

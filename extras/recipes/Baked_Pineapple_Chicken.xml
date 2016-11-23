@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pineapple Chicken</title>
+      <categories>
+        <cat>Poultry</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>DOLE Pineapple Chunks (20oz)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dijon mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Rosemary, crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Half chicken breasts, boned</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon, thinly sliced</item></ing></ingredients>
+    <directions>
+      <step>  DRAIN pineapple, reserve juice. Combine reserved juice with garlic,
+  cornstarch, Wrocestershire sauce, mustard and rosemary. Arrange
+  chicken in shallow baking pan or broiler-proof dish, skin side up.
+  BROIL until browned. Stir sauce; pour over chicken. BAKE at 400'F. 30
+  minutes. Arrange lemon and pineapple slices around chicken. Spoon
+  sauce from baking pan over all; continue baking 5 minutes. Garnish
+  with fresh rosemary or parsley, if desired. Prep Time: 10 minutes.
+  Bake Time: 40 minutes.
+  
+  From Tuscon area newspapers, 1994, 3rd quarter, courtest Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/tn-94q3.zip
+ 
+</step></directions></recipe></recipeml>

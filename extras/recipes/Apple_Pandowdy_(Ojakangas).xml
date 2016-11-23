@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pandowdy (Ojakangas)</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FILLING</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Apples; tart</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon; ground Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Molasses or tightly packed b Water</item></ing></ing-div>
+      <ing-div>
+        <title>PASTRY</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Baking powder Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter or shortening</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 450 degrees F. Lightly butter a shallow 1 1/2-to 2-quart
+  baking dish. Pare the apples and slice. Place in the bottom of the baking
+  dish. Sprinkle with the sugar and cinnamon, and 1/4 teaspoon salt. Mix
+  molasses ands water and pour over the apples. In a mixing bowl,
+  combineflour, baking powder,and 1/4 teaspoon salt. Cut in butter or
+  shortening, until mixture resembles coarse crumbs. Add milk and mix until
+  dough holds together in a ball. On a lightly floured board, roll out dough
+  to a thickness of about 1/3 inch to fit the top of the casserole. Place
+  over apples. Cut vents in the top. Bake 20 to 25 minutes, until golden.
+  Recipe From:Great Old-Fashioned American Desserts Copyright 1987 by
+  Beatrice Ojakangas from Usenet Recipes conference Source: CRS file
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

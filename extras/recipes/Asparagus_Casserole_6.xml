@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Casserole</title>
+      <categories>
+        <cat>Vegetables</cat>
+        <cat>Low-cal</cat>
+        <cat>Casseroles</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Asparagus; fresh, 2" lengths</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cream of mushroom soup</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Mushrooms; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Cheddar cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>French fried onion ring; 3oz</item></ing></ingredients>
+    <directions>
+      <step>  Butter a casserole dish. Put a layer of asparagus on bottom then add soup.
+  Next add mushrooms and half the cheese. Add second layer of asparagus and
+  end with a layer of cheese. Bake at 350 degrees for 30 minutes or until
+  bubbly. Sprinkle onion rings on top and return to oven for 5 minutes more.
+  Posted to MC-Recipe Digest V1 #1055 by "M. Hicks" &lt;nitro_ii@email.msn.com&gt;
+  on Jan 29, 1998
+ 
+</step></directions></recipe></recipeml>

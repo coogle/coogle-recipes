@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Batilda Paulista (Brazilian Rum with Lemon Juice)</title>
+      <categories>
+        <cat>Mexico</cat>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar, superfine</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Cachaca (brazilian rum)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Ice cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon slice</item></ing></ingredients>
+    <directions>
+      <step>  1. Combine the egg white and sugar in a mixing glass, and stir with a bar
+  spoon to dissolve the sugar. Add the cachaca, lemon juice and ice cubes.
+  Place a bar shaker on top of the mixing glass and, grasping the glass and
+  shaker firmly together with both hands, shake them vigorously 9 or 10
+  times. Remove the shaker, place a strainer on top of the glass and pour
+  into a chilled old-fashioned glass. With a sharp knife, slit the lemon
+  slice from the peel just to the center, and use the slit to hold the slice
+  on the rim of the glass.
+  
+  Adapted from Time-Life Foods of the World - Latin American cooking.
+  CompuChef conversion by Rick Weissgerber.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

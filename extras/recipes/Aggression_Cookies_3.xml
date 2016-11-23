@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aggression Cookies</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Cookies</cat></categories>
+      <yield>180</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Oatmeal</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing></ingredients>
+    <directions>
+      <step>  Put all this in a huge bowl and mash, knead, squeeze, (see below). Then
+  form it into small balls, midway between filbert size and English walnut
+  size.  Place on ungreased cookie sheet.  Butter the bottom of a small
+  glass, dip it in granulated sugar and mash the balls flat. Keep doing it.
+  You need butter the glass bottom only once or twice but re-dip it in sugar
+  for each ball.  Then bake at 350 for 10 to 12 minutes. Let them sit just a
+  bit before taking up from cookie sheet.
+  
+  ***** This is a Peg Bracken recipe and Peg stated "However, these are the
+  best-tasting as well as the fastest, easiest and cheapest cookies I ever
+  ran into and I wouldn't say such a thing unless I meant it. the community
+  Mental Health Center at St. Lwarence Hospital in Lansing, Michigan, printed
+  it, in the hope of channeling some energies away from throwing bricks, or
+  snarling at Santa Claus.  The more you knead, mash, squeeze and beat the
+  bejunior out of the dough, the better you feel and the better the cookies
+  taste.
+  
+  Recipe By     :
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

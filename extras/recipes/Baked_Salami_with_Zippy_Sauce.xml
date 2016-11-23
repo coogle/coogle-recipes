@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Salami with Zippy Sauce</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Salami; (whatever size you want. Just make extra sauce if it is large.)</item></ing></ing-div>
+      <ing-div>
+        <title>SAUCE OF BASTING &amp; DIPPING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Apricot or peach preserves</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Regular yellow mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Honey mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Dijon mustard</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Score salami, end to end, in several places to allow fat to drain while
+  cooking. Foil line a shallow baking dish and place salami in it. Cover with
+  sauce (just mix ingredients no baking) and bake in 350 oven until charred
+  on all sides (between 45 min. to an hour typically). Continually baste and
+  turn throughout cooking to ensure even charring.
+  
+  Once done, cut into bite-size chunks and serve with dipping sauce (I
+  usually make two servings of sauce - one to baste and one to dip) and
+  toothpicks.
+  Posted to JEWISH-FOOD digest Volume 98 #008 by lisamontag@juno.com (Lisa
+  Montag) on Jan 5, 1998
+ 
+</step></directions></recipe></recipeml>

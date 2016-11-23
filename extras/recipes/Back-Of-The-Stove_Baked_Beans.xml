@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Back-Of-The-Stove Baked Beans</title>
+      <categories>
+        <cat>Beans</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Large onions; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>White beans; rinsed, drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chicken broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried prepared mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper; freshly ground</item></ing></ingredients>
+    <directions>
+      <step>  1. Cook bacon over low heat in heavy bottomed saucepan until crisp.  Remove
+  bacon to paper towels to drain.  Pour off all but 1 tablespoon fat from
+  pan.  Raise heat to medium; add onion.  Cook until soft and golden, about 2
+  minutes.
+  
+  2. Add beans, chicken broth, molasses, tomato paste, brown sugar, mustard,
+  salt and pepper to taste.  Stir until beans are coated, and sauce is
+  blended.
+  
+  3. Cover beans; cook over low heat 45 minutes.  Crumble cooked bacon and
+  stir into beans before serving.
+  
+  Contributor:  Chicago Tribune
+  
+  Posted to MM-Recipes Digest  by Jack Elvis &lt;jackelvis@moonlink.net&gt; on May
+  13, 1998
+ 
+</step></directions></recipe></recipeml>

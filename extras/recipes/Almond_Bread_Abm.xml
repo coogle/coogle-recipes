@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Bread Abm</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Almond paste; 1/8" slices</item></ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Flour; not bread flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar, brown</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Yeast</item></ing></ing-div>
+      <ing-div>
+        <title>GLAZE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Syrup, corn</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Water; warm</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Almonds, slivered</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Unless the instructions that came with your ABM  call for putting the yeast
+  in the pan first and incorporating the liquid ingredients last, pour the
+  milk into the baking pan of your ABM and break in the egg. If the butter is
+  not soft, cut it into small chunks to ensure its blending into the dough,
+  then add it to the liquids.
+  
+  Next add the almond paste, sliced so it will blend better too. Measure in
+  the flour, brown sugar, and salt, and add the yeast as directed for your
+  bread maker.
+  
+  You can use your machine's full cycle with this bread, but the quick cycle
+  is better. If a light color setting is available, use it as well.
+  
+  As soon as the bread has finished baking, remove it from the machine,
+  closing the cover again, and ease the loaf from the pan. Combine the corn
+  syrup and warm water and brush the top of the loaf with this mixture, using
+  a pastry brush. Sprinkle the slivered almonds over the glaze, put the bread
+  gently back in its pan, and return it to the electronic oven for a few
+  minutes to dry the glaze a bit.
+  
+  Source: The Bread Machine Bakery Book
+  
+  Posted on GEnie Food &amp; Wine RT Dec 23, 1992 by C.SVITEK [cathy]
+  
+  From the recipe files of Sylvia Steiger, GEnie THE.STEIGERS, CI$
+  71511,2253, GT Cookbook moderator at net/node 004/005
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdjaxxx.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>American Chocolate Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Chocolate</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour or bread flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Warm water (105 - 115 F)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Envelopes dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Dough:</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Lukewarm milk (95 F)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter, melted</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>To 5 cups all-purpose flour or bread flour</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Semisweet chocolate, coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg beaten with 2 Tbs whipping cream (glaze)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Makes 8 small loaves
+  
+  Sponge:
+  
+  For sponge:  Whisk flour, water, yeast and honey in large bowl until
+  smooth.  cover with plastic.  Let stand in warm draft-free area 1 hour.
+  
+  For dough:  Stir down sponge, using wooden spoon. Blend in milk, butter and
+  salt.  Mix in enough flour 1/2 cup at a time to form soft dough. Knead on
+  floured surface until smooth and no longer sticky, adding more flour if
+  necessary, about 10 minutes.
+  
+  Grease large bowl.  Add dough, turning to coat entire surface. Cover bowl
+  with plastic.  Let rise in warm draft-free area until doubled, about 1 1/4
+  hours.
+  
+  Grease eight 2 1/2 x 4 1/2-inch loaf pans.  Gently knead dough on lightly
+  floured surface until deflated. Pat out to 3/4 inch-thick rectangle. Cut
+  into 8 even pieces. Pat each out into 4x7-inch rectangle. Spread 1 ounce
+  chocolate on short end of each. Roll up jelly roll fashion. Pinch seam and
+  ends to seal. Arrange seam side down in prepared pans. Cover with kitchen
+  towel.  Let rise for 15 minutes to lighten.
+  
+  Preheat oven to 375 F.  Brush loaves with egg glaze and sprinkle with
+  sugar.  Bake until light brown and loaves sound hollow when tapped on
+  bottom, about 30 minutes. Immediately remove from pans. Cool on racks 10
+  minutes.  Serve loaves hot.
+  
+  Variation:  Spread 1 Tbs raspberry preserves on short end of dough before
+  adding chopped chocolate.
+  
+  Bon Appetit
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Ice Cream</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>package</unit></amt>
+          <item>AZTECA form; bake and fill Salad Shells</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pint</unit></amt>
+          <item>Super premium vanilla ice cream</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Nutmeg</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Hot fudge sauce</item></ing></ing-div>
+      <ing-div>
+        <title>COOL WHIP</title></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 500 degrees. Remove salad shell package from refrigerator
+  and let stand at room temperature for 10 to 15 minutes or until salad
+  shells are soft and pliable. Mix Sugar, cinnmon and nutmeg together in
+  small bowl. Carefully remove ice cream from container, making sure it
+  remains well frozen. (cutting it away with sharp scissors works best). Cut
+  ice cream block into four equal sized rounds. Place one ice cream round in
+  center of each unbaked salad shell. Carefully wrap salad shell around ice
+  cream, making sure ice cream is totally enclosed. Place smooth side up,
+  spaced well apart on ungreased cookie sheet. Sprinkle with sugar/spice
+  mixture. Bake for three minutes or until crust just begins to turn golden
+  in color. Remove from oven and place on serving dishes. Let stand for two
+  minutes to allow shell to continue to crisp. (the ice cream will not melt).
+  Top with hot fudge sauce, garnish with Cool Whip and serve immediately.
+  
+  Per serving: 42 Calories; less than one gram Fat (5% calories from fat); 0g
+  Protein; 11g Carbohydrate; 0mg Cholesterol; 0mg Sodium
+  
+  Recipe by: Azteca
+  
+  Posted to MC-Recipe Digest by Lisa Minor &lt;lisa@cybermill.com&gt; on Feb 13,
+  1998
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Potato Cake</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Potato cakes -- (see</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Recipe)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Apples -- cooking apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon curd -- (see recipe)</item></ing></ingredients>
+    <directions>
+      <step>  Prepare potato cakes recipe. Divide dough into 2 parts. Roll out into 2
+  large circles.  Peel apples and slice thinly. Layer apple slices on 1
+  circle of dough;  cover with other.  Pinch edges  to seal.  On greased
+  griddle,  cook slowly over low heat,   turning once.  When apples are
+  cooked, remove top cake and sprinkle with sugar, cinnamon, ground cloves
+  and butter.  Replace top cake and heat 5 minutes longer. Serve with lemon
+  curd and hot tea.
+  
+  Recipe By     : "Aine.McManus" &lt;mcmanus@maths.anu.edu.au&gt;, Gaelic List
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

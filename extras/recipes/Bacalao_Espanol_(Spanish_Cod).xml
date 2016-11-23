@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacalao Espanol (Spanish Cod)</title>
+      <categories>
+        <cat>Mexican</cat>
+        <cat>Seafood</cat>
+        <cat>Ceideburg 2</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Salted codfish</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley,</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion, minced well chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dry sherry</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Tomatoes, peeled and chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Green olives, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Clove of garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>(4-ounce) can pimientos, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Oregano</item></ing></ingredients>
+    <directions>
+      <step>  This came from one of the other cookbooks I picked up last weekend.
+  Nice segue, eh?
+  
+  Inherited from Spain, this codfish dish is a favorite of the
+  Mexicans. Soak codfish for 8 hours in enough cold water to cover it.
+  Drain and shred the fish.  Saute the onion in the oil until it is
+  softened. Add codfish and saute a few more minutes.  Add the
+  remaining ingredients. Simmer slowly until codfish is tender, about
+      1/2    hour or more.
+  
+  Makes 4 servings.
+  
+  From "The Art of Mexican Cooking" by Jan Aaron and Sachs Salom.
+  Doubleday and Company, N.Y., 1965.
+  
+  Posted by Stephen Ceideberg; March 9 1993.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/cberg2.zip
+ 
+</step></directions></recipe></recipeml>

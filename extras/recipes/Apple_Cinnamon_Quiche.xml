@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cinnamon Quiche</title>
+      <categories>
+        <cat>Breakfast a</cat>
+        <cat>Eggs and ch</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Apple; tart, shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>ounces</unit></amt>
+        <item>Cheddar cheese; shredded, (aged Vermont)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>10 inch pie crust; homemade</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whipping cream</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375 degrees F. Saute the apple for 5 minutes in the butter.
+  Combine with the cheese and place in the pie shell. Combine the sugar and
+  cinnamon and sprinkle over the apple and cheese. In a bowl lightly whisk
+  together the eggs and whipping cream, and pour over the apple and cheese.
+  Bake for 35 minutes or until set.
+  
+  Recipe by: Captain Ezra Nye House, Sandwich, Ma. (Yankee Magazine)
+  
+  Posted to MC-Recipe Digest V1 #1047 by Cookin44 &lt;Cookin44@aol.com&gt; on Jan
+  27, 1998
+ 
+</step></directions></recipe></recipeml>

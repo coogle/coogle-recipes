@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana-Strawberry Sorbet</title>
+      <categories>
+        <cat>Dessert</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Ripe bananas</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Frozen (unsweetened) strawberries</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing></ingredients>
+    <directions>
+      <step>  From: Jerry Young &lt;jerry_l_young@oakqm3.sps.mot.com&gt;
+  
+  Date: 20 Jul 1993 17:18:13 GMT
+  This won't require your ice cream maker, but this sorbet was simple and
+  tasty -- and my nearly two-year-old liked it a lot. A great dessert with no
+  sugar added.
+  
+  Cut the bananas into quarter-inch slices, coat with the lemon juice, place
+  on a cookie sheet, and freeze.
+  
+  After the bananas are frozen, puree them with the remaining ingredients in
+  the appliance of your choice (my cuisinart had to work pretty hard, but it
+  was very entertaining for the son to watch strawberries become sorbet.)
+  
+  Serve immediately in chilled cups. Leftovers don't freeze well, but they
+  make a nice flavoring for homemade yogurt.
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /DESSERTS
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

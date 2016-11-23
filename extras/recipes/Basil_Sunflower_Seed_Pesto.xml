@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Sunflower Seed Pesto</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Pasta</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Coarsely chopped fresh basil leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Unhulled raw sunflower seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresly grated Parmesan</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sweet butter, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cloves</unit></amt>
+        <item>Garlic, crushed</item></ing></ingredients>
+    <directions>
+      <step>  In a blender in batches or in a food processor puree the basil with the
+  sunflower seeds, the oil, the Parmesan, the butter, the garlic, and salt to
+  taste. Transfer the pesto to a small bowl and lay plastic wrap directly on
+  the surface to prevent discoloration. The pesto keeps, covered and chilled,
+  for 2 weeks. Makes about 1 1/2 cups.
+  
+  To use the pesto:  For every pound of dried pasta cooking in a keeple of
+  boiling salted water, stir together in a heated serving bowl 3/4 cup pesto
+  and 2/3 cup hot pasta cooking water. When the pasta is al dente, drain it
+  in a colander, add it to the pesto mixture, and toss the mixture with lemon
+  juice, salt, and pepper to taste.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

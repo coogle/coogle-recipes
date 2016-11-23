@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef 'n Barley Dinner</title>
+      <categories>
+        <cat>Main dish</cat></categories>
+      <yield>5</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Lean ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped green pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic clove; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Canned tomatoes, chopped (undrained)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato paste</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Medium QUAKER Barley*</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt (optional)</item></ing></ingredients>
+    <directions>
+      <step>  In a 4-quart saucepan or Dutch oven, brown ground beef.  Add green pepper,
+  onion and garlic.  Cook until onion is tender; drain.  Add remaining
+  ingredients.  Bring to a boil.  Reduce heat to low; cover.  Simmer 45 to
+  50 minutes or until barley is tender, stirring occasionally.
+  
+  Five 1-cup servings
+  
+  *NOTE: To use Quick QUAKER Barley, substitute 1 cup quick barley for
+  medium barley.  Prepare recipe as directed above except simmer 15 to 20
+  minutes or until barley is tender, stirring occasionally.
+  
+  Nutrition Information: 1 cup
+  * Calories 340
+  * Protein 23g
+  * Carbohydrate 37g
+  * Fat 12g
+  * Cholesterol 55mg
+  * Dietary Fiber 6g
+  * Sodium 475mg
+  * Percent Calories from Fat: 31%
+  
+  Exchanges: Starch/Bread 1, Meat 2, Vegetable 3-1/2
+  
+  Source: Quaker's Best Barley Recipes
+  Copyright 1992 The Quaker Oats Company
+  Reprinted with permission from The Quaker Oats Company
+  Electronic format courtesy of Karen Mintzias
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/barley.zip
+ 
+</step></directions></recipe></recipeml>

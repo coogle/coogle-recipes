@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Shrimp #5</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Large shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>slices</unit></amt>
+        <item>Bacon; in strips</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Chicken livers</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Clove garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>slices</unit></amt>
+        <item>Fresh ginger root</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>White bread</item></ing></ingredients>
+    <directions>
+      <step>  1. Shell, devein and butterfly shrimp, leaving the tail segments intact.
+  Cut each bacon strip crosswise in 4 sections. Slice chicken livers thin and
+  cut in similar-size sections.
+  
+  2. Place a piece of chicken liver, then bacon, on the flattened surface of
+  each shrimp. Arrange in a shallow dish.
+  
+  3. Mince garlic and ginger root; then blend with sugar, soy sauce, salt and
+  pepper. Pour over shrimp and let stand 15 to 20 minutes.
+  
+  4. Thread shrimp (with liver and bacon sections) on skewers. Either broil
+  in the oven or barbecue over charcoal, turning once or twice until shrimp
+  turn pink (about 5 minutes).
+  
+  5. Serve hot, accompanied by thin slices of white bread, trimmed of their
+  crusts.
+  
+  From &lt;The Thousand Recipe Chinese Cookbook&gt;, ISBN 0-517-65870-4. Downloaded
+  from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

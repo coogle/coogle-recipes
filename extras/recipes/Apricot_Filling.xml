@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Filling</title>
+      <categories>
+        <cat>Preserves</cat>
+        <cat>And</cat>
+        <cat>Condiments</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Dried apricots</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Orange peel</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>pinches</unit></amt>
+        <item>Nutmeg or cinnamon -- very</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sparingly</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in a heavy pot. Add water to barely cover. Bring to
+  a bo il, then cook over low heat until sauced.
+  
+  Recipe By     : Melanie Schoenfeld
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

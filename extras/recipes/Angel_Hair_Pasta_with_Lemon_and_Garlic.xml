@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Hair Pasta with Lemon and Garlic</title>
+      <categories>
+        <cat>Rosie's</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves, peel &amp; mince</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry white wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Freshly squeezed lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Chopped tomato (1 medium)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Spinach angel hair pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Semolina angel hair pasta</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh basil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Freshly grated Parmesan</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground black pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Bring a large pot of water to a boil over high heat and maintain at a boil.
+  Put the olive oil and garlic in a saute' pan and cook over medium heat just
+  until the garlic begins to brown. Remove the saute' pan from the heat and
+  pour in the wine. Return it to the heat. Cook for another 1 to 2 minutes,
+  until the wine has been reduced by half. Stir in the lemon juice and
+  tomato.  Remove the pan from the heat. Place the pasta in the boiling water
+  and cook to desired doneness, 30 seconds to 1 minute. Drain the pasta and
+  put it into a warm serving bowl. Add the basil, Parmesan cheese, and black
+  pepper, along with the tomato mixture.  Toss and serve immediately.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

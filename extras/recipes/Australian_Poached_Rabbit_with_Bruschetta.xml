@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Australian Poached Rabbit with Bruschetta</title>
+      <categories>
+        <cat>Australian</cat>
+        <cat>Meats</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Spanish onion, peeled and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Stalks of celery, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>small</unit></amt>
+        <item>Carrots, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sprigs of thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Bay leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Black peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Rabbit</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves of garlic, quartered</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>small</unit></amt>
+        <item>Fresh sage leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Extra virgin olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Crusty Italian ring loaf of bread (preferably day-old) Mesclun, to serve</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lemon wedges (optional), to serve</item></ing></ingredients>
+    <directions>
+      <step>  Bring 6 liters of salted water to the boil in a large saucepan. Add onion,
+  celery, carrot, herbs and peppercorns and return to the boil. Skim surface.
+  Add rabbit and return to the boil. Reduce heat to lowest setting, cover and
+  simmer very gently for 1 hour, or until rabbit is tender. Remove from heat
+  and cool rabbit in cooking liquid. Remove rabbit from liquid, strip meat
+  from bones and place it in a single layer on a plate or tray. Season meat
+  generously with salt and freshly ground black pepper.
+  
+  Return bones to cooking liquid and boil again to make stock to freeze for
+  another purpose, if desired.
+  
+  Transfer rabbit to a bowl.  Add garlic, sage and oil just to cover. Using
+  your hands, mix ingredients to combine, then cover and refrigerate for 48
+  hours.
+  
+  Cut bread into 1cm-thick slices and brush both sides with remaining oil
+  combined with 1 teaspoon sea salt. Place in a single layer on a rack on an
+  oven tray and bake at 150C for 30 minutes, or until pale golden. Using a
+  slotted spoon, remove rabbit from oil, and serve at room temperature with
+  warm bruschetta, mesclun and lemon wedges, if desired.
+  
+  Source: Australian Gourmet Traveller July '94
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

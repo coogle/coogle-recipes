@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus Ziti Casserole</title>
+      <categories>
+        <cat>Asparagus</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Ziti</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Cut asparagus; (14 oz.)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>small</unit></amt>
+        <item>Cloves garlic; crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sticks butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Heavy whipping cream; (1/2 pt.)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Ball Mozzarella; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Romano cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Minced fresh parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg beaten</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing></ingredients>
+    <directions>
+      <step>  Cook ziti to box directions. While ziti is cooking, prepare sauce. Over low
+  flame melt butter add crushed garlic cook, but do not brown. Then start
+  adding cream, stir and add Mozzarella, Romano, beaten egg and parsley,
+  continue stirring over low flame. When cheeses are melted sauce is ready.
+  Heat your asparagus in a small pot. When ziti is ready, drain. Place it in
+  your serving dish. Pour your sauce over ziti, drain your heated asparagus
+  (reserve juice) place cut asparagus over pasta. If ziti starts to dry add
+  some reserved juice. Serve immediately.
+  Posted to recipelu-digest by "Diane Geary." &lt;diane@keyway.net&gt; on Feb 4,
+  1998
+ 
+</step></directions></recipe></recipeml>

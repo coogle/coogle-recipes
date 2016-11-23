@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Coconut Cake</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Spirits</cat>
+        <cat>Coconut</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Cake mix -- prepared as</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Directed</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Coconut, dried</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Coconut cream</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Cool Whip®</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Amaretto</item></ing></ingredients>
+    <directions>
+      <step>  Mix cake mix as directed on package  adding amaretto and 6  oz. coconut to
+  batter, bake as directed. When done  take out of oven  with end of wooden
+  spoon make holes in entire cake ,pour coconut cream over top  of cake let
+  stand  3 hrs or over night . frost with mixture of cool whip and remaining
+  coconut. keep refigerated.
+  
+  Recipe By     : MrsCordle
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

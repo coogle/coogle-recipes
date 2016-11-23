@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apricot Fingers</title>
+      <categories>
+        <cat>Bakery</cat>
+        <cat>Desserts</cat>
+        <cat>Cookies</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1 8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Wholewheat flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Wheatgerm</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Soy flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Dried apricots</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Seedless raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Sunflower seeds</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Liquid sweetener</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Molasses</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375F.  Grease an 8" square baking tin &amp; set aside. Stir
+  together the oats, flour, wheatgerm &amp; soy flour. Add finely chopped
+  apricots, raisins &amp; sunflower seeds. Stir together the oil, sweetener &amp;
+  molasses &amp; add to the dry ingredients. Add as much of the orange juice as
+  necessary to make a soft but not runny mixture. Add the salt. Place the
+  apricot mixture into the prepared tin. Bake for 25 minutes. Cool in the tin
+  scronig into fingers while still hot with a sharp knife. When cold, remove
+  from the tin &amp; in an airtight container.
+ 
+</step></directions></recipe></recipeml>

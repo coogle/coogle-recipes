@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antipasto Pasta Salad</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Main dish</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Penne, rotini, etc. uncooked</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Roasted peppers, strips</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Marinated artichoke hearts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Diced muenster, brick, or provolene cheese, etc</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mushrooms, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped red onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh basil</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Lowfat caesar or italian salad dressing</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly ground pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sliced pepperoncine peppers</item></ing></ingredients>
+    <directions>
+      <step>  Date: Wed, 22 May 1996 13:35:15 -0600
+  
+  From: Arlene Schiffman &lt;arlenes@holly.colostate.edu&gt;
+  
+  These were in my local newspaper today.  Enjoy.
+  
+  Prepare pasta according to package directions.  While pasta is cooking,
+  combine pepper strips, artichoke hearts, cheese, mushrooms, onion and basil
+  in a large bowl.
+  
+  When pasta is done, drain and rinse with cold water. Drain well and add
+  pasta and dressing to bowl; toss well. Cover; refrigerate at least 1 hour
+  before serving.
+  
+  Posted to MealMaster Recipes List, Digest #142
+ 
+</step></directions></recipe></recipeml>

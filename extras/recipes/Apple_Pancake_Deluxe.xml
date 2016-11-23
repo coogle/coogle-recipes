@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pancake Deluxe</title>
+      <categories>
+        <cat>Brunch</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Apples; tart, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter; or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Eggs; beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>   Saute apples and butter until apples are slightly soft and light golden
+  brown.  Meanwhile, in a separate bowl, mix eggs, flour, sugar and vanilla.
+  Pour over sauteed apples and bake in 375~ oven for about 15 minutes until
+  custard mixture is nearly done. Remove from oven and top with generous
+  dollops of butter, granulated sugar, and cinnamon. Return to oven for five
+  minutes to melt butter and set custard.
+   Serve hot with heated maple syrup.  Freezes and reheats in microwave
+  beautifully.
+  
+   This is a delicious brunch offering all year long, but is especially great
+  in apple season.  Chuck in Pok.
+  Posted to MC-Recipe Digest V1 #308
+  
+  Date: Sat, 23 Nov 1996 19:16:57 EST
+  
+  From: colorado-pegg@juno.com (peggy g seevers)
+ 
+</step></directions></recipe></recipeml>

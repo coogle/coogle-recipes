@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All Purpose Barbecue Sauce</title>
+      <categories>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Salad Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Bourbon, Sherry, Or Wine</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Freshly Ground Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Soy Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Garlic Powder</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients and pour over meat.  Marinate in refrigerator.
+  Also use to baste meat as you cook it.  Good on red meat, fish or chicken.
+  
+  From "Trail Boss's Cowboy Cookbook" by Society of Range Management.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/west.zip
+ 
+</step></directions></recipe></recipeml>

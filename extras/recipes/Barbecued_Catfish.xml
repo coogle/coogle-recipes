@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Catfish</title>
+      <categories>
+        <cat>Fish/shellf</cat>
+        <cat>Barbe/grill</cat>
+        <cat>S living</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Catfish; 1 lb. each</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Paprika</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Worcestershire sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Oil, vegetable</item></ing></ingredients>
+    <directions>
+      <step>  Clean, skin, and fillet fish.  Combine remaining ingredients.  Baste
+  fish with sauce.  Place fish in a well-greased, hinged fish basket.
+  Place on grill about 3 to 4 inches from coals.  Cook 7 to 8 minutes
+  on each side or until fish flakes easily, brushing frequently with
+  the sauce.
+  
+  SOURCE: Southern Living Magazine, July, 1980. Typos by Nancy Coleman.
+  
+  From: Nancy Coleman                   Date: 04-13-96
+  Posted to MM-Recipes Digest V3 #244
+  
+  Date: Fri, 6 Sep 1996 23:00:30 -0400
+  
+  From: BobbieB1@aol.com
+ 
+</step></directions></recipe></recipeml>

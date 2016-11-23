@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef in Guiness</title>
+      <categories>
+        <cat>Meats</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Shin of beef</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Onions</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>medium</unit></amt>
+        <item>Carrots</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Seasoned flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Little fat or beef dripping</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pints</unit></amt>
+        <item>1 cup of Guiness &amp; water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mixed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sprig of parsley</item></ing></ingredients>
+    <directions>
+      <step>  The Guiness in this recipe has the same function as the wine in Coq
+  Au Vin - the acid &amp; moisture combined with the long, slow cooking
+  help tenderise the tough but flavoursome meat. Cut the beef into
+  chunks &amp; peel &amp; slice the onions &amp; carrots. Toss the beef in the
+  flour &amp; brown quickly in hot fat. Remove the beef &amp; fry the onions
+  gently until transparent. Return the beef &amp; add the carrots &amp; the
+  liquid. Bring just to the boil, reduce the heat to a very gentle
+  simmer, cover closely &amp; cook &amp; cook for 1 1/2 - 2 hours. Check that
+  the dish does not dry out, adding more liquid if necessary. Sprinkle
+  with chopped parsley &amp; serve with plainly boiled potatoes.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

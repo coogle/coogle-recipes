@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked French Toast</title>
+      <categories>
+        <cat>Breakfasts</cat>
+        <cat>Eggs</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Half and half cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>slices</unit></amt>
+        <item>Day-old french bread</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Corn syrup</item></ing></ingredients>
+    <directions>
+      <step>  In large bowl, combine eggs, milk, cream, vanilla, cinnamon and nutmeg; mix
+  well. Dip bread into egg mixture and arrange overlapping in PAM sprayed
+  9x13-inch pan. Pour remaining egg mixture over bread slices; cover and
+  refrigerate overnight. Or prepare early in morning for a dinner. In the
+  morning, combine butter, brown sugar,walnuts and corn syrup in small bowl;
+  mix well. Spread mixture evenly over bread. Bake in 350F oven for 40
+  minutes or until puffed and golden brown.
+  
+  NOTES : You must use grease the pan somehow, it does stick
+  
+  Recipe by: Centra Gas Publication
+  
+  Posted to Bakery-Shoppe Digest V1 #509 by "LauraG" &lt;gaggini@gate.usaor.net&gt;
+  on Jan 16, 1998
+ 
+</step></directions></recipe></recipeml>

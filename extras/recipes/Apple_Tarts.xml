@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Tarts</title>
+      <categories>
+        <cat>Cooking liv</cat>
+        <cat>Desserts</cat>
+        <cat>Fruit</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Sheet (1/2 pound) frozen puff pastry; thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Granny Smith apple</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cold unsalted butter; cut into bits</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Apricot jam; heated and strained</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vanilla ice cream or whipped cream</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>As an accompaniment</item></ing></ingredients>
+    <directions>
+      <step>  Roll out the pastry 1/8 inch thick on a lightly floured surface, cut out
+  two 7-inch rounds, and transfer them to a baking sheet. Peel, halve
+  lengthwise, and core the apple, slice it thin crosswise, and arrange the
+  slices, overlapping them slightly, on the pastry rounds. In a small bowl
+  stir together the sugar and the cinnamon, sprinkle the mixture evenly over
+  the apples, and dot the tarts with the butter. Bake the tarts in the middle
+  of a pre-heated 400 degree oven for 25 minutes, or until the pastry is
+  golden brown. Transfer the tarts to a rack, brush them with the jam and
+  serve them warm with ice cream.
+  
+  Yield: 2 serving
+  Recipe By     : COOKING LIVE SHOW #CL8729
+  
+  Posted to MC-Recipe Digest V1 #235
+  
+  Date: Sat, 5 Oct 1996 15:58:31 -0500
+  
+  From: "Jon and Angele Freeman" &lt;jfreeman@netusa1.net&gt;
+ 
+</step></directions></recipe></recipeml>

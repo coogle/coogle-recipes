@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Cheese Omelette</title>
+      <categories>
+        <cat>Pickell</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit/></amt>
+        <item>Apple,peeled,cored,</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>And thinly sliced.</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar, divided</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shredded Cheddar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or Swiss cheese.</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon Sugar or Granulated</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar  (optional)</item></ing></ingredients>
+    <directions>
+      <step>  In an 8-inch nonstick skillet with sloping sides, melt butter over medium
+  heat. Add apple slices in one layer. Cook for 2 minutes. Sprinle with 1 tsp
+  sugar and cinnamon to taste. Cook until tender, 3 to 5 minutes longer.
+  
+  In a small bowl, combine eggs, 1 tsp sugar and water. Beat with a fork
+  until eggs are just blended. Pour over apples in skillet.
+  
+  Stir with spatula to allow egg mixture to cover bottom of pan. Use spatula
+  to gently push cooked portions to the centre, tilting the skillet to allow
+  the uncooked egg to flow into empty spaces. When egg is almost set on
+  surface, sprinkle cheese over half of omelette. Slip spatula under unfilled
+  side, fold over filling and slide onto serving plate. Sprinkle with
+  cinnamon sugar and serve immediately.
+  
+  TIP:  Recipe may be doubled to make two servings.  If more that two
+  servings are required, keep the first omelette warm and repeat the recipe.
+  
+  Complete this meal with a green salad, whole wheat rolls and chocolate
+  instant pudding prepared with milk.
+  
+  Posted to MM-Recipes Digest V3 #274
+  
+  Date: Sun, 6 Oct 1996 15:59:01 -0600
+  
+  From: netdir@cyberspc.mb.ca (S.Pickell)
+ 
+</step></directions></recipe></recipeml>

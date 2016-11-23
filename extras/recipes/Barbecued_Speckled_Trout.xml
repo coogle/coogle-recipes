@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Speckled Trout</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Bbq</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Trout, whole</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Corn oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt &amp; pepper; to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tabasco</item></ing></ingredients>
+    <directions>
+      <step>  Wash the fish and dry with a paper towel. Make a paste fron the flour,
+  corn oil seasoned with salt, pepper and tabasco. Coat the fish with the
+  thin paste. Place over a grill over medium heat about three inches from
+  the charcoal brickettes. Barbecue about six to eight minutes, turning the
+  fish once.
+  
+  Allow one fish per person.
+  
+  Also for:
+  Use flounder, blues, mackerel, snapper, bass, specks, mullet
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-trout.zip
+ 
+</step></directions></recipe></recipeml>

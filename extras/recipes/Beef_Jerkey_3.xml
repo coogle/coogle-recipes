@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Jerkey</title>
+      <categories>
+        <cat>Beef</cat>
+        <cat>Appetizers</cat></categories>
+      <yield>30</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Flank steak</item></ing></ingredients>
+    <directions>
+      <step>  Select a 1/2 inch think flank or top round steak. trim away all fat then
+  partially freeze until firm. Slice across the grain in a 1/4 to 1/2 inch
+  wide strips. Place meat strips in a shallow dish or heavy plastic bag. Add
+  soy or terriyaki sauce to cover meat. If desired onion or garlic powder or
+  Worcestershire sauce may be added. Toss to coat each piece. Cover and
+  refrigerate several hours or over night. Lift meat from marinade, drain
+  will then air dry for a couple of hours. Arrange meat strips in single
+  layer on fine wire screen or cake cooling rack. Place in low temp. oven
+  (175 to 200 degrees) or slowly smoke-cook in smoker until meat is
+  completely dried. Store in air-tight container. Serve as a snack or
+  appetizer.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

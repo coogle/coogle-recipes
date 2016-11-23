@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>American Beef Sausage</title>
+      <categories>
+        <cat>Sausage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>pounds</unit></amt>
+        <item>LEAN GROUND BEEF</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>SAGE</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>teaspoons</unit></amt>
+        <item>SALT</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>FRESHLY GROUND BLACK PEPPER</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>CAYENNE</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>BREAD CRUMBS</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>PARSLEY; CHOPPED</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>BEATEN EGGS</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>WATER</item></ing></ingredients>
+    <directions>
+      <step>  MIX ALL INGREDIENTS THOROUGHLY AND STUFF INTO HOG CASINGS. PUT INTO BOILING
+  WATER, BEING SURE TO COVER COMPLETELY WITH WATER, AND BOIL FOR ABOUT 1/2
+  HOUR. TAKE FROM POT AND ALLOW TO COOL, THEN REFRIGERATE. T O SERVE, CUT
+  MEAT INTO THIN SLICES AND BROIL SLOWLY UNTIL BROWN ON ALL SIDES.
+  
+  FROM: THE SAUSAGE-MAKING COOKBOOK BY: JERRY PREDIKA
+  Posted to recipelu-digest by "Diane Geary" &lt;diane@keyway.net&gt; on Mar 12,
+  1998
+ 
+</step></directions></recipe></recipeml>

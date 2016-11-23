@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Pirushkes</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>14</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water, boiling</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening, vegetable or fat</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Yeast, cake</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water, lukewarm</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg, well beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour, sifted, all-purpose</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit/></amt>
+        <item>Apples, medium, tart</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins, seedless</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Nut meats, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Jelly, any desired</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Pour the boiling water over the salt, 1 tablespoon of sugar and shortening.
+  When it is lukewarm, add the yeast which has been dissolved in the 2
+  tablespoons of lukewarm water. Add the egg and 1 1/2 cups of the flour. Let
+  this batter rise at 85F until double in bulk, then add the remaining flour.
+  Knead until smooth. Let rise again for 1 hour. Divide the dough into 14
+  parts.  Roll out each part until 1/2" thick. Peel, core, and cut apples in
+  half.  Place a half, cut side up, on each piece of dough. Combine the
+  remaining ingredients and fill the cores with the mixture. Press the dough
+  firmly together over the apples and invert on a dull, greased, cookie tin.
+  Brush with melted shortening, and sprinkle with a little sugar and ground
+  cinnamon.  Let rise for 1 hour. Bake at 350F for 40 minutes, until a rich
+  brown.  Serve hot.  Allow 1 or 2 for each portion.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bearnaise Sauce</title>
+      <categories>
+        <cat>Sauces</cat>
+        <cat>Syd's book</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Dry White Wine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Tarragon Vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped Green Onions *</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Dried Tarragon</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sprigs Fresh Parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Whole Black Peppercorns</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Fresh Lemon Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>large</unit></amt>
+        <item>Egg Yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Melted Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cayenne</item></ing></ingredients>
+    <directions>
+      <step>  * Green onions should be finely chopped along with some tops.
+  ~-------------------------------------------------------------------------
+  In a small non-aluminum saucepan, bring the wine, vinegar, onions,
+  tarragon, parsley and peppercorns to a boil.  Cook until it is reduced to
+  about 2 tablespoons.  Strain the liquid and press the solids to get as much
+  of the flavor from them as possible.  Add the lemon juice and water to the
+  reduced wine mixture and heat to a simmer.  Whisk the egg yolks in the top
+  of a double boiler until thick and lemon colored.  Add the above liquid, a
+  tablespoon at a time and whisk after each addition.  The mixture should be
+  thick and almost double in size.  Dribble in the butter, whisking
+  constantly until the mixture forms a slowly dissolving ribbon when drawn
+  across itself.  Whisk in cayenne.  At this point it should be ready. It is
+  important to know that the sauce will thicken considerably within the first
+  few minutes after it is removed from the heat.  The mistake that most make,
+  is that they try to make Hollandaise and Bearnaise sauces too thick while
+  over the heat, and the next thing they have is scrambled eggs floating in
+  butter.  The sauce will thicken in the first minute after removing from the
+  heat.  From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

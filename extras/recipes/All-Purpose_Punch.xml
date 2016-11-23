@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-Purpose Punch</title>
+      <categories>
+        <cat>Beverage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bottle (2-liter) clear pop (club soda; gingerale, lemon-lime or similar)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(12-oz) frozen orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>(46-oz) pineapple juice</item></ing></ingredients>
+    <directions>
+      <step>  Reconstitute the orange juice in the punch bowl, add the pineapple juice
+  and soda pop. Add an ice ring. Makes about 5 qts (l) per batch. If you want
+  a more orangey-red color the new raspberry ginger ale flavor (pink) also
+  tastes good. Notice this is not too sweet. If you have a good size punch
+  bowl a bundt cake pan molds an ice ring that will last several hours before
+  it melts unless it is 100F in the shade. Congratulations!
+  
+  EOH@RASTER.KODAK.COM
+  
+  (ESTHER HELLER)
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

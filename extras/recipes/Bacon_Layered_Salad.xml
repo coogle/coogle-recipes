@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Layered Salad</title>
+      <categories>
+        <cat>Salad</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Head cauliflower</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Head lettuce; torn</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>(10-oz) frozen peas</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>container</unit></amt>
+        <item>(8-oz) sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated Parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bacon; cooked, crumbled</item></ing></ingredients>
+    <directions>
+      <step>  Separate cauliflower into flowerets. Layer lettuce, cauliflower &amp; peas in
+  that order in a 3-quart bowl. Combine sour cream &amp; mayonnaise, mixing well.
+  Spread evenly over top, sealing to edge of bowl. Sprinkle with remaining
+  ingredients in order listed. Cover bowl tightly &amp; chill overnight. Yields
+  8-10 servings.
+  
+  DONITA ALEXANDER
+  
+  From &lt;Simply Southern&gt;, the Desoto School Mothers' Assn, Helena-West
+  Helena, AR 72390.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

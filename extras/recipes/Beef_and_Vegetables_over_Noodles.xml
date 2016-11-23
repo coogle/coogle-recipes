@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Vegetables over Noodles</title>
+      <categories>
+        <cat>Meats</cat>
+        <cat>Main dish</cat>
+        <cat>Low cal</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Round steak</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Broccoli</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Mushroom</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Beef broth</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Reduced fat Sour Cream</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Egg noodles</item></ing></ingredients>
+    <directions>
+      <step>  Trim steak of all visable fat and cut diagonally across grain into 1/2 inch
+  thick strips.  Use both stems and flowers of broccoli. Slice onion thinly.
+  Slice mushrooms.  Cook egg noodles (the BROAD noodles are best). Brown meat
+  in oil in large nonstick skillet, 2 to 3 minutes. Add salt and pepper.
+  Remove meat. Add broccoli, mushrooms and onion to skillet. Add broth as
+  needed to prevent sticking, cook, stirring, 2 to 3 minutes. Return beef,
+  heat through. Remove from heat. Stir in sour cream. Serve over noodles. Per
+  serving: 522 calories, 34 g protein, 13 g fat, 67 g carbohydrate,
+  :            391 mg sodium, 134 mg cholesterol. From Family Circle
+  magazine, Feb. 18, 1992 Posted by: Sheila Exner - March 1992
+  
+  From: Nancy Vaine                     Date: 07 Aug 95 National Low-Fat
+  Cooking Echo. -
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

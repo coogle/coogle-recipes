@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>kilogram</unit></amt>
+        <item>White flour; (2.2 pounds)</item></ing>
+      <ing>
+        <amt>
+          <qty>25</qty>
+          <unit>grams</unit></amt>
+        <item>Yeast cake; fresh; (1 ounce)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or 1/3 ounce dry yeast</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>grams</unit></amt>
+        <item>Salt; (2/3 ounce)</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>deciliters</unit></amt>
+        <item>Water; (2 2/5 cups)</item></ing></ingredients>
+    <directions>
+      <step>  To give you something to play with until the next installent, try this.
+  This is the most basic bread recipe. Most of the time I use this and change
+  it as I please. [Berner]
+  
+  Put flour into large bowl. Stir yeast with warm water in small bowl. (If
+  the water is cold, the
+    yeast will not grow. If the water is too hot, the yeast will die.). Add
+  salt. Mix with flour and KNEAD! Let raise until size doubles. Make two
+  loafs and place on cookie sheet. Let raise again briefly. Bake at middle
+  heat in preheated oven. Baking time is 40 to 70 minutes.
+  From: Bread-Bakers Archives: ftp.best.com/pub/reggie/archives/bread/recipe
+  
+  Recipe By     : Berner Kochbuch
+ 
+</step></directions></recipe></recipeml>

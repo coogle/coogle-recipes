@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Mash</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Irish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Apple, cooking</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing></ingredients>
+    <directions>
+      <step>  Peel potatoes.  Cook in salted, boiling water. Meanwhile peel, core, and
+  slice apples.  Place in a pot with a tablespoon of water, and the sugar.
+  Cook until soft. When the potatoes are cooked, drain and mash thoroughly.
+  Beat in the apples and butter.  This mash goes partic- ularly well with
+  bacon, or fried herring.
+  
+                                     -- per Diane Duane
+                                        Fidonet COOKING echo
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

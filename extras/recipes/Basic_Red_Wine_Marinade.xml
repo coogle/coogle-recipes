@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Red Wine Marinade</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Dry red wine (Beaujolais; Chianti, merlot, pinot noir)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Olive oil</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Garlic cloves; peeled, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Each: salt; freshly ground black pepper</item></ing></ingredients>
+    <directions>
+      <step>  Chicago Tribune
+  
+  Preparation time: 10 minutes Yield: 2 1/2 cups
+  
+  Combine all ingredients in non-reactive bowl. Use to marinate 2 pounds
+  beef, venison, duck, buffalo, turkey, tuna and oily fish such as salmon and
+  mackerel. (Beef, game and duck can marinate overnight; fish should marinate
+  no longer than 1 hour.) Variations: Add up to 1 tablespoon chopped fresh
+  herbs such as thyme, rosemary, basil or sage. Posted to TNT - Prodigy's
+  Recipe Exchange Newsletter  by Rrairie@aol.com on Aug 27, 1997
+ 
+</step></directions></recipe></recipeml>

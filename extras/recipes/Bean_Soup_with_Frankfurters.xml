@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Soup with Frankfurters</title>
+      <categories>
+        <cat>German</cat>
+        <cat>Soups</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Navy beans; dried</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Beef broth</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Carrot; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Celery stalk; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bacon; strips, cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Onions; small, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper; white</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Frankfurters, sliced *</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Parsley; chopped</item></ing></ingredients>
+    <directions>
+      <step>  *  Note:  Use the real Frankfurters in this recipe and not the hot dogs!
+  +++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++++++++++++++ ++++
+  Soak beans overnight.  In a 3-quart saucepan bring beans, water and beef
+  froth to a boil. Cook for about 1 hour. Add carrot and celery and continue
+  cooking for 30 minutes.  In a separate frypan cook the bacon until
+  transparent.  Add the onions; cook until golden. Set aside. Mash soup
+  through a sieve or food mill.  Return to pan and add the bacon onion
+  mixture, salt and pepper.  Add frankfurters; reheat about 5 minutes.
+  Sprinkle soup with chopped parsley and serve.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

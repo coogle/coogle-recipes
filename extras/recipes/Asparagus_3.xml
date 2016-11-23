@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh asparagus; (or fresh green beans)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cooking spray</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Each; salt and pepper</item></ing></ingredients>
+    <directions>
+      <step>  &lt;excerpt&gt;http://kbyuwww.byu.edu/cooking/show-five.html
+  
+  Culinary Creations with Mary Crafts
+  
+  Show #5 Romantic Valentine's Day
+  
+  Trim tough end off asparagus. Steam asparagus in a small amount of water,
+  in a large saute pan. When tender, but still firm to the bite, drain and
+  immediately rinse with cold water. Refrigerate one day. At time of serving,
+  spray saute pan with coking spray and heat. Add asparagus and reheat. Add
+  lemon juice, salt and pepper. Serve immediately.
+  
+  Makes 2 servings.
+  Posted to recipelu-digest by LSHW &lt;shusky@erols.com&gt; on Feb 15, 1998
+ 
+</step></directions></recipe></recipeml>

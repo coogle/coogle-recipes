@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Pork Chops</title>
+      <categories>
+        <cat>Pork</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Pork chops</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Lemon, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Tomato sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing></ingredients>
+    <directions>
+      <step>  Brown chops with melted butter in large skillet. Place them in greased
+  baking dish. Place a thin slice of lemon on each. Sprinkle with salt and
+  pepper. Spread brown sugar over chops, then tomato sauce. Cover and bake
+  for 1 1/4 hours at 350 deg f. Makes 6 servings.
+  Posted to MM-Recipes Digest V5 #007 by scotlyn@juno.com (Daniel S Johnson)
+  on Jan 6, 1998
+ 
+</step></directions></recipe></recipeml>

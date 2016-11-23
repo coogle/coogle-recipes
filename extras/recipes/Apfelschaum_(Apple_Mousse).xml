@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apfelschaum (Apple Mousse)</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>German</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>large</unit></amt>
+        <item>Tart apples, peeled, cored and sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Grated peel of 2 lemons</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>liters</unit></amt>
+        <item>White wine (1 cup plus 1 Tbsp)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>For baking:</item></ing>
+      <ing>
+        <amt>
+          <qty>30</qty>
+          <unit>grams</unit></amt>
+        <item>Butter (2 Tbsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing></ingredients>
+    <directions>
+      <step>  Central Swabia
+  
+  In the wine, stew the apples until tender and mushy. Force through a sieve.
+  Add the sugar and lemon peel. Meanwhile, beat the egg whites to stiff peaks
+  and then carefully fold into the apple mixture. Fill the whole into a
+  buttered ovenproof dish (Jena Glass*), dust with 2 tablespoons sugar, and
+  slowly bake at 250 degrees F for about half an hour.
+  
+  Serves 4.
+  
+  ((*Note:  Jena Glass is similar to Pyrex.  K.B.))
+  
+  From:  D'SCHWAEBISCH' KUCHE' by Aegidius Kolb and Leonhard Lidel, Allgaeuer
+  Zeitungsverlag, Kempten. 1976. (Translation/Conversion: Karin Brewer)
+  Posted by: Karin Brewer, Cooking Echo, 8/92
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

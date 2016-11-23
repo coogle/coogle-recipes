@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ase Jup Jing Ha (Steamed Prawns with Black Beans)</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Seafood</cat>
+        <cat>China</cat>
+        <cat>Submitted</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Prawns; raw</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Beans, black</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic cloves; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Scallions; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Soy sauce, light</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Wine, white</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oyster sauce</item></ing></ingredients>
+    <directions>
+      <step>    Prepare the prawns by cutting off whiskers, cutting along the top of the
+  shell, and deveining them.  Leave the shells on the prawns because this
+  keeps the prawns more tender, tasty and plump. Wash, drain and put prawns
+  in a pie pan so as to be ready for steaming.
+    Wash black beans two times and mash into a paste; then add the chopped
+  garlic.
+    Combine remaining ingredients, EXCEPT the oil. Pour mixture over prawns;
+  then, pour oil on top. Cover and steam 10 minutes.  Serve over rice.
+    SOURCE: Chopstick, Cleaver and Wok.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

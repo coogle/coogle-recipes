@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Liqueur</title>
+      <categories>
+        <cat>Alcohol</cat>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>ounces</unit></amt>
+        <item>Unsalted almonds, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Almond extract</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Vodka</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar syrup (see recipe)</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients and shake thoroughly. Let steep for two weeks.
+  Filter and add more sugar if necessary. Let age for two more weeks and it
+  will be ready to serve.Excellent in coffee or over ice cream. Yield: 1 pint
+  Container: Quart jar
+ 
+</step></directions></recipe></recipeml>

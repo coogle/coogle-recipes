@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alfredo-Style Sauce</title>
+      <categories>
+        <cat>Italian</cat>
+        <cat>Two thumbs</cat>
+        <cat>Sauces</cat>
+        <cat>Food proces</cat>
+        <cat>Pasta</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Nonfat cottage cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Freshly grated Parmesan</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter Buds=AE powdered</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter substitute -- or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Othe=</item></ing></ingredients>
+    <directions>
+      <step>  				 1/2 cup evaporated skim milk 1/2 teaspoon chicken bouillon 1/2
+  teaspoon      dried basil 1/4 teaspoon freshly ground black pepper cayenne
+  ~- to taste
+  
+  Combine all ingredients in container of an electric blender; process until
+  smooth, stopping once to scrape down sides. Pour into a small saucepan;
+  cook sauce over low heat, stirring constantly, until thoroughly heated.
+  
+  Per serving (3 1/2 oz): Calories 86 (8% from fat), Fat 0.8g (0.6g
+  saturated)= , Cholesterol 6mg, Sodium 495 mg, Carbohydrate 6.8g, Fiber 0g,
+  Protein 13.1g.
+  
+  NOTE: The above nutrition information was based on this recipe making 6
+  servings, but in reality normal humans won't be able to get more than 4
+  main-course servings out of this at best.
+  
+  Recipe By     : ??? (posted by HS.Roch811sd@xerox.com)
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

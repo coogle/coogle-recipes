@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bayou Grilled Tuna</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Golden Dipt Cajun Style Seafood</item></ing></ing-div>
+      <ing-div>
+        <title>MARINADE</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Tuna steaks</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  http://www.gortons.com/recipes/grill_recipe2.html
+  
+  Pour Cajun Style Seafood Marinade evenly over fish, let stand 20 to 30
+  minutes, turning several times. Cook on an open grill over medium-hot
+  coals. Baste and turn once. Fish is done when flesh is opaque.
+  
+  "10 MINUTE RULE": Cook fish approximately 10 minutes for every inch of
+  thickness.
+  
+  Serve with Tossed salad, green beans, and French bread. Recipe by Golden
+  Dipt/Old Bay Products
+  Posted to recipelu-digest by molony &lt;&lt;molony@scsn.net&gt; on Feb 19, 1998
+ 
+</step></directions></recipe></recipeml>

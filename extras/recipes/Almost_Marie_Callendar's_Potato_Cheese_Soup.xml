@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almost Marie Callendar's Potato Cheese Soup</title>
+      <categories>
+        <cat>Soup</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Potatoes; peeled and cubed</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped onion</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped celery</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Half-and-half</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Shredded sharp cheddar cheese</item></ing></ingredients>
+    <directions>
+      <step>  Place potatoes, onions, celery, and salt in the 4 c of water in a large
+  pot. Simmer about 15 minutes until vegetables are tender. Put in blender
+  and puree until chunky. Return soup to pot and add half-and-half, butter,
+  and cheese. Simmer until hot. Do NOT Boil.
+  Posted to MC-Recipe Digest V1 #177
+  
+  Date: Wed, 31 Jul 1996 07:31:04 -0700 (PDT)
+  
+  From: PatH &lt;phannema@wizard.ucr.edu&gt;
+  NOTES : "Rita Y. of Mira Loma has used this recipe for some time and finds
+       this makes a very good soup.  Michael S. of Murrieta sent in the
+       same recipe."
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bavarian Veal</title>
+      <categories>
+        <cat>German</cat>
+        <cat>Meats</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Veal; Cut In 4 Thin Slices</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper,White</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Mustard; Dijon Style</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Bacon; Slices</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs; Large, Hard Cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion; Medium, Diced</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Beef Bouillon; Heated</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tomato Paste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unbleached Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Red Wine</item></ing></ingredients>
+    <directions>
+      <step>  Dry veal on paper towels.  Roll in a mixture of salt, sugar, white pepper,
+  and mustard.  Place a bacon slice on top of each piece of veal.  Place an
+  unsliced egg on top of the bacon.  Rollup each slice of veal (jelly-roll
+  fashion) and tie together with string.  Heat oil in frypan and brown veal
+  rolls well on all sides.  Add onion; saute for 3 minutes.  Add the hot
+  bouillon; cover and simmer gently 25 minutes.  Remove the veal from the
+  pan.  Remove the strings from the veal and keep veal warm on a serving
+  platter.  Add tomato paste to the pan drippings; stir.  Thoroughly mix
+  flour and red wine to remove all lumps.  Add to sauce and cook until
+  mixture thickens.  Add warm veal rolls and heat through.  Before serving,
+  place veal rolls on a platter, pour sauce over the rolls and serve with
+  pureed potatoes.
+  
+  Recipe By     :
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

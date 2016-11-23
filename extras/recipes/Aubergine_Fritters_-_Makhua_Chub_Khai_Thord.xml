@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Aubergine Fritters - Makhua Chub Khai Thord</title>
+      <categories>
+        <cat>Thai</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Stephen Ceideburg</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs, beaten</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Aubergines (eggplants), finely sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Oil for deep frying</item></ing></ingredients>
+    <directions>
+      <step>  Mix the eggs, salt and milk together to make a batter.
+  Dip the aubergine slices into the batter and deep-fry
+  the coated aubergine slices in the oil over moderate
+  heat until evenly brown.
+  
+  From "Discover Thai Cooking" by Chaslin, Canungmai and
+  Tettoni, Times Editions, Singapore. 1987
+  
+  Posted by Stephen Ceideburg
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

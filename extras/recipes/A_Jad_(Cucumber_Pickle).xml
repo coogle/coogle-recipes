@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Jad (Cucumber Pickle)</title>
+      <categories>
+        <cat>Condiment</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Rice vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cucumber; very coarsely chopped; or sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Shallots (purple onions) chopped (up to)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Red and green prik ki nu (Birdseye chillis); thinly sliced</item></ing></ingredients>
+    <directions>
+      <step>  Date: Tue, 20 Feb 1996 18:04:28 -0500
+  
+  From: The Meades &lt;kmeade@ids2.idsonline.com&gt; (by way of
+  
+  Combine the ingredients, and leave to stand overnight. Colonel Ian F.
+  Khuntilanont-Philpott Systems Engineering, Vongchavalitkul University,
+  Korat 30000, Thailand
+  
+  CHILE-HEADS DIGEST V2 #246
+  
+  From the Chile-Heads recipe list.  Downloaded from Glen's MM Recipe
+  Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

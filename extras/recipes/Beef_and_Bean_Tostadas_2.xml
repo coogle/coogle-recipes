@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Bean Tostadas</title>
+      <categories>
+        <cat/></categories>
+      <yield>100</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>22</qty>
+          <unit>pounds</unit></amt>
+        <item>BEEF GROUND FZ</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>pounds</unit></amt>
+        <item>CHEESE CHEDDER</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>pounds</unit></amt>
+        <item>CHEESE CHEDDER</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>pounds</unit></amt>
+        <item>SOUR CREAM 12 OZ</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>ounces</unit></amt>
+        <item>GARLIC DEHY GRA</item></ing>
+      <ing>
+        <amt>
+          <qty>10 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>TOMATOES FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>6 3/8</qty>
+          <unit>pounds</unit></amt>
+        <item>TOMATOES # 10 CAN</item></ing>
+      <ing>
+        <amt>
+          <qty>13</qty>
+          <unit>pounds</unit></amt>
+        <item>LETTUCE FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>6 1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>LETTUCE FRESH</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>ONIONS DRY</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>ONIONS DRY</item></ing>
+      <ing>
+        <amt>
+          <qty>200</qty>
+          <unit/></amt>
+        <item>FLOUR TORTILLA 8" 57 #23</item></ing>
+      <ing>
+        <amt>
+          <qty>9/16</qty>
+          <unit>pounds</unit></amt>
+        <item>FLOUR GEN PURPOSE 10LB</item></ing>
+      <ing>
+        <amt>
+          <qty>1/16</qty>
+          <unit>pounds</unit></amt>
+        <item>SUGAR; GRANULATED 10 LB</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>ounces</unit></amt>
+        <item>PEPPER RED GROUND</item></ing>
+      <ing>
+        <amt>
+          <qty>13/16</qty>
+          <unit>ounces</unit></amt>
+        <item>PEPPER PICKLE JALAP</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>ounces</unit></amt>
+        <item>CHILI POWDER</item></ing>
+      <ing>
+        <amt>
+          <qty>1/16</qty>
+          <unit>pounds</unit></amt>
+        <item>SALT TABLE 5LB</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>ounces</unit></amt>
+        <item>SALT TABLE 5LB</item></ing></ingredients>
+    <directions>
+      <step>  YIELD: 100 PORTIONS                              EACH PORTION: 2 TOSTADAS
+  
+  TEMPERATURE: 375 F. DEEP FAT
+  
+  1.  PREPARE ONE RECIPE TACO FILLING (RECIPE N0. N-21). SET ASIDE FOR USE
+  IN STEP 6.
+  2.  PERPARE ONE RECIPE TACO SAUCE (RECIPE NO. O-15). SET ASIDE FOR USE IN
+  STEP 6.
+  3.  WASH, TRIM AND PREPARE VEGETABLES AS DIRECTED ON RECIPE NO. M-G-1. SET
+  ASIDE FOR USE IN STEP 6.
+  4.  FRY EACH TORTILLA 1 1/2 MINUTES. DRAIN ON ABSORBENT PAPER. DO NOT FOLD.
+  SET ASIDE FOR USE IN STEP 6.
+  5.  HEAT BEANS IN STEAM-JACKETED KETTLE OR STOCK POT. KEEP WARM FOR USE IN
+  STEP 6.
+  6.  FOLLOW ASSEMBLY INSTRUCTIONS.
+  7.  SERVE IMMEDEIATELY.
+  
+  ASSEMBLY INSTRUCTIONS: ARRANGE EACH TOSTADA AS FOLLOWS:
+  
+  1. ONE TOSTADA SHELL
+  2. 1/4 CUP ( 1-N0. 16 SCOOP) REFRIED BEANS, SPREAD EVENLY
+  3. 1/4 CUP (1-NO. 16 SCOOP) SHREDDED CHEESE
+  4. 1/4 ( 1-N0. 16 SCOOP) TACO FILLING,SPREAD EVENLY
+  5. 1/4 CUP SHREDDED LETTUCE
+  6. 2 TBSP ( 1-NO. 30 SCOOP) CHOPPED TOMATOES
+  7. 2 TBSP CHOPPED ONIONS (OPTIONAL)
+  8. 1 TBSP TACO SAUCE
+  9. 1 TBSP SOUR CREAM
+  
+  NOTE: 1. IN STEP 2, 18-7 OZ BT PREPARED TACO SAUCE MAY BE USED.
+  
+  2. IN STEP 3, 13 LB FRESH LETTUCE A.P. WILL YIELD 12 LB FINELY
+  SHREDDED LETTUCE; 10 LB 3 OZ FRESH TOMATOES A.P. WILL YIELD 10 LB
+  FINELY CHOOPED TOMATOES; AND 3 LB 5 OZ DRY ONIONS A.P.  WILL YIELD 3 LB
+  CHOPPED ONIONS.
+  
+  3. IN STEP 4, OVEN METHOD: PLACE TORTILLAS IN ROWS, 4 BY 6 ( 9 PANS)
+  ON SHEET PANS (18 BY 26 INCHES). BAKE 8 TO 10 MINUTES IN 425 F. OVEN OR
+  UNTIL CRISP. NOTE: CONVECTION OVEN: BAKE IN 375 F. OVEN 6 MINUTES.
+  
+  4. IN STEP 4, TORTILLAS, CORN, THAWED MAY BE USED. DEEP FAT FRY 20
+  SECONDS. OVEN METHOD: PLACE TORTILLAS IN ROWS 3 BY 5 ( 13 PANS) ON SHEET
+  PANS(18 BY 26 INCHES). BAKE 10 MINUTESIN CONVENTIONAL OVEN ( 425 F.) OR IN
+  CONVECTION OVEN (375 F.) 6 MINUTES.
+  
+  5. IN STEP 5, 28 LB 4 OZ (29-25 TO 16 OZ CN) CANNED REFRIED BEANS MAY
+  BE USED. PANS (18 BY 26 INCHES). BAKE 8 TO 10 MINUTES IN 425 F. OVEN OR
+  UNTIL
+  
+  6. IN STEP 5, ONE RECIPE PLAIN REFRIED BEANS (RECIPE NO. Q-75-3) MAY
+  BE USED.
+  
+  7. IN STEPS 1,2,3 AND 6, INGREIDENTS MAY BE PLACED ON SERVING LINE
+  FOR SELF SERVICE. BAKE 10 MINUTES IN CONVENTIONAL OVEN ( 425F.) OR IN
+  CONVECTION OVEN (375 F.) 6 MINUTES.
+  
+  5.  IN STEP 5, 28 LB 4 OZ ( 29-15 TO 16 OZ CN) CANNED REFRIED BEANS MAY
+  BE USED.
+  
+  6.  IN STEP 5, ONE RECIPE PLAIN REFRIED BEANS (RECIPE NO. Q75-3) MAY
+  BE USED.
+  
+  7.  IN STEPS 1,2,3 AND 6, INGREDIENTS MAY BE PLACED ON SERVING LINE
+  FOR SELF-SERVICE.
+  
+  Recipe Number: N04700
+  SERVING SIZE: 2 TOSTADAS
+  From the &lt;Army Master Recipe Index File&gt; (actually used today!).
+  Downloaded from Glen's MM Recipe Archive, http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

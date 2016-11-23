@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Cheesecake</title>
+      <categories>
+        <cat>Cheesecakes</cat>
+        <cat>Cakes</cat>
+        <cat>Desserts</cat>
+        <cat>Nuts</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Whole almonds</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Amaretto</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sour cream</item></ing></ingredients>
+    <directions>
+      <step>  Spread nuts in a baking pan and bake in a preheated 325F oven for 8 minutes
+  or until lightly toasted.  Let cool and finely chop. With an electric
+  mixer, beat cheese and sugar until smooth. Mix in eggs, vanilla, Amaretto
+  and sour cream.  Reserve 2 tablespoons of nuts, and stir in remaining nuts.
+  Pour batter into a greased 9-inch springform pan. Sprinkle reserved nuts
+  over the top.  Bake in the middle of a preheated 325F oven for 25 minutes
+  or until just barely set.  Turn off the oven, leave the door ajar, and let
+  cool in the oven for 1 hour longer. Chill. To serve, remove pan sides and
+  cut into wedges. Cheesecake: 31 Fantastic Recipes Lou Seibert Pappas
+ 
+</step></directions></recipe></recipeml>

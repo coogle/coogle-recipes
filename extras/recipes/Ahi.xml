@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ahi</title>
+      <categories>
+        <cat>Seafood</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>See below</item></ing></ingredients>
+    <directions>
+      <step>  To broil: Oil shallow baking pan. Arrange fillets in pan; brush
+  steaks with melted butter. Broil 4-5" from heat source, 10-12
+  minutes. Season with lemon pepper &amp; serve.  To grill: Prepare grill.
+  Allow coals to burn 30 minutes or until coated with light grey ash.
+  Brush steaks with melted butter &amp; cook 4-5 minutes per side.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

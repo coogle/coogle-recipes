@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>All-Day Macaroni and Cheese</title>
+      <categories>
+        <cat>M</cat>
+        <cat>A</cat>
+        <cat>I</cat>
+        <cat>N</cat>
+        <cat>D</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Elbow macaroni; cooked and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>16</qty>
+          <unit>ounces</unit></amt>
+        <item>Shredded sharp Cheddar cheese; divided</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Evaporated milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Black pepper</item></ing></ingredients>
+    <directions>
+      <step>  Place the cooked macaroni in a 3 1/2-quart (or larger) slow cooker that has
+  been coated with nonstick cooking spray. Add the remaining ingredients
+  except 1 cup of the cheese; mix well. Sprinkle with the remaining 1 cup
+  cheese, then cover and cook on the low setting for 5 to 6 hours, or until
+  the mixture is firm and golden around the edges. Do not remove the cover or
+  stir until the mixture has finished cooking.
+  
+  Recipe by: MR FOOD
+  
+  Posted to MC-Recipe Digest V1 #1041 by Meg Antczak
+  &lt;meginny@frontiernet.net&gt; on Jan 24, 1998
+ 
+</step></directions></recipe></recipeml>

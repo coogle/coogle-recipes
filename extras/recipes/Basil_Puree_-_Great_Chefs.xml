@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basil Puree - Great Chefs</title>
+      <categories>
+        <cat>Basics</cat>
+        <cat>Puree</cat>
+        <cat>Masterchefs</cat>
+        <cat>Frisco</cat>
+        <cat>M</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>bunch</unit></amt>
+        <item>Basil, washed, stemmed</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Oil, olive</item></ing></ingredients>
+    <directions>
+      <step>       Puree the basil with 1/2 cup of olive oil.  Cover with a bit of
+  olive oil and refrigerate for up to two weeks if desired.  (The length
+  of time the basil is in oil helps to diffuse the flavor into the oil.
+  On the other hand, after two weeks, the fresh basil begins to lose its
+  bouquet, and taste to natural spoilage.
+  
+       Discard after 6 weeks and start fresh.
+  
+       Source:  Great Chefs of San Francisco, Avon Books, 1984
+  
+       Chef:   Masataka Kobayashi, Masa's, Vintage Court Hotel,
+       :       San Francisco, CA
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mm-gc-sf.zip
+ 
+</step></directions></recipe></recipeml>

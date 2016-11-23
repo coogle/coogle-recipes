@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut Rounds</title>
+      <categories>
+        <cat>Bakery</cat>
+        <cat>Crackers</cat>
+        <cat>Nuts</cat></categories>
+      <yield>55</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Potato flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Margarine, softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Walnuts, finely chopped &amp; toasted</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Iced water</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt for the tops, optional</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350F. Mix flours &amp; salt together in a large bowl. Cut in
+  the margarine until the mixture resembles coarse breadcrumbs. Add walnuts &amp;
+  stir until they are evenly distributed in the flour. Blend in enough water
+  to form a cohesive ball. Add more water if necessary. The dough should be a
+  little sticky. Wrap dough in waxed paper &amp; chill for at least 1/2 hour.
+  Divide into 2 equal portions.  Roll out to 1/8" thickness. If desired,
+  sprinkle tops with salt &amp; roll over with rolling pin. With a round cookie
+  cutter, cut into 2" rounds. Place onto a lightly greased cookie sheet &amp;
+  prick with a fork. Bake for 25 to 30 minutes or until lightly browned. Cool
+  on a rack. Serve with spreads.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bear Roast</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Wild game</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>pounds</unit></amt>
+        <item>Bear meat</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Celery salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>(piece) Salt pork</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Coffee [black]</item></ing></ingredients>
+    <directions>
+      <step>  1)      Par boil the bear meat in 2 qts of water and 1 tb soda to eliminate
+  the wild taste. 2) Season the bear meat with the celery salt an pepper and
+  place in a stock pot, adding the garlic, salt pork, and enough water to
+  cover; Cook `til meat is tender, then drain RESERVING the pan juices. 3)
+  Place the meat in a roasting pan and top with the onions, roast at 350ø
+  `til brown, basting with the reserved juices 4) Thicken the remaining
+  juices for gravy and serve over potatoes served with the bear roast...
+  
+  Source: NYS DEC Albany NY from "Bill Saiff's Rod &amp; Reel Recipes for Hookin'
+  &amp; Cookin'" re-typed with permissin by Fred Goslin on Cyberealm Bbs, home of
+  KOOKNET in Watertown NY (315) 786-1120
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

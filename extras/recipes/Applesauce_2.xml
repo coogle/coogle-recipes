@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Applesauce</title>
+      <categories>
+        <cat>Kids</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>Bushel basket MacIntosh Apples</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit/></amt>
+        <item>Bushel basket Staymen Winesap</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>pounds</unit></amt>
+        <item>Delicious Apples peeled and chunked</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Brown sugar to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Nutmeg - grated</item></ing></ingredients>
+    <directions>
+      <step>  Wash and half Mac's and Winesap and cook until soft in as little water as
+  possible.  You can do this in pots on the stove (watch for burning) or in
+  roasting pans in the oven.  Even the microwave will do.
+  
+  Put through food mill and add brown sugar and cinnamon and nutmeg grated to
+  taste.  Add chopped delicious apples if you want chunky style.  Heat to
+  boiling, stiring occasionally. Pour boiling hot into hot jars leaving 1/2
+  inch head space.  Remove air bubbles. Adjust caps. Process pints and quarts
+  20 minutes in a boiling water bath.  Makes a years worth.
+  
+  Shared By: Pat Stockett
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/kids.zip
+ 
+</step></directions></recipe></recipeml>

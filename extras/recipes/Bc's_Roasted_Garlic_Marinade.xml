@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bc's Roasted Garlic Marinade</title>
+      <categories>
+        <cat>Marinades</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Bulb garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Olive or vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Spicy honey mustard</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Dried thyme leaves, crushed</item></ing></ingredients>
+    <directions>
+      <step>  Heat oven to 375 degrees F. Cut one-third off top of unpeeled garlic bulb,
+  exposing cloves. Place garlic in small baking dish; drizzle with oil. Cover
+  tightly and bake 45 minutes; cool. Squeeze garlic pulp from papery skin.
+  Place garlic and remaining ingredients in blender. Cover and blend on high
+  speed until smooth. Makes about 1
+      1/2    cups.
+  
+  *Betty Crocker's Great Grilling
+  Posted to MM-Recipes Digest V4 #306 by Michael McLaughlin
+  &lt;mmclaughlin@micronet.net&gt; on Nov 25, 1997
+ 
+</step></directions></recipe></recipeml>

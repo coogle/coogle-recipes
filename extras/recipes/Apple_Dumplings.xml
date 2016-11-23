@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Dumplings</title>
+      <categories>
+        <cat>Cakes</cat>
+        <cat>Fruits</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sifted Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking Powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Shortening</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cold Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>x</unit></amt>
+        <item>Med Apples, pared &amp; cored</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>   Sift flour, baking powder, and salt together. Cut in shortenig, add milk,
+  and mix to a smooth dough. Turn onto floured surface and divide into 6
+  portions. Roll each portion large enough to cover 1 apple. Place an apple
+  on each piece of pastry. Mix sugar and cinnamon together. Spoon some of
+  this mixture into each core cavity. Moisten edges of pastry and bring up
+  over the apple; seal edges. Place on greased baking sheet or in shallow
+  pan.
+   Bake at 350 deg F., or until apples are tender and pastry is lightly
+  browned. Remove from baking sheet. Serve warm with milk or cream.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

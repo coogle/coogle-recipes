@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Mayonnaise</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Non-fat mayonnaise</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>5 spice powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Fresh ginger (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Scallion; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>drops</unit></amt>
+        <item>Rice vinegar</item></ing></ingredients>
+    <directions>
+      <step>  Combine all of the ingredients and season to taste with salt and pepper.
+  Put this on your grilled chicken or turkey sandwich or burger. Posted to
+  Digest eat-lf.v097.n205 by "Tina D. Bell" &lt;tdbell@altair.csustan.edu&gt; on
+  Aug 13, 1997
+ 
+</step></directions></recipe></recipeml>

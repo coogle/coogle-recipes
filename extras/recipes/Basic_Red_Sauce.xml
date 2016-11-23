@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Red Sauce</title>
+      <categories>
+        <cat>Mexican</cat>
+        <cat>Sauces</cat>
+        <cat>Tomato</cat>
+        <cat>Vegetables</cat>
+        <cat>Mc</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Ancho Chilies</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Warm Water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; Chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Garlic; Cloves; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Tomato Sauce; 1 cn</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Oregano Leaves; Dried</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Cumin Seed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing></ingredients>
+    <directions>
+      <step>  Cover chiles with warm water. Let stand until softened, about 30 minutes;
+  drain. Strain liquid; reserve. Remove stems, seeds and membranes from
+  chilies. Cook and stir onion and garlic in oil in a 2-quart saucepan until
+  onion is tender. Stir in chilies, 2 cups of the reserved liquid and the
+  remaining ingredients. Heat ot boiling, reduce heat. Simmer, uncovered, 20
+  minutes; cool. Pour into a food processor workbowl fitted with steel blade
+  or into a blender container; cover and process until smooth. Cover and
+  refrigerate up to 10 days. Makes about 2 1/2 cups sauce.
+  
+  Posted to MC-Recipe Digest V1 #744 by Kathy Meade &lt;kmeade@idsonline.com&gt; on
+  Aug 15, 1997
+ 
+</step></directions></recipe></recipeml>

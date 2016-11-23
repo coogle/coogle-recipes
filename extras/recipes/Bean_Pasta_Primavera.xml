@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Pasta Primavera</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Pasta</cat>
+        <cat>Sauces</cat>
+        <cat>Vegetarian</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>BEAN PEPPER SAUCE</title>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>White beans, cooked</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Vegetable stock</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Roasted red bell peppers, peeled &amp; seeded</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Tarragon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Thyme</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Marjoram</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit></amt>
+          <item>Cayenne</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Black pepper</item></ing></ing-div>
+      <ing-div>
+        <title>PASTA</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Spinach spaghetti</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pounds</unit></amt>
+          <item>Broccoli</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Asparagus</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>large</unit></amt>
+          <item>Yellow peppers</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit/></amt>
+          <item>Bunches spinach, torn</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Basil leaves, shredded</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Poppy seeds</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Salt &amp; pepper, to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit/></amt>
+          <item>Oil packed sun dried tomatoes, drained &amp; slivered</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Combine 1 1/2 c beans, stock and roasted peppers in food proc. Blend
+  until smooth and creamy. Fold in herbs, and season with cayenne or
+  paprika, salt and pepper. Set aside.
+  
+  Cook pasta in boiling water according to package directions.
+  Meanwhile, prepare veggies.
+  
+  Remove broccoli florets from stalks and cut into bite sized pieces.
+  Peel broccoli stalks and cut diagonally into 1/4 inch thick slices.
+  Cut asparagus stalks diagonally into slices about 1 inch long. Remove
+  seeds from peppers and cut into long slivers.  Steam broccoli,
+  asparagus and peppers until tender crisp--about 10 mins, and set
+  aside. Steam spinach 3-4 mins.  Cool, press out excess liquid and
+  chop coarsley.
+  
+  Place pasta in large warmed bowl.  Add sauce, veggies, basil, poppy
+  seeds, and remaining 1c white beans.  Toss gently to mix.  Season
+  with salt and pepper and garnish with sun dried tomatoes.
+  
+  "Vegetarian Times"  Posted by Lisa Greenwood
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/vegan4.zip
+ 
+</step></directions></recipe></recipeml>

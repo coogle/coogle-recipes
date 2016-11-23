@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A "Boiled" Dinner</title>
+      <categories>
+        <cat>Pork</cat>
+        <cat>Soups/stews</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>To 3 pounds pork spareribs</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Hot water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Potatoes, pared and halved</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Canned or cooked green beans with liquid</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing></ingredients>
+    <directions>
+      <step>  Brown spareribs in frying pan without added fat. Add
+  water andsimmer for 1 hour.
+  
+  Add potatoes to meat and cook until tender - about 25
+  minutes.
+  
+  Add beans and liquid the last 10 minutes of cooking.
+  If raw beans are used, add with the potatoes.
+  
+  Season with salt and pepper. Skim off excess fat
+  before serving.
+  
+  To complete the meal: Serve with crisp lettuce, tomato
+  and celery salad, and apple betty with lemon sauce for
+  dessert.
+  
+  For variety: Beef short ribs may be used with longer
+  cooking.
+  
+  Corned beef, ham hock, or ham bone may be used in
+  place of shortribs. Cover with water and simmer about
+  3 hours or until tender. Omit salt, and continue as
+  above. Good with sauerkraut.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

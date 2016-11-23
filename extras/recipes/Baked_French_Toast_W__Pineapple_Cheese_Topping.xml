@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked French Toast W/ Pineapple Cheese Topping</title>
+      <categories>
+        <cat>Entree</cat>
+        <cat>Breakfast</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Can Sliced Pineapple</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Pkg. Cream Cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Confectioners Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>TOAST</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit/></amt>
+          <item>Eggs</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Orange Juice</item></ing>
+        <ing>
+          <amt>
+            <qty>3/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Loaf Texas Toast</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Place all topping ingredients in blender or processor and pulse until only
+  small chunks of pineapple remain. Cover and refrigerate until ready to use.
+  Whisk toast ingredients, except bread, in a flat dish until well blended.
+  Dip bread slices into egg mixture coating well on both sides. Arrange on a
+  cookie sheet that has been lightly greased. Bake at 425 15 to 20 minutes,
+  turning slices over half way thru time. Serve hot with pineapple cheese
+  topping.
+  TO PREPARE AHEAD; Prepare as directed above; cover pan and refrigerate for
+  up to 12 hours.
+  Posted to recipelu-digest by jeryder@juno.com (Judy E Ryder) on Feb 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

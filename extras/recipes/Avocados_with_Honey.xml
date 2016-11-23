@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocados with Honey</title>
+      <categories>
+        <cat>Cooking liv</cat>
+        <cat>Import</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Avocados</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Honey to taste</item></ing></ingredients>
+    <directions>
+      <step>  Cut the avocados in half lengthwise and remove the pit. Scoop the flesh
+  from the avocado, leaving the shell intact. Place the avocado meat in a
+  bowl and sweeten it with honey to taste. Replace the sweetened avocado in
+  the shells, cover them with plastic wrap and chill them. Serve them cold on
+  a bed of lettuce or on a bed of avocado leaves, if you can find them.
+  
+  Yield: 4 servings
+  
+  Notes: Recipe courtesy of Jessica Harris, "The Welcome Table"
+  
+  Recipe by: Cooking Live Show #CL9074
+  
+  Posted to MC-Recipe Digest by "Angele and Jon Freeman"
+  &lt;jfreeman@comteck.com&gt; on Apr 4, 1998
+ 
+</step></directions></recipe></recipeml>

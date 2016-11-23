@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Shredded Pork with Corn Crepes and Avocado Salsa</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Corn flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>All-purpose flour</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Kosher salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Unsalted butter; melted</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Minced chives</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Barbecue sauce (separate recipe)</item></ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit></amt>
+          <item>Shredded cooked pork</item></ing></ing-div>
+      <ing-div>
+        <title>AVOCADO SALSA</title>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Minced white onion (about 1/2 medium onion)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lime juice; more to taste</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Tomato</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Medium; ripe avocados</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Serrano chilies (according to taste), finely minced (up to 2)</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped cilantro</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Kosher salt to taste</item></ing></ing-div>
+      <ing-div>
+        <title>BARBECUE SAUCE</title>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chili sauce (bottled)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Molasses</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Soy sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Dijon mustard</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Clove garlic; crushed</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Chicken stock</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Tabasco sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Kosher salt</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Worcestershire sauce</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Chili flakes</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Anaheim chili; seeded and cut into 1-inch pieces</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit/></amt>
+          <item>Chiptole chili in adobo sauce (canned)</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  recipe from Bradley Ogden's Breakfast, Lunch &amp; Dinner
+  
+  In a medium mixing bowl sift together the dry ingredients. In a separate
+  bowl combine the egg, milk, and melted butter. Make a well in the dry
+  ingredients and gradually beat in the egg mixture. Stir in the chives. Let
+  the batter rest for 30 minutes before using.
+  
+  Heat a well-seasoned crepe pan over medium heat until almost smoking.
+  Butter lightly and pour in about 2 tablespoons of batter, just enough to
+  make a thin 5-inch crepe, tilting the pan to distribute the batter evenly.
+  Bake until golden brown, cooking on one side only. Remove the crepe from
+  the pan and continue with the remaining batter, stacking the warm crepes on
+  a plate.
+  
+  Heat the barbecue sauce in a medium saucepan and add the shredded pork.
+  Stir to coat the pork evenly with the sauce. Simmer gently for a few
+  minutes to make sure the meat is heated through. Fold or roll the crepes
+  around the filling. Top with any remaining barbecue sauce and serve the
+  avocado salsa on the side.
+  
+  Avocado Salsa (makes 2 cups): In a medium-size bowl, mix the minced white
+  onion and 2 tablespoons of the lime juice. Set aside while preparing the
+  tomato and avocados. Core and cut the tomato into 1/4-inch dice. Cut the
+  avocados in half, remove the seeds, scoop out the flesh. Cut the flesh into
+  1/2-inch dice. add the tomato, avocado, minced chilies and cilantor to the
+  onion mixture. Taste for seasoning and add salt, lime juice or minced chili
+  as needed. Cover tightly with plastic wrap and let the salsa stand for
+  about 1/2 hour before serving.
+  
+  Barbecue Sauce (makes 2 cups): Combine all the ingredients in a
+  heavy-bottomed saucepan and bring to a boil over high heat. Reduce heat to
+  low and simmer 15 to 20 minutes. Remove from heat and put through a fine
+  strainer. Refrigerate if not using immediately. Sauce will keep in
+  regfrigerator for up to 4 days.
+  
+  Posted to CHILE-HEADS DIGEST V4 #134 by Judy Howle &lt;howle@ebicom.net&gt; on
+  Sep 24, 1997
+ 
+</step></directions></recipe></recipeml>

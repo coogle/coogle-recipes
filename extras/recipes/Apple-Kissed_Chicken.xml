@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple-Kissed Chicken</title>
+      <categories>
+        <cat>Polkadot</cat>
+        <cat>Lisa</cat>
+        <cat>Fruits</cat>
+        <cat>Chicken</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Apple butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Skinless boneless chicken breast halves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Adobo seasoning</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable cooking spray</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Onion, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Apple, cored and cut into wedges</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Corn starch</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Water</item></ing></ingredients>
+    <directions>
+      <step>  Combine first 3 ingredients in a small baowl.  Stir well.  Set aside.
+  
+  Sprinkle chicken with Adobo.  Coat a large nonstick skillet with cooking
+  spray; place over medium-high heat until hot.  Add chicken, and cook 4
+  minutes on each side or until browned.  Pour apple juice mixture over
+  chicken and top with onion slices.  Cover, reduce heat, and simmer 10
+  minutes.  Add apple wedges.  Cover and simmer 12 minutes, or until chicken
+  is tender.
+  
+  Transfer chicken and apple wedges to a serving platter, using a slotted
+  spoon.  Dissolve corn starch in water in a small bowl.  Add to apple juice
+  mixture in skillet, stirring constantly.  Cook over medium heat, stirring
+  constantly, until mixture is thickened.  Spoon sauce over chicken.
+  
+  Source:  Lisa Clarke, adapted from Cooking Light Cookbook 1992
+  
+  * From the Polka Dot Cottage, 1-201-822-3627, NJ's BBS for Homemakers!
+    Posted by LISA on 09-30-95
+  
+  Posted to MC-Recipe Digest V1 #709 by Lisa Clarke &lt;lisa@gaf.com&gt; on Aug 1,
+  97
+ 
+</step></directions></recipe></recipeml>

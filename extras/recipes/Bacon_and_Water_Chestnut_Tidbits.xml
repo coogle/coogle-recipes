@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon and Water Chestnut Tidbits</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Appetizers-</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Canned water chestnuts</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Soy Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bacon slices</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 425F.  Drain the water chestnuts, rinse them in cold
+  water and pat dry.  Roll each water chestnut in brown sugar.  Cut the bacon
+  slices in half, wrap each half around a water chestnut and secure it with a
+  tooth pick.  Sprinkle with soy sauce.  Place in a shallow baking dish and
+  bake in the oven, turning occasionally, until the bacon is crisp, about 20
+  to 30 minutes.  Drain on paper towels and serve at once.
+  Posted to MM-Recipes Digest  by Bennett Brady &lt;BMB1@nrc.gov&gt; on Apr 08,
+  1998
+ 
+</step></directions></recipe></recipeml>

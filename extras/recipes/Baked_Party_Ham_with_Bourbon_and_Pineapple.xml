@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Party Ham with Bourbon and Pineapple</title>
+      <categories>
+        <cat>Brunch</cat>
+        <cat>Main dishes</cat>
+        <cat>Party food</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Ham; 12-14 pound</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Whole cloves</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Dark brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cans</unit></amt>
+        <item>Pineapple chunks with juice; 5 1/4 oz</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Marmalade</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bourbon</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350f. Score ham in diamond pattern and insert cloves in the
+  crossed points and pat brown sugar over top. Place in shallow baking pan
+  and cook for 30 minutes. Heat pineapple, juice and marmalade together over
+  low heat. Remove pan from heat and add bourbon. Baste frequently for 1 1/2
+  hours.
+  
+  NOTES : Serve with breads, mustards,etc.
+  
+  Recipe by: Silver Palate's New Basics
+  
+  Posted to MC-Recipe Digest V1 #965 by Dan Taylor &lt;dant69@idt.net&gt; on Dec
+  18, 1997
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Eggplant</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Side dish</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Eggplant Barbecue Sauce salt</item></ing></ingredients>
+    <directions>
+      <step>  Preheat the oven to 350 degrees. Peel and cut the eggplant into 1/3-inch
+  thick slices. Salt the slices. Place on a rack or colander and let stand
+  for 30 minutes. Wipe off salt with a clean kitchen towel. Lay the slices
+  out on a lightly oiled baking sheet. Brush on barbecue sauce. Bake for 15
+  minutes. Turn over, brush with barbecue sauce, and bake for 15 minutes more
+  or until the eggplant is tender but not mushy.
+  
+  From:    nanette.blanchard@springsboard.org (NANETTE BLANCHARD). Fatfree
+  Digest [Volume 8 Issue 46] June 7, 1994. Formatted by Sue Smith, S.Smith34,
+  TXFT40A@Prodigy.com using MMCONV.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

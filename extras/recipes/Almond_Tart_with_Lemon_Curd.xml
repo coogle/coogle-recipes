@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Tart with Lemon Curd</title>
+      <categories>
+        <cat>Desserts</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>ALMOND SHELL</title>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Finely chopped almonds</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour; sifted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>dash</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter; cut into 1/2" cubes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing></ing-div>
+      <ing-div>
+        <title>LEMON CURD</title>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar (or more)</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Butter</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Sweetened whipped cream</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh fruit</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Mix almonds, flour, 1/2 cup sugar and salt in bowl. Rub butter pieces, bit
+  by bit, into flour. Stir in egg and vanilla to form ball. Chill. Roll out
+  onto 12-inch tart pan with removable bottom. Weight down with beans placed
+  on waxed paper. Bake at 350F until golden, about 20 minutes. Cool.
+  
+  To make filling, mix egg yolks, 3/4 to 1 cup sugar and lemon juice in top
+  of double boiler. Cook, stirring constantly over simmering water, until
+  mixture coats back of metal spoon. Do not allow to boil. Remove from heat
+  and whisk in 1/2 cup butter, bit by bit, until melted and smooth.
+  
+  Pour lemon curd into cooled tart shell. Chill until set. Remove sides of
+  pan. Garnish with whipped cream and fruit. Makes 1 (12-inch) tart
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Antibes Chicken Salad</title>
+      <categories>
+        <cat>Salads</cat>
+        <cat>Poultry</cat>
+        <cat>France</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Whole boned chicken breasts with skin (8 oz each)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Fennel; diced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Sweet red peppers, roasted, peeled and cut into 1/</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Large firm-ripe tomato, seed ed, juiced and cut int</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Kalamata olives, pitted, cut into thirds</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Balsamic vinegar dressing (r ecipe follows)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Mixed field greens, chilled</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh basil leaves</item></ing>
+      <ing>
+        <amt>
+          <qty>Poach</qty>
+          <unit>or</unit></amt>
+        <item>bake chicken breasts until tender.  Chill, remove skins and all</item></ing></ingredients>
+    <directions>
+      <step>  visible fat.  Cut each half breast into 1/3" wide diagonal strips (about 2
+  cups). Place chicken breasts, fennel, red peppers, tomato and olives in
+  large mixing bowl.  Toss gently  to combine. To serve, mix well with
+  dressing, adjusting seasonings, vinegar and chicken broth as necessary.
+  Arrange field greens on chilled  serving plates. Mound salad on greens.
+  Garnish with fresh  basil.  Serve immediately. Make 4 servings. NOTE: To
+  roast peppers, stand them on a board and cut sides off in 4 slabs. Arrange,
+  skin side up, on baking sheet lines with foil. Broil 6" from heat until
+  skin is blackened. Wrap in foil lining. Slip off skin when cool enough to
+  handle.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Herbal Butter</title>
+      <categories>
+        <cat>Herbs</cat>
+        <cat>Spreads</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>To 2 T fresh herbs chopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Or 1 t dried herbs</item></ing></ingredients>
+    <directions>
+      <step>  1.  Beat the softened butter until creamy.  Blend in the chopped herbs. 2.
+  Place the butter on waxed paper and form ti into a roll or other shape with
+  a flat-bladed knife.  (A pastry bag can be used to create more intricate
+  shapes.) 3.  Allow the butter to rest in the refrigraaator for at least two
+  hours so the butter will completely absorb the flavor of the herb. Note:
+  For an elegant touch, reserve some fresh herbs to decorate the top of the
+  butter before serving.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

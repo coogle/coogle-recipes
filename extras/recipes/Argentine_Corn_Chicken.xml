@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Argentine Corn Chicken</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Poultry</cat>
+        <cat>Main dish</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Broilier-fryer chicken; (about 2 1/2 lbs) cut-up</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper to taste;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Virgin olive oil;</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cloves</unit></amt>
+        <item>Garlic; minced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tomatoes;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Bay leaf;</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Leaf marjoram;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Frozen whole-kernel corn; thawed</item></ing></ingredients>
+    <directions>
+      <step>  Renove skin from chicken.  Season with salt and pepper.  In a large
+  non-stick pan skillet, heat oil and cook chicken until tender,
+  turning. 15 to 20 minutes.  Remove from skillet and keep warn.  Saute
+  onion and garlic in skillet.  Add tomatoes, bay leaf and narhiran;
+  simmer 10 minutes. Add corn and chicken; heat through, mix well with
+  the sauce. Serve this dish with "Bell Pepper Salad" (also in this
+  file)
+  
+  Food Exchange per serving: 3 LOW/FAT MEAT EXCHANGES + 1 STARCH/BREAD
+  EXCHANGE + 1 VEGETABLE EXCHANGE  CAL: 246; CHO: 75mg; CAR: 18g; PRO:
+       27 g  SOD: 138mg; FAT: 10g;
+  
+  Souce: Light &amp; Easy Diabetes Cuisine by Betty Marks
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

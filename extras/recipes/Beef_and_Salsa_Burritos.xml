@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Salsa Burritos</title>
+      <categories>
+        <cat/></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef or ground turkey</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Ground cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>10 oz pkg frozen chopped spinach; thawed and drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chunky salsa</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cheddar cheese; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>medium</unit></amt>
+        <item>Flour tortillas; warmed</item></ing></ingredients>
+    <directions>
+      <step>  In large nonstick skillet, brown ground beef over medium heat 10-12 minutes
+  or until no longer pink, stirring occasionally.  Pour off drippings. Season
+  beef with chili powder, cumin and 1/2 teaspoon salt and 1/4 teaspoon
+  pepper.  Stir in spinach and salsa; heat through.  Remove from heat; stir
+  in cheese.  Spoon 1/2 cup beef mixture in center of each tortilla. Fold
+  bottom edge up over filling; fold sides to center, overlapping edges.
+  Posted to EAT-L Digest 29 Jul 96
+  
+  Date:    Tue, 30 Jul 1996 18:07:01 -0400
+  
+  From:    Carol Taillon &lt;taillon@ACCESS.MOUNTAIN.NET&gt;
+ 
+</step></directions></recipe></recipeml>

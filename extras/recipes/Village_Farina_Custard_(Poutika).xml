@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Village Farina Custard (Poutika)</title>
+      <categories>
+        <cat>Sweets</cat>
+        <cat>Greek</cat>
+        <cat>Breakfast</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title/>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>quart</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Farina, regular (cream of wheat, semolina)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Butter or margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Eggs; well beaten</item></ing></ing-div>
+      <ing-div>
+        <title>SYRUP</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Honey or sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Almond or pistachio nuts</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>Fresh fruit slices OR- preserves</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In a saucepan, bring milk to a boil.  Add farina, sugar and vanilla and
+  cook 15 minutes, stirring constantly. Remove pan from heat; stir in butter.
+  Add a little of the hot mixture to eggs; beat well, and mix into remaining
+  farina.
+  
+  Pour mixture into a buttered baking dish and sprinkle with nuts. Bake for
+       20    minutes in a 350 F. oven.
+  
+  For syrup, heat honey, lemon juice and water in a saucepan. Bring to a
+  boil, then continue to cook for 5 minutes. Pour hot syrup over baked
+  custard. Sprinkle cinnamon over, then allow to cool for 4 hours. Cut into
+  squares and serve plain, or with slices of fresh fruit or preserves.
+  
+  Adapted from a recipe in "The Complete Greek Cookbook" Typed for you by
+  Karen Mintzias Submitted By KM@SALATA.COM (KAREN MINTZIAS) On 23 NOV 95
+  233003 -0800
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

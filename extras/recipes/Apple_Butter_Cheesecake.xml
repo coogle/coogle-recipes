@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Butter Cheesecake</title>
+      <categories>
+        <cat>Pies &amp;</cat>
+        <cat>Pastries</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>(8oz) cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Mccutcheon's apple butter or any mccutcheon's fruit butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Graham cracker crust</item></ing></ingredients>
+    <directions>
+      <step>  Blend softened cream cheese and apple butter until smooth. Add eggs and
+  blend well. Pour mixture into crust and bake at 350 F for 40 minutes. Cool
+  completely. Spread top with a thin layer of apple butter. If desired serve
+  with whipped topping and chopped walnuts.
+  Posted to recipelu-digest Volume 01 Number 625 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Jan 28, 1998
+ 
+</step></directions></recipe></recipeml>

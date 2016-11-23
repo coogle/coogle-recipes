@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Acapulco Sunrise</title>
+      <categories>
+        <cat>Mexican</cat>
+        <cat>Beverages</cat>
+        <cat>Alcoholic</cat>
+        <cat>Dkuhnen msn</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Tequila</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lime juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Curacao</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Creme de cassis</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Club soda</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Lime slice to garnish</item></ing></ingredients>
+    <directions>
+      <step>  Into a cocktail shaker, pour tequila, lime juice, curacao, creme de cassis,
+  and plenty of crushed ice.  Shake until well combined.  Get a tall cocktail
+  glass and fill it halfway with ice.  Strain drink into the glass. Pour some
+  soda on top.  Stir and garnish with the slice of lime.
+  
+  Posted to MM-Recipes Digest V4 #138 by "Deborah Kühnen" &lt;DEBKUHNEN@msn.com&gt;
+  on May 18, 97
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Tartlets</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>14</qty>
+          <unit>ounces</unit></amt>
+        <item>Shortcrust pastry</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>3 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Caster sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Ground Almonds</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Decoration</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>ounces</unit></amt>
+        <item>Icing Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Glace Cherries</item></ing></ingredients>
+    <directions>
+      <step>  Pre heat oven to 400*F Roll out dough and use to line 12 tatlet
+  tins.Bake blind for 10 min. then remove from oven. Seperate eggs. Add
+  sugar to yolks and wisk together till pale and thick. Fold in ground
+  almonds. In another bowl, wisk egg whites till stif, then fold into
+  almond mixture. Fill pastry cases with almond mixture. Place on a
+  baking tray and bake for 15 to 20 min. till center is firm and
+  springy. Leave to cool. Sift icing sugar into abowl and beat in milk
+  and lemon juice till smooth. Spread over tartlets. Decorate with
+  whole glazed cherries leave till set.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmkah001.zip
+ 
+</step></directions></recipe></recipeml>

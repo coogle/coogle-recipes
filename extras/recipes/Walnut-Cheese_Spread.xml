@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Walnut-Cheese Spread</title>
+      <categories>
+        <cat>Appetizers</cat>
+        <cat>Dips</cat>
+        <cat>Cheese</cat>
+        <cat>Nuts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>PATTI - VDRJ67A</title>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>ounces</unit></amt>
+          <item>Cream cheese; softened</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Walnuts; coarsely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Lemon juice</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Green onions; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit>dashes</unit></amt>
+          <item>Garlic powder</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  In small bowl, stir cream cheese until smooth; stir in walnuts, lemon
+  juice, green onions and garlic powder. Serve with whole wheat or
+  pumpernickel party bread. Makes 3/4 cup.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

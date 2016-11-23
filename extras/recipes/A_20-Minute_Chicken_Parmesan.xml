@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A 20-Minute Chicken Parmesan</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Italian</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Boneless and skinless chicken breast halves</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg, slightly beaten</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Seasoned bread crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Spaghetti sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Shredded mozzarella cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Grated parmesan cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped fresh parsley</item></ing></ingredients>
+    <directions>
+      <step>  Using palm of hand flatten chicken to even thickness. Dip chicken into egg
+  then into crumbs to coat. In skillet over medium heat, in hot margarine,
+  brown chicken on both sides. Add sauce. Reduce heat. Cover; simmer 10
+  minutes. Sprinkle with cheeses and parsley. Cover; simmer 5 minutes or
+  until cheese melts.
+  
+  Makes 4 servings.
+  
+  From: Steve Herrick Source: [Prego]
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

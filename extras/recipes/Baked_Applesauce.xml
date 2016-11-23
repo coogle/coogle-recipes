@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Applesauce</title>
+      <categories>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Cooking apples; cut in 1" cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit/></amt>
+        <item>Te cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  Wash, peel and core apples.  Cut in 1 " cubes.  Combine all ingredients.
+  Place in a glass loaf dish (apple stay moist in a loaf pan) and pour juice
+  mixture over the top. Bake, uncovered, in a 325 F preheated oven for 45
+  minute.  Remove from oven and cool. Store in the refrigerator tightly
+  covered.  May be frozen. Makes 2 cups.
+  
+  Recipe By     : Cook It Light, Jeanne Jones
+  
+  Posted to MC-Recipe Digest V1 #231
+  
+  Date: Fri, 4 Oct 1996 08:12:22 PST
+  
+  From: marciaf@juno.com (Marcia A Fasy)
+  
+  NOTES : 1/4 cup contains: 90 calories, 4 calories in fat.
+ 
+</step></directions></recipe></recipeml>

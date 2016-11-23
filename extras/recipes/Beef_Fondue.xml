@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef Fondue</title>
+      <categories>
+        <cat>Fondue</cat>
+        <cat>To post</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>pounds</unit></amt>
+        <item>Boneless sirloin or beef tenderloin per guest; up to 1/2</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Peanut oil</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fondue pot or electric deep dish cooker; (s)</item></ing></ingredients>
+    <directions>
+      <step>  Cut beef into small cubes (1x2 inch) and keep chilled until about 1 hour
+  before cooking. Set electric fondue to 360 degrees and add oil (be careful
+  with hot oil). Each guest is given a plate of raw meat and cooking fork
+  (also a separate eating fork). They spear one piece and cook to individual
+  preference. It takes a little experimentation. Offer a variety of 4 to 6
+  sauces. Bottled or experiment with your own exciting recipes. Serve with
+  baked potato, vegetables and a green tossed salad. This is a wonderful
+  entertaining meal. Great for conversation and a long evening.
+  
+  NOTE: It is best to have no more than 6 people cooking in one pot for
+  convenience and safety reasons. Also not recommended for children under 8.
+  
+  Recipe by: Lu's Recipe Board
+  
+  Posted to recipelu-digest by RecipeLu &lt;recipelu@geocities.com&gt; on Feb 18,
+  1998
+ 
+</step></directions></recipe></recipeml>

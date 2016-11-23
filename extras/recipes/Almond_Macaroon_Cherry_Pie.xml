@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Macaroon Cherry Pie</title>
+      <categories>
+        <cat>Pies</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>FOR THE PIE</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Pie shell, 9 inch, unbaked</item></ing>
+        <ing>
+          <amt>
+            <qty>21</qty>
+            <unit>ounces</unit></amt>
+          <item>Cherry pie filling</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Cinnamon</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Lemon juice</item></ing></ing-div>
+      <ing-div>
+        <title>FOR THE TOPPING</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Coconut</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Almonds, sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt (optional)</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Butter, melted</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Almond extract</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg, beaten</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  Preheat oven to 400F. Roll out pie pastry and place in 9 inch pie pan. In
+  large bowl, combine pie filling, cinnamon, salt and lemon juice. Mix
+  lightly. Spoon into crust-lined pie pan. Bake 20 minutes. Meanwhile,
+  combine all topping ingredients in medium bowl and mix until blended.
+  Remove pie from oven after 20 minutes, spread topping evenly over surface,
+  and return pie to oven. Bake an additional 15 to 30 minutes, or until crust
+  and topping are golden brown.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

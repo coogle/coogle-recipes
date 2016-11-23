@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Potato Dumplings</title>
+      <categories>
+        <cat>Pasta</cat>
+        <cat>Italian</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>medium</unit></amt>
+        <item>Potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg Yolk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>All-Purpose Flour, Up To 2-1/2 Cups</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vegetable Oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Grated Parmesan Cheese</item></ing></ingredients>
+    <directions>
+      <step>  Puncture potatoes in several places with a fork.  Bake 1 hour in a 350F
+  oven or until tender.  Remove and discard skins. Mash potatoes through a
+  ricer or food mill into a large bowl, and let cool a little. Add egg yolk,
+  salt, and 2 cups flour.  Mix well.  Knead dough on work surface or board
+  into a ball.  It should be soft and a little sticky. If it's too sticky,
+  add a little flour. Lightly flour surface and hands. Break dough into
+  egg-size pieces.  Roll until thickness of thumb. Cut roll into 1-inch
+  pieces. Push each Gnocchi against the back of a fork to imprint a pattern.
+  This helps them absorb more sauce (and makes them a little prettier).
+  Arrange them on a floured tray. Fill a large saucepan 2/3 full with salted
+  water.  Bring to a boil.  Add oil and dumplings. Stir, to make sure they
+  don't stick t bottom. When they come to surface, let them cook 10-12
+  seconds more.  Remove with a slotted spoon as they are done. They get soggy
+  if overcooked (they absorb more moisture than regular pasta). Serve with
+  butter and Parmesan cheese or your favorite sauce.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Fish Steaks</title>
+      <categories>
+        <cat>New zealand</cat>
+        <cat>Seafood</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Fish steaks, tamure (snapper), or hapuka (groper)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Dry breadcrumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Watercress or parsley</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sliced lemon</item></ing></ingredients>
+    <directions>
+      <step>  1. Lay the fish in a shallow dish. Pour the milk over the steaks and add
+  salt and pepper. Leave to soak one hour.
+  
+  2. Drain the milk away and sprinkle with breadcrumbs.
+  
+  3. Lay the steaks in a buttered baking dish. Melt the butter and pour over
+  the fish.
+  
+  4. Bake in the oven for 30 minutes at 350 degrees.
+  
+  5. Serve garnished with sliced lemon and sprinkled with watercress.
+  
+  SOURCE: Kiwi Cookbook, by Alan Armstrong, Seven Seas Publishing Pty Ltd, PO
+  Box 1431, Wellington, New Zealand, (C. 1968) ISBN 85467 016 5
+  
+  SHARED BY: Jim Bodle 3/93
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Burgers</title>
+      <categories>
+        <cat>Digest</cat>
+        <cat>Feb95</cat>
+        <cat>Fatfree</cat></categories>
+      <yield>2</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Kidney beans</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown rice -- cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Ketchup</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oregano</item></ing>
+      <ing>
+        <amt>
+          <qty>1/8</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Sage</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit>x</unit></amt>
+        <item>Salt and pepper - to taste</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Onion -- chopped fine</item></ing></ingredients>
+    <directions>
+      <step>  Combine everything in a large bowl and mash well. Form into 6 patties and
+  cook in a non-stick pan until browned on both sides.
+  
+  I consider a serving to be 3 patties. Each serving has 1019 kcal, 6g fat,
+  206g carbs, 24g fiber(!!!), and 37g protein.
+  
+  Posted by "R. S. Koss" &lt;rskoss@bronze.coil.com&gt; to the Fatfree Digest
+  [Volume 15 Issue 22] Feb. 22, 1995.
+  
+  Individual recipes copyrighted by originator. FATFREE Recipe collections
+  copyrighted by Michelle Dick 1995. Formatted by Sue Smith,
+  SueSmith9@aol.com using MMCONV. Archived through kindness of Karen
+  Mintzias, km@salata.com.
+  
+  1.80á
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/fatfreex.zip
+ 
+</step></directions></recipe></recipeml>

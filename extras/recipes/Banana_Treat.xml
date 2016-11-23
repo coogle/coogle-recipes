@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Banana Treat</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Desserts</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Fully ripened plantain (black), halved</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ngthwise   e</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter or margarine; softened</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bown sugar</item></ing></ingredients>
+    <directions>
+      <step>  Place prepared banana in microwaveable dish and spread a thin layer of
+  softened butter across the plantain. Sprinkle with brown sugar to cover
+  plantain. Cover with plastic wrap and cook in microwave on medium heat for
+  about 3 minutes.
+  
+  busted by sooz
+  Posted to recipelu-digest Volume 01 Number 250 by James and Susan Kirkland
+  &lt;kirkland@gj.net&gt; on Nov 12, 1997
+ 
+</step></directions></recipe></recipeml>

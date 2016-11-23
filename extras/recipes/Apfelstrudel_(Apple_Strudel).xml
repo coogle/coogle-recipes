@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apfelstrudel (Apple Strudel)</title>
+      <categories>
+        <cat>German</cat>
+        <cat>Fruits</cat>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>cups</unit></amt>
+        <item>Apples; Tart, Sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon Rind; Grated</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Almonds; Ground</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Fillo Leaves; 1/2 Box,Thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1 3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter;(No Margarine),Melted</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Bread Crumbs; Finely Crushed</item></ing></ingredients>
+    <directions>
+      <step>  Mix apples with raisins, lemon rind, sugar, cinnamon, and almonds. Set
+  aside.  Place 1 fillo leaf on a kitchen towel and brush witl melted butter.
+  Place a second leaf on top and brush with butter again. Repeat until 5
+  leaves have been used, using about 1/2 c of butter. Cook and stir bread
+  crumbs with 1/4 c of butter until lightly browned. Sprinkle 3/4 cup crumbs
+  on the layered fillo leaves.  Mound 1/2 of the filling in a 3-inch strip
+  along the narrow end of the fillo, leaving a 2-inch border. Lift towel,
+  using it to roll leaves over apples, jelly roll fashion. Brush top of the
+  strudel with butter and sprinkle with 2 T crumbs. Repeat the entire
+  procedure for the second strudle. Bake the strudels at 400 degrees F. for
+  20 to 25 minutes, until browned. Makes 2 strudels, 6 to 8 servings each.
+  NOTE: Frozen fillo leaves for strudel can be found at most supermarkets in
+  the frozen foods sections.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

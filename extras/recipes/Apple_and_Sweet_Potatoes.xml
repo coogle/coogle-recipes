@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Sweet Potatoes</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Side dishes</cat>
+        <cat>Fruits</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Size sweet potatoes;</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Whipped butter;(not me!!!)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Frozen apple juice; concentrate</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper to taste; size apple; peeled diced</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Whole cloves;</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Ground nutmeg;</item></ing></ingredients>
+    <directions>
+      <step>  Place sweet potatoes in a saucepan and cover with water. Bring to a
+  boil and cook 30 to 40 minutes or until tender.  Remove from water,
+  peel and mash.  Add butter, apple juice, salt and pepper.  Stir in
+  apple, cloves and dash of nutmeg.  Place in an ovenproof serving dish
+  and warm in 350 degrees oven to minutes before serving.
+  Food Exchanges per serving: 1 STARCH/BREAD EXCHANGE + 1/2 FRUIT
+  EXCHANGE CAL: 116, CHO: 6mg; CAR: 24g; PRO: 1g; SOD: 80mg; FAT: 2g;
+  
+  Source: Light &amp; Easy Diabetes Cuisine by Betty Marks
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

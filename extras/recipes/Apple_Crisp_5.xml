@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Crisp</title>
+      <categories>
+        <cat>Cyberealm</cat>
+        <cat>Desserts</cat>
+        <cat>Low-cal</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Apples, peeled, cored,sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Rolled oats</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Chopped nuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing></ingredients>
+    <directions>
+      <step>  Substitute peaches or pears when they are in season.
+  
+  Place apples in a microwave baking pan and sprinkle with lemon juice.
+  In a small bowl, melt butter at High for 30 to 45 sec.  Stir in
+  rolled oats, brown sugar, nuts and cinnamon.  Combine well.  Sprinkle
+  evenly over apples.
+  
+  Microwave at High for 8-10 min.  Allow 5 to 7 min after cooking time.
+  
+  8 Servings each 1/2 cup 1 fruit choice, 1 fat choice 10 g
+  carbohydrate, 1 g protein, 5 g fat, 89 calories
+  
+  Source:  More Choice, The Canadian Diabetes Microwave Cookbook by
+  Catha McMaster &amp; Charlotte Empringham
+  
+  Shared but not tested by Elizabeth Rodier, July 1993
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmcyber3.zip
+ 
+</step></directions></recipe></recipeml>

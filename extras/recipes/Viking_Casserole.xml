@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Viking Casserole</title>
+      <categories>
+        <cat>Fish</cat>
+        <cat>Pasta</cat>
+        <cat>Casseroles</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Macaroni; cooked</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Peas; frozen</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Tuna in water</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Processed American cheese</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350° Saute onion in butter. Add flour, stir until blended,
+  add milk and cook until thick. Add cheese, stir until melted. Mix in
+  remaining ingredients and pour in baking dish. Bake for 40 minutes, top
+  with additional cheese if desired.
+  
+  Recipe by: Velveeta
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by "LauraG"
+  &lt;gaggini@gate.usaor.net&gt; on Oct 31, 1997
+ 
+</step></directions></recipe></recipeml>

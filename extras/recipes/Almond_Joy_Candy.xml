@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almond Joy Candy</title>
+      <categories>
+        <cat>Candies</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Condensed milk; sweetened 14 oz</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Chocolate; unsweetened</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Coconut; shredded</item></ing>
+      <ing>
+        <amt>
+          <qty>45</qty>
+          <unit/></amt>
+        <item>Almonds; whole, salted</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 350F. In top of double boiler, combine condensed milk,
+  chocolate and salt. Cook over rapidly boiling water; stirring often, for 5
+  to 7 minutes, or till until mixture thickens. Remove from heat and stir in
+  vanilla and coconut. Form cookies by dropping teaspoons of mixture on well
+  greased baking sheet, 1" apart. Top each with a whole almond. Bake on
+  middle sheet of oven for 10-12 minutes, watching cookies carefully after
+  8-9 minutes,as the bottom can get too brown. Immediately remove cookies
+  from pan with metal spatula and cool on wax peper covered rack.
+  
+  These taste a bit like the chocolate bars; hence the name. They freeze
+  well. from _Heartland: The Best of the Old and the New from Midwest
+  Kitchens_
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andy's Creole Shrimp</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Shrimp</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Bottle Wishbone Italian Dressing; (no other size given)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Lemon juice</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Worcestershire</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Tabasco</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Garlic salt</item></ing></ingredients>
+    <directions>
+      <step>  Place unpeeled shrimp in a large baking pan. Pour dressing and lemon juice
+  over shrimp; cut sticks of butter into small pieces scattering over shrimp.
+  Sprinkle mixture with seasonings. When melted, liquid should just about
+  cover the shrimp. Bake at 300 degrees for about an hour, turning
+  frequently. Have plenty of napkins available! Serves 6 to 8.
+  
+  Posted to FOODWINE Digest  by Laurie Thompson &lt;elelt@IBM.NET&gt; on Jan 20,
+  1998
+ 
+</step></directions></recipe></recipeml>

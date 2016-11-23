@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bacon Potato Pie</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Usenet</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Bacon; thick-sliced and lean</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Onion</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Baking potatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing></ingredients>
+    <directions>
+      <step>  Cut the bacon slices into square pieces. Fry the pieces until well-cooked,
+  then drain on paper towels.
+  
+  Peel the potatoes, then grate them. To prevent the grated potatoes from
+  discoloring while you prepare the other ingredients, you can put them into
+  a bowl of cold water. When you're ready to use them, be sure to drain well
+  and squeeze them dry.
+  
+  Grate the cheese. Mince the onion. Butter a 9x13 inch shallow baking dish.
+  Preheat the oven to 350 degrees F.
+  
+  Beat the eggs in a large bowl. Add all the other ingredients and stir. Pour
+  the mixture into the baking dish and bake in the preheated oven for about
+  45 minutes, or until the eggs are cooked. Serve hot, warm or at room
+  temperature.
+  
+  NOTES:
+  
+  * A brunch casserole with potatoes, eggs, bacon and cheese -- This is a
+  very easy brunch dish, similar to a fritatta in texture, but full of
+  traditional breakfast ingredients. The recipe comes from a cookbook
+  published by the _Contra Costa (California) Times_ newspaper, called
+  "Tastes of the Times." Yield: Serves 4-6.
+  
+  * It really does make a difference if you use good meaty bacon for this. I
+  find the best bacon at my local butcher shop.
+  
+  * You can prepare part of this ahead. I think egg dishes are better if they
+  haven't been refrigerated. So if you want to work ahead, you can cook the
+  bacon, grate the cheese and potatoes and mince the onion the night before.
+  Store all these things separately in the refrigerator, covering the
+  potatoes with water. Then in the morning just mix it all up and bake it.
+  
+  : Difficulty: moderate (tedious). : Time: 30 minutes preparation, 1 hour
+  baking and cooling. : Precision: approximate measurement OK.
+  
+  : Vicki O'Day : Hewlett Packard Laboratories : oday@hplabs.hp.com
+  
+  : Copyright (C) 1986 USENET Community Trust
+  Posted to MC-Recipe Digest V1 #1056 by "M. Hicks" &lt;nitro_ii@email.msn.com&gt;
+  on Jan 29, 1998
+ 
+</step></directions></recipe></recipeml>

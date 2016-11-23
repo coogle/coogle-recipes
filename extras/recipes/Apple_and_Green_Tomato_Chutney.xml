@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple and Green Tomato Chutney</title>
+      <categories>
+        <cat>Relishes</cat></categories>
+      <yield>24</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit/></amt>
+        <item>Tart green apples</item></ing>
+      <ing>
+        <amt>
+          <qty>24</qty>
+          <unit>small</unit></amt>
+        <item>Green tomatoes</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>medium</unit></amt>
+        <item>Sized onions</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Seedless raisins (1 pound)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar (tightly packed)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Crushed, dried chilies</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Curry powder</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Mixed pickling spices</item></ing></ingredients>
+    <directions>
+      <step>  Wash, core and chop the apples; wash, blanch, peel and chop the apples and
+  chop the onions.  Place apples, tomatoes and onions in a preserving kettle
+  and add raisins, vinegar, sugar, salt, red pepper and curry powder. Put the
+  pickling spices in a cheesecloth bag and add to the kettle. Boil, stirring
+  occasionally, for 25 minutes, or until apples are transparent.
+  
+  Remove fruit with a slotted spoon.  Boil syrup rapidly until it thickens.
+  
+  Discard pickling spices, return the fruit to the syrup and bring to a boil.
+  
+  Remove from the heat and ladle into hot, sterilized jars and seal
+  immediately.  Process in boiling water bath for 10 minutes. This recipe
+  makes approximately 24 half-pints.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

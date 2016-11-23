@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baileys Irish Cream Truffles</title>
+      <categories>
+        <cat>Chocolate</cat>
+        <cat>Candies</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Semi-sweet choc morsels</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Heavy cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sweet Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Egg yolks</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Baileys Irish Cream</item></ing></ingredients>
+    <directions>
+      <step>  Melt chocolate, Baileys and heavy cream together over very low heat. Whisk
+  in yolks, one at a time; mixture will thicken. Whisk in butter. Refrigerate
+  overnight, or until firm.  With spoon make small balls. Roll in powdered
+  sugar, cocoa, chopped nuts, sprinkles, etc.
+  
+  From the Meal-Master database of Judi M. Phelps. Internet:
+  jphelps@best.com, juphelps@delphi.com or jphelps@shell.portal.com
+  
+  Posted to EAT-L Digest 27 Sep 96
+  
+  Date:    Fri, 27 Sep 1996 12:57:41 -0400
+  
+  From:    Eileen &amp; Bob Holze &lt;beck4@ASAN.COM&gt;
+ 
+</step></directions></recipe></recipeml>

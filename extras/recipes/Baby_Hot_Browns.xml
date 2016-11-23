@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baby Hot Browns</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Chicken bouillon cube</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Hot water</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Half and half</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Unsalted butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Grated Swiss cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit/></amt>
+        <item>Strips of bacon (cooked and</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crumbled)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>large</unit></amt>
+        <item>Onion, sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Cooked turkey, thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>18</qty>
+          <unit>slices</unit></amt>
+        <item>Small french bread</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve bouilon cube in hot water, and half and half in a saucepan, melt
+  butter and add flour.  Whisk and cook until mixture is frothy and raw flour
+  taste is gone. While stirring, add the bouillon mixture. Stir constantly
+  with a whisk until the sauce thickens and begins to bubble. Add Swiss
+  cheese and stir until smooth (add water and heat if sauce needs to be
+  thinned)  Assemble hot browns by placing turkey and onion on each bread
+  slice.  Top with sauce and crumbled bacon. Heat at 350 degrees for 10
+  minutes. Garnish with parsley.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

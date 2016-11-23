@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Macaroni and Cheese</title>
+      <categories>
+        <cat>Main dish</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Uncooked elbow macaroni</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>All-purpose flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Shredded cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>RO*TEL Diced Tomatoes and Green Chilies (10 oz)</item></ing></ingredients>
+    <directions>
+      <step>  Preheat oven to 375'F. Cook macaroni as directed on package; drain
+  and set aside. Melt margarine over low heat. Stir in flour; cook 1
+  minute, stirring constantly until mixture is smooth and bubbly. Stir
+  in milk; heat to a boil, stirring constantly. Reduce heat and simmer
+  until thickened, about 1 minute. Add cheese and RO*TEL. Stir until
+  cheese is melted, remove from heat. Stir macaroni into cheese sauce.
+  Transfer to an ungreased 9x12" baking dish. Bake uncovered 30 minutes
+  or until heated through.
+  
+  From "Southwestern Sensations Starring RO*TEL", courtesy Mike Orchekowski.
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sw-sense.zip
+ 
+</step></directions></recipe></recipeml>

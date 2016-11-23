@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Angel Food Ice Cream Cake</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Desserts</cat>
+        <cat>Cakes</cat>
+        <cat>Kids</cat>
+        <cat>Fruits</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Angel food cake (8 inches)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>gallons</unit></amt>
+        <item>Vanilla ice cream; slightly softened</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>quarts</unit></amt>
+        <item>Fresh strawberries</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Sugar =OR=- Sugar substitute to taste</item></ing></ingredients>
+    <directions>
+      <step>  Cut the cake in half; tear one half into small pieces and set aside. Cut
+  the other half into 12-14 thin slices; arrange in the bottom of a wax paper
+  lined 13" x 9" x 2" baking pan, overlapping as needed. Spread softened ice
+  cream over cake, pressing down to smooth. Gently press the small cake
+  pieces into the ice cream. Cover and freeze. Just before serving, slice
+  strawberries and sweeten to taste. Cut dessert into squares and top with
+  strawberries. Serves 15.
+  
+  Diabetic Exchanges: One serving (prepared with sugar free ice cream and
+  sugar substitute) equals 1 1/2 starch, 1 fat, 1/2 fruit; also, 183
+  calories, 131 mg sodium, 15 mg cholesterol, 34 gm carbohydrate, 6 gm
+  protein, 4 gm fat.
+  
+  SOURCE:*Country Magazine, June/July 1994 POSTED BY: Jim Bodle 5/94
+  
+  Posted to TNT - Prodigy's Recipe Exchange Newsletter  by Simps
+  &lt;c.simpson@worldnet.att.net&gt; on Jul 21, 1997
+ 
+</step></directions></recipe></recipeml>

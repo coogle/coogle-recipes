@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Beef and Macaroni Chili</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Main dish</cat>
+        <cat>Pasta</cat>
+        <cat>Cheese</cat>
+        <cat>Chili</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Macaroni, raw</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Ground beef</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Garlic powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chili powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Pepper, freshly ground</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Tomato soup</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Mozzarella cheese 15% mf</item></ing></ingredients>
+    <directions>
+      <step>  Cook macaroni about 7 minutes.  Brown meat in largest saucepan and
+  drain off all fat. Add garlic, chili powder, salt and pepper. Mix
+  well and cook on low about 5 minutes. Add cooked macaroni and tomato
+  soup. Heat thoroughly. Just before serving add grated cheese. Cover
+  and heat until cheese melts.
+  
+  Estimated 3 protein, 1 1/2 starch, 1 fruit &amp; veg. Source: Eat Light
+  and Love It!
+  
+  Leftovers are good reheated the next day and can be frozen. Favorite
+  quick recipe of Elizabeth Rodier and family.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

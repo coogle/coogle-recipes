@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Artichoke Gratin</title>
+      <categories>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Jerusalem artichokes thinly sliced (prepared weight given)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Crushed garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>fluid ounces</unit></amt>
+        <item>Stock</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cream; hot</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Parsley; chopped</item></ing></ingredients>
+    <directions>
+      <step>  Put the sliced artichokes into a well-buttered gratin dish or shallow
+  flameproof casserole, seasoning with the salt, pepper, and the merest hint
+  of crushed garlic between layers. Press down firmly, pour on the stock and
+  dot with butter.  Cook in a moderate oven or over a gentle flame until the
+  vegetables are tender but not disintegrated and most of the liquid has been
+  absorbed.  Drizzle on some hot cream and let it slither down between
+  layers.  Warm through briefly and serve sprinkled with parsley.
+  
+  Source: Philippa Davenport in "Country Living" (British), November 1988.
+  Typed for you by Karen Mintzias
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

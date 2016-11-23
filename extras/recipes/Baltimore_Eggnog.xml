@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baltimore Eggnog</title>
+      <categories>
+        <cat>Beverages</cat>
+        <cat>Holiday</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Brandy (1 pint)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Rum (1/2 pint)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>ounce</unit></amt>
+        <item>Madeira (1/2 pint)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg (12)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sugar (2 cups)</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Milk (3 pints) -OR-</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>ounces</unit></amt>
+        <item>Heavy cream (3 pints)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nutmeg</item></ing></ingredients>
+    <directions>
+      <step>     Shake with ice, and strain into a collins glass or a highball glass. If
+  heavy cream is used, you may want to top the drink with milk. Dust the
+  surface with lots of nutmeg
+  
+     The recipe above is for one drink only, but the measurements in
+  parentheses will make about 30 servings.
+  Posted to MM-Recipes Digest V4 #260 by "Deborah Kühnen"
+  &lt;DEBKUHNEN@classic.msn.com&gt; on Oct 3, 97
+ 
+</step></directions></recipe></recipeml>

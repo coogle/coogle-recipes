@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Tuna and Noodles</title>
+      <categories>
+        <cat>Casseroles</cat>
+        <cat>Main dish</cat>
+        <cat>Fish</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Pkg dry medium-width noodles</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Butter (4 Tbsp)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>(3-oz ea) cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>ounces</unit></amt>
+        <item>Can of tuna in oil (save oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Peas, drained (optional)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Mushroom pieces, drained</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>(optional)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt and pepper to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Plain dry bread crumbs</item></ing></ingredients>
+    <directions>
+      <step>  Cook noodles in salted water; drain.  Melt butter in saucepan and blend in
+  flour.  Add milk slowly, cooking and stirring constantly. When sauce is
+  thick and smooth, blend in cream cheese and oil from the tuna. Then add
+  cooked noodles, and lastly and tuna (and peas and mushrooms). Season to
+  taste; top with dried bread crumbs. Bake at 375 for 30 minutes.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

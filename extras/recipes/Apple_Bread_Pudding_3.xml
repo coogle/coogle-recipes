@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Bread Pudding</title>
+      <categories>
+        <cat>Low-fat</cat>
+        <cat>Desserts</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Bread cubes</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Water; or skim milk (hot)</item></ing>
+      <ing>
+        <amt>
+          <qty>2/3</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Raisins</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Apples; sliced thin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Egg whites</item></ing></ingredients>
+    <directions>
+      <step>  Combine bread cubes, raisins, and apples in large bowl.  Add water or milk
+  and sugar.  Mix thoroughly and let stand for 20-30 min.  Add beaten egg
+  whites (just til foamy), cinnamon, and vanilla.  Mix thoroughly.  Pour into
+  a 1 1/2-quart sprayed casserole.  Bake uncovered for 45 min. to 1 hr.,
+  until set and lightly browned
+  
+  Recipe By     : Net
+  
+  Posted to JEWISH-FOOD digest V96 #039
+  
+  Date:         Thu, 26 Sep 96 07:25:12 +0200
+  
+  From: Annice Grinberg &lt;VSANNICE@WEIZMANN.WEIZMANN.AC.IL&gt;
+ 
+</step></directions></recipe></recipeml>

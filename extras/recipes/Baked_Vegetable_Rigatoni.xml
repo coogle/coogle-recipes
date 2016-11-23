@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Vegetable Rigatoni</title>
+      <categories>
+        <cat>Main dish</cat>
+        <cat>Pasta</cat></categories>
+      <yield>12</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DOUBLE TOMATO HERB SAUCE</title>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>cups</unit></amt>
+          <item>Dry-packed sun-dried tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Onion; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>medium</unit></amt>
+          <item>Carrot; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Whole celery rib; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Minced garlic</item></ing>
+        <ing>
+          <amt>
+            <qty>28</qty>
+            <unit>ounces</unit></amt>
+          <item>Crushed tomatoes</item></ing>
+        <ing>
+          <amt>
+            <qty>14</qty>
+            <unit>ounces</unit></amt>
+          <item>Tomatoes; chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Red wine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped fresh flat-leaf parsley</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Chopped fresh basil</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Freshly ground black pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Thyme</item></ing></ing-div>
+      <ing-div>
+        <title>REST</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Olive oil</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small</unit></amt>
+          <item>Onion; finely chopped</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>pounds</unit></amt>
+          <item>Japanese eggplants; sliced</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Mushrooms; quartered</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>large</unit></amt>
+          <item>Red peppers; cut into 1" pieces</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Freshly ground pepper</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit></amt>
+          <item>Rigatoni pasta; cooked according to pckg.</item></ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+            <unit>ounces</unit></amt>
+          <item>Provolone cheese; diced</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Freshly grated Parmesan cheese; divided</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Chopped fresh basil</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  1. Make Double Tomato Herb Sauce: Combine sun-dried tomatoes with boiling
+  water to cover in small bowl; let stand 5 minutes. Drain. Heat oil in Dutch
+  oven over medium heat. Add onion, carrot and celery; cook, stirring, 8
+  minutes. Stir in garlic and cook 30 seconds. Add sun-dried tomatoes and
+  remaining ingredients and bring to boil. Reduce heat and simmer, partially
+  covered, 1 1/2 hours. Puree sauce in batches in food processor, transfer to
+  bowl. (Makes 7 cups.)
+  
+  2. Heat oven to 425øF. Toss oil, onion, eggplants, mushrooms, peppers, salt
+  and pepper in roasting pan. Roast uncovered 45 minutes, stirring twice,
+  until tender.
+  
+  3. Reduce oven temperature to 400øF. Grease a 13x9-inch baking dish.
+  Combine hot rigatoni, 3 1/2 cups sauce, roasted vegetables, provolone, 1/4
+  cup Parmesan and basil in large bowl. Spoon into prepared dish. Dot with
+  1/2 cup more sauce and sprinkle with remaining 1/2 cup Parmesan. (Freeze
+  remaining sauce for another use.) Bake 20 minutes. Makes 12 servings.
+  
+  NOTES : Los Angeles radio personality and cookbook author Diane Worthington
+  takes a hearty potluck favorite and adds a bounty of roasted veggies and a
+  long-simmering sauce for a crowd-pleasing pasta.
+  Recipe by: FROM LHJ ONLINE http://www.lhj.com
+  
+  Posted to recipelu-digest by "Valerie Whittle" &lt;catspaw@inetnow.net&gt; on Feb
+  6, 1998
+ 
+</step></directions></recipe></recipeml>

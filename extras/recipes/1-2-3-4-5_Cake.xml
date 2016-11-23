@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>1-2-3-4-5 Cake</title>
+      <categories>
+        <cat>Cakes</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Butter</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Vanilla extract</item></ing></ingredients>
+    <directions>
+      <step>  Mix butter, sugar and eggs in a large bowl. Next add vanilla extract. Stir
+  in milk and then baking powder. Fold flour in gently. Bake at 350F for 30
+  minutes or until cake center bounces back from slight pressure.
+  
+  NOTES : This also make good cupcakes. I filled regular sized cupcake pan
+  3/4 full and baked at 350F for about 18-20 minutes. This made about 20
+  cupcakes.
+  Recipe by: Just Desserts Posted to TNT - Prodigy's Recipe Exchange
+  Newsletter  by Sean Coate &lt;swcoate@peganet.com&gt; on Jul 29, 1997
+ 
+</step></directions></recipe></recipeml>

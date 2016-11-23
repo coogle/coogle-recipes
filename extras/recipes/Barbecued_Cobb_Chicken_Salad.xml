@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecued Cobb Chicken Salad</title>
+      <categories>
+        <cat>Poultry</cat>
+        <cat>Salad</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Barbecued chcken breasts; sliced</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>New Mexico BBQ Sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Haas avocados; coarsely chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Tomatoes,seeded; coarsely diced</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Blue cheese, good quality</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit>ounces</unit></amt>
+        <item>Cayenne Buttermilk Dressing</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Romaine lettuce; Chopped</item></ing></ingredients>
+    <directions>
+      <step>  Toss romaine lettuce in CayenneButtermilk dressing, season with salt and
+  freshly ground pepper. Top with chicken, avocado, tomatoes, and blue
+  cheese.
+  Recipe By     : GRILLIN' &amp; CHILLIN'  SHOW #GR3634
+  
+  Posted to MC-Recipe Digest V1 #235
+  
+  Date: Sun, 6 Oct 1996 00:41:52 -0400 (EDT)
+  
+  From: Chuck Tapping &lt;ctapping@USIT.NET&gt;
+ 
+</step></directions></recipe></recipeml>

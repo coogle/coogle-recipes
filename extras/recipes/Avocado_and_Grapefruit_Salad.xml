@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado and Grapefruit Salad</title>
+      <categories>
+        <cat>Diabetic</cat>
+        <cat>Salads</cat>
+        <cat>Fruits</cat>
+        <cat>Vegetables</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Size avocado, peeled</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Pink grapefruit</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Red onion; thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Poppy seed Sauce;</item></ing></ingredients>
+    <directions>
+      <step>  Slice avocado into 8 wedges.  Arrange equal amounts of avocado and
+  grapefruit on 4 salad dishes and top each with 2 onio slices.  Dress
+  each salad with 1 tablespoon sauce.
+  Food Exchanges per serving: 1 FRUIT EXCHANGE + 1 FAT EXCHANGE; CAL:
+  137, CHO: 0mg; CAR: 3g; PRO: 17mg; SOD: 109; FAT: 10g;
+  
+  Source: Light &amp; Easy Diabetes Cuisine by Betty Marks
+  Brought to you and yours via Nancy O'Brion and her Meal-Master
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/diabetic.zip
+ 
+</step></directions></recipe></recipeml>

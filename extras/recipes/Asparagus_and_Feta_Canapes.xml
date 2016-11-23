@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus and Feta Canapes</title>
+      <categories>
+        <cat>Appetizers</cat></categories>
+      <yield>15</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit>slices</unit></amt>
+        <item>Thin white bread</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Blue cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cream cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg</item></ing>
+      <ing>
+        <amt>
+          <qty>20</qty>
+          <unit/></amt>
+        <item>Spears canned asparagus drained</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Melted butter</item></ing></ingredients>
+    <directions>
+      <step>  Trim crusts from bread and flatten with a rolling pin. Blend cheeses and
+  egg to a workable consistency and spread evenly on each slice of bread.
+  Place an asparagus spear on each slice and roll up. Dip in melted butter to
+  coat thoroughly.  Place on cookie sheet and freeze.
+  
+  When firmly frozen, slice into bite size pieces.  (If freezing for a future
+  date, place bite size pieces in a freezer bag - do not defrost to cook)
+  Place on cookie sheet and bake at 400 F for 20 min.
+  
+  Recipe By     : The Junior League of Portland, Maine
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

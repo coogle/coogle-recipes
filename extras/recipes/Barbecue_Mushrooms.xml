@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Barbecue Mushrooms</title>
+      <categories>
+        <cat>Appetizers/</cat>
+        <cat>Beverages</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Mushrooms</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Bacon</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Toothpicks</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Seasoned salt</item></ing></ingredients>
+    <directions>
+      <step>  Wrap mushrooms in bacon. Skewer with toothpicks. Sprinkle with seasoned
+  salt Grill on barbecue pit until bacon's cooked.
+  
+  Serving Ideas : Melanie cooks these over charcoal--gas grill should be OK
+  
+  Recipe by: Melanie Kaiser
+  
+  Posted to EAT-L Digest  by BLAdams96 &lt;BLAdams96@AOL.COM&gt; on Apr 13, 1998
+ 
+</step></directions></recipe></recipeml>

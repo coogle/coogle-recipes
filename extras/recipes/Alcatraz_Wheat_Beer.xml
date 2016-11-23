@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Alcatraz Wheat Beer</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>pounds</unit></amt>
+        <item>Dried wheat extract</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>pounds</unit></amt>
+        <item>Wheat malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Barley malt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Dried malt extract</item></ing>
+      <ing>
+        <amt>
+          <qty>2 1/2</qty>
+          <unit>ounces</unit></amt>
+        <item>Mt. Hood hops</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Wyeast Wheat beer yeast</item></ing></ingredients>
+    <directions>
+      <step>  Make a yeast starter two days beforehand. Mash the three pounds of  malt a
+  la Miller. Boil for one hour, adding 1-1/2 ounces hops at the  start, 1/2
+  ounce  at 30 minutes, and 1/2 ounce at 5 minutes.  Cool  and  pitch yeast.
+  Ferment. Bottle. I primed half the batch (5 gal) with 1/3 cup corn sugar
+  and  the  other half with 1/2 cup clover honey. After two weeks, the beer
+  was  great. The beer primed with honey, however, was way too carbonated.
+  All you can taste is bubbles. In direct taste tests, this beer has more
+  body  than WheatHook, and is slightly sweeter. Compared to EKU, the beer is
+  similar, but EKU Wiezen is slightly sweeter. Original Gravity: 1.057 Final
+  Gravity: 10.12
+  
+  Recipe By     : Serving Size:
+  
+  From: Ladies Home Journal- August 1991
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/mmdja006.zip
+ 
+</step></directions></recipe></recipeml>

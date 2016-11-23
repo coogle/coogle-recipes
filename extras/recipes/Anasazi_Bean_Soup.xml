@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Anasazi Bean Soup</title>
+      <categories>
+        <cat>Vegetarian</cat>
+        <cat>Vegan</cat>
+        <cat>Soups</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Anasazi beans, dry; picked over and rinsed</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Vegetable stock or water</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Onion; chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>large</unit></amt>
+        <item>Garlic cloves; pressed or minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Coriander</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cumin</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Jalapeno or other pepper; finelychopped</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Salt to taste</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Green onions; minced, and/or cilantro leaves for garnish</item></ing></ingredients>
+    <directions>
+      <step>   Cover the beans in water and soak overnight, allowing extra water for
+  expansion. Drain, reserving soaking water. Measure soaking water and add
+  stock or water to equal 6 cups. Pour into pot.
+  
+   Add remaining ingredients except salt and bring to a boil. Cover, reduce
+  heat andcook at a low simmer for 1 1/2 to 2 hours, or until beans are
+  tender. season with salt to taste and serve hot, garnished with green onion
+  and/or cilantro. Makes 4 servings.
+  
+   Per serving: 183 cal; 10 g prot; .9 g fat; 32 g carb; 0 chol; 422 mg sod;
+        6 g  fiber; vegan.
+  
+   Vegetarian Times, Nov 93/MM by DEEANNE
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Avocado Dressing</title>
+      <categories>
+        <cat>Dressing</cat>
+        <cat>Salads</cat>
+        <cat>Syd's book</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Avocados, Medium, Ripe</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Lemon Or Lime Juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1 1/2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Onion, Chopped Fine</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Garlic Clove, Crushed</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>ounces</unit></amt>
+        <item>Green Chiles, Diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Tomato, Peeled, Chopped</item></ing></ingredients>
+    <directions>
+      <step>  Cut avocados in half. Remove seeds and skin. Put avocados, lemon/lime
+  juice, onion, garlic, green chiles and salt in blender and blend until well
+  mixed. Stir in tomato. Chill in refrigerator until ready to serve. This
+  dressing will keep it's color because of the citrus juice. Serve as a
+  dressing for cooked or raw vegetables, such as cauliflower, carrots,
+  tomatoes, green beans or on any salad. From: Syd's Cookbook.
+  
+  File ftp://ftp.idiscover.co.uk/pub/food/mealmaster/recipes/sydsbook.zip
+ 
+</step></directions></recipe></recipeml>

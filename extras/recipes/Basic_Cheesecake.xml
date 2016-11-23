@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Cheesecake</title>
+      <categories>
+        <cat>Pie</cat></categories>
+      <yield>10</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Graham cracker crumbs</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margerine; melted</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>packages</unit></amt>
+        <item>(8-oz) cream cheese; softened</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Vanilla</item></ing></ingredients>
+    <directions>
+      <step>  From: arielle@taronga.com (Stephanie da Silva)
+  
+  Date: Wed, 4 Aug 93 22:29:33 CDT
+  Heat oven to 350F.  For Crust: Mix crumbs, 3 tbsp. sugar, and butter. Press
+  onto bottom of 9-inch springform pan.  Bake 10 minutes
+  
+  For Filling: Beat cream cheese, sugar, and flour at medium speed with mixer
+  until well blended.  Add eggs, one at a time, mixing well after each
+  addition. Blend in sour cream and vanilla. Pour over prepared crust. Bake 1
+  hour and 10 minutes. Turn off oven and prop door open and let cheesecake
+  sit in oven until oven has cooled. Lossen cake from rim of pan. Can be
+  topped with fruits or whipped cream as desired. (I think it tastes best
+  when refrigerated over night.)
+  
+  REC.FOOD.RECIPES ARCHIVES
+  
+  /DESSERTS
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

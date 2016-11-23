@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bearly Good Popcorn</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>cups</unit></amt>
+        <item>Popcorn</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Peanuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/3</qty>
+          <unit>cups</unit></amt>
+        <item>Honey</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Maple syrup</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Butter or margarine</item></ing></ingredients>
+    <directions>
+      <step>  1. Place popped corn and peanuts in a 13 x 9 x 2-inch baking pan. Stir to
+  mix, then set aside to use later.
+  
+  2. Place honey and maple syrup in a small saucepan. Turn stove on to
+  medium- high heat. Bring honey and syrup to a boil. Be careful, mixture
+  will be very hot. Boil for 5 minutes, stirring every 2 minutes. Remove
+  saucepan from heat.
+  
+  3. Stir in butter or margarine until melted. Pour over popped corn and
+  peanuts. Use two forks and toss mixture until all of the popped corn and
+  peanuts are covered with the honey mixture. Try to keep the honey mixture
+  on the popped corn and don't let it settle on bottom of pan.
+  
+  4. After the snack cools, break pieces apart.
+  
+  Posted to brand-name-recipes by Mapiggy &lt;Mapiggy@aol.com&gt; on Mar 29, 1998
+ 
+</step></directions></recipe></recipeml>

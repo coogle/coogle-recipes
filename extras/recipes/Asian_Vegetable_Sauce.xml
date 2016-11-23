@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asian Vegetable Sauce</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Sauces</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sesame oil or chili oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Cloves garlic, minced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Grated fresh ginger root</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Coy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Orange juice</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Rice or white vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Sherry, sake or mirin</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Snow peas, ends trimmed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>pounds</unit></amt>
+        <item>Fresh mushrooms, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Carrots, peeled and thinly sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pound</unit></amt>
+        <item>Soba noodles, fettuccini or ravioli, cooked according to package</item></ing></ingredients>
+    <directions>
+      <step>  This deep mahogany sauce with snow peas, mushrooms and carrots turns soba
+  noodles, fettuccini or ravioli into a delicious Asian pasta primavera.
+  Combine oil, garlic, and ginger root in 2 quart microwave safe casserole.
+  Microwave, uncovered, on high for 45 seconds. Combine cornstarch with soy
+  sauce in small bowl and stir until smooth. Add soy sauce mixture to garlic
+  ginger, along with orange juice, vinegar and sherry. Mix well. Microwave,
+  uncovered, on high until boiling and slightly thickened, 2-3 minutes,
+  stirring after 1 minutes. Stir after cooking until sauce is smooth. Add
+  snow peas, mushrooms and carrots. cover tightly with lid, or plastic wrap
+  turned back slightly on one side. MIcrowave on high until vegetables are
+  tender crisp, 33-4 minutes, stirring once. Serve over ot cooked noodles or
+  ravioli.
+ 
+</step></directions></recipe></recipeml>

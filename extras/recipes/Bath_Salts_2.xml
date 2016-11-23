@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bath Salts</title>
+      <categories>
+        <cat>Gifts</cat>
+        <cat>Personal</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Epsom salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Baking soda</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Borax</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>drops</unit></amt>
+        <item>Food coloring</item></ing>
+      <ing>
+        <amt>
+          <qty>40</qty>
+          <unit>drops</unit></amt>
+        <item>Scented oil</item></ing></ingredients>
+    <directions>
+      <step>  mix together and put in a pretty bottle Submitted By
+  ARLENES@HOLLY.COLOSTATE.EDU  On
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

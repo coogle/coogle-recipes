@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Andouille</title>
+      <categories>
+        <cat>Basics</cat>
+        <cat>Sausage</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>5</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork butt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Pork fat</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cracked black pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cayenne pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Dried thyme</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>6</qty>
+          <unit/></amt>
+        <item>Feet beef middle casing</item></ing></ingredients>
+    <directions>
+      <step>  Cube pork butt into one and a half inch cubes. Using a meat grinder with
+  four one quarter inch holes in the grinding plate, grind pork and pork fat.
+  If you do not have a grinding plate this size, I suggest hand cutting pork
+  butt into one quarter inch square pieces. Place ground pork in large mixing
+  bowl and blend in all remaining ingredients. Once well blended, stuff meat
+  into casings in one foot links, using the sausage attachement on your meat
+  grinder. Tie both ends of the sausage securely using a heavy gauge twine.
+  In your homestyle smoker, smoke andouille at 175-200 degrees F for
+  approximately four to five hours using pecan or hickory wood. The andouille
+  may then be frozen and used for seasoning gumbos, white or red beans,
+  pastas or grilling as an hors d'oeuvre.
+  
+  Recipe by: Chef John Folse Posted to MC-Recipe Digest V1 #614 by Walt Gray
+  &lt;waltgray@mnsinc.com&gt; on May 18, 1997
+ 
+</step></directions></recipe></recipeml>

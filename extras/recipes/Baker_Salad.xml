@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baker Salad</title>
+      <categories>
+        <cat>Favorites</cat>
+        <cat>Fruits</cat></categories>
+      <yield>9</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Strawberry gelatin powder; large</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>packages</unit></amt>
+        <item>Frozen strawberries in juice; thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Nonfat sour cream; See note.</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Bananas; mashed</item></ing>
+      <ing>
+        <amt>
+          <qty>15</qty>
+          <unit>ounces</unit></amt>
+        <item>Pineapple; crushed</item></ing></ingredients>
+    <directions>
+      <step>  Dissolve jello in 1 C. boiling water.  Add all fruit (undrained).  Mix
+  well. Pour half of mixture into 8" square pan. Leave remaining jello at
+  room temperature. Chill refrigerated jello about 1 hour or till firmly set.
+  Spread sour cream over mixture.  Pour remaining jello over top.  Chill till
+  completely set.
+  
+  * Breakstone's  is the best nonfat yoghurt for this.
+  
+  Recipe By     : Baker family in NY, 1969
+  
+  Posted to Digest eat-lf.v096.n163
+  
+  Date: Mon, 23 Sep 1996 08:18:22 -0400
+  
+  From: Grace Wagner &lt;wgmm@main.citynet.net&gt;
+ 
+</step></directions></recipe></recipeml>

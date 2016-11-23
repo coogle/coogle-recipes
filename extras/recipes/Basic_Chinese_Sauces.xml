@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basic Chinese Sauces</title>
+      <categories>
+        <cat>Chinese</cat>
+        <cat>Sauces</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cornstarch</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Soy sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Sesame oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Oyster sauce</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Chili paste</item></ing></ingredients>
+    <directions>
+      <step>  Combine all ingredients in a small bowl and mix well. Stir-fry your
+  meat first and set aside; then stir-fry your vegetables, return meat
+  to wok or skillet with the sauce mixture. This recipe would be for
+  using 1 lb of meat, but I like to double this recipe as we like a lot
+  of sauce.
+  Posted to MM-Recipes Digest V3 #225
+  
+  Date: Mon, 19 Aug 1996 09:54:48 -0400
+  
+  From: "S. Schamber" &lt;dansch@haven.ios.com&gt;
+ 
+</step></directions></recipe></recipeml>

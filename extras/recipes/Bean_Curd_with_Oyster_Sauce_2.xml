@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bean Curd with Oyster Sauce</title>
+      <categories>
+        <cat>Chinese</cat></categories>
+      <yield>4</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Soy bean curd (canned or</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Fresh)</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit/></amt>
+        <item>Green onions</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Minced garlic</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Peanut oil</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Chicken stock</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>pinch</unit></amt>
+        <item>Sugar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Premium oyster sauce</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cornstarch paste</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Peanut oil</item></ing></ingredients>
+    <directions>
+      <step>  Slice bean curd into 1/4" cubes; sliver green onions.
+  In hot wok, heat oil just to point of smoking.  Add
+  bean curd, green onions and garlic. Stir gently to
+  avoid breaking up curd; turn pieces to coat with oil.
+  Be sure oil is not too hot or curd will tend to stick
+  to pan.
+  
+  When aroma of garlic is apparent, add stock and bring
+  to boil. Lower heat, cover, and simmer for about 30
+  seconds (don't let curd fall apart). Remove cover;
+  stir in oyster sauce and sugar. Increase heat, and
+  when liquid boils again, add enough cornstarch paste
+  to make a creamy (but not too thick) sauce. Swirl in
+  peanut oil to make a glaze. Serve over rice or in a
+  shallow serving bowl.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

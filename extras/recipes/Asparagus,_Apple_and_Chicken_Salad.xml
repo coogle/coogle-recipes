@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asparagus, Apple and Chicken Salad</title>
+      <categories>
+        <cat>Apples</cat>
+        <cat>Asparagus</cat>
+        <cat>Chicken</cat>
+        <cat>Salads - ma</cat></categories>
+      <yield>3</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fresh asparagus; in 1" pieces</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Cider vinegar</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>tablespoons</unit></amt>
+        <item>Vegetable oil</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Minced fresh parsley</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Pepper</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Cubed cooked chicken</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diced red apple</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Torn mixed greens</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Alfalfa sprouts; optional</item></ing></ingredients>
+    <directions>
+      <step>  Cook asparagus in a small amount of water until crisp-tender, about 3-4
+  minutes; drain and cool. In a bowl, combine the next six ingredients. stir
+  in the chicken, apple and asparagus; toss. Serve over greens. Garnish with
+  alfalfa sprouts, if desired. Yield: 3 servings. Submitted by Horsburgh,
+  Everett, Ontario MC formatting by bobbi744@sojourn.com
+  
+  Recipe by: Taste of Home Magazine, April/May '97, p. 26
+  
+  Posted to MC-Recipe Digest V1 #822 by Roberta Banghart
+  &lt;bobbi744@sojourn.com&gt; on Oct 01, 1997
+ 
+</step></directions></recipe></recipeml>

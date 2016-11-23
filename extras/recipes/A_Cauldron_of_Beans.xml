@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>A Cauldron of Beans</title>
+      <categories>
+        <cat>Beans</cat>
+        <cat>Main dish</cat></categories>
+      <yield>6</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Zucchini, finely diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>medium</unit></amt>
+        <item>Carrot, finely diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Potato, finely diced</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Water</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cans</unit></amt>
+        <item>Black beans fifteen ounce</item></ing>
+      <ing>
+        <amt>
+          <qty>3</qty>
+          <unit/></amt>
+        <item>Tofu dogs, sliced</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Catsup</item></ing></ingredients>
+    <directions>
+      <step>  In a soup pot, cook zucchini, carrot, and potato in water over medium high
+  for 10 minutes or until vegetables are soft. Add beans, tofu dogs, and
+  catsup and cook for 15 minutes or until thouroughly heated. Per serving:
+  254 calories(11% from fat). 15g protein, 3g fat, 43g carbohydrate, 246 mg
+  sodium, 12g fiber.
+  
+  We've made this several times now and it is very tasty. A nice cold winter
+  evening recipe.
+  
+  From Veggie Life November 1995. Submitted By SANDRA HOFFMAN
+  &lt;GHIDRA@INFOWEB.MAGI.COM&gt; On SAT, 18 NOV 1995 195846 -0500 (EST)
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

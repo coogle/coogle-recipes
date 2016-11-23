@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Delight</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>cups</unit></amt>
+        <item>Peeled; sliced, Delicious apples, (Golden if available)</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Cinnamon</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Chopped walnuts</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Diet margarine</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>packages</unit></amt>
+        <item>Equal</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Diet whipped topping</item></ing></ingredients>
+    <directions>
+      <step>  Source: The Free and Equal Sweet Tooth Cookook
+  
+  Place apples in bottom of greased baking dish. In a mixing bowl, combine
+  flour and spices. Cut in margarine until crumbly. Add walnuts. Bake for 30
+  to 40 minutes at 375 degrees. Remove from oven. Sprinkle Equal on top.
+  Serve with whipped topping.
+  
+  Posted to EAT-L Digest  by TraceyDJ &lt;TraceyDJ@AOL.COM&gt; on Apr 13, 1998
+ 
+</step></directions></recipe></recipeml>

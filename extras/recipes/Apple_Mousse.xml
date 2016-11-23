@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Mousse</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>cups</unit></amt>
+        <item>Apple juice</item></ing>
+      <ing>
+        <amt>
+          <qty>7</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Agar-agar flakes</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>tablespoon</unit></amt>
+        <item>Tahini</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Cinnamon; to garnish</item></ing></ingredients>
+    <directions>
+      <step>  And ... I don't have this book but it is apparently one of the bibles on
+  the macro subject: THE SELF-HEALING COOKBOOK, by Kristina Turner, 1987
+  Earthtones Press.
+  
+  Serves 4 to 6: Bring juice and agar to a boil and simmer until agar
+  dissolves. Pour into a shallow glass dish and refrigerate until sent.
+  Blend/whip with tahini and spoon into individual parfait glasses. Garnish
+  with dusting of cinnamon.
+  
+  SOURCE: DIET FOR ALL SEASONS, by Elson M. Haas (Paperback - ISBN 0890877327
+  ~ Celestial Arts - 1995). He does not mention that this particular recipe
+  comes from the Turner book but the Turner book is in the "recommended
+  reading" list.
+  
+  Posted to MC-Recipe Digest by KitPATh &lt;phannema@wizard.ucr.edu&gt; on Apr 15,
+  1998
+ 
+</step></directions></recipe></recipeml>

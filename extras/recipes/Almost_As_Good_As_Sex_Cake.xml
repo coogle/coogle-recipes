@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Almost As Good As Sex Cake</title>
+      <categories>
+        <cat>Fruits</cat>
+        <cat>Nuts</cat>
+        <cat>Cakes</cat></categories>
+      <yield>16</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>package</unit></amt>
+        <item>Yellow cake mix</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>can</unit></amt>
+        <item>Sweetened condensed milk</item></ing>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen strawberry halves; in syrup, thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>19</qty>
+          <unit>ounces</unit></amt>
+        <item>Strawberry ice cream topping</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Whipped topping</item></ing>
+      <ing>
+        <amt>
+          <qty>3/4</qty>
+          <unit>cups</unit></amt>
+        <item>Cocktail salted peanuts</item></ing></ingredients>
+    <directions>
+      <step>  Prepare cake mix according to package instructions.
+  Bake in 9x13" pan and cool. Poke holes in cake with
+  the handle of a wooden spoon. Pour condensed milk
+  evenly over cake and into holes. Combine thawed
+  strawberries and ice cream topping syrup and mix well.
+  Spoon evenly over cake and into holes. Spread whipped
+  topping over the top. Chop peanuts and sprinkle on top
+  of whipped topping. Chill before serving.
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

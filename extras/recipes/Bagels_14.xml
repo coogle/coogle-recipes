@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Bagels</title>
+      <categories>
+        <cat>Breads</cat></categories>
+      <yield>8</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>DOUGH</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Yeast</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cups</unit></amt>
+          <item>Bread flour</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cups</unit></amt>
+          <item>Water</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Barley malt syrup</item></ing></ing-div>
+      <ing-div>
+        <title>TOPPINGS</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Poppy seeds, sesame seeds, kosher salt, minced onion</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From "The Best Bread Machine Cookbook Ever", by Madge Rosenberg 1. Add all
+  ingredients for the dough except the barley malt syrup in the order
+  suggested by your bread machine manual and process on the dough cycle
+  according to the manufacturer's directions.
+  
+  2.  at the end of the dough cycle, remove the dough from the machine.
+  Preheat the oven to 375 degrees.  In a large pot bring 2 quarts of water to
+  a boil.
+  
+  3.  While the water comes to a boil, divide the dough into 8 pieces. Roll
+  each piece into a roll 12 inches long. Make a circle of each piece,
+  overlapping the ends by at least an inch and pressing or rolling the
+  overlap tightly to seal.  Let the bagels rise for only 5 minutes.
+  
+  4.  Add the malt syrup to the boiling water. (The syrup gives the bagels
+  their golden color.)  Lower a few bagels at a time into the boiling water.
+  As soon as the bagels rise to the top, remove with a skimmer or spatula to
+  a lightly greased baking sheet. Sprinkle about 3/4 tsp. of any of the
+  toppings over each bagel and bake 20 minutes, or until golden.
+  
+  From: Dan Ceppa
+ 
+</step></directions></recipe></recipeml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amaretto Fruit Dip</title>
+      <categories>
+        <cat>Desserts</cat>
+        <cat>Fruits</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>small</unit></amt>
+        <item>Vanilla pudding</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Milk</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Cool whip</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Sour cream</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>cups</unit></amt>
+        <item>Ammaretto</item></ing></ingredients>
+    <directions>
+      <step>  You can use instant or cooked pudding. If using cooked pudding, mix pudding
+  mix with milk and cook over med heat until thickened. Cool. If using
+  instant-mix pudding with milk and add the rest of the ingredients. You can
+  use up to 1/3 c of ammaretto if desired. Serve with your favorite fruits. I
+  use strawberries, cantaloupe, bananas, pineapple, grapes, peaches, apples,
+  just about anything!
+  
+  Posted to EAT-L Digest 25 Sep 96
+  
+  Date:    Wed, 25 Sep 1996 16:37:41 -0500
+  
+  From:    LD Goss &lt;ldgoss@METRONET.COM&gt;
+ 
+</step></directions></recipe></recipeml>

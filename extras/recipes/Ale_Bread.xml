@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ale Bread</title>
+      <categories>
+        <cat>Breads</cat>
+        <cat>Medieval</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Flour</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Baking powder</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>dash</unit></amt>
+        <item>Salt</item></ing>
+      <ing>
+        <amt>
+          <qty>12</qty>
+          <unit>ounces</unit></amt>
+        <item>Ale</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Scallion; handful, chopped</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Cheese; handful, grated</item></ing></ingredients>
+    <directions>
+      <step>  Stir flour, salt, and baking powder together.  Add beer. Stir in green
+  onions and cheese, if desired. Knead dough briefly, adding more flour if
+  sticky. Shape into a round loaf and place in a greased pie pan or on a
+  greased cookie sheet.  Bake at 375 F. for 30 minutes, until golden brown or
+  until loaf sounds hollow when tapped.
+  
+                                George Stojcevic
+                                (Lord Pyotr, Barony of Bryn Gwlad) Submitted
+  By SAM WARING &lt;SAM.WARING@382-91-12.IMA.INFOMAIL.COM&gt; On WED, 01 NOV 1995
+   111954    GMT
+  
+  From Gemini's MASSIVE MealMaster collection at www.synapse.com/~gemini
+ 
+</step></directions></recipe></recipeml>

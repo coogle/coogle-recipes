@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Babka (Yeast Cake)</title>
+      <categories>
+        <cat>Bread</cat></categories>
+      <yield>20</yield></head>
+    <ingredients>
+      <ing-div>
+        <title>TOPPING</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cups</unit></amt>
+          <item>Flour</item></ing></ing-div>
+      <ing-div>
+        <title>BREAD</title>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit/></amt>
+          <item>Yeast cakes</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Warm water</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pounds</unit></amt>
+          <item>Margarine</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>White raisins</item></ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>cups</unit></amt>
+          <item>Flour (stir before measuring)</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Milk</item></ing>
+        <ing>
+          <amt>
+            <qty>9</qty>
+            <unit/></amt>
+          <item>Egg yolks</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit></amt>
+          <item>Sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Salt</item></ing>
+        <ing>
+          <amt>
+            <qty/>
+            <unit/></amt>
+          <item>COTTAGE CHEESE FILLING FOR</item></ing></ing-div>
+      <ing-div>
+        <title>BABKA</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit/></amt>
+          <item>Egg; slightly beaten</item></ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cups</unit></amt>
+          <item>Cottage cheese</item></ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tablespoons</unit></amt>
+          <item>Granulated sugar</item></ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoons</unit></amt>
+          <item>Vanilla</item></ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit></amt>
+          <item>Grated lemon rind</item></ing></ing-div></ingredients>
+    <directions>
+      <step>  From: dianew@sdsc.edu (Diane M. Wojewocki)
+  
+  Date: Thu, 24 Feb 94 11:11:26 PST
+  This recipe came from a small book simply called "Polish Cook Book" written
+  by the children of Anna Dziengiel Pieklo and dedicated to her.  I have made
+  it and it is absolutely delicious. Having grown up in a VERY Polish family,
+  this is the closest recipe I've found to the Babka I grew up on!
+  
+  TOPPING:  Melt 2 tbs. margarine in a pan.  Remove from heat and add 2 tbs.
+  sugar and 1/4 cup flour.  Stir with a spoon to combine, then work with your
+  fingers until you achieve a crumb topping.  Set aside.
+  
+  Break up yeast in a bowl and mix in 1 tbs. sugar.  Combine well until it
+  liquefies.  Stir in water.  Set aside.  Combine margarine with milk and
+  heat to scald. Cool to lukewarm.
+  
+  Use a large bowl to beat egg yolks with sugar and then add the milk
+  mixture. Stir in the salt, raisins and yeast. Add the flour all at once.
+  Beat with a wooden spoon until smooth. Add additional 1 1/4 to 1 1/2 cups
+  of flour and mix it in well with your hand. Knead on a lightly floured
+  surface about 10 minutes.
+  
+  Round up the dough in a greased bowl, turn greased side up.  Cover with
+  damp towel and let rise in a warm area approximately 2 1/2 hrs. (bulk will
+  double.) Punch down and let rise 1 1/2 hrs. or until double. Grease 10"
+  tube pan. Punch down dough and place it in tube pan, cover, and let rise
+  for an hour or until double. Brush top with 1 egg yolk beaten with 2 tsp.
+  water.
+  
+  Distribute crumb topping lightly and bake at 300 degrees for 1 1/2 hrs.
+  Cool in pan 10 minutes.
+  
+  COTTAGE CHEESE FILLING FOR BABKA: Combine all ingredients.  When Babka
+  dough has been punched down after the second rising, spread or roll dough
+  into rectangle. Spoon filling along center of dough. Fold dough over
+  filling making ends meet. Place in pan and bake according to Babka
+  directions. Filling should be at room temperature. Fills one Babka.
+  
+  REC.FOOD.RECIPES
+  
+  From rec.food.cooking archives.  Downloaded from Glen's MM Recipe Archive,
+  http://www.erols.com/hosey.
+ 
+</step></directions></recipe></recipeml>

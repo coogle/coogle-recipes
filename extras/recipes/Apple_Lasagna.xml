@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Apple Lasagna</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Lasagna noodles, precooked until al dente (OR "no bake noodles soaked in hot water for a few minutes until pliable)</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit/></amt>
+        <item>Baking apples, cored, peeled and sliced thinly</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>teaspoon</unit></amt>
+        <item>Cinnamon (or so, depending on your taste)</item></ing>
+      <ing>
+        <amt>
+          <qty/>
+          <unit/></amt>
+        <item>Nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Brown sugar plus some for "sprinkling"</item></ing>
+      <ing>
+        <amt>
+          <qty>2</qty>
+          <unit>cups</unit></amt>
+        <item>Ff ricotta or cottage cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit>ounces</unit></amt>
+        <item>Shredded ff cheddar cheese</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit/></amt>
+        <item>Egg white (can be omitted if desired)</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Good apple cider</item></ing></ingredients>
+    <directions>
+      <step>  Place 1/3 of the apples in the bottom of a deep square baking dish (glass).
+  Sprinkle with some cinnamon and brown sugar.  Place 1/3 of the pre-cooked
+  noodles on top.
+  
+  Mix the cheeses and egg white with the 1/2 cup brown sugar and some
+  cinnamon and nutmeg. Spread 1/2 on top of the noodles, then top with more
+  apples and another layer of noodles.
+  
+  Repeat apple/cheese/noodles until you use them all up.  Top layer should be
+  noodles with a few apple slices for garnish.  Sprinkle with some cinnamon.
+  Pour apple cider over lasagna.
+  
+  Cover with wax paper or plastic wrap and microwave on HIGH for 10-15
+  minutes or until noodles are tender. Allow to sit to absorb moisture.
+  
+  ALternately, I guess this can be baked in the oven (350 for 1/2 hour or so,
+  covered with foil).
+  
+  Posted to fatfree digest V96 #300
+  
+  Date: Thu, 24 Oct 1996 09:16:51 -0400
+  
+  From: lrasmuss@PICA.ARMY.MIL
+ 
+</step></directions></recipe></recipeml>

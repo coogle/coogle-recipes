@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baked Eggs with Ham and Spinach</title>
+      <categories>
+        <cat>None</cat></categories>
+      <yield>1</yield></head>
+    <ingredients>
+      <ing>
+        <amt>
+          <qty>10</qty>
+          <unit>ounces</unit></amt>
+        <item>Frozen chopped spinach; thawed</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>pounds</unit></amt>
+        <item>Sliced cooked ham</item></ing>
+      <ing>
+        <amt>
+          <qty>1/2</qty>
+          <unit>cups</unit></amt>
+        <item>Evaporated skim milk</item></ing>
+      <ing>
+        <amt>
+          <qty>1/4</qty>
+          <unit>teaspoons</unit></amt>
+        <item>Grated nutmeg</item></ing>
+      <ing>
+        <amt>
+          <qty>8</qty>
+          <unit/></amt>
+        <item>Eggs</item></ing>
+      <ing>
+        <amt>
+          <qty>1</qty>
+          <unit>cup</unit></amt>
+        <item>Fat-free Swiss cheese; grated</item></ing>
+      <ing>
+        <amt>
+          <qty>4</qty>
+          <unit>slices</unit></amt>
+        <item>Pumpernickel rye bread; toasted</item></ing></ingredients>
+    <directions>
+      <step>  Prep: 5 min, Cook: 15 min.
+  
+  Preheat oven to 325øF. Place spinach in a sieve and press to squeeze out as
+  much water as possible. Place ham in bottom of 4 lightly buttered shallow
+  ramekins or individual gratin dishes. Spread spinach over ham. Drizzle each
+  dish with 1 Tbs. milk. Season with nutmeg and salt and pepper to taste.
+  Carefully break 2 eggs into each dish. Drizzle with remaining milk and
+  sprinkle with cheese. Bake 12-15 minutes, until whites are just set and
+  cheese is melted. Serve over toast
+  
+  Posted to recipelu-digest by molony &lt;molony@scsn.net&gt; on Mar 02, 1998
+ 
+</step></directions></recipe></recipeml>
