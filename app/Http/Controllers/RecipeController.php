@@ -248,7 +248,7 @@ class RecipeController extends Controller
     
     public function export()
     {
-        $exportFileName = 'cooglerecipe-export-' . Carbon::now()->format('mmddyy') . '-' . uniqid() . '.xml';
+        $exportFileName = 'cooglerecipe-export-' . Carbon::now()->format('m-d-Y') . '-' . uniqid() . '.xml';
         
         $headers = [
             'Content-Type' => 'text/xml',

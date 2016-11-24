@@ -35,6 +35,6 @@ return [
         'secret' => env('STRIPE_SECRET'),
     ],
     'google' => [
-        'service_account' => json_decode(config_path() . env('GOOGLE_SERVICE_ACCT_CREDS_FILE'), true)
+        'service_account' => json_decode(file_get_contents(config_path() . '/' . env('GOOGLE_SERVICE_ACCT_CREDS_FILE')), true)
     ]
 ];

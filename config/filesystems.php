@@ -29,6 +29,11 @@ return [
     */
 
     'cloud' => 'googledrive',
+    
+    /*
+     * The storage location where backups will be stored
+     */
+    'backup' => 'googledrive-backup',
 
     /*
     |--------------------------------------------------------------------------
@@ -61,9 +66,10 @@ return [
             'region' => 'your-region',
             'bucket' => 'your-bucket',
         ],
-        'googledrive' => [
-            'account' => env("GOOGLE_DRIVE_ACCOUNT"),
-            'folder_id' => 'root'
+        'googledrive-backup' => [
+            'driver' => 'googledrive',
+            'account' => env("GOOGLE_DRIVE_ACCT"),
+            'folder_id' => env("GOOGLE_DRIVE_BACKUP_FOLDER")
         ]
     ],
 

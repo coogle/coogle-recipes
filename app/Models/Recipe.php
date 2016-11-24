@@ -24,41 +24,44 @@ class Recipe extends \Eloquent
     
     static public function exportAll($uri = null)
     {
-        $recipes = static::all();
-        
-        $recipeExporter = new Exporter();
-        
-        if(is_null($uri)) {
-            $exportUri = tmpnam(storage_path(), "export_");
-        } else {
-            $exportUri = $uri;
-        }
-        
+        $exportUri = null;
         $writer = null;
         
-        foreach($recipes as $recipe) {
-        
-            $recipeExporter->setTitle($recipe->title);
-        
-            foreach($recipe->ingredients as $ingredient) {
-                $recipeExporter->addIngredient($ingredient->quantity, $ingredient->measurement, $ingredient->name);
+        static::chunk(200, function($recipes) use ($uri, &$exportUri, &$writer) {
+            $recipeExporter = new Exporter();
+            
+            if(is_null($uri)) {
+                $exportUri = tmpnam(storage_path(), "export_");
+            } else {
+                $exportUri = $uri;
             }
-        
-            foreach(explode("\n", $recipe->directions) as $direction) {
-                $recipeExporter->addDirection(trim($direction));
+            
+            foreach($recipes as $recipe) {
+            
+                $recipeExporter->setTitle($recipe->title);
+            
+                foreach($recipe->ingredients as $ingredient) {
+                    $recipeExporter->addIngredient($ingredient->quantity, $ingredient->measurement, $ingredient->name);
+                }
+            
+                foreach(explode("\n", $recipe->directions) as $direction) {
+                    $recipeExporter->addDirection(trim($direction));
+                }
+            
+                $writer = $recipeExporter->toRecipeML($writer, $exportUri);
+                $recipeExporter->reset();
+                $writer->flush();
             }
-        
-            $writer = $recipeExporter->toRecipeML($writer, $exportUri);
-            $recipeExporter->reset();
-        }
-        
+            
+        });
+            
         $writer->endElement();
         $writer->endDocument();
-        
+                    
         if(is_null($uri)) {
             return $exportUri;
         } else {
             return true;
         }
-    }
+   }
 }
