@@ -43,7 +43,7 @@ class CreateRecipeTables extends Migration
             $table->integer('servings')->nullable();
             $table->mediumText('info')->nullable();
             $table->mediumText('directions');
-            $table->text('tags')->nullable()->index();
+            $table->text('tags')->nullable();
             $table->timestamps();
             
             $table->foreign('course_id')
@@ -76,6 +76,7 @@ class CreateRecipeTables extends Migration
                   
         });
 
+        DB::statement('CREATE INDEX tags_idx ON recipes (tags(1024));');
     }
 
     /**
