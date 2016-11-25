@@ -122,7 +122,7 @@ class RecipeController extends Controller
         
         $request->session()->flash('flash.success', "Successfully added recipe!");
         
-        return redirect()->route('home');
+        return redirect()->route('recipes.show', ['id' => $recipe->id]);
     }
 
     /**
@@ -164,8 +164,6 @@ class RecipeController extends Controller
     public function update(Request $request, $id)
     {
         $recipe = Recipe::findOrFail($id);
-        
-        
         
         $validationRules = [
             'title' => 'required|max:255',
@@ -232,7 +230,7 @@ class RecipeController extends Controller
         
         $request->session()->flash('flash.success', "Successfully saved recipe!");
         
-        return redirect()->route('home');
+        return redirect()->route('recipes.show', ['id' => $recipe->id]);
     }
 
     /**
