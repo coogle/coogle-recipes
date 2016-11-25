@@ -61,7 +61,7 @@ class RecipeController extends Controller
         ];
         
         $ingredients = $request->input('ingredients');
-
+        
         if(is_array($ingredients)) {
             foreach($ingredients as $key => $val) {
                 $validationRules["ingredients.$key.quantity"] = 'required|fractionVal';
@@ -95,26 +95,28 @@ class RecipeController extends Controller
             $recipe->prep_mins = 0;
         }
         
-        $recipe->save();
-        
-        foreach($ingredients as $ingredient) {
-            $ingredientObj = new Ingredient();
-            $ingredientObj->recipe_id = $recipe->id;
-            $ingredientObj->quantity = $ingredient['quantity'];
-            $ingredientObj->measurement = $ingredient['measurement'];
-            $ingredientObj->preparation = $ingredient['preparation'];
+        \DB::transaction(function() use ($recipe, $ingredients) {
+            $recipe->save();
             
-            $baseIngredientObj = \App\Models\Ingredient::findByString($ingredient['ingredient']);
+            foreach($ingredients as $ingredient) {
+                $ingredientObj = new Ingredient();
+                $ingredientObj->recipe_id = $recipe->id;
+                $ingredientObj->quantity = $ingredient['quantity'];
+                $ingredientObj->measurement = $ingredient['measurement'];
+                $ingredientObj->preparation = $ingredient['preparation'];
             
-            if(!$baseIngredientObj instanceof \App\Models\Ingredient) {
-                $baseIngredientObj = new \App\Models\Ingredient();
-                $baseIngredientObj->name = $ingredient['ingredient'];
-                $baseIngredientObj->save();
+                $baseIngredientObj = \App\Models\Ingredient::findByString($ingredient['ingredient']);
+            
+                if(!$baseIngredientObj instanceof \App\Models\Ingredient) {
+                    $baseIngredientObj = new \App\Models\Ingredient();
+                    $baseIngredientObj->name = $ingredient['ingredient'];
+                    $baseIngredientObj->save();
+                }
+            
+                $ingredientObj->ingredient_id = $baseIngredientObj->id;
+                $ingredientObj->save();
             }
-            
-            $ingredientObj->ingredient_id = $baseIngredientObj->id;
-            $ingredientObj->save();
-        }
+        });
         
         $recipe = Recipe::find($recipe->id);
         
@@ -202,29 +204,31 @@ class RecipeController extends Controller
         $recipe->directions = $request->input('directions');
         $recipe->tags = $request->input('tags');
         
-        $recipe->ingredients()->delete();
-        
-        foreach($request->input('ingredients') as $ingredient) {
-            $ingredientObj = new Ingredient();
-            $ingredientObj->recipe_id = $recipe->id;
-            $ingredientObj->quantity = $ingredient['quantity'];
-            $ingredientObj->measurement = $ingredient['measurement'];
-            $ingredientObj->preparation = $ingredient['preparation'];
+        \DB::transaction(function() use ($recipe, $request) {
+            $recipe->ingredients()->delete();
             
-            $baseIngredientObj = \App\Models\Ingredient::findByString($ingredient['ingredient']);
+            foreach($request->input('ingredients') as $ingredient) {
+                $ingredientObj = new Ingredient();
+                $ingredientObj->recipe_id = $recipe->id;
+                $ingredientObj->quantity = $ingredient['quantity'];
+                $ingredientObj->measurement = $ingredient['measurement'];
+                $ingredientObj->preparation = $ingredient['preparation'];
+            
+                $baseIngredientObj = \App\Models\Ingredient::findByString($ingredient['ingredient']);
             
             
-            if(!$baseIngredientObj instanceof \App\Models\Ingredient) {
-                $baseIngredientObj = new \App\Models\Ingredient();
-                $baseIngredientObj->name = $ingredient['ingredient'];
-                $baseIngredientObj->save();
+                if(!$baseIngredientObj instanceof \App\Models\Ingredient) {
+                    $baseIngredientObj = new \App\Models\Ingredient();
+                    $baseIngredientObj->name = $ingredient['ingredient'];
+                    $baseIngredientObj->save();
+                }
+            
+                $ingredientObj->ingredient_id = $baseIngredientObj->id;
+                $ingredientObj->save();
             }
             
-            $ingredientObj->ingredient_id = $baseIngredientObj->id;
-            $ingredientObj->save();
-        }
-        
-        $recipe->save();
+            $recipe->save();            
+        });
         
         $request->session()->flash('flash.success', "Successfully saved recipe!");
         

@@ -12,11 +12,13 @@ class Ingredient extends \Eloquent
             return static::findOrFail($str);
         }
         
-        return static::where('name', 'LIKE', "%$str%")->limit(1)->first();
+        return static::where(\DB::raw('LOWER(name)'), '=', strtolower($str))->limit(1)->first();
     }
     
     static public function searchByString($str)
     {
-        return static::where('name', 'LIKE', "%$str%")->limit(20)->get();
+        return static::where(\DB::raw('LOWER(name)'), 'LIKE', "%" . strtolower($str) . "%")
+                     ->limit(20)
+                     ->get();
     }
 }
