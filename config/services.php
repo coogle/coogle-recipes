@@ -36,5 +36,9 @@ return [
     ],
     'google' => [
         'service_account' => json_decode(file_get_contents(config_path() . '/' . env('GOOGLE_SERVICE_ACCT_CREDS_FILE')), true)
+    ],
+    'mirror' => [
+        'key' => env('MIRROR_KEY'),
+        'render_endpoint' => env("MIRROR_ENDPOINT")
     ]
 ];

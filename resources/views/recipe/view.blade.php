@@ -46,7 +46,11 @@ $('#unfavoriteBtn').on('click', function(e) {
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="col-md-6">
-                                        <img src="http://placehold.it/200x200" width="200" height="200">
+                                        @if($recipe->hasPhoto())
+                                        <img style="border: thin solid black;" src="{{ route('recipes.photo', ['recipeId' => $recipe->id, 'dia' => '200x200'])}}" width="200" height="200">
+                                        @else
+                                        <img style="border: thin solid black;" src="http://placehold.it/200x200" width="200" height="200">
+                                        @endif
                                     </div>
                                     <h4>About Recipe</h4>
                                     <p>{!! Markdown::convertToHtml($recipe->info) !!}</p>
@@ -83,6 +87,7 @@ $('#unfavoriteBtn').on('click', function(e) {
                                     <a href="#" class="list-group-item text-center" id="favoriteBtn" data-recipe-id="{{ $recipe->id }}">Click here to Favorite Recipe</a>
                                 @endif
                                 <a class="list-group-item" href="{{ route('recipes.edit', ['id' => $recipe->id]) }}"><span class="glyphicon glyphicon-edit"></span> Edit Recipe</a>
+                                <a class="list-group-item" href="{{ route('recipes.mirror', ['id' => $recipe->id]) }}"><span class="glyphicon glyphicon-share"></span> View on Mirror</a>
                                 <a data-method="delete" data-confirm="Are you sure you want to delete this recipe?" class="list-group-item" id="deleteRecipeBtn" href="{{ route('recipes.destroy', ['id' => $recipe->id]) }}"><span class="glyphicon glyphicon-trash"></span> Delete Recipe</a>
                             </div>
                         </div>

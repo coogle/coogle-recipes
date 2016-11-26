@@ -34,6 +34,11 @@ Route::any('recipes/unfavorite/{id}', [
     'uses' => '\App\Http\Controllers\Api\RecipeController@unfavorite'
 ]);
 
+Route::any('recipes/mirror-callback/{id}', [
+    'as' => 'recipes.mirror-callback',
+    'uses' => '\App\Http\Controllers\Api\RecipeController@mirrorCallback'
+])->where('id', '[0-9]+');
+
 
 Route::get('/user', function (Request $request) {
     return $request->user();

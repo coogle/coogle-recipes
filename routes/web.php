@@ -11,6 +11,12 @@
 |
 */
 
+Route::get('/recipes/{recipeId}/photo/{dia}', [
+    'as' => 'recipes.photo',
+    'uses' => '\App\Http\Controllers\RecipeController@photo'
+])->where('recipeId', '[0-9]+')
+  ->where('dia', '[0-9]+x[0-9]+');
+
 Route::group(['middleware' => ['autologin', 'guest']], function($router) {
     Route::get('/', function () {
         return view('welcome');
@@ -26,6 +32,11 @@ Route::group(['middleware' => 'auth'], function($router) {
     $router->get('/home', [
         'as' => 'home',
         'uses' => 'HomeController@index'
+    ]);
+    
+    $router->get('/recipes/mirror/{id}', [
+        'as' => 'recipes.mirror',
+        'uses' => 'RecipeController@mirror'
     ]);
     
     $router->get('/search', [

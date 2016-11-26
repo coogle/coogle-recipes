@@ -195,6 +195,7 @@ $(document).ready(typeaheadInitialize());
                                         <div class="btn btn-default image-preview-input">
                                             <span class="glyphicon glyphicon-folder-open"></span>
                                             <span class="image-preview-input-title">Browse</span>
+                                            <input type="hidden" name="deletePhoto" value="0" id="deletePhotoInput"/>
                                             <input type="file" accept="image/png, image/jpeg, image/gif" name="photo"/> <!-- rename it -->
                                         </div>
                                     </span>

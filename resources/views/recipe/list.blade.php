@@ -12,7 +12,11 @@
                         @forelse($recipes as $recipe)
                         <div class="media">
                             <a class="media-left waves-light">
-                                <img class="rounded-circle" src="http://placehold.it/120x120" width="120" height="120" alt="{{ $recipe->title }}">
+                                @if($recipe->hasPhoto())
+                                <img style="border: thin solid black;" class="rounded-circle" src="{{ route('recipes.photo', ['recipeId' => $recipe->id, 'dia' => '120x120']) }}" width="120" height="120" alt="{{ $recipe->title }}">
+                                @else
+                                <img style="border: thin solid black;" class="rounded-circle" src="http://placehold.it/120x120" width="120" height="120" alt="{{ $recipe->title }}">
+                                @endif
                             </a>
                             <div class="media-body">
                                 <h4 class="media-heading">

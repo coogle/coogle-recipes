@@ -11,6 +11,8 @@ use App\Models\Cusine;
 use App\Models\Recipe\Ingredient;
 use App\Recipe\Exporter;
 use Carbon\Carbon;
+use GuzzleHttp\Client;
+use App\Models\Recipe\Photo;
 
 class RecipeController extends Controller
 {
@@ -174,7 +176,8 @@ class RecipeController extends Controller
             'preptime' => 'sometimes|integer',
             'servings' => 'required|integer',
             'ingredients' => 'required|array',
-            'directions' => 'required|min:5'
+            'directions' => 'required|min:5',
+            'photo' => 'sometimes|image'
         ];
         
         $ingredients = $request->input('ingredients');
@@ -190,6 +193,14 @@ class RecipeController extends Controller
         
         $this->validate($request, $validationRules);
         
+        $photoObj = null;
+        
+        if($request->hasFile('photo') && $request->file('photo')->isValid()) {
+            
+            $photoObj = new Photo();
+            $photoObj->photo_data = file_get_contents($request->file('photo')->getPathname());
+        }
+        
         $recipe->title = $request->input('title');
         $recipe->photo_url = null;
         $recipe->course_id = $request->input('course_id');
@@ -202,7 +213,7 @@ class RecipeController extends Controller
         $recipe->directions = $request->input('directions');
         $recipe->tags = $request->input('tags');
         
-        \DB::transaction(function() use ($recipe, $request) {
+        \DB::transaction(function() use ($recipe, $request, $photoObj) {
             $recipe->ingredients()->delete();
             
             foreach($request->input('ingredients') as $ingredient) {
@@ -225,7 +236,13 @@ class RecipeController extends Controller
                 $ingredientObj->save();
             }
             
-            $recipe->save();            
+            $recipe->save();           
+            
+            if($photoObj instanceof Photo) {
+                $photoObj->recipe_id = $recipe->id;
+            }
+            
+            $photoObj->save();
         });
         
         $request->session()->flash('flash.success', "Successfully saved recipe!");
@@ -264,6 +281,70 @@ class RecipeController extends Controller
             Recipe::exportAll('php://output');
         }, 200, $headers);
         
+    }
+    
+    public function mirror(Request $request, $id)
+    {
+        $mirrorEndpoint = config('services.mirror.render_endpoint');
+        
+        $client = new Client([
+            'timeout' => 10
+        ]);
+        
+        
+        $url = route('recipes.mirror-callback', compact('id'));
+        $url = "http://192.168.1.177/api/recipes/mirror-callback/$id";
+        
+        try {
+            $response = $client->post($mirrorEndpoint, [
+                'form_params' => [
+                    'callback' => $url
+                ],
+                'headers' => [
+                    'X-Authorization' => config('services.mirror.key')
+                ]
+            ]);
+            
+            $responseResult = json_decode($response->getBody(), true);
+            
+            if(!$responseResult['success']) {
+                $request->session()->flash('flash.error', 'Failed to transmit recipe to mirror');
+                
+                return \Redirect::route('recipes.show', compact('id'));
+            }    
+            
+        } catch(\Exception $e) { 
+            $request->session()->flash('flash.error', "There was an error communicating with the mirror");
+            
+            return \Redirect::route('recipes.show', compact('id'));
+        }
+        
+        
+        $request->session()->flash('flash.success', 'Transmitted recipe to mirror');
+        
+        return \Redirect::route('recipes.show', compact('id'));
+                        
+    }
+    
+    public function photo($recipeId, $dia)
+    {
+        $parts = explode('x', $dia);
+        $width = (int)trim($parts[0]);
+        $height = (int)trim($parts[1]);
+        
+        if(($width < 10) && ($height < 10)) { 
+            throw new \Exception("Invalid Request");
+        }
+        
+        $recipe = Recipe::findOrFail($recipeId);
+        
+        $photo = $recipe->getPhotoByResolution($width, $height);
+        
+        if(!$photo instanceof Photo) {
+            throw new \Exception("Could not load photo for resolution");
+        }
+        
+        return response($photo->photo)->header('Content-Type', $photo->mimetype);
     }
     
 }

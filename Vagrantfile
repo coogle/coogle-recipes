@@ -25,7 +25,9 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
       config.vm.network :forwarded_port, guest: 3306,  host: 3306  # mysql
     
       config.vm.network :private_network, ip: localConf['ipAddress']
-    
+
+      config.vm.network :public_network
+
         config.vm.provider :virtualbox do |vb, override|
             
             vb.gui = false

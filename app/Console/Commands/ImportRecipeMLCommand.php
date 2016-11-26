@@ -183,6 +183,8 @@ class ImportRecipeMLCommand extends Command
             case 'clove':
             case 'cloves':
             case 'drop':
+            case 'pieces':
+            case 'piece':
             case 'drops':
                 return 'piece';
             case 'lb':

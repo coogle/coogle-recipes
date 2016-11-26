@@ -39,10 +39,16 @@ class RecipeController extends Controller
     public function search(Request $request)
     {
         $key = $request->input('q');
+        $favOnly = (bool)$request->input('f', false);
         
         $recipes = \App\Models\Recipe::where('title', 'LIKE', "%$key%")
-                                    ->orWhere('tags', 'LIKE', "%$key%")
-                                    ->get();
+                                    ->orWhere('tags', 'LIKE', "%$key%");
+        
+        if($favOnly) {
+            $recipes->where('favorite', '=', true);
+        }
+        
+        $recipes = $recipes->get();
         
         return response()->json($recipes);
     }
@@ -64,5 +70,46 @@ class RecipeController extends Controller
     
         return response()->json(['success' => true]);
     }
-
+    
+    public function mirrorCallback($id)
+    {
+        $sections = [
+            'top_bar',
+            'top_left',
+            'top_center',
+            'top_right',
+            'right_middle',
+            'left_middle',
+            'upper_third',
+            'middle_center',
+            'lower_third',
+            'bottom_bar',
+            'bottom_left',
+            'bottom_center',
+            'bottom_right'
+        ];
+        
+        $retval = [];
+        
+        $recipe = Recipe::find($id);
+        
+        if(!$recipe instanceof Recipe) {
+            
+            return response()->json([
+                'middle_center' => "There was an error locating the requested recipe."
+            ]);
+            
+        } else {
+        
+            foreach($sections as $section) {
+                try {
+                    $retval[$section] = (string)\View::make("recipe.mirror.$section", compact('recipe'))->render();
+                } catch(\Exception $e) {
+                    $retval[$section] ='';
+                }
+            }
+        }
+        
+        return response()->json($retval);
+    }
 }
