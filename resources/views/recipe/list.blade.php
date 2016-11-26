@@ -15,7 +15,12 @@
                                 <img class="rounded-circle" src="http://placehold.it/120x120" width="120" height="120" alt="{{ $recipe->title }}">
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading"><a href="{{ route('recipes.show', ['id' => $recipe->id]) }}">{{ $recipe->title }}</a></h4>
+                                <h4 class="media-heading">
+                                    <a href="{{ route('recipes.show', ['id' => $recipe->id]) }}">{{ $recipe->title }}</a>
+                                    @if($recipe->favorite)
+                                    <span class="glyphicon glyphicon-star"></span>
+                                    @endif 
+                                 </h4>
                                 <p>{{ strip_tags(Markdown::convertToHtml($recipe->info)) }}</p>
                                 <p class="pull-right"><a href="{{ route('recipes.show', ['id' => $recipe->id]) }}" class="btn btn-sm btn-primary">view recipe <span class="glyphicon glyphicon-chevron-right"></span></a></p>
                             </div>

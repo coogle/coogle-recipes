@@ -56,8 +56,8 @@
                         <li><a href="{{ url('/login') }}">Login</a></li>
                         <li><a href="{{ url('/register') }}">Register</a></li>
                     @else
-                        <li><a href="{{ route('recipes.index') }}">List Recipes</a></li>
-                        <li><a href="{{ route('recipes.create') }}">Create Recipe</a></li>
+                        <li><a href="{{ route('recipes.index') }}">List</a></li>
+                        <li><a href="{{ route('recipes.create') }}">Create</a></li>
                         
                         
                         <li class="dropdown">

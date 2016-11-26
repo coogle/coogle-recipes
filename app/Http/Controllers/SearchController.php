@@ -23,6 +23,7 @@ class SearchController extends Controller
         
         $recipes = Recipe::where('title', 'LIKE', "%$q%")
                          ->orWhere('tags', 'LIKE',"%$q%")
+                         ->orderBy('favorite', 'desc')
                          ->paginate(15);
         
         return view('recipe.list', compact('recipes', 'q'));

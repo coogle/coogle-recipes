@@ -25,6 +25,7 @@ class HomeController extends Controller
     public function index()
     {
         $popularRecipes = Recipe::orderBy('views', 'desc')
+                                ->orderBy('favorite', 'desc')
                                 ->limit(5)
                                 ->get();
         

@@ -24,6 +24,16 @@ Route::resource('recipes', '\App\Http\Controllers\Api\RecipeController', [
     'only' => ['index', 'show']
 ]);
 
+Route::any('recipes/favorite/{id}', [
+    'as' => 'recipes.favorite',
+    'uses' => '\App\Http\Controllers\Api\RecipeController@favorite'
+]);
+
+Route::any('recipes/unfavorite/{id}', [
+    'as' => 'recipes.favorite',
+    'uses' => '\App\Http\Controllers\Api\RecipeController@unfavorite'
+]);
+
 
 Route::get('/user', function (Request $request) {
     return $request->user();

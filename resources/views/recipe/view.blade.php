@@ -1,5 +1,38 @@
 @extends('layouts.app')
 
+@section('javascript')
+@parent
+<script>
+
+$('#favoriteBtn').on('click', function(e) {
+	e.preventDefault();
+
+	$.post('/api/recipes/favorite/{{ $recipe->id }}', function(data) {
+		if(!data.success) {
+			alert("Error, couldn't favorite recipe!");
+		}
+	});
+
+	$('#favoriteBtn').hide();
+	$('#unfavoriteBtn').show();
+});
+
+$('#unfavoriteBtn').on('click', function(e) {
+	e.preventDefault();
+
+	$.post('/api/recipes/unfavorite/{{ $recipe->id }}', function(data) {
+		if(!data.success) {
+			alert("Error, couldn't unfavorite recipe!");
+		}
+	});
+
+	$('#favoriteBtn').show();
+	$('#unfavoriteBtn').hide();
+});
+
+</script>
+@stop
+
 @section('content')
 <div class="container">
     <div class="row">
@@ -42,6 +75,13 @@
                                 <li class="list-group-item text-center list-group-item-info">
                                     <strong><span class="glyphicon glyphicon-asterisk"></span> Actions</strong>
                                 </li>
+                                @if($recipe->favorite)
+                                    <a href="#" class="list-group-item text-center" id="unfavoriteBtn" data-recipe-id="{{ $recipe->id }}"><span class="glyphicon glyphicon-star"></span> Favorited Recipe</a>
+                                    <a href="#" class="list-group-item text-center" style="display:none" id="favoriteBtn" data-recipe-id="{{ $recipe->id }}">Click here to Favorite Recipe</a>
+                                @else
+                                    <a href="#" class="list-group-item text-center" style="display:none" id="unfavoriteBtn" data-recipe-id="{{ $recipe->id }}"><span class="glyphicon glyphicon-star-empty"></span> Favorite Recipe</a>
+                                    <a href="#" class="list-group-item text-center" id="favoriteBtn" data-recipe-id="{{ $recipe->id }}">Click here to Favorite Recipe</a>
+                                @endif
                                 <a class="list-group-item" href="{{ route('recipes.edit', ['id' => $recipe->id]) }}"><span class="glyphicon glyphicon-edit"></span> Edit Recipe</a>
                                 <a data-method="delete" data-confirm="Are you sure you want to delete this recipe?" class="list-group-item" id="deleteRecipeBtn" href="{{ route('recipes.destroy', ['id' => $recipe->id]) }}"><span class="glyphicon glyphicon-trash"></span> Delete Recipe</a>
                             </div>

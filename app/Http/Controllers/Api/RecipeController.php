@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Api;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
+use App\Models\Recipe;
 
 class RecipeController extends Controller
 {
@@ -44,6 +45,24 @@ class RecipeController extends Controller
                                     ->get();
         
         return response()->json($recipes);
+    }
+    
+    public function favorite($id)
+    {
+        $recipe = Recipe::findOrFail($id);
+        $recipe->favorite = true;
+        $recipe->save();
+    
+        return response()->json(['success' => true]);
+    }
+    
+    public function unfavorite($id)
+    {
+        $recipe = Recipe::findOrFail($id);
+        $recipe->favorite = false;
+        $recipe->save();
+    
+        return response()->json(['success' => true]);
     }
 
 }
