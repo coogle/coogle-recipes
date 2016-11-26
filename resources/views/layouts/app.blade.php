@@ -66,6 +66,7 @@
                             </a>
 
                             <ul class="dropdown-menu" role="menu">
+                                @if(!\App\User::autologinEnabled())
                                 <li>
                                     <a href="{{ url('/logout') }}"
                                         onclick="event.preventDefault();
@@ -77,6 +78,7 @@
                                         {{ csrf_field() }}
                                     </form>
                                 </li>
+                                @endif
                                 <li><a href="{{ route('recipes.export') }}">Export Recipes</a></li>
                                 <li><a href="{{ route('recipes.import.show') }}">Import Recipes</a></li>
                             </ul>

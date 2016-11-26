@@ -11,8 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::group(['middleware' => ['autologin', 'guest']], function($router) {
+    Route::get('/', function () {
+        return view('welcome');
+    });
 });
 
 Auth::routes();

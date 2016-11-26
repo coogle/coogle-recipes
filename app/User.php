@@ -26,4 +26,10 @@ class User extends Authenticatable
     protected $hidden = [
         'password', 'remember_token',
     ];
+    
+    static public function autologinEnabled()
+    {
+        $autoLogin = config('auth.autologin');
+        return !empty($autoLogin);
+    }
 }
