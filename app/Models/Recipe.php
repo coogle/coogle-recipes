@@ -58,6 +58,7 @@ class Recipe extends \Eloquent
         }
         
         $newPhoto = $largestPhoto->replicate();
+
         $newPhoto->cropTo($width, $height);
         $newPhoto->save();
         

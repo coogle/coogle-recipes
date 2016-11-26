@@ -291,7 +291,6 @@ class RecipeController extends Controller
         
         
         $url = route('recipes.mirror-callback', compact('id'));
-        $url = "http://192.168.1.177/api/recipes/mirror-callback/$id";
         
         try {
             $response = $client->post($mirrorEndpoint, [
