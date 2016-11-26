@@ -22,6 +22,10 @@ class AddPhotoColumn extends Migration
             $table->timestamps();    
         });
         
+        Schema::table('recipes', function(Blueprint $table) {
+            $table->dropColumn('photo_url'); 
+        });
+        
         DB::statement("ALTER TABLE recipe_photos ADD photo MEDIUMBLOB");
     }
 
@@ -33,5 +37,9 @@ class AddPhotoColumn extends Migration
     public function down()
     {
         Schema::drop('recipe_photos');
+        
+        Schema::table('recipes', function(Blueprint $table) {
+            $table->string('photo_url')->nullable();
+        });
     }
 }
