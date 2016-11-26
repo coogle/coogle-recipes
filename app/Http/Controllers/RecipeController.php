@@ -80,7 +80,6 @@ class RecipeController extends Controller
         $recipe->title = $request->input('title');
         $recipe->course_id = $request->input('course_id');
         $recipe->favorite = false;
-        $recipe->photo_url = '';
         $recipe->cusine_id = $request->input('cusine_id');
         $recipe->cook_mins = $request->input('cooktime');
         $recipe->prep_mins = $request->input('preptime');
@@ -202,7 +201,6 @@ class RecipeController extends Controller
         }
         
         $recipe->title = $request->input('title');
-        $recipe->photo_url = null;
         $recipe->course_id = $request->input('course_id');
         $recipe->favorite = false;
         $recipe->cusine_id = $request->input('cusine_id');
