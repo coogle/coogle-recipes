@@ -56,8 +56,18 @@ class Photo extends \Eloquent
     
     public function cropTo($width, $height)
     {
+        if(($width < 10) || ($height < 10)) {
+            throw new \Exception("Cannot resize image to that size.");
+        }
+        
         $cropper = new CropEntropy($this->photo_object);
-        $imagick = $cropper->resizeAndCrop($width, $height);
+        
+        if($width < 400) {
+            $imagick = $cropper->resizeAndCrop(640, 480);
+            $imagick->resizeimage($width, $height, \Imagick::FILTER_CUBIC, 1);
+        } else {
+            $imagick = $cropper->resizeAndCrop($width, $height);
+        }
         
         $imagick->setImageFormat('png');
         
@@ -65,5 +75,6 @@ class Photo extends \Eloquent
         $this->attributes['photo'] = $imagick->getImageBlob();
         $this->attributes['width'] = $imagick->getImageWidth();
         $this->attributes['height'] = $imagick->getImageHeight();
+        
     }
 }
