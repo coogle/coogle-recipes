@@ -62,7 +62,7 @@ class Photo extends \Eloquent
         
         $cropper = new CropEntropy($this->photo_object);
         
-        if($width < 400) {
+        if($width <= 400) {
             $imagick = $cropper->resizeAndCrop(640, 480);
             $imagick->resizeimage($width, $height, \Imagick::FILTER_CUBIC, 1);
         } else {
