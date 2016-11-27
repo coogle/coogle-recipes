@@ -59,7 +59,7 @@ class RecipeController extends Controller
             'servings' => 'required|integer',
             'ingredients' => 'required|array',
             'directions' => 'required|min:5',
-            'photo' => 'sometimes|image|dimensions:min_width=100,min_height=100,max_width=200,max_height=200,ratio=1'
+            'photo' => 'sometimes|image|dimensions:min_width=100,min_height=100'
         ];
         
         $ingredients = $request->input('ingredients');
@@ -176,7 +176,7 @@ class RecipeController extends Controller
             'servings' => 'required|integer',
             'ingredients' => 'required|array',
             'directions' => 'required|min:5',
-            'photo' => 'sometimes|image'
+            'photo' => 'sometimes|image|dimensions:min_width=100,min_height=100'
         ];
         
         $ingredients = $request->input('ingredients');
