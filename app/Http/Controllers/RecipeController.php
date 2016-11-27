@@ -202,7 +202,6 @@ class RecipeController extends Controller
         
         $recipe->title = $request->input('title');
         $recipe->course_id = $request->input('course_id');
-        $recipe->favorite = false;
         $recipe->cusine_id = $request->input('cusine_id');
         $recipe->cook_mins = $request->input('cooktime');
         $recipe->prep_mins = $request->input('preptime');
@@ -238,9 +237,10 @@ class RecipeController extends Controller
             
             if($photoObj instanceof Photo) {
                 $photoObj->recipe_id = $recipe->id;
+                $photoObj->save();
             }
             
-            $photoObj->save();
+   
         });
         
         $request->session()->flash('flash.success', "Successfully saved recipe!");
