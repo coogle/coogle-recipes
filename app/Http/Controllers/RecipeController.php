@@ -325,6 +325,10 @@ class RecipeController extends Controller
     
     public function photo($recipeId, $dia)
     {
+        // This can take awhile on the RPi
+        
+        set_time_limit(360);
+        
         $parts = explode('x', $dia);
         $width = (int)trim($parts[0]);
         $height = (int)trim($parts[1]);
