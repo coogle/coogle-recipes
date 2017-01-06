@@ -29,7 +29,7 @@ Features thus far, or at least last time I updated this README:
 
 Things I'm getting around to:
 
-- TypeAhead integration for ingredients to keep the ingredient list normalized, etc.
+- ~~TypeAhead integration for ingredients to keep the ingredient list normalized, etc.~~
 - More advanced searching (filter by category + query, etc.)
 - Actually building the API to access recipes
 - Integrating coogle/recipe-parser so we can auto-populate new recipes by the URL we found them.
