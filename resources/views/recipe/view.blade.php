@@ -49,7 +49,7 @@ $('#unfavoriteBtn').on('click', function(e) {
                                         @if($recipe->hasPhoto())
                                         <img style="border: thin solid black;" src="{{ route('recipes.photo', ['recipeId' => $recipe->id, 'dia' => '200x200'])}}" width="200" height="200">
                                         @else
-                                        <img style="border: thin solid black;" src="http://placehold.it/200x200" width="200" height="200">
+                                        <img style="border: thin solid black;" src="https://via.placeholder.com/200x200" width="200" height="200">
                                         @endif
                                     </div>
                                     <h4>About Recipe</h4>

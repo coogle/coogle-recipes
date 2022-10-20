@@ -16,7 +16,7 @@
                                 @if($recipe->hasPhoto())
                                     <img class="rounded-circle" style="border: thin solid black;" src="{{ route('recipes.photo', ['recipeId' => $recipe->id, 'dia' => '120x120']) }}" width="120" height="120" alt="{{ $recipe->title }}">
                                 @else
-                                    <img class="rounded-circle" style="border: thin solid black;" src="http://placehold.it/120x120" width="120" height="120" alt="{{ $recipe->title }}">
+                                    <img class="rounded-circle" style="border: thin solid black;" src="https://via.placeholder.com/120x120" width="120" height="120" alt="{{ $recipe->title }}">
                                 @endif
                             </a>
                             <div class="media-body">

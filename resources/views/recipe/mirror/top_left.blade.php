@@ -7,7 +7,7 @@
             @if($recipe->hasPhoto())
             <img src="{{ route('recipes.photo', ['recipeId' => $recipe->id, 'dia' => '400x284']) }}" style="width:400px; height:284;">
             @else
-            <img src="http://placehold.it/400x284" style="width:400px; height:284;">
+            <img src="https://via.placeholder.com/400x284" style="width:400px; height:284;">
             @endif
         </td>
     </tr>
