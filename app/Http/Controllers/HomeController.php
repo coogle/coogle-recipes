@@ -26,7 +26,6 @@ class HomeController extends Controller
     {
         $popularRecipes = Recipe::orderBy('views', 'desc')
                                 ->orderBy('favorite', 'desc')
-                                ->limit(5)
                                 ->get();
         
         return view('home', compact('popularRecipes'));
